@@ -1,0 +1,262 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Chris Smith,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Jalen Hill,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Jake Toolson,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Kolby Lee,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Prince Ali,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Tyger Campbell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Cody Riley,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - TJ Haws,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Alex Barcello,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,1,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Dalton Nixon,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2019-20,2019-11-25,2164480,2,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,BYU,1
+2019-20,2019-11-25,2164480,3,1,1,UCLA,BYU,Bruins,Cougars,4,4,0,0,0,1325,BYU,2386,1186,14,Chris Smith steals the ball from Dalton Nixon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,1
+2019-20,2019-11-25,2164480,4,1,1,UCLA,BYU,Bruins,Cougars,4,4,2,0,2,1668,UCLA,2380,1180,6,Cody Riley makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Chris Smith,0,UCLA,BYU,2
+2019-20,2019-11-25,2164480,5,1,1,UCLA,BYU,Bruins,Cougars,4,4,2,3,-1,1325,BYU,2373,1173,7,Dalton Nixon makes a 3-point jump shot from 24 feet out. Jake Toolson with the assist.,made,FALSE,TRUE,Jump Shot,33.2,27.45,850103,Dalton Nixon,Jake Toolson,0,BYU,UCLA,3
+2019-20,2019-11-25,2164480,6,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,3,2,1668,UCLA,2349,1149,24,Tyger Campbell makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,18.6,28.150000000000006,1134772,Tyger Campbell,NA,0,UCLA,BYU,4
+2019-20,2019-11-25,2164480,7,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,3,2,1325,BYU,2329,1129,20,Jake Toolson misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,21.95,850105,Jake Toolson,NA,0,BYU,BYU,5
+2019-20,2019-11-25,2164480,8,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,3,2,1668,UCLA,2329,1129,0,Chris Smith with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,5
+2019-20,2019-11-25,2164480,9,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,3,2,1668,UCLA,2302,1102,27,Prince Ali misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.4,16.25,884090,Prince Ali,NA,0,UCLA,UCLA,6
+2019-20,2019-11-25,2164480,10,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,3,2,1325,BYU,2302,1102,0,Alex Barcello with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,6
+2019-20,2019-11-25,2164480,11,1,1,UCLA,BYU,Bruins,Cougars,4,4,5,5,0,1325,BYU,2282,1082,20,Alex Barcello makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1061509,Alex Barcello,NA,0,BYU,UCLA,7
+2019-20,2019-11-25,2164480,12,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,5,2,1668,UCLA,2261,1061,21,Tyger Campbell makes a jump shot from 20 feet out. Jalen Hill with the assist.,made,FALSE,FALSE,Jump Shot,9.600000000000001,17.450000000000003,1134772,Tyger Campbell,Jalen Hill,0,UCLA,BYU,8
+2019-20,2019-11-25,2164480,13,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1325,BYU,2249,1049,12,Kolby Lee makes a layup. TJ Haws with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1134994,Kolby Lee,TJ Haws,0,BYU,UCLA,9
+2019-20,2019-11-25,2164480,14,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1668,UCLA,2218,1018,31,Tyger Campbell misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,10.600000000000001,17.549999999999997,1134772,Tyger Campbell,NA,0,UCLA,UCLA,10
+2019-20,2019-11-25,2164480,15,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1325,BYU,2218,1018,0,Dalton Nixon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,10
+2019-20,2019-11-25,2164480,16,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1668,UCLA,2217,1017,1,Personal foul committed by Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,11
+2019-20,2019-11-25,2164480,17,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1325,BYU,2196,996,21,Alex Barcello misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5.699999999999999,19.45,1061509,Alex Barcello,NA,0,BYU,BYU,11
+2019-20,2019-11-25,2164480,18,1,1,UCLA,BYU,Bruins,Cougars,4,4,7,7,0,1668,UCLA,2196,996,0,Prince Ali with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,11
+2019-20,2019-11-25,2164480,19,1,1,UCLA,BYU,Bruins,Cougars,4,4,9,7,2,1668,UCLA,2182,982,14,Cody Riley makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Chris Smith,0,UCLA,BYU,12
+2019-20,2019-11-25,2164480,20,1,1,UCLA,BYU,Bruins,Cougars,4,4,9,9,0,1325,BYU,2158,958,24,Jake Toolson makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,29.8,8.35,850105,Jake Toolson,NA,0,BYU,UCLA,13
+2019-20,2019-11-25,2164480,21,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1668,UCLA,2140,940,18,Jalen Hill makes a layup. Tyger Campbell with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1061559,Jalen Hill,Tyger Campbell,0,UCLA,BYU,14
+2019-20,2019-11-25,2164480,22,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1668,UCLA,2138,938,2,Personal foul committed by Prince Ali.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,15
+2019-20,2019-11-25,2164480,23,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,NA,NA,2138,938,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,24,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1325,BYU,2116,916,22,Prince Ali steals the ball from Jake Toolson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,15
+2019-20,2019-11-25,2164480,25,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1325,BYU,2107,907,9,Personal foul committed by TJ Haws.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,16
+2019-20,2019-11-25,2164480,26,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1668,UCLA,2100,900,7,Chris Smith misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1061552,Chris Smith,NA,0,UCLA,UCLA,16
+2019-20,2019-11-25,2164480,27,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,9,2,1325,BYU,2100,900,0,Connor Harding with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,16
+2019-20,2019-11-25,2164480,28,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,11,0,1325,BYU,2083,883,17,Kolby Lee makes a layup. Alex Barcello with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1134994,Kolby Lee,Alex Barcello,0,BYU,UCLA,17
+2019-20,2019-11-25,2164480,29,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,11,0,1668,UCLA,2070,870,13,Offensive foul committed by Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2019-20,2019-11-25,2164480,30,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,11,0,1668,UCLA,2070,870,0,Chris Smith with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,18
+2019-20,2019-11-25,2164480,31,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,11,0,1668,UCLA,2064,864,6,Personal foul committed by Shareef O'Neal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,19
+2019-20,2019-11-25,2164480,32,1,1,UCLA,BYU,Bruins,Cougars,4,4,11,14,-3,1325,BYU,2050,850,14,Jake Toolson makes a 3-point jump shot from 24 feet out. Dalton Nixon with the assist.,made,FALSE,TRUE,Jump Shot,39.9,23.85,850105,Jake Toolson,Dalton Nixon,0,BYU,UCLA,19
+2019-20,2019-11-25,2164480,33,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,14,0,1668,UCLA,2021,821,29,Jules Bernard makes a 3-point jump shot from 23 feet out. Jalen Hill with the assist.,made,FALSE,TRUE,Jump Shot,27.1,28.650000000000006,1134770,Jules Bernard,Jalen Hill,0,UCLA,BYU,20
+2019-20,2019-11-25,2164480,34,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,17,-3,1325,BYU,1992,792,29,Zac Seljaas makes a 3-point jump shot from 23 feet out. Alex Barcello with the assist.,made,FALSE,TRUE,Jump Shot,48.2,5.85,893544,Zac Seljaas,Alex Barcello,0,BYU,UCLA,21
+2019-20,2019-11-25,2164480,35,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,17,-3,1668,UCLA,1958,758,34,Jules Bernard misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.4,28.75,1134770,Jules Bernard,NA,0,UCLA,BYU,22
+2019-20,2019-11-25,2164480,37,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,1325,BYU,1932,732,26,TJ Haws makes a 3-point jump shot from 25 feet out. Connor Harding with the assist.,made,FALSE,TRUE,Jump Shot,9.4,24.85,955878,TJ Haws,Connor Harding,0,BYU,UCLA,23
+2019-20,2019-11-25,2164480,38,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,1668,UCLA,1914,714,18,Jake Toolson steals the ball from Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,24
+2019-20,2019-11-25,2164480,39,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,1325,BYU,1904,704,10,Jake Toolson with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,25
+2019-20,2019-11-25,2164480,40,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,NA,NA,1904,704,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,41,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,1668,UCLA,1879,679,25,Jules Bernard misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.700000000000003,18.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,26
+2019-20,2019-11-25,2164480,42,1,1,UCLA,BYU,Bruins,Cougars,4,4,14,20,-6,1668,UCLA,1879,679,0,Alex Olesinski with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,26
+2019-20,2019-11-25,2164480,43,1,1,UCLA,BYU,Bruins,Cougars,4,4,16,20,-4,1668,UCLA,1873,673,6,Alex Olesinski makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,884063,Alex Olesinski,NA,0,UCLA,BYU,26
+2019-20,2019-11-25,2164480,44,1,1,UCLA,BYU,Bruins,Cougars,4,4,16,20,-4,1668,UCLA,1849,649,24,Jake Toolson steals the ball from Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,27
+2019-20,2019-11-25,2164480,45,1,1,UCLA,BYU,Bruins,Cougars,4,4,16,20,-4,1668,UCLA,1842,642,7,Jake Toolson steals the ball from Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,27
+2019-20,2019-11-25,2164480,46,1,1,UCLA,BYU,Bruins,Cougars,4,4,16,20,-4,1325,BYU,1832,632,10,Kolby Lee misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,22.9,10.95,1134994,Kolby Lee,NA,0,BYU,BYU,28
+2019-20,2019-11-25,2164480,47,1,1,UCLA,BYU,Bruins,Cougars,4,4,16,20,-4,1668,UCLA,1832,632,0,Chris Smith with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,28
+2019-20,2019-11-25,2164480,48,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,20,-1,1668,UCLA,1814,614,18,Jules Bernard makes a 3-point jump shot from 24 feet out. Chris Smith with the assist.,made,FALSE,TRUE,Jump Shot,11.5,25.349999999999994,1134770,Jules Bernard,Chris Smith,0,UCLA,BYU,29
+2019-20,2019-11-25,2164480,49,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,20,-1,1325,BYU,1790,590,24,TJ Haws misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,27.3,28.65,955878,TJ Haws,NA,0,BYU,BYU,30
+2019-20,2019-11-25,2164480,50,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,20,-1,1325,BYU,1790,590,0,Kolby Lee with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,30
+2019-20,2019-11-25,2164480,51,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,22,-3,1325,BYU,1785,585,5,Kolby Lee makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1134994,Kolby Lee,NA,0,BYU,UCLA,30
+2019-20,2019-11-25,2164480,52,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,22,-3,1668,UCLA,1766,566,19,Jules Bernard misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20.7,28.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,31
+2019-20,2019-11-25,2164480,53,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,22,-3,1325,BYU,1766,566,0,Jake Toolson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,31
+2019-20,2019-11-25,2164480,54,1,1,UCLA,BYU,Bruins,Cougars,4,4,19,22,-3,1325,BYU,1749,549,17,Jules Bernard steals the ball from TJ Haws.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,32
+2019-20,2019-11-25,2164480,55,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,22,-1,1668,UCLA,1738,538,11,Prince Ali dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,884090,Prince Ali,NA,0,UCLA,BYU,33
+2019-20,2019-11-25,2164480,56,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1325,BYU,1726,526,12,Connor Harding makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1134993,Connor Harding,NA,0,BYU,UCLA,34
+2019-20,2019-11-25,2164480,57,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1697,497,29,Tyger Campbell misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,20.25,1134772,Tyger Campbell,NA,0,UCLA,UCLA,35
+2019-20,2019-11-25,2164480,58,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1697,497,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2019-20,2019-11-25,2164480,59,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1673,473,24,Cody Riley misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,17.6,23.650000000000006,1061550,Cody Riley,NA,0,UCLA,UCLA,35
+2019-20,2019-11-25,2164480,60,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1325,BYU,1673,473,0,Trevin Knell with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,35
+2019-20,2019-11-25,2164480,61,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1661,461,12,Personal foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,36
+2019-20,2019-11-25,2164480,62,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,NA,NA,1661,461,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,63,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1325,BYU,1642,442,19,Jake Toolson misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,32.4,26.95,850105,Jake Toolson,NA,0,BYU,BYU,36
+2019-20,2019-11-25,2164480,64,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1642,442,0,Alex Olesinski with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,36
+2019-20,2019-11-25,2164480,65,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1635,435,7,Jalen Hill misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1061559,Jalen Hill,NA,0,UCLA,UCLA,37
+2019-20,2019-11-25,2164480,66,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1635,435,0,Jules Bernard with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,37
+2019-20,2019-11-25,2164480,67,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1668,UCLA,1618,418,17,Tyger Campbell misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1134772,Tyger Campbell,NA,0,UCLA,UCLA,37
+2019-20,2019-11-25,2164480,68,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,24,-3,1325,BYU,1618,418,0,Dalton Nixon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,37
+2019-20,2019-11-25,2164480,69,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,26,-5,1325,BYU,1594,394,24,Kolby Lee makes a layup. Alex Barcello with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1134994,Kolby Lee,Alex Barcello,0,BYU,BYU,38
+2019-20,2019-11-25,2164480,70,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,26,-5,1668,UCLA,1594,394,0,Shooting foul committed by Alex Olesinski.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,38
+2019-20,2019-11-25,2164480,71,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1325,BYU,1594,394,0,Kolby Lee makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,38
+2019-20,2019-11-25,2164480,72,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1668,UCLA,1584,384,10,Offensive foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2019-20,2019-11-25,2164480,73,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1668,UCLA,1584,384,0,Tyger Campbell with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,39
+2019-20,2019-11-25,2164480,74,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1325,BYU,1569,369,15,Jake Toolson misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,11.75,850105,Jake Toolson,NA,0,BYU,BYU,40
+2019-20,2019-11-25,2164480,75,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1668,UCLA,1569,369,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,40
+2019-20,2019-11-25,2164480,76,1,1,UCLA,BYU,Bruins,Cougars,4,4,21,27,-6,1325,BYU,1566,366,3,Personal foul committed by Kolby Lee.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2019-20,2019-11-25,2164480,77,1,1,UCLA,BYU,Bruins,Cougars,4,4,23,27,-4,1668,UCLA,1551,351,15,Prince Ali makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,884090,Prince Ali,NA,0,UCLA,UCLA,41
+2019-20,2019-11-25,2164480,78,1,1,UCLA,BYU,Bruins,Cougars,4,4,23,27,-4,1325,BYU,1551,351,0,Shooting foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2019-20,2019-11-25,2164480,79,1,1,UCLA,BYU,Bruins,Cougars,4,4,24,27,-3,1668,UCLA,1551,351,0,Prince Ali makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,41
+2019-20,2019-11-25,2164480,80,1,1,UCLA,BYU,Bruins,Cougars,4,4,24,27,-3,1325,BYU,1525,325,26,Dalton Nixon misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.9,25.55,850103,Dalton Nixon,NA,0,BYU,BYU,42
+2019-20,2019-11-25,2164480,81,1,1,UCLA,BYU,Bruins,Cougars,4,4,24,27,-3,1668,UCLA,1525,325,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,42
+2019-20,2019-11-25,2164480,82,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1509,309,16,Jalen Hill makes a layup. Prince Ali with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1061559,Jalen Hill,Prince Ali,0,UCLA,BYU,43
+2019-20,2019-11-25,2164480,83,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1492,292,17,Personal foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,44
+2019-20,2019-11-25,2164480,84,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1325,BYU,1492,292,0,TJ Haws misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,44
+2019-20,2019-11-25,2164480,85,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1492,292,0,Jalen Hill with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,44
+2019-20,2019-11-25,2164480,86,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1476,276,16,Prince Ali misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884090,Prince Ali,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,87,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1476,276,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,88,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1668,UCLA,1458,258,18,Jake Toolson blocks a Jules Bernard jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,19.650000000000006,1134770,Jules Bernard,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,90,1,1,UCLA,BYU,Bruins,Cougars,4,4,26,27,-1,1325,BYU,1451,251,7,Shooting foul committed by Jake Toolson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,91,1,1,UCLA,BYU,Bruins,Cougars,4,4,27,27,0,1668,UCLA,1451,251,0,Jules Bernard makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,92,1,1,UCLA,BYU,Bruins,Cougars,4,4,27,27,0,1668,UCLA,1451,251,0,Jules Bernard misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2019-20,2019-11-25,2164480,94,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,27,1,1668,UCLA,1451,251,0,Jules Bernard makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,45
+2019-20,2019-11-25,2164480,95,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,27,1,1325,BYU,1428,228,23,TJ Haws misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.9,11.45,955878,TJ Haws,NA,0,BYU,BYU,46
+2019-20,2019-11-25,2164480,96,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,27,1,1325,BYU,1428,228,0,Dalton Nixon with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,46
+2019-20,2019-11-25,2164480,97,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,29,-1,1325,BYU,1423,223,5,Dalton Nixon makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,850103,Dalton Nixon,NA,0,BYU,UCLA,46
+2019-20,2019-11-25,2164480,98,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,29,-1,1668,UCLA,1405,205,18,David Singleton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.799999999999997,23.549999999999997,1144213,David Singleton,NA,0,UCLA,UCLA,47
+2019-20,2019-11-25,2164480,99,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,29,-1,1325,BYU,1405,205,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,47
+2019-20,2019-11-25,2164480,100,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,31,-3,1325,BYU,1383,183,22,Alex Barcello makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,34.3,16.55,1061509,Alex Barcello,NA,0,BYU,UCLA,48
+2019-20,2019-11-25,2164480,101,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,31,-3,1668,UCLA,1366,166,17,Prince Ali misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.9,24.75,884090,Prince Ali,NA,0,UCLA,UCLA,49
+2019-20,2019-11-25,2164480,102,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,31,-3,1325,BYU,1366,166,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,49
+2019-20,2019-11-25,2164480,103,1,1,UCLA,BYU,Bruins,Cougars,4,4,28,34,-6,1325,BYU,1356,156,10,Jake Toolson makes a 3-point jump shot from 24 feet out. TJ Haws with the assist.,made,FALSE,TRUE,Jump Shot,7.600000000000001,21.35,850105,Jake Toolson,TJ Haws,0,BYU,UCLA,50
+2019-20,2019-11-25,2164480,104,1,1,UCLA,BYU,Bruins,Cougars,3,4,28,34,-6,1668,UCLA,1356,156,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,105,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1668,UCLA,1340,140,16,Prince Ali makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,34.6,20.450000000000003,884090,Prince Ali,NA,0,UCLA,BYU,51
+2019-20,2019-11-25,2164480,106,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1325,BYU,1306,106,34,Kolby Lee with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,52
+2019-20,2019-11-25,2164480,107,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1325,BYU,1291,91,15,Personal foul committed by Dalton Nixon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,53
+2019-20,2019-11-25,2164480,108,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1668,UCLA,1286,86,5,Prince Ali misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,15.399999999999999,18.549999999999997,884090,Prince Ali,NA,0,UCLA,UCLA,53
+2019-20,2019-11-25,2164480,109,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1668,UCLA,1286,86,0,Chris Smith with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,53
+2019-20,2019-11-25,2164480,110,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,34,-4,1668,UCLA,1279,79,7,David Singleton with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,53
+2019-20,2019-11-25,2164480,111,1,1,UCLA,BYU,Bruins,Cougars,3,4,30,36,-6,1325,BYU,1256,56,23,Connor Harding makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1134993,Connor Harding,NA,0,BYU,UCLA,54
+2019-20,2019-11-25,2164480,112,1,1,UCLA,BYU,Bruins,Cougars,3,4,32,36,-4,1668,UCLA,1238,38,18,Prince Ali makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,33.4,19.650000000000006,884090,Prince Ali,NA,0,UCLA,BYU,55
+2019-20,2019-11-25,2164480,113,1,1,UCLA,BYU,Bruins,Cougars,3,4,32,36,-4,1325,BYU,1208,8,30,TJ Haws with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,56
+2019-20,2019-11-25,2164480,114,1,1,UCLA,BYU,Bruins,Cougars,3,3,32,36,-4,1325,BYU,1208,8,0,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,115,1,1,UCLA,BYU,Bruins,Cougars,3,3,32,36,-4,1668,UCLA,1200,0,8,Prince Ali misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,25.349999999999994,884090,Prince Ali,NA,0,UCLA,UCLA,57
+2019-20,2019-11-25,2164480,116,1,1,UCLA,BYU,Bruins,Cougars,3,3,32,36,-4,1668,UCLA,1200,0,0,Jalen Hill with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,57
+2019-20,2019-11-25,2164480,117,1,1,UCLA,BYU,Bruins,Cougars,3,3,32,36,-4,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,118,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,57
+2019-20,2019-11-25,2164480,119,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1189,1189,11,Dalton Nixon steals the ball from Cody Riley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,58
+2019-20,2019-11-25,2164480,120,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1325,BYU,1172,1172,17,TJ Haws misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,955878,TJ Haws,NA,0,BYU,BYU,59
+2019-20,2019-11-25,2164480,121,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1172,1172,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,59
+2019-20,2019-11-25,2164480,122,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1325,BYU,1171,1171,1,Personal foul committed by Kolby Lee.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,123,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1156,1156,15,Cody Riley misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,7.549999999999997,1061550,Cody Riley,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,124,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1156,1156,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,125,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1152,1152,4,Cody Riley misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.6,9.049999999999997,1061550,Cody Riley,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,126,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1152,1152,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,127,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1325,BYU,1151,1151,1,Personal foul committed by Dalton Nixon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,128,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1325,BYU,1149,1149,2,Shooting foul committed by Jake Toolson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,129,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1149,1149,0,Cody Riley misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,131,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1668,UCLA,1149,1149,0,Cody Riley misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,60
+2019-20,2019-11-25,2164480,132,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,36,-4,1325,BYU,1149,1149,0,Jake Toolson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,60
+2019-20,2019-11-25,2164480,133,1,2,UCLA,BYU,Bruins,Cougars,4,4,32,38,-6,1325,BYU,1128,1128,21,Jake Toolson makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,24.7,12.65,850105,Jake Toolson,NA,0,BYU,UCLA,61
+2019-20,2019-11-25,2164480,134,1,2,UCLA,BYU,Bruins,Cougars,4,4,34,38,-4,1668,UCLA,1106,1106,22,Cody Riley makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Chris Smith,0,UCLA,BYU,62
+2019-20,2019-11-25,2164480,135,1,2,UCLA,BYU,Bruins,Cougars,4,4,34,38,-4,1325,BYU,1096,1096,10,Jake Toolson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,22.35,850105,Jake Toolson,NA,0,BYU,BYU,63
+2019-20,2019-11-25,2164480,136,1,2,UCLA,BYU,Bruins,Cougars,4,4,34,38,-4,1668,UCLA,1096,1096,0,Chris Smith with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,63
+2019-20,2019-11-25,2164480,137,1,2,UCLA,BYU,Bruins,Cougars,4,4,37,38,-1,1668,UCLA,1085,1085,11,Tyger Campbell makes a 3-point jump shot from 24 feet out. Jalen Hill with the assist.,made,FALSE,TRUE,Jump Shot,20.3,28.950000000000003,1134772,Tyger Campbell,Jalen Hill,0,UCLA,BYU,64
+2019-20,2019-11-25,2164480,138,1,2,UCLA,BYU,Bruins,Cougars,4,4,37,38,-1,1325,BYU,1073,1073,12,Dalton Nixon misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,850103,Dalton Nixon,NA,0,BYU,BYU,65
+2019-20,2019-11-25,2164480,139,1,2,UCLA,BYU,Bruins,Cougars,4,4,37,38,-1,1325,BYU,1073,1073,0,Kolby Lee with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,65
+2019-20,2019-11-25,2164480,140,1,2,UCLA,BYU,Bruins,Cougars,4,4,37,40,-3,1325,BYU,1067,1067,6,Kolby Lee makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1134994,Kolby Lee,NA,0,BYU,UCLA,65
+2019-20,2019-11-25,2164480,141,1,2,UCLA,BYU,Bruins,Cougars,4,4,39,40,-1,1668,UCLA,1051,1051,16,Jalen Hill makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061559,Jalen Hill,Chris Smith,0,UCLA,BYU,66
+2019-20,2019-11-25,2164480,142,1,2,UCLA,BYU,Bruins,Cougars,4,4,39,40,-1,1668,UCLA,1040,1040,11,Shooting foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,67
+2019-20,2019-11-25,2164480,143,1,2,UCLA,BYU,Bruins,Cougars,4,4,39,41,-2,1325,BYU,1040,1040,0,TJ Haws makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,67
+2019-20,2019-11-25,2164480,144,1,2,UCLA,BYU,Bruins,Cougars,4,4,39,42,-3,1325,BYU,1040,1040,0,TJ Haws makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,67
+2019-20,2019-11-25,2164480,145,1,2,UCLA,BYU,Bruins,Cougars,4,4,41,42,-1,1668,UCLA,1016,1016,24,Jules Bernard makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,30.9,23.349999999999994,1134770,Jules Bernard,NA,0,UCLA,BYU,68
+2019-20,2019-11-25,2164480,146,1,2,UCLA,BYU,Bruins,Cougars,4,4,41,44,-3,1325,BYU,994,994,22,Jake Toolson makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.6,14.55,850105,Jake Toolson,NA,0,BYU,UCLA,69
+2019-20,2019-11-25,2164480,147,1,2,UCLA,BYU,Bruins,Cougars,4,4,41,44,-3,1668,UCLA,972,972,22,Chris Smith with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,70
+2019-20,2019-11-25,2164480,148,1,2,UCLA,BYU,Bruins,Cougars,4,4,41,44,-3,1325,BYU,958,958,14,Jaime Jaquez Jr. steals the ball from Alex Barcello.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,71
+2019-20,2019-11-25,2164480,149,1,2,UCLA,BYU,Bruins,Cougars,4,4,44,44,0,1668,UCLA,940,940,18,Jules Bernard makes a 3-point jump shot from 24 feet out. Cody Riley with the assist.,made,FALSE,TRUE,Jump Shot,33.9,27.049999999999997,1134770,Jules Bernard,Cody Riley,0,UCLA,BYU,72
+2019-20,2019-11-25,2164480,150,1,2,UCLA,BYU,Bruins,Cougars,4,4,44,44,0,1325,BYU,927,927,13,Jaime Jaquez Jr. steals the ball from TJ Haws.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,73
+2019-20,2019-11-25,2164480,151,1,2,UCLA,BYU,Bruins,Cougars,4,4,46,44,2,1668,UCLA,909,909,18,Cody Riley makes a layup. Jules Bernard with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Jules Bernard,0,UCLA,BYU,74
+2019-20,2019-11-25,2164480,152,1,2,UCLA,BYU,Bruins,Cougars,4,4,46,47,-1,1325,BYU,886,886,23,Jake Toolson makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,36.6,26.25,850105,Jake Toolson,NA,0,BYU,UCLA,75
+2019-20,2019-11-25,2164480,153,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,1325,BYU,885,885,1,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,154,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,1668,UCLA,871,871,14,Jules Bernard misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,22.849999999999994,1134770,Jules Bernard,NA,0,UCLA,UCLA,76
+2019-20,2019-11-25,2164480,155,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,1325,BYU,871,871,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,76
+2019-20,2019-11-25,2164480,156,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,1668,UCLA,869,869,2,Personal foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,77
+2019-20,2019-11-25,2164480,157,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,NA,NA,869,869,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,158,1,2,UCLA,BYU,Bruins,Cougars,4,3,46,47,-1,1325,BYU,850,850,19,Prince Ali steals the ball from Jake Toolson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,77
+2019-20,2019-11-25,2164480,159,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,47,1,1668,UCLA,841,841,9,Cody Riley makes a hook shot from 6 feet out. Jules Bernard with the assist.,made,FALSE,FALSE,Hook Shot,25.1,10.950000000000003,1061550,Cody Riley,Jules Bernard,0,UCLA,BYU,78
+2019-20,2019-11-25,2164480,160,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1325,BYU,812,812,29,Alex Barcello makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1061509,Alex Barcello,NA,0,BYU,UCLA,79
+2019-20,2019-11-25,2164480,161,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1668,UCLA,789,789,23,Cody Riley misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,24.4,11.450000000000003,1061550,Cody Riley,NA,0,UCLA,UCLA,80
+2019-20,2019-11-25,2164480,162,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1325,BYU,789,789,0,Jake Toolson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,80
+2019-20,2019-11-25,2164480,163,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1325,BYU,759,759,30,Jake Toolson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.4,26.45,850105,Jake Toolson,NA,0,BYU,BYU,81
+2019-20,2019-11-25,2164480,164,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1325,BYU,759,759,0,Zac Seljaas with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,81
+2019-20,2019-11-25,2164480,165,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,49,-1,1668,UCLA,756,756,3,Personal foul committed by Alex Olesinski.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,81
+2019-20,2019-11-25,2164480,166,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,51,-3,1325,BYU,732,732,24,Jake Toolson makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,25.1,11.25,850105,Jake Toolson,NA,0,BYU,UCLA,81
+2019-20,2019-11-25,2164480,167,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,51,-3,1668,UCLA,714,714,18,Chris Smith misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,13.849999999999994,1061552,Chris Smith,NA,0,UCLA,UCLA,82
+2019-20,2019-11-25,2164480,168,1,2,UCLA,BYU,Bruins,Cougars,4,3,48,51,-3,1668,UCLA,714,714,0,Jules Bernard with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2019-20,2019-11-25,2164480,169,1,2,UCLA,BYU,Bruins,Cougars,4,3,50,51,-1,1668,UCLA,707,707,7,Jules Bernard makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1134770,Jules Bernard,NA,0,UCLA,BYU,82
+2019-20,2019-11-25,2164480,170,1,2,UCLA,BYU,Bruins,Cougars,4,3,50,51,-1,1325,BYU,686,686,21,TJ Haws misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,955878,TJ Haws,NA,0,BYU,BYU,83
+2019-20,2019-11-25,2164480,171,1,2,UCLA,BYU,Bruins,Cougars,4,3,50,51,-1,1668,UCLA,686,686,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,83
+2019-20,2019-11-25,2164480,172,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1668,UCLA,679,679,7,Chris Smith makes a layup. Tyger Campbell with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061552,Chris Smith,Tyger Campbell,0,UCLA,BYU,84
+2019-20,2019-11-25,2164480,173,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,NA,NA,668,668,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,174,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1325,BYU,649,649,19,TJ Haws misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,955878,TJ Haws,NA,0,BYU,BYU,85
+2019-20,2019-11-25,2164480,175,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1668,UCLA,649,649,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,85
+2019-20,2019-11-25,2164480,176,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1325,BYU,620,620,29,Personal foul committed by Alex Barcello.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2019-20,2019-11-25,2164480,177,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1668,UCLA,620,620,0,Personal foul committed by Cody Riley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,86
+2019-20,2019-11-25,2164480,178,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1325,BYU,593,593,27,Jake Toolson misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,21.85,850105,Jake Toolson,NA,0,BYU,BYU,86
+2019-20,2019-11-25,2164480,179,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1325,BYU,593,593,0,Zac Seljaas with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,86
+2019-20,2019-11-25,2164480,180,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,51,1,1668,UCLA,591,591,2,Shooting foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,86
+2019-20,2019-11-25,2164480,181,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,52,0,1325,BYU,591,591,0,Zac Seljaas makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,86
+2019-20,2019-11-25,2164480,182,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,53,-1,1325,BYU,591,591,0,Zac Seljaas makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,86
+2019-20,2019-11-25,2164480,183,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,53,-1,1668,UCLA,575,575,16,Chris Smith misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,8.799999999999997,5.849999999999994,1061552,Chris Smith,NA,0,UCLA,UCLA,87
+2019-20,2019-11-25,2164480,184,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,53,-1,1325,BYU,575,575,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,87
+2019-20,2019-11-25,2164480,185,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,55,-3,1325,BYU,543,543,32,TJ Haws makes a layup. Jake Toolson with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,955878,TJ Haws,Jake Toolson,0,BYU,UCLA,88
+2019-20,2019-11-25,2164480,186,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,55,-3,1668,UCLA,513,513,30,Jules Bernard misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,19.450000000000003,1134770,Jules Bernard,NA,0,UCLA,UCLA,89
+2019-20,2019-11-25,2164480,187,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,55,-3,1325,BYU,513,513,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,89
+2019-20,2019-11-25,2164480,188,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,55,-3,1325,BYU,512,512,1,Personal foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2019-20,2019-11-25,2164480,189,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,55,-3,1668,UCLA,495,495,17,Kolby Lee steals the ball from Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,90
+2019-20,2019-11-25,2164480,190,1,2,UCLA,BYU,Bruins,Cougars,4,3,52,58,-6,1325,BYU,484,484,11,Alex Barcello makes a 3-point jump shot from 24 feet out. TJ Haws with the assist.,made,FALSE,TRUE,Jump Shot,9.8,24.35,1061509,Alex Barcello,TJ Haws,0,BYU,UCLA,91
+2019-20,2019-11-25,2164480,191,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,58,-6,1668,UCLA,481,481,3,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,192,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,58,-6,1668,UCLA,471,471,10,Connor Harding steals the ball from Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,92
+2019-20,2019-11-25,2164480,193,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,58,-6,1325,BYU,464,464,7,Connor Harding misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,25.75,1134993,Connor Harding,NA,0,BYU,BYU,93
+2019-20,2019-11-25,2164480,194,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,58,-6,1668,UCLA,464,464,0,Tyger Campbell with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,93
+2019-20,2019-11-25,2164480,195,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,58,-6,1668,UCLA,455,455,9,Kolby Lee steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,94
+2019-20,2019-11-25,2164480,196,1,2,UCLA,BYU,Bruins,Cougars,3,3,52,61,-9,1325,BYU,438,438,17,TJ Haws makes a 3-point jump shot from 24 feet out. Alex Barcello with the assist.,made,FALSE,TRUE,Jump Shot,13.4,26.05,955878,TJ Haws,Alex Barcello,0,BYU,UCLA,95
+2019-20,2019-11-25,2164480,197,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,61,-7,1668,UCLA,409,409,29,Tyger Campbell makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,21.9,16.75,1134772,Tyger Campbell,NA,0,UCLA,BYU,96
+2019-20,2019-11-25,2164480,198,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,63,-9,1325,BYU,390,390,19,Kolby Lee makes a layup. TJ Haws with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1134994,Kolby Lee,TJ Haws,0,BYU,UCLA,97
+2019-20,2019-11-25,2164480,199,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,63,-9,1325,BYU,378,378,12,Personal foul committed by Alex Barcello.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,200,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,63,-9,1668,UCLA,372,372,6,Jalen Hill misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,1061559,Jalen Hill,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,201,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,63,-9,1668,UCLA,372,372,0,Jules Bernard with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,202,1,2,UCLA,BYU,Bruins,Cougars,3,3,54,63,-9,1325,BYU,371,371,1,Personal foul committed by Connor Harding.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,203,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1668,UCLA,371,371,0,Jules Bernard makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,204,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1668,UCLA,371,371,0,Jules Bernard misses free throw 2nd of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,205,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1668,UCLA,371,371,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,206,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1668,UCLA,370,370,1,Prince Ali misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884090,Prince Ali,NA,0,UCLA,UCLA,98
+2019-20,2019-11-25,2164480,207,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1325,BYU,370,370,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,98
+2019-20,2019-11-25,2164480,208,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1325,BYU,361,361,9,Tyger Campbell steals the ball from TJ Haws.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,99
+2019-20,2019-11-25,2164480,209,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1325,BYU,341,341,20,Shooting foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2019-20,2019-11-25,2164480,210,1,2,UCLA,BYU,Bruins,Cougars,3,3,55,63,-8,1668,UCLA,341,341,0,Prince Ali misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2019-20,2019-11-25,2164480,212,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,63,-7,1668,UCLA,341,341,0,Prince Ali makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,100
+2019-20,2019-11-25,2164480,213,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1325,BYU,329,329,12,Zac Seljaas makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,893544,Zac Seljaas,NA,0,BYU,UCLA,101
+2019-20,2019-11-25,2164480,214,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1668,UCLA,316,316,13,Jake Toolson steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,102
+2019-20,2019-11-25,2164480,215,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1325,BYU,301,301,15,Chris Smith steals the ball from Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,103
+2019-20,2019-11-25,2164480,216,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1668,UCLA,293,293,8,Prince Ali misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.9,11.150000000000006,884090,Prince Ali,NA,0,UCLA,UCLA,104
+2019-20,2019-11-25,2164480,217,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1325,BYU,293,293,0,Dalton Nixon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,104
+2019-20,2019-11-25,2164480,218,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1325,BYU,262,262,31,TJ Haws misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,21.5,27.95,955878,TJ Haws,NA,0,BYU,BYU,105
+2019-20,2019-11-25,2164480,219,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,65,-9,1325,BYU,262,262,0,Zac Seljaas with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,105
+2019-20,2019-11-25,2164480,220,1,2,UCLA,BYU,Bruins,Cougars,3,3,56,67,-11,1325,BYU,257,257,5,Zac Seljaas makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,893544,Zac Seljaas,NA,0,BYU,UCLA,105
+2019-20,2019-11-25,2164480,221,1,2,UCLA,BYU,Bruins,Cougars,3,2,56,67,-11,1325,BYU,256,256,1,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,222,1,2,UCLA,BYU,Bruins,Cougars,3,2,56,67,-11,1668,UCLA,241,241,15,Dalton Nixon blocks a Chris Smith jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.6,10.549999999999997,1061552,Chris Smith,NA,0,UCLA,UCLA,106
+2019-20,2019-11-25,2164480,223,1,2,UCLA,BYU,Bruins,Cougars,3,2,56,67,-11,1668,UCLA,241,241,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,106
+2019-20,2019-11-25,2164480,224,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,67,-9,1668,UCLA,237,237,4,Cody Riley makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061550,Cody Riley,NA,0,UCLA,BYU,106
+2019-20,2019-11-25,2164480,225,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,67,-9,1668,UCLA,223,223,14,Personal foul committed by Jaime Jaquez Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,107
+2019-20,2019-11-25,2164480,226,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,69,-11,1325,BYU,211,211,12,TJ Haws makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,955878,TJ Haws,NA,0,BYU,UCLA,107
+2019-20,2019-11-25,2164480,227,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,69,-11,1668,UCLA,194,194,17,Jules Bernard with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,108
+2019-20,2019-11-25,2164480,228,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,72,-14,1325,BYU,175,175,19,Dalton Nixon makes a 3-point jump shot from 23 feet out. Alex Barcello with the assist.,made,FALSE,TRUE,Jump Shot,2.3000000000000007,3.95,850103,Dalton Nixon,Alex Barcello,0,BYU,UCLA,109
+2019-20,2019-11-25,2164480,229,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,72,-14,1325,BYU,165,165,10,Personal foul committed by Alex Barcello.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2019-20,2019-11-25,2164480,230,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,72,-14,1668,UCLA,165,165,0,Tyger Campbell misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2019-20,2019-11-25,2164480,231,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,72,-14,1325,BYU,165,165,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,110
+2019-20,2019-11-25,2164480,232,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,74,-16,1325,BYU,151,151,14,TJ Haws makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,955878,TJ Haws,NA,0,BYU,BYU,111
+2019-20,2019-11-25,2164480,233,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,74,-16,1668,UCLA,151,151,0,Shooting foul committed by Prince Ali.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,111
+2019-20,2019-11-25,2164480,234,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,75,-17,1325,BYU,151,151,0,TJ Haws makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,111
+2019-20,2019-11-25,2164480,235,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,75,-17,1668,UCLA,141,141,10,Chris Smith misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26.6,28.25,1061552,Chris Smith,NA,0,UCLA,UCLA,112
+2019-20,2019-11-25,2164480,236,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,75,-17,1325,BYU,141,141,0,TJ Haws with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,112
+2019-20,2019-11-25,2164480,237,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,77,-19,1325,BYU,114,114,27,Jake Toolson makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.1,9.75,850105,Jake Toolson,NA,0,BYU,BYU,113
+2019-20,2019-11-25,2164480,238,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,77,-19,1668,UCLA,114,114,0,Shooting foul committed by Jaime Jaquez Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,113
+2019-20,2019-11-25,2164480,239,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,78,-20,1325,BYU,114,114,0,Jake Toolson makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,113
+2019-20,2019-11-25,2164480,240,1,2,UCLA,BYU,Bruins,Cougars,3,2,58,78,-20,1325,BYU,106,106,8,Shooting foul committed by TJ Haws.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2019-20,2019-11-25,2164480,241,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1668,UCLA,106,106,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2019-20,2019-11-25,2164480,242,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1668,UCLA,106,106,0,Tyger Campbell misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2019-20,2019-11-25,2164480,243,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1325,BYU,106,106,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,114
+2019-20,2019-11-25,2164480,244,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1325,BYU,84,84,22,Zac Seljaas misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,893544,Zac Seljaas,NA,0,BYU,BYU,115
+2019-20,2019-11-25,2164480,245,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1668,UCLA,84,84,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,115
+2019-20,2019-11-25,2164480,246,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1668,UCLA,78,78,6,Jaime Jaquez Jr. misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,116
+2019-20,2019-11-25,2164480,248,1,2,UCLA,BYU,Bruins,Cougars,3,2,59,78,-19,1325,BYU,74,74,4,Shooting foul committed by Connor Harding.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2019-20,2019-11-25,2164480,249,1,2,UCLA,BYU,Bruins,Cougars,3,2,60,78,-18,1668,UCLA,74,74,0,Chris Smith makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2019-20,2019-11-25,2164480,250,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1668,UCLA,74,74,0,Chris Smith makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,116
+2019-20,2019-11-25,2164480,251,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1325,BYU,51,51,23,Trevin Knell misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,15.9,22.35,1178144,Trevin Knell,NA,0,BYU,BYU,117
+2019-20,2019-11-25,2164480,252,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1668,UCLA,51,51,0,Chris Smith with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,117
+2019-20,2019-11-25,2164480,253,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1668,UCLA,40,40,11,Cody Riley misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,24.9,17.25,1061550,Cody Riley,NA,0,UCLA,UCLA,118
+2019-20,2019-11-25,2164480,254,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1325,BYU,40,40,0,Connor Harding with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,BYU,118
+2019-20,2019-11-25,2164480,255,1,2,UCLA,BYU,Bruins,Cougars,3,2,61,78,-17,1325,BYU,12,12,28,Cody Riley steals the ball from Alex Barcello.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UCLA,119
+2019-20,2019-11-25,2164480,256,1,2,UCLA,BYU,Bruins,Cougars,3,2,63,78,-15,1668,UCLA,7,7,5,Jalen Hill dunks. Chris Smith with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,1061559,Jalen Hill,Chris Smith,0,UCLA,BYU,120
+2019-20,2019-11-25,2164480,257,1,2,UCLA,BYU,Bruins,Cougars,3,2,63,78,-15,NA,NA,0,0,7,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2019-20,2019-11-25,2164480,258,1,2,UCLA,BYU,Bruins,Cougars,3,2,63,78,-15,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,NA

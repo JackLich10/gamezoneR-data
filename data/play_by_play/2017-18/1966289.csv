@@ -1,0 +1,289 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,NA,NA,NA,Starting Lineup - A.J. Davis,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1605,SMU,NA,NA,NA,Starting Lineup - Ethan Chargois,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,NA,NA,NA,Starting Lineup - Djordjije Mumin,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,NA,NA,NA,Starting Lineup - Ceasar DeJesus,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,NA,NA,NA,Starting Lineup - Tacko Fall,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1605,SMU,NA,NA,NA,Starting Lineup - Ben Emelogu II,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1605,SMU,NA,NA,NA,Starting Lineup - Jarrey Foster,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1605,SMU,NA,NA,NA,Starting Lineup - Shake Milton,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,NA,NA,NA,Starting Lineup - Terrell Allen,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,1,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1605,SMU,NA,NA,NA,Starting Lineup - Jimmy Whitt Jr.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2017-18,2017-12-27,1966289,2,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCF,1
+2017-18,2017-12-27,1966289,3,0,1,SMU,UCF,Mustangs,Knights,4,4,0,0,0,1344,UCF,2384,1184,16,Ben Emelogu II steals the ball from Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,1
+2017-18,2017-12-27,1966289,4,0,1,SMU,UCF,Mustangs,Knights,4,4,2,0,2,1605,SMU,2358,1158,26,Jimmy Whitt Jr. makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,37,13.150000000000006,891344,Jimmy Whitt Jr.,NA,0,SMU,UCF,2
+2017-18,2017-12-27,1966289,5,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1344,UCF,2341,1141,17,A.J. Davis makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28,9.25,745911,A.J. Davis,NA,0,UCF,SMU,3
+2017-18,2017-12-27,1966289,6,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1605,SMU,2319,1119,22,Jarrey Foster misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,7.150000000000006,879491,Jarrey Foster,NA,0,SMU,SMU,4
+2017-18,2017-12-27,1966289,7,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1344,UCF,2319,1119,0,A.J. Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,4
+2017-18,2017-12-27,1966289,8,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1344,UCF,2306,1106,13,Ethan Chargois steals the ball from Djordjije Mumin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,5
+2017-18,2017-12-27,1966289,9,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1605,SMU,2301,1101,5,Terrell Allen steals the ball from Ethan Chargois.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,6
+2017-18,2017-12-27,1966289,10,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1344,UCF,2286,1086,15,Terrell Allen misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,7
+2017-18,2017-12-27,1966289,11,0,1,SMU,UCF,Mustangs,Knights,4,4,2,2,0,1344,UCF,2286,1086,0,Tacko Fall with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,7
+2017-18,2017-12-27,1966289,12,0,1,SMU,UCF,Mustangs,Knights,4,4,2,4,-2,1344,UCF,2284,1084,2,Tacko Fall dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,879498,Tacko Fall,NA,0,UCF,SMU,7
+2017-18,2017-12-27,1966289,13,0,1,SMU,UCF,Mustangs,Knights,4,4,2,4,-2,1605,SMU,2255,1055,29,Ben Emelogu II misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.899999999999999,13.849999999999994,748520,Ben Emelogu II,NA,0,SMU,SMU,8
+2017-18,2017-12-27,1966289,14,0,1,SMU,UCF,Mustangs,Knights,4,4,2,4,-2,1344,UCF,2255,1055,0,Tacko Fall with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,8
+2017-18,2017-12-27,1966289,15,0,1,SMU,UCF,Mustangs,Knights,4,4,2,6,-4,1344,UCF,2233,1033,22,Terrell Allen makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,16.4,18.95,895838,Terrell Allen,NA,0,UCF,SMU,9
+2017-18,2017-12-27,1966289,16,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2215,1015,18,Shake Milton makes a jump shot from 12 feet out. Jimmy Whitt Jr. with the assist.,made,FALSE,FALSE,Jump Shot,18,15.25,879492,Shake Milton,Jimmy Whitt Jr.,0,SMU,UCF,10
+2017-18,2017-12-27,1966289,17,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1344,UCF,2199,999,16,Terrell Allen misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,11
+2017-18,2017-12-27,1966289,18,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2199,999,0,Ben Emelogu II with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,11
+2017-18,2017-12-27,1966289,19,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2195,995,4,Shake Milton misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,879492,Shake Milton,NA,0,SMU,SMU,12
+2017-18,2017-12-27,1966289,20,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2195,995,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,12
+2017-18,2017-12-27,1966289,21,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2193,993,2,Jarrey Foster misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,26,8.25,879491,Jarrey Foster,NA,0,SMU,SMU,12
+2017-18,2017-12-27,1966289,22,0,1,SMU,UCF,Mustangs,Knights,4,4,4,6,-2,1605,SMU,2193,993,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,12
+2017-18,2017-12-27,1966289,23,0,1,SMU,UCF,Mustangs,Knights,4,4,6,6,0,1605,SMU,2191,991,2,Jarrey Foster makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,879491,Jarrey Foster,NA,0,SMU,UCF,12
+2017-18,2017-12-27,1966289,24,0,1,SMU,UCF,Mustangs,Knights,4,4,6,6,0,1344,UCF,2168,968,23,Shake Milton blocks a Ceasar DeJesus jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,13.15,958922,Ceasar DeJesus,NA,0,UCF,UCF,13
+2017-18,2017-12-27,1966289,25,0,1,SMU,UCF,Mustangs,Knights,4,4,6,6,0,1344,UCF,2168,968,0,Ceasar DeJesus with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,13
+2017-18,2017-12-27,1966289,26,0,1,SMU,UCF,Mustangs,Knights,4,4,6,6,0,1344,UCF,2159,959,9,Terrell Allen with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,13
+2017-18,2017-12-27,1966289,27,0,1,SMU,UCF,Mustangs,Knights,4,4,6,6,0,NA,NA,2159,959,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,28,0,1,SMU,UCF,Mustangs,Knights,4,4,9,6,3,1605,SMU,2146,946,13,Shake Milton makes a 3-point jump shot from 23 feet out. Ben Emelogu II with the assist.,made,FALSE,TRUE,Jump Shot,47.7,8.75,879492,Shake Milton,Ben Emelogu II,0,SMU,UCF,14
+2017-18,2017-12-27,1966289,29,0,1,SMU,UCF,Mustangs,Knights,4,4,9,6,3,1344,UCF,2118,918,28,Shake Milton steals the ball from A.J. Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,15
+2017-18,2017-12-27,1966289,30,0,1,SMU,UCF,Mustangs,Knights,4,4,9,6,3,1605,SMU,2096,896,22,Ethan Chargois misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,10.549999999999997,1067644,Ethan Chargois,NA,0,SMU,SMU,16
+2017-18,2017-12-27,1966289,31,0,1,SMU,UCF,Mustangs,Knights,4,4,9,6,3,1605,SMU,2096,896,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,16
+2017-18,2017-12-27,1966289,32,0,1,SMU,UCF,Mustangs,Knights,4,4,11,6,5,1605,SMU,2093,893,3,Jarrey Foster makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,879491,Jarrey Foster,NA,0,SMU,UCF,16
+2017-18,2017-12-27,1966289,33,0,1,SMU,UCF,Mustangs,Knights,4,4,11,6,5,1344,UCF,2075,875,18,Ben Emelogu II steals the ball from Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,17
+2017-18,2017-12-27,1966289,34,0,1,SMU,UCF,Mustangs,Knights,4,4,11,6,5,1344,UCF,2069,869,6,Personal foul committed by Djordjije Mumin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,18
+2017-18,2017-12-27,1966289,35,0,1,SMU,UCF,Mustangs,Knights,4,4,14,6,8,1605,SMU,2061,861,8,Ethan Chargois makes a 3-point jump shot from 23 feet out. Shake Milton with the assist.,made,FALSE,TRUE,Jump Shot,30.7,27.75,1067644,Ethan Chargois,Shake Milton,0,SMU,UCF,18
+2017-18,2017-12-27,1966289,36,0,1,SMU,UCF,Mustangs,Knights,4,4,14,8,6,1344,UCF,2040,840,21,Tacko Fall dunks. A.J. Davis with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,879498,Tacko Fall,Davis,0,UCF,SMU,19
+2017-18,2017-12-27,1966289,37,0,1,SMU,UCF,Mustangs,Knights,4,4,14,8,6,1605,SMU,2019,819,21, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,38,20.25,100000003, ,NA,0,SMU,SMU,20
+2017-18,2017-12-27,1966289,38,0,1,SMU,UCF,Mustangs,Knights,4,4,14,8,6,1344,UCF,2019,819,0,Terrell Allen with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,20
+2017-18,2017-12-27,1966289,39,0,1,SMU,UCF,Mustangs,Knights,4,4,14,8,6,1344,UCF,2008,808,11,A.J. Davis misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18,14.25,745911,A.J. Davis,NA,0,UCF,UCF,21
+2017-18,2017-12-27,1966289,40,0,1,SMU,UCF,Mustangs,Knights,4,4,14,8,6,1605,SMU,2008,808,0,Ethan Chargois with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,21
+2017-18,2017-12-27,1966289,41,0,1,SMU,UCF,Mustangs,Knights,4,4,16,8,8,1605,SMU,1997,797,11,Shake Milton makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,23,9.25,879492,Shake Milton,,0,SMU,UCF,22
+2017-18,2017-12-27,1966289,42,0,1,SMU,UCF,Mustangs,Knights,4,4,16,8,8,1344,UCF,1977,777,20,Dayon Griffin misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,13.35,846618,Dayon Griffin,NA,0,UCF,UCF,23
+2017-18,2017-12-27,1966289,43,0,1,SMU,UCF,Mustangs,Knights,4,4,16,8,8,1344,UCF,1977,777,0,Tacko Fall with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,23
+2017-18,2017-12-27,1966289,44,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1344,UCF,1974,774,3,Tacko Fall makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,25,8.25,879498,Tacko Fall,NA,0,UCF,SMU,23
+2017-18,2017-12-27,1966289,45,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1958,758,16,Ethan Chargois misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26,30.25,1067644,Ethan Chargois,NA,0,SMU,SMU,24
+2017-18,2017-12-27,1966289,46,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1958,758,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,24
+2017-18,2017-12-27,1966289,47,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1935,735,23, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,19,16.25,100000003, ,NA,0,SMU,SMU,24
+2017-18,2017-12-27,1966289,48,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1344,UCF,1935,735,0,Chance McSpadden with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,24
+2017-18,2017-12-27,1966289,49,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1344,UCF,1920,720,15,Ben Emelogu II steals the ball from Tacko Fall.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,25
+2017-18,2017-12-27,1966289,50,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,NA,NA,1920,720,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,51,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1906,706,14,Offensive foul committed by Akoy Agau.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,26
+2017-18,2017-12-27,1966289,52,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1906,706,0,Akoy Agau with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,26
+2017-18,2017-12-27,1966289,53,0,1,SMU,UCF,Mustangs,Knights,4,4,16,10,6,1605,SMU,1882,682,24,Shooting foul committed by Jimmy Whitt Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,27
+2017-18,2017-12-27,1966289,54,0,1,SMU,UCF,Mustangs,Knights,4,4,16,11,5,1344,UCF,1882,682,0,Dayon Griffin makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,27
+2017-18,2017-12-27,1966289,55,0,1,SMU,UCF,Mustangs,Knights,4,4,16,11,5,1344,UCF,1882,682,0,Dayon Griffin misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,27
+2017-18,2017-12-27,1966289,56,0,1,SMU,UCF,Mustangs,Knights,4,4,16,11,5,1605,SMU,1882,682,0,Shake Milton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,27
+2017-18,2017-12-27,1966289,57,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1605,SMU,1863,663,19,Ben Emelogu II makes a 3-point jump shot from 23 feet out. Shake Milton with the assist.,made,FALSE,TRUE,Jump Shot,40.6,21.950000000000003,748520,Ben Emelogu II,Shake Milton,0,SMU,UCF,28
+2017-18,2017-12-27,1966289,58,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1344,UCF,1849,649,14,Dayon Griffin misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,28.65,846618,Dayon Griffin,NA,0,UCF,UCF,29
+2017-18,2017-12-27,1966289,59,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1344,UCF,1849,649,0,Terrell Allen with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,29
+2017-18,2017-12-27,1966289,60,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1344,UCF,1842,642,7,Terrell Allen misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,19,10.25,895838,Terrell Allen,NA,0,UCF,UCF,29
+2017-18,2017-12-27,1966289,61,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1605,SMU,1842,642,0,Ben Emelogu II with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,29
+2017-18,2017-12-27,1966289,62,0,1,SMU,UCF,Mustangs,Knights,4,4,19,11,8,1605,SMU,1836,636,6,Ben Emelogu II with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,30
+2017-18,2017-12-27,1966289,63,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1344,UCF,1818,618,18,Chad Brown makes a layup. Dayon Griffin with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,879496,Chad Brown,Dayon Griffin,0,UCF,SMU,31
+2017-18,2017-12-27,1966289,64,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1605,SMU,1788,588,30,Shake Milton misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,7.849999999999994,879492,Shake Milton,NA,0,SMU,SMU,32
+2017-18,2017-12-27,1966289,66,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1605,SMU,1786,586,2,Mustangs with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,32
+2017-18,2017-12-27,1966289,67,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1344,UCF,1767,567,19,Chance McSpadden misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.6,21.45,879497,Chance McSpadden,NA,0,UCF,UCF,33
+2017-18,2017-12-27,1966289,68,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1605,SMU,1767,567,0,Shake Milton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,33
+2017-18,2017-12-27,1966289,69,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1605,SMU,1746,546,21,Shake Milton misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.600000000000001,8.349999999999994,879492,Shake Milton,NA,0,SMU,SMU,34
+2017-18,2017-12-27,1966289,70,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1344,UCF,1746,546,0,Dayon Griffin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,34
+2017-18,2017-12-27,1966289,71,0,1,SMU,UCF,Mustangs,Knights,4,4,19,13,6,1605,SMU,1735,535,11,Shooting foul committed by Akoy Agau.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2017-18,2017-12-27,1966289,72,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1735,535,0,Chad Brown makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2017-18,2017-12-27,1966289,73,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1735,535,0,Chad Brown misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2017-18,2017-12-27,1966289,74,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1735,535,0,Jarrey Foster with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,35
+2017-18,2017-12-27,1966289,75,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1712,512,23,Shake Milton misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,36,28.25,879492,Shake Milton,NA,0,SMU,SMU,36
+2017-18,2017-12-27,1966289,76,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1712,512,0,Shake Milton with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,36
+2017-18,2017-12-27,1966289,77,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1695,495,17,Dayon Griffin blocks a Jimmy Whitt Jr. layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,891344,Jimmy Whitt Jr.,NA,0,SMU,SMU,36
+2017-18,2017-12-27,1966289,78,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1695,495,0,Dayon Griffin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,36
+2017-18,2017-12-27,1966289,79,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1685,485,10,Jarrey Foster blocks a Terrell Allen layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,80,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1685,485,0,Chad Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,81,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1683,483,2,Personal foul committed by Jimmy Whitt Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,82,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1667,467,16,Dayon Griffin misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,10.05,846618,Dayon Griffin,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,83,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1667,467,0,Myles Douglas with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,84,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1344,UCF,1656,456,11,Jarrey Foster blocks a Chad Brown jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.4,12.95,879496,Chad Brown,NA,0,UCF,UCF,37
+2017-18,2017-12-27,1966289,85,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1656,456,0,Shake Milton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,37
+2017-18,2017-12-27,1966289,86,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1648,448,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14,25.75,100000003, ,NA,0,SMU,SMU,38
+2017-18,2017-12-27,1966289,87,0,1,SMU,UCF,Mustangs,Knights,4,4,19,14,5,1605,SMU,1648,448,0,Ben Emelogu II with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,38
+2017-18,2017-12-27,1966289,88,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1639,439,9,Jarrey Foster makes a jump shot from 10 feet out. Ben Emelogu II with the assist.,made,FALSE,FALSE,Jump Shot,20.7,14.549999999999997,879491,Jarrey Foster,Ben Emelogu II,0,SMU,UCF,38
+2017-18,2017-12-27,1966289,89,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1344,UCF,1627,427,12,Terrell Allen misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,21.15,895838,Terrell Allen,NA,0,UCF,UCF,39
+2017-18,2017-12-27,1966289,90,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1627,427,0,Jarrey Foster with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,39
+2017-18,2017-12-27,1966289,91,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1620,420,7,Offensive foul committed by Mustangs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,40
+2017-18,2017-12-27,1966289,92,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1620,420,0, with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,40
+2017-18,2017-12-27,1966289,93,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,NA,NA,1620,420,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,94,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1344,UCF,1604,404,16,Ceasar DeJesus with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,41
+2017-18,2017-12-27,1966289,95,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1577,377,27,Jarrey Foster misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,879491,Jarrey Foster,NA,0,SMU,SMU,42
+2017-18,2017-12-27,1966289,96,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1577,377,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,42
+2017-18,2017-12-27,1966289,97,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1574,374,3,Mustangs with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,42
+2017-18,2017-12-27,1966289,98,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1605,SMU,1561,361,13,Shooting foul committed by William Douglas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,43
+2017-18,2017-12-27,1966289,99,0,1,SMU,UCF,Mustangs,Knights,4,4,21,14,7,1344,UCF,1561,361,0,A.J. Davis misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,43
+2017-18,2017-12-27,1966289,101,0,1,SMU,UCF,Mustangs,Knights,4,4,21,15,6,1344,UCF,1561,361,0,A.J. Davis makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,43
+2017-18,2017-12-27,1966289,102,0,1,SMU,UCF,Mustangs,Knights,4,4,21,15,6,1344,UCF,1556,356,5,Personal foul committed by A.J. Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,44
+2017-18,2017-12-27,1966289,103,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1541,341,15,Jarrey Foster dunks. Ethan Chargois with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,879491,Jarrey Foster,Ethan Chargois,0,SMU,UCF,44
+2017-18,2017-12-27,1966289,104,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1514,314,27,Dayon Griffin misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.1,21.85,846618,Dayon Griffin,NA,0,UCF,UCF,45
+2017-18,2017-12-27,1966289,105,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1514,314,0,William Douglas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,45
+2017-18,2017-12-27,1966289,106,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1494,294,20,Personal foul committed by Terrell Allen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,46
+2017-18,2017-12-27,1966289,107,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1477,277,17,Ethan Chargois misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,14.650000000000006,1067644,Ethan Chargois,NA,0,SMU,SMU,46
+2017-18,2017-12-27,1966289,108,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1477,277,0,Chance McSpadden with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,46
+2017-18,2017-12-27,1966289,109,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1454,254,23,Ethan Chargois steals the ball from Chance McSpadden.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,47
+2017-18,2017-12-27,1966289,110,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1435,235,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22,28.75,100000003, ,NA,0,SMU,SMU,48
+2017-18,2017-12-27,1966289,111,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1435,235,0,A.J. Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,48
+2017-18,2017-12-27,1966289,112,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1412,212,23, steals the ball from Chance McSpadden.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,49
+2017-18,2017-12-27,1966289,113,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1402,202,10,Personal foul committed by Nathan Laing.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,50
+2017-18,2017-12-27,1966289,114,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,NA,NA,1402,202,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,115,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1396,196,6,Ethan Chargois misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.299999999999997,24.549999999999997,1067644,Ethan Chargois,NA,0,SMU,UCF,50
+2017-18,2017-12-27,1966289,117,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1385,185,11,Chance McSpadden misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,879497,Chance McSpadden,NA,0,UCF,UCF,51
+2017-18,2017-12-27,1966289,118,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1385,185,0,Tacko Fall with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2017-18,2017-12-27,1966289,119,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1383,183,2,Shooting foul committed by Shake Milton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2017-18,2017-12-27,1966289,120,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1383,183,0,Tacko Fall misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2017-18,2017-12-27,1966289,122,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1383,183,0,Tacko Fall misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2017-18,2017-12-27,1966289,123,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1383,183,0,Ethan Chargois with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,51
+2017-18,2017-12-27,1966289,124,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1605,SMU,1365,165,18,Dayon Griffin steals the ball from Jarrey Foster.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,52
+2017-18,2017-12-27,1966289,125,0,1,SMU,UCF,Mustangs,Knights,4,4,23,15,8,1344,UCF,1347,147,18,Shake Milton steals the ball from Terrell Allen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,53
+2017-18,2017-12-27,1966289,126,0,1,SMU,UCF,Mustangs,Knights,4,4,26,15,11,1605,SMU,1340,140,7, makes a 3-point jump shot from 23 feet out. Ben Emelogu II with the assist.,made,FALSE,TRUE,Jump Shot,40.9,21.849999999999994,100000003, ,Ben Emelogu II,0,SMU,UCF,54
+2017-18,2017-12-27,1966289,127,0,1,SMU,UCF,Mustangs,Knights,4,4,26,18,8,1344,UCF,1325,125,15,Dayon Griffin makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,36.5,26.75,846618,Dayon Griffin,NA,0,UCF,SMU,55
+2017-18,2017-12-27,1966289,128,0,1,SMU,UCF,Mustangs,Knights,4,4,26,18,8,1605,SMU,1296,96,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,9.450000000000003,100000003, ,NA,0,SMU,SMU,56
+2017-18,2017-12-27,1966289,129,0,1,SMU,UCF,Mustangs,Knights,4,4,26,18,8,1344,UCF,1296,96,0,Tacko Fall with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,56
+2017-18,2017-12-27,1966289,130,0,1,SMU,UCF,Mustangs,Knights,4,4,26,21,5,1344,UCF,1284,84,12,Dayon Griffin makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,40.9,20.85,846618,Dayon Griffin,NA,0,UCF,SMU,57
+2017-18,2017-12-27,1966289,131,0,1,SMU,UCF,Mustangs,Knights,4,4,26,21,5,1605,SMU,1256,56,28,Ethan Chargois misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.4,26.549999999999997,1067644,Ethan Chargois,NA,0,SMU,SMU,58
+2017-18,2017-12-27,1966289,132,0,1,SMU,UCF,Mustangs,Knights,4,4,26,21,5,1344,UCF,1256,56,0,Tacko Fall with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,58
+2017-18,2017-12-27,1966289,133,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1344,UCF,1252,52,4,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,134,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1344,UCF,1240,40,12,Tacko Fall with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,59
+2017-18,2017-12-27,1966289,135,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1605,SMU,1207,7,33,Tacko Fall blocks a  jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,19.950000000000003,100000003, ,NA,0,SMU,SMU,60
+2017-18,2017-12-27,1966289,136,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1344,UCF,1207,7,0,Chance McSpadden with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,60
+2017-18,2017-12-27,1966289,137,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1344,UCF,1202,2,5,A.J. Davis misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.4,21.65,745911,A.J. Davis,NA,0,UCF,UCF,61
+2017-18,2017-12-27,1966289,138,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,1605,SMU,1202,2,0,Ben Emelogu II with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,61
+2017-18,2017-12-27,1966289,139,0,1,SMU,UCF,Mustangs,Knights,4,3,26,21,5,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,140,0,2,SMU,UCF,Mustangs,Knights,4,4,26,21,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCF,62
+2017-18,2017-12-27,1966289,141,0,2,SMU,UCF,Mustangs,Knights,4,4,26,21,5,1344,UCF,1191,1191,9,Offensive foul committed by Tacko Fall.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,63
+2017-18,2017-12-27,1966289,142,0,2,SMU,UCF,Mustangs,Knights,4,4,26,21,5,1344,UCF,1191,1191,0,Tacko Fall with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,63
+2017-18,2017-12-27,1966289,143,0,2,SMU,UCF,Mustangs,Knights,4,4,28,21,7,1605,SMU,1173,1173,18,Ethan Chargois makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1067644,Ethan Chargois,NA,0,SMU,UCF,64
+2017-18,2017-12-27,1966289,144,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1152,1152,21,A.J. Davis makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.6,12.45,745911,A.J. Davis,NA,0,UCF,SMU,65
+2017-18,2017-12-27,1966289,145,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1605,SMU,1130,1130,22,Ethan Chargois with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,66
+2017-18,2017-12-27,1966289,146,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1102,1102,28,Ben Emelogu II blocks a Ceasar DeJesus jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,8.85,958922,Ceasar DeJesus,NA,0,UCF,UCF,67
+2017-18,2017-12-27,1966289,148,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1099,1099,3,Dayon Griffin misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,18.55,846618,Dayon Griffin,NA,0,UCF,UCF,67
+2017-18,2017-12-27,1966289,150,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1098,1098,1,Knights with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,67
+2017-18,2017-12-27,1966289,151,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1605,SMU,1082,1082,16,Shake Milton misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,18.549999999999997,879492,Shake Milton,NA,0,SMU,SMU,68
+2017-18,2017-12-27,1966289,152,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1082,1082,0,Dayon Griffin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,68
+2017-18,2017-12-27,1966289,153,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1605,SMU,1063,1063,19,Shooting foul committed by Ethan Chargois.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,69
+2017-18,2017-12-27,1966289,154,0,2,SMU,UCF,Mustangs,Knights,4,4,28,23,5,1344,UCF,1063,1063,0,A.J. Davis misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,69
+2017-18,2017-12-27,1966289,156,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,1063,1063,0,A.J. Davis makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,69
+2017-18,2017-12-27,1966289,157,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1605,SMU,1040,1040,23,Ben Emelogu II misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,748520,Ben Emelogu II,NA,0,SMU,SMU,70
+2017-18,2017-12-27,1966289,158,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,1040,1040,0,Ceasar DeJesus with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,70
+2017-18,2017-12-27,1966289,159,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,1021,1021,19,A.J. Davis misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.2,26.05,745911,A.J. Davis,NA,0,UCF,UCF,71
+2017-18,2017-12-27,1966289,160,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,1021,1021,0,Tacko Fall with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,71
+2017-18,2017-12-27,1966289,161,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1605,SMU,1019,1019,2,Personal foul committed by Ethan Chargois.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,71
+2017-18,2017-12-27,1966289,162,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,1012,1012,7,Tacko Fall misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,13.15,879498,Tacko Fall,NA,0,UCF,UCF,71
+2017-18,2017-12-27,1966289,163,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1605,SMU,1012,1012,0,Shake Milton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,71
+2017-18,2017-12-27,1966289,164,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1344,UCF,995,995,17,Personal foul committed by Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,72
+2017-18,2017-12-27,1966289,165,0,2,SMU,UCF,Mustangs,Knights,4,4,28,24,4,1605,SMU,986,986,9,Dayon Griffin steals the ball from Jarrey Foster.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,72
+2017-18,2017-12-27,1966289,166,0,2,SMU,UCF,Mustangs,Knights,4,4,28,26,2,1344,UCF,980,980,6,Ceasar DeJesus makes a layup. Dayon Griffin with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,958922,Ceasar DeJesus,Dayon Griffin,0,UCF,SMU,73
+2017-18,2017-12-27,1966289,167,0,2,SMU,UCF,Mustangs,Knights,4,4,28,26,2,1605,SMU,969,969,11,Jimmy Whitt Jr. with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,74
+2017-18,2017-12-27,1966289,168,0,2,SMU,UCF,Mustangs,Knights,4,4,28,29,-1,1344,UCF,946,946,23,Ceasar DeJesus makes a 3-point jump shot from 22 feet out. Dayon Griffin with the assist.,made,FALSE,TRUE,Jump Shot,3.3000000000000007,8.05,958922,Ceasar DeJesus,Dayon Griffin,0,UCF,SMU,75
+2017-18,2017-12-27,1966289,169,0,2,SMU,UCF,Mustangs,Knights,4,4,28,29,-1,1344,UCF,938,938,8,Shooting foul committed by A.J. Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,76
+2017-18,2017-12-27,1966289,170,0,2,SMU,UCF,Mustangs,Knights,4,4,28,29,-1,NA,NA,938,938,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,171,0,2,SMU,UCF,Mustangs,Knights,4,4,28,29,-1,1605,SMU,915,915,23,Shake Milton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.6,29.349999999999994,879492,Shake Milton,NA,0,SMU,SMU,76
+2017-18,2017-12-27,1966289,172,0,2,SMU,UCF,Mustangs,Knights,4,4,28,29,-1,1605,SMU,915,915,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,76
+2017-18,2017-12-27,1966289,173,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,913,913,2,Jarrey Foster dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,879491,Jarrey Foster,NA,0,SMU,UCF,76
+2017-18,2017-12-27,1966289,174,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1344,UCF,891,891,22,Ceasar DeJesus with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,77
+2017-18,2017-12-27,1966289,175,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,876,876,15,Ben Emelogu II misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,18.25,748520,Ben Emelogu II,NA,0,SMU,SMU,78
+2017-18,2017-12-27,1966289,176,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,876,876,0,Ethan Chargois with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,78
+2017-18,2017-12-27,1966289,177,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,870,870,6,Ethan Chargois misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,9.25,1067644,Ethan Chargois,NA,0,SMU,SMU,78
+2017-18,2017-12-27,1966289,178,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1344,UCF,870,870,0,Terrell Allen with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,78
+2017-18,2017-12-27,1966289,179,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,845,845,25,Shooting foul committed by Ben Emelogu II.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,79
+2017-18,2017-12-27,1966289,180,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1344,UCF,845,845,0,A.J. Davis misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,79
+2017-18,2017-12-27,1966289,182,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1344,UCF,845,845,0,A.J. Davis misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,79
+2017-18,2017-12-27,1966289,183,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,845,845,0,Jarrey Foster with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,79
+2017-18,2017-12-27,1966289,184,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1344,UCF,831,831,14,Personal foul committed by Chance McSpadden.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,80
+2017-18,2017-12-27,1966289,185,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,813,813,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,100000003, ,NA,0,SMU,SMU,80
+2017-18,2017-12-27,1966289,186,0,2,SMU,UCF,Mustangs,Knights,4,4,30,29,1,1605,SMU,813,813,0,Ben Emelogu II with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,80
+2017-18,2017-12-27,1966289,187,0,2,SMU,UCF,Mustangs,Knights,4,4,32,29,3,1605,SMU,811,811,2,Ben Emelogu II makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24,8.25,748520,Ben Emelogu II,NA,0,SMU,UCF,80
+2017-18,2017-12-27,1966289,188,0,2,SMU,UCF,Mustangs,Knights,4,4,32,29,3,1344,UCF,783,783,28,A.J. Davis misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,18.25,745911,A.J. Davis,NA,0,UCF,UCF,81
+2017-18,2017-12-27,1966289,189,0,2,SMU,UCF,Mustangs,Knights,4,4,32,29,3,1605,SMU,783,783,0,Akoy Agau with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,81
+2017-18,2017-12-27,1966289,190,0,2,SMU,UCF,Mustangs,Knights,4,4,34,29,5,1605,SMU,774,774,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,100000003, ,NA,0,SMU,UCF,82
+2017-18,2017-12-27,1966289,191,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,1344,UCF,766,766,8,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,192,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,NA,NA,766,766,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,193,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,1344,UCF,744,744,22,Terrell Allen misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,16.25,895838,Terrell Allen,NA,0,UCF,UCF,83
+2017-18,2017-12-27,1966289,194,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,1344,UCF,744,744,0,Chance McSpadden with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,83
+2017-18,2017-12-27,1966289,195,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,1344,UCF,713,713,31,Terrell Allen misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,83
+2017-18,2017-12-27,1966289,196,0,2,SMU,UCF,Mustangs,Knights,4,3,34,29,5,1605,SMU,713,713,0,Akoy Agau with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,83
+2017-18,2017-12-27,1966289,197,0,2,SMU,UCF,Mustangs,Knights,4,3,37,29,8,1605,SMU,694,694,19, makes a 3-point jump shot from 24 feet out. Akoy Agau with the assist.,made,FALSE,TRUE,Jump Shot,39.5,23.849999999999994,100000003, ,Akoy Agau,0,SMU,UCF,84
+2017-18,2017-12-27,1966289,198,0,2,SMU,UCF,Mustangs,Knights,4,3,37,31,6,1344,UCF,670,670,24,Ceasar DeJesus makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,28.7,10.95,958922,Ceasar DeJesus,NA,0,UCF,SMU,85
+2017-18,2017-12-27,1966289,199,0,2,SMU,UCF,Mustangs,Knights,4,3,37,31,6,1605,SMU,646,646,24,Offensive foul committed by Shake Milton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,86
+2017-18,2017-12-27,1966289,200,0,2,SMU,UCF,Mustangs,Knights,4,3,37,31,6,1605,SMU,646,646,0,Shake Milton with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,86
+2017-18,2017-12-27,1966289,201,0,2,SMU,UCF,Mustangs,Knights,4,3,37,31,6,NA,NA,646,646,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,202,0,2,SMU,UCF,Mustangs,Knights,4,3,37,31,6,1344,UCF,628,628,18,Akoy Agau steals the ball from Terrell Allen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,87
+2017-18,2017-12-27,1966289,203,0,2,SMU,UCF,Mustangs,Knights,4,3,39,31,8,1605,SMU,623,623,5,Shake Milton makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,879492,Shake Milton,,0,SMU,UCF,88
+2017-18,2017-12-27,1966289,204,0,2,SMU,UCF,Mustangs,Knights,4,3,39,31,8,1605,SMU,607,607,16,Personal foul committed by Akoy Agau.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,89
+2017-18,2017-12-27,1966289,205,0,2,SMU,UCF,Mustangs,Knights,4,3,39,31,8,1344,UCF,593,593,14,Terrell Allen misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,12,21.65,895838,Terrell Allen,NA,0,UCF,UCF,89
+2017-18,2017-12-27,1966289,206,0,2,SMU,UCF,Mustangs,Knights,4,3,39,31,8,1605,SMU,593,593,0,Shake Milton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,89
+2017-18,2017-12-27,1966289,207,0,2,SMU,UCF,Mustangs,Knights,4,3,41,31,10,1605,SMU,586,586,7,Jarrey Foster dunks. Shake Milton with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,879491,Jarrey Foster,Shake Milton,0,SMU,UCF,90
+2017-18,2017-12-27,1966289,208,0,2,SMU,UCF,Mustangs,Knights,4,3,41,31,10,1344,UCF,563,563,23,Jarrey Foster steals the ball from Dayon Griffin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,91
+2017-18,2017-12-27,1966289,209,0,2,SMU,UCF,Mustangs,Knights,4,3,41,31,10,1605,SMU,544,544,19, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,19.6,23.849999999999994,100000003, ,NA,0,SMU,SMU,92
+2017-18,2017-12-27,1966289,211,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1344,UCF,542,542,2,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,212,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,520,520,22,Shake Milton misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,8.25,879492,Shake Milton,NA,0,SMU,SMU,92
+2017-18,2017-12-27,1966289,213,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,520,520,0,Jarrey Foster with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,92
+2017-18,2017-12-27,1966289,214,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,518,518,2,Jarrey Foster misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,879491,Jarrey Foster,NA,0,SMU,SMU,92
+2017-18,2017-12-27,1966289,215,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,518,518,0,Ethan Chargois with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,92
+2017-18,2017-12-27,1966289,216,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,513,513,5,Jarrey Foster misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,7.25,879491,Jarrey Foster,NA,0,SMU,UCF,92
+2017-18,2017-12-27,1966289,218,0,2,SMU,UCF,Mustangs,Knights,4,2,41,31,10,1605,SMU,486,486,27,Shooting foul committed by Jarrey Foster.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,93
+2017-18,2017-12-27,1966289,219,0,2,SMU,UCF,Mustangs,Knights,4,2,41,32,9,1344,UCF,486,486,0,A.J. Davis makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,93
+2017-18,2017-12-27,1966289,220,0,2,SMU,UCF,Mustangs,Knights,4,2,41,33,8,1344,UCF,486,486,0,A.J. Davis makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,93
+2017-18,2017-12-27,1966289,221,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,462,462,24,Ethan Chargois makes a 3-point jump shot from 23 feet out. Shake Milton with the assist.,made,FALSE,TRUE,Jump Shot,2.799999999999997,9.950000000000003,1067644,Ethan Chargois,Shake Milton,0,SMU,UCF,94
+2017-18,2017-12-27,1966289,222,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1344,UCF,436,436,26,Ethan Chargois blocks a A.J. Davis layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,745911,A.J. Davis,NA,0,UCF,UCF,95
+2017-18,2017-12-27,1966289,223,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,436,436,0,Ethan Chargois with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,95
+2017-18,2017-12-27,1966289,224,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,420,420,16,Jimmy Whitt Jr. with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,96
+2017-18,2017-12-27,1966289,225,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,NA,NA,420,420,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,226,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1344,UCF,405,405,15,A.J. Davis misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.6,12.25,745911,A.J. Davis,NA,0,UCF,UCF,97
+2017-18,2017-12-27,1966289,227,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,405,405,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,97
+2017-18,2017-12-27,1966289,228,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1344,UCF,383,383,22,Personal foul committed by A.J. Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,98
+2017-18,2017-12-27,1966289,229,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,374,374,9,Ethan Chargois with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,98
+2017-18,2017-12-27,1966289,230,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1344,UCF,367,367,7,Ethan Chargois blocks a Ceasar DeJesus layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,958922,Ceasar DeJesus,NA,0,UCF,UCF,99
+2017-18,2017-12-27,1966289,232,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1344,UCF,343,343,24,Knights with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,99
+2017-18,2017-12-27,1966289,233,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,327,327,16,Offensive foul committed by Ben Emelogu II.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,100
+2017-18,2017-12-27,1966289,234,0,2,SMU,UCF,Mustangs,Knights,4,2,44,33,11,1605,SMU,327,327,0,Ben Emelogu II with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,100
+2017-18,2017-12-27,1966289,235,0,2,SMU,UCF,Mustangs,Knights,4,2,44,36,8,1344,UCF,318,318,9,Terrell Allen makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,34.4,25.75,895838,Terrell Allen,NA,0,UCF,SMU,101
+2017-18,2017-12-27,1966289,236,0,2,SMU,UCF,Mustangs,Knights,4,2,44,36,8,1605,SMU,287,287,31,Chad Brown blocks a Jarrey Foster layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,879491,Jarrey Foster,NA,0,SMU,SMU,102
+2017-18,2017-12-27,1966289,237,0,2,SMU,UCF,Mustangs,Knights,4,2,44,36,8,1344,UCF,287,287,0,Ceasar DeJesus with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,102
+2017-18,2017-12-27,1966289,238,0,2,SMU,UCF,Mustangs,Knights,4,2,44,38,6,1344,UCF,280,280,7,Chad Brown makes a layup. Ceasar DeJesus with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,879496,Chad Brown,Ceasar DeJesus,0,UCF,SMU,103
+2017-18,2017-12-27,1966289,239,0,2,SMU,UCF,Mustangs,Knights,4,2,44,38,6,1344,UCF,272,272,8,Personal foul committed by Dayon Griffin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,104
+2017-18,2017-12-27,1966289,240,0,2,SMU,UCF,Mustangs,Knights,4,2,46,38,8,1605,SMU,251,251,21,Jimmy Whitt Jr. makes a jump shot from 18 feet out. Shake Milton with the assist.,made,FALSE,FALSE,Jump Shot,41.4,12.25,891344,Jimmy Whitt Jr.,Shake Milton,0,SMU,UCF,104
+2017-18,2017-12-27,1966289,241,0,2,SMU,UCF,Mustangs,Knights,4,2,46,38,8,1344,UCF,239,239,12,Ceasar DeJesus misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22,12.25,958922,Ceasar DeJesus,NA,0,UCF,UCF,105
+2017-18,2017-12-27,1966289,242,0,2,SMU,UCF,Mustangs,Knights,4,2,46,38,8,1605,SMU,239,239,0,Ben Emelogu II with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,105
+2017-18,2017-12-27,1966289,243,0,2,SMU,UCF,Mustangs,Knights,4,2,48,38,10,1605,SMU,220,220,19,Shake Milton makes a jump shot from 10 feet out. Ben Emelogu II with the assist.,made,FALSE,FALSE,Jump Shot,29,14.25,879492,Shake Milton,Ben Emelogu II,0,SMU,UCF,106
+2017-18,2017-12-27,1966289,244,0,2,SMU,UCF,Mustangs,Knights,4,2,48,38,10,1344,UCF,193,193,27,Dayon Griffin misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,846618,Dayon Griffin,NA,0,UCF,UCF,107
+2017-18,2017-12-27,1966289,245,0,2,SMU,UCF,Mustangs,Knights,4,2,48,38,10,1344,UCF,193,193,0,Chad Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,107
+2017-18,2017-12-27,1966289,246,0,2,SMU,UCF,Mustangs,Knights,4,2,48,40,8,1344,UCF,188,188,5,Chad Brown dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,879496,Chad Brown,NA,0,UCF,SMU,107
+2017-18,2017-12-27,1966289,247,0,2,SMU,UCF,Mustangs,Knights,4,2,50,40,10,1605,SMU,178,178,10,Jarrey Foster dunks. Ben Emelogu II with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,879491,Jarrey Foster,Ben Emelogu II,0,SMU,SMU,108
+2017-18,2017-12-27,1966289,248,0,2,SMU,UCF,Mustangs,Knights,4,2,50,40,10,1344,UCF,178,178,0,Shooting foul committed by Chad Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,108
+2017-18,2017-12-27,1966289,249,0,2,SMU,UCF,Mustangs,Knights,4,2,50,40,10,NA,NA,178,178,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,250,0,2,SMU,UCF,Mustangs,Knights,4,2,50,40,10,1605,SMU,178,178,0,Jarrey Foster misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,108
+2017-18,2017-12-27,1966289,251,0,2,SMU,UCF,Mustangs,Knights,4,2,50,40,10,1344,UCF,178,178,0,A.J. Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,108
+2017-18,2017-12-27,1966289,252,0,2,SMU,UCF,Mustangs,Knights,4,2,50,42,8,1344,UCF,168,168,10,Ceasar DeJesus makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,958922,Ceasar DeJesus,NA,0,UCF,SMU,109
+2017-18,2017-12-27,1966289,253,0,2,SMU,UCF,Mustangs,Knights,4,2,50,42,8,1605,SMU,138,138,30,Shake Milton misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,15.549999999999997,879492,Shake Milton,NA,0,SMU,SMU,110
+2017-18,2017-12-27,1966289,254,0,2,SMU,UCF,Mustangs,Knights,4,2,50,42,8,1344,UCF,138,138,0,Terrell Allen with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,110
+2017-18,2017-12-27,1966289,255,0,2,SMU,UCF,Mustangs,Knights,4,2,50,42,8,1344,UCF,125,125,13,Jarrey Foster blocks a Terrell Allen layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,111
+2017-18,2017-12-27,1966289,257,0,2,SMU,UCF,Mustangs,Knights,4,2,50,42,8,1344,UCF,111,111,14,Shake Milton steals the ball from Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,111
+2017-18,2017-12-27,1966289,258,0,2,SMU,UCF,Mustangs,Knights,4,2,52,42,10,1605,SMU,84,84,27,Jimmy Whitt Jr. makes a jump shot from 19 feet out. Ben Emelogu II with the assist.,made,FALSE,FALSE,Jump Shot,13.899999999999999,21.150000000000006,891344,Jimmy Whitt Jr.,Ben Emelogu II,0,SMU,UCF,112
+2017-18,2017-12-27,1966289,259,0,2,SMU,UCF,Mustangs,Knights,4,1,52,42,10,1344,UCF,75,75,9,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,260,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,60,60,15,Dayon Griffin makes a layup. Ceasar DeJesus with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,846618,Dayon Griffin,Ceasar DeJesus,0,UCF,SMU,113
+2017-18,2017-12-27,1966289,261,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,57,57,3,Personal foul committed by A.J. Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,114
+2017-18,2017-12-27,1966289,262,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1605,SMU,57,57,0,Akoy Agau misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,114
+2017-18,2017-12-27,1966289,263,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,57,57,0,A.J. Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,114
+2017-18,2017-12-27,1966289,264,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,49,49,8,Terrell Allen misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895838,Terrell Allen,NA,0,UCF,UCF,115
+2017-18,2017-12-27,1966289,265,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,49,49,0,Chad Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,115
+2017-18,2017-12-27,1966289,267,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,39,39,10,Chad Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,115
+2017-18,2017-12-27,1966289,268,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,39,39,0,Chad Brown misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,879496,Chad Brown,NA,0,UCF,UCF,115
+2017-18,2017-12-27,1966289,269,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1605,SMU,39,39,0,Ben Emelogu II with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,115
+2017-18,2017-12-27,1966289,270,0,2,SMU,UCF,Mustangs,Knights,4,1,52,44,8,1344,UCF,39,39,0,Personal foul committed by Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,116
+2017-18,2017-12-27,1966289,271,0,2,SMU,UCF,Mustangs,Knights,4,1,53,44,9,1605,SMU,39,39,0,Shake Milton makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,116
+2017-18,2017-12-27,1966289,272,0,2,SMU,UCF,Mustangs,Knights,4,1,54,44,10,1605,SMU,39,39,0,Shake Milton makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,116
+2017-18,2017-12-27,1966289,273,0,2,SMU,UCF,Mustangs,Knights,4,1,54,47,7,1344,UCF,33,33,6,Dayon Griffin makes a 3-point jump shot from 23 feet out. Terrell Allen with the assist.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,12.95,846618,Dayon Griffin,Terrell Allen,0,UCF,SMU,117
+2017-18,2017-12-27,1966289,274,0,2,SMU,UCF,Mustangs,Knights,4,1,54,47,7,1344,UCF,32,32,1,Personal foul committed by Ceasar DeJesus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,118
+2017-18,2017-12-27,1966289,275,0,2,SMU,UCF,Mustangs,Knights,4,1,55,47,8,1605,SMU,32,32,0,Shake Milton makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,118
+2017-18,2017-12-27,1966289,276,0,2,SMU,UCF,Mustangs,Knights,4,1,55,47,8,1605,SMU,32,32,0,Shake Milton misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,118
+2017-18,2017-12-27,1966289,277,0,2,SMU,UCF,Mustangs,Knights,4,1,55,47,8,1344,UCF,32,32,0,Dayon Griffin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,118
+2017-18,2017-12-27,1966289,278,0,2,SMU,UCF,Mustangs,Knights,4,1,55,47,8,1344,UCF,26,26,6,Dayon Griffin misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,24.75,846618,Dayon Griffin,NA,0,UCF,UCF,119
+2017-18,2017-12-27,1966289,279,0,2,SMU,UCF,Mustangs,Knights,4,1,55,47,8,1344,UCF,26,26,0,Terrell Allen with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,119
+2017-18,2017-12-27,1966289,280,0,2,SMU,UCF,Mustangs,Knights,4,1,55,49,6,1344,UCF,23,23,3,A.J. Davis makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,745911,A.J. Davis,NA,0,UCF,SMU,119
+2017-18,2017-12-27,1966289,281,0,2,SMU,UCF,Mustangs,Knights,4,1,55,49,6,1344,UCF,18,18,5,Personal foul committed by Chad Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,120
+2017-18,2017-12-27,1966289,282,0,2,SMU,UCF,Mustangs,Knights,4,1,56,49,7,1605,SMU,18,18,0,Ethan Chargois makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,120
+2017-18,2017-12-27,1966289,283,0,2,SMU,UCF,Mustangs,Knights,4,1,56,49,7,1605,SMU,18,18,0,Shake Milton misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,120
+2017-18,2017-12-27,1966289,284,0,2,SMU,UCF,Mustangs,Knights,4,1,56,49,7,1344,UCF,18,18,0,Chad Brown with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,120
+2017-18,2017-12-27,1966289,285,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1344,UCF,11,11,7,A.J. Davis makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,745911,A.J. Davis,NA,0,UCF,UCF,121
+2017-18,2017-12-27,1966289,286,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1605,SMU,11,11,0,Shooting foul committed by Mustangs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,121
+2017-18,2017-12-27,1966289,287,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1344,UCF,11,11,0,Dayon Griffin with a turnover - Lane,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,121
+2017-18,2017-12-27,1966289,288,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1605,SMU,7,7,4,Dayon Griffin steals the ball from Shake Milton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,UCF,122
+2017-18,2017-12-27,1966289,289,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1344,UCF,1,1,6,Dayon Griffin misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.7,25.25,846618,Dayon Griffin,NA,0,UCF,UCF,123
+2017-18,2017-12-27,1966289,290,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,1605,SMU,1,1,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,SMU,123
+2017-18,2017-12-27,1966289,291,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2017-18,2017-12-27,1966289,292,0,2,SMU,UCF,Mustangs,Knights,4,1,56,51,5,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,SMU,SMU,NA

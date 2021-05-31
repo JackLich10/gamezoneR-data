@@ -1,0 +1,331 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Chris Smith,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Shaqquan Aaron,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Jaylen Hands,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Nick Rakocevic,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Prince Ali,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Moses Brown,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Bennie Boatwright,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Kris Wilkes,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Jonah Mathews,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Derryck Thornton,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2018-19,2019-01-19,2093488,2,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,1
+2018-19,2019-01-19,2093488,3,0,1,USC,UCLA,Trojans,Bruins,4,4,0,2,-2,1668,UCLA,2388,1188,12,Jaylen Hands makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,11,13.25,1061551,Jaylen Hands,NA,0,UCLA,USC,1
+2018-19,2019-01-19,2093488,4,0,1,USC,UCLA,Trojans,Bruins,4,4,0,2,-2,1669,USC,2362,1162,26,Kris Wilkes steals the ball from Nick Rakocevic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,2
+2018-19,2019-01-19,2093488,5,0,1,USC,UCLA,Trojans,Bruins,4,4,0,2,-2,1668,UCLA,2357,1157,5,Bennie Boatwright steals the ball from Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,3
+2018-19,2019-01-19,2093488,6,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2353,1153,4,Jonah Mathews makes a layup from 2 feet out. Shaqquan Aaron with the assist.,made,FALSE,FALSE,Layup Shot,25,7.25,946798,Jonah Mathews,Shaqquan Aaron,0,USC,UCLA,4
+2018-19,2019-01-19,2093488,7,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2340,1140,13,Chris Smith misses a 3-point layup from 25 feet out.,missed,FALSE,TRUE,Layup Shot,38,26.25,1061552,Chris Smith,NA,0,UCLA,UCLA,5
+2018-19,2019-01-19,2093488,8,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2340,1140,0,Moses Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2018-19,2019-01-19,2093488,9,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2335,1135,5,Personal foul committed by Nick Rakocevic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2018-19,2019-01-19,2093488,10,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2326,1126,9,Moses Brown misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38,11.25,1134769,Moses Brown,NA,0,UCLA,UCLA,5
+2018-19,2019-01-19,2093488,11,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2326,1126,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,5
+2018-19,2019-01-19,2093488,12,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1669,USC,2319,1119,7,Shaqquan Aaron makes a 3-point jump shot from 25 feet out. Jonah Mathews with the assist.,made,FALSE,TRUE,Jump Shot,42,23.25,846385,Shaqquan Aaron,Jonah Mathews,0,USC,UCLA,6
+2018-19,2019-01-19,2093488,13,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1668,UCLA,2311,1111,8,Shaqquan Aaron steals the ball from Jaylen Hands.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,7
+2018-19,2019-01-19,2093488,14,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1669,USC,2305,1105,6,Shaqquan Aaron misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14,17.25,846385,Shaqquan Aaron,NA,0,USC,USC,8
+2018-19,2019-01-19,2093488,15,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1668,UCLA,2305,1105,0,Moses Brown with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,8
+2018-19,2019-01-19,2093488,16,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1668,UCLA,2288,1088,17,Chris Smith misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39,11.25,1061552,Chris Smith,NA,0,UCLA,UCLA,9
+2018-19,2019-01-19,2093488,17,0,1,USC,UCLA,Trojans,Bruins,4,4,5,2,3,1669,USC,2288,1088,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,9
+2018-19,2019-01-19,2093488,18,0,1,USC,UCLA,Trojans,Bruins,4,4,7,2,5,1669,USC,2263,1063,25,Nick Rakocevic makes a layup. Derryck Thornton with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,Derryck Thornton,0,USC,UCLA,10
+2018-19,2019-01-19,2093488,19,0,1,USC,UCLA,Trojans,Bruins,4,3,7,2,5,1668,UCLA,2261,1061,2,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,20,0,1,USC,UCLA,Trojans,Bruins,4,3,7,2,5,1668,UCLA,2243,1043,18,Shaqquan Aaron blocks a Moses Brown dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,1134769,Moses Brown,NA,0,UCLA,USC,11
+2018-19,2019-01-19,2093488,22,0,1,USC,UCLA,Trojans,Bruins,4,3,10,2,8,1669,USC,2232,1032,11,Jonah Mathews makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.1,30.15,946798,Jonah Mathews,NA,0,USC,UCLA,12
+2018-19,2019-01-19,2093488,23,0,1,USC,UCLA,Trojans,Bruins,4,3,10,4,6,1668,UCLA,2220,1020,12,Kris Wilkes makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1061554,Kris Wilkes,Chris Smith,0,UCLA,USC,13
+2018-19,2019-01-19,2093488,24,0,1,USC,UCLA,Trojans,Bruins,4,3,10,4,6,1669,USC,2203,1003,17,Moses Brown blocks a Nick Rakocevic layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946803,Nick Rakocevic,NA,0,USC,USC,14
+2018-19,2019-01-19,2093488,25,0,1,USC,UCLA,Trojans,Bruins,4,3,10,4,6,1668,UCLA,2203,1003,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,14
+2018-19,2019-01-19,2093488,26,0,1,USC,UCLA,Trojans,Bruins,4,3,10,4,6,1668,UCLA,2198,998,5,Jaylen Hands misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,24.85,1061551,Jaylen Hands,NA,0,UCLA,UCLA,15
+2018-19,2019-01-19,2093488,27,0,1,USC,UCLA,Trojans,Bruins,4,3,10,4,6,1669,USC,2198,998,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,15
+2018-19,2019-01-19,2093488,28,0,1,USC,UCLA,Trojans,Bruins,4,3,12,4,8,1669,USC,2177,977,21,Nick Rakocevic makes a layup. Bennie Boatwright with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,946803,Nick Rakocevic,Bennie Boatwright,0,USC,UCLA,16
+2018-19,2019-01-19,2093488,29,0,1,USC,UCLA,Trojans,Bruins,4,3,12,4,8,1668,UCLA,2163,963,14,Shaqquan Aaron steals the ball from Prince Ali.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,17
+2018-19,2019-01-19,2093488,30,0,1,USC,UCLA,Trojans,Bruins,4,3,12,4,8,1668,UCLA,2160,960,3,Shooting foul committed by Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2018-19,2019-01-19,2093488,31,0,1,USC,UCLA,Trojans,Bruins,4,3,12,4,8,NA,NA,2160,960,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,32,0,1,USC,UCLA,Trojans,Bruins,4,3,13,4,9,1669,USC,2160,960,0,Nick Rakocevic makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2018-19,2019-01-19,2093488,33,0,1,USC,UCLA,Trojans,Bruins,4,3,14,4,10,1669,USC,2160,960,0,Nick Rakocevic makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,18
+2018-19,2019-01-19,2093488,34,0,1,USC,UCLA,Trojans,Bruins,4,3,14,4,10,1668,UCLA,2147,947,13,Kris Wilkes misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1061554,Kris Wilkes,NA,0,UCLA,UCLA,19
+2018-19,2019-01-19,2093488,35,0,1,USC,UCLA,Trojans,Bruins,4,3,14,4,10,1669,USC,2147,947,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,19
+2018-19,2019-01-19,2093488,36,0,1,USC,UCLA,Trojans,Bruins,4,3,14,4,10,1669,USC,2132,932,15,Jonah Mathews misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,26.049999999999997,946798,Jonah Mathews,NA,0,USC,USC,20
+2018-19,2019-01-19,2093488,37,0,1,USC,UCLA,Trojans,Bruins,4,3,14,4,10,1669,USC,2132,932,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,20
+2018-19,2019-01-19,2093488,38,0,1,USC,UCLA,Trojans,Bruins,4,3,16,4,12,1669,USC,2123,923,9,Bennie Boatwright makes a jump shot from 14 feet out. Jonah Mathews with the assist.,made,FALSE,FALSE,Jump Shot,36,13.450000000000003,884111,Bennie Boatwright,Jonah Mathews,0,USC,UCLA,20
+2018-19,2019-01-19,2093488,39,0,1,USC,UCLA,Trojans,Bruins,4,3,16,4,12,1668,UCLA,2090,890,33,Kris Wilkes misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,20,29.95,1061554,Kris Wilkes,NA,0,UCLA,UCLA,21
+2018-19,2019-01-19,2093488,40,0,1,USC,UCLA,Trojans,Bruins,4,3,16,4,12,1669,USC,2090,890,0,Derryck Thornton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,21
+2018-19,2019-01-19,2093488,41,0,1,USC,UCLA,Trojans,Bruins,4,3,16,4,12,1669,USC,2086,886,4,Derryck Thornton with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,22
+2018-19,2019-01-19,2093488,42,0,1,USC,UCLA,Trojans,Bruins,4,3,16,6,10,1668,UCLA,2084,884,2,Cody Riley makes a layup. Jaylen Hands with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1061550,Cody Riley,Jaylen Hands,0,UCLA,USC,23
+2018-19,2019-01-19,2093488,43,0,1,USC,UCLA,Trojans,Bruins,4,3,16,6,10,1669,USC,2062,862,22,Jonah Mathews with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,24
+2018-19,2019-01-19,2093488,44,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1668,UCLA,2049,849,13,Jaylen Hands makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,26.6,21.45,1061551,Jaylen Hands,NA,0,UCLA,USC,25
+2018-19,2019-01-19,2093488,45,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1669,USC,2021,821,28,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,18.75,884111,Bennie Boatwright,NA,0,USC,USC,26
+2018-19,2019-01-19,2093488,46,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1668,UCLA,2021,821,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,26
+2018-19,2019-01-19,2093488,47,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1668,UCLA,2020,820,1,Cody Riley with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,27
+2018-19,2019-01-19,2093488,48,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1669,USC,2017,817,3,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.6,26.75,884111,Bennie Boatwright,NA,0,USC,USC,28
+2018-19,2019-01-19,2093488,49,0,1,USC,UCLA,Trojans,Bruins,4,3,16,8,8,1668,UCLA,2017,817,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,28
+2018-19,2019-01-19,2093488,50,0,1,USC,UCLA,Trojans,Bruins,4,3,16,10,6,1668,UCLA,2003,803,14,Cody Riley makes a layup. Kris Wilkes with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Kris Wilkes,0,UCLA,USC,29
+2018-19,2019-01-19,2093488,51,0,1,USC,UCLA,Trojans,Bruins,3,3,16,10,6,1669,USC,1999,799,4,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,52,0,1,USC,UCLA,Trojans,Bruins,3,3,18,10,8,1669,USC,1984,784,15,Bennie Boatwright makes a jump shot from 18 feet out. Shaqquan Aaron with the assist.,made,FALSE,FALSE,Jump Shot,36.5,19.150000000000006,884111,Bennie Boatwright,Shaqquan Aaron,0,USC,UCLA,30
+2018-19,2019-01-19,2093488,53,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1958,758,26,Kris Wilkes makes a layup. Jaylen Hands with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061554,Kris Wilkes,Jaylen Hands,0,UCLA,UCLA,31
+2018-19,2019-01-19,2093488,54,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1958,758,0,Shooting foul committed by Nick Rakocevic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,31
+2018-19,2019-01-19,2093488,55,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1958,758,0,Kris Wilkes misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,31
+2018-19,2019-01-19,2093488,56,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1958,758,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,31
+2018-19,2019-01-19,2093488,57,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1935,735,23,Jonah Mathews misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8,6.25,946798,Jonah Mathews,NA,0,USC,USC,32
+2018-19,2019-01-19,2093488,58,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1935,735,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,32
+2018-19,2019-01-19,2093488,59,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1922,722,13,Personal foul committed by Shaqquan Aaron.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2018-19,2019-01-19,2093488,60,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1916,716,6,Kris Wilkes misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,9.95,1061554,Kris Wilkes,NA,0,UCLA,UCLA,33
+2018-19,2019-01-19,2093488,61,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1916,716,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,33
+2018-19,2019-01-19,2093488,62,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1669,USC,1906,706,10,Jaylen Hands steals the ball from Jonah Mathews.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,34
+2018-19,2019-01-19,2093488,63,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1902,702,4,Jaylen Hands misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1061551,Jaylen Hands,NA,0,UCLA,UCLA,35
+2018-19,2019-01-19,2093488,64,0,1,USC,UCLA,Trojans,Bruins,3,3,18,12,6,1668,UCLA,1902,702,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2018-19,2019-01-19,2093488,65,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1899,699,3,Prince Ali makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,884090,Prince Ali,NA,0,UCLA,USC,35
+2018-19,2019-01-19,2093488,66,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1872,672,27,Jonah Mathews misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,8.849999999999994,946798,Jonah Mathews,NA,0,USC,USC,36
+2018-19,2019-01-19,2093488,67,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1872,672,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,36
+2018-19,2019-01-19,2093488,68,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1864,664,8,Prince Ali misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,24.85,884090,Prince Ali,NA,0,UCLA,USC,37
+2018-19,2019-01-19,2093488,70,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,NA,NA,1864,664,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,71,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1848,648,16,Derryck Thornton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,25.950000000000003,887664,Derryck Thornton,NA,0,USC,USC,38
+2018-19,2019-01-19,2093488,72,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1848,648,0,Jaylen Hands with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,38
+2018-19,2019-01-19,2093488,73,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1838,638,10,Personal foul committed by Victor Uyaelunmo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2018-19,2019-01-19,2093488,74,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1835,635,3,Shooting foul committed by Victor Uyaelunmo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2018-19,2019-01-19,2093488,75,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1835,635,0,Moses Brown misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2018-19,2019-01-19,2093488,77,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1835,635,0,Moses Brown misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2018-19,2019-01-19,2093488,78,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1835,635,0,J'Raan Brooks with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,39
+2018-19,2019-01-19,2093488,79,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1816,616,19,Bennie Boatwright misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.799999999999997,11.950000000000003,884111,Bennie Boatwright,NA,0,USC,USC,40
+2018-19,2019-01-19,2093488,80,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1816,616,0,Moses Brown with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,40
+2018-19,2019-01-19,2093488,81,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1811,611,5,Personal foul committed by J'Raan Brooks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2018-19,2019-01-19,2093488,82,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1668,UCLA,1784,584,27,Cody Riley misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.9,28.25,1061550,Cody Riley,NA,0,UCLA,UCLA,41
+2018-19,2019-01-19,2093488,83,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1784,584,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,41
+2018-19,2019-01-19,2093488,84,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1773,573,11,Prince Ali steals the ball from J'Raan Brooks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,42
+2018-19,2019-01-19,2093488,85,0,1,USC,UCLA,Trojans,Bruins,3,3,18,14,4,1669,USC,1770,570,3,Shooting foul committed by Elijah Weaver.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2018-19,2019-01-19,2093488,86,0,1,USC,UCLA,Trojans,Bruins,3,3,18,15,3,1668,UCLA,1770,570,0,Jaylen Hands makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2018-19,2019-01-19,2093488,87,0,1,USC,UCLA,Trojans,Bruins,3,3,18,16,2,1668,UCLA,1770,570,0,Jaylen Hands makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,43
+2018-19,2019-01-19,2093488,88,0,1,USC,UCLA,Trojans,Bruins,3,3,20,16,4,1669,USC,1759,559,11,J'Raan Brooks makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1135159,J'Raan Brooks,NA,0,USC,USC,44
+2018-19,2019-01-19,2093488,89,0,1,USC,UCLA,Trojans,Bruins,3,3,20,16,4,1668,UCLA,1759,559,0,Shooting foul committed by Moses Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2018-19,2019-01-19,2093488,90,0,1,USC,UCLA,Trojans,Bruins,3,3,20,16,4,1669,USC,1759,559,0,J'Raan Brooks misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2018-19,2019-01-19,2093488,91,0,1,USC,UCLA,Trojans,Bruins,3,3,20,16,4,1668,UCLA,1759,559,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,44
+2018-19,2019-01-19,2093488,92,0,1,USC,UCLA,Trojans,Bruins,3,3,20,18,2,1668,UCLA,1739,539,20,Jules Bernard makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1134770,Jules Bernard,NA,0,UCLA,USC,45
+2018-19,2019-01-19,2093488,93,0,1,USC,UCLA,Trojans,Bruins,3,3,20,18,2,1669,USC,1730,530,9,Shaqquan Aaron misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,7.549999999999997,846385,Shaqquan Aaron,NA,0,USC,USC,46
+2018-19,2019-01-19,2093488,94,0,1,USC,UCLA,Trojans,Bruins,3,3,20,18,2,1668,UCLA,1730,530,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,46
+2018-19,2019-01-19,2093488,95,0,1,USC,UCLA,Trojans,Bruins,3,3,20,18,2,1668,UCLA,1723,523,7,Jaylen Hands misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,1061551,Jaylen Hands,NA,0,UCLA,UCLA,47
+2018-19,2019-01-19,2093488,96,0,1,USC,UCLA,Trojans,Bruins,3,3,20,18,2,1669,USC,1723,523,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,47
+2018-19,2019-01-19,2093488,97,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1669,USC,1716,516,7,J'Raan Brooks makes a jump shot from 12 feet out. Shaqquan Aaron with the assist.,made,FALSE,FALSE,Jump Shot,13,7.25,1135159,J'Raan Brooks,Shaqquan Aaron,0,USC,UCLA,48
+2018-19,2019-01-19,2093488,98,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1705,505,11,Prince Ali misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884090,Prince Ali,NA,0,UCLA,UCLA,49
+2018-19,2019-01-19,2093488,99,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1705,505,0,Moses Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2018-19,2019-01-19,2093488,100,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1669,USC,1701,501,4,Shooting foul committed by Bennie Boatwright.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2018-19,2019-01-19,2093488,101,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1701,501,0,Moses Brown misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2018-19,2019-01-19,2093488,103,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1701,501,0,Moses Brown misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2018-19,2019-01-19,2093488,104,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1669,USC,1701,501,0,J'Raan Brooks with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,49
+2018-19,2019-01-19,2093488,105,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1669,USC,1685,485,16,Cody Riley steals the ball from Shaqquan Aaron.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,50
+2018-19,2019-01-19,2093488,106,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1680,480,5,Offensive foul committed by Moses Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2018-19,2019-01-19,2093488,107,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1680,480,0,Moses Brown with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,51
+2018-19,2019-01-19,2093488,108,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,NA,NA,1680,480,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,109,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1669,USC,1670,470,10,Jules Bernard steals the ball from Derryck Thornton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,52
+2018-19,2019-01-19,2093488,110,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1664,464,6,Cody Riley misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,NA,0,UCLA,UCLA,53
+2018-19,2019-01-19,2093488,111,0,1,USC,UCLA,Trojans,Bruins,3,3,22,18,4,1668,UCLA,1664,464,0,Jalen Hill with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,53
+2018-19,2019-01-19,2093488,112,0,1,USC,UCLA,Trojans,Bruins,3,3,22,20,2,1668,UCLA,1660,460,4,Jalen Hill makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061559,Jalen Hill,NA,0,UCLA,USC,53
+2018-19,2019-01-19,2093488,113,0,1,USC,UCLA,Trojans,Bruins,3,3,22,20,2,1669,USC,1651,451,9,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.100000000000001,21.849999999999994,884111,Bennie Boatwright,NA,0,USC,USC,54
+2018-19,2019-01-19,2093488,114,0,1,USC,UCLA,Trojans,Bruins,3,3,22,20,2,1668,UCLA,1651,451,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,54
+2018-19,2019-01-19,2093488,115,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1668,UCLA,1642,442,9,Kris Wilkes makes a 3-point jump shot from 23 feet out. Jules Bernard with the assist.,made,FALSE,TRUE,Jump Shot,35,26.25,1061554,Kris Wilkes,Jules Bernard,0,UCLA,USC,55
+2018-19,2019-01-19,2093488,116,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1669,USC,1619,419,23,Jonah Mathews misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,25.950000000000003,946798,Jonah Mathews,NA,0,USC,USC,56
+2018-19,2019-01-19,2093488,117,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1668,UCLA,1619,419,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,56
+2018-19,2019-01-19,2093488,118,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1668,UCLA,1612,412,7,Kris Wilkes misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1061554,Kris Wilkes,NA,0,UCLA,UCLA,57
+2018-19,2019-01-19,2093488,119,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1669,USC,1612,412,0,J'Raan Brooks with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,57
+2018-19,2019-01-19,2093488,120,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1669,USC,1599,399,13,Shaqquan Aaron misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.9,21.849999999999994,846385,Shaqquan Aaron,NA,0,USC,USC,58
+2018-19,2019-01-19,2093488,121,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1668,UCLA,1599,399,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,58
+2018-19,2019-01-19,2093488,122,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1668,UCLA,1583,383,16,Jules Bernard misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,59
+2018-19,2019-01-19,2093488,123,0,1,USC,UCLA,Trojans,Bruins,3,3,22,23,-1,1669,USC,1583,383,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,59
+2018-19,2019-01-19,2093488,124,0,1,USC,UCLA,Trojans,Bruins,3,3,24,23,1,1669,USC,1576,376,7,Derryck Thornton makes a jump shot from 18 feet out. Jonah Mathews with the assist.,made,FALSE,FALSE,Jump Shot,37,18.25,887664,Derryck Thornton,Jonah Mathews,0,USC,UCLA,60
+2018-19,2019-01-19,2093488,125,0,1,USC,UCLA,Trojans,Bruins,3,3,24,23,1,1668,UCLA,1555,355,21,Derryck Thornton steals the ball from Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,61
+2018-19,2019-01-19,2093488,126,0,1,USC,UCLA,Trojans,Bruins,3,3,26,23,3,1669,USC,1537,337,18,Jonah Mathews makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,946798,Jonah Mathews,NA,0,USC,UCLA,62
+2018-19,2019-01-19,2093488,127,0,1,USC,UCLA,Trojans,Bruins,3,3,26,23,3,1668,UCLA,1523,323,14,Elijah Weaver steals the ball from Prince Ali.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,63
+2018-19,2019-01-19,2093488,128,0,1,USC,UCLA,Trojans,Bruins,3,3,29,23,6,1669,USC,1510,310,13,Jonah Mathews makes a 3-point jump shot from 24 feet out. Shaqquan Aaron with the assist.,made,FALSE,TRUE,Jump Shot,17,27.25,946798,Jonah Mathews,Shaqquan Aaron,0,USC,UCLA,64
+2018-19,2019-01-19,2093488,129,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1493,293,17,Cody Riley makes a layup. Kris Wilkes with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,Kris Wilkes,0,UCLA,USC,65
+2018-19,2019-01-19,2093488,130,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1669,USC,1471,271,22,Derryck Thornton misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,20.950000000000003,887664,Derryck Thornton,NA,0,USC,USC,66
+2018-19,2019-01-19,2093488,131,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1471,271,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,66
+2018-19,2019-01-19,2093488,132,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1456,256,15,Derryck Thornton blocks a Prince Ali 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.3000000000000007,7.75,884090,Prince Ali,NA,0,UCLA,UCLA,67
+2018-19,2019-01-19,2093488,133,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1669,USC,1456,256,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,67
+2018-19,2019-01-19,2093488,134,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1669,USC,1448,248,8,Jonah Mathews misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21,29.150000000000006,946798,Jonah Mathews,NA,0,USC,USC,68
+2018-19,2019-01-19,2093488,136,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1445,245,3,Personal foul committed by Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,68
+2018-19,2019-01-19,2093488,137,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1669,USC,1440,240,5,Shaqquan Aaron misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,10.450000000000003,846385,Shaqquan Aaron,NA,0,USC,USC,68
+2018-19,2019-01-19,2093488,138,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1440,240,0,Jaylen Hands with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,68
+2018-19,2019-01-19,2093488,139,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1431,231,9,Derryck Thornton steals the ball from Jaylen Hands.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,69
+2018-19,2019-01-19,2093488,140,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1669,USC,1427,227,4,Derryck Thornton misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,887664,Derryck Thornton,NA,0,USC,USC,70
+2018-19,2019-01-19,2093488,141,0,1,USC,UCLA,Trojans,Bruins,3,3,29,25,4,1668,UCLA,1427,227,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,70
+2018-19,2019-01-19,2093488,142,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1668,UCLA,1420,220,7,Kris Wilkes makes a layup. Cody Riley with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061554,Kris Wilkes,Cody Riley,0,UCLA,USC,71
+2018-19,2019-01-19,2093488,143,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1669,USC,1414,214,6,Jaylen Hands steals the ball from Derryck Thornton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,72
+2018-19,2019-01-19,2093488,144,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1668,UCLA,1403,203,11,Jaylen Hands misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.3,26.95,1061551,Jaylen Hands,NA,0,UCLA,UCLA,73
+2018-19,2019-01-19,2093488,145,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1668,UCLA,1403,203,0,Kenneth Nwuba with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2018-19,2019-01-19,2093488,146,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1669,USC,1403,203,0,Personal foul committed by Derryck Thornton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2018-19,2019-01-19,2093488,147,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,NA,NA,1403,203,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,148,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1668,UCLA,1403,203,0,Kenneth Nwuba misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2018-19,2019-01-19,2093488,149,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1669,USC,1403,203,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,73
+2018-19,2019-01-19,2093488,150,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1668,UCLA,1383,183,20,Shooting foul committed by Cody Riley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,74
+2018-19,2019-01-19,2093488,151,0,1,USC,UCLA,Trojans,Bruins,3,3,29,27,2,1669,USC,1383,183,0,J'Raan Brooks misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,74
+2018-19,2019-01-19,2093488,153,0,1,USC,UCLA,Trojans,Bruins,3,3,30,27,3,1669,USC,1383,183,0,J'Raan Brooks makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,74
+2018-19,2019-01-19,2093488,154,0,1,USC,UCLA,Trojans,Bruins,3,3,30,29,1,1668,UCLA,1372,172,11,Kris Wilkes makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1061554,Kris Wilkes,NA,0,UCLA,USC,75
+2018-19,2019-01-19,2093488,155,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1669,USC,1345,145,27,Bennie Boatwright makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,16.1,27.049999999999997,884111,Bennie Boatwright,NA,0,USC,UCLA,76
+2018-19,2019-01-19,2093488,156,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1668,UCLA,1333,133,12,Jaylen Hands with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,77
+2018-19,2019-01-19,2093488,157,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1669,USC,1330,130,3,Bennie Boatwright misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884111,Bennie Boatwright,NA,0,USC,USC,78
+2018-19,2019-01-19,2093488,158,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1668,UCLA,1330,130,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,78
+2018-19,2019-01-19,2093488,159,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1668,UCLA,1305,105,25,Bennie Boatwright blocks a Kenneth Nwuba layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134773,Kenneth Nwuba,NA,0,UCLA,UCLA,79
+2018-19,2019-01-19,2093488,161,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1668,UCLA,1305,105,0,Offensive foul committed by Kenneth Nwuba.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,79
+2018-19,2019-01-19,2093488,162,0,1,USC,UCLA,Trojans,Bruins,3,3,33,29,4,1668,UCLA,1305,105,0,Kenneth Nwuba with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,79
+2018-19,2019-01-19,2093488,163,0,1,USC,UCLA,Trojans,Bruins,3,3,36,29,7,1669,USC,1295,95,10,Shaqquan Aaron makes a 3-point jump shot from 24 feet out. Jonah Mathews with the assist.,made,FALSE,TRUE,Jump Shot,1,9.25,846385,Shaqquan Aaron,Jonah Mathews,0,USC,UCLA,80
+2018-19,2019-01-19,2093488,164,0,1,USC,UCLA,Trojans,Bruins,3,3,36,29,7,1668,UCLA,1271,71,24,Jonah Mathews steals the ball from Kris Wilkes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,81
+2018-19,2019-01-19,2093488,165,0,1,USC,UCLA,Trojans,Bruins,3,3,36,29,7,1669,USC,1261,61,10,Elijah Weaver with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,82
+2018-19,2019-01-19,2093488,166,0,1,USC,UCLA,Trojans,Bruins,3,3,36,31,5,1668,UCLA,1258,58,3,Jaylen Hands makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,27.8,15.55,1061551,Jaylen Hands,NA,0,UCLA,USC,83
+2018-19,2019-01-19,2093488,167,0,1,USC,UCLA,Trojans,Bruins,3,3,36,31,5,1669,USC,1241,41,17,Shaqquan Aaron misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.200000000000003,27.049999999999997,846385,Shaqquan Aaron,NA,0,USC,UCLA,84
+2018-19,2019-01-19,2093488,169,0,1,USC,UCLA,Trojans,Bruins,3,3,36,33,3,1668,UCLA,1216,16,25,Jaylen Hands makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061551,Jaylen Hands,NA,0,UCLA,USC,85
+2018-19,2019-01-19,2093488,170,0,1,USC,UCLA,Trojans,Bruins,3,3,36,33,3,1669,USC,1203,3,13,Bennie Boatwright misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,23.349999999999994,884111,Bennie Boatwright,NA,0,USC,USC,86
+2018-19,2019-01-19,2093488,171,0,1,USC,UCLA,Trojans,Bruins,3,3,36,33,3,1668,UCLA,1203,3,0,Prince Ali with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,86
+2018-19,2019-01-19,2093488,172,0,1,USC,UCLA,Trojans,Bruins,3,3,36,33,3,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,173,0,2,USC,UCLA,Trojans,Bruins,4,4,36,33,3,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,87
+2018-19,2019-01-19,2093488,174,0,2,USC,UCLA,Trojans,Bruins,4,4,36,33,3,1668,UCLA,1193,1193,7,Moses Brown misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134769,Moses Brown,NA,0,UCLA,UCLA,88
+2018-19,2019-01-19,2093488,175,0,2,USC,UCLA,Trojans,Bruins,4,4,36,33,3,1669,USC,1193,1193,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,88
+2018-19,2019-01-19,2093488,176,0,2,USC,UCLA,Trojans,Bruins,4,4,36,33,3,1669,USC,1184,1184,9,Prince Ali steals the ball from Shaqquan Aaron.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,89
+2018-19,2019-01-19,2093488,177,0,2,USC,UCLA,Trojans,Bruins,4,4,36,33,3,1669,USC,1180,1180,4,Personal foul committed by Jonah Mathews.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2018-19,2019-01-19,2093488,178,0,2,USC,UCLA,Trojans,Bruins,4,4,36,36,0,1668,UCLA,1177,1177,3,Prince Ali makes a 3-point jump shot from 23 feet out. Jaylen Hands with the assist.,made,FALSE,TRUE,Jump Shot,10.5,23.55,884090,Prince Ali,Jaylen Hands,0,UCLA,USC,90
+2018-19,2019-01-19,2093488,179,0,2,USC,UCLA,Trojans,Bruins,4,4,36,36,0,1669,USC,1159,1159,18,Shaqquan Aaron misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,9.049999999999997,846385,Shaqquan Aaron,NA,0,USC,USC,91
+2018-19,2019-01-19,2093488,180,0,2,USC,UCLA,Trojans,Bruins,4,4,36,36,0,1669,USC,1159,1159,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,91
+2018-19,2019-01-19,2093488,181,0,2,USC,UCLA,Trojans,Bruins,4,4,38,36,2,1669,USC,1154,1154,5,Nick Rakocevic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,UCLA,91
+2018-19,2019-01-19,2093488,182,0,2,USC,UCLA,Trojans,Bruins,4,4,38,38,0,1668,UCLA,1143,1143,11,Moses Brown makes a layup. Chris Smith with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1134769,Moses Brown,Chris Smith,0,UCLA,USC,92
+2018-19,2019-01-19,2093488,183,0,2,USC,UCLA,Trojans,Bruins,4,4,38,38,0,1669,USC,1123,1123,20,Jonah Mathews misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.7999999999999972,7.75,946798,Jonah Mathews,NA,0,USC,USC,93
+2018-19,2019-01-19,2093488,184,0,2,USC,UCLA,Trojans,Bruins,4,4,38,38,0,1668,UCLA,1123,1123,0,Jaylen Hands with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,93
+2018-19,2019-01-19,2093488,185,0,2,USC,UCLA,Trojans,Bruins,4,4,38,38,0,1668,UCLA,1112,1112,11,Chris Smith misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,48.6,6.65,1061552,Chris Smith,NA,0,UCLA,UCLA,94
+2018-19,2019-01-19,2093488,186,0,2,USC,UCLA,Trojans,Bruins,4,4,38,38,0,1669,USC,1112,1112,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,94
+2018-19,2019-01-19,2093488,187,0,2,USC,UCLA,Trojans,Bruins,4,4,41,38,3,1669,USC,1104,1104,8,Bennie Boatwright makes a 3-point jump shot from 25 feet out. Jonah Mathews with the assist.,made,FALSE,TRUE,Jump Shot,10,25.25,884111,Bennie Boatwright,Jonah Mathews,0,USC,UCLA,95
+2018-19,2019-01-19,2093488,188,0,2,USC,UCLA,Trojans,Bruins,4,4,41,38,3,1668,UCLA,1084,1084,20,Chris Smith misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1061552,Chris Smith,NA,0,UCLA,UCLA,96
+2018-19,2019-01-19,2093488,189,0,2,USC,UCLA,Trojans,Bruins,4,4,41,38,3,1669,USC,1084,1084,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,96
+2018-19,2019-01-19,2093488,190,0,2,USC,UCLA,Trojans,Bruins,4,4,41,38,3,1669,USC,1066,1066,18,Moses Brown blocks a Bennie Boatwright jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,12.950000000000003,884111,Bennie Boatwright,NA,0,USC,USC,97
+2018-19,2019-01-19,2093488,191,0,2,USC,UCLA,Trojans,Bruins,4,4,41,38,3,1669,USC,1066,1066,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,97
+2018-19,2019-01-19,2093488,192,0,2,USC,UCLA,Trojans,Bruins,4,4,44,38,6,1669,USC,1062,1062,4,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Nick Rakocevic with the assist.,made,FALSE,TRUE,Jump Shot,9.600000000000001,23.650000000000006,884111,Bennie Boatwright,Nick Rakocevic,0,USC,UCLA,97
+2018-19,2019-01-19,2093488,193,0,2,USC,UCLA,Trojans,Bruins,4,4,44,38,6,1668,UCLA,1046,1046,16,Offensive foul committed by Jaylen Hands.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2018-19,2019-01-19,2093488,194,0,2,USC,UCLA,Trojans,Bruins,4,4,44,38,6,1668,UCLA,1046,1046,0,Jaylen Hands with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,98
+2018-19,2019-01-19,2093488,195,0,2,USC,UCLA,Trojans,Bruins,4,4,44,38,6,1669,USC,1046,1046,0,Derryck Thornton misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,18,29.25,887664,Derryck Thornton,NA,0,USC,USC,99
+2018-19,2019-01-19,2093488,196,0,2,USC,UCLA,Trojans,Bruins,4,4,44,38,6,1668,UCLA,1046,1046,0,Prince Ali with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,99
+2018-19,2019-01-19,2093488,197,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1668,UCLA,1034,1034,12,Prince Ali makes a layup. Cody Riley with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,884090,Prince Ali,Cody Riley,0,UCLA,USC,100
+2018-19,2019-01-19,2093488,198,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1669,USC,1026,1026,8,Shaqquan Aaron misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.6,10.25,846385,Shaqquan Aaron,NA,0,USC,USC,101
+2018-19,2019-01-19,2093488,199,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1669,USC,1026,1026,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2018-19,2019-01-19,2093488,200,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1669,USC,1021,1021,5,Nick Rakocevic misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,USC,101
+2018-19,2019-01-19,2093488,201,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1668,UCLA,1021,1021,0,Moses Brown with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,101
+2018-19,2019-01-19,2093488,202,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1668,UCLA,986,986,35,Derryck Thornton steals the ball from Kris Wilkes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,102
+2018-19,2019-01-19,2093488,203,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1669,USC,981,981,5,Prince Ali blocks a Jonah Mathews layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946798,Jonah Mathews,NA,0,USC,USC,103
+2018-19,2019-01-19,2093488,204,0,2,USC,UCLA,Trojans,Bruins,4,4,44,40,4,1669,USC,981,981,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,103
+2018-19,2019-01-19,2093488,205,0,2,USC,UCLA,Trojans,Bruins,4,4,46,40,6,1669,USC,981,981,0,Nick Rakocevic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,UCLA,103
+2018-19,2019-01-19,2093488,206,0,2,USC,UCLA,Trojans,Bruins,4,4,46,40,6,1669,USC,979,979,2,Personal foul committed by Jonah Mathews.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2018-19,2019-01-19,2093488,207,0,2,USC,UCLA,Trojans,Bruins,4,4,46,40,6,1668,UCLA,961,961,18,Prince Ali misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884090,Prince Ali,NA,0,UCLA,UCLA,104
+2018-19,2019-01-19,2093488,208,0,2,USC,UCLA,Trojans,Bruins,4,4,46,40,6,1668,UCLA,961,961,0,Jalen Hill with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2018-19,2019-01-19,2093488,209,0,2,USC,UCLA,Trojans,Bruins,4,4,46,42,4,1668,UCLA,957,957,4,Jalen Hill dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,1061559,Jalen Hill,NA,0,UCLA,USC,104
+2018-19,2019-01-19,2093488,210,0,2,USC,UCLA,Trojans,Bruins,4,4,48,42,6,1669,USC,930,930,27,Shaqquan Aaron makes a layup. Nick Rakocevic with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,846385,Shaqquan Aaron,Nick Rakocevic,0,USC,UCLA,105
+2018-19,2019-01-19,2093488,211,0,2,USC,UCLA,Trojans,Bruins,4,4,48,42,6,NA,NA,930,930,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,212,0,2,USC,UCLA,Trojans,Bruins,4,4,48,42,6,1668,UCLA,914,914,16,Prince Ali misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,19.65,884090,Prince Ali,NA,0,UCLA,UCLA,106
+2018-19,2019-01-19,2093488,213,0,2,USC,UCLA,Trojans,Bruins,4,4,48,42,6,1669,USC,914,914,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,106
+2018-19,2019-01-19,2093488,214,0,2,USC,UCLA,Trojans,Bruins,4,4,48,42,6,1668,UCLA,909,909,5,Personal foul committed by Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,107
+2018-19,2019-01-19,2093488,215,0,2,USC,UCLA,Trojans,Bruins,4,4,50,42,8,1669,USC,886,886,23,Nick Rakocevic dunks. Derryck Thornton with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,946803,Nick Rakocevic,Derryck Thornton,0,USC,UCLA,107
+2018-19,2019-01-19,2093488,216,0,2,USC,UCLA,Trojans,Bruins,4,4,50,42,8,1668,UCLA,862,862,24,Jaylen Hands with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,108
+2018-19,2019-01-19,2093488,217,0,2,USC,UCLA,Trojans,Bruins,4,4,53,42,11,1669,USC,852,852,10,Elijah Weaver makes a 3-point jump shot from 24 feet out. Shaqquan Aaron with the assist.,made,FALSE,TRUE,Jump Shot,4.799999999999997,18.450000000000003,1135157,Elijah Weaver,Shaqquan Aaron,0,USC,UCLA,109
+2018-19,2019-01-19,2093488,218,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,845,845,7,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,219,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,839,839,6,Kris Wilkes misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1061554,Kris Wilkes,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,220,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,839,839,0,Moses Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,221,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,834,834,5,Moses Brown misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134769,Moses Brown,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,222,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,834,834,0,Moses Brown with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,223,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1669,USC,834,834,0,Shooting foul committed by Elijah Weaver.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,224,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,834,834,0,Moses Brown misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2018-19,2019-01-19,2093488,226,0,2,USC,UCLA,Trojans,Bruins,4,3,53,42,11,1668,UCLA,834,834,0,Moses Brown misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,110
+2018-19,2019-01-19,2093488,228,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,813,813,21,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Nick Rakocevic with the assist.,made,FALSE,TRUE,Jump Shot,27,29.25,884111,Bennie Boatwright,Nick Rakocevic,0,USC,UCLA,111
+2018-19,2019-01-19,2093488,229,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1668,UCLA,803,803,10,Elijah Weaver steals the ball from Moses Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,112
+2018-19,2019-01-19,2093488,230,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,781,781,22,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,22.150000000000006,884111,Bennie Boatwright,NA,0,USC,USC,113
+2018-19,2019-01-19,2093488,231,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1668,UCLA,781,781,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,113
+2018-19,2019-01-19,2093488,232,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1668,UCLA,767,767,14,Cody Riley with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,114
+2018-19,2019-01-19,2093488,233,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,751,751,16,Shaqquan Aaron with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,115
+2018-19,2019-01-19,2093488,234,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1668,UCLA,721,721,30,Chris Smith misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.4,7.05,1061552,Chris Smith,NA,0,UCLA,UCLA,116
+2018-19,2019-01-19,2093488,235,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,721,721,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,116
+2018-19,2019-01-19,2093488,236,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,697,697,24,Jonah Mathews misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,9.950000000000003,946798,Jonah Mathews,NA,0,USC,USC,117
+2018-19,2019-01-19,2093488,237,0,2,USC,UCLA,Trojans,Bruins,4,3,56,42,14,1669,USC,697,697,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,117
+2018-19,2019-01-19,2093488,238,0,2,USC,UCLA,Trojans,Bruins,4,3,58,42,16,1669,USC,688,688,9,Bennie Boatwright makes a jump shot from 7 feet out. Nick Rakocevic with the assist.,made,FALSE,FALSE,Jump Shot,27.1,11.950000000000003,884111,Bennie Boatwright,Nick Rakocevic,0,USC,UCLA,117
+2018-19,2019-01-19,2093488,239,0,2,USC,UCLA,Trojans,Bruins,4,3,58,42,16,1668,UCLA,680,680,8,Elijah Weaver steals the ball from Chris Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,118
+2018-19,2019-01-19,2093488,240,0,2,USC,UCLA,Trojans,Bruins,4,3,60,42,18,1669,USC,667,667,13,Nick Rakocevic makes a layup. Bennie Boatwright with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,946803,Nick Rakocevic,Bennie Boatwright,0,USC,USC,119
+2018-19,2019-01-19,2093488,241,0,2,USC,UCLA,Trojans,Bruins,4,3,60,42,18,1668,UCLA,667,667,0,Shooting foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2018-19,2019-01-19,2093488,242,0,2,USC,UCLA,Trojans,Bruins,4,3,60,42,18,NA,NA,667,667,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,243,0,2,USC,UCLA,Trojans,Bruins,4,3,61,42,19,1669,USC,667,667,0,Nick Rakocevic makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,119
+2018-19,2019-01-19,2093488,244,0,2,USC,UCLA,Trojans,Bruins,4,3,61,42,19,1668,UCLA,644,644,23,Jonah Mathews steals the ball from Jaylen Hands.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,120
+2018-19,2019-01-19,2093488,245,0,2,USC,UCLA,Trojans,Bruins,4,3,63,42,21,1669,USC,629,629,15,Nick Rakocevic dunks. Shaqquan Aaron with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,946803,Nick Rakocevic,Shaqquan Aaron,0,USC,UCLA,121
+2018-19,2019-01-19,2093488,246,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1668,UCLA,608,608,21,Prince Ali makes a 3-point jump shot from 23 feet out. Kris Wilkes with the assist.,made,FALSE,TRUE,Jump Shot,2.1000000000000014,7.75,884090,Prince Ali,Kris Wilkes,0,UCLA,USC,122
+2018-19,2019-01-19,2093488,247,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1668,UCLA,569,569,39,Kris Wilkes misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13,25.55,1061554,Kris Wilkes,NA,0,UCLA,UCLA,123
+2018-19,2019-01-19,2093488,248,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1669,USC,569,569,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,123
+2018-19,2019-01-19,2093488,249,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1669,USC,562,562,7,Shaqquan Aaron with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,124
+2018-19,2019-01-19,2093488,250,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1668,UCLA,545,545,17,Jaylen Hands misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27,29.65,1061551,Jaylen Hands,NA,0,UCLA,UCLA,125
+2018-19,2019-01-19,2093488,251,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1668,UCLA,545,545,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,125
+2018-19,2019-01-19,2093488,252,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1668,UCLA,524,524,21,Nick Rakocevic blocks a Prince Ali layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884090,Prince Ali,NA,0,UCLA,UCLA,125
+2018-19,2019-01-19,2093488,253,0,2,USC,UCLA,Trojans,Bruins,4,3,63,45,18,1669,USC,524,524,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,125
+2018-19,2019-01-19,2093488,254,0,2,USC,UCLA,Trojans,Bruins,4,3,66,45,21,1669,USC,518,518,6,Jonah Mathews makes a 3-point jump shot from 24 feet out. Bennie Boatwright with the assist.,made,FALSE,TRUE,Jump Shot,49,7.25,946798,Jonah Mathews,Bennie Boatwright,0,USC,UCLA,126
+2018-19,2019-01-19,2093488,255,0,2,USC,UCLA,Trojans,Bruins,4,3,66,45,21,1668,UCLA,499,499,19,Cody Riley with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,127
+2018-19,2019-01-19,2093488,256,0,2,USC,UCLA,Trojans,Bruins,4,3,66,45,21,1669,USC,483,483,16,Bennie Boatwright misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.1,16.849999999999994,884111,Bennie Boatwright,NA,0,USC,USC,128
+2018-19,2019-01-19,2093488,257,0,2,USC,UCLA,Trojans,Bruins,4,3,66,45,21,1668,UCLA,483,483,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,128
+2018-19,2019-01-19,2093488,258,0,2,USC,UCLA,Trojans,Bruins,4,3,66,47,19,1668,UCLA,473,473,10,Kris Wilkes makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1061554,Kris Wilkes,NA,0,UCLA,USC,129
+2018-19,2019-01-19,2093488,259,0,2,USC,UCLA,Trojans,Bruins,4,3,66,47,19,1669,USC,440,440,33,Shaqquan Aaron misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1000000000000014,7.849999999999994,846385,Shaqquan Aaron,NA,0,USC,USC,130
+2018-19,2019-01-19,2093488,260,0,2,USC,UCLA,Trojans,Bruins,4,3,66,47,19,1668,UCLA,440,440,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,130
+2018-19,2019-01-19,2093488,261,0,2,USC,UCLA,Trojans,Bruins,4,3,66,47,19,1668,UCLA,429,429,11,Kris Wilkes misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,39.4,19.95,1061554,Kris Wilkes,NA,0,UCLA,UCLA,131
+2018-19,2019-01-19,2093488,262,0,2,USC,UCLA,Trojans,Bruins,4,3,66,47,19,1669,USC,429,429,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,131
+2018-19,2019-01-19,2093488,263,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1669,USC,427,427,2,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,264,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1669,USC,411,411,16,Shaqquan Aaron misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.6000000000000014,7.150000000000006,846385,Shaqquan Aaron,NA,0,USC,USC,132
+2018-19,2019-01-19,2093488,265,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1668,UCLA,411,411,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,132
+2018-19,2019-01-19,2093488,266,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1668,UCLA,388,388,23,Prince Ali misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.2,8.05,884090,Prince Ali,NA,0,UCLA,UCLA,133
+2018-19,2019-01-19,2093488,268,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1668,UCLA,372,372,16,Prince Ali misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,18.1,29.15,884090,Prince Ali,NA,0,UCLA,UCLA,133
+2018-19,2019-01-19,2093488,269,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1669,USC,372,372,0,Shaqquan Aaron with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,133
+2018-19,2019-01-19,2093488,270,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1669,USC,364,364,8,Offensive foul committed by Elijah Weaver.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,134
+2018-19,2019-01-19,2093488,271,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1669,USC,364,364,0,Elijah Weaver with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,134
+2018-19,2019-01-19,2093488,272,0,2,USC,UCLA,Trojans,Bruins,3,3,66,47,19,1668,UCLA,355,355,9,Cody Riley misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.4,29.85,1061550,Cody Riley,NA,0,UCLA,USC,135
+2018-19,2019-01-19,2093488,274,0,2,USC,UCLA,Trojans,Bruins,3,3,69,47,22,1669,USC,342,342,13,Jonah Mathews makes a 3-point jump shot from 24 feet out. Derryck Thornton with the assist.,made,FALSE,TRUE,Jump Shot,47,13.950000000000003,946798,Jonah Mathews,Derryck Thornton,0,USC,UCLA,136
+2018-19,2019-01-19,2093488,275,0,2,USC,UCLA,Trojans,Bruins,3,3,69,47,22,1668,UCLA,322,322,20,Derryck Thornton steals the ball from Cody Riley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,137
+2018-19,2019-01-19,2093488,276,0,2,USC,UCLA,Trojans,Bruins,3,3,69,47,22,1669,USC,300,300,22,Moses Brown blocks a Nick Rakocevic layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946803,Nick Rakocevic,NA,0,USC,USC,138
+2018-19,2019-01-19,2093488,277,0,2,USC,UCLA,Trojans,Bruins,3,3,69,47,22,1669,USC,300,300,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,138
+2018-19,2019-01-19,2093488,278,0,2,USC,UCLA,Trojans,Bruins,3,3,71,47,24,1669,USC,298,298,2,Nick Rakocevic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,UCLA,138
+2018-19,2019-01-19,2093488,279,0,2,USC,UCLA,Trojans,Bruins,3,2,71,47,24,1668,UCLA,297,297,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,280,0,2,USC,UCLA,Trojans,Bruins,3,2,71,50,21,1668,UCLA,281,281,16,Prince Ali makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,46.3,14.65,884090,Prince Ali,NA,0,UCLA,USC,139
+2018-19,2019-01-19,2093488,281,0,2,USC,UCLA,Trojans,Bruins,3,2,71,50,21,1669,USC,241,241,40,Shaqquan Aaron misses a jump shot from 2 feet out.,missed,FALSE,FALSE,Jump Shot,23.4,7.049999999999997,846385,Shaqquan Aaron,NA,0,USC,USC,140
+2018-19,2019-01-19,2093488,282,0,2,USC,UCLA,Trojans,Bruins,3,2,71,50,21,1669,USC,241,241,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,140
+2018-19,2019-01-19,2093488,283,0,2,USC,UCLA,Trojans,Bruins,3,2,73,50,23,1669,USC,237,237,4,Nick Rakocevic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,UCLA,140
+2018-19,2019-01-19,2093488,284,0,2,USC,UCLA,Trojans,Bruins,3,2,73,52,21,1668,UCLA,210,210,27,Jules Bernard makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.3,9.95,1134770,Jules Bernard,NA,0,UCLA,USC,141
+2018-19,2019-01-19,2093488,285,0,2,USC,UCLA,Trojans,Bruins,3,2,73,52,21,NA,NA,204,204,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,286,0,2,USC,UCLA,Trojans,Bruins,3,2,73,52,21,1668,UCLA,183,183,21,Shooting foul committed by Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,142
+2018-19,2019-01-19,2093488,287,0,2,USC,UCLA,Trojans,Bruins,3,2,74,52,22,1669,USC,183,183,0,Jonah Mathews makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,142
+2018-19,2019-01-19,2093488,288,0,2,USC,UCLA,Trojans,Bruins,3,2,75,52,23,1669,USC,183,183,0,Jonah Mathews makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,142
+2018-19,2019-01-19,2093488,289,0,2,USC,UCLA,Trojans,Bruins,3,2,75,52,23,1668,UCLA,173,173,10,Jaylen Hands misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,17,19.25,1061551,Jaylen Hands,NA,0,UCLA,UCLA,143
+2018-19,2019-01-19,2093488,290,0,2,USC,UCLA,Trojans,Bruins,3,2,75,52,23,1669,USC,173,173,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,143
+2018-19,2019-01-19,2093488,291,0,2,USC,UCLA,Trojans,Bruins,3,2,75,52,23,1668,UCLA,148,148,25,Personal foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,144
+2018-19,2019-01-19,2093488,292,0,2,USC,UCLA,Trojans,Bruins,3,2,75,52,23,1668,UCLA,138,138,10,Personal foul committed by Kris Wilkes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,144
+2018-19,2019-01-19,2093488,293,0,2,USC,UCLA,Trojans,Bruins,3,2,78,52,26,1669,USC,127,127,11,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Derryck Thornton with the assist.,made,FALSE,TRUE,Jump Shot,13.399999999999999,26.450000000000003,884111,Bennie Boatwright,Derryck Thornton,0,USC,UCLA,144
+2018-19,2019-01-19,2093488,294,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1668,UCLA,109,109,18,Jules Bernard makes a 3-point jump shot from 24 feet out. Prince Ali with the assist.,made,FALSE,TRUE,Jump Shot,48.2,9.25,1134770,Jules Bernard,Prince Ali,0,UCLA,USC,145
+2018-19,2019-01-19,2093488,295,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1668,UCLA,98,98,11,Shooting foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,146
+2018-19,2019-01-19,2093488,296,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1669,USC,98,98,0,Derryck Thornton misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,146
+2018-19,2019-01-19,2093488,297,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1668,UCLA,98,98,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,146
+2018-19,2019-01-19,2093488,298,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1668,UCLA,97,97,1,Kris Wilkes misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.1,27.45,1061554,Kris Wilkes,NA,0,UCLA,UCLA,147
+2018-19,2019-01-19,2093488,299,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1669,USC,97,97,0,Derryck Thornton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,147
+2018-19,2019-01-19,2093488,300,0,2,USC,UCLA,Trojans,Bruins,3,2,78,55,23,1668,UCLA,87,87,10,Shooting foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,148
+2018-19,2019-01-19,2093488,301,0,2,USC,UCLA,Trojans,Bruins,3,2,79,55,24,1669,USC,87,87,0,Derryck Thornton makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,148
+2018-19,2019-01-19,2093488,302,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1669,USC,87,87,0,Derryck Thornton makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,148
+2018-19,2019-01-19,2093488,303,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1669,USC,78,78,9,Personal foul committed by Elijah Weaver.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,304,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1668,UCLA,72,72,6,Prince Ali misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.6,23.35,884090,Prince Ali,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,305,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1668,UCLA,72,72,0,Jules Bernard with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,306,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1668,UCLA,67,67,5,Jules Bernard misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23.6,9.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,308,0,2,USC,UCLA,Trojans,Bruins,3,2,80,55,25,1669,USC,67,67,0,Personal foul committed by Victor Uyaelunmo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,309,0,2,USC,UCLA,Trojans,Bruins,3,2,80,57,23,1668,UCLA,65,65,2,Jalen Hill makes a layup. Kris Wilkes with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1061559,Jalen Hill,Kris Wilkes,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,310,0,2,USC,UCLA,Trojans,Bruins,3,2,80,57,23,1669,USC,65,65,0,Shooting foul committed by Victor Uyaelunmo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,149
+2018-19,2019-01-19,2093488,311,0,2,USC,UCLA,Trojans,Bruins,3,2,80,58,22,1668,UCLA,65,65,0,Jalen Hill makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,149
+2018-19,2019-01-19,2093488,312,0,2,USC,UCLA,Trojans,Bruins,3,2,80,58,22,1669,USC,56,56,9,Elijah Weaver with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,150
+2018-19,2019-01-19,2093488,313,0,2,USC,UCLA,Trojans,Bruins,3,2,80,60,20,1668,UCLA,51,51,5,Jaylen Hands makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061551,Jaylen Hands,NA,0,UCLA,UCLA,151
+2018-19,2019-01-19,2093488,314,0,2,USC,UCLA,Trojans,Bruins,3,2,80,60,20,1669,USC,51,51,0,Shooting foul committed by Victor Uyaelunmo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,151
+2018-19,2019-01-19,2093488,315,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,51,51,0,Jaylen Hands makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,151
+2018-19,2019-01-19,2093488,316,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1669,USC,47,47,4,Elijah Weaver with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,152
+2018-19,2019-01-19,2093488,317,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,46,46,1,Jules Bernard misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,318,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,46,46,0,Jaylen Hands with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,319,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,38,38,8,Jaylen Hands misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1061551,Jaylen Hands,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,320,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,38,38,0,Prince Ali with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,321,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,38,38,0,Kris Wilkes misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,25.25,1061554,Kris Wilkes,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,322,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,38,38,0,Jules Bernard with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,323,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,27,27,11,Jules Bernard misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,324,0,2,USC,UCLA,Trojans,Bruins,3,2,80,61,19,1668,UCLA,27,27,0,Jalen Hill with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,153
+2018-19,2019-01-19,2093488,325,0,2,USC,UCLA,Trojans,Bruins,3,2,80,63,17,1668,UCLA,23,23,4,Jalen Hill dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,1061559,Jalen Hill,NA,0,UCLA,USC,153
+2018-19,2019-01-19,2093488,326,0,2,USC,UCLA,Trojans,Bruins,3,2,80,63,17,1669,USC,23,23,0,Jaylen Hands steals the ball from J'Raan Brooks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,154
+2018-19,2019-01-19,2093488,327,0,2,USC,UCLA,Trojans,Bruins,3,2,80,65,15,1668,UCLA,23,23,0,Jaylen Hands makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061551,Jaylen Hands,NA,0,UCLA,USC,155
+2018-19,2019-01-19,2093488,328,0,2,USC,UCLA,Trojans,Bruins,2,2,80,65,15,1669,USC,22,22,1,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,329,0,2,USC,UCLA,Trojans,Bruins,2,2,80,65,15,1668,UCLA,16,16,6,Shooting foul committed by Jalen Hill.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,156
+2018-19,2019-01-19,2093488,330,0,2,USC,UCLA,Trojans,Bruins,2,2,80,65,15,1669,USC,16,16,0,Elijah Weaver misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,156
+2018-19,2019-01-19,2093488,331,0,2,USC,UCLA,Trojans,Bruins,2,2,80,65,15,1668,UCLA,16,16,0,Kris Wilkes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,156
+2018-19,2019-01-19,2093488,332,0,2,USC,UCLA,Trojans,Bruins,2,2,80,67,13,1668,UCLA,5,5,11,Prince Ali makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,884090,Prince Ali,NA,0,UCLA,USC,157
+2018-19,2019-01-19,2093488,333,0,2,USC,UCLA,Trojans,Bruins,2,2,80,67,13,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2018-19,2019-01-19,2093488,334,0,2,USC,UCLA,Trojans,Bruins,2,2,80,67,13,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,NA
