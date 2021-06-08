@@ -1,0 +1,324 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Thomas Welsh,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - De'Anthony Melton,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - TJ Leaf,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Lonzo Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Shaqquan Aaron,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Jordan McLaughlin,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Isaac Hamilton,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Bryce Alford,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Chimezie Metu,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,1,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Bennie Boatwright,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2017-03-09,1733626,2,1,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,1
+2016-17,2017-03-09,1733626,3,1,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1668,UCLA,2376,1176,24,TJ Leaf dunks. Lonzo Ball with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,946720,TJ Leaf,Lonzo Ball,0,UCLA,USC,1
+2016-17,2017-03-09,1733626,4,1,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1669,USC,2355,1155,21,Shaqquan Aaron misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.3,3.55,846385,Shaqquan Aaron,NA,0,USC,USC,2
+2016-17,2017-03-09,1733626,5,1,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1668,UCLA,2355,1155,0,Lonzo Ball with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,2
+2016-17,2017-03-09,1733626,6,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2337,1137,18,Thomas Welsh makes a jump shot from 17 feet out. Lonzo Ball with the assist.,made,FALSE,FALSE,Jump Shot,12.5,17.049999999999997,846503,Thomas Welsh,Lonzo Ball,0,UCLA,USC,3
+2016-17,2017-03-09,1733626,7,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2324,1124,13,Personal foul committed by Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,8,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1669,USC,2309,1109,15,Thomas Welsh blocks a Chimezie Metu layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884121,Chimezie Metu,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,9,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1669,USC,2309,1109,0,Chimezie Metu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,10,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2308,1108,1,Personal foul committed by Lonzo Ball.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,11,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1669,USC,2308,1108,0,Chimezie Metu misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,13,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1669,USC,2308,1108,0,Chimezie Metu misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2016-17,2017-03-09,1733626,14,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2308,1108,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,4
+2016-17,2017-03-09,1733626,15,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2297,1097,11,TJ Leaf misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946720,TJ Leaf,NA,0,UCLA,UCLA,5
+2016-17,2017-03-09,1733626,16,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2297,1097,0,TJ Leaf with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2016-17,2017-03-09,1733626,17,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2295,1095,2,TJ Leaf with a turnover - Out of Bounds,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,5
+2016-17,2017-03-09,1733626,18,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1669,USC,2280,1080,15,De'Anthony Melton misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26,11.45,946801,De'Anthony Melton,NA,0,USC,USC,6
+2016-17,2017-03-09,1733626,19,1,1,UCLA,USC,Bruins,Trojans,4,4,4,0,4,1668,UCLA,2280,1080,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,6
+2016-17,2017-03-09,1733626,20,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2273,1073,7,Lonzo Ball makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946714,Lonzo Ball,NA,0,UCLA,USC,7
+2016-17,2017-03-09,1733626,21,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2260,1060,13,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.6,26.35,884111,Bennie Boatwright,NA,0,USC,USC,8
+2016-17,2017-03-09,1733626,22,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2260,1060,0,Jordan McLaughlin with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,8
+2016-17,2017-03-09,1733626,23,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2253,1053,7,Thomas Welsh blocks a Chimezie Metu layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884121,Chimezie Metu,NA,0,USC,USC,8
+2016-17,2017-03-09,1733626,24,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2253,1053,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,8
+2016-17,2017-03-09,1733626,25,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2251,1051,2,Isaac Hamilton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,24.25,795945,Isaac Hamilton,NA,0,UCLA,UCLA,9
+2016-17,2017-03-09,1733626,27,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2251,1051,0,Personal foul committed by De'Anthony Melton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,9
+2016-17,2017-03-09,1733626,28,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2247,1047,4,Bryce Alford misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,25.150000000000006,743779,Bryce Alford,NA,0,UCLA,UCLA,9
+2016-17,2017-03-09,1733626,29,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2247,1047,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,9
+2016-17,2017-03-09,1733626,30,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2237,1037,10,Jordan McLaughlin misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,844465,Jordan McLaughlin,NA,0,USC,USC,10
+2016-17,2017-03-09,1733626,31,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2237,1037,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,10
+2016-17,2017-03-09,1733626,32,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2227,1027,10,Bryce Alford misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,743779,Bryce Alford,NA,0,UCLA,UCLA,11
+2016-17,2017-03-09,1733626,33,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2227,1027,0,Elijah Stewart with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,11
+2016-17,2017-03-09,1733626,34,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1669,USC,2203,1003,24,Elijah Stewart misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40.5,5.55,844470,Elijah Stewart,NA,0,USC,USC,12
+2016-17,2017-03-09,1733626,35,1,1,UCLA,USC,Bruins,Trojans,4,4,6,0,6,1668,UCLA,2203,1003,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,12
+2016-17,2017-03-09,1733626,36,1,1,UCLA,USC,Bruins,Trojans,4,4,8,0,8,1668,UCLA,2180,980,23,Isaac Hamilton makes a layup. Thomas Welsh with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,795945,Isaac Hamilton,Thomas Welsh,0,UCLA,USC,13
+2016-17,2017-03-09,1733626,37,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1669,USC,2178,978,2,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,38,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1669,USC,2164,964,14,Chimezie Metu misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,24.9,10.35,884121,Chimezie Metu,NA,0,USC,USC,14
+2016-17,2017-03-09,1733626,39,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1668,UCLA,2164,964,0,TJ Leaf with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,14
+2016-17,2017-03-09,1733626,40,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1668,UCLA,2157,957,7,Isaac Hamilton with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,15
+2016-17,2017-03-09,1733626,41,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1668,UCLA,2149,949,8,Personal foul committed by Lonzo Ball.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,16
+2016-17,2017-03-09,1733626,42,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1669,USC,2126,926,23,Chimezie Metu with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,16
+2016-17,2017-03-09,1733626,43,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1668,UCLA,2113,913,13,Thomas Welsh misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13.100000000000001,16.150000000000006,846503,Thomas Welsh,NA,0,UCLA,UCLA,17
+2016-17,2017-03-09,1733626,44,1,1,UCLA,USC,Bruins,Trojans,4,3,8,0,8,1669,USC,2113,913,0,Elijah Stewart with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,17
+2016-17,2017-03-09,1733626,45,1,1,UCLA,USC,Bruins,Trojans,4,3,8,3,5,1669,USC,2105,905,8,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Jordan McLaughlin with the assist.,made,FALSE,TRUE,Jump Shot,43.1,20.75,884111,Bennie Boatwright,Jordan McLaughlin,0,USC,UCLA,18
+2016-17,2017-03-09,1733626,46,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2086,886,19,Thomas Welsh makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,31.4,7.950000000000003,846503,Thomas Welsh,NA,0,UCLA,USC,19
+2016-17,2017-03-09,1733626,47,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1669,USC,2068,868,18,Jonah Mathews misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,17.05,946798,Jonah Mathews,NA,0,USC,USC,20
+2016-17,2017-03-09,1733626,48,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2068,868,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,20
+2016-17,2017-03-09,1733626,49,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2059,859,9,Isaac Hamilton misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,26.650000000000006,795945,Isaac Hamilton,NA,0,UCLA,UCLA,21
+2016-17,2017-03-09,1733626,50,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1669,USC,2059,859,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,21
+2016-17,2017-03-09,1733626,51,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1669,USC,2049,849,10,Jordan McLaughlin misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.3,28.35,844465,Jordan McLaughlin,NA,0,USC,USC,22
+2016-17,2017-03-09,1733626,53,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1669,USC,2044,844,5,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.9,17.75,884111,Bennie Boatwright,NA,0,USC,USC,22
+2016-17,2017-03-09,1733626,54,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2044,844,0,Isaac Hamilton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,22
+2016-17,2017-03-09,1733626,55,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2029,829,15,Aaron Holiday misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.4,15.150000000000006,884087,Aaron Holiday,NA,0,UCLA,UCLA,23
+2016-17,2017-03-09,1733626,56,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1668,UCLA,2029,829,0,Ike Anigbogu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2016-17,2017-03-09,1733626,57,1,1,UCLA,USC,Bruins,Trojans,4,3,10,3,7,1669,USC,2027,827,2,Personal foul committed by Bennie Boatwright.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2016-17,2017-03-09,1733626,58,1,1,UCLA,USC,Bruins,Trojans,4,3,11,3,8,1668,UCLA,2027,827,0,Ike Anigbogu makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2016-17,2017-03-09,1733626,59,1,1,UCLA,USC,Bruins,Trojans,4,3,12,3,9,1668,UCLA,2027,827,0,Ike Anigbogu makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,23
+2016-17,2017-03-09,1733626,60,1,1,UCLA,USC,Bruins,Trojans,4,3,12,3,9,1669,USC,2004,804,23,TJ Leaf blocks a Jordan McLaughlin jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.1,10.05,844465,Jordan McLaughlin,NA,0,USC,USC,24
+2016-17,2017-03-09,1733626,61,1,1,UCLA,USC,Bruins,Trojans,4,3,12,3,9,1668,UCLA,2004,804,0,Aaron Holiday with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,24
+2016-17,2017-03-09,1733626,62,1,1,UCLA,USC,Bruins,Trojans,4,3,14,3,11,1668,UCLA,1997,797,7,Isaac Hamilton makes a layup. Aaron Holiday with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,795945,Isaac Hamilton,Aaron Holiday,0,UCLA,USC,25
+2016-17,2017-03-09,1733626,63,1,1,UCLA,USC,Bruins,Trojans,4,3,14,3,11,1669,USC,1989,789,8,Jonah Mathews misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,19,21.15,946798,Jonah Mathews,NA,0,USC,USC,26
+2016-17,2017-03-09,1733626,64,1,1,UCLA,USC,Bruins,Trojans,4,3,14,3,11,1668,UCLA,1989,789,0,Ike Anigbogu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,26
+2016-17,2017-03-09,1733626,65,1,1,UCLA,USC,Bruins,Trojans,4,3,14,3,11,1668,UCLA,1981,781,8,De'Anthony Melton steals the ball from Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,27
+2016-17,2017-03-09,1733626,66,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1669,USC,1979,779,2,De'Anthony Melton makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,946801,De'Anthony Melton,NA,0,USC,USC,28
+2016-17,2017-03-09,1733626,67,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1668,UCLA,1979,779,0,Shooting foul committed by TJ Leaf.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,28
+2016-17,2017-03-09,1733626,68,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1669,USC,1979,779,0,De'Anthony Melton misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,28
+2016-17,2017-03-09,1733626,69,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1668,UCLA,1979,779,0,Ike Anigbogu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,28
+2016-17,2017-03-09,1733626,70,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1668,UCLA,1955,755,24,Bryce Alford misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.5,28.150000000000006,743779,Bryce Alford,NA,0,UCLA,UCLA,29
+2016-17,2017-03-09,1733626,71,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1669,USC,1955,755,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,29
+2016-17,2017-03-09,1733626,72,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1669,USC,1947,747,8,Aaron Holiday blocks a Jordan McLaughlin jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.6,12.05,844465,Jordan McLaughlin,NA,0,USC,USC,30
+2016-17,2017-03-09,1733626,73,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1669,USC,1947,747,0,Chimezie Metu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,30
+2016-17,2017-03-09,1733626,74,1,1,UCLA,USC,Bruins,Trojans,4,3,14,5,9,1668,UCLA,1945,745,2,Shooting foul committed by Ike Anigbogu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,30
+2016-17,2017-03-09,1733626,75,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1669,USC,1945,745,0,Nick Rakocevic makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,30
+2016-17,2017-03-09,1733626,76,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1669,USC,1945,745,0,Nick Rakocevic misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,30
+2016-17,2017-03-09,1733626,77,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1668,UCLA,1945,745,0,Ike Anigbogu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,30
+2016-17,2017-03-09,1733626,78,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1668,UCLA,1931,731,14,Jordan McLaughlin steals the ball from Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,31
+2016-17,2017-03-09,1733626,79,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1669,USC,1924,724,7,De'Anthony Melton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,17.75,946801,De'Anthony Melton,NA,0,USC,USC,32
+2016-17,2017-03-09,1733626,80,1,1,UCLA,USC,Bruins,Trojans,4,3,14,6,8,1669,USC,1924,724,0,Chimezie Metu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2016-17,2017-03-09,1733626,81,1,1,UCLA,USC,Bruins,Trojans,4,3,14,9,5,1669,USC,1919,719,5,Jordan McLaughlin makes a 3-point jump shot from 25 feet out. Chimezie Metu with the assist.,made,FALSE,TRUE,Jump Shot,7.699999999999999,23.75,844465,Jordan McLaughlin,Chimezie Metu,0,USC,UCLA,32
+2016-17,2017-03-09,1733626,82,1,1,UCLA,USC,Bruins,Trojans,4,3,14,9,5,1668,UCLA,1896,696,23,Bryce Alford misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,37.1,16.650000000000006,743779,Bryce Alford,NA,0,UCLA,UCLA,33
+2016-17,2017-03-09,1733626,84,1,1,UCLA,USC,Bruins,Trojans,4,3,14,9,5,1669,USC,1896,696,0,Personal foul committed by Chimezie Metu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2016-17,2017-03-09,1733626,85,1,1,UCLA,USC,Bruins,Trojans,4,3,14,9,5,NA,NA,1896,696,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,86,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1668,UCLA,1883,683,13,Isaac Hamilton makes a 3-point jump shot from 24 feet out. Gyorgy Goloman with the assist.,made,FALSE,TRUE,Jump Shot,1.3999999999999986,5.150000000000006,795945,Isaac Hamilton,Gyorgy Goloman,0,UCLA,USC,33
+2016-17,2017-03-09,1733626,87,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1669,USC,1862,662,21,Jordan McLaughlin misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.8999999999999986,5.05,844465,Jordan McLaughlin,NA,0,USC,USC,34
+2016-17,2017-03-09,1733626,88,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1668,UCLA,1862,662,0,Ike Anigbogu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,34
+2016-17,2017-03-09,1733626,89,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1668,UCLA,1831,631,31,Bruins with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,35
+2016-17,2017-03-09,1733626,90,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1669,USC,1811,611,20,Offensive foul committed by Chimezie Metu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,36
+2016-17,2017-03-09,1733626,91,1,1,UCLA,USC,Bruins,Trojans,4,3,17,9,8,1669,USC,1811,611,0,Chimezie Metu with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,36
+2016-17,2017-03-09,1733626,92,1,1,UCLA,USC,Bruins,Trojans,4,3,20,9,11,1668,UCLA,1798,598,13,Isaac Hamilton makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,24.9,27.950000000000003,795945,Isaac Hamilton,NA,0,UCLA,USC,37
+2016-17,2017-03-09,1733626,93,1,1,UCLA,USC,Bruins,Trojans,4,3,20,9,11,1668,UCLA,1772,572,26,Shooting foul committed by Gyorgy Goloman.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2016-17,2017-03-09,1733626,94,1,1,UCLA,USC,Bruins,Trojans,4,3,20,10,10,1669,USC,1772,572,0,Jonah Mathews makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2016-17,2017-03-09,1733626,95,1,1,UCLA,USC,Bruins,Trojans,4,3,20,11,9,1669,USC,1772,572,0,Jonah Mathews makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,38
+2016-17,2017-03-09,1733626,96,1,1,UCLA,USC,Bruins,Trojans,4,3,23,11,12,1668,UCLA,1753,553,19,Isaac Hamilton makes a 3-point jump shot from 24 feet out. Aaron Holiday with the assist.,made,FALSE,TRUE,Jump Shot,3.799999999999997,17.049999999999997,795945,Isaac Hamilton,Aaron Holiday,0,UCLA,USC,39
+2016-17,2017-03-09,1733626,97,1,1,UCLA,USC,Bruins,Trojans,4,3,23,13,10,1669,USC,1739,539,14,Elijah Stewart makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,40.5,4.45,844470,Elijah Stewart,NA,0,USC,UCLA,40
+2016-17,2017-03-09,1733626,98,1,1,UCLA,USC,Bruins,Trojans,4,3,23,13,10,1668,UCLA,1710,510,29,Lonzo Ball misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.899999999999999,23.549999999999997,946714,Lonzo Ball,NA,0,UCLA,UCLA,41
+2016-17,2017-03-09,1733626,99,1,1,UCLA,USC,Bruins,Trojans,4,3,23,13,10,1668,UCLA,1710,510,0,Isaac Hamilton with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2016-17,2017-03-09,1733626,100,1,1,UCLA,USC,Bruins,Trojans,4,3,25,13,12,1668,UCLA,1703,503,7,Thomas Welsh makes a jump shot from 18 feet out. Isaac Hamilton with the assist.,made,FALSE,FALSE,Jump Shot,13.200000000000003,18.75,846503,Thomas Welsh,Isaac Hamilton,0,UCLA,USC,41
+2016-17,2017-03-09,1733626,101,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1669,USC,1695,495,8,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,102,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1669,USC,1686,486,9,Lonzo Ball blocks a Bennie Boatwright layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,884111,Bennie Boatwright,NA,0,USC,USC,42
+2016-17,2017-03-09,1733626,104,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1669,USC,1681,481,5,Elijah Stewart misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.1,23.35,844470,Elijah Stewart,NA,0,USC,USC,42
+2016-17,2017-03-09,1733626,105,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1681,481,0,Aaron Holiday with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,42
+2016-17,2017-03-09,1733626,106,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1653,453,28,Offensive foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2016-17,2017-03-09,1733626,107,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1653,453,0,Thomas Welsh with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,43
+2016-17,2017-03-09,1733626,108,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1669,USC,1632,432,21,Bennie Boatwright misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,43.1,22.75,884111,Bennie Boatwright,NA,0,USC,USC,44
+2016-17,2017-03-09,1733626,109,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1632,432,0,Lonzo Ball with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,44
+2016-17,2017-03-09,1733626,110,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1626,426,6,Aaron Holiday misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,35.6,15.549999999999997,884087,Aaron Holiday,NA,0,UCLA,UCLA,45
+2016-17,2017-03-09,1733626,112,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1669,USC,1626,426,0,Personal foul committed by Bennie Boatwright.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2016-17,2017-03-09,1733626,113,1,1,UCLA,USC,Bruins,Trojans,4,2,25,13,12,1668,UCLA,1618,418,8,Lonzo Ball with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,45
+2016-17,2017-03-09,1733626,114,1,1,UCLA,USC,Bruins,Trojans,4,2,25,15,10,1669,USC,1606,406,12,Nick Rakocevic makes a layup. Jordan McLaughlin with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,946803,Nick Rakocevic,Jordan McLaughlin,0,USC,UCLA,46
+2016-17,2017-03-09,1733626,115,1,1,UCLA,USC,Bruins,Trojans,4,2,25,15,10,1668,UCLA,1572,372,34,TJ Leaf misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946720,TJ Leaf,NA,0,UCLA,UCLA,47
+2016-17,2017-03-09,1733626,116,1,1,UCLA,USC,Bruins,Trojans,4,2,25,15,10,1668,UCLA,1572,372,0,TJ Leaf with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2016-17,2017-03-09,1733626,117,1,1,UCLA,USC,Bruins,Trojans,4,2,27,15,12,1668,UCLA,1566,366,6,TJ Leaf makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,946720,TJ Leaf,NA,0,UCLA,USC,47
+2016-17,2017-03-09,1733626,118,1,1,UCLA,USC,Bruins,Trojans,4,2,27,18,9,1669,USC,1557,357,9,Jonah Mathews makes a 3-point jump shot from 24 feet out. Jordan McLaughlin with the assist.,made,FALSE,TRUE,Jump Shot,44.4,19.85,946798,Jonah Mathews,Jordan McLaughlin,0,USC,UCLA,48
+2016-17,2017-03-09,1733626,119,1,1,UCLA,USC,Bruins,Trojans,4,2,29,18,11,1668,UCLA,1542,342,15,Thomas Welsh dunks. TJ Leaf with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,846503,Thomas Welsh,TJ Leaf,0,UCLA,USC,49
+2016-17,2017-03-09,1733626,120,1,1,UCLA,USC,Bruins,Trojans,4,2,29,18,11,1669,USC,1521,321,21,Jonah Mathews misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,18.95,946798,Jonah Mathews,NA,0,USC,USC,50
+2016-17,2017-03-09,1733626,122,1,1,UCLA,USC,Bruins,Trojans,4,2,29,18,11,1668,UCLA,1521,321,0,Personal foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,50
+2016-17,2017-03-09,1733626,123,1,1,UCLA,USC,Bruins,Trojans,4,2,29,18,11,1669,USC,1521,321,0,Chimezie Metu misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,50
+2016-17,2017-03-09,1733626,124,1,1,UCLA,USC,Bruins,Trojans,4,2,29,18,11,1668,UCLA,1521,321,0,TJ Leaf with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,50
+2016-17,2017-03-09,1733626,125,1,1,UCLA,USC,Bruins,Trojans,4,2,32,18,14,1668,UCLA,1500,300,21,Bryce Alford makes a 3-point jump shot from 23 feet out. Lonzo Ball with the assist.,made,FALSE,TRUE,Jump Shot,47.7,9.25,743779,Bryce Alford,Lonzo Ball,0,UCLA,USC,51
+2016-17,2017-03-09,1733626,126,1,1,UCLA,USC,Bruins,Trojans,4,2,32,20,12,1669,USC,1480,280,20,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,UCLA,52
+2016-17,2017-03-09,1733626,127,1,1,UCLA,USC,Bruins,Trojans,4,2,32,20,12,1668,UCLA,1456,256,24,Bryce Alford misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41,24.049999999999997,743779,Bryce Alford,NA,0,UCLA,UCLA,53
+2016-17,2017-03-09,1733626,128,1,1,UCLA,USC,Bruins,Trojans,4,2,32,20,12,1668,UCLA,1456,256,0,Thomas Welsh with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,53
+2016-17,2017-03-09,1733626,129,1,1,UCLA,USC,Bruins,Trojans,4,2,32,20,12,1668,UCLA,1437,237,19,TJ Leaf misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946720,TJ Leaf,NA,0,UCLA,UCLA,53
+2016-17,2017-03-09,1733626,130,1,1,UCLA,USC,Bruins,Trojans,4,2,32,20,12,1669,USC,1437,237,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,53
+2016-17,2017-03-09,1733626,131,1,1,UCLA,USC,Bruins,Trojans,4,2,32,23,9,1669,USC,1427,227,10,Elijah Stewart makes a 3-point jump shot from 23 feet out. Chimezie Metu with the assist.,made,FALSE,TRUE,Jump Shot,18.1,27.05,844470,Elijah Stewart,Chimezie Metu,0,USC,UCLA,54
+2016-17,2017-03-09,1733626,132,1,1,UCLA,USC,Bruins,Trojans,4,2,32,23,9,1668,UCLA,1406,206,21,Thomas Welsh misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,18.1,19.25,846503,Thomas Welsh,NA,0,UCLA,UCLA,55
+2016-17,2017-03-09,1733626,133,1,1,UCLA,USC,Bruins,Trojans,4,2,32,23,9,1669,USC,1406,206,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,55
+2016-17,2017-03-09,1733626,134,1,1,UCLA,USC,Bruins,Trojans,4,2,32,26,6,1669,USC,1395,195,11,Elijah Stewart makes a 3-point jump shot from 23 feet out. Jordan McLaughlin with the assist.,made,FALSE,TRUE,Jump Shot,2.3000000000000007,6.35,844470,Elijah Stewart,Jordan McLaughlin,0,USC,UCLA,56
+2016-17,2017-03-09,1733626,135,1,1,UCLA,USC,Bruins,Trojans,3,2,32,26,6,1668,UCLA,1392,192,3,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,136,1,1,UCLA,USC,Bruins,Trojans,3,2,32,26,6,1668,UCLA,1375,175,17,Jonah Mathews steals the ball from TJ Leaf.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,57
+2016-17,2017-03-09,1733626,137,1,1,UCLA,USC,Bruins,Trojans,3,2,32,26,6,1668,UCLA,1362,162,13,Personal foul committed by Ike Anigbogu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,58
+2016-17,2017-03-09,1733626,138,1,1,UCLA,USC,Bruins,Trojans,3,2,32,26,6,1669,USC,1362,162,0,Nick Rakocevic misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,58
+2016-17,2017-03-09,1733626,140,1,1,UCLA,USC,Bruins,Trojans,3,2,32,27,5,1669,USC,1362,162,0,Nick Rakocevic makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,58
+2016-17,2017-03-09,1733626,141,1,1,UCLA,USC,Bruins,Trojans,3,2,32,27,5,1668,UCLA,1352,152,10,Ike Anigbogu misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946716,Ike Anigbogu,NA,0,UCLA,UCLA,59
+2016-17,2017-03-09,1733626,143,1,1,UCLA,USC,Bruins,Trojans,3,2,35,27,8,1668,UCLA,1344,144,8,Lonzo Ball makes a 3-point jump shot from 24 feet out. TJ Leaf with the assist.,made,FALSE,TRUE,Jump Shot,40.1,24.25,946714,Lonzo Ball,TJ Leaf,0,UCLA,USC,59
+2016-17,2017-03-09,1733626,144,1,1,UCLA,USC,Bruins,Trojans,3,2,35,27,8,1669,USC,1333,133,11,Shaqquan Aaron misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,23.35,846385,Shaqquan Aaron,NA,0,USC,USC,60
+2016-17,2017-03-09,1733626,145,1,1,UCLA,USC,Bruins,Trojans,3,2,35,27,8,1668,UCLA,1333,133,0,Isaac Hamilton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,60
+2016-17,2017-03-09,1733626,146,1,1,UCLA,USC,Bruins,Trojans,3,2,38,27,11,1668,UCLA,1323,123,10,Lonzo Ball makes a 3-point jump shot from 25 feet out. Bryce Alford with the assist.,made,FALSE,TRUE,Jump Shot,38.4,25.950000000000003,946714,Lonzo Ball,Bryce Alford,0,UCLA,USC,61
+2016-17,2017-03-09,1733626,147,1,1,UCLA,USC,Bruins,Trojans,3,2,38,27,11,1669,USC,1307,107,16,De'Anthony Melton misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946801,De'Anthony Melton,NA,0,USC,USC,62
+2016-17,2017-03-09,1733626,148,1,1,UCLA,USC,Bruins,Trojans,3,2,38,27,11,1668,UCLA,1307,107,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,62
+2016-17,2017-03-09,1733626,149,1,1,UCLA,USC,Bruins,Trojans,3,2,38,27,11,1668,UCLA,1305,105,2,De'Anthony Melton steals the ball from Bryce Alford.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,63
+2016-17,2017-03-09,1733626,150,1,1,UCLA,USC,Bruins,Trojans,3,2,38,29,9,1669,USC,1304,104,1,De'Anthony Melton makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,946801,De'Anthony Melton,NA,0,USC,USC,64
+2016-17,2017-03-09,1733626,151,1,1,UCLA,USC,Bruins,Trojans,3,2,38,29,9,1668,UCLA,1304,104,0,Shooting foul committed by Bryce Alford.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,64
+2016-17,2017-03-09,1733626,152,1,1,UCLA,USC,Bruins,Trojans,3,2,38,30,8,1669,USC,1304,104,0,De'Anthony Melton makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,64
+2016-17,2017-03-09,1733626,153,1,1,UCLA,USC,Bruins,Trojans,3,2,38,30,8,1668,UCLA,1293,93,11,Jordan McLaughlin steals the ball from Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,65
+2016-17,2017-03-09,1733626,154,1,1,UCLA,USC,Bruins,Trojans,3,2,38,30,8,1668,UCLA,1290,90,3,Personal foul committed by Bryce Alford.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,66
+2016-17,2017-03-09,1733626,155,1,1,UCLA,USC,Bruins,Trojans,3,2,38,31,7,1669,USC,1290,90,0,Jordan McLaughlin makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,66
+2016-17,2017-03-09,1733626,156,1,1,UCLA,USC,Bruins,Trojans,3,2,38,32,6,1669,USC,1290,90,0,Jordan McLaughlin makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,66
+2016-17,2017-03-09,1733626,157,1,1,UCLA,USC,Bruins,Trojans,3,2,38,32,6,1669,USC,1278,78,12,Personal foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,67
+2016-17,2017-03-09,1733626,158,1,1,UCLA,USC,Bruins,Trojans,3,2,38,32,6,1668,UCLA,1262,62,16,Isaac Hamilton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,23.75,795945,Isaac Hamilton,NA,0,UCLA,UCLA,67
+2016-17,2017-03-09,1733626,159,1,1,UCLA,USC,Bruins,Trojans,3,2,38,32,6,1669,USC,1262,62,0,Nick Rakocevic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,67
+2016-17,2017-03-09,1733626,160,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,1669,USC,1254,54,8,Jonah Mathews makes a 3-point jump shot from 24 feet out. De'Anthony Melton with the assist.,made,FALSE,TRUE,Jump Shot,32.7,28.15,946798,Jonah Mathews,De'Anthony Melton,0,USC,UCLA,68
+2016-17,2017-03-09,1733626,161,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,1668,UCLA,1222,22,32,Aaron Holiday misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884087,Aaron Holiday,NA,0,UCLA,UCLA,69
+2016-17,2017-03-09,1733626,162,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,1669,USC,1222,22,0,De'Anthony Melton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,69
+2016-17,2017-03-09,1733626,163,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,1669,USC,1201,1,21,Gyorgy Goloman blocks a Nick Rakocevic layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946803,Nick Rakocevic,NA,0,USC,USC,70
+2016-17,2017-03-09,1733626,164,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,1669,USC,1201,1,0,Nick Rakocevic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,70
+2016-17,2017-03-09,1733626,165,1,1,UCLA,USC,Bruins,Trojans,3,2,38,35,3,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,166,1,2,UCLA,USC,Bruins,Trojans,4,4,38,35,3,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,70
+2016-17,2017-03-09,1733626,167,1,2,UCLA,USC,Bruins,Trojans,4,4,38,35,3,1668,UCLA,1167,1167,33,Lonzo Ball misses a 3-point jump shot from 42 feet out.,missed,FALSE,TRUE,Jump Shot,31.9,46.35,946714,Lonzo Ball,NA,0,UCLA,USC,71
+2016-17,2017-03-09,1733626,169,1,2,UCLA,USC,Bruins,Trojans,4,4,38,35,3,1669,USC,1167,1167,0,Trojans with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,72
+2016-17,2017-03-09,1733626,170,1,2,UCLA,USC,Bruins,Trojans,4,4,38,37,1,1669,USC,1151,1151,16,Chimezie Metu makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,12.3,15.55,884121,Chimezie Metu,NA,0,USC,UCLA,73
+2016-17,2017-03-09,1733626,171,1,2,UCLA,USC,Bruins,Trojans,4,4,38,37,1,1668,UCLA,1130,1130,21,Lonzo Ball with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,74
+2016-17,2017-03-09,1733626,172,1,2,UCLA,USC,Bruins,Trojans,4,4,38,37,1,1669,USC,1116,1116,14,Bryce Alford blocks a De'Anthony Melton layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946801,De'Anthony Melton,NA,0,USC,USC,75
+2016-17,2017-03-09,1733626,173,1,2,UCLA,USC,Bruins,Trojans,4,4,38,37,1,1668,UCLA,1116,1116,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,75
+2016-17,2017-03-09,1733626,174,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1668,UCLA,1108,1108,8,TJ Leaf makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,40.3,5.349999999999994,946720,TJ Leaf,NA,0,UCLA,USC,76
+2016-17,2017-03-09,1733626,175,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1669,USC,1089,1089,19,Jordan McLaughlin misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,12.75,844465,Jordan McLaughlin,NA,0,USC,USC,77
+2016-17,2017-03-09,1733626,176,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1668,UCLA,1089,1089,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,77
+2016-17,2017-03-09,1733626,177,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1668,UCLA,1081,1081,8,Lonzo Ball misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.1,25.950000000000003,946714,Lonzo Ball,NA,0,UCLA,USC,78
+2016-17,2017-03-09,1733626,179,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1669,USC,1057,1057,24,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.600000000000001,19.85,884111,Bennie Boatwright,NA,0,USC,USC,79
+2016-17,2017-03-09,1733626,180,1,2,UCLA,USC,Bruins,Trojans,4,4,40,37,3,1668,UCLA,1057,1057,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,79
+2016-17,2017-03-09,1733626,181,1,2,UCLA,USC,Bruins,Trojans,4,4,43,37,6,1668,UCLA,1040,1040,17,Bryce Alford makes a 3-point jump shot from 23 feet out. TJ Leaf with the assist.,made,FALSE,TRUE,Jump Shot,1.7999999999999972,7.049999999999997,743779,Bryce Alford,TJ Leaf,0,UCLA,USC,80
+2016-17,2017-03-09,1733626,182,1,2,UCLA,USC,Bruins,Trojans,4,4,43,37,6,1669,USC,1021,1021,19,Shaqquan Aaron misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,846385,Shaqquan Aaron,NA,0,USC,USC,81
+2016-17,2017-03-09,1733626,183,1,2,UCLA,USC,Bruins,Trojans,4,4,43,37,6,1668,UCLA,1021,1021,0,TJ Leaf with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,81
+2016-17,2017-03-09,1733626,184,1,2,UCLA,USC,Bruins,Trojans,4,4,43,37,6,1669,USC,1019,1019,2,Personal foul committed by De'Anthony Melton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2016-17,2017-03-09,1733626,185,1,2,UCLA,USC,Bruins,Trojans,4,4,45,37,8,1668,UCLA,1009,1009,10,Thomas Welsh dunks. TJ Leaf with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,846503,Thomas Welsh,TJ Leaf,0,UCLA,USC,82
+2016-17,2017-03-09,1733626,186,1,2,UCLA,USC,Bruins,Trojans,4,4,45,37,8,1669,USC,987,987,22,Lonzo Ball steals the ball from Jordan McLaughlin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,83
+2016-17,2017-03-09,1733626,187,1,2,UCLA,USC,Bruins,Trojans,4,4,47,37,10,1668,UCLA,982,982,5,Isaac Hamilton makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,795945,Isaac Hamilton,NA,0,UCLA,USC,84
+2016-17,2017-03-09,1733626,188,1,2,UCLA,USC,Bruins,Trojans,4,3,47,37,10,1669,USC,982,982,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,189,1,2,UCLA,USC,Bruins,Trojans,4,3,47,37,10,1669,USC,954,954,28,Jonah Mathews misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.9,28.95,946798,Jonah Mathews,NA,0,USC,USC,85
+2016-17,2017-03-09,1733626,190,1,2,UCLA,USC,Bruins,Trojans,4,3,47,37,10,1668,UCLA,954,954,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,85
+2016-17,2017-03-09,1733626,191,1,2,UCLA,USC,Bruins,Trojans,4,3,47,37,10,1668,UCLA,944,944,10,Elijah Stewart blocks a Bryce Alford layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,743779,Bryce Alford,NA,0,UCLA,UCLA,86
+2016-17,2017-03-09,1733626,193,1,2,UCLA,USC,Bruins,Trojans,4,3,47,37,10,NA,NA,944,944,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,194,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1668,UCLA,934,934,10,Isaac Hamilton makes a 3-point jump shot from 24 feet out. TJ Leaf with the assist.,made,FALSE,TRUE,Jump Shot,3.200000000000003,15.049999999999997,795945,Isaac Hamilton,TJ Leaf,0,UCLA,USC,86
+2016-17,2017-03-09,1733626,195,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1669,USC,910,910,24,Jonah Mathews with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,87
+2016-17,2017-03-09,1733626,196,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1668,UCLA,890,890,20,Thomas Welsh misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,11.650000000000006,846503,Thomas Welsh,NA,0,UCLA,UCLA,88
+2016-17,2017-03-09,1733626,197,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1669,USC,890,890,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,88
+2016-17,2017-03-09,1733626,198,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1669,USC,884,884,6,Elijah Stewart misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.1,25.75,844470,Elijah Stewart,NA,0,USC,USC,89
+2016-17,2017-03-09,1733626,199,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1668,UCLA,884,884,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,89
+2016-17,2017-03-09,1733626,200,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1668,UCLA,880,880,4,Lonzo Ball misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946714,Lonzo Ball,NA,0,UCLA,UCLA,90
+2016-17,2017-03-09,1733626,202,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1669,USC,878,878,2,Personal foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2016-17,2017-03-09,1733626,203,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1668,UCLA,871,871,7,Bryce Alford misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41,22.75,743779,Bryce Alford,NA,0,UCLA,UCLA,90
+2016-17,2017-03-09,1733626,204,1,2,UCLA,USC,Bruins,Trojans,4,3,50,37,13,1669,USC,871,871,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,90
+2016-17,2017-03-09,1733626,205,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1669,USC,861,861,10,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,UCLA,91
+2016-17,2017-03-09,1733626,206,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1668,UCLA,840,840,21,Isaac Hamilton misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,4.650000000000006,795945,Isaac Hamilton,NA,0,UCLA,UCLA,92
+2016-17,2017-03-09,1733626,207,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1669,USC,840,840,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,92
+2016-17,2017-03-09,1733626,208,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1669,USC,829,829,11,Jonah Mathews misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.8999999999999986,4.85,946798,Jonah Mathews,NA,0,USC,USC,93
+2016-17,2017-03-09,1733626,209,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1669,USC,829,829,0,Bennie Boatwright with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,93
+2016-17,2017-03-09,1733626,210,1,2,UCLA,USC,Bruins,Trojans,4,3,50,39,11,1668,UCLA,825,825,4,Shooting foul committed by TJ Leaf.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,93
+2016-17,2017-03-09,1733626,211,1,2,UCLA,USC,Bruins,Trojans,4,3,50,40,10,1669,USC,825,825,0,Bennie Boatwright makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,93
+2016-17,2017-03-09,1733626,212,1,2,UCLA,USC,Bruins,Trojans,4,3,50,41,9,1669,USC,825,825,0,Bennie Boatwright makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,93
+2016-17,2017-03-09,1733626,213,1,2,UCLA,USC,Bruins,Trojans,4,3,52,41,11,1668,UCLA,808,808,17,TJ Leaf makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,26.9,12.950000000000003,946720,TJ Leaf,NA,0,UCLA,USC,94
+2016-17,2017-03-09,1733626,214,1,2,UCLA,USC,Bruins,Trojans,4,3,52,41,11,1668,UCLA,795,795,13,Personal foul committed by Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,95
+2016-17,2017-03-09,1733626,215,1,2,UCLA,USC,Bruins,Trojans,4,3,52,42,10,1669,USC,795,795,0,Elijah Stewart makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,95
+2016-17,2017-03-09,1733626,216,1,2,UCLA,USC,Bruins,Trojans,4,3,52,43,9,1669,USC,795,795,0,Elijah Stewart makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,95
+2016-17,2017-03-09,1733626,217,1,2,UCLA,USC,Bruins,Trojans,4,3,52,43,9,1669,USC,777,777,18,Personal foul committed by Bennie Boatwright.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,96
+2016-17,2017-03-09,1733626,218,1,2,UCLA,USC,Bruins,Trojans,4,3,52,43,9,1668,UCLA,761,761,16,TJ Leaf misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.1,23.349999999999994,946720,TJ Leaf,NA,0,UCLA,UCLA,96
+2016-17,2017-03-09,1733626,220,1,2,UCLA,USC,Bruins,Trojans,4,3,52,43,9,1669,USC,761,761,0,Personal foul committed by Nick Rakocevic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,96
+2016-17,2017-03-09,1733626,221,1,2,UCLA,USC,Bruins,Trojans,4,3,55,43,12,1668,UCLA,758,758,3,Aaron Holiday makes a 3-point jump shot from 24 feet out. Lonzo Ball with the assist.,made,FALSE,TRUE,Jump Shot,38.6,25.150000000000006,884087,Aaron Holiday,Lonzo Ball,0,UCLA,USC,96
+2016-17,2017-03-09,1733626,222,1,2,UCLA,USC,Bruins,Trojans,4,3,55,45,10,1669,USC,741,741,17,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,USC,97
+2016-17,2017-03-09,1733626,223,1,2,UCLA,USC,Bruins,Trojans,4,3,55,45,10,1668,UCLA,741,741,0,Shooting foul committed by Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,97
+2016-17,2017-03-09,1733626,224,1,2,UCLA,USC,Bruins,Trojans,4,3,55,46,9,1669,USC,741,741,0,Jordan McLaughlin makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,97
+2016-17,2017-03-09,1733626,225,1,2,UCLA,USC,Bruins,Trojans,4,3,57,46,11,1668,UCLA,721,721,20,TJ Leaf makes a layup. Lonzo Ball with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,946720,TJ Leaf,Lonzo Ball,0,UCLA,USC,98
+2016-17,2017-03-09,1733626,226,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1669,USC,694,694,27,Chimezie Metu makes a jump shot from 5 feet out. De'Anthony Melton with the assist.,made,FALSE,FALSE,Jump Shot,24.7,10.55,884121,Chimezie Metu,De'Anthony Melton,0,USC,UCLA,99
+2016-17,2017-03-09,1733626,227,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1668,UCLA,676,676,18,Isaac Hamilton misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,795945,Isaac Hamilton,NA,0,UCLA,UCLA,100
+2016-17,2017-03-09,1733626,228,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1668,UCLA,676,676,0,Ike Anigbogu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2016-17,2017-03-09,1733626,229,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1668,UCLA,669,669,7,Ike Anigbogu misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946716,Ike Anigbogu,NA,0,UCLA,UCLA,100
+2016-17,2017-03-09,1733626,230,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1669,USC,669,669,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,100
+2016-17,2017-03-09,1733626,231,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1669,USC,668,668,1,Isaac Hamilton steals the ball from Chimezie Metu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,101
+2016-17,2017-03-09,1733626,232,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,1669,USC,668,668,0,Personal foul committed by De'Anthony Melton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2016-17,2017-03-09,1733626,233,1,2,UCLA,USC,Bruins,Trojans,4,3,57,48,9,NA,NA,668,668,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,234,1,2,UCLA,USC,Bruins,Trojans,4,3,58,48,10,1668,UCLA,668,668,0,Isaac Hamilton makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2016-17,2017-03-09,1733626,235,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,668,668,0,Isaac Hamilton makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,102
+2016-17,2017-03-09,1733626,236,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1669,USC,653,653,15,Jonah Mathews misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,48.1,6.65,946798,Jonah Mathews,NA,0,USC,USC,103
+2016-17,2017-03-09,1733626,237,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,653,653,0,Gyorgy Goloman with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,103
+2016-17,2017-03-09,1733626,238,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,630,630,23,Ike Anigbogu misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,946716,Ike Anigbogu,NA,0,UCLA,UCLA,104
+2016-17,2017-03-09,1733626,240,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,630,630,0,Ike Anigbogu with a turnover - Offensive Goaltending,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,104
+2016-17,2017-03-09,1733626,241,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1669,USC,613,613,17,Bennie Boatwright misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.699999999999999,5.15,884111,Bennie Boatwright,NA,0,USC,USC,105
+2016-17,2017-03-09,1733626,242,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,613,613,0,Aaron Holiday with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,105
+2016-17,2017-03-09,1733626,243,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,604,604,9,Lonzo Ball misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.4,24.650000000000006,946714,Lonzo Ball,NA,0,UCLA,UCLA,106
+2016-17,2017-03-09,1733626,244,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,604,604,0,Ike Anigbogu with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,106
+2016-17,2017-03-09,1733626,245,1,2,UCLA,USC,Bruins,Trojans,4,3,59,48,11,1668,UCLA,602,602,2,Ike Anigbogu with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,106
+2016-17,2017-03-09,1733626,246,1,2,UCLA,USC,Bruins,Trojans,4,3,59,50,9,1669,USC,587,587,15,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,UCLA,107
+2016-17,2017-03-09,1733626,247,1,2,UCLA,USC,Bruins,Trojans,4,3,59,50,9,1669,USC,554,554,33,Shooting foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2016-17,2017-03-09,1733626,248,1,2,UCLA,USC,Bruins,Trojans,4,3,60,50,10,1668,UCLA,554,554,0,Lonzo Ball makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2016-17,2017-03-09,1733626,249,1,2,UCLA,USC,Bruins,Trojans,4,3,61,50,11,1668,UCLA,554,554,0,Lonzo Ball makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,108
+2016-17,2017-03-09,1733626,250,1,2,UCLA,USC,Bruins,Trojans,4,3,61,53,8,1669,USC,539,539,15,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Jordan McLaughlin with the assist.,made,FALSE,TRUE,Jump Shot,37.5,25.75,884111,Bennie Boatwright,Jordan McLaughlin,0,USC,UCLA,109
+2016-17,2017-03-09,1733626,251,1,2,UCLA,USC,Bruins,Trojans,4,3,63,53,10,1668,UCLA,519,519,20,Gyorgy Goloman makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,846500,Gyorgy Goloman,NA,0,UCLA,USC,110
+2016-17,2017-03-09,1733626,252,1,2,UCLA,USC,Bruins,Trojans,4,3,63,53,10,1668,UCLA,503,503,16,Personal foul committed by Gyorgy Goloman.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2016-17,2017-03-09,1733626,253,1,2,UCLA,USC,Bruins,Trojans,4,3,63,53,10,1668,UCLA,502,502,1,Personal foul committed by Lonzo Ball.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2016-17,2017-03-09,1733626,254,1,2,UCLA,USC,Bruins,Trojans,4,3,63,55,8,1669,USC,493,493,9,Jonah Mathews makes a layup. Chimezie Metu with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,946798,Jonah Mathews,Chimezie Metu,0,USC,USC,111
+2016-17,2017-03-09,1733626,255,1,2,UCLA,USC,Bruins,Trojans,4,3,63,55,8,1668,UCLA,493,493,0,Shooting foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2016-17,2017-03-09,1733626,256,1,2,UCLA,USC,Bruins,Trojans,4,3,63,56,7,1669,USC,493,493,0,Jonah Mathews makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,111
+2016-17,2017-03-09,1733626,257,1,2,UCLA,USC,Bruins,Trojans,4,3,63,56,7,1668,UCLA,469,469,24,Aaron Holiday misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884087,Aaron Holiday,NA,0,UCLA,UCLA,112
+2016-17,2017-03-09,1733626,258,1,2,UCLA,USC,Bruins,Trojans,4,3,63,56,7,1668,UCLA,469,469,0,Aaron Holiday with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,112
+2016-17,2017-03-09,1733626,259,1,2,UCLA,USC,Bruins,Trojans,4,3,65,56,9,1668,UCLA,464,464,5,Aaron Holiday makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.1,7.650000000000006,884087,Aaron Holiday,NA,0,UCLA,USC,112
+2016-17,2017-03-09,1733626,260,1,2,UCLA,USC,Bruins,Trojans,4,3,65,56,9,1669,USC,456,456,8,Bennie Boatwright with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,113
+2016-17,2017-03-09,1733626,261,1,2,UCLA,USC,Bruins,Trojans,4,3,65,56,9,NA,NA,456,456,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,262,1,2,UCLA,USC,Bruins,Trojans,4,3,65,56,9,1668,UCLA,446,446,10,TJ Leaf misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946720,TJ Leaf,NA,0,UCLA,UCLA,114
+2016-17,2017-03-09,1733626,263,1,2,UCLA,USC,Bruins,Trojans,4,3,65,56,9,1669,USC,446,446,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,114
+2016-17,2017-03-09,1733626,264,1,2,UCLA,USC,Bruins,Trojans,4,3,65,58,7,1669,USC,435,435,11,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,UCLA,115
+2016-17,2017-03-09,1733626,265,1,2,UCLA,USC,Bruins,Trojans,4,3,65,58,7,1668,UCLA,419,419,16,Aaron Holiday misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884087,Aaron Holiday,NA,0,UCLA,UCLA,116
+2016-17,2017-03-09,1733626,266,1,2,UCLA,USC,Bruins,Trojans,4,3,65,58,7,1669,USC,419,419,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,116
+2016-17,2017-03-09,1733626,267,1,2,UCLA,USC,Bruins,Trojans,4,3,65,60,5,1669,USC,409,409,10,Jordan McLaughlin makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,844465,Jordan McLaughlin,NA,0,USC,UCLA,117
+2016-17,2017-03-09,1733626,268,1,2,UCLA,USC,Bruins,Trojans,4,3,67,60,7,1668,UCLA,385,385,24,TJ Leaf makes a layup. Lonzo Ball with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,946720,TJ Leaf,Lonzo Ball,0,UCLA,USC,118
+2016-17,2017-03-09,1733626,269,1,2,UCLA,USC,Bruins,Trojans,4,3,67,60,7,1668,UCLA,373,373,12,Personal foul committed by Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2016-17,2017-03-09,1733626,270,1,2,UCLA,USC,Bruins,Trojans,4,3,67,61,6,1669,USC,373,373,0,Chimezie Metu makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2016-17,2017-03-09,1733626,271,1,2,UCLA,USC,Bruins,Trojans,4,3,67,62,5,1669,USC,373,373,0,Chimezie Metu makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,119
+2016-17,2017-03-09,1733626,272,1,2,UCLA,USC,Bruins,Trojans,4,3,69,62,7,1668,UCLA,363,363,10,Lonzo Ball makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,946714,Lonzo Ball,NA,0,UCLA,USC,120
+2016-17,2017-03-09,1733626,273,1,2,UCLA,USC,Bruins,Trojans,4,3,69,62,7,1669,USC,343,343,20,Jonah Mathews misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,8.8,5.35,946798,Jonah Mathews,NA,0,USC,USC,121
+2016-17,2017-03-09,1733626,274,1,2,UCLA,USC,Bruins,Trojans,4,3,69,62,7,1668,UCLA,343,343,0,Lonzo Ball with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,121
+2016-17,2017-03-09,1733626,275,1,2,UCLA,USC,Bruins,Trojans,4,3,69,62,7,1668,UCLA,339,339,4,Bryce Alford misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39,23.950000000000003,743779,Bryce Alford,NA,0,UCLA,UCLA,122
+2016-17,2017-03-09,1733626,276,1,2,UCLA,USC,Bruins,Trojans,4,3,69,62,7,1669,USC,339,339,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,122
+2016-17,2017-03-09,1733626,277,1,2,UCLA,USC,Bruins,Trojans,4,3,69,64,5,1669,USC,333,333,6,Elijah Stewart dunks. Jordan McLaughlin with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,844470,Elijah Stewart,Jordan McLaughlin,0,USC,USC,123
+2016-17,2017-03-09,1733626,278,1,2,UCLA,USC,Bruins,Trojans,4,3,69,64,5,1668,UCLA,333,333,0,Shooting foul committed by Aaron Holiday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,123
+2016-17,2017-03-09,1733626,279,1,2,UCLA,USC,Bruins,Trojans,4,3,69,64,5,1669,USC,333,333,0,Elijah Stewart misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,123
+2016-17,2017-03-09,1733626,280,1,2,UCLA,USC,Bruins,Trojans,4,3,69,64,5,1668,UCLA,333,333,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,123
+2016-17,2017-03-09,1733626,281,1,2,UCLA,USC,Bruins,Trojans,4,3,69,64,5,1669,USC,316,316,17,Personal foul committed by Jonah Mathews.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,124
+2016-17,2017-03-09,1733626,282,1,2,UCLA,USC,Bruins,Trojans,4,3,70,64,6,1668,UCLA,316,316,0,TJ Leaf makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,124
+2016-17,2017-03-09,1733626,283,1,2,UCLA,USC,Bruins,Trojans,4,3,71,64,7,1668,UCLA,316,316,0,TJ Leaf makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,124
+2016-17,2017-03-09,1733626,284,1,2,UCLA,USC,Bruins,Trojans,4,3,71,66,5,1669,USC,304,304,12,Elijah Stewart makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,844470,Elijah Stewart,NA,0,USC,UCLA,125
+2016-17,2017-03-09,1733626,285,1,2,UCLA,USC,Bruins,Trojans,4,3,71,66,5,1668,UCLA,271,271,33,Isaac Hamilton misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,12.450000000000003,795945,Isaac Hamilton,NA,0,UCLA,UCLA,126
+2016-17,2017-03-09,1733626,286,1,2,UCLA,USC,Bruins,Trojans,4,3,71,66,5,1669,USC,271,271,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,126
+2016-17,2017-03-09,1733626,287,1,2,UCLA,USC,Bruins,Trojans,4,3,71,69,2,1669,USC,261,261,10,Elijah Stewart makes a 3-point jump shot from 23 feet out. Jonah Mathews with the assist.,made,FALSE,TRUE,Jump Shot,48.1,6.15,844470,Elijah Stewart,Jonah Mathews,0,USC,UCLA,127
+2016-17,2017-03-09,1733626,288,1,2,UCLA,USC,Bruins,Trojans,3,3,71,69,2,1668,UCLA,253,253,8,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,289,1,2,UCLA,USC,Bruins,Trojans,3,3,71,69,2,1668,UCLA,240,240,13,Thomas Welsh misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.9,6.150000000000006,846503,Thomas Welsh,NA,0,UCLA,UCLA,128
+2016-17,2017-03-09,1733626,290,1,2,UCLA,USC,Bruins,Trojans,3,3,71,69,2,1668,UCLA,240,240,0,Thomas Welsh with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,128
+2016-17,2017-03-09,1733626,291,1,2,UCLA,USC,Bruins,Trojans,3,3,71,69,2,1669,USC,238,238,2,Shooting foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,128
+2016-17,2017-03-09,1733626,292,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,238,238,0,Thomas Welsh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,128
+2016-17,2017-03-09,1733626,293,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,238,238,0,Thomas Welsh misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,128
+2016-17,2017-03-09,1733626,294,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,238,238,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,128
+2016-17,2017-03-09,1733626,295,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,226,226,12,Personal foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,129
+2016-17,2017-03-09,1733626,296,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,226,226,0,Jordan McLaughlin misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,129
+2016-17,2017-03-09,1733626,297,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,226,226,0,TJ Leaf with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,129
+2016-17,2017-03-09,1733626,298,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,194,194,32,Lonzo Ball misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,20.1,29.25,946714,Lonzo Ball,NA,0,UCLA,UCLA,130
+2016-17,2017-03-09,1733626,299,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,194,194,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,130
+2016-17,2017-03-09,1733626,300,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,182,182,12,Bennie Boatwright with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,131
+2016-17,2017-03-09,1733626,301,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1668,UCLA,164,164,18,Isaac Hamilton misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,16.849999999999994,795945,Isaac Hamilton,NA,0,UCLA,UCLA,132
+2016-17,2017-03-09,1733626,302,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,164,164,0,Jordan McLaughlin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,132
+2016-17,2017-03-09,1733626,303,1,2,UCLA,USC,Bruins,Trojans,3,3,72,69,3,1669,USC,146,146,18,Bennie Boatwright misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,884111,Bennie Boatwright,NA,0,USC,UCLA,133
+2016-17,2017-03-09,1733626,305,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1668,UCLA,127,127,19,Isaac Hamilton makes a jump shot from 6 feet out. Lonzo Ball with the assist.,made,FALSE,FALSE,Jump Shot,30.8,7.75,795945,Isaac Hamilton,Lonzo Ball,0,UCLA,USC,134
+2016-17,2017-03-09,1733626,306,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1669,USC,107,107,20,Jordan McLaughlin misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.9,10.55,844465,Jordan McLaughlin,NA,0,USC,USC,135
+2016-17,2017-03-09,1733626,307,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1668,UCLA,107,107,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,135
+2016-17,2017-03-09,1733626,308,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1668,UCLA,75,75,32,Thomas Welsh misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.6,5.75,846503,Thomas Welsh,NA,0,UCLA,UCLA,136
+2016-17,2017-03-09,1733626,309,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1669,USC,75,75,0,Jonah Mathews with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,136
+2016-17,2017-03-09,1733626,310,1,2,UCLA,USC,Bruins,Trojans,3,3,74,69,5,1668,UCLA,65,65,10,Personal foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,137
+2016-17,2017-03-09,1733626,311,1,2,UCLA,USC,Bruins,Trojans,3,3,74,70,4,1669,USC,65,65,0,Chimezie Metu makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,137
+2016-17,2017-03-09,1733626,312,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1669,USC,65,65,0,Chimezie Metu makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,137
+2016-17,2017-03-09,1733626,313,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1668,UCLA,48,48,17,TJ Leaf misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,946720,TJ Leaf,NA,0,UCLA,UCLA,138
+2016-17,2017-03-09,1733626,314,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1669,USC,48,48,0,Bennie Boatwright with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,138
+2016-17,2017-03-09,1733626,315,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1669,USC,35,35,13,Bennie Boatwright misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,22.95,884111,Bennie Boatwright,NA,0,USC,UCLA,139
+2016-17,2017-03-09,1733626,317,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1669,USC,35,35,0,Personal foul committed by Chimezie Metu.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,140
+2016-17,2017-03-09,1733626,318,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1668,UCLA,35,35,0,Ike Anigbogu misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,140
+2016-17,2017-03-09,1733626,319,1,2,UCLA,USC,Bruins,Trojans,3,3,74,71,3,1669,USC,35,35,0,Chimezie Metu with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,140
+2016-17,2017-03-09,1733626,320,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1669,USC,31,31,4,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,321,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1669,USC,18,18,13,Jordan McLaughlin misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,844465,Jordan McLaughlin,NA,0,USC,USC,141
+2016-17,2017-03-09,1733626,322,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1669,USC,18,18,0,Elijah Stewart with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,141
+2016-17,2017-03-09,1733626,323,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1669,USC,13,13,5,Elijah Stewart misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,844470,Elijah Stewart,NA,0,USC,USC,141
+2016-17,2017-03-09,1733626,324,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1668,UCLA,13,13,0,TJ Leaf with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,141
+2016-17,2017-03-09,1733626,325,1,2,UCLA,USC,Bruins,Trojans,3,2,74,71,3,1669,USC,12,12,1,Personal foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,142
+2016-17,2017-03-09,1733626,326,1,2,UCLA,USC,Bruins,Trojans,3,2,75,71,4,1668,UCLA,12,12,0,Bryce Alford makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,142
+2016-17,2017-03-09,1733626,327,1,2,UCLA,USC,Bruins,Trojans,3,2,76,71,5,1668,UCLA,12,12,0,Bryce Alford makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,142
+2016-17,2017-03-09,1733626,328,1,2,UCLA,USC,Bruins,Trojans,2,2,76,71,5,1668,UCLA,12,12,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,329,1,2,UCLA,USC,Bruins,Trojans,2,2,76,74,2,1669,USC,4,4,8,Bennie Boatwright makes a 3-point jump shot from 24 feet out. Shaqquan Aaron with the assist.,made,FALSE,TRUE,Jump Shot,38.8,24.25,884111,Bennie Boatwright,Shaqquan Aaron,0,USC,UCLA,143
+2016-17,2017-03-09,1733626,330,1,2,UCLA,USC,Bruins,Trojans,2,2,76,74,2,NA,NA,0,0,4,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2017-03-09,1733626,331,1,2,UCLA,USC,Bruins,Trojans,2,2,76,74,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

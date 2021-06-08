@@ -1,0 +1,302 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Kyle Collinsworth,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Kyle Davis,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Paul Jesperson,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Chase Fischer,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Matt Bohannon,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Nate Austin,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Wes Washpun,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Bennett Koch,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Jeremy Morgan,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,1,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,NA,NA,NA,Starting Lineup - Nick Emery,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2015-16,2015-12-25,1586268,2,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UNI,1
+2015-16,2015-12-25,1586268,11,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2379,1179,21,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.899999999999999,21.450000000000003,601145,Paul Jesperson,NA,0,UNI,UNI,1
+2015-16,2015-12-25,1586268,12,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2379,1179,0,Chase Fischer with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,1
+2015-16,2015-12-25,1586268,13,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2365,1165,14,Nick Emery misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13,25.25,893541,Nick Emery,NA,0,BYU,BYU,2
+2015-16,2015-12-25,1586268,14,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2365,1165,0,Wes Washpun with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,2
+2015-16,2015-12-25,1586268,15,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2348,1148,17,Bennett Koch misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,752051,Bennett Koch,NA,0,UNI,UNI,3
+2015-16,2015-12-25,1586268,16,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2348,1148,0,Nate Austin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,3
+2015-16,2015-12-25,1586268,17,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2334,1134,14,Nate Austin misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.6,8.85,610069,Nate Austin,NA,0,BYU,BYU,4
+2015-16,2015-12-25,1586268,18,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2334,1134,0,Wes Washpun with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,4
+2015-16,2015-12-25,1586268,19,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2317,1117,17,Matt Bohannon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20.7,27.950000000000003,603171,Matt Bohannon,NA,0,UNI,UNI,5
+2015-16,2015-12-25,1586268,20,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2317,1117,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,5
+2015-16,2015-12-25,1586268,21,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2308,1108,9,Kyle Collinsworth misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,30,25.25,555599,Kyle Collinsworth,NA,0,BYU,BYU,6
+2015-16,2015-12-25,1586268,22,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2308,1108,0,Matt Bohannon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,6
+2015-16,2015-12-25,1586268,23,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1544,UNI,2292,1092,16,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.8,25.349999999999994,601145,Paul Jesperson,NA,0,UNI,UNI,7
+2015-16,2015-12-25,1586268,24,1,1,UNI,BYU,Panthers,Cougars,4,4,0,0,0,1325,BYU,2292,1092,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,7
+2015-16,2015-12-25,1586268,25,1,1,UNI,BYU,Panthers,Cougars,4,4,0,2,-2,1325,BYU,2275,1075,17,Nate Austin makes a layup. Kyle Davis with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,610069,Nate Austin,Kyle Davis,0,BYU,UNI,8
+2015-16,2015-12-25,1586268,26,1,1,UNI,BYU,Panthers,Cougars,4,4,2,2,0,1544,UNI,2252,1052,23,Jeremy Morgan makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,9.899999999999999,8.75,752056,Jeremy Morgan,NA,0,UNI,BYU,9
+2015-16,2015-12-25,1586268,33,1,1,UNI,BYU,Panthers,Cougars,4,4,2,4,-2,1325,BYU,2229,1029,23,Nick Emery makes a layup. Kyle Collinsworth with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,893541,Nick Emery,Kyle Collinsworth,0,BYU,UNI,10
+2015-16,2015-12-25,1586268,34,1,1,UNI,BYU,Panthers,Cougars,4,4,5,4,1,1544,UNI,2216,1016,13,Wes Washpun makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.3,28.950000000000003,625428,Wes Washpun,NA,0,UNI,BYU,11
+2015-16,2015-12-25,1586268,35,1,1,UNI,BYU,Panthers,Cougars,4,4,5,4,1,1325,BYU,2199,999,17,Chase Fischer misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.4,25.75,601150,Chase Fischer,NA,0,BYU,BYU,12
+2015-16,2015-12-25,1586268,36,1,1,UNI,BYU,Panthers,Cougars,4,4,5,4,1,1325,BYU,2199,999,0,Kyle Collinsworth with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,12
+2015-16,2015-12-25,1586268,37,1,1,UNI,BYU,Panthers,Cougars,4,4,5,6,-1,1325,BYU,2195,995,4,Kyle Collinsworth makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,555599,Kyle Collinsworth,NA,0,BYU,UNI,12
+2015-16,2015-12-25,1586268,38,1,1,UNI,BYU,Panthers,Cougars,4,4,5,6,-1,1544,UNI,2184,984,11,Matt Bohannon misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.6000000000000014,7.549999999999997,603171,Matt Bohannon,NA,0,UNI,UNI,13
+2015-16,2015-12-25,1586268,39,1,1,UNI,BYU,Panthers,Cougars,4,4,5,6,-1,1325,BYU,2184,984,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,13
+2015-16,2015-12-25,1586268,40,1,1,UNI,BYU,Panthers,Cougars,4,4,5,6,-1,1325,BYU,2167,967,17,Jeremy Morgan steals the ball from Kyle Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,14
+2015-16,2015-12-25,1586268,41,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1544,UNI,2161,961,6,Jeremy Morgan makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,752056,Jeremy Morgan,NA,0,UNI,BYU,15
+2015-16,2015-12-25,1586268,42,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1325,BYU,2146,946,15,Chase Fischer misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.2,26.05,601150,Chase Fischer,NA,0,BYU,BYU,16
+2015-16,2015-12-25,1586268,43,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1544,UNI,2146,946,0,Matt Bohannon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,16
+2015-16,2015-12-25,1586268,44,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1544,UNI,2132,932,14,Bennett Koch misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,30,7.25,752051,Bennett Koch,NA,0,UNI,UNI,17
+2015-16,2015-12-25,1586268,45,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1325,BYU,2132,932,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,17
+2015-16,2015-12-25,1586268,52.5,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,1544,UNI,2104,904,28,Shooting foul committed by Paul Jesperson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,18
+2015-16,2015-12-25,1586268,53,1,1,UNI,BYU,Panthers,Cougars,4,4,7,6,1,NA,NA,2104,904,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,57,1,1,UNI,BYU,Panthers,Cougars,4,4,7,7,0,1325,BYU,2104,904,0,Chase Fischer makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,18
+2015-16,2015-12-25,1586268,58,1,1,UNI,BYU,Panthers,Cougars,4,4,7,8,-1,1325,BYU,2104,904,0,Chase Fischer makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,18
+2015-16,2015-12-25,1586268,62,1,1,UNI,BYU,Panthers,Cougars,4,4,10,8,2,1544,UNI,2084,884,20,Matt Bohannon makes a 3-point jump shot from 23 feet out. Klint Carlson with the assist.,made,FALSE,TRUE,Jump Shot,2.5,7.349999999999994,603171,Matt Bohannon,Klint Carlson,0,UNI,BYU,19
+2015-16,2015-12-25,1586268,63,1,1,UNI,BYU,Panthers,Cougars,4,4,10,10,0,1325,BYU,2066,866,18,Kyle Davis makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,24.9,6.85,568040,Kyle Davis,NA,0,BYU,UNI,20
+2015-16,2015-12-25,1586268,66,1,1,UNI,BYU,Panthers,Cougars,4,4,10,10,0,1544,UNI,2039,839,27,Klint Carlson misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,24.6,8.349999999999994,752045,Klint Carlson,NA,0,UNI,UNI,21
+2015-16,2015-12-25,1586268,67,1,1,UNI,BYU,Panthers,Cougars,4,4,10,10,0,1325,BYU,2039,839,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,21
+2015-16,2015-12-25,1586268,68,1,1,UNI,BYU,Panthers,Cougars,4,4,10,12,-2,1325,BYU,2025,825,14,Kyle Collinsworth makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,555599,Kyle Collinsworth,NA,0,BYU,UNI,22
+2015-16,2015-12-25,1586268,69,1,1,UNI,BYU,Panthers,Cougars,4,4,12,12,0,1544,UNI,1998,798,27,Klint Carlson makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,752045,Klint Carlson,NA,0,UNI,BYU,23
+2015-16,2015-12-25,1586268,70,1,1,UNI,BYU,Panthers,Cougars,4,4,12,14,-2,1325,BYU,1986,786,12,Kyle Davis makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,568040,Kyle Davis,NA,0,BYU,UNI,24
+2015-16,2015-12-25,1586268,72,1,1,UNI,BYU,Panthers,Cougars,4,4,12,14,-2,1544,UNI,1966,766,20,Offensive foul committed by Wyatt Lohaus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,25
+2015-16,2015-12-25,1586268,73,1,1,UNI,BYU,Panthers,Cougars,4,4,12,14,-2,1544,UNI,1966,766,0,Wyatt Lohaus with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,25
+2015-16,2015-12-25,1586268,83,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1325,BYU,1955,755,11,Chase Fischer makes a 3-point jump shot from 24 feet out. Kyle Collinsworth with the assist.,made,FALSE,TRUE,Jump Shot,42.8,21.85,601150,Chase Fischer,Kyle Collinsworth,0,BYU,UNI,26
+2015-16,2015-12-25,1586268,89,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1544,UNI,1937,737,18,Kyle Collinsworth steals the ball from Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,27
+2015-16,2015-12-25,1586268,90,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1325,BYU,1931,731,6,Nick Emery misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,893541,Nick Emery,NA,0,BYU,BYU,28
+2015-16,2015-12-25,1586268,91,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1544,UNI,1931,731,0,Ted Friedman with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,28
+2015-16,2015-12-25,1586268,92,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1544,UNI,1922,722,9,Matt Bohannon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,8.75,603171,Matt Bohannon,NA,0,UNI,UNI,29
+2015-16,2015-12-25,1586268,93,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1325,BYU,1922,722,0,Nick Emery with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,29
+2015-16,2015-12-25,1586268,97,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,1544,UNI,1915,715,7,Personal foul committed by Ted Friedman.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,30
+2015-16,2015-12-25,1586268,98,1,1,UNI,BYU,Panthers,Cougars,4,4,12,17,-5,NA,NA,1915,715,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,102,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1902,702,13,Chase Fischer makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,601150,Chase Fischer,NA,0,BYU,UNI,30
+2015-16,2015-12-25,1586268,103,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1884,684,18,Klint Carlson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.9,29.150000000000006,752045,Klint Carlson,NA,0,UNI,UNI,31
+2015-16,2015-12-25,1586268,104,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1884,684,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,31
+2015-16,2015-12-25,1586268,106,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1854,654,30,Cougars with a turnover: Shot Clock Turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,32
+2015-16,2015-12-25,1586268,110,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1825,625,29,Klint Carlson misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,24.25,752045,Klint Carlson,NA,0,UNI,UNI,33
+2015-16,2015-12-25,1586268,111,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1825,625,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,33
+2015-16,2015-12-25,1586268,112,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1806,606,19,Klint Carlson blocks a Kyle Davis layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,568040,Kyle Davis,NA,0,BYU,BYU,34
+2015-16,2015-12-25,1586268,113,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1806,606,0,Matt Bohannon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,34
+2015-16,2015-12-25,1586268,114,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1798,598,8,Jeremy Morgan misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,24.849999999999994,752056,Jeremy Morgan,NA,0,UNI,UNI,35
+2015-16,2015-12-25,1586268,115,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1798,598,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,35
+2015-16,2015-12-25,1586268,116,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1789,589,9,Nick Emery misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22,12.25,893541,Nick Emery,NA,0,BYU,BYU,36
+2015-16,2015-12-25,1586268,117,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1789,589,0,Klint Carlson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,36
+2015-16,2015-12-25,1586268,119,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1776,576,13,Personal foul committed by Kyle Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,37
+2015-16,2015-12-25,1586268,125,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1544,UNI,1744,544,32,Bennett Koch misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12.799999999999997,17.75,752051,Bennett Koch,NA,0,UNI,UNI,37
+2015-16,2015-12-25,1586268,126,1,1,UNI,BYU,Panthers,Cougars,4,4,12,19,-7,1325,BYU,1744,544,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,37
+2015-16,2015-12-25,1586268,127,1,1,UNI,BYU,Panthers,Cougars,4,4,12,21,-9,1325,BYU,1737,537,7,Kyle Collinsworth makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,555599,Kyle Collinsworth,NA,0,BYU,UNI,38
+2015-16,2015-12-25,1586268,133,1,1,UNI,BYU,Panthers,Cougars,4,4,12,21,-9,1325,BYU,1725,525,12,Personal foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,39
+2015-16,2015-12-25,1586268,135,1,1,UNI,BYU,Panthers,Cougars,4,4,12,21,-9,1544,UNI,1713,513,12,Jeremy Morgan misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,35.1,18.549999999999997,752056,Jeremy Morgan,NA,0,UNI,UNI,39
+2015-16,2015-12-25,1586268,136,1,1,UNI,BYU,Panthers,Cougars,4,4,12,21,-9,1325,BYU,1713,513,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,39
+2015-16,2015-12-25,1586268,139,1,1,UNI,BYU,Panthers,Cougars,4,4,12,24,-12,1325,BYU,1692,492,21,Zac Seljaas makes a 3-point jump shot from 23 feet out. Jordan Chatman with the assist.,made,FALSE,TRUE,Jump Shot,2.1000000000000014,6.85,893544,Zac Seljaas,Jordan Chatman,0,BYU,UNI,40
+2015-16,2015-12-25,1586268,140,1,1,UNI,BYU,Panthers,Cougars,4,4,12,24,-12,1544,UNI,1667,467,25,Paul Jesperson misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14,6.849999999999994,601145,Paul Jesperson,NA,0,UNI,UNI,41
+2015-16,2015-12-25,1586268,141,1,1,UNI,BYU,Panthers,Cougars,4,4,12,24,-12,1325,BYU,1667,467,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,41
+2015-16,2015-12-25,1586268,143,1,1,UNI,BYU,Panthers,Cougars,4,4,12,27,-15,1325,BYU,1660,460,7,Jordan Chatman makes a 3-point jump shot from 23 feet out. Zac Seljaas with the assist.,made,FALSE,TRUE,Jump Shot,47.5,8.05,850086,Jordan Chatman,Zac Seljaas,0,BYU,BYU,42
+2015-16,2015-12-25,1586268,144,1,1,UNI,BYU,Panthers,Cougars,4,4,12,27,-15,1544,UNI,1660,460,0,Shooting foul committed by Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,42
+2015-16,2015-12-25,1586268,145,1,1,UNI,BYU,Panthers,Cougars,4,4,12,27,-15,NA,NA,1660,460,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,147,1,1,UNI,BYU,Panthers,Cougars,4,4,12,27,-15,1325,BYU,1654,454,6,Chase Fischer misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,9.45,601150,Chase Fischer,NA,0,BYU,BYU,42
+2015-16,2015-12-25,1586268,148,1,1,UNI,BYU,Panthers,Cougars,4,4,12,27,-15,1544,UNI,1654,454,0,Wes Washpun with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,42
+2015-16,2015-12-25,1586268,149,1,1,UNI,BYU,Panthers,Cougars,4,4,14,27,-13,1544,UNI,1644,444,10,Ted Friedman makes a jump shot from 12 feet out. Wes Washpun with the assist.,made,FALSE,FALSE,Jump Shot,21,16.549999999999997,752046,Ted Friedman,Wes Washpun,0,UNI,BYU,43
+2015-16,2015-12-25,1586268,152,1,1,UNI,BYU,Panthers,Cougars,4,4,14,27,-13,1544,UNI,1632,432,12,Shooting foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,44
+2015-16,2015-12-25,1586268,153,1,1,UNI,BYU,Panthers,Cougars,4,4,14,27,-13,1325,BYU,1632,432,0,Zac Seljaas misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,44
+2015-16,2015-12-25,1586268,155,1,1,UNI,BYU,Panthers,Cougars,4,4,14,27,-13,1325,BYU,1632,432,0,Zac Seljaas misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,44
+2015-16,2015-12-25,1586268,157,1,1,UNI,BYU,Panthers,Cougars,4,4,14,28,-14,1325,BYU,1632,432,0,Zac Seljaas makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,44
+2015-16,2015-12-25,1586268,163,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1544,UNI,1614,414,18,Wes Washpun makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,35.8,25.75,625428,Wes Washpun,NA,0,UNI,BYU,45
+2015-16,2015-12-25,1586268,164,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1325,BYU,1594,394,20,Wes Washpun steals the ball from Kyle Collinsworth.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,46
+2015-16,2015-12-25,1586268,167,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1544,UNI,1590,390,4,Paul Jesperson with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,47
+2015-16,2015-12-25,1586268,179,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1325,BYU,1571,371,19,Jamal Aytes misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,27.8,6.65,795801,Jamal Aytes,NA,0,BYU,BYU,48
+2015-16,2015-12-25,1586268,180,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1544,UNI,1571,371,0,Ted Friedman with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,48
+2015-16,2015-12-25,1586268,181,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1544,UNI,1557,357,14,Jeremy Morgan misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,12.450000000000003,752056,Jeremy Morgan,NA,0,UNI,UNI,49
+2015-16,2015-12-25,1586268,182,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1325,BYU,1557,357,0,Jordan Chatman with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,49
+2015-16,2015-12-25,1586268,191,1,1,UNI,BYU,Panthers,Cougars,4,4,17,28,-11,1544,UNI,1545,345,12,Personal foul committed by Ted Friedman.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,50
+2015-16,2015-12-25,1586268,193,1,1,UNI,BYU,Panthers,Cougars,4,4,17,30,-13,1325,BYU,1535,335,10,Jamal Aytes makes a jump shot from 16 feet out. Kyle Collinsworth with the assist.,made,FALSE,FALSE,Jump Shot,22.5,20.85,795801,Jamal Aytes,Kyle Collinsworth,0,BYU,UNI,50
+2015-16,2015-12-25,1586268,195,1,1,UNI,BYU,Panthers,Cougars,4,4,17,30,-13,1544,UNI,1514,314,21,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.6,28.950000000000003,601145,Paul Jesperson,NA,0,UNI,UNI,51
+2015-16,2015-12-25,1586268,196,1,1,UNI,BYU,Panthers,Cougars,4,4,17,30,-13,1325,BYU,1514,314,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,51
+2015-16,2015-12-25,1586268,198,1,1,UNI,BYU,Panthers,Cougars,4,4,17,30,-13,1325,BYU,1504,304,10,Kyle Davis with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,52
+2015-16,2015-12-25,1586268,201,1,1,UNI,BYU,Panthers,Cougars,4,4,17,30,-13,1325,BYU,1492,292,12,Personal foul committed by Jamal Aytes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,53
+2015-16,2015-12-25,1586268,204,1,1,UNI,BYU,Panthers,Cougars,4,4,20,30,-10,1544,UNI,1480,280,12,Paul Jesperson makes a 3-point jump shot from 23 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,6.899999999999999,18.75,601145,Paul Jesperson,Wes Washpun,0,UNI,BYU,53
+2015-16,2015-12-25,1586268,206,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1325,BYU,1459,259,21,Kyle Davis makes a layup. Kyle Collinsworth with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,568040,Kyle Davis,Kyle Collinsworth,0,BYU,UNI,54
+2015-16,2015-12-25,1586268,207,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1544,UNI,1429,229,30,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,48.4,8.049999999999997,601145,Paul Jesperson,NA,0,UNI,UNI,55
+2015-16,2015-12-25,1586268,208,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1325,BYU,1429,229,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,55
+2015-16,2015-12-25,1586268,216,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1325,BYU,1411,211,18,Kyle Collinsworth with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,56
+2015-16,2015-12-25,1586268,217,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1544,UNI,1411,211,0,Klint Carlson misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,11.450000000000003,752045,Klint Carlson,NA,0,UNI,UNI,57
+2015-16,2015-12-25,1586268,218,1,1,UNI,BYU,Panthers,Cougars,4,4,20,32,-12,1544,UNI,1411,211,0,Jeremy Morgan with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,57
+2015-16,2015-12-25,1586268,222,1,1,UNI,BYU,Panthers,Cougars,4,4,22,32,-10,1544,UNI,1408,208,3,Jeremy Morgan makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,25,6.25,752056,Jeremy Morgan,NA,0,UNI,UNI,57
+2015-16,2015-12-25,1586268,223,1,1,UNI,BYU,Panthers,Cougars,4,4,22,32,-10,1325,BYU,1408,208,0,Shooting foul committed by Nick Emery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,57
+2015-16,2015-12-25,1586268,224,1,1,UNI,BYU,Panthers,Cougars,4,4,22,32,-10,NA,NA,1408,208,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,229,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1544,UNI,1408,208,0,Jeremy Morgan makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,57
+2015-16,2015-12-25,1586268,233,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1325,BYU,1396,196,12,Kyle Collinsworth misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,15,25.25,555599,Kyle Collinsworth,NA,0,BYU,BYU,58
+2015-16,2015-12-25,1586268,234,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1325,BYU,1396,196,0,Nick Emery with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,58
+2015-16,2015-12-25,1586268,235,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1325,BYU,1378,178,18,Nick Emery misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,23.05,893541,Nick Emery,NA,0,BYU,BYU,58
+2015-16,2015-12-25,1586268,236,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1544,UNI,1378,178,0,Paul Jesperson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,58
+2015-16,2015-12-25,1586268,237,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1544,UNI,1370,170,8,Chase Fischer steals the ball from Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,59
+2015-16,2015-12-25,1586268,241,1,1,UNI,BYU,Panthers,Cougars,4,4,23,32,-9,1544,UNI,1368,168,2,Shooting foul committed by Jeremy Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,60
+2015-16,2015-12-25,1586268,244,1,1,UNI,BYU,Panthers,Cougars,4,4,23,33,-10,1325,BYU,1368,168,0,Kyle Collinsworth makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,60
+2015-16,2015-12-25,1586268,245,1,1,UNI,BYU,Panthers,Cougars,4,4,23,34,-11,1325,BYU,1368,168,0,Kyle Collinsworth makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,60
+2015-16,2015-12-25,1586268,249,1,1,UNI,BYU,Panthers,Cougars,4,4,25,34,-9,1544,UNI,1356,156,12,Klint Carlson makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,752045,Klint Carlson,NA,0,UNI,BYU,61
+2015-16,2015-12-25,1586268,250,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1334,134,22,Jamal Aytes makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,28.1,15.65,795801,Jamal Aytes,NA,0,BYU,UNI,62
+2015-16,2015-12-25,1586268,252,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1311,111,23,Personal foul committed by Nick Emery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,63
+2015-16,2015-12-25,1586268,254,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1544,UNI,1282,82,29,Klint Carlson misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,24,9.25,752045,Klint Carlson,NA,0,UNI,UNI,63
+2015-16,2015-12-25,1586268,255,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1282,82,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,63
+2015-16,2015-12-25,1586268,258,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1256,56,26,Jamal Aytes misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,7.55,795801,Jamal Aytes,NA,0,BYU,BYU,64
+2015-16,2015-12-25,1586268,259,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1256,56,0,Kyle Davis with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,64
+2015-16,2015-12-25,1586268,260,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1256,56,0,Kyle Davis with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,64
+2015-16,2015-12-25,1586268,277,1,1,UNI,BYU,Panthers,Cougars,4,4,25,36,-11,1325,BYU,1248,48,8,Personal foul committed by Chase Fischer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,65
+2015-16,2015-12-25,1586268,279,1,1,UNI,BYU,Panthers,Cougars,4,4,28,36,-8,1544,UNI,1238,38,10,Matt Bohannon makes a 3-point jump shot from 24 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,28,29.25,603171,Matt Bohannon,Wes Washpun,0,UNI,BYU,65
+2015-16,2015-12-25,1586268,280,1,1,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1325,BYU,1213,13,25,Chase Fischer makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,601150,Chase Fischer,NA,0,BYU,UNI,66
+2015-16,2015-12-25,1586268,282,1,1,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1544,UNI,1201,1,12,Wes Washpun misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,625428,Wes Washpun,NA,0,UNI,UNI,67
+2015-16,2015-12-25,1586268,283,1,1,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1325,BYU,1201,1,0,Jamal Aytes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,67
+2015-16,2015-12-25,1586268,285,1,1,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,420,1,2,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UNI,68
+2015-16,2015-12-25,1586268,422,1,2,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1544,UNI,1193,1193,7,Jeremy Morgan misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.1,16.549999999999997,752056,Jeremy Morgan,NA,0,UNI,UNI,69
+2015-16,2015-12-25,1586268,423,1,2,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1544,UNI,1193,1193,0,Bennett Koch with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,69
+2015-16,2015-12-25,1586268,424,1,2,UNI,BYU,Panthers,Cougars,4,4,28,38,-10,1544,UNI,1178,1178,15,Kyle Collinsworth steals the ball from Bennett Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,69
+2015-16,2015-12-25,1586268,442,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1325,BYU,1160,1160,18,Nate Austin makes a jump shot from 8 feet out. Kyle Davis with the assist.,made,FALSE,FALSE,Jump Shot,29.5,12.25,610069,Nate Austin,Kyle Davis,0,BYU,UNI,70
+2015-16,2015-12-25,1586268,460,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1544,UNI,1141,1141,19,Bennett Koch misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.7,11.75,752051,Bennett Koch,NA,0,UNI,UNI,71
+2015-16,2015-12-25,1586268,461,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1325,BYU,1141,1141,0,Nate Austin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,71
+2015-16,2015-12-25,1586268,464,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1544,UNI,1139,1139,2,Personal foul committed by Bennett Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,72
+2015-16,2015-12-25,1586268,473,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1325,BYU,1113,1113,26,Nate Austin misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.1,10.55,610069,Nate Austin,NA,0,BYU,BYU,72
+2015-16,2015-12-25,1586268,474,1,2,UNI,BYU,Panthers,Cougars,4,4,28,40,-12,1544,UNI,1113,1113,0,Paul Jesperson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,72
+2015-16,2015-12-25,1586268,482,1,2,UNI,BYU,Panthers,Cougars,4,4,31,40,-9,1544,UNI,1100,1100,13,Matt Bohannon makes a 3-point jump shot from 23 feet out. Klint Carlson with the assist.,made,FALSE,TRUE,Jump Shot,37.2,25.25,603171,Matt Bohannon,Klint Carlson,0,UNI,BYU,73
+2015-16,2015-12-25,1586268,493,1,2,UNI,BYU,Panthers,Cougars,4,4,31,40,-9,1325,BYU,1085,1085,15,Kyle Davis misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19,9.45,568040,Kyle Davis,NA,0,BYU,BYU,74
+2015-16,2015-12-25,1586268,500,1,2,UNI,BYU,Panthers,Cougars,4,4,31,40,-9,1544,UNI,1081,1081,4,Personal foul committed by Wyatt Lohaus.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,74
+2015-16,2015-12-25,1586268,513,1,2,UNI,BYU,Panthers,Cougars,4,4,33,40,-7,1544,UNI,1068,1068,13,Klint Carlson makes a layup. Jeremy Morgan with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,752045,Klint Carlson,Jeremy Morgan,0,UNI,BYU,74
+2015-16,2015-12-25,1586268,517,1,2,UNI,BYU,Panthers,Cougars,4,4,33,42,-9,1325,BYU,1056,1056,12,Kyle Collinsworth makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,555599,Kyle Collinsworth,NA,0,BYU,UNI,75
+2015-16,2015-12-25,1586268,518,1,2,UNI,BYU,Panthers,Cougars,4,4,33,42,-9,1544,UNI,1042,1042,14,Nate Austin blocks a Matt Bohannon 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.2,23.549999999999997,603171,Matt Bohannon,NA,0,UNI,UNI,76
+2015-16,2015-12-25,1586268,528,1,2,UNI,BYU,Panthers,Cougars,4,4,36,42,-6,1544,UNI,1029,1029,13,Matt Bohannon makes a 3-point jump shot from 22 feet out. Klint Carlson with the assist.,made,FALSE,TRUE,Jump Shot,3,7.049999999999997,603171,Matt Bohannon,Klint Carlson,0,UNI,BYU,76
+2015-16,2015-12-25,1586268,530,1,2,UNI,BYU,Panthers,Cougars,4,4,36,42,-6,1325,BYU,1021,1021,8,Kyle Davis with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,77
+2015-16,2015-12-25,1586268,541,1,2,UNI,BYU,Panthers,Cougars,4,4,39,42,-3,1544,UNI,1011,1011,10,Jeremy Morgan makes a 3-point jump shot from 23 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,36.8,25.349999999999994,752056,Jeremy Morgan,Wes Washpun,0,UNI,BYU,78
+2015-16,2015-12-25,1586268,542,1,2,UNI,BYU,Panthers,Cougars,4,3,39,42,-3,1325,BYU,1011,1011,0,Cougars take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,598,1,2,UNI,BYU,Panthers,Cougars,4,3,39,42,-3,1325,BYU,998,998,13,Nick Emery misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47,10.75,893541,Nick Emery,NA,0,BYU,BYU,79
+2015-16,2015-12-25,1586268,599,1,2,UNI,BYU,Panthers,Cougars,4,3,39,42,-3,1325,BYU,998,998,0,Nate Austin with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,79
+2015-16,2015-12-25,1586268,605,1,2,UNI,BYU,Panthers,Cougars,4,3,39,45,-6,1325,BYU,993,993,5,Chase Fischer makes a 3-point jump shot from 24 feet out. Nate Austin with the assist.,made,FALSE,TRUE,Jump Shot,38.2,25.75,601150,Chase Fischer,Nate Austin,0,BYU,UNI,79
+2015-16,2015-12-25,1586268,626,1,2,UNI,BYU,Panthers,Cougars,4,3,39,45,-6,1325,BYU,960,960,33,Shooting foul committed by Kyle Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,80
+2015-16,2015-12-25,1586268,627,1,2,UNI,BYU,Panthers,Cougars,4,3,40,45,-5,1544,UNI,960,960,0,Jeremy Morgan makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,80
+2015-16,2015-12-25,1586268,628,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1544,UNI,960,960,0,Jeremy Morgan makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,80
+2015-16,2015-12-25,1586268,638,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1325,BYU,946,946,14,Jeremy Morgan steals the ball from Chase Fischer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,81
+2015-16,2015-12-25,1586268,645,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1544,UNI,927,927,19,Kyle Davis blocks a Jeremy Morgan jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30,9.25,752056,Jeremy Morgan,NA,0,UNI,UNI,82
+2015-16,2015-12-25,1586268,649,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1544,UNI,927,927,0,Jeremy Morgan with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,82
+2015-16,2015-12-25,1586268,654,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1544,UNI,926,926,1,Kyle Collinsworth steals the ball from Jeremy Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,82
+2015-16,2015-12-25,1586268,655,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,NA,NA,926,926,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,665,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1325,BYU,915,915,11,Chase Fischer with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,83
+2015-16,2015-12-25,1586268,666,1,2,UNI,BYU,Panthers,Cougars,4,3,41,45,-4,1325,BYU,915,915,0,Personal foul committed by Chase Fischer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,84
+2015-16,2015-12-25,1586268,674,1,2,UNI,BYU,Panthers,Cougars,4,3,44,45,-1,1544,UNI,904,904,11,Paul Jesperson makes a 3-point jump shot from 22 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,43,19.25,601145,Paul Jesperson,Wes Washpun,0,UNI,BYU,84
+2015-16,2015-12-25,1586268,677,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1325,BYU,884,884,20,Zac Seljaas makes a 3-point jump shot from 23 feet out. Chase Fischer with the assist.,made,FALSE,TRUE,Jump Shot,47.2,10.45,893544,Zac Seljaas,Chase Fischer,0,BYU,UNI,85
+2015-16,2015-12-25,1586268,679,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1544,UNI,856,856,28,Jeremy Morgan misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.1,26.450000000000003,752056,Jeremy Morgan,NA,0,UNI,UNI,86
+2015-16,2015-12-25,1586268,680,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1325,BYU,856,856,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,86
+2015-16,2015-12-25,1586268,685,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1325,BYU,829,829,27,Wes Washpun blocks a Kyle Collinsworth layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,555599,Kyle Collinsworth,NA,0,BYU,BYU,87
+2015-16,2015-12-25,1586268,686,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1544,UNI,829,829,0,Wes Washpun with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,87
+2015-16,2015-12-25,1586268,687,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1544,UNI,820,820,9,Zac Seljaas steals the ball from Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,88
+2015-16,2015-12-25,1586268,690,1,2,UNI,BYU,Panthers,Cougars,4,3,44,48,-4,1544,UNI,816,816,4,Shooting foul committed by Paul Jesperson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,89
+2015-16,2015-12-25,1586268,691,1,2,UNI,BYU,Panthers,Cougars,4,3,44,49,-5,1325,BYU,816,816,0,Zac Seljaas makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,89
+2015-16,2015-12-25,1586268,692,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1325,BYU,816,816,0,Zac Seljaas makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,89
+2015-16,2015-12-25,1586268,694,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1544,UNI,791,791,25,Kyle Collinsworth blocks a Wes Washpun layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,625428,Wes Washpun,NA,0,UNI,UNI,90
+2015-16,2015-12-25,1586268,695,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1325,BYU,791,791,0,Jamal Aytes with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,90
+2015-16,2015-12-25,1586268,696,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1325,BYU,783,783,8,Chase Fischer misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,23.35,601150,Chase Fischer,NA,0,BYU,BYU,91
+2015-16,2015-12-25,1586268,697,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1325,BYU,783,783,0,Kyle Collinsworth with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,91
+2015-16,2015-12-25,1586268,698,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1325,BYU,779,779,4,Chase Fischer misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.1,26.55,601150,Chase Fischer,NA,0,BYU,BYU,91
+2015-16,2015-12-25,1586268,699,1,2,UNI,BYU,Panthers,Cougars,4,3,44,50,-6,1544,UNI,779,779,0,Klint Carlson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,91
+2015-16,2015-12-25,1586268,700,1,2,UNI,BYU,Panthers,Cougars,4,3,46,50,-4,1544,UNI,755,755,24,Jeremy Morgan makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,27.1,13.450000000000003,752056,Jeremy Morgan,NA,0,UNI,BYU,92
+2015-16,2015-12-25,1586268,701,1,2,UNI,BYU,Panthers,Cougars,4,3,46,52,-6,1325,BYU,736,736,19,Jamal Aytes makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,795801,Jamal Aytes,NA,0,BYU,UNI,93
+2015-16,2015-12-25,1586268,702.5,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1544,UNI,718,718,18,Wes Washpun makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,38,20.25,625428,Wes Washpun,NA,0,UNI,BYU,94
+2015-16,2015-12-25,1586268,703,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1325,BYU,691,691,27,Jamal Aytes misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.4,8.85,795801,Jamal Aytes,NA,0,BYU,BYU,95
+2015-16,2015-12-25,1586268,704,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1544,UNI,691,691,0,Matt Bohannon with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,95
+2015-16,2015-12-25,1586268,710,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1325,BYU,670,670,21,Personal foul committed by Kyle Collinsworth.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,96
+2015-16,2015-12-25,1586268,711,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,NA,NA,670,670,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,729,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1325,BYU,661,661,9,Personal foul committed by Nick Emery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,96
+2015-16,2015-12-25,1586268,744,1,2,UNI,BYU,Panthers,Cougars,4,3,48,52,-4,1325,BYU,639,639,22,Shooting foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,96
+2015-16,2015-12-25,1586268,745,1,2,UNI,BYU,Panthers,Cougars,4,3,49,52,-3,1544,UNI,639,639,0,Klint Carlson makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,96
+2015-16,2015-12-25,1586268,746,1,2,UNI,BYU,Panthers,Cougars,4,3,50,52,-2,1544,UNI,639,639,0,Klint Carlson makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,96
+2015-16,2015-12-25,1586268,757,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1325,BYU,618,618,21,Nick Emery makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.3,28.75,893541,Nick Emery,NA,0,BYU,UNI,97
+2015-16,2015-12-25,1586268,761.5,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1544,UNI,594,594,24,Ted Friedman misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36,25.25,752046,Ted Friedman,NA,0,UNI,UNI,98
+2015-16,2015-12-25,1586268,764.25,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1325,BYU,594,594,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,98
+2015-16,2015-12-25,1586268,770,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1544,UNI,594,594,0,Personal foul committed by Klint Carlson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,99
+2015-16,2015-12-25,1586268,780,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1325,BYU,580,580,14,Nick Emery misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,893541,Nick Emery,NA,0,BYU,BYU,99
+2015-16,2015-12-25,1586268,781,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1544,UNI,580,580,0,Wes Washpun with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,99
+2015-16,2015-12-25,1586268,789,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1544,UNI,559,559,21,Matt Bohannon misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15.600000000000001,12.849999999999994,603171,Matt Bohannon,NA,0,UNI,UNI,100
+2015-16,2015-12-25,1586268,790,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1325,BYU,559,559,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,100
+2015-16,2015-12-25,1586268,795,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1325,BYU,545,545,14,Kyle Davis misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,10.95,568040,Kyle Davis,NA,0,BYU,BYU,101
+2015-16,2015-12-25,1586268,796,1,2,UNI,BYU,Panthers,Cougars,4,3,50,55,-5,1544,UNI,545,545,0,Klint Carlson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,101
+2015-16,2015-12-25,1586268,797,1,2,UNI,BYU,Panthers,Cougars,4,3,52,55,-3,1544,UNI,537,537,8,Klint Carlson makes a jump shot from 4 feet out. Wes Washpun with the assist.,made,FALSE,FALSE,Jump Shot,26.3,8.75,752045,Klint Carlson,Wes Washpun,0,UNI,BYU,102
+2015-16,2015-12-25,1586268,800,1,2,UNI,BYU,Panthers,Cougars,4,3,52,55,-3,1325,BYU,521,521,16,Paul Jesperson blocks a Kyle Davis jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,9.95,568040,Kyle Davis,NA,0,BYU,BYU,103
+2015-16,2015-12-25,1586268,801,1,2,UNI,BYU,Panthers,Cougars,4,3,52,55,-3,1325,BYU,521,521,0,Kyle Davis with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,103
+2015-16,2015-12-25,1586268,802,1,2,UNI,BYU,Panthers,Cougars,4,3,52,57,-5,1325,BYU,518,518,3,Kyle Davis makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,24.4,9.75,568040,Kyle Davis,NA,0,BYU,UNI,103
+2015-16,2015-12-25,1586268,812,1,2,UNI,BYU,Panthers,Cougars,4,3,52,57,-5,1325,BYU,502,502,16,Shooting foul committed by Nick Emery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,104
+2015-16,2015-12-25,1586268,813,1,2,UNI,BYU,Panthers,Cougars,4,3,53,57,-4,1544,UNI,502,502,0,Wes Washpun makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,104
+2015-16,2015-12-25,1586268,814,1,2,UNI,BYU,Panthers,Cougars,4,3,54,57,-3,1544,UNI,502,502,0,Wes Washpun makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,104
+2015-16,2015-12-25,1586268,817,1,2,UNI,BYU,Panthers,Cougars,3,3,54,57,-3,1544,UNI,502,502,0,Panthers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,819,1,2,UNI,BYU,Panthers,Cougars,3,3,54,60,-6,1325,BYU,489,489,13,Chase Fischer makes a 3-point jump shot from 23 feet out. Zac Seljaas with the assist.,made,FALSE,TRUE,Jump Shot,26.6,28.45,601150,Chase Fischer,Zac Seljaas,0,BYU,UNI,105
+2015-16,2015-12-25,1586268,826,1,2,UNI,BYU,Panthers,Cougars,3,3,54,60,-6,1544,UNI,455,455,34,Paul Jesperson misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,7.150000000000006,601145,Paul Jesperson,NA,0,UNI,UNI,106
+2015-16,2015-12-25,1586268,827,1,2,UNI,BYU,Panthers,Cougars,3,3,54,60,-6,1325,BYU,455,455,0,Zac Seljaas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,106
+2015-16,2015-12-25,1586268,828,1,2,UNI,BYU,Panthers,Cougars,3,3,54,60,-6,1544,UNI,455,455,0,Personal foul committed by Klint Carlson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,107
+2015-16,2015-12-25,1586268,839,1,2,UNI,BYU,Panthers,Cougars,3,3,54,63,-9,1325,BYU,437,437,18,Chase Fischer makes a 3-point jump shot from 23 feet out. Zac Seljaas with the assist.,made,FALSE,TRUE,Jump Shot,1.8000000000000007,7.85,601150,Chase Fischer,Zac Seljaas,0,BYU,UNI,107
+2015-16,2015-12-25,1586268,844,1,2,UNI,BYU,Panthers,Cougars,3,3,54,63,-9,1325,BYU,409,409,28,Personal foul committed by Nate Austin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,108
+2015-16,2015-12-25,1586268,845,1,2,UNI,BYU,Panthers,Cougars,3,3,54,63,-9,1544,UNI,409,409,0,Wes Washpun misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,108
+2015-16,2015-12-25,1586268,846,1,2,UNI,BYU,Panthers,Cougars,3,3,54,63,-9,1325,BYU,409,409,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,108
+2015-16,2015-12-25,1586268,848,1,2,UNI,BYU,Panthers,Cougars,3,3,54,65,-11,1325,BYU,408,408,1,Chase Fischer makes a layup. Kyle Collinsworth with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,601150,Chase Fischer,Kyle Collinsworth,0,BYU,UNI,109
+2015-16,2015-12-25,1586268,861.5,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1544,UNI,394,394,14,Panthers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,864,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1544,UNI,380,380,14,Jeremy Morgan misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.4,9.450000000000003,752056,Jeremy Morgan,NA,0,UNI,UNI,110
+2015-16,2015-12-25,1586268,865,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,380,380,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,110
+2015-16,2015-12-25,1586268,870,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,358,358,22,Offensive foul committed by Nate Austin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,111
+2015-16,2015-12-25,1586268,871,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,358,358,0,Nate Austin with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,111
+2015-16,2015-12-25,1586268,877,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1544,UNI,347,347,11,Matt Bohannon misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,48.6,7.75,603171,Matt Bohannon,NA,0,UNI,UNI,112
+2015-16,2015-12-25,1586268,878,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,347,347,0,Kyle Davis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,112
+2015-16,2015-12-25,1586268,879,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,329,329,18,Kyle Collinsworth misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,24.4,8.55,555599,Kyle Collinsworth,NA,0,BYU,BYU,113
+2015-16,2015-12-25,1586268,880,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,329,329,0,Kyle Collinsworth with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,113
+2015-16,2015-12-25,1586268,885,1,2,UNI,BYU,Panthers,Cougars,2,3,54,65,-11,1325,BYU,329,329,0,Kyle Collinsworth with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,113
+2015-16,2015-12-25,1586268,890,1,2,UNI,BYU,Panthers,Cougars,2,3,56,65,-9,1544,UNI,314,314,15,Paul Jesperson makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,16.6,22.150000000000006,601145,Paul Jesperson,NA,0,UNI,BYU,114
+2015-16,2015-12-25,1586268,893,1,2,UNI,BYU,Panthers,Cougars,2,3,56,68,-12,1325,BYU,305,305,9,Zac Seljaas makes a 3-point jump shot from 24 feet out. Kyle Collinsworth with the assist.,made,FALSE,TRUE,Jump Shot,48,10.05,893544,Zac Seljaas,Kyle Collinsworth,0,BYU,UNI,115
+2015-16,2015-12-25,1586268,904,1,2,UNI,BYU,Panthers,Cougars,2,3,56,68,-12,1544,UNI,277,277,28,Wes Washpun misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.100000000000001,23.150000000000006,625428,Wes Washpun,NA,0,UNI,UNI,116
+2015-16,2015-12-25,1586268,905,1,2,UNI,BYU,Panthers,Cougars,2,3,56,68,-12,1544,UNI,277,277,0,Jeremy Morgan with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,116
+2015-16,2015-12-25,1586268,906,1,2,UNI,BYU,Panthers,Cougars,2,3,56,68,-12,1325,BYU,277,277,0,Shooting foul committed by Kyle Davis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,116
+2015-16,2015-12-25,1586268,907,1,2,UNI,BYU,Panthers,Cougars,2,3,57,68,-11,1544,UNI,277,277,0,Jeremy Morgan makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,116
+2015-16,2015-12-25,1586268,908,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1544,UNI,277,277,0,Jeremy Morgan makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,116
+2015-16,2015-12-25,1586268,915,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,259,259,18,Chase Fischer misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,25.75,601150,Chase Fischer,NA,0,BYU,BYU,117
+2015-16,2015-12-25,1586268,916,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1544,UNI,259,259,0,Paul Jesperson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,117
+2015-16,2015-12-25,1586268,917,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1544,UNI,245,245,14,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.4,25.75,601145,Paul Jesperson,NA,0,UNI,UNI,118
+2015-16,2015-12-25,1586268,918,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,245,245,0,Kyle Collinsworth with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,118
+2015-16,2015-12-25,1586268,920,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,235,235,10,Kyle Davis misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,19,11.45,568040,Kyle Davis,NA,0,BYU,BYU,119
+2015-16,2015-12-25,1586268,921,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,235,235,0,Kyle Collinsworth with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,119
+2015-16,2015-12-25,1586268,922,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,235,235,0,Jeremy Morgan steals the ball from Kyle Collinsworth.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,119
+2015-16,2015-12-25,1586268,923,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,NA,NA,235,235,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,929,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1325,BYU,227,227,8,Shooting foul committed by Chase Fischer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,120
+2015-16,2015-12-25,1586268,930,1,2,UNI,BYU,Panthers,Cougars,2,3,58,68,-10,1544,UNI,227,227,0,Jeremy Morgan misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,120
+2015-16,2015-12-25,1586268,932,1,2,UNI,BYU,Panthers,Cougars,2,3,59,68,-9,1544,UNI,227,227,0,Jeremy Morgan makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,120
+2015-16,2015-12-25,1586268,936,1,2,UNI,BYU,Panthers,Cougars,2,3,59,68,-9,1544,UNI,211,211,16,Shooting foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,121
+2015-16,2015-12-25,1586268,940,1,2,UNI,BYU,Panthers,Cougars,2,3,59,69,-10,1325,BYU,211,211,0,Nick Emery makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,121
+2015-16,2015-12-25,1586268,941,1,2,UNI,BYU,Panthers,Cougars,2,3,59,70,-11,1325,BYU,211,211,0,Nick Emery makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,121
+2015-16,2015-12-25,1586268,945,1,2,UNI,BYU,Panthers,Cougars,2,3,61,70,-9,1544,UNI,191,191,20,Klint Carlson makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.3,8.549999999999997,752045,Klint Carlson,NA,0,UNI,BYU,122
+2015-16,2015-12-25,1586268,951,1,2,UNI,BYU,Panthers,Cougars,1,3,61,70,-9,1544,UNI,190,190,1,Panthers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,956,1,2,UNI,BYU,Panthers,Cougars,1,3,61,72,-11,1325,BYU,164,164,26,Kyle Collinsworth makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,555599,Kyle Collinsworth,NA,0,BYU,UNI,123
+2015-16,2015-12-25,1586268,959,1,2,UNI,BYU,Panthers,Cougars,1,3,61,72,-11,1544,UNI,141,141,23,Jeremy Morgan misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,6.549999999999997,752056,Jeremy Morgan,NA,0,UNI,BYU,124
+2015-16,2015-12-25,1586268,963,1,2,UNI,BYU,Panthers,Cougars,1,3,61,72,-11,1325,BYU,111,111,30,Chase Fischer misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,8.55,601150,Chase Fischer,NA,0,BYU,BYU,125
+2015-16,2015-12-25,1586268,964,1,2,UNI,BYU,Panthers,Cougars,1,3,61,72,-11,1325,BYU,111,111,0,Kyle Davis with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,125
+2015-16,2015-12-25,1586268,965,1,2,UNI,BYU,Panthers,Cougars,1,3,61,74,-13,1325,BYU,107,107,4,Kyle Davis makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,568040,Kyle Davis,NA,0,BYU,UNI,125
+2015-16,2015-12-25,1586268,967,1,2,UNI,BYU,Panthers,Cougars,1,3,62,74,-12,1544,UNI,98,98,9,Jeremy Morgan makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,126
+2015-16,2015-12-25,1586268,968,1,2,UNI,BYU,Panthers,Cougars,1,3,63,74,-11,1544,UNI,98,98,0,Jeremy Morgan makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,126
+2015-16,2015-12-25,1586268,973,1,2,UNI,BYU,Panthers,Cougars,1,3,63,74,-11,1544,UNI,90,90,8,Personal foul committed by Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,127
+2015-16,2015-12-25,1586268,974,1,2,UNI,BYU,Panthers,Cougars,1,3,63,74,-11,1325,BYU,90,90,0,Offensive foul committed by Zac Seljaas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,127
+2015-16,2015-12-25,1586268,975,1,2,UNI,BYU,Panthers,Cougars,1,3,63,74,-11,1325,BYU,90,90,0,Zac Seljaas with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,127
+2015-16,2015-12-25,1586268,986,1,2,UNI,BYU,Panthers,Cougars,1,3,65,74,-9,1544,UNI,78,78,12,Wes Washpun makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,625428,Wes Washpun,NA,0,UNI,BYU,128
+2015-16,2015-12-25,1586268,989,1,2,UNI,BYU,Panthers,Cougars,1,3,65,74,-9,1544,UNI,71,71,7,Shooting foul committed by Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,129
+2015-16,2015-12-25,1586268,990,1,2,UNI,BYU,Panthers,Cougars,1,3,65,75,-10,1325,BYU,71,71,0,Chase Fischer makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,129
+2015-16,2015-12-25,1586268,991,1,2,UNI,BYU,Panthers,Cougars,1,3,65,76,-11,1325,BYU,71,71,0,Chase Fischer makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,129
+2015-16,2015-12-25,1586268,998,1,2,UNI,BYU,Panthers,Cougars,1,3,65,76,-11,1544,UNI,58,58,13,Paul Jesperson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43,20.25,601145,Paul Jesperson,NA,0,UNI,UNI,130
+2015-16,2015-12-25,1586268,1000.5,1,2,UNI,BYU,Panthers,Cougars,1,3,65,76,-11,1544,UNI,58,58,0,Matt Bohannon with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,130
+2015-16,2015-12-25,1586268,1001.75,1,2,UNI,BYU,Panthers,Cougars,1,3,65,76,-11,1544,UNI,58,58,0,Matt Bohannon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46,14.25,603171,Matt Bohannon,NA,0,UNI,UNI,130
+2015-16,2015-12-25,1586268,1002.375,1,2,UNI,BYU,Panthers,Cougars,1,3,65,76,-11,1544,UNI,58,58,0,Wes Washpun with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,130
+2015-16,2015-12-25,1586268,1003,1,2,UNI,BYU,Panthers,Cougars,1,3,68,76,-8,1544,UNI,51,51,7,Matt Bohannon makes a 3-point jump shot from 24 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,39.9,24.25,603171,Matt Bohannon,Wes Washpun,0,UNI,BYU,130
+2015-16,2015-12-25,1586268,1011,1,2,UNI,BYU,Panthers,Cougars,1,3,68,76,-8,1544,UNI,48,48,3,Shooting foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,131
+2015-16,2015-12-25,1586268,1012,1,2,UNI,BYU,Panthers,Cougars,1,3,68,77,-9,1325,BYU,48,48,0,Nick Emery makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,131
+2015-16,2015-12-25,1586268,1013,1,2,UNI,BYU,Panthers,Cougars,1,3,68,78,-10,1325,BYU,48,48,0,Nick Emery makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,131
+2015-16,2015-12-25,1586268,1015,1,2,UNI,BYU,Panthers,Cougars,1,3,71,78,-7,1544,UNI,37,37,11,Matt Bohannon makes a 3-point jump shot from 23 feet out. Wes Washpun with the assist.,made,FALSE,TRUE,Jump Shot,11.299999999999997,24.25,603171,Matt Bohannon,Wes Washpun,0,UNI,BYU,132
+2015-16,2015-12-25,1586268,1017,1,2,UNI,BYU,Panthers,Cougars,1,3,71,78,-7,1544,UNI,35,35,2,Shooting foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,133
+2015-16,2015-12-25,1586268,1018,1,2,UNI,BYU,Panthers,Cougars,1,3,71,79,-8,1325,BYU,35,35,0,Chase Fischer makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,133
+2015-16,2015-12-25,1586268,1019,1,2,UNI,BYU,Panthers,Cougars,1,3,71,80,-9,1325,BYU,35,35,0,Chase Fischer makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,133
+2015-16,2015-12-25,1586268,1022,1,2,UNI,BYU,Panthers,Cougars,1,3,74,80,-6,1544,UNI,28,28,7,Matt Bohannon makes a 3-point jump shot from 26 feet out. Klint Carlson with the assist.,made,FALSE,TRUE,Jump Shot,25.3,31.35,603171,Matt Bohannon,Klint Carlson,0,UNI,BYU,134
+2015-16,2015-12-25,1586268,1026,1,2,UNI,BYU,Panthers,Cougars,1,3,74,80,-6,1325,BYU,26,26,2,Kyle Collinsworth with a turnover - Out of Bounds,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,135
+2015-16,2015-12-25,1586268,1029,1,2,UNI,BYU,Panthers,Cougars,1,3,74,80,-6,1544,UNI,24,24,2,Jeremy Morgan misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,7.049999999999997,752056,Jeremy Morgan,NA,0,UNI,UNI,136
+2015-16,2015-12-25,1586268,1030,1,2,UNI,BYU,Panthers,Cougars,1,3,74,80,-6,1325,BYU,24,24,0,Nick Emery with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,BYU,136
+2015-16,2015-12-25,1586268,1036,1,2,UNI,BYU,Panthers,Cougars,1,3,74,80,-6,1544,UNI,22,22,2,Shooting foul committed by Klint Carlson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,137
+2015-16,2015-12-25,1586268,1037,1,2,UNI,BYU,Panthers,Cougars,1,3,74,81,-7,1325,BYU,22,22,0,Nick Emery makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,137
+2015-16,2015-12-25,1586268,1038,1,2,UNI,BYU,Panthers,Cougars,1,3,74,82,-8,1325,BYU,22,22,0,Nick Emery makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,137
+2015-16,2015-12-25,1586268,1040,1,2,UNI,BYU,Panthers,Cougars,1,3,76,82,-6,1544,UNI,19,19,3,Wes Washpun makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,625428,Wes Washpun,NA,0,UNI,BYU,138
+2015-16,2015-12-25,1586268,1041,1,2,UNI,BYU,Panthers,Cougars,1,3,76,82,-6,1544,UNI,19,19,0,Shooting foul committed by Wes Washpun.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,139
+2015-16,2015-12-25,1586268,1048,1,2,UNI,BYU,Panthers,Cougars,1,3,76,83,-7,1325,BYU,19,19,0,Chase Fischer makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,BYU,139
+2015-16,2015-12-25,1586268,1049,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,1325,BYU,19,19,0,Chase Fischer makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,BYU,UNI,139
+2015-16,2015-12-25,1586268,1058,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,1544,UNI,9,9,10,Matt Bohannon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.1,21.349999999999994,603171,Matt Bohannon,NA,0,UNI,UNI,140
+2015-16,2015-12-25,1586268,1059,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,1544,UNI,9,9,0,Paul Jesperson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,140
+2015-16,2015-12-25,1586268,1060,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,1544,UNI,6,6,3,Matt Bohannon misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.6,22.549999999999997,603171,Matt Bohannon,NA,0,UNI,NA,140
+2015-16,2015-12-25,1586268,1064,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,NA,NA,0,0,6,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2015-16,2015-12-25,1586268,1065,1,2,UNI,BYU,Panthers,Cougars,1,3,76,84,-8,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,NA

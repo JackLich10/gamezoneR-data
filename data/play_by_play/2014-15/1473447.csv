@@ -1,0 +1,292 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Norman Powell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Tony Parker,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Bryce Alford,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Julian Jacobs,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Nikola Jovanovic,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Isaac Hamilton,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Malik Marquetti,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Malik Martin,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Elijah Stewart,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,1,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Kevon Looney,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2014-15,2015-03-04,1473447,2,0,1,UCLA,USC,Bruins,Trojans,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,1
+2014-15,2015-03-04,1473447,4,0,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1668,UCLA,2380,1180,20,Kevon Looney dunks. Tony Parker with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,846499,Kevon Looney,Tony Parker,0,UCLA,USC,1
+2014-15,2015-03-04,1473447,7,0,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1669,USC,2355,1155,25,Nikola Jovanovic misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,25.4,13.45,743975,Nikola Jovanovic,NA,0,USC,UCLA,2
+2014-15,2015-03-04,1473447,11,0,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1668,UCLA,2344,1144,11,Julian Jacobs steals the ball from Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,3
+2014-15,2015-03-04,1473447,15,0,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1669,USC,2337,1137,7,Elijah Stewart misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,9.45,844470,Elijah Stewart,NA,0,USC,USC,4
+2014-15,2015-03-04,1473447,16,0,1,UCLA,USC,Bruins,Trojans,4,4,2,0,2,1669,USC,2337,1137,0,Nikola Jovanovic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,4
+2014-15,2015-03-04,1473447,19,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1669,USC,2332,1132,5,Nikola Jovanovic makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,25.9,12.95,743975,Nikola Jovanovic,NA,0,USC,UCLA,4
+2014-15,2015-03-04,1473447,22,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1668,UCLA,2306,1106,26,Norman Powell misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16,7.25,609861,Norman Powell,NA,0,UCLA,UCLA,5
+2014-15,2015-03-04,1473447,23,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1669,USC,2306,1106,0,Elijah Stewart with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,5
+2014-15,2015-03-04,1473447,26,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1669,USC,2306,1106,0,Elijah Stewart with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,6
+2014-15,2015-03-04,1473447,28,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1668,UCLA,2303,1103,3,Isaac Hamilton misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.9,6.549999999999997,795945,Isaac Hamilton,NA,0,UCLA,UCLA,7
+2014-15,2015-03-04,1473447,29,0,1,UCLA,USC,Bruins,Trojans,4,4,2,2,0,1669,USC,2303,1103,0,Malik Martin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,7
+2014-15,2015-03-04,1473447,34,0,1,UCLA,USC,Bruins,Trojans,4,4,2,4,-2,1669,USC,2280,1080,23,Julian Jacobs makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,743973,Julian Jacobs,NA,0,USC,UCLA,8
+2014-15,2015-03-04,1473447,35,0,1,UCLA,USC,Bruins,Trojans,4,4,2,4,-2,1668,UCLA,2259,1059,21,Kevon Looney misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.1,22.549999999999997,846499,Kevon Looney,NA,0,UCLA,UCLA,9
+2014-15,2015-03-04,1473447,36,0,1,UCLA,USC,Bruins,Trojans,4,4,2,4,-2,1668,UCLA,2259,1059,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,9
+2014-15,2015-03-04,1473447,37,0,1,UCLA,USC,Bruins,Trojans,4,4,4,4,0,1668,UCLA,2255,1055,4,Tony Parker makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,697723,Tony Parker,NA,0,UCLA,USC,9
+2014-15,2015-03-04,1473447,38,0,1,UCLA,USC,Bruins,Trojans,4,4,4,7,-3,1669,USC,2220,1020,35,Elijah Stewart makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,27.6,30.35,844470,Elijah Stewart,NA,0,USC,UCLA,10
+2014-15,2015-03-04,1473447,39,0,1,UCLA,USC,Bruins,Trojans,4,4,6,7,-1,1668,UCLA,2202,1002,18,Tony Parker makes a layup. Isaac Hamilton with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,697723,Tony Parker,Isaac Hamilton,0,UCLA,USC,11
+2014-15,2015-03-04,1473447,46,0,1,UCLA,USC,Bruins,Trojans,4,4,6,7,-1,1668,UCLA,2166,966,36,Shooting foul committed by Tony Parker.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2014-15,2015-03-04,1473447,47,0,1,UCLA,USC,Bruins,Trojans,4,4,6,8,-2,1669,USC,2166,966,0,Nikola Jovanovic makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2014-15,2015-03-04,1473447,48,0,1,UCLA,USC,Bruins,Trojans,4,4,6,9,-3,1669,USC,2166,966,0,Nikola Jovanovic makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,12
+2014-15,2015-03-04,1473447,50,0,1,UCLA,USC,Bruins,Trojans,4,4,9,9,0,1668,UCLA,2138,938,28,Kevon Looney makes a 3-point jump shot from 23 feet out. Isaac Hamilton with the assist.,made,FALSE,TRUE,Jump Shot,48.2,7.150000000000006,846499,Kevon Looney,Isaac Hamilton,0,UCLA,USC,13
+2014-15,2015-03-04,1473447,51,0,1,UCLA,USC,Bruins,Trojans,4,4,9,12,-3,1669,USC,2107,907,31,Malik Marquetti makes a 3-point jump shot from 23 feet out. Darion Clark with the assist.,made,FALSE,TRUE,Jump Shot,47.5,5.65,844463,Malik Marquetti,Darion Clark,0,USC,UCLA,14
+2014-15,2015-03-04,1473447,53,0,1,UCLA,USC,Bruins,Trojans,4,4,9,12,-3,1669,USC,2089,889,18,Shooting foul committed by Darion Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,15
+2014-15,2015-03-04,1473447,54,0,1,UCLA,USC,Bruins,Trojans,4,4,9,12,-3,NA,NA,2089,889,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,56,0,1,UCLA,USC,Bruins,Trojans,4,4,10,12,-2,1668,UCLA,2089,889,0,Tony Parker makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,15
+2014-15,2015-03-04,1473447,57,0,1,UCLA,USC,Bruins,Trojans,4,4,11,12,-1,1668,UCLA,2089,889,0,Tony Parker makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,15
+2014-15,2015-03-04,1473447,60,0,1,UCLA,USC,Bruins,Trojans,4,4,11,12,-1,1669,USC,2072,872,17,Tony Parker steals the ball from Nikola Jovanovic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,16
+2014-15,2015-03-04,1473447,62,0,1,UCLA,USC,Bruins,Trojans,4,4,11,12,-1,1668,UCLA,2052,852,20,Norman Powell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,609861,Norman Powell,NA,0,UCLA,UCLA,17
+2014-15,2015-03-04,1473447,63,0,1,UCLA,USC,Bruins,Trojans,4,4,11,12,-1,1668,UCLA,2052,852,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,17
+2014-15,2015-03-04,1473447,64,0,1,UCLA,USC,Bruins,Trojans,4,4,13,12,1,1668,UCLA,2048,848,4,Tony Parker makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,25.1,9.549999999999997,697723,Tony Parker,NA,0,UCLA,USC,17
+2014-15,2015-03-04,1473447,65,0,1,UCLA,USC,Bruins,Trojans,4,4,13,12,1,1669,USC,2027,827,21,Elijah Stewart misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,20.85,844470,Elijah Stewart,NA,0,USC,USC,18
+2014-15,2015-03-04,1473447,66,0,1,UCLA,USC,Bruins,Trojans,4,4,13,12,1,1668,UCLA,2027,827,0,Isaac Hamilton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,18
+2014-15,2015-03-04,1473447,68.5,0,1,UCLA,USC,Bruins,Trojans,4,4,13,12,1,1668,UCLA,2011,811,16,Isaac Hamilton misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,38,17.25,795945,Isaac Hamilton,NA,0,UCLA,UCLA,19
+2014-15,2015-03-04,1473447,69.75,0,1,UCLA,USC,Bruins,Trojans,4,4,13,12,1,1668,UCLA,2011,811,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,19
+2014-15,2015-03-04,1473447,71,0,1,UCLA,USC,Bruins,Trojans,4,4,15,12,3,1668,UCLA,2009,809,2,Tony Parker makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,697723,Tony Parker,NA,0,UCLA,USC,19
+2014-15,2015-03-04,1473447,72,0,1,UCLA,USC,Bruins,Trojans,4,3,15,12,3,1669,USC,2009,809,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,76,0,1,UCLA,USC,Bruins,Trojans,4,3,15,12,3,1669,USC,1989,789,20,Bryce Alford steals the ball from Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,20
+2014-15,2015-03-04,1473447,77,0,1,UCLA,USC,Bruins,Trojans,4,3,17,12,5,1668,UCLA,1985,785,4,Bryce Alford makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,743779,Bryce Alford,NA,0,UCLA,USC,21
+2014-15,2015-03-04,1473447,78,0,1,UCLA,USC,Bruins,Trojans,4,3,17,15,2,1669,USC,1948,748,37,Elijah Stewart makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,8.2,22.15,844470,Elijah Stewart,NA,0,USC,UCLA,22
+2014-15,2015-03-04,1473447,79,0,1,UCLA,USC,Bruins,Trojans,4,3,20,15,5,1668,UCLA,1933,733,15,Bryce Alford makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,35.5,27.450000000000003,743779,Bryce Alford,NA,0,UCLA,USC,23
+2014-15,2015-03-04,1473447,80,0,1,UCLA,USC,Bruins,Trojans,4,3,20,15,5,1669,USC,1921,721,12,Malik Martin misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.6,7.15,844469,Malik Martin,NA,0,USC,USC,24
+2014-15,2015-03-04,1473447,81,0,1,UCLA,USC,Bruins,Trojans,4,3,20,15,5,1668,UCLA,1921,721,0,Tony Parker with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,24
+2014-15,2015-03-04,1473447,83,0,1,UCLA,USC,Bruins,Trojans,4,3,23,15,8,1668,UCLA,1912,712,9,Bryce Alford makes a 3-point jump shot from 24 feet out. Isaac Hamilton with the assist.,made,FALSE,TRUE,Jump Shot,47.7,12.849999999999994,743779,Bryce Alford,Isaac Hamilton,0,UCLA,USC,25
+2014-15,2015-03-04,1473447,85,0,1,UCLA,USC,Bruins,Trojans,4,2,23,15,8,1669,USC,1910,710,2,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,87,0,1,UCLA,USC,Bruins,Trojans,4,2,23,17,6,1669,USC,1894,694,16,Katin Reinhardt makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,25.4,17.25,703511,Katin Reinhardt,NA,0,USC,UCLA,26
+2014-15,2015-03-04,1473447,88,0,1,UCLA,USC,Bruins,Trojans,4,2,23,17,6,1668,UCLA,1867,667,27,Norman Powell misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.9,6.549999999999997,609861,Norman Powell,NA,0,UCLA,UCLA,27
+2014-15,2015-03-04,1473447,89,0,1,UCLA,USC,Bruins,Trojans,4,2,23,17,6,1668,UCLA,1867,667,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,27
+2014-15,2015-03-04,1473447,90,0,1,UCLA,USC,Bruins,Trojans,4,2,25,17,8,1668,UCLA,1861,661,6,Tony Parker makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,697723,Tony Parker,NA,0,UCLA,USC,27
+2014-15,2015-03-04,1473447,91,0,1,UCLA,USC,Bruins,Trojans,4,2,25,17,8,1669,USC,1853,653,8,Malik Marquetti misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.9,13.95,844463,Malik Marquetti,NA,0,USC,USC,28
+2014-15,2015-03-04,1473447,92,0,1,UCLA,USC,Bruins,Trojans,4,2,25,17,8,1668,UCLA,1853,653,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,28
+2014-15,2015-03-04,1473447,95,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1668,UCLA,1846,646,7,Isaac Hamilton makes a jump shot from 19 feet out. Bryce Alford with the assist.,made,FALSE,FALSE,Jump Shot,7,10.25,795945,Isaac Hamilton,Bryce Alford,0,UCLA,USC,29
+2014-15,2015-03-04,1473447,97,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1668,UCLA,1829,629,17,Personal foul committed by Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,30
+2014-15,2015-03-04,1473447,98,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,NA,NA,1829,629,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,103,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,NA,NA,1829,629,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,106,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1669,USC,1821,621,8,Nikola Jovanovic with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,30
+2014-15,2015-03-04,1473447,108,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1668,UCLA,1803,603,18,Darion Clark steals the ball from Bryce Alford.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,31
+2014-15,2015-03-04,1473447,109,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1669,USC,1791,591,12,Darion Clark misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,21.35,696257,Darion Clark,NA,0,USC,USC,32
+2014-15,2015-03-04,1473447,110,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1668,UCLA,1791,591,0,Bryce Alford with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,32
+2014-15,2015-03-04,1473447,111,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1668,UCLA,1757,557,34,Tony Parker misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,25.4,21.150000000000006,697723,Tony Parker,NA,0,UCLA,UCLA,33
+2014-15,2015-03-04,1473447,112,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1669,USC,1757,557,0,Julian Jacobs with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,33
+2014-15,2015-03-04,1473447,116,0,1,UCLA,USC,Bruins,Trojans,4,2,27,17,10,1669,USC,1742,542,15,Norman Powell steals the ball from Julian Jacobs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,34
+2014-15,2015-03-04,1473447,117,0,1,UCLA,USC,Bruins,Trojans,4,2,29,17,12,1668,UCLA,1738,538,4,Norman Powell makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,609861,Norman Powell,NA,0,UCLA,USC,35
+2014-15,2015-03-04,1473447,118,0,1,UCLA,USC,Bruins,Trojans,4,2,29,19,10,1669,USC,1725,525,13,Katin Reinhardt makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,35.8,13.35,703511,Katin Reinhardt,NA,0,USC,UCLA,36
+2014-15,2015-03-04,1473447,119,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1712,512,13,Isaac Hamilton makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,20.7,28.650000000000006,795945,Isaac Hamilton,NA,0,UCLA,USC,37
+2014-15,2015-03-04,1473447,123,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1698,498,14,Personal foul committed by Gyorgy Goloman.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,127,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1669,USC,1677,477,21,Elijah Stewart misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,14.65,844470,Elijah Stewart,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,128,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1669,USC,1677,477,0,Nikola Jovanovic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,130,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1676,476,1,Personal foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,131,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,NA,NA,1676,476,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,135,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1670,470,6,Personal foul committed by Noah Allen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,138,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1669,USC,1665,465,5,Elijah Stewart misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,6.35,844470,Elijah Stewart,NA,0,USC,USC,38
+2014-15,2015-03-04,1473447,139,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1665,465,0,Isaac Hamilton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,38
+2014-15,2015-03-04,1473447,141,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1668,UCLA,1664,464,1,Isaac Hamilton with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,39
+2014-15,2015-03-04,1473447,144,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1669,USC,1645,445,19,Darion Clark with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,40
+2014-15,2015-03-04,1473447,145,0,1,UCLA,USC,Bruins,Trojans,4,2,32,19,13,1669,USC,1645,445,0,Technical foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2014-15,2015-03-04,1473447,146,0,1,UCLA,USC,Bruins,Trojans,4,2,33,19,14,1668,UCLA,1645,445,0,Bryce Alford makes free throw technical.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2014-15,2015-03-04,1473447,147,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1668,UCLA,1645,445,0,Bryce Alford makes free throw technical.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2014-15,2015-03-04,1473447,152,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1668,UCLA,1625,425,20,Noah Allen misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.6000000000000014,6.150000000000006,743782,Noah Allen,NA,0,UCLA,UCLA,41
+2014-15,2015-03-04,1473447,153,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1669,USC,1625,425,0,Elijah Stewart with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,41
+2014-15,2015-03-04,1473447,158,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1669,USC,1611,411,14,Bryce Alford steals the ball from Darion Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,42
+2014-15,2015-03-04,1473447,162,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1668,UCLA,1608,408,3,Bryce Alford misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,743779,Bryce Alford,NA,0,UCLA,USC,43
+2014-15,2015-03-04,1473447,171,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1668,UCLA,1589,389,19,Personal foul committed by Kevon Looney.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2014-15,2015-03-04,1473447,173,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1669,USC,1568,368,21,Katin Reinhardt misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.4,28.65,703511,Katin Reinhardt,NA,0,USC,USC,44
+2014-15,2015-03-04,1473447,174,0,1,UCLA,USC,Bruins,Trojans,4,2,34,19,15,1669,USC,1568,368,0,Malik Marquetti with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2014-15,2015-03-04,1473447,175,0,1,UCLA,USC,Bruins,Trojans,4,2,34,21,13,1669,USC,1563,363,5,Elijah Stewart makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.4,7.75,844470,Elijah Stewart,NA,0,USC,UCLA,44
+2014-15,2015-03-04,1473447,176,0,1,UCLA,USC,Bruins,Trojans,4,2,34,21,13,1668,UCLA,1537,337,26,Isaac Hamilton misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,6.150000000000006,795945,Isaac Hamilton,NA,0,UCLA,UCLA,45
+2014-15,2015-03-04,1473447,177,0,1,UCLA,USC,Bruins,Trojans,4,2,34,21,13,1668,UCLA,1537,337,0,Kevon Looney with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2014-15,2015-03-04,1473447,178,0,1,UCLA,USC,Bruins,Trojans,4,2,36,21,15,1668,UCLA,1533,333,4,Kevon Looney makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,846499,Kevon Looney,NA,0,UCLA,USC,45
+2014-15,2015-03-04,1473447,179,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1669,USC,1523,323,10,Nikola Jovanovic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,743975,Nikola Jovanovic,NA,0,USC,UCLA,46
+2014-15,2015-03-04,1473447,182,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1668,UCLA,1500,300,23,Norman Powell misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,5.150000000000006,609861,Norman Powell,NA,0,UCLA,USC,47
+2014-15,2015-03-04,1473447,185,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1668,UCLA,1499,299,1,Personal foul committed by Tony Parker.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,48
+2014-15,2015-03-04,1473447,186,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1669,USC,1499,299,0,Malik Marquetti misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,48
+2014-15,2015-03-04,1473447,187,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1668,UCLA,1499,299,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,48
+2014-15,2015-03-04,1473447,192,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1669,USC,1481,281,18,Personal foul committed by Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2014-15,2015-03-04,1473447,194,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1668,UCLA,1470,270,11,Malik Martin blocks a Tony Parker hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,28,11.950000000000003,697723,Tony Parker,NA,0,UCLA,UCLA,49
+2014-15,2015-03-04,1473447,195,0,1,UCLA,USC,Bruins,Trojans,4,2,36,23,13,1668,UCLA,1470,270,0,Kevon Looney with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2014-15,2015-03-04,1473447,196,0,1,UCLA,USC,Bruins,Trojans,4,2,38,23,15,1668,UCLA,1468,268,2,Kevon Looney makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,846499,Kevon Looney,NA,0,UCLA,USC,49
+2014-15,2015-03-04,1473447,197,0,1,UCLA,USC,Bruins,Trojans,4,2,38,23,15,1669,USC,1442,242,26,Nikola Jovanovic misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,18.3,8.85,743975,Nikola Jovanovic,NA,0,USC,USC,50
+2014-15,2015-03-04,1473447,198,0,1,UCLA,USC,Bruins,Trojans,4,2,38,23,15,1668,UCLA,1442,242,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,50
+2014-15,2015-03-04,1473447,200,0,1,UCLA,USC,Bruins,Trojans,4,2,38,23,15,1669,USC,1429,229,13,Shooting foul committed by Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2014-15,2015-03-04,1473447,201,0,1,UCLA,USC,Bruins,Trojans,4,2,38,23,15,NA,NA,1429,229,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,202,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1668,UCLA,1429,229,0,Tony Parker makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2014-15,2015-03-04,1473447,203,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1668,UCLA,1429,229,0,Tony Parker misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2014-15,2015-03-04,1473447,204,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1669,USC,1429,229,0,Darion Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,51
+2014-15,2015-03-04,1473447,206,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1669,USC,1397,197,32,Katin Reinhardt misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.3,15.05,703511,Katin Reinhardt,NA,0,USC,USC,52
+2014-15,2015-03-04,1473447,207,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1669,USC,1397,197,0,Darion Clark with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,52
+2014-15,2015-03-04,1473447,210,0,1,UCLA,USC,Bruins,Trojans,4,2,39,23,16,1669,USC,1394,194,3,Julian Jacobs with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,52
+2014-15,2015-03-04,1473447,211,0,1,UCLA,USC,Bruins,Trojans,4,1,39,23,16,1669,USC,1394,194,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,214,0,1,UCLA,USC,Bruins,Trojans,4,1,41,23,18,1668,UCLA,1373,173,21,Norman Powell makes a jump shot from 20 feet out. Isaac Hamilton with the assist.,made,FALSE,FALSE,Jump Shot,27.3,24.849999999999994,609861,Norman Powell,Isaac Hamilton,0,UCLA,USC,53
+2014-15,2015-03-04,1473447,215,0,1,UCLA,USC,Bruins,Trojans,4,1,41,25,16,1669,USC,1365,165,8,Nikola Jovanovic makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,743975,Nikola Jovanovic,NA,0,USC,UCLA,54
+2014-15,2015-03-04,1473447,216,0,1,UCLA,USC,Bruins,Trojans,4,1,41,25,16,1668,UCLA,1342,142,23,Isaac Hamilton misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,20.950000000000003,795945,Isaac Hamilton,NA,0,UCLA,UCLA,55
+2014-15,2015-03-04,1473447,217,0,1,UCLA,USC,Bruins,Trojans,4,1,41,25,16,1669,USC,1342,142,0,Katin Reinhardt with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,55
+2014-15,2015-03-04,1473447,220,0,1,UCLA,USC,Bruins,Trojans,4,1,41,25,16,1668,UCLA,1338,138,4,Personal foul committed by Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,56
+2014-15,2015-03-04,1473447,221,0,1,UCLA,USC,Bruins,Trojans,4,1,41,26,15,1669,USC,1338,138,0,Katin Reinhardt makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,56
+2014-15,2015-03-04,1473447,222,0,1,UCLA,USC,Bruins,Trojans,4,1,41,27,14,1669,USC,1338,138,0,Katin Reinhardt makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,56
+2014-15,2015-03-04,1473447,224,0,1,UCLA,USC,Bruins,Trojans,4,1,41,27,14,1668,UCLA,1326,126,12,Nikola Jovanovic blocks a Norman Powell layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,609861,Norman Powell,NA,0,UCLA,UCLA,57
+2014-15,2015-03-04,1473447,225,0,1,UCLA,USC,Bruins,Trojans,4,1,41,27,14,1669,USC,1326,126,0,Darion Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,57
+2014-15,2015-03-04,1473447,227,0,1,UCLA,USC,Bruins,Trojans,4,1,41,30,11,1669,USC,1322,122,4,Katin Reinhardt makes a 3-point jump shot from 23 feet out. Julian Jacobs with the assist.,made,FALSE,TRUE,Jump Shot,47.9,10.25,703511,Katin Reinhardt,Julian Jacobs,0,USC,UCLA,58
+2014-15,2015-03-04,1473447,229,0,1,UCLA,USC,Bruins,Trojans,3,1,41,30,11,1668,UCLA,1320,120,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,233,0,1,UCLA,USC,Bruins,Trojans,3,1,41,30,11,1669,USC,1316,116,4,Personal foul committed by Darion Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2014-15,2015-03-04,1473447,237,0,1,UCLA,USC,Bruins,Trojans,3,1,43,30,13,1668,UCLA,1303,103,13,Bryce Alford makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,44.8,10.049999999999997,743779,Bryce Alford,NA,0,UCLA,USC,59
+2014-15,2015-03-04,1473447,238,0,1,UCLA,USC,Bruins,Trojans,3,1,43,33,10,1669,USC,1292,92,11,Katin Reinhardt makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,3.3000000000000007,14.85,703511,Katin Reinhardt,NA,0,USC,UCLA,60
+2014-15,2015-03-04,1473447,239,0,1,UCLA,USC,Bruins,Trojans,3,1,43,33,10,1668,UCLA,1259,59,33,Norman Powell misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.299999999999997,24.549999999999997,609861,Norman Powell,NA,0,UCLA,UCLA,61
+2014-15,2015-03-04,1473447,240,0,1,UCLA,USC,Bruins,Trojans,3,1,43,33,10,1669,USC,1259,59,0,Julian Jacobs with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,61
+2014-15,2015-03-04,1473447,241,0,1,UCLA,USC,Bruins,Trojans,3,1,43,35,8,1669,USC,1253,53,6,Julian Jacobs makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,743973,Julian Jacobs,NA,0,USC,UCLA,62
+2014-15,2015-03-04,1473447,242,0,1,UCLA,USC,Bruins,Trojans,3,1,46,35,11,1668,UCLA,1226,26,27,Bryce Alford makes a 3-point jump shot from 24 feet out. Noah Allen with the assist.,made,FALSE,TRUE,Jump Shot,3,15.549999999999997,743779,Bryce Alford,Noah Allen,0,UCLA,USC,63
+2014-15,2015-03-04,1473447,245,0,1,UCLA,USC,Bruins,Trojans,3,1,46,35,11,1669,USC,1206,6,20,Julian Jacobs with a turnover - Discontinue Dribble,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,64
+2014-15,2015-03-04,1473447,247,0,1,UCLA,USC,Bruins,Trojans,3,1,46,35,11,1668,UCLA,1201,1,5,Noah Allen misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,743782,Noah Allen,NA,0,UCLA,USC,65
+2014-15,2015-03-04,1473447,251,0,1,UCLA,USC,Bruins,Trojans,3,1,46,35,11,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,252,0,2,UCLA,USC,Bruins,Trojans,4,4,46,35,11,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,66
+2014-15,2015-03-04,1473447,258,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1669,USC,1190,1190,10,Nikola Jovanovic makes a layup. Katin Reinhardt with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,743975,Nikola Jovanovic,Katin Reinhardt,0,USC,UCLA,67
+2014-15,2015-03-04,1473447,260,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1668,UCLA,1177,1177,13,Offensive foul committed by Norman Powell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,68
+2014-15,2015-03-04,1473447,261,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1668,UCLA,1177,1177,0,Norman Powell with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,68
+2014-15,2015-03-04,1473447,263,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1669,USC,1154,1154,23,Nikola Jovanovic misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19,15.05,743975,Nikola Jovanovic,NA,0,USC,USC,69
+2014-15,2015-03-04,1473447,264,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1668,UCLA,1154,1154,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,69
+2014-15,2015-03-04,1473447,265,0,2,UCLA,USC,Bruins,Trojans,4,4,46,37,9,1668,UCLA,1136,1136,18,Julian Jacobs steals the ball from Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,70
+2014-15,2015-03-04,1473447,266,0,2,UCLA,USC,Bruins,Trojans,4,4,46,39,7,1669,USC,1116,1116,20,Malik Martin dunks. Julian Jacobs with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,844469,Malik Martin,Julian Jacobs,0,USC,UCLA,71
+2014-15,2015-03-04,1473447,267,0,2,UCLA,USC,Bruins,Trojans,4,4,46,39,7,1668,UCLA,1094,1094,22,Tony Parker misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,14.349999999999994,697723,Tony Parker,NA,0,UCLA,UCLA,72
+2014-15,2015-03-04,1473447,268,0,2,UCLA,USC,Bruins,Trojans,4,4,46,39,7,1669,USC,1094,1094,0,Elijah Stewart with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,72
+2014-15,2015-03-04,1473447,270,0,2,UCLA,USC,Bruins,Trojans,4,4,46,39,7,1669,USC,1089,1089,5,Elijah Stewart with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,73
+2014-15,2015-03-04,1473447,272,0,2,UCLA,USC,Bruins,Trojans,4,4,49,39,10,1668,UCLA,1070,1070,19,Bryce Alford makes a 3-point jump shot from 23 feet out. Norman Powell with the assist.,made,FALSE,TRUE,Jump Shot,24.7,28.25,743779,Bryce Alford,Norman Powell,0,UCLA,USC,74
+2014-15,2015-03-04,1473447,277,0,2,UCLA,USC,Bruins,Trojans,4,4,49,39,10,1669,USC,1055,1055,15,Elijah Stewart misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.6,28.45,844470,Elijah Stewart,NA,0,USC,USC,75
+2014-15,2015-03-04,1473447,278,0,2,UCLA,USC,Bruins,Trojans,4,4,49,39,10,1668,UCLA,1055,1055,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,75
+2014-15,2015-03-04,1473447,280,0,2,UCLA,USC,Bruins,Trojans,4,4,49,39,10,1669,USC,1054,1054,1,Personal foul committed by Nikola Jovanovic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,76
+2014-15,2015-03-04,1473447,282,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1668,UCLA,1041,1041,13,Norman Powell makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,609861,Norman Powell,NA,0,UCLA,USC,76
+2014-15,2015-03-04,1473447,285,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1026,1026,15,Elijah Stewart misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.3,11.15,844470,Elijah Stewart,NA,0,USC,USC,77
+2014-15,2015-03-04,1473447,288,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1025,1025,1,Kevon Looney steals the ball from Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,77
+2014-15,2015-03-04,1473447,289,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1668,UCLA,1017,1017,8,Norman Powell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,609861,Norman Powell,NA,0,UCLA,UCLA,78
+2014-15,2015-03-04,1473447,290,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1017,1017,0,Malik Martin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,78
+2014-15,2015-03-04,1473447,292,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1668,UCLA,1004,1004,13,Shooting foul committed by Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,79
+2014-15,2015-03-04,1473447,293,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1004,1004,0,Malik Martin misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,79
+2014-15,2015-03-04,1473447,295,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1004,1004,0,Malik Martin misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,79
+2014-15,2015-03-04,1473447,296,0,2,UCLA,USC,Bruins,Trojans,4,4,51,39,12,1669,USC,1004,1004,0,Elijah Stewart with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,79
+2014-15,2015-03-04,1473447,302,0,2,UCLA,USC,Bruins,Trojans,4,4,51,41,10,1669,USC,981,981,23,Nikola Jovanovic makes a layup. Julian Jacobs with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,743975,Nikola Jovanovic,Julian Jacobs,0,USC,UCLA,79
+2014-15,2015-03-04,1473447,304,0,2,UCLA,USC,Bruins,Trojans,4,4,51,41,10,1668,UCLA,962,962,19,Julian Jacobs steals the ball from Norman Powell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,80
+2014-15,2015-03-04,1473447,306,0,2,UCLA,USC,Bruins,Trojans,4,4,51,41,10,1669,USC,952,952,10,Katin Reinhardt misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,12.15,703511,Katin Reinhardt,NA,0,USC,UCLA,81
+2014-15,2015-03-04,1473447,308,0,2,UCLA,USC,Bruins,Trojans,4,4,51,41,10,NA,NA,952,952,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,312,0,2,UCLA,USC,Bruins,Trojans,4,4,51,41,10,1668,UCLA,930,930,22,Nikola Jovanovic steals the ball from Isaac Hamilton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,82
+2014-15,2015-03-04,1473447,313,0,2,UCLA,USC,Bruins,Trojans,4,4,51,43,8,1669,USC,925,925,5,Malik Martin makes a layup. Julian Jacobs with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,844469,Malik Martin,Julian Jacobs,0,USC,UCLA,83
+2014-15,2015-03-04,1473447,314,0,2,UCLA,USC,Bruins,Trojans,4,4,54,43,11,1668,UCLA,893,893,32,Bryce Alford makes a 3-point jump shot from 23 feet out. Isaac Hamilton with the assist.,made,FALSE,TRUE,Jump Shot,46.9,11.450000000000003,743779,Bryce Alford,Isaac Hamilton,0,UCLA,USC,84
+2014-15,2015-03-04,1473447,317,0,2,UCLA,USC,Bruins,Trojans,4,4,54,43,11,1668,UCLA,883,883,10,Shooting foul committed by Tony Parker.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2014-15,2015-03-04,1473447,318,0,2,UCLA,USC,Bruins,Trojans,4,4,54,44,10,1669,USC,883,883,0,Julian Jacobs makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2014-15,2015-03-04,1473447,319,0,2,UCLA,USC,Bruins,Trojans,4,4,54,45,9,1669,USC,883,883,0,Julian Jacobs makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,85
+2014-15,2015-03-04,1473447,323,0,2,UCLA,USC,Bruins,Trojans,4,4,54,45,9,1669,USC,873,873,10,Personal foul committed by Nikola Jovanovic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2014-15,2015-03-04,1473447,325,0,2,UCLA,USC,Bruins,Trojans,4,4,56,45,11,1668,UCLA,867,867,6,Tony Parker makes a hook shot from 7 feet out. Noah Allen with the assist.,made,FALSE,FALSE,Hook Shot,24.6,11.950000000000003,697723,Tony Parker,Noah Allen,0,UCLA,USC,86
+2014-15,2015-03-04,1473447,329,0,2,UCLA,USC,Bruins,Trojans,4,4,56,48,8,1669,USC,845,845,22,Elijah Stewart makes a 3-point jump shot from 25 feet out. Julian Jacobs with the assist.,made,FALSE,TRUE,Jump Shot,32.4,28.75,844470,Elijah Stewart,Julian Jacobs,0,USC,UCLA,87
+2014-15,2015-03-04,1473447,330,0,2,UCLA,USC,Bruins,Trojans,4,4,56,48,8,1668,UCLA,812,812,33,Tony Parker misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,24.1,13.150000000000006,697723,Tony Parker,NA,0,UCLA,UCLA,88
+2014-15,2015-03-04,1473447,331,0,2,UCLA,USC,Bruins,Trojans,4,4,56,48,8,1668,UCLA,812,812,0,Noah Allen with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,88
+2014-15,2015-03-04,1473447,332,0,2,UCLA,USC,Bruins,Trojans,4,4,56,48,8,1668,UCLA,808,808,4,Noah Allen misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,23.7,8.25,743782,Noah Allen,NA,0,UCLA,UCLA,88
+2014-15,2015-03-04,1473447,333,0,2,UCLA,USC,Bruins,Trojans,4,4,56,48,8,1668,UCLA,808,808,0,Kevon Looney with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,88
+2014-15,2015-03-04,1473447,334,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1668,UCLA,803,803,5,Kevon Looney makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26.8,7.349999999999994,846499,Kevon Looney,NA,0,UCLA,USC,88
+2014-15,2015-03-04,1473447,340,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,788,788,15,Katin Reinhardt misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,703511,Katin Reinhardt,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,341,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,788,788,0,Nikola Jovanovic with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,343,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,787,787,1,Nikola Jovanovic misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,743975,Nikola Jovanovic,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,344,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,787,787,0,Katin Reinhardt with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,346,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1668,UCLA,786,786,1,Shooting foul committed by Kevon Looney.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,347,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,786,786,0,Katin Reinhardt misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,349,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,786,786,0,Katin Reinhardt misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2014-15,2015-03-04,1473447,350,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1668,UCLA,786,786,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,89
+2014-15,2015-03-04,1473447,354,0,2,UCLA,USC,Bruins,Trojans,4,4,58,48,10,1669,USC,774,774,12,Shooting foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2014-15,2015-03-04,1473447,355,0,2,UCLA,USC,Bruins,Trojans,4,4,59,48,11,1668,UCLA,774,774,0,Bryce Alford makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2014-15,2015-03-04,1473447,356,0,2,UCLA,USC,Bruins,Trojans,4,4,59,48,11,1668,UCLA,774,774,0,Bryce Alford misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2014-15,2015-03-04,1473447,357,0,2,UCLA,USC,Bruins,Trojans,4,4,59,48,11,1669,USC,774,774,0,Darion Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,90
+2014-15,2015-03-04,1473447,361,0,2,UCLA,USC,Bruins,Trojans,4,4,59,51,8,1669,USC,760,760,14,Malik Marquetti makes a 3-point jump shot from 23 feet out. Katin Reinhardt with the assist.,made,FALSE,TRUE,Jump Shot,47.7,7.75,844463,Malik Marquetti,Katin Reinhardt,0,USC,UCLA,91
+2014-15,2015-03-04,1473447,366,0,2,UCLA,USC,Bruins,Trojans,4,4,59,51,8,1668,UCLA,741,741,19,Bryce Alford misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.799999999999997,12.650000000000006,743779,Bryce Alford,NA,0,UCLA,UCLA,92
+2014-15,2015-03-04,1473447,367,0,2,UCLA,USC,Bruins,Trojans,4,4,59,51,8,1668,UCLA,741,741,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,92
+2014-15,2015-03-04,1473447,370,0,2,UCLA,USC,Bruins,Trojans,4,4,61,51,10,1668,UCLA,739,739,2,Tony Parker makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,697723,Tony Parker,NA,0,UCLA,UCLA,92
+2014-15,2015-03-04,1473447,371,0,2,UCLA,USC,Bruins,Trojans,4,4,61,51,10,1669,USC,739,739,0,Shooting foul committed by Darion Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,92
+2014-15,2015-03-04,1473447,372,0,2,UCLA,USC,Bruins,Trojans,4,4,62,51,11,1668,UCLA,739,739,0,Tony Parker makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,92
+2014-15,2015-03-04,1473447,377,0,2,UCLA,USC,Bruins,Trojans,4,4,62,51,11,1669,USC,718,718,21,Offensive foul committed by Katin Reinhardt.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,93
+2014-15,2015-03-04,1473447,378,0,2,UCLA,USC,Bruins,Trojans,4,4,62,51,11,1669,USC,718,718,0,Katin Reinhardt with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,93
+2014-15,2015-03-04,1473447,379,0,2,UCLA,USC,Bruins,Trojans,4,4,62,51,11,NA,NA,718,718,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,381,0,2,UCLA,USC,Bruins,Trojans,4,4,64,51,13,1668,UCLA,704,704,14,Norman Powell makes a layup. Gyorgy Goloman with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,609861,Norman Powell,Gyorgy Goloman,0,UCLA,USC,94
+2014-15,2015-03-04,1473447,382,0,2,UCLA,USC,Bruins,Trojans,4,4,64,54,10,1669,USC,679,679,25,Elijah Stewart makes a 3-point jump shot from 24 feet out. Malik Marquetti with the assist.,made,FALSE,TRUE,Jump Shot,40.1,24.05,844470,Elijah Stewart,Malik Marquetti,0,USC,UCLA,95
+2014-15,2015-03-04,1473447,383,0,2,UCLA,USC,Bruins,Trojans,4,4,64,54,10,1668,UCLA,652,652,27,Thomas Welsh misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,11.799999999999997,6.849999999999994,846503,Thomas Welsh,NA,0,UCLA,UCLA,96
+2014-15,2015-03-04,1473447,384,0,2,UCLA,USC,Bruins,Trojans,4,4,64,54,10,1669,USC,652,652,0,Darion Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,96
+2014-15,2015-03-04,1473447,387,0,2,UCLA,USC,Bruins,Trojans,4,4,64,54,10,1669,USC,643,643,9,Malik Martin with a turnover - Out of Bounds,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,97
+2014-15,2015-03-04,1473447,390,0,2,UCLA,USC,Bruins,Trojans,4,4,66,54,12,1668,UCLA,615,615,28,Norman Powell dunks. Bryce Alford with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,609861,Norman Powell,Bryce Alford,0,UCLA,USC,98
+2014-15,2015-03-04,1473447,392,0,2,UCLA,USC,Bruins,Trojans,4,3,66,54,12,1669,USC,613,613,2,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,402,0,2,UCLA,USC,Bruins,Trojans,4,3,66,57,9,1669,USC,583,583,30,Katin Reinhardt makes a 3-point jump shot from 23 feet out. Malik Marquetti with the assist.,made,FALSE,TRUE,Jump Shot,2.1000000000000014,6.15,703511,Katin Reinhardt,Malik Marquetti,0,USC,USC,99
+2014-15,2015-03-04,1473447,403,0,2,UCLA,USC,Bruins,Trojans,4,3,66,57,9,1668,UCLA,583,583,0,Shooting foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,99
+2014-15,2015-03-04,1473447,404,0,2,UCLA,USC,Bruins,Trojans,4,3,66,58,8,1669,USC,583,583,0,Katin Reinhardt makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,99
+2014-15,2015-03-04,1473447,407,0,2,UCLA,USC,Bruins,Trojans,3,3,66,58,8,1668,UCLA,573,573,10,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,412,0,2,UCLA,USC,Bruins,Trojans,3,3,69,58,11,1668,UCLA,559,559,14,Isaac Hamilton makes a 3-point jump shot from 24 feet out. Bryce Alford with the assist.,made,FALSE,TRUE,Jump Shot,47,13.450000000000003,795945,Isaac Hamilton,Bryce Alford,0,UCLA,USC,100
+2014-15,2015-03-04,1473447,415,0,2,UCLA,USC,Bruins,Trojans,3,3,69,58,11,1668,UCLA,535,535,24,Shooting foul committed by Thomas Welsh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2014-15,2015-03-04,1473447,416,0,2,UCLA,USC,Bruins,Trojans,3,3,69,59,10,1669,USC,535,535,0,Nikola Jovanovic makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2014-15,2015-03-04,1473447,417,0,2,UCLA,USC,Bruins,Trojans,3,3,69,60,9,1669,USC,535,535,0,Nikola Jovanovic makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,101
+2014-15,2015-03-04,1473447,420,0,2,UCLA,USC,Bruins,Trojans,3,3,69,60,9,1669,USC,530,530,5,Personal foul committed by Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2014-15,2015-03-04,1473447,423,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1668,UCLA,503,503,27,Thomas Welsh makes a layup. Norman Powell with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,846503,Thomas Welsh,Norman Powell,0,UCLA,USC,102
+2014-15,2015-03-04,1473447,425,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1669,USC,482,482,21,Nikola Jovanovic misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,25.6,14.15,743975,Nikola Jovanovic,NA,0,USC,USC,103
+2014-15,2015-03-04,1473447,426,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1668,UCLA,482,482,0,Thomas Welsh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,103
+2014-15,2015-03-04,1473447,427,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1668,UCLA,461,461,21,Kevon Looney misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,24.049999999999997,846499,Kevon Looney,NA,0,UCLA,UCLA,104
+2014-15,2015-03-04,1473447,428,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1669,USC,461,461,0,Malik Marquetti with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,104
+2014-15,2015-03-04,1473447,429,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1669,USC,451,451,10,Norman Powell steals the ball from Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,105
+2014-15,2015-03-04,1473447,431,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,1668,UCLA,447,447,4,Norman Powell misses a dunk.,missed,FALSE,FALSE,Dunk Shot,26,6.25,609861,Norman Powell,NA,0,UCLA,USC,106
+2014-15,2015-03-04,1473447,433,0,2,UCLA,USC,Bruins,Trojans,3,3,71,60,11,NA,NA,447,447,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,437,0,2,UCLA,USC,Bruins,Trojans,3,3,71,63,8,1669,USC,434,434,13,Katin Reinhardt makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,18.5,28.25,703511,Katin Reinhardt,NA,0,USC,UCLA,107
+2014-15,2015-03-04,1473447,440,0,2,UCLA,USC,Bruins,Trojans,3,3,71,63,8,1669,USC,424,424,10,Personal foul committed by Nikola Jovanovic.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2014-15,2015-03-04,1473447,441,0,2,UCLA,USC,Bruins,Trojans,3,3,72,63,9,1668,UCLA,424,424,0,Norman Powell makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2014-15,2015-03-04,1473447,442,0,2,UCLA,USC,Bruins,Trojans,3,3,73,63,10,1668,UCLA,424,424,0,Norman Powell makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,108
+2014-15,2015-03-04,1473447,444,0,2,UCLA,USC,Bruins,Trojans,3,3,73,63,10,1669,USC,399,399,25,Katin Reinhardt misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39.2,6.35,703511,Katin Reinhardt,NA,0,USC,USC,109
+2014-15,2015-03-04,1473447,445,0,2,UCLA,USC,Bruins,Trojans,3,3,73,63,10,1668,UCLA,399,399,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,109
+2014-15,2015-03-04,1473447,449,0,2,UCLA,USC,Bruins,Trojans,3,3,73,63,10,1669,USC,397,397,2,Shooting foul committed by Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2014-15,2015-03-04,1473447,450,0,2,UCLA,USC,Bruins,Trojans,3,3,74,63,11,1668,UCLA,397,397,0,Isaac Hamilton makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,110
+2014-15,2015-03-04,1473447,451,0,2,UCLA,USC,Bruins,Trojans,3,3,75,63,12,1668,UCLA,397,397,0,Isaac Hamilton makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,110
+2014-15,2015-03-04,1473447,455,0,2,UCLA,USC,Bruins,Trojans,3,3,75,63,12,1669,USC,373,373,24,Katin Reinhardt with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,111
+2014-15,2015-03-04,1473447,457,0,2,UCLA,USC,Bruins,Trojans,3,3,75,63,12,1668,UCLA,340,340,33,Bryce Alford misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,23.049999999999997,743779,Bryce Alford,NA,0,UCLA,UCLA,112
+2014-15,2015-03-04,1473447,458,0,2,UCLA,USC,Bruins,Trojans,3,3,75,63,12,1668,UCLA,340,340,0,Kevon Looney with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,112
+2014-15,2015-03-04,1473447,459,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1668,UCLA,331,331,9,Tony Parker makes a layup. Norman Powell with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,697723,Tony Parker,Norman Powell,0,UCLA,USC,112
+2014-15,2015-03-04,1473447,461,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1668,UCLA,309,309,22,Personal foul committed by Tony Parker.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,113
+2014-15,2015-03-04,1473447,462,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1669,USC,309,309,0,Nikola Jovanovic misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,113
+2014-15,2015-03-04,1473447,463,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1668,UCLA,309,309,0,Norman Powell with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,113
+2014-15,2015-03-04,1473447,470,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1669,USC,298,298,11,Shooting foul committed by Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2014-15,2015-03-04,1473447,471,0,2,UCLA,USC,Bruins,Trojans,3,3,77,63,14,1668,UCLA,298,298,0,Tony Parker misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2014-15,2015-03-04,1473447,473,0,2,UCLA,USC,Bruins,Trojans,3,3,78,63,15,1668,UCLA,298,298,0,Tony Parker makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,114
+2014-15,2015-03-04,1473447,475,0,2,UCLA,USC,Bruins,Trojans,3,3,78,65,13,1669,USC,287,287,11,Darion Clark makes a layup. Julian Jacobs with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,696257,Darion Clark,Julian Jacobs,0,USC,UCLA,115
+2014-15,2015-03-04,1473447,479,0,2,UCLA,USC,Bruins,Trojans,3,3,78,65,13,1668,UCLA,274,274,13,Norman Powell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,609861,Norman Powell,NA,0,UCLA,UCLA,116
+2014-15,2015-03-04,1473447,480,0,2,UCLA,USC,Bruins,Trojans,3,3,78,65,13,1668,UCLA,274,274,0,Kevon Looney with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2014-15,2015-03-04,1473447,482,0,2,UCLA,USC,Bruins,Trojans,3,3,78,65,13,1669,USC,273,273,1,Shooting foul committed by Darion Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2014-15,2015-03-04,1473447,483,0,2,UCLA,USC,Bruins,Trojans,3,3,79,65,14,1668,UCLA,273,273,0,Kevon Looney makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2014-15,2015-03-04,1473447,484,0,2,UCLA,USC,Bruins,Trojans,3,3,80,65,15,1668,UCLA,273,273,0,Kevon Looney makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,116
+2014-15,2015-03-04,1473447,486,0,2,UCLA,USC,Bruins,Trojans,3,3,80,65,15,1669,USC,265,265,8,Tony Parker steals the ball from Julian Jacobs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,117
+2014-15,2015-03-04,1473447,487,0,2,UCLA,USC,Bruins,Trojans,3,3,80,65,15,1668,UCLA,244,244,21,Tony Parker misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,697723,Tony Parker,NA,0,UCLA,UCLA,118
+2014-15,2015-03-04,1473447,488,0,2,UCLA,USC,Bruins,Trojans,3,3,80,65,15,1669,USC,244,244,0,Nikola Jovanovic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,118
+2014-15,2015-03-04,1473447,492,0,2,UCLA,USC,Bruins,Trojans,3,3,80,65,15,1668,UCLA,240,240,4,Shooting foul committed by Norman Powell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2014-15,2015-03-04,1473447,493,0,2,UCLA,USC,Bruins,Trojans,3,3,80,66,14,1669,USC,240,240,0,Julian Jacobs makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2014-15,2015-03-04,1473447,494,0,2,UCLA,USC,Bruins,Trojans,3,3,80,67,13,1669,USC,240,240,0,Julian Jacobs makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,119
+2014-15,2015-03-04,1473447,497,0,2,UCLA,USC,Bruins,Trojans,3,3,80,67,13,1669,USC,222,222,18,Personal foul committed by Julian Jacobs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,120
+2014-15,2015-03-04,1473447,498,0,2,UCLA,USC,Bruins,Trojans,3,3,80,67,13,NA,NA,222,222,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,499,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,222,222,0,Bryce Alford makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,120
+2014-15,2015-03-04,1473447,500,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,222,222,0,Bryce Alford misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,120
+2014-15,2015-03-04,1473447,501,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1669,USC,222,222,0,Julian Jacobs with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,120
+2014-15,2015-03-04,1473447,504,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1669,USC,208,208,14,Elijah Stewart misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.9,13.35,844470,Elijah Stewart,NA,0,USC,USC,121
+2014-15,2015-03-04,1473447,505,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,208,208,0,Kevon Looney with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,121
+2014-15,2015-03-04,1473447,508,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,193,193,15,Norman Powell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,609861,Norman Powell,NA,0,UCLA,UCLA,122
+2014-15,2015-03-04,1473447,509,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,193,193,0,Tony Parker with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,122
+2014-15,2015-03-04,1473447,511,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1669,USC,192,192,1,Personal foul committed by Malik Martin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,122
+2014-15,2015-03-04,1473447,512,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,NA,NA,192,192,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,513,0,2,UCLA,USC,Bruins,Trojans,3,3,81,67,14,1668,UCLA,192,192,0,Tony Parker misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,122
+2014-15,2015-03-04,1473447,515,0,2,UCLA,USC,Bruins,Trojans,3,3,82,67,15,1668,UCLA,192,192,0,Tony Parker makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,122
+2014-15,2015-03-04,1473447,517,0,2,UCLA,USC,Bruins,Trojans,3,3,82,69,13,1669,USC,181,181,11,Darion Clark makes a layup. Julian Jacobs with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,696257,Darion Clark,Julian Jacobs,0,USC,UCLA,123
+2014-15,2015-03-04,1473447,518,0,2,UCLA,USC,Bruins,Trojans,3,3,82,69,13,1668,UCLA,150,150,31,Norman Powell misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,23.849999999999994,609861,Norman Powell,NA,0,UCLA,UCLA,124
+2014-15,2015-03-04,1473447,519,0,2,UCLA,USC,Bruins,Trojans,3,3,82,69,13,1669,USC,150,150,0,Nikola Jovanovic with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,124
+2014-15,2015-03-04,1473447,521,0,2,UCLA,USC,Bruins,Trojans,3,3,82,69,13,1669,USC,139,139,11,Darion Clark with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,125
+2014-15,2015-03-04,1473447,527,0,2,UCLA,USC,Bruins,Trojans,3,3,85,69,16,1668,UCLA,137,137,2,Isaac Hamilton makes a 3-point jump shot from 23 feet out. Norman Powell with the assist.,made,FALSE,TRUE,Jump Shot,46.2,13.450000000000003,795945,Isaac Hamilton,Norman Powell,0,UCLA,USC,126
+2014-15,2015-03-04,1473447,528,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1668,UCLA,137,137,0,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,530,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1669,USC,121,121,16,Darion Clark misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.6,7.55,696257,Darion Clark,NA,0,USC,USC,127
+2014-15,2015-03-04,1473447,531,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1668,UCLA,121,121,0,Norman Powell with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,127
+2014-15,2015-03-04,1473447,532,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1668,UCLA,116,116,5,Isaac Hamilton misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,795945,Isaac Hamilton,NA,0,UCLA,UCLA,128
+2014-15,2015-03-04,1473447,533,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1668,UCLA,116,116,0,Norman Powell with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,128
+2014-15,2015-03-04,1473447,534,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1668,UCLA,96,96,20,Katin Reinhardt steals the ball from Norman Powell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,128
+2014-15,2015-03-04,1473447,535,0,2,UCLA,USC,Bruins,Trojans,2,3,85,69,16,1669,USC,91,91,5,Bryce Alford steals the ball from Elijah Stewart.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,129
+2014-15,2015-03-04,1473447,539,0,2,UCLA,USC,Bruins,Trojans,1,3,85,69,16,1668,UCLA,91,91,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,541,0,2,UCLA,USC,Bruins,Trojans,1,3,85,69,16,1668,UCLA,78,78,13,Katin Reinhardt steals the ball from Nick Kazemi.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,130
+2014-15,2015-03-04,1473447,542,0,2,UCLA,USC,Bruins,Trojans,1,3,85,71,14,1669,USC,63,63,15,Nikola Jovanovic dunks. Julian Jacobs with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,743975,Nikola Jovanovic,Julian Jacobs,0,USC,UCLA,131
+2014-15,2015-03-04,1473447,543,0,2,UCLA,USC,Bruins,Trojans,1,3,85,71,14,1668,UCLA,36,36,27,Nick Kazemi misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,43.8,6.650000000000006,609858,Nick Kazemi,NA,0,UCLA,UCLA,132
+2014-15,2015-03-04,1473447,544,0,2,UCLA,USC,Bruins,Trojans,1,3,85,71,14,1669,USC,36,36,0,Julian Jacobs with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,132
+2014-15,2015-03-04,1473447,545,0,2,UCLA,USC,Bruins,Trojans,1,3,85,74,11,1669,USC,27,27,9,Katin Reinhardt makes a 3-point jump shot from 23 feet out. Darion Clark with the assist.,made,FALSE,TRUE,Jump Shot,2.5,5.85,703511,Katin Reinhardt,Darion Clark,0,USC,UCLA,133
+2014-15,2015-03-04,1473447,548,0,2,UCLA,USC,Bruins,Trojans,1,3,85,74,11,NA,NA,0,0,27,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2014-15,2015-03-04,1473447,549,0,2,UCLA,USC,Bruins,Trojans,1,3,85,74,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

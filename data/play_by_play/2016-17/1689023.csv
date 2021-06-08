@@ -1,0 +1,239 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,NA,NA,NA,Starting Lineup - Hakeem Baxter,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,NA,NA,NA,Starting Lineup - Horace Spencer,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,NA,NA,NA,Starting Lineup - Dirk Williams,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,NA,NA,NA,Starting Lineup - William Lee,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,NA,NA,NA,Starting Lineup - Mustapha Heron,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,NA,NA,NA,Starting Lineup - Danjel Purifoy,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,NA,NA,NA,Starting Lineup - Chris Cokley,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,NA,NA,NA,Starting Lineup - Deion Lavender,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,NA,NA,NA,Starting Lineup - Jared Harper,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,1,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,NA,NA,NA,Starting Lineup - Bryce Brown,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2016-17,2016-12-03,1689023,2,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Auburn,1
+2016-17,2016-12-03,1689023,3,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,2383,1183,17,Danjel Purifoy misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,13.15,947238,Danjel Purifoy,NA,0,Auburn,Auburn,1
+2016-17,2016-12-03,1689023,4,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,2372,1172,11,Personal foul committed by Deion Lavender.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,1
+2016-17,2016-12-03,1689023,5,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1299,Auburn,2363,1163,9,Mustapha Heron misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.899999999999999,10.55,947244,Mustapha Heron,NA,0,Auburn,Auburn,1
+2016-17,2016-12-03,1689023,6,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,0,0,1303,UAB,2349,1149,14,Personal foul committed by William Lee.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,1
+2016-17,2016-12-03,1689023,7,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,3,-3,1299,Auburn,2348,1148,1,Danjel Purifoy makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.1000000000000014,4.45,947238,Danjel Purifoy,NA,0,Auburn,UAB,1
+2016-17,2016-12-03,1689023,8,0,1,UAB,Auburn,Blazers,Tigers,4,4,0,3,-3,1299,Auburn,2330,1130,18,Shooting foul committed by Horace Spencer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,2
+2016-17,2016-12-03,1689023,9,0,1,UAB,Auburn,Blazers,Tigers,4,4,1,3,-2,1303,UAB,2330,1130,0,Chris Cokley makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,2
+2016-17,2016-12-03,1689023,10,0,1,UAB,Auburn,Blazers,Tigers,4,4,2,3,-1,1303,UAB,2330,1130,0,Chris Cokley makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,2
+2016-17,2016-12-03,1689023,11,0,1,UAB,Auburn,Blazers,Tigers,4,4,2,5,-3,1299,Auburn,2319,1119,11,T.J. Dunans makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,32,22.25,886342,T.J. Dunans,NA,0,Auburn,UAB,3
+2016-17,2016-12-03,1689023,12,0,1,UAB,Auburn,Blazers,Tigers,4,4,4,5,-1,1303,UAB,2312,1112,7,Dirk Williams dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,895970,Dirk Williams,NA,0,UAB,Auburn,4
+2016-17,2016-12-03,1689023,13,0,1,UAB,Auburn,Blazers,Tigers,4,4,4,5,-1,1303,UAB,2304,1104,8,Personal foul committed by Dirk Williams.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,5
+2016-17,2016-12-03,1689023,14,0,1,UAB,Auburn,Blazers,Tigers,4,4,4,5,-1,1303,UAB,2290,1090,14,Personal foul committed by Dirk Williams.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,5
+2016-17,2016-12-03,1689023,15,0,1,UAB,Auburn,Blazers,Tigers,4,4,4,5,-1,1299,Auburn,2277,1077,13,Mustapha Heron misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,947244,Mustapha Heron,NA,0,Auburn,Auburn,5
+2016-17,2016-12-03,1689023,16,0,1,UAB,Auburn,Blazers,Tigers,4,4,4,5,-1,1299,Auburn,2263,1063,14,Horace Spencer misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.4,7.75,886299,Horace Spencer,NA,0,Auburn,UAB,5
+2016-17,2016-12-03,1689023,17,0,1,UAB,Auburn,Blazers,Tigers,4,4,6,5,1,1303,UAB,2242,1042,21,William Lee makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,847579,William Lee,NA,0,UAB,Auburn,6
+2016-17,2016-12-03,1689023,18,0,1,UAB,Auburn,Blazers,Tigers,4,4,6,5,1,1299,Auburn,2228,1028,14,Jared Harper misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11,8.35,947237,Jared Harper,NA,0,Auburn,UAB,7
+2016-17,2016-12-03,1689023,19,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,5,3,1303,UAB,2212,1012,16,William Lee makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,847579,William Lee,NA,0,UAB,Auburn,8
+2016-17,2016-12-03,1689023,20,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,8,0,1299,Auburn,2204,1004,8,Jared Harper makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,34.1,26.55,947237,Jared Harper,NA,0,Auburn,UAB,9
+2016-17,2016-12-03,1689023,21,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,8,0,1303,UAB,2194,994,10,Chris Cokley misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,847572,Chris Cokley,NA,0,UAB,UAB,10
+2016-17,2016-12-03,1689023,22,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,8,0,1299,Auburn,2173,973,21,Personal foul committed by Bryce Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,10
+2016-17,2016-12-03,1689023,23,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,8,0,1299,Auburn,2155,955,18,Personal foul committed by LaRon Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,10
+2016-17,2016-12-03,1689023,24,0,1,UAB,Auburn,Blazers,Tigers,4,4,8,8,0,NA,NA,2155,955,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,25,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,8,2,1303,UAB,2145,945,10,Chris Cokley makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,847572,Chris Cokley,NA,0,UAB,Auburn,10
+2016-17,2016-12-03,1689023,26,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,8,2,1299,Auburn,2133,933,12,T.J. Dunans misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8.100000000000001,12.65,886342,T.J. Dunans,NA,0,Auburn,Auburn,11
+2016-17,2016-12-03,1689023,27,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,8,2,1303,UAB,2113,913,20,Personal foul committed by Hakeem Baxter.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,11
+2016-17,2016-12-03,1689023,28,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,9,1,1299,Auburn,2113,913,0,Mustapha Heron makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,11
+2016-17,2016-12-03,1689023,29,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,10,0,1299,Auburn,2113,913,0,Mustapha Heron makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,11
+2016-17,2016-12-03,1689023,30,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,10,0,1303,UAB,2113,913,0,Hakeem Baxter misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,12
+2016-17,2016-12-03,1689023,31,0,1,UAB,Auburn,Blazers,Tigers,4,4,10,13,-3,1299,Auburn,2113,913,0,Jared Harper makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,38.7,25.75,947237,Jared Harper,NA,0,Auburn,UAB,13
+2016-17,2016-12-03,1689023,32,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1303,UAB,2113,913,0,Javien Williams makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,950827,Javien Williams,NA,0,UAB,Auburn,14
+2016-17,2016-12-03,1689023,33,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1299,Auburn,2064,864,49,Danjel Purifoy misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.399999999999999,22.65,947238,Danjel Purifoy,NA,0,Auburn,Auburn,15
+2016-17,2016-12-03,1689023,34,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1303,UAB,2038,838,26,Personal foul committed by Javien Williams.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,15
+2016-17,2016-12-03,1689023,35,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1299,Auburn,2029,829,9,T.J. Dunans misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.3,9.55,886342,T.J. Dunans,NA,0,Auburn,UAB,15
+2016-17,2016-12-03,1689023,36,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1303,UAB,2005,805,24,Javien Williams misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,20.450000000000003,950827,Javien Williams,NA,0,UAB,UAB,16
+2016-17,2016-12-03,1689023,37,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1299,Auburn,1947,747,58,Personal foul committed by Ronnie Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2016-17,2016-12-03,1689023,38,0,1,UAB,Auburn,Blazers,Tigers,4,4,12,13,-1,1303,UAB,1947,747,0,Denzell Watts misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2016-17,2016-12-03,1689023,39,0,1,UAB,Auburn,Blazers,Tigers,4,4,13,13,0,1303,UAB,1947,747,0,Denzell Watts makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,16
+2016-17,2016-12-03,1689023,40,0,1,UAB,Auburn,Blazers,Tigers,4,4,13,13,0,1303,UAB,1940,740,7,Tosin Mehinti misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29,10.450000000000003,789731,Tosin Mehinti,NA,0,UAB,Auburn,17
+2016-17,2016-12-03,1689023,41,0,1,UAB,Auburn,Blazers,Tigers,4,4,13,13,0,1299,Auburn,1929,729,11,Anfernee McLemore misses a dunk.,missed,FALSE,FALSE,Dunk Shot,26,6.25,947286,Anfernee McLemore,NA,0,Auburn,Auburn,18
+2016-17,2016-12-03,1689023,42,0,1,UAB,Auburn,Blazers,Tigers,4,4,13,13,0,1299,Auburn,1920,720,9,T.J. Lang misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5,16.35,845504,T.J. Lang,NA,0,Auburn,UAB,18
+2016-17,2016-12-03,1689023,43,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,13,3,1303,UAB,1920,720,0,William Lee makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,47.7,15.150000000000006,847579,William Lee,NA,0,UAB,Auburn,19
+2016-17,2016-12-03,1689023,44,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,13,3,1299,Auburn,1912,712,8,Anfernee McLemore misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,18.55,947286,Anfernee McLemore,NA,0,Auburn,UAB,20
+2016-17,2016-12-03,1689023,45,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,13,3,1303,UAB,1902,702,10,Tyler Madison misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.1,22.849999999999994,789730,Tyler Madison,NA,0,UAB,Auburn,21
+2016-17,2016-12-03,1689023,46,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,1299,Auburn,1879,679,23,Ronnie Johnson makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,26.3,19.25,691491,Ronnie Johnson,NA,0,Auburn,UAB,22
+2016-17,2016-12-03,1689023,47,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,1303,UAB,1834,634,45,Personal foul committed by Deion Lavender.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,23
+2016-17,2016-12-03,1689023,48,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,NA,NA,1834,634,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,49,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,1299,Auburn,1817,617,17,Bryce Brown misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.100000000000001,23.55,886311,Bryce Brown,NA,0,Auburn,UAB,23
+2016-17,2016-12-03,1689023,50,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,1303,UAB,1797,597,20,Dirk Williams misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,895970,Dirk Williams,NA,0,UAB,Auburn,24
+2016-17,2016-12-03,1689023,51,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,15,1,1303,UAB,1781,581,16,Personal foul committed by Chris Cokley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,25
+2016-17,2016-12-03,1689023,52,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,16,0,1299,Auburn,1781,581,0,Mustapha Heron makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,25
+2016-17,2016-12-03,1689023,53,0,1,UAB,Auburn,Blazers,Tigers,4,4,16,16,0,1299,Auburn,1781,581,0,Mustapha Heron misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,25
+2016-17,2016-12-03,1689023,54,0,1,UAB,Auburn,Blazers,Tigers,4,4,18,16,2,1303,UAB,1774,574,7,Tyler Madison dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,789730,Tyler Madison,NA,0,UAB,Auburn,26
+2016-17,2016-12-03,1689023,55,0,1,UAB,Auburn,Blazers,Tigers,4,4,20,16,4,1303,UAB,1760,560,14,Tyler Madison dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,789730,Tyler Madison,NA,0,UAB,Auburn,27
+2016-17,2016-12-03,1689023,56,0,1,UAB,Auburn,Blazers,Tigers,4,4,20,16,4,1299,Auburn,1749,549,11,Mustapha Heron misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13,10.05,947244,Mustapha Heron,NA,0,Auburn,UAB,28
+2016-17,2016-12-03,1689023,57,0,1,UAB,Auburn,Blazers,Tigers,4,4,23,16,7,1303,UAB,1729,529,20,William Lee makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,31.7,29.450000000000003,847579,William Lee,NA,0,UAB,Auburn,29
+2016-17,2016-12-03,1689023,58,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,16,7,1299,Auburn,1721,521,8,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,59,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,19,4,1299,Auburn,1711,511,10,Bryce Brown makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3,12.85,886311,Bryce Brown,NA,0,Auburn,UAB,30
+2016-17,2016-12-03,1689023,60,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,19,4,1303,UAB,1690,490,21,Offensive foul committed by William Lee.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,31
+2016-17,2016-12-03,1689023,61,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,19,4,1299,Auburn,1675,475,15,Danjel Purifoy misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.6,22.65,947238,Danjel Purifoy,NA,0,Auburn,UAB,32
+2016-17,2016-12-03,1689023,62,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,19,4,1299,Auburn,1671,471,4,Personal foul committed by Horace Spencer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,33
+2016-17,2016-12-03,1689023,63,0,1,UAB,Auburn,Blazers,Tigers,4,3,23,19,4,NA,NA,1671,471,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,64,0,1,UAB,Auburn,Blazers,Tigers,4,3,25,19,6,1303,UAB,1656,456,15,Denzell Watts makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,789735,Denzell Watts,NA,0,UAB,Auburn,33
+2016-17,2016-12-03,1689023,65,0,1,UAB,Auburn,Blazers,Tigers,4,3,25,19,6,1299,Auburn,1642,442,14,Personal foul committed by Jared Harper.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,34
+2016-17,2016-12-03,1689023,66,0,1,UAB,Auburn,Blazers,Tigers,4,3,26,19,7,1303,UAB,1642,442,0,Denzell Watts makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,34
+2016-17,2016-12-03,1689023,67,0,1,UAB,Auburn,Blazers,Tigers,4,3,26,22,4,1299,Auburn,1632,432,10,Jared Harper makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,10.95,947237,Jared Harper,NA,0,Auburn,UAB,35
+2016-17,2016-12-03,1689023,68,0,1,UAB,Auburn,Blazers,Tigers,4,3,26,22,4,1303,UAB,1592,392,40,Personal foul committed by Chris Cokley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,36
+2016-17,2016-12-03,1689023,69,0,1,UAB,Auburn,Blazers,Tigers,4,3,26,22,4,1299,Auburn,1587,387,5,Bryce Brown misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.399999999999999,19.25,886311,Bryce Brown,NA,0,Auburn,UAB,36
+2016-17,2016-12-03,1689023,70,0,1,UAB,Auburn,Blazers,Tigers,4,3,26,22,4,1299,Auburn,1556,356,31,Shooting foul committed by LaRon Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,37
+2016-17,2016-12-03,1689023,71,0,1,UAB,Auburn,Blazers,Tigers,4,3,27,22,5,1303,UAB,1556,356,0,Tosin Mehinti makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,37
+2016-17,2016-12-03,1689023,72,0,1,UAB,Auburn,Blazers,Tigers,4,3,28,22,6,1303,UAB,1556,356,0,Tosin Mehinti makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,37
+2016-17,2016-12-03,1689023,73,0,1,UAB,Auburn,Blazers,Tigers,4,3,28,25,3,1299,Auburn,1521,321,35,Jared Harper makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.8,29.15,947237,Jared Harper,NA,0,Auburn,UAB,38
+2016-17,2016-12-03,1689023,74,0,1,UAB,Auburn,Blazers,Tigers,4,3,28,28,0,1299,Auburn,1515,315,6,Jared Harper makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,46,14.25,947237,Jared Harper,NA,0,Auburn,UAB,39
+2016-17,2016-12-03,1689023,75,0,1,UAB,Auburn,Blazers,Tigers,4,2,28,28,0,1299,Auburn,1511,311,4,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,76,0,1,UAB,Auburn,Blazers,Tigers,4,2,28,28,0,1303,UAB,1498,298,13,Dirk Williams misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13,25.049999999999997,895970,Dirk Williams,NA,0,UAB,Auburn,40
+2016-17,2016-12-03,1689023,77,0,1,UAB,Auburn,Blazers,Tigers,4,2,28,28,0,1299,Auburn,1481,281,17,Jared Harper misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,43.1,24.35,947237,Jared Harper,NA,0,Auburn,UAB,41
+2016-17,2016-12-03,1689023,78,0,1,UAB,Auburn,Blazers,Tigers,4,2,28,28,0,1299,Auburn,1444,244,37,Personal foul committed by Danjel Purifoy.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,42
+2016-17,2016-12-03,1689023,79,0,1,UAB,Auburn,Blazers,Tigers,4,2,29,28,1,1303,UAB,1433,233,11,Dirk Williams makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,42
+2016-17,2016-12-03,1689023,80,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,28,2,1303,UAB,1433,233,0,Dirk Williams makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,42
+2016-17,2016-12-03,1689023,81,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,28,2,1299,Auburn,1429,229,4,Danjel Purifoy misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,14.65,947238,Danjel Purifoy,NA,0,Auburn,UAB,43
+2016-17,2016-12-03,1689023,82,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,28,2,1303,UAB,1419,219,10,Tosin Mehinti misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,789731,Tosin Mehinti,NA,0,UAB,Auburn,44
+2016-17,2016-12-03,1689023,83,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,1299,Auburn,1407,207,12,T.J. Lang makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,8,22.25,845504,T.J. Lang,NA,0,Auburn,UAB,45
+2016-17,2016-12-03,1689023,84,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,1303,UAB,1399,199,8,Offensive foul committed by Deion Lavender.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,46
+2016-17,2016-12-03,1689023,85,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,NA,NA,1399,199,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,86,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,1299,Auburn,1357,157,42,Jared Harper misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.9,25.75,947237,Jared Harper,NA,0,Auburn,UAB,47
+2016-17,2016-12-03,1689023,87,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,1303,UAB,1349,149,8,Dirk Williams misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,33.6,27.049999999999997,895970,Dirk Williams,NA,0,UAB,UAB,48
+2016-17,2016-12-03,1689023,88,0,1,UAB,Auburn,Blazers,Tigers,4,2,30,31,-1,1299,Auburn,1329,129,20,Personal foul committed by Anfernee McLemore.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,48
+2016-17,2016-12-03,1689023,89,0,1,UAB,Auburn,Blazers,Tigers,4,2,31,31,0,1303,UAB,1329,129,0,Tosin Mehinti makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,48
+2016-17,2016-12-03,1689023,90,0,1,UAB,Auburn,Blazers,Tigers,4,2,32,31,1,1303,UAB,1329,129,0,Tosin Mehinti makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,48
+2016-17,2016-12-03,1689023,91,0,1,UAB,Auburn,Blazers,Tigers,4,2,32,31,1,1299,Auburn,1321,121,8,T.J. Dunans misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,15.85,886342,T.J. Dunans,NA,0,Auburn,UAB,49
+2016-17,2016-12-03,1689023,92,0,1,UAB,Auburn,Blazers,Tigers,4,2,32,31,1,1299,Auburn,1319,119,2,Personal foul committed by Anfernee McLemore.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2016-17,2016-12-03,1689023,93,0,1,UAB,Auburn,Blazers,Tigers,4,2,32,31,1,1303,UAB,1319,119,0,Tyler Madison misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2016-17,2016-12-03,1689023,94,0,1,UAB,Auburn,Blazers,Tigers,4,2,33,31,2,1303,UAB,1319,119,0,Tyler Madison makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,50
+2016-17,2016-12-03,1689023,95,0,1,UAB,Auburn,Blazers,Tigers,4,2,33,31,2,1299,Auburn,1301,101,18,T.J. Dunans misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,17.05,886342,T.J. Dunans,NA,0,Auburn,UAB,51
+2016-17,2016-12-03,1689023,96,0,1,UAB,Auburn,Blazers,Tigers,4,2,33,31,2,1299,Auburn,1293,93,8,Personal foul committed by Jared Harper.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,52
+2016-17,2016-12-03,1689023,97,0,1,UAB,Auburn,Blazers,Tigers,4,2,34,31,3,1303,UAB,1293,93,0,Denzell Watts makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,52
+2016-17,2016-12-03,1689023,98,0,1,UAB,Auburn,Blazers,Tigers,4,2,35,31,4,1303,UAB,1293,93,0,Denzell Watts makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,52
+2016-17,2016-12-03,1689023,99,0,1,UAB,Auburn,Blazers,Tigers,4,2,35,31,4,1299,Auburn,1269,69,24,Danjel Purifoy misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,947238,Danjel Purifoy,NA,0,Auburn,Auburn,53
+2016-17,2016-12-03,1689023,100,0,1,UAB,Auburn,Blazers,Tigers,4,2,35,33,2,1299,Auburn,1251,51,18,Bryce Brown makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,886311,Bryce Brown,NA,0,Auburn,UAB,53
+2016-17,2016-12-03,1689023,101,0,1,UAB,Auburn,Blazers,Tigers,4,2,35,33,2,1303,UAB,1239,39,12,Denzell Watts misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.4,21.150000000000006,789735,Denzell Watts,NA,0,UAB,UAB,54
+2016-17,2016-12-03,1689023,102,0,1,UAB,Auburn,Blazers,Tigers,4,2,37,33,4,1303,UAB,1228,28,11,Javien Williams makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,950827,Javien Williams,NA,0,UAB,Auburn,54
+2016-17,2016-12-03,1689023,103,0,1,UAB,Auburn,Blazers,Tigers,4,2,37,33,4,1299,Auburn,1206,6,22,Offensive foul committed by Ronnie Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,55
+2016-17,2016-12-03,1689023,104,0,1,UAB,Auburn,Blazers,Tigers,4,2,37,33,4,1303,UAB,1202,2,4,Denzell Watts misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,21.450000000000003,789735,Denzell Watts,NA,0,UAB,UAB,56
+2016-17,2016-12-03,1689023,105,0,1,UAB,Auburn,Blazers,Tigers,4,2,37,33,4,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,106,0,2,UAB,Auburn,Blazers,Tigers,4,4,37,33,4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UAB,56
+2016-17,2016-12-03,1689023,107,0,2,UAB,Auburn,Blazers,Tigers,4,4,37,33,4,1303,UAB,1180,1180,20,Chris Cokley misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,847572,Chris Cokley,NA,0,UAB,UAB,57
+2016-17,2016-12-03,1689023,108,0,2,UAB,Auburn,Blazers,Tigers,4,4,37,33,4,1303,UAB,1163,1163,17,Chris Cokley misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,847572,Chris Cokley,NA,0,UAB,UAB,57
+2016-17,2016-12-03,1689023,109,0,2,UAB,Auburn,Blazers,Tigers,4,4,37,33,4,1303,UAB,1140,1140,23,Denzell Watts misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,21.849999999999994,789735,Denzell Watts,NA,0,UAB,Auburn,57
+2016-17,2016-12-03,1689023,110,0,2,UAB,Auburn,Blazers,Tigers,4,4,37,33,4,1299,Auburn,1120,1120,20,Horace Spencer misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,886299,Horace Spencer,NA,0,Auburn,UAB,58
+2016-17,2016-12-03,1689023,111,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,33,6,1303,UAB,1109,1109,11,Hakeem Baxter makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.4,7.549999999999997,794791,Hakeem Baxter,NA,0,UAB,Auburn,59
+2016-17,2016-12-03,1689023,112,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,33,6,1299,Auburn,1099,1099,10,Bryce Brown misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,24.9,17.95,886311,Bryce Brown,NA,0,Auburn,UAB,60
+2016-17,2016-12-03,1689023,113,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,33,6,1303,UAB,1093,1093,6,Denzell Watts misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,789735,Denzell Watts,NA,0,UAB,Auburn,61
+2016-17,2016-12-03,1689023,114,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,33,6,1303,UAB,1080,1080,13,Personal foul committed by Chris Cokley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,62
+2016-17,2016-12-03,1689023,115,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,35,4,1299,Auburn,1080,1080,0,Bryce Brown makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,886311,Bryce Brown,NA,0,Auburn,UAB,62
+2016-17,2016-12-03,1689023,116,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,35,4,1303,UAB,1080,1080,0,William Lee misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,6.849999999999994,847579,William Lee,NA,0,UAB,UAB,63
+2016-17,2016-12-03,1689023,117,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,35,4,1303,UAB,1077,1077,3,Hakeem Baxter misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38,24.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,63
+2016-17,2016-12-03,1689023,118,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,37,2,1299,Auburn,1077,1077,0,Mustapha Heron makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,947244,Mustapha Heron,NA,0,Auburn,UAB,64
+2016-17,2016-12-03,1689023,119,0,2,UAB,Auburn,Blazers,Tigers,4,4,39,37,2,1303,UAB,1058,1058,19,Tosin Mehinti misses a dunk.,missed,FALSE,FALSE,Dunk Shot,26,6.25,789731,Tosin Mehinti,NA,0,UAB,UAB,65
+2016-17,2016-12-03,1689023,120,0,2,UAB,Auburn,Blazers,Tigers,4,4,41,37,4,1303,UAB,1038,1038,20,Tosin Mehinti makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,789731,Tosin Mehinti,NA,0,UAB,Auburn,65
+2016-17,2016-12-03,1689023,121,0,2,UAB,Auburn,Blazers,Tigers,4,4,41,37,4,1303,UAB,1023,1023,15,Personal foul committed by Dirk Williams.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,66
+2016-17,2016-12-03,1689023,122,0,2,UAB,Auburn,Blazers,Tigers,4,4,41,38,3,1299,Auburn,1023,1023,0,Danjel Purifoy makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,66
+2016-17,2016-12-03,1689023,123,0,2,UAB,Auburn,Blazers,Tigers,4,4,41,39,2,1299,Auburn,1023,1023,0,Danjel Purifoy makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,66
+2016-17,2016-12-03,1689023,124,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1303,UAB,1004,1004,19,Hakeem Baxter makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,67
+2016-17,2016-12-03,1689023,125,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1299,Auburn,999,999,5,Danjel Purifoy misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,947238,Danjel Purifoy,NA,0,Auburn,UAB,68
+2016-17,2016-12-03,1689023,126,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1303,UAB,990,990,9,Deion Lavender misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.1,23.549999999999997,847517,Deion Lavender,NA,0,UAB,Auburn,69
+2016-17,2016-12-03,1689023,127,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1299,Auburn,980,980,10,Mustapha Heron misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.6,11.45,947244,Mustapha Heron,NA,0,Auburn,UAB,70
+2016-17,2016-12-03,1689023,128,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1303,UAB,971,971,9,William Lee misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25.1,31.049999999999997,847579,William Lee,NA,0,UAB,Auburn,71
+2016-17,2016-12-03,1689023,129,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1299,Auburn,960,960,11,Ronnie Johnson misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,19.65,691491,Ronnie Johnson,NA,0,Auburn,Auburn,72
+2016-17,2016-12-03,1689023,130,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,1303,UAB,932,932,28,Personal foul committed by Tosin Mehinti.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,72
+2016-17,2016-12-03,1689023,131,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,39,4,NA,NA,932,932,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,132,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,41,2,1299,Auburn,924,924,8,Horace Spencer makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,10.5,8.55,886299,Horace Spencer,NA,0,Auburn,UAB,72
+2016-17,2016-12-03,1689023,133,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,41,2,1303,UAB,909,909,15,Tosin Mehinti misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,789731,Tosin Mehinti,NA,0,UAB,Auburn,73
+2016-17,2016-12-03,1689023,134,0,2,UAB,Auburn,Blazers,Tigers,4,4,43,41,2,1299,Auburn,890,890,19,Mustapha Heron misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,947244,Mustapha Heron,NA,0,Auburn,UAB,74
+2016-17,2016-12-03,1689023,135,0,2,UAB,Auburn,Blazers,Tigers,4,4,45,41,4,1303,UAB,860,860,30,Hakeem Baxter makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,75
+2016-17,2016-12-03,1689023,136,0,2,UAB,Auburn,Blazers,Tigers,4,4,45,44,1,1299,Auburn,845,845,15,Danjel Purifoy makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.9,22.55,947238,Danjel Purifoy,NA,0,Auburn,UAB,76
+2016-17,2016-12-03,1689023,137,0,2,UAB,Auburn,Blazers,Tigers,4,4,45,46,-1,1299,Auburn,839,839,6,T.J. Dunans makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,886342,T.J. Dunans,NA,0,Auburn,UAB,77
+2016-17,2016-12-03,1689023,138,0,2,UAB,Auburn,Blazers,Tigers,4,4,47,46,1,1303,UAB,828,828,11,Hakeem Baxter makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,78
+2016-17,2016-12-03,1689023,139,0,2,UAB,Auburn,Blazers,Tigers,4,4,47,48,-1,1299,Auburn,810,810,18,T.J. Dunans makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,886342,T.J. Dunans,NA,0,Auburn,UAB,79
+2016-17,2016-12-03,1689023,140,0,2,UAB,Auburn,Blazers,Tigers,4,4,47,48,-1,1303,UAB,801,801,9,William Lee misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.6,28.650000000000006,847579,William Lee,NA,0,UAB,Auburn,80
+2016-17,2016-12-03,1689023,141,0,2,UAB,Auburn,Blazers,Tigers,4,4,47,51,-4,1299,Auburn,782,782,19,Danjel Purifoy makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,6.399999999999999,19.45,947238,Danjel Purifoy,NA,0,Auburn,UAB,81
+2016-17,2016-12-03,1689023,142,0,2,UAB,Auburn,Blazers,Tigers,3,4,47,51,-4,1303,UAB,771,771,11,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,143,0,2,UAB,Auburn,Blazers,Tigers,3,4,47,51,-4,1299,Auburn,744,744,27,Personal foul committed by Ronnie Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,82
+2016-17,2016-12-03,1689023,144,0,2,UAB,Auburn,Blazers,Tigers,3,4,47,53,-6,1299,Auburn,734,734,10,Ronnie Johnson makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,691491,Ronnie Johnson,NA,0,Auburn,UAB,82
+2016-17,2016-12-03,1689023,145,0,2,UAB,Auburn,Blazers,Tigers,3,4,47,53,-6,NA,NA,717,717,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,146,0,2,UAB,Auburn,Blazers,Tigers,3,4,47,55,-8,1299,Auburn,711,711,6,Ronnie Johnson makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,12.3,13.45,691491,Ronnie Johnson,NA,0,Auburn,UAB,83
+2016-17,2016-12-03,1689023,147,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,55,-6,1303,UAB,704,704,7,Chris Cokley makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,847572,Chris Cokley,NA,0,UAB,Auburn,84
+2016-17,2016-12-03,1689023,148,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,57,-8,1299,Auburn,695,695,9,Ronnie Johnson makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,691491,Ronnie Johnson,NA,0,Auburn,UAB,85
+2016-17,2016-12-03,1689023,149,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,57,-8,1303,UAB,684,684,11,Dirk Williams misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,20.650000000000006,895970,Dirk Williams,NA,0,UAB,UAB,86
+2016-17,2016-12-03,1689023,150,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,57,-8,1303,UAB,608,608,76,Chris Cokley misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,13.349999999999994,847572,Chris Cokley,NA,0,UAB,Auburn,86
+2016-17,2016-12-03,1689023,151,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,57,-8,1299,Auburn,585,585,23,T.J. Lang misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,2.3000000000000007,12.15,845504,T.J. Lang,NA,0,Auburn,UAB,87
+2016-17,2016-12-03,1689023,152,0,2,UAB,Auburn,Blazers,Tigers,3,4,49,57,-8,1299,Auburn,568,568,17,Personal foul committed by Danjel Purifoy.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,88
+2016-17,2016-12-03,1689023,153,0,2,UAB,Auburn,Blazers,Tigers,3,4,52,57,-5,1303,UAB,568,568,0,Dirk Williams makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4.5,13.650000000000006,895970,Dirk Williams,NA,0,UAB,Auburn,88
+2016-17,2016-12-03,1689023,154,0,2,UAB,Auburn,Blazers,Tigers,3,4,52,57,-5,1299,Auburn,554,554,14,Bryce Brown misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12,25.25,886311,Bryce Brown,NA,0,Auburn,UAB,89
+2016-17,2016-12-03,1689023,155,0,2,UAB,Auburn,Blazers,Tigers,3,4,54,57,-3,1303,UAB,553,553,1,Chris Cokley makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,847572,Chris Cokley,NA,0,UAB,Auburn,90
+2016-17,2016-12-03,1689023,156,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,57,-3,1299,Auburn,552,552,1,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,157,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,57,-3,1303,UAB,540,540,12,Personal foul committed by Tyler Madison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,91
+2016-17,2016-12-03,1689023,158,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,57,-3,1299,Auburn,540,540,0,Horace Spencer misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,91
+2016-17,2016-12-03,1689023,159,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,57,-3,1299,Auburn,540,540,0,Horace Spencer misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,91
+2016-17,2016-12-03,1689023,160,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,57,-3,1303,UAB,504,504,36,Technical foul committed by Chris Cokley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,91
+2016-17,2016-12-03,1689023,161,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,58,-4,1299,Auburn,504,504,0,Mustapha Heron makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,91
+2016-17,2016-12-03,1689023,162,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1299,Auburn,504,504,0,Mustapha Heron makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,91
+2016-17,2016-12-03,1689023,163,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1299,Auburn,494,494,10,Horace Spencer misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,24,7.25,886299,Horace Spencer,NA,0,Auburn,Auburn,92
+2016-17,2016-12-03,1689023,164,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1303,UAB,493,493,1,Personal foul committed by Chris Cokley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,92
+2016-17,2016-12-03,1689023,165,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1303,UAB,488,488,5,Personal foul committed by Tyler Madison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,92
+2016-17,2016-12-03,1689023,166,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1299,Auburn,488,488,0,Horace Spencer misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,92
+2016-17,2016-12-03,1689023,167,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1299,Auburn,483,483,5,Personal foul committed by Danjel Purifoy.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,92
+2016-17,2016-12-03,1689023,168,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,1299,Auburn,467,467,16,Personal foul committed by Horace Spencer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,92
+2016-17,2016-12-03,1689023,169,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,59,-5,NA,NA,467,467,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,170,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,62,-8,1299,Auburn,420,420,47,Danjel Purifoy makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.1000000000000014,8.25,947238,Danjel Purifoy,NA,0,Auburn,UAB,92
+2016-17,2016-12-03,1689023,171,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,62,-8,1299,Auburn,408,408,12,Personal foul committed by LaRon Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2016-17,2016-12-03,1689023,172,0,2,UAB,Auburn,Blazers,Tigers,3,3,54,62,-8,1303,UAB,408,408,0,Hakeem Baxter misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2016-17,2016-12-03,1689023,173,0,2,UAB,Auburn,Blazers,Tigers,3,3,55,62,-7,1303,UAB,408,408,0,Hakeem Baxter makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,93
+2016-17,2016-12-03,1689023,174,0,2,UAB,Auburn,Blazers,Tigers,3,3,55,64,-9,1299,Auburn,400,400,8,Mustapha Heron makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,947244,Mustapha Heron,NA,0,Auburn,UAB,94
+2016-17,2016-12-03,1689023,175,0,2,UAB,Auburn,Blazers,Tigers,3,3,55,64,-9,1303,UAB,393,393,7,Hakeem Baxter misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,95
+2016-17,2016-12-03,1689023,176,0,2,UAB,Auburn,Blazers,Tigers,3,3,55,66,-11,1299,Auburn,383,383,10,Mustapha Heron makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,947244,Mustapha Heron,NA,0,Auburn,UAB,96
+2016-17,2016-12-03,1689023,177,0,2,UAB,Auburn,Blazers,Tigers,2,3,55,66,-11,1303,UAB,376,376,7,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,178,0,2,UAB,Auburn,Blazers,Tigers,2,3,55,66,-11,1303,UAB,373,373,3,Denzell Watts misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.9,20.150000000000006,789735,Denzell Watts,NA,0,UAB,Auburn,97
+2016-17,2016-12-03,1689023,179,0,2,UAB,Auburn,Blazers,Tigers,2,3,55,66,-11,1299,Auburn,362,362,11,Jared Harper misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.4,12.95,947237,Jared Harper,NA,0,Auburn,UAB,98
+2016-17,2016-12-03,1689023,180,0,2,UAB,Auburn,Blazers,Tigers,2,3,55,66,-11,1303,UAB,346,346,16,William Lee misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,847579,William Lee,NA,0,UAB,UAB,99
+2016-17,2016-12-03,1689023,181,0,2,UAB,Auburn,Blazers,Tigers,2,3,57,66,-9,1303,UAB,302,302,44,William Lee makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,847579,William Lee,NA,0,UAB,Auburn,99
+2016-17,2016-12-03,1689023,182,0,2,UAB,Auburn,Blazers,Tigers,2,3,57,66,-9,1299,Auburn,295,295,7,Personal foul committed by Horace Spencer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,100
+2016-17,2016-12-03,1689023,183,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1303,UAB,295,295,0,William Lee makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,100
+2016-17,2016-12-03,1689023,184,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1299,Auburn,286,286,9,Danjel Purifoy misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.399999999999999,20.45,947238,Danjel Purifoy,NA,0,Auburn,Auburn,101
+2016-17,2016-12-03,1689023,185,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1299,Auburn,276,276,10,Danjel Purifoy misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,947238,Danjel Purifoy,NA,0,Auburn,UAB,101
+2016-17,2016-12-03,1689023,186,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1303,UAB,238,238,38,William Lee misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,32,27.25,847579,William Lee,NA,0,UAB,UAB,102
+2016-17,2016-12-03,1689023,187,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,NA,NA,233,233,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,188,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1299,Auburn,228,228,5,Personal foul committed by Mustapha Heron.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,102
+2016-17,2016-12-03,1689023,189,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1303,UAB,228,228,0,Tyler Madison misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,102
+2016-17,2016-12-03,1689023,190,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1303,UAB,228,228,0,Tyler Madison misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,102
+2016-17,2016-12-03,1689023,191,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1303,UAB,211,211,17,Shooting foul committed by Tyler Madison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,103
+2016-17,2016-12-03,1689023,192,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1299,Auburn,211,211,0,Jared Harper misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,103
+2016-17,2016-12-03,1689023,193,0,2,UAB,Auburn,Blazers,Tigers,2,3,58,66,-8,1299,Auburn,211,211,0,Jared Harper misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,103
+2016-17,2016-12-03,1689023,194,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1303,UAB,198,198,13,Dirk Williams makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,42.4,20.950000000000003,895970,Dirk Williams,NA,0,UAB,Auburn,104
+2016-17,2016-12-03,1689023,195,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1299,Auburn,185,185,13,Mustapha Heron misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,15.15,947244,Mustapha Heron,NA,0,Auburn,UAB,105
+2016-17,2016-12-03,1689023,196,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1299,Auburn,176,176,9,Personal foul committed by LaRon Smith.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,106
+2016-17,2016-12-03,1689023,197,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1303,UAB,176,176,0,Denzell Watts misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,106
+2016-17,2016-12-03,1689023,198,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1299,Auburn,156,156,20,Personal foul committed by T.J. Dunans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,106
+2016-17,2016-12-03,1689023,199,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1303,UAB,139,139,17,Dirk Williams misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,17.549999999999997,895970,Dirk Williams,NA,0,UAB,Auburn,106
+2016-17,2016-12-03,1689023,200,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,66,-5,1303,UAB,131,131,8,Personal foul committed by Dirk Williams.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,107
+2016-17,2016-12-03,1689023,201,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,67,-6,1299,Auburn,131,131,0,Jared Harper makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,107
+2016-17,2016-12-03,1689023,202,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,68,-7,1299,Auburn,131,131,0,Jared Harper makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,107
+2016-17,2016-12-03,1689023,203,0,2,UAB,Auburn,Blazers,Tigers,2,3,61,69,-8,1299,Auburn,131,131,0,Jared Harper makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,108
+2016-17,2016-12-03,1689023,204,0,2,UAB,Auburn,Blazers,Tigers,2,3,63,69,-6,1303,UAB,122,122,9,Deion Lavender makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,847517,Deion Lavender,NA,0,UAB,Auburn,109
+2016-17,2016-12-03,1689023,205,0,2,UAB,Auburn,Blazers,Tigers,2,3,63,69,-6,1303,UAB,107,107,15,Personal foul committed by Denzell Watts.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,110
+2016-17,2016-12-03,1689023,206,0,2,UAB,Auburn,Blazers,Tigers,2,3,63,70,-7,1299,Auburn,107,107,0,Jared Harper makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,110
+2016-17,2016-12-03,1689023,207,0,2,UAB,Auburn,Blazers,Tigers,2,3,63,71,-8,1299,Auburn,107,107,0,Jared Harper makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,110
+2016-17,2016-12-03,1689023,208,0,2,UAB,Auburn,Blazers,Tigers,2,3,63,71,-8,1299,Auburn,88,88,19,Personal foul committed by Horace Spencer.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,111
+2016-17,2016-12-03,1689023,209,0,2,UAB,Auburn,Blazers,Tigers,2,3,64,71,-7,1303,UAB,88,88,0,Tosin Mehinti makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,111
+2016-17,2016-12-03,1689023,210,0,2,UAB,Auburn,Blazers,Tigers,2,3,65,71,-6,1303,UAB,88,88,0,Tosin Mehinti makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,111
+2016-17,2016-12-03,1689023,211,0,2,UAB,Auburn,Blazers,Tigers,2,2,65,71,-6,1299,Auburn,60,60,28,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,212,0,2,UAB,Auburn,Blazers,Tigers,2,2,65,71,-6,1299,Auburn,51,51,9,Personal foul committed by Mustapha Heron.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,112
+2016-17,2016-12-03,1689023,213,0,2,UAB,Auburn,Blazers,Tigers,2,2,65,71,-6,1303,UAB,51,51,0,Hakeem Baxter misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,112
+2016-17,2016-12-03,1689023,214,0,2,UAB,Auburn,Blazers,Tigers,2,2,66,71,-5,1303,UAB,51,51,0,Hakeem Baxter makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,112
+2016-17,2016-12-03,1689023,215,0,2,UAB,Auburn,Blazers,Tigers,2,2,66,71,-5,1299,Auburn,28,28,23,Jared Harper misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.1,21.85,947237,Jared Harper,NA,0,Auburn,UAB,113
+2016-17,2016-12-03,1689023,216,0,2,UAB,Auburn,Blazers,Tigers,2,2,66,71,-5,1299,Auburn,21,21,7,Shooting foul committed by Bryce Brown.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,114
+2016-17,2016-12-03,1689023,217,0,2,UAB,Auburn,Blazers,Tigers,2,2,67,71,-4,1303,UAB,21,21,0,Deion Lavender makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,114
+2016-17,2016-12-03,1689023,218,0,2,UAB,Auburn,Blazers,Tigers,2,2,68,71,-3,1303,UAB,21,21,0,Deion Lavender makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Auburn,114
+2016-17,2016-12-03,1689023,219,0,2,UAB,Auburn,Blazers,Tigers,1,2,68,71,-3,1303,UAB,21,21,0,Blazers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,220,0,2,UAB,Auburn,Blazers,Tigers,1,2,68,71,-3,1303,UAB,19,19,2,Personal foul committed by Tyler Madison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,115
+2016-17,2016-12-03,1689023,221,0,2,UAB,Auburn,Blazers,Tigers,1,2,68,72,-4,1299,Auburn,19,19,0,Danjel Purifoy makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,115
+2016-17,2016-12-03,1689023,222,0,2,UAB,Auburn,Blazers,Tigers,1,2,68,73,-5,1299,Auburn,19,19,0,Danjel Purifoy makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,115
+2016-17,2016-12-03,1689023,223,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,73,-3,1303,UAB,8,8,11,Hakeem Baxter makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,794791,Hakeem Baxter,NA,0,UAB,Auburn,116
+2016-17,2016-12-03,1689023,224,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,73,-3,1303,UAB,7,7,1,Personal foul committed by Hakeem Baxter.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,117
+2016-17,2016-12-03,1689023,225,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,73,-3,1299,Auburn,7,7,0,Jared Harper misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,117
+2016-17,2016-12-03,1689023,226,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,74,-4,1299,Auburn,7,7,0,Jared Harper makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UAB,117
+2016-17,2016-12-03,1689023,227,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,74,-4,1303,UAB,3,3,4,Dirk Williams misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,22.549999999999997,895970,Dirk Williams,NA,0,UAB,NA,118
+2016-17,2016-12-03,1689023,228,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,74,-4,NA,NA,0,0,3,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2016-17,2016-12-03,1689023,229,0,2,UAB,Auburn,Blazers,Tigers,1,2,70,74,-4,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,NA
