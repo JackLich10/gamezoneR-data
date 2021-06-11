@@ -1,0 +1,198 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-27,1005353,1,1,1,UTEP,Michigan,Miners,Wolverines,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Michigan,NA
+2010-11,2010-11-27,1005353,11,1,1,UTEP,Michigan,Miners,Wolverines,4,4,0,3,-3,1498,Michigan,2368,1168,32, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,35.2,27.85,551773,NA,NA,0,Michigan,UTEP,1
+2010-11,2010-11-27,1005353,37,1,1,UTEP,Michigan,Miners,Wolverines,4,4,0,3,-3,1498,Michigan,2338,1138,30, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,25.35,551773,NA,NA,0,Michigan,UTEP,2
+2010-11,2010-11-27,1005353,41,1,1,UTEP,Michigan,Miners,Wolverines,4,4,2,3,-1,1654,UTEP,2326,1126,12, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,25.3,10.049999999999997,399800,NA,NA,0,UTEP,Michigan,3
+2010-11,2010-11-27,1005353,43,1,1,UTEP,Michigan,Miners,Wolverines,4,4,2,3,-1,1498,Michigan,2295,1095,31,Offensive foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,4
+2010-11,2010-11-27,1005353,45,1,1,UTEP,Michigan,Miners,Wolverines,4,4,2,5,-3,1498,Michigan,2271,1071,24, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,27,20.75,511638,NA,NA,0,Michigan,UTEP,5
+2010-11,2010-11-27,1005353,46,1,1,UTEP,Michigan,Miners,Wolverines,4,4,2,5,-3,1654,UTEP,2253,1053,18, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,27.8,10.25,399791,NA,NA,0,UTEP,UTEP,6
+2010-11,2010-11-27,1005353,55,1,1,UTEP,Michigan,Miners,Wolverines,4,4,4,5,-1,1654,UTEP,2251,1051,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329549,NA,NA,0,UTEP,UTEP,6
+2010-11,2010-11-27,1005353,56,1,1,UTEP,Michigan,Miners,Wolverines,4,4,4,5,-1,1498,Michigan,2251,1051,0,Shooting foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,6
+2010-11,2010-11-27,1005353,57,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2251,1051,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,6
+2010-11,2010-11-27,1005353,59,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1498,Michigan,2222,1022,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551773,NA,NA,0,Michigan,UTEP,7
+2010-11,2010-11-27,1005353,60,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2214,1014,8, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,399798,NA,NA,0,UTEP,Michigan,8
+2010-11,2010-11-27,1005353,62,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2208,1008,6,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,9
+2010-11,2010-11-27,1005353,66,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2196,996,12, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.799999999999997,6.950000000000003,399798,NA,NA,0,UTEP,Michigan,9
+2010-11,2010-11-27,1005353,67,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1498,Michigan,2185,985,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,35.8,27.45,511638,NA,NA,0,Michigan,UTEP,10
+2010-11,2010-11-27,1005353,68,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2166,966,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,10.849999999999994,399791,NA,NA,0,UTEP,Michigan,11
+2010-11,2010-11-27,1005353,71,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1654,UTEP,2159,959,7,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,12
+2010-11,2010-11-27,1005353,72,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,NA,NA,2159,959,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,73,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1498,Michigan,2159,959,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,12
+2010-11,2010-11-27,1005353,74,1,1,UTEP,Michigan,Miners,Wolverines,4,4,5,5,0,1498,Michigan,2159,959,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,12
+2010-11,2010-11-27,1005353,76,1,1,UTEP,Michigan,Miners,Wolverines,4,4,7,5,2,1654,UTEP,2145,945,14, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,38.7,14.349999999999994,330051,NA,NA,0,UTEP,Michigan,13
+2010-11,2010-11-27,1005353,79,1,1,UTEP,Michigan,Miners,Wolverines,4,4,7,5,2,1498,Michigan,2115,915,30,Offensive Charge Foul foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UTEP,14
+2010-11,2010-11-27,1005353,82,1,1,UTEP,Michigan,Miners,Wolverines,4,4,7,5,2,1654,UTEP,2102,902,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.2,7.349999999999994,329549,NA,NA,0,UTEP,Michigan,14
+2010-11,2010-11-27,1005353,86,1,1,UTEP,Michigan,Miners,Wolverines,4,4,7,7,0,1498,Michigan,2074,874,28, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,12.7,6.95,551771,NA,NA,0,Michigan,UTEP,15
+2010-11,2010-11-27,1005353,87,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,7,2,1654,UTEP,2053,853,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399800,NA,NA,0,UTEP,Michigan,16
+2010-11,2010-11-27,1005353,88,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,7,2,1498,Michigan,2034,834,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.8,27.65,551771,NA,NA,0,Michigan,Michigan,17
+2010-11,2010-11-27,1005353,91,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1498,Michigan,2032,832,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511637,NA,NA,0,Michigan,Michigan,17
+2010-11,2010-11-27,1005353,92,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1654,UTEP,2032,832,0,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,17
+2010-11,2010-11-27,1005353,93,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1498,Michigan,2032,832,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,17
+2010-11,2010-11-27,1005353,98,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1498,Michigan,2023,823,9,Personal foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,18
+2010-11,2010-11-27,1005353,100,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1654,UTEP,2005,805,18, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,21.849999999999994,329549,NA,NA,0,UTEP,Michigan,18
+2010-11,2010-11-27,1005353,102,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,9,0,1654,UTEP,2001,801,4,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,19
+2010-11,2010-11-27,1005353,107,1,1,UTEP,Michigan,Miners,Wolverines,4,4,9,11,-2,1498,Michigan,1991,791,10, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,20.5,22.05,511637,NA,NA,0,Michigan,UTEP,19
+2010-11,2010-11-27,1005353,110,1,1,UTEP,Michigan,Miners,Wolverines,4,4,11,11,0,1654,UTEP,1951,751,40, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,16.5,23.450000000000003,399800,NA,NA,0,UTEP,Michigan,20
+2010-11,2010-11-27,1005353,115,1,1,UTEP,Michigan,Miners,Wolverines,4,4,13,11,2,1654,UTEP,1897,697,54, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350438,NA,NA,0,UTEP,Michigan,21
+2010-11,2010-11-27,1005353,118,1,1,UTEP,Michigan,Miners,Wolverines,4,4,13,11,2,NA,NA,1885,685,12,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,120,1,1,UTEP,Michigan,Miners,Wolverines,4,4,13,11,2,1654,UTEP,1867,667,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.5,27.150000000000006,330051,NA,NA,0,UTEP,UTEP,22
+2010-11,2010-11-27,1005353,122,1,1,UTEP,Michigan,Miners,Wolverines,4,4,13,11,2,1498,Michigan,1850,650,17,Shooting foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,22
+2010-11,2010-11-27,1005353,123,1,1,UTEP,Michigan,Miners,Wolverines,4,4,14,11,3,1654,UTEP,1850,650,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,22
+2010-11,2010-11-27,1005353,124,1,1,UTEP,Michigan,Miners,Wolverines,4,4,14,11,3,1654,UTEP,1850,650,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,22
+2010-11,2010-11-27,1005353,127,1,1,UTEP,Michigan,Miners,Wolverines,4,4,14,11,3,1654,UTEP,1849,649,1,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,23
+2010-11,2010-11-27,1005353,131,1,1,UTEP,Michigan,Miners,Wolverines,4,4,14,14,0,1498,Michigan,1821,621,28, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,36.3,28.85,467549,NA,NA,0,Michigan,UTEP,23
+2010-11,2010-11-27,1005353,132,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,14,2,1654,UTEP,1796,596,25, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,22.3,12.049999999999997,399798,NA,NA,0,UTEP,Michigan,24
+2010-11,2010-11-27,1005353,137,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,14,2,1654,UTEP,1780,580,16,Shooting Block Foul foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Michigan,25
+2010-11,2010-11-27,1005353,138,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,15,1,1498,Michigan,1780,580,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,25
+2010-11,2010-11-27,1005353,139,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,16,0,1498,Michigan,1780,580,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,25
+2010-11,2010-11-27,1005353,153,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,16,0,1498,Michigan,1751,551,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,29.85,511636,NA,NA,0,Michigan,UTEP,26
+2010-11,2010-11-27,1005353,154,1,1,UTEP,Michigan,Miners,Wolverines,4,4,16,16,0,1654,UTEP,1745,545,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399793,NA,NA,0,UTEP,UTEP,27
+2010-11,2010-11-27,1005353,158,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,16,3,1654,UTEP,1739,539,6, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,17.299999999999997,28.25,399793,NA,NA,0,UTEP,Michigan,27
+2010-11,2010-11-27,1005353,159,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,16,3,1498,Michigan,1723,523,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20.5,28.85,511636,NA,NA,0,Michigan,Michigan,28
+2010-11,2010-11-27,1005353,160,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,16,3,1498,Michigan,1700,500,23, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,23,18.55,467549,NA,NA,0,Michigan,Michigan,28
+2010-11,2010-11-27,1005353,161,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,18,1,1498,Michigan,1681,481,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511636,NA,NA,0,Michigan,UTEP,28
+2010-11,2010-11-27,1005353,162,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,18,1,1654,UTEP,1655,455,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,9.349999999999994,399793,NA,NA,0,UTEP,Michigan,29
+2010-11,2010-11-27,1005353,163,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,18,1,1498,Michigan,1637,437,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31,28.85,511636,NA,NA,0,Michigan,UTEP,30
+2010-11,2010-11-27,1005353,164,1,1,UTEP,Michigan,Miners,Wolverines,4,4,19,18,1,1654,UTEP,1624,424,13, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,10.650000000000006,329549,NA,NA,0,UTEP,UTEP,31
+2010-11,2010-11-27,1005353,169,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1622,422,2, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,22.5,8.150000000000006,399799,NA,NA,0,UTEP,Michigan,31
+2010-11,2010-11-27,1005353,176,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,NA,NA,1597,397,25,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,178,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1498,Michigan,1589,389,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,17.7,16.85,467550,NA,NA,0,Michigan,UTEP,32
+2010-11,2010-11-27,1005353,179,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1572,372,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399791,NA,NA,0,UTEP,UTEP,33
+2010-11,2010-11-27,1005353,180,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1567,367,5, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15.700000000000003,15.349999999999994,330051,NA,NA,0,UTEP,Michigan,33
+2010-11,2010-11-27,1005353,181,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1498,Michigan,1562,362,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43,19.15,467549,NA,NA,0,Michigan,UTEP,34
+2010-11,2010-11-27,1005353,182,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1534,334,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6,16.450000000000003,329549,NA,NA,0,UTEP,Michigan,35
+2010-11,2010-11-27,1005353,183,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1498,Michigan,1527,327,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.3,21.65,551771,NA,NA,0,Michigan,UTEP,36
+2010-11,2010-11-27,1005353,184,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1519,319,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.700000000000003,26.549999999999997,330051,NA,NA,0,UTEP,Michigan,37
+2010-11,2010-11-27,1005353,188,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,18,3,1654,UTEP,1518,318,1,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,38
+2010-11,2010-11-27,1005353,189,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,19,2,1498,Michigan,1518,318,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,38
+2010-11,2010-11-27,1005353,190,1,1,UTEP,Michigan,Miners,Wolverines,4,4,21,20,1,1498,Michigan,1518,318,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,39
+2010-11,2010-11-27,1005353,192,1,1,UTEP,Michigan,Miners,Wolverines,4,4,24,20,4,1654,UTEP,1504,304,14, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,16.200000000000003,29.25,399793,NA,NA,0,UTEP,Michigan,40
+2010-11,2010-11-27,1005353,193,1,1,UTEP,Michigan,Miners,Wolverines,4,4,24,20,4,1498,Michigan,1484,284,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,35,27.85,551772,NA,NA,0,Michigan,UTEP,41
+2010-11,2010-11-27,1005353,194,1,1,UTEP,Michigan,Miners,Wolverines,4,4,24,20,4,1654,UTEP,1463,263,21, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15,9.849999999999994,552313,NA,NA,0,UTEP,UTEP,42
+2010-11,2010-11-27,1005353,199,1,1,UTEP,Michigan,Miners,Wolverines,4,4,24,20,4,1498,Michigan,1462,262,1,Personal foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,42
+2010-11,2010-11-27,1005353,200,1,1,UTEP,Michigan,Miners,Wolverines,4,4,27,20,7,1654,UTEP,1461,261,1, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.8,9.150000000000006,399793,NA,NA,0,UTEP,Michigan,42
+2010-11,2010-11-27,1005353,204,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,20,7,1498,Michigan,1445,245,16,Wolverines take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,208,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,20,7,1654,UTEP,1438,238,7,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,43
+2010-11,2010-11-27,1005353,209,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,20,7,NA,NA,1438,238,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,210,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,21,6,1498,Michigan,1438,238,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,43
+2010-11,2010-11-27,1005353,211,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,22,5,1498,Michigan,1438,238,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,44
+2010-11,2010-11-27,1005353,214,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,22,5,1654,UTEP,1412,212,26,Offensive Charge Foul foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Michigan,45
+2010-11,2010-11-27,1005353,221,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,22,5,1654,UTEP,1393,193,19,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,45
+2010-11,2010-11-27,1005353,222,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,22,5,1498,Michigan,1393,193,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,45
+2010-11,2010-11-27,1005353,223,1,1,UTEP,Michigan,Miners,Wolverines,4,3,27,23,4,1498,Michigan,1393,193,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,45
+2010-11,2010-11-27,1005353,225,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,23,6,1654,UTEP,1371,171,22, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,13.799999999999997,20.150000000000006,399793,NA,NA,0,UTEP,Michigan,46
+2010-11,2010-11-27,1005353,226,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,25,4,1498,Michigan,1357,157,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511638,NA,NA,0,Michigan,UTEP,47
+2010-11,2010-11-27,1005353,231,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1498,Michigan,1323,123,34, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,25.2,21.45,511638,NA,NA,0,Michigan,UTEP,48
+2010-11,2010-11-27,1005353,232,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1654,UTEP,1291,91,32, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32,27.650000000000006,330051,NA,NA,0,UTEP,Michigan,49
+2010-11,2010-11-27,1005353,233,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1498,Michigan,1263,63,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.85,551771,NA,NA,0,Michigan,UTEP,50
+2010-11,2010-11-27,1005353,237,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1654,UTEP,1253,53,10,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,51
+2010-11,2010-11-27,1005353,239,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1498,Michigan,1245,45,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,24.95,467550,NA,NA,0,Michigan,Michigan,52
+2010-11,2010-11-27,1005353,241,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,27,2,1654,UTEP,1242,42,3,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,52
+2010-11,2010-11-27,1005353,242,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,28,1,1498,Michigan,1242,42,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,52
+2010-11,2010-11-27,1005353,243,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,29,0,1498,Michigan,1242,42,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,52
+2010-11,2010-11-27,1005353,245,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,29,0,1654,UTEP,1226,26,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.2,26.549999999999997,399793,NA,NA,0,UTEP,Michigan,53
+2010-11,2010-11-27,1005353,248,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,29,0,1498,Michigan,1200,0,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,29.65,467549,NA,NA,0,Michigan,Michigan,54
+2010-11,2010-11-27,1005353,249,1,1,UTEP,Michigan,Miners,Wolverines,4,3,29,29,0,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,250,1,2,UTEP,Michigan,Miners,Wolverines,4,4,29,29,0,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Michigan,54
+2010-11,2010-11-27,1005353,256,1,2,UTEP,Michigan,Miners,Wolverines,4,4,29,29,0,1654,UTEP,1183,1183,17,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,55
+2010-11,2010-11-27,1005353,258,1,2,UTEP,Michigan,Miners,Wolverines,4,4,29,29,0,1498,Michigan,1180,1180,3, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,30.2,30.55,467550,NA,NA,0,Michigan,UTEP,55
+2010-11,2010-11-27,1005353,259,1,2,UTEP,Michigan,Miners,Wolverines,4,4,29,29,0,1654,UTEP,1164,1164,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,8.950000000000003,399793,NA,NA,0,UTEP,UTEP,56
+2010-11,2010-11-27,1005353,260,1,2,UTEP,Michigan,Miners,Wolverines,4,4,31,29,2,1654,UTEP,1158,1158,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399799,NA,NA,0,UTEP,Michigan,56
+2010-11,2010-11-27,1005353,261,1,2,UTEP,Michigan,Miners,Wolverines,4,4,31,29,2,1498,Michigan,1138,1138,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26,11.45,551771,NA,NA,0,Michigan,UTEP,57
+2010-11,2010-11-27,1005353,264,1,2,UTEP,Michigan,Miners,Wolverines,4,4,33,29,4,1654,UTEP,1122,1122,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,UTEP,58
+2010-11,2010-11-27,1005353,265,1,2,UTEP,Michigan,Miners,Wolverines,4,4,33,29,4,1498,Michigan,1122,1122,0,Shooting foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,58
+2010-11,2010-11-27,1005353,266,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1654,UTEP,1122,1122,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,58
+2010-11,2010-11-27,1005353,268,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1498,Michigan,1109,1109,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,16.3,18.55,511637,NA,NA,0,Michigan,Michigan,59
+2010-11,2010-11-27,1005353,272,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1654,UTEP,1087,1087,22,Offensive Charge Foul foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Michigan,59
+2010-11,2010-11-27,1005353,281,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1498,Michigan,1058,1058,29,Offensive foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,59
+2010-11,2010-11-27,1005353,285,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1654,UTEP,1040,1040,18,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,60
+2010-11,2010-11-27,1005353,291,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1498,Michigan,1021,1021,19, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,24.7,12.95,511637,NA,NA,0,Michigan,UTEP,61
+2010-11,2010-11-27,1005353,293,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1654,UTEP,1015,1015,6,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,62
+2010-11,2010-11-27,1005353,308,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1654,UTEP,981,981,34, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,8.549999999999997,329549,NA,NA,0,UTEP,UTEP,63
+2010-11,2010-11-27,1005353,312,1,2,UTEP,Michigan,Miners,Wolverines,4,4,34,29,5,1498,Michigan,980,980,1,Personal foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,63
+2010-11,2010-11-27,1005353,315,1,2,UTEP,Michigan,Miners,Wolverines,4,4,36,29,7,1654,UTEP,977,977,3, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,31.3,8.549999999999997,329549,NA,NA,0,UTEP,Michigan,63
+2010-11,2010-11-27,1005353,316,1,2,UTEP,Michigan,Miners,Wolverines,4,4,36,29,7,1498,Michigan,962,962,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511637,NA,NA,0,Michigan,UTEP,64
+2010-11,2010-11-27,1005353,322,1,2,UTEP,Michigan,Miners,Wolverines,4,4,38,29,9,1654,UTEP,955,955,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399793,NA,NA,0,UTEP,Michigan,65
+2010-11,2010-11-27,1005353,326,1,2,UTEP,Michigan,Miners,Wolverines,4,3,38,29,9,1498,Michigan,954,954,1,Wolverines take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,328,1,2,UTEP,Michigan,Miners,Wolverines,4,3,38,29,9,1498,Michigan,930,930,24, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,11.05,511638,NA,NA,0,Michigan,UTEP,66
+2010-11,2010-11-27,1005353,331,1,2,UTEP,Michigan,Miners,Wolverines,4,3,38,29,9,1498,Michigan,919,919,11,Personal foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,67
+2010-11,2010-11-27,1005353,332,1,2,UTEP,Michigan,Miners,Wolverines,4,3,38,29,9,NA,NA,919,919,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,345,1,2,UTEP,Michigan,Miners,Wolverines,4,3,38,29,9,1498,Michigan,903,903,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,21.15,511638,NA,NA,0,Michigan,UTEP,67
+2010-11,2010-11-27,1005353,355,1,2,UTEP,Michigan,Miners,Wolverines,4,3,40,29,11,1654,UTEP,888,888,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Michigan,68
+2010-11,2010-11-27,1005353,356,1,2,UTEP,Michigan,Miners,Wolverines,4,3,40,29,11,1498,Michigan,866,866,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,17.85,511640,NA,NA,0,Michigan,UTEP,69
+2010-11,2010-11-27,1005353,357,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,29,13,1654,UTEP,860,860,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552313,NA,NA,0,UTEP,Michigan,70
+2010-11,2010-11-27,1005353,361,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,29,13,1654,UTEP,842,842,18,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,71
+2010-11,2010-11-27,1005353,362,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,30,12,1498,Michigan,842,842,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,71
+2010-11,2010-11-27,1005353,363,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,30,12,1498,Michigan,842,842,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,71
+2010-11,2010-11-27,1005353,366,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,30,12,1654,UTEP,815,815,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.299999999999997,23.849999999999994,399793,NA,NA,0,UTEP,Michigan,72
+2010-11,2010-11-27,1005353,371,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,30,12,1654,UTEP,795,795,20,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,73
+2010-11,2010-11-27,1005353,372,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,31,11,1498,Michigan,795,795,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,73
+2010-11,2010-11-27,1005353,373,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,32,10,1498,Michigan,795,795,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,73
+2010-11,2010-11-27,1005353,375,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,32,10,1654,UTEP,775,775,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30.8,29.849999999999994,330051,NA,NA,0,UTEP,Michigan,74
+2010-11,2010-11-27,1005353,376,1,2,UTEP,Michigan,Miners,Wolverines,4,3,42,32,10,1498,Michigan,767,767,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,26.35,467549,NA,NA,0,Michigan,UTEP,75
+2010-11,2010-11-27,1005353,377,1,2,UTEP,Michigan,Miners,Wolverines,4,3,44,32,12,1654,UTEP,731,731,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399800,NA,NA,0,UTEP,Michigan,76
+2010-11,2010-11-27,1005353,380,1,2,UTEP,Michigan,Miners,Wolverines,4,3,44,32,12,1654,UTEP,714,714,17,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,77
+2010-11,2010-11-27,1005353,381,1,2,UTEP,Michigan,Miners,Wolverines,4,3,44,32,12,NA,NA,714,714,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,382,1,2,UTEP,Michigan,Miners,Wolverines,4,3,44,33,11,1498,Michigan,714,714,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,77
+2010-11,2010-11-27,1005353,383,1,2,UTEP,Michigan,Miners,Wolverines,4,3,44,33,11,1498,Michigan,714,714,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,77
+2010-11,2010-11-27,1005353,387,1,2,UTEP,Michigan,Miners,Wolverines,4,3,46,33,13,1654,UTEP,691,691,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552313,NA,NA,0,UTEP,Michigan,78
+2010-11,2010-11-27,1005353,389,1,2,UTEP,Michigan,Miners,Wolverines,4,3,46,33,13,1498,Michigan,666,666,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.2,27.15,551771,NA,NA,0,Michigan,UTEP,79
+2010-11,2010-11-27,1005353,390,1,2,UTEP,Michigan,Miners,Wolverines,4,3,46,33,13,1654,UTEP,630,630,36, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,9.849999999999994,330051,NA,NA,0,UTEP,UTEP,80
+2010-11,2010-11-27,1005353,392,1,2,UTEP,Michigan,Miners,Wolverines,4,3,46,33,13,1498,Michigan,624,624,6,Offensive Charge Foul foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UTEP,80
+2010-11,2010-11-27,1005353,398,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,33,15,1654,UTEP,593,593,31, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,13.5,21.650000000000006,399793,NA,NA,0,UTEP,Michigan,80
+2010-11,2010-11-27,1005353,399,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,33,15,1498,Michigan,570,570,23, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,9.15,511638,NA,NA,0,Michigan,Michigan,81
+2010-11,2010-11-27,1005353,400,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,33,15,1498,Michigan,566,566,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551771,NA,NA,0,Michigan,Michigan,81
+2010-11,2010-11-27,1005353,403,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,33,15,1654,UTEP,564,564,2,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,81
+2010-11,2010-11-27,1005353,404,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,34,14,1498,Michigan,564,564,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,81
+2010-11,2010-11-27,1005353,405,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,35,13,1498,Michigan,564,564,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,81
+2010-11,2010-11-27,1005353,407,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,35,13,1654,UTEP,548,548,16, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.200000000000003,8.150000000000006,575516,NA,NA,0,UTEP,Michigan,82
+2010-11,2010-11-27,1005353,408,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,37,11,1498,Michigan,520,520,28, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.8,9.35,511638,NA,NA,0,Michigan,UTEP,83
+2010-11,2010-11-27,1005353,418,1,2,UTEP,Michigan,Miners,Wolverines,4,3,48,37,11,1498,Michigan,484,484,36,Offensive Charge Foul foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UTEP,84
+2010-11,2010-11-27,1005353,424,1,2,UTEP,Michigan,Miners,Wolverines,4,3,50,37,13,1654,UTEP,471,471,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399798,NA,NA,0,UTEP,Michigan,84
+2010-11,2010-11-27,1005353,425,1,2,UTEP,Michigan,Miners,Wolverines,4,3,50,40,10,1498,Michigan,456,456,15, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.2,9.65,467550,NA,NA,0,Michigan,UTEP,85
+2010-11,2010-11-27,1005353,428,1,2,UTEP,Michigan,Miners,Wolverines,4,2,50,40,10,1498,Michigan,453,453,3,Wolverines take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,434,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,1654,UTEP,438,438,15, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,27.2,11.049999999999997,552313,NA,NA,0,UTEP,UTEP,86
+2010-11,2010-11-27,1005353,435,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,1498,Michigan,438,438,0,Shooting foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,86
+2010-11,2010-11-27,1005353,436,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,NA,NA,438,438,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,437,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,1654,UTEP,438,438,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,86
+2010-11,2010-11-27,1005353,439,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,1498,Michigan,405,405,33, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,30.75,551771,NA,NA,0,Michigan,UTEP,87
+2010-11,2010-11-27,1005353,442,1,2,UTEP,Michigan,Miners,Wolverines,4,2,52,40,12,1498,Michigan,383,383,22,Personal foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,88
+2010-11,2010-11-27,1005353,443,1,2,UTEP,Michigan,Miners,Wolverines,4,2,53,40,13,1654,UTEP,383,383,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,88
+2010-11,2010-11-27,1005353,444,1,2,UTEP,Michigan,Miners,Wolverines,4,2,54,40,14,1654,UTEP,383,383,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,89
+2010-11,2010-11-27,1005353,446,1,2,UTEP,Michigan,Miners,Wolverines,4,2,54,40,14,1498,Michigan,366,366,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,26.95,467549,NA,NA,0,Michigan,Michigan,90
+2010-11,2010-11-27,1005353,447,1,2,UTEP,Michigan,Miners,Wolverines,4,2,54,43,11,1498,Michigan,327,327,39, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.7,11.45,467549,NA,NA,0,Michigan,UTEP,90
+2010-11,2010-11-27,1005353,452,1,2,UTEP,Michigan,Miners,Wolverines,4,1,54,43,11,1498,Michigan,326,326,1,Wolverines take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,460,1,2,UTEP,Michigan,Miners,Wolverines,4,1,56,43,13,1654,UTEP,306,306,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Michigan,91
+2010-11,2010-11-27,1005353,461,1,2,UTEP,Michigan,Miners,Wolverines,4,1,56,43,13,1498,Michigan,287,287,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9,19.95,511636,NA,NA,0,Michigan,Michigan,92
+2010-11,2010-11-27,1005353,462,1,2,UTEP,Michigan,Miners,Wolverines,4,1,56,45,11,1498,Michigan,267,267,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511638,NA,NA,0,Michigan,UTEP,92
+2010-11,2010-11-27,1005353,464,1,2,UTEP,Michigan,Miners,Wolverines,4,1,56,45,11,1498,Michigan,251,251,16,Shooting foul committed by Wolverines.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,93
+2010-11,2010-11-27,1005353,465,1,2,UTEP,Michigan,Miners,Wolverines,4,1,56,45,11,1654,UTEP,251,251,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,93
+2010-11,2010-11-27,1005353,466,1,2,UTEP,Michigan,Miners,Wolverines,4,1,57,45,12,1654,UTEP,251,251,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Michigan,93
+2010-11,2010-11-27,1005353,468,1,2,UTEP,Michigan,Miners,Wolverines,4,1,57,45,12,1498,Michigan,240,240,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41,21.65,551772,NA,NA,0,Michigan,UTEP,94
+2010-11,2010-11-27,1005353,470,1,2,UTEP,Michigan,Miners,Wolverines,3,1,57,45,12,1654,UTEP,229,229,11,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,473,1,2,UTEP,Michigan,Miners,Wolverines,3,1,57,45,12,1654,UTEP,207,207,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,8.349999999999994,329549,NA,NA,0,UTEP,Michigan,95
+2010-11,2010-11-27,1005353,474,1,2,UTEP,Michigan,Miners,Wolverines,3,1,57,45,12,1498,Michigan,193,193,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.5,29.05,551772,NA,NA,0,Michigan,UTEP,96
+2010-11,2010-11-27,1005353,475,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,1654,UTEP,188,188,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399793,NA,NA,0,UTEP,Michigan,97
+2010-11,2010-11-27,1005353,476,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,1498,Michigan,162,162,26, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,31,30.55,467550,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,477,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,1498,Michigan,157,157,5, misses a jump shot.,missed,FALSE,FALSE,Jump Shot,26,6.25,511640,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,481,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,NA,NA,140,140,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,490,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,1498,Michigan,130,130,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,21.85,511640,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,496,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,45,14,1654,UTEP,127,127,3,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,497,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,46,13,1498,Michigan,127,127,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,498,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,46,13,1498,Michigan,127,127,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,502,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,46,13,1654,UTEP,122,122,5,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,503.75,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,47,12,1498,Michigan,122,122,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,98
+2010-11,2010-11-27,1005353,504,1,2,UTEP,Michigan,Miners,Wolverines,3,1,59,48,11,1498,Michigan,122,122,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,98
+2010-11,2010-11-27,1005353,506,1,2,UTEP,Michigan,Miners,Wolverines,3,1,61,48,13,1654,UTEP,109,109,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329549,NA,NA,0,UTEP,Michigan,99
+2010-11,2010-11-27,1005353,512,1,2,UTEP,Michigan,Miners,Wolverines,3,1,61,50,11,1498,Michigan,96,96,13, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,25.5,10.65,511638,NA,NA,0,Michigan,UTEP,100
+2010-11,2010-11-27,1005353,515,1,2,UTEP,Michigan,Miners,Wolverines,3,0,61,50,11,1498,Michigan,92,92,4,Wolverines take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,532,1,2,UTEP,Michigan,Miners,Wolverines,3,0,61,50,11,1654,UTEP,56,56,36, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,25.75,330051,NA,NA,0,UTEP,Michigan,101
+2010-11,2010-11-27,1005353,534,1,2,UTEP,Michigan,Miners,Wolverines,3,0,61,52,9,1498,Michigan,49,49,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511638,NA,NA,0,Michigan,Michigan,102
+2010-11,2010-11-27,1005353,535,1,2,UTEP,Michigan,Miners,Wolverines,3,0,61,52,9,1654,UTEP,49,49,0,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,Michigan,102
+2010-11,2010-11-27,1005353,536,1,2,UTEP,Michigan,Miners,Wolverines,3,0,61,53,8,1498,Michigan,49,49,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Michigan,UTEP,102
+2010-11,2010-11-27,1005353,538,1,2,UTEP,Michigan,Miners,Wolverines,3,0,63,53,10,1654,UTEP,43,43,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399800,NA,NA,0,UTEP,Michigan,103
+2010-11,2010-11-27,1005353,541,1,2,UTEP,Michigan,Miners,Wolverines,3,0,63,53,10,1498,Michigan,35,35,8, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,29.7,33.45,467549,NA,NA,0,Michigan,UTEP,104
+2010-11,2010-11-27,1005353,542,1,2,UTEP,Michigan,Miners,Wolverines,3,0,65,53,12,1654,UTEP,23,23,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,552313,NA,NA,0,UTEP,Michigan,105
+2010-11,2010-11-27,1005353,545,1,2,UTEP,Michigan,Miners,Wolverines,3,0,65,56,9,1498,Michigan,15,15,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,21.3,29.05,511638,NA,NA,0,Michigan,UTEP,106
+2010-11,2010-11-27,1005353,548,1,2,UTEP,Michigan,Miners,Wolverines,3,0,65,56,9,NA,NA,0,0,15,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005353,549,1,2,UTEP,Michigan,Miners,Wolverines,3,0,65,56,9,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,NA

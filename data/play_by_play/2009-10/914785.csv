@@ -1,0 +1,210 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-11,914785,1,0,1,USC,Idaho State,Trojans,Bengals,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Idaho State,NA
+2009-10,2009-12-11,914785,15.5,0,1,USC,Idaho State,Trojans,Bengals,4,4,0,0,0,1442,Idaho State,2378,1178,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15,11.85,353838,NA,NA,0,Idaho State,USC,1
+2009-10,2009-12-11,914785,26.375,0,1,USC,Idaho State,Trojans,Bengals,4,4,0,0,0,1442,Idaho State,2375,1175,3,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,2
+2009-10,2009-12-11,914785,30,0,1,USC,Idaho State,Trojans,Bengals,4,4,3,0,3,1669,USC,2368,1168,7, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.3,24.25,330059,NA,NA,0,USC,Idaho State,2
+2009-10,2009-12-11,914785,42,0,1,USC,Idaho State,Trojans,Bengals,4,4,5,0,5,1669,USC,2354,1154,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330059,NA,NA,0,USC,USC,3
+2009-10,2009-12-11,914785,52,0,1,USC,Idaho State,Trojans,Bengals,4,4,5,0,5,1442,Idaho State,2338,1138,16,Shooting foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,3
+2009-10,2009-12-11,914785,53,0,1,USC,Idaho State,Trojans,Bengals,4,4,6,0,6,1669,USC,2338,1138,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,3
+2009-10,2009-12-11,914785,76,0,1,USC,Idaho State,Trojans,Bengals,4,4,6,0,6,1442,Idaho State,2311,1111,27, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,15.85,411144,NA,NA,0,Idaho State,USC,4
+2009-10,2009-12-11,914785,82,0,1,USC,Idaho State,Trojans,Bengals,4,4,8,0,8,1669,USC,2298,1098,13, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,35.5,14.349999999999994,329673,NA,NA,0,USC,Idaho State,5
+2009-10,2009-12-11,914785,84,0,1,USC,Idaho State,Trojans,Bengals,4,3,8,0,8,1442,Idaho State,2294,1094,4,Bengals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,105,0,1,USC,Idaho State,Trojans,Bengals,4,3,8,2,6,1442,Idaho State,2272,1072,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,353838,NA,NA,0,Idaho State,USC,6
+2009-10,2009-12-11,914785,106,0,1,USC,Idaho State,Trojans,Bengals,4,3,8,4,4,1442,Idaho State,2240,1040,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340765,NA,NA,0,Idaho State,Idaho State,7
+2009-10,2009-12-11,914785,117,0,1,USC,Idaho State,Trojans,Bengals,4,3,8,4,4,1669,USC,2240,1040,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,7
+2009-10,2009-12-11,914785,118,0,1,USC,Idaho State,Trojans,Bengals,4,3,8,5,3,1442,Idaho State,2240,1040,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,7
+2009-10,2009-12-11,914785,125,0,1,USC,Idaho State,Trojans,Bengals,4,3,10,5,5,1669,USC,2229,1029,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Idaho State,8
+2009-10,2009-12-11,914785,131,0,1,USC,Idaho State,Trojans,Bengals,4,3,10,5,5,1442,Idaho State,2213,1013,16,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,9
+2009-10,2009-12-11,914785,132,0,1,USC,Idaho State,Trojans,Bengals,4,3,11,5,6,1669,USC,2213,1013,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,9
+2009-10,2009-12-11,914785,133,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1669,USC,2213,1013,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,9
+2009-10,2009-12-11,914785,151,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1442,Idaho State,2194,994,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340768,NA,NA,0,Idaho State,Idaho State,10
+2009-10,2009-12-11,914785,158,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1442,Idaho State,2187,987,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,20,18.05,411144,NA,NA,0,Idaho State,Idaho State,10
+2009-10,2009-12-11,914785,159,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1442,Idaho State,2181,981,6, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,29,20.55,353838,NA,NA,0,Idaho State,Idaho State,10
+2009-10,2009-12-11,914785,163,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1669,USC,2169,969,12,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,10
+2009-10,2009-12-11,914785,164,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1442,Idaho State,2169,969,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,10
+2009-10,2009-12-11,914785,165,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1442,Idaho State,2169,969,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,10
+2009-10,2009-12-11,914785,186,0,1,USC,Idaho State,Trojans,Bengals,4,3,12,5,7,1669,USC,2143,943,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,USC,11
+2009-10,2009-12-11,914785,197,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,1669,USC,2141,941,2, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13,8.950000000000003,329673,NA,NA,0,USC,USC,11
+2009-10,2009-12-11,914785,198,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,1442,Idaho State,2141,941,0,Shooting foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,11
+2009-10,2009-12-11,914785,199,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,NA,NA,2141,941,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,200,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,1669,USC,2141,941,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,11
+2009-10,2009-12-11,914785,213,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,1442,Idaho State,2126,926,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14,13.55,340765,NA,NA,0,Idaho State,USC,11
+2009-10,2009-12-11,914785,217,0,1,USC,Idaho State,Trojans,Bengals,4,3,14,5,9,1442,Idaho State,2117,917,9,Shooting foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2009-10,2009-12-11,914785,218,0,1,USC,Idaho State,Trojans,Bengals,4,3,15,5,10,1669,USC,2117,917,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2009-10,2009-12-11,914785,219,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1669,USC,2117,917,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,12
+2009-10,2009-12-11,914785,237,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1669,USC,2095,895,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330059,NA,NA,0,USC,USC,13
+2009-10,2009-12-11,914785,244,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1669,USC,2073,873,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,14.75,295796,NA,NA,0,USC,Idaho State,13
+2009-10,2009-12-11,914785,247,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1669,USC,2071,871,2,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,14
+2009-10,2009-12-11,914785,248,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1442,Idaho State,2071,871,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,14
+2009-10,2009-12-11,914785,249,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1442,Idaho State,2071,871,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,14
+2009-10,2009-12-11,914785,260,0,1,USC,Idaho State,Trojans,Bengals,4,3,16,5,11,1669,USC,2060,860,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,32.3,29.25,330059,NA,NA,0,USC,USC,15
+2009-10,2009-12-11,914785,266,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,5,13,1669,USC,2046,846,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Idaho State,15
+2009-10,2009-12-11,914785,283,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,5,13,1442,Idaho State,2011,811,35, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.2,25.55,411144,NA,NA,0,Idaho State,Idaho State,16
+2009-10,2009-12-11,914785,291,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,5,13,1669,USC,1997,797,14,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,16
+2009-10,2009-12-11,914785,303,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,5,13,1669,USC,1985,785,12,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,16
+2009-10,2009-12-11,914785,306,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,6,12,1442,Idaho State,1985,785,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,16
+2009-10,2009-12-11,914785,307,0,1,USC,Idaho State,Trojans,Bengals,4,3,18,6,12,1442,Idaho State,1985,785,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,16
+2009-10,2009-12-11,914785,319,0,1,USC,Idaho State,Trojans,Bengals,4,3,20,6,14,1669,USC,1969,769,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Idaho State,17
+2009-10,2009-12-11,914785,323,0,1,USC,Idaho State,Trojans,Bengals,4,3,20,6,14,1442,Idaho State,1964,764,5,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2009-10,2009-12-11,914785,347,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,1669,USC,1934,734,30, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,33.8,17.450000000000003,295796,NA,NA,0,USC,Idaho State,18
+2009-10,2009-12-11,914785,362,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,1442,Idaho State,1903,703,31, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,16,17.85,409859,NA,NA,0,Idaho State,Idaho State,19
+2009-10,2009-12-11,914785,364,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,1442,Idaho State,1875,675,28, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,12.25,340766,NA,NA,0,Idaho State,Idaho State,19
+2009-10,2009-12-11,914785,367,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,1669,USC,1873,673,2,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,19
+2009-10,2009-12-11,914785,368,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,NA,NA,1873,673,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,373,0,1,USC,Idaho State,Trojans,Bengals,4,3,22,6,16,1442,Idaho State,1863,663,10, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,13.2,18.95,340765,NA,NA,0,Idaho State,USC,19
+2009-10,2009-12-11,914785,384,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,6,19,1669,USC,1839,639,24, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,43.2,18.75,330059,NA,NA,0,USC,Idaho State,20
+2009-10,2009-12-11,914785,405,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1805,605,34, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,23,21.65,463081,NA,NA,0,Idaho State,USC,21
+2009-10,2009-12-11,914785,406,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1669,USC,1786,586,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,14.75,295796,NA,NA,0,USC,Idaho State,22
+2009-10,2009-12-11,914785,423,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1758,558,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,26.15,486926,NA,NA,0,Idaho State,USC,23
+2009-10,2009-12-11,914785,425,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1669,USC,1749,549,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,29.450000000000003,330059,NA,NA,0,USC,Idaho State,24
+2009-10,2009-12-11,914785,427,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1743,543,6, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,13.3,19.55,340765,NA,NA,0,Idaho State,Idaho State,25
+2009-10,2009-12-11,914785,431,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1736,536,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13,7.55,486926,NA,NA,0,Idaho State,Idaho State,25
+2009-10,2009-12-11,914785,434,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1732,532,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411144,NA,NA,0,Idaho State,Idaho State,25
+2009-10,2009-12-11,914785,435,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,8,17,1442,Idaho State,1719,519,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,13.35,353838,NA,NA,0,Idaho State,Idaho State,25
+2009-10,2009-12-11,914785,436,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,10,15,1442,Idaho State,1714,514,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,486926,NA,NA,0,Idaho State,USC,25
+2009-10,2009-12-11,914785,442,0,1,USC,Idaho State,Trojans,Bengals,4,3,25,10,15,1669,USC,1700,500,14,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,26
+2009-10,2009-12-11,914785,443,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,10,15,1669,USC,1700,500,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,444,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,11,14,1442,Idaho State,1700,500,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,26
+2009-10,2009-12-11,914785,445,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,11,14,1442,Idaho State,1700,500,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,26
+2009-10,2009-12-11,914785,469,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,11,14,1442,Idaho State,1676,476,24, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,14.35,524870,NA,NA,0,Idaho State,Idaho State,26
+2009-10,2009-12-11,914785,479,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,11,14,NA,NA,1661,461,15,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,482,0,1,USC,Idaho State,Trojans,Bengals,3,3,25,14,11,1442,Idaho State,1657,457,4, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,14.2,26.95,340767,NA,NA,0,Idaho State,USC,26
+2009-10,2009-12-11,914785,489,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1669,USC,1652,452,5,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,502,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1442,Idaho State,1635,435,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411144,NA,NA,0,Idaho State,Idaho State,27
+2009-10,2009-12-11,914785,506,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1442,Idaho State,1630,430,5, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,12.65,340768,NA,NA,0,Idaho State,USC,27
+2009-10,2009-12-11,914785,519,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1669,USC,1615,415,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,12.450000000000003,295796,NA,NA,0,USC,Idaho State,28
+2009-10,2009-12-11,914785,539,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1442,Idaho State,1583,383,32, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,21.45,340768,NA,NA,0,Idaho State,Idaho State,29
+2009-10,2009-12-11,914785,557,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1442,Idaho State,1554,354,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,7.95,411144,NA,NA,0,Idaho State,USC,29
+2009-10,2009-12-11,914785,583,0,1,USC,Idaho State,Trojans,Bengals,2,3,25,14,11,1669,USC,1506,306,48, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,15.349999999999994,330059,NA,NA,0,USC,USC,30
+2009-10,2009-12-11,914785,584,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,14,13,1669,USC,1497,297,9, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,33.7,21.349999999999994,295796,NA,NA,0,USC,Idaho State,30
+2009-10,2009-12-11,914785,596,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,14,13,1442,Idaho State,1490,290,7,Offensive foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,31
+2009-10,2009-12-11,914785,622,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,16,11,1442,Idaho State,1460,260,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411144,NA,NA,0,Idaho State,USC,32
+2009-10,2009-12-11,914785,634,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,16,11,1669,USC,1431,231,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,23.450000000000003,330059,NA,NA,0,USC,Idaho State,33
+2009-10,2009-12-11,914785,635,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,16,11,1442,Idaho State,1422,222,9, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,12.05,486926,NA,NA,0,Idaho State,USC,34
+2009-10,2009-12-11,914785,643,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,16,11,1669,USC,1401,201,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,Idaho State,35
+2009-10,2009-12-11,914785,644,0,1,USC,Idaho State,Trojans,Bengals,2,3,27,18,9,1442,Idaho State,1391,191,10, makes a jump shot from 1 foot out.,made,FALSE,FALSE,Jump Shot,24.8,6.05,411144,NA,NA,0,Idaho State,USC,36
+2009-10,2009-12-11,914785,661,0,1,USC,Idaho State,Trojans,Bengals,2,3,29,18,11,1669,USC,1362,162,29, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,32.3,18.450000000000003,295796,NA,NA,0,USC,Idaho State,37
+2009-10,2009-12-11,914785,675,0,1,USC,Idaho State,Trojans,Bengals,2,3,29,18,11,NA,NA,1341,141,21,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,698,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,18,13,1669,USC,1314,114,27, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Idaho State,38
+2009-10,2009-12-11,914785,707,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,18,13,1442,Idaho State,1298,98,16, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.7,9.15,409859,NA,NA,0,Idaho State,USC,39
+2009-10,2009-12-11,914785,711,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,18,13,1669,USC,1280,80,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,USC,40
+2009-10,2009-12-11,914785,712,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,18,13,1669,USC,1280,80,0, misses a tip shot from 1 foot out.,missed,FALSE,FALSE,Tip Shot,25,6.450000000000003,329673,NA,NA,0,USC,USC,40
+2009-10,2009-12-11,914785,732,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,18,13,1669,USC,1256,56,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295796,NA,NA,0,USC,Idaho State,40
+2009-10,2009-12-11,914785,738,0,1,USC,Idaho State,Trojans,Bengals,2,3,31,20,11,1442,Idaho State,1248,48,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411144,NA,NA,0,Idaho State,USC,41
+2009-10,2009-12-11,914785,764,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,20,11,1669,USC,1219,19,29,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,771,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,20,11,1669,USC,1211,11,8,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,42
+2009-10,2009-12-11,914785,773,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,21,10,1442,Idaho State,1211,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,42
+2009-10,2009-12-11,914785,774,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,21,10,1442,Idaho State,1211,11,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,42
+2009-10,2009-12-11,914785,784,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,21,10,1669,USC,1203,3,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295796,NA,NA,0,USC,Idaho State,43
+2009-10,2009-12-11,914785,787,0,1,USC,Idaho State,Trojans,Bengals,1,3,31,21,10,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,788,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,21,10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Idaho State,44
+2009-10,2009-12-11,914785,795,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,23,8,1442,Idaho State,1192,1192,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340767,NA,NA,0,Idaho State,USC,45
+2009-10,2009-12-11,914785,817,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1442,Idaho State,1160,1160,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340765,NA,NA,0,Idaho State,USC,46
+2009-10,2009-12-11,914785,834,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1669,USC,1131,1131,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,9.150000000000006,457597,NA,NA,0,USC,Idaho State,47
+2009-10,2009-12-11,914785,846,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1442,Idaho State,1099,1099,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340765,NA,NA,0,Idaho State,USC,48
+2009-10,2009-12-11,914785,860,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1442,Idaho State,1092,1092,7,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,49
+2009-10,2009-12-11,914785,861,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1669,USC,1092,1092,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,49
+2009-10,2009-12-11,914785,862,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1669,USC,1092,1092,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,49
+2009-10,2009-12-11,914785,876,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1442,Idaho State,1075,1075,17,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,49
+2009-10,2009-12-11,914785,885,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1669,USC,1065,1065,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,21.650000000000006,457597,NA,NA,0,USC,Idaho State,49
+2009-10,2009-12-11,914785,890,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,25,6,1442,Idaho State,1050,1050,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340765,NA,NA,0,Idaho State,Idaho State,50
+2009-10,2009-12-11,914785,891,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,27,4,1442,Idaho State,1041,1041,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340765,NA,NA,0,Idaho State,USC,50
+2009-10,2009-12-11,914785,899,0,2,USC,Idaho State,Trojans,Bengals,4,4,31,27,4,1442,Idaho State,1027,1027,14,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,51
+2009-10,2009-12-11,914785,916,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,27,7,1669,USC,1005,1005,22, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47.7,8.349999999999994,330059,NA,NA,0,USC,Idaho State,51
+2009-10,2009-12-11,914785,918,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,27,7,1669,USC,986,986,19,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,52
+2009-10,2009-12-11,914785,927,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,29,5,1442,Idaho State,974,974,12, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,25,21.45,340765,NA,NA,0,Idaho State,USC,52
+2009-10,2009-12-11,914785,940,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,29,5,1669,USC,947,947,27, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,15,17.25,457598,NA,NA,0,USC,Idaho State,53
+2009-10,2009-12-11,914785,942,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,29,5,NA,NA,946,946,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,966,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,32,2,1442,Idaho State,919,919,27, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.5,4.85,340767,NA,NA,0,Idaho State,USC,54
+2009-10,2009-12-11,914785,970,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,32,2,1669,USC,896,896,23, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,12.450000000000003,330059,NA,NA,0,USC,Idaho State,55
+2009-10,2009-12-11,914785,994,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,32,2,1669,USC,871,871,25,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,56
+2009-10,2009-12-11,914785,995,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,33,1,1442,Idaho State,871,871,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,56
+2009-10,2009-12-11,914785,996,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,33,1,1442,Idaho State,871,871,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,56
+2009-10,2009-12-11,914785,1004,0,2,USC,Idaho State,Trojans,Bengals,4,4,34,33,1,1442,Idaho State,862,862,9,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,57
+2009-10,2009-12-11,914785,1027,0,2,USC,Idaho State,Trojans,Bengals,4,4,36,33,3,1669,USC,837,837,25, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,295796,NA,NA,0,USC,Idaho State,57
+2009-10,2009-12-11,914785,1040,0,2,USC,Idaho State,Trojans,Bengals,4,4,36,35,1,1442,Idaho State,817,817,20, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,19.8,22.05,486926,NA,NA,0,Idaho State,USC,58
+2009-10,2009-12-11,914785,1071,0,2,USC,Idaho State,Trojans,Bengals,4,4,36,35,1,1669,USC,773,773,44, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295796,NA,NA,0,USC,Idaho State,59
+2009-10,2009-12-11,914785,1072,0,2,USC,Idaho State,Trojans,Bengals,4,4,36,38,-2,1442,Idaho State,765,765,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,14.2,26.75,486926,NA,NA,0,Idaho State,USC,60
+2009-10,2009-12-11,914785,1074,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,759,759,6,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1095,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1442,Idaho State,734,734,25,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,61
+2009-10,2009-12-11,914785,1096,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,734,734,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,61
+2009-10,2009-12-11,914785,1097,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,734,734,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,61
+2009-10,2009-12-11,914785,1100,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,730,730,4,Offensive foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,61
+2009-10,2009-12-11,914785,1118,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,NA,NA,713,713,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1134,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,693,693,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,19.75,330059,NA,NA,0,USC,Idaho State,62
+2009-10,2009-12-11,914785,1142,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1442,Idaho State,675,675,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,11.05,340765,NA,NA,0,Idaho State,USC,63
+2009-10,2009-12-11,914785,1143,0,2,USC,Idaho State,Trojans,Bengals,3,4,36,38,-2,1669,USC,668,668,7, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32,11.450000000000003,457600,NA,NA,0,USC,USC,64
+2009-10,2009-12-11,914785,1144,0,2,USC,Idaho State,Trojans,Bengals,3,4,38,38,0,1669,USC,657,657,11, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24.5,6.75,329673,NA,NA,0,USC,Idaho State,64
+2009-10,2009-12-11,914785,1166,0,2,USC,Idaho State,Trojans,Bengals,3,4,38,38,0,1669,USC,639,639,18,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,65
+2009-10,2009-12-11,914785,1167,0,2,USC,Idaho State,Trojans,Bengals,3,4,38,38,0,1442,Idaho State,639,639,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,65
+2009-10,2009-12-11,914785,1168,0,2,USC,Idaho State,Trojans,Bengals,3,4,38,39,-1,1442,Idaho State,639,639,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,65
+2009-10,2009-12-11,914785,1170,0,2,USC,Idaho State,Trojans,Bengals,3,4,40,39,1,1669,USC,629,629,10, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,36,13.75,457597,NA,NA,0,USC,Idaho State,66
+2009-10,2009-12-11,914785,1186,0,2,USC,Idaho State,Trojans,Bengals,3,4,40,39,1,1442,Idaho State,598,598,31, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25,20.75,353838,NA,NA,0,Idaho State,Idaho State,67
+2009-10,2009-12-11,914785,1187,0,2,USC,Idaho State,Trojans,Bengals,3,4,40,41,-1,1442,Idaho State,595,595,3, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.8,10.25,340765,NA,NA,0,Idaho State,USC,67
+2009-10,2009-12-11,914785,1188,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1669,USC,588,588,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Idaho State,68
+2009-10,2009-12-11,914785,1220,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1669,USC,521,521,67, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,23.049999999999997,457597,NA,NA,0,USC,Idaho State,69
+2009-10,2009-12-11,914785,1221,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1442,Idaho State,516,516,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340765,NA,NA,0,Idaho State,Idaho State,70
+2009-10,2009-12-11,914785,1222,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1442,Idaho State,512,512,4, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.2,10.45,340768,NA,NA,0,Idaho State,Idaho State,70
+2009-10,2009-12-11,914785,1224,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1669,USC,490,490,22,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,70
+2009-10,2009-12-11,914785,1228,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1669,USC,487,487,3,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,70
+2009-10,2009-12-11,914785,1238,0,2,USC,Idaho State,Trojans,Bengals,3,4,42,41,1,1442,Idaho State,475,475,12, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,21.45,340766,NA,NA,0,Idaho State,USC,70
+2009-10,2009-12-11,914785,1254,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,1669,USC,448,448,27, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,14.5,18.049999999999997,457598,NA,NA,0,USC,Idaho State,71
+2009-10,2009-12-11,914785,1267,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,1442,Idaho State,416,416,32, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,11.05,340766,NA,NA,0,Idaho State,USC,72
+2009-10,2009-12-11,914785,1279,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,1669,USC,393,393,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,22.450000000000003,330059,NA,NA,0,USC,USC,73
+2009-10,2009-12-11,914785,1289,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,1669,USC,372,372,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4,13.549999999999997,295796,NA,NA,0,USC,USC,73
+2009-10,2009-12-11,914785,1293,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,1442,Idaho State,368,368,4,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,73
+2009-10,2009-12-11,914785,1294,0,2,USC,Idaho State,Trojans,Bengals,3,4,44,41,3,NA,NA,368,368,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1306,0,2,USC,Idaho State,Trojans,Bengals,3,4,46,41,5,1669,USC,354,354,14, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,38.7,14.349999999999994,329673,NA,NA,0,USC,Idaho State,73
+2009-10,2009-12-11,914785,1320,0,2,USC,Idaho State,Trojans,Bengals,3,4,46,41,5,1442,Idaho State,328,328,26, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,7.35,340768,NA,NA,0,Idaho State,Idaho State,74
+2009-10,2009-12-11,914785,1343,0,2,USC,Idaho State,Trojans,Bengals,3,4,46,41,5,1669,USC,290,290,38,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,74
+2009-10,2009-12-11,914785,1344,0,2,USC,Idaho State,Trojans,Bengals,3,4,46,42,4,1442,Idaho State,290,290,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,74
+2009-10,2009-12-11,914785,1345,0,2,USC,Idaho State,Trojans,Bengals,3,4,46,43,3,1442,Idaho State,290,290,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,74
+2009-10,2009-12-11,914785,1346,0,2,USC,Idaho State,Trojans,Bengals,3,3,46,43,3,1442,Idaho State,290,290,0,Bengals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1354,0,2,USC,Idaho State,Trojans,Bengals,3,3,46,43,3,1442,Idaho State,272,272,18,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,75
+2009-10,2009-12-11,914785,1355,0,2,USC,Idaho State,Trojans,Bengals,3,3,47,43,4,1669,USC,272,272,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,75
+2009-10,2009-12-11,914785,1356,0,2,USC,Idaho State,Trojans,Bengals,3,3,47,43,4,1669,USC,272,272,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,75
+2009-10,2009-12-11,914785,1365,0,2,USC,Idaho State,Trojans,Bengals,3,3,47,43,4,1442,Idaho State,261,261,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340765,NA,NA,0,Idaho State,USC,76
+2009-10,2009-12-11,914785,1387,0,2,USC,Idaho State,Trojans,Bengals,3,3,47,43,4,1442,Idaho State,261,261,0,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,77
+2009-10,2009-12-11,914785,1388,0,2,USC,Idaho State,Trojans,Bengals,3,3,48,43,5,1669,USC,261,261,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,77
+2009-10,2009-12-11,914785,1389,0,2,USC,Idaho State,Trojans,Bengals,3,3,49,43,6,1669,USC,261,261,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,77
+2009-10,2009-12-11,914785,1415,0,2,USC,Idaho State,Trojans,Bengals,3,3,49,43,6,1442,Idaho State,232,232,29,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,78
+2009-10,2009-12-11,914785,1416,0,2,USC,Idaho State,Trojans,Bengals,3,3,49,43,6,NA,NA,232,232,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1417,0,2,USC,Idaho State,Trojans,Bengals,3,3,50,43,7,1669,USC,232,232,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,78
+2009-10,2009-12-11,914785,1418,0,2,USC,Idaho State,Trojans,Bengals,3,3,50,43,7,1669,USC,232,232,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,78
+2009-10,2009-12-11,914785,1440,0,2,USC,Idaho State,Trojans,Bengals,3,3,50,45,5,1442,Idaho State,205,205,27, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,15.5,15.55,340768,NA,NA,0,Idaho State,USC,79
+2009-10,2009-12-11,914785,1450,0,2,USC,Idaho State,Trojans,Bengals,3,3,50,45,5,1669,USC,165,165,40, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24,22.450000000000003,295796,NA,NA,0,USC,USC,80
+2009-10,2009-12-11,914785,1461,0,2,USC,Idaho State,Trojans,Bengals,3,3,52,45,7,1669,USC,161,161,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Idaho State,80
+2009-10,2009-12-11,914785,1472,0,2,USC,Idaho State,Trojans,Bengals,3,3,54,45,9,1669,USC,139,139,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330059,NA,NA,0,USC,Idaho State,81
+2009-10,2009-12-11,914785,1483,0,2,USC,Idaho State,Trojans,Bengals,3,3,54,45,9,1442,Idaho State,131,131,8,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,82
+2009-10,2009-12-11,914785,1484,0,2,USC,Idaho State,Trojans,Bengals,3,3,55,45,10,1669,USC,131,131,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,82
+2009-10,2009-12-11,914785,1495,0,2,USC,Idaho State,Trojans,Bengals,3,3,55,45,10,1669,USC,120,120,11,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,83
+2009-10,2009-12-11,914785,1510,0,2,USC,Idaho State,Trojans,Bengals,3,3,55,46,9,1442,Idaho State,120,120,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,83
+2009-10,2009-12-11,914785,1511,0,2,USC,Idaho State,Trojans,Bengals,3,3,55,47,8,1442,Idaho State,120,120,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,83
+2009-10,2009-12-11,914785,1524,0,2,USC,Idaho State,Trojans,Bengals,2,3,55,47,8,1669,USC,110,110,10,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1537,0,2,USC,Idaho State,Trojans,Bengals,2,3,55,49,6,1442,Idaho State,96,96,14, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,32.5,18.95,411144,NA,NA,0,Idaho State,USC,84
+2009-10,2009-12-11,914785,1546,0,2,USC,Idaho State,Trojans,Bengals,2,3,55,49,6,1442,Idaho State,84,84,12,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2009-10,2009-12-11,914785,1547,0,2,USC,Idaho State,Trojans,Bengals,2,3,55,49,6,1669,USC,84,84,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2009-10,2009-12-11,914785,1548,0,2,USC,Idaho State,Trojans,Bengals,2,3,56,49,7,1669,USC,84,84,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,85
+2009-10,2009-12-11,914785,1565,0,2,USC,Idaho State,Trojans,Bengals,2,3,56,51,5,1442,Idaho State,78,78,6, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,17,18.95,411144,NA,NA,0,Idaho State,USC,86
+2009-10,2009-12-11,914785,1584,0,2,USC,Idaho State,Trojans,Bengals,2,3,56,51,5,1442,Idaho State,54,54,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411144,NA,NA,0,Idaho State,USC,87
+2009-10,2009-12-11,914785,1595,0,2,USC,Idaho State,Trojans,Bengals,2,3,56,51,5,1442,Idaho State,41,41,13,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,88
+2009-10,2009-12-11,914785,1596,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1669,USC,41,41,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,88
+2009-10,2009-12-11,914785,1597,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1669,USC,41,41,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,88
+2009-10,2009-12-11,914785,1607,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1442,Idaho State,36,36,5, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.8,9.15,340765,NA,NA,0,Idaho State,Idaho State,89
+2009-10,2009-12-11,914785,1613,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1442,Idaho State,31,31,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,28.05,486926,NA,NA,0,Idaho State,Idaho State,89
+2009-10,2009-12-11,914785,1619,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1442,Idaho State,25,25,6, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40,7.35,340765,NA,NA,0,Idaho State,Idaho State,89
+2009-10,2009-12-11,914785,1621,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1669,USC,20,20,5,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,89
+2009-10,2009-12-11,914785,1622,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1442,Idaho State,20,20,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,USC,89
+2009-10,2009-12-11,914785,1627,0,2,USC,Idaho State,Trojans,Bengals,2,3,57,51,6,1442,Idaho State,17,17,3,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,90
+2009-10,2009-12-11,914785,1628,0,2,USC,Idaho State,Trojans,Bengals,2,3,58,51,7,1669,USC,17,17,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,90
+2009-10,2009-12-11,914785,1629,0,2,USC,Idaho State,Trojans,Bengals,2,3,59,51,8,1669,USC,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,90
+2009-10,2009-12-11,914785,1635,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,51,8,1442,Idaho State,14,14,3,Bengals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1637,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,51,8,1442,Idaho State,13,13,1, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,13.15,411144,NA,NA,0,Idaho State,USC,91
+2009-10,2009-12-11,914785,1641,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,51,8,1442,Idaho State,7,7,6,Personal foul committed by Bengals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2009-10,2009-12-11,914785,1642,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,51,8,1669,USC,7,7,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2009-10,2009-12-11,914785,1643,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,51,8,1669,USC,7,7,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Idaho State,92
+2009-10,2009-12-11,914785,1648,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,53,6,1442,Idaho State,3,3,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340768,NA,NA,0,Idaho State,Idaho State,93
+2009-10,2009-12-11,914785,1649,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,53,6,1669,USC,3,3,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,93
+2009-10,2009-12-11,914785,1650,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,53,6,1442,Idaho State,3,3,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,93
+2009-10,2009-12-11,914785,1652,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,53,6,NA,NA,0,0,3,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-11,914785,1653,0,2,USC,Idaho State,Trojans,Bengals,2,2,59,53,6,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Idaho State,Idaho State,NA

@@ -1,0 +1,237 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-21,916986,1,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Auburn,NA
+2009-10,2009-11-21,916986,3,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,0,2,1299,Auburn,2396,1196,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466767,NA,NA,0,Auburn,IUPUI,1
+2009-10,2009-11-21,916986,4,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,0,2,1862,IUPUI,2370,1170,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.45,475547,NA,NA,0,IUPUI,Auburn,2
+2009-10,2009-11-21,916986,5,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,0,2,1299,Auburn,2350,1150,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.7,28.849999999999994,329690,NA,NA,0,Auburn,IUPUI,3
+2009-10,2009-11-21,916986,7,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,0,2,1299,Auburn,2335,1135,15,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,4
+2009-10,2009-11-21,916986,8,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,0,2,1862,IUPUI,2335,1135,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,4
+2009-10,2009-11-21,916986,9,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,1,1,1862,IUPUI,2335,1135,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,4
+2009-10,2009-11-21,916986,11,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,1,1,1299,Auburn,2310,1110,25, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,31.2,8.75,466772,NA,NA,0,Auburn,IUPUI,5
+2009-10,2009-11-21,916986,12,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,1,1,1862,IUPUI,2301,1101,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,Auburn,6
+2009-10,2009-11-21,916986,13,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,1,1,1299,Auburn,2295,1095,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329690,NA,NA,0,Auburn,IUPUI,7
+2009-10,2009-11-21,916986,15,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,3,-1,1862,IUPUI,2288,1088,7, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.2,8.35,475550,NA,NA,0,IUPUI,IUPUI,8
+2009-10,2009-11-21,916986,16,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,3,-1,1299,Auburn,2288,1088,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,8
+2009-10,2009-11-21,916986,17,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,2,4,-2,1862,IUPUI,2288,1088,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,8
+2009-10,2009-11-21,916986,19,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,4,4,0,1299,Auburn,2267,1067,21, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,16.5,7.950000000000003,329687,NA,NA,0,Auburn,IUPUI,9
+2009-10,2009-11-21,916986,21,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,4,4,0,1862,IUPUI,2245,1045,22, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,20.35,475550,NA,NA,0,IUPUI,IUPUI,10
+2009-10,2009-11-21,916986,22,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,4,4,0,1299,Auburn,2244,1044,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,10
+2009-10,2009-11-21,916986,23,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,4,4,0,1862,IUPUI,2244,1044,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,25,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,4,7,-3,1862,IUPUI,2232,1032,12, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,42.5,18.45,410593,NA,NA,0,IUPUI,Auburn,10
+2009-10,2009-11-21,916986,26,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,7,0,1299,Auburn,2199,999,33, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.2,6.450000000000003,466767,NA,NA,0,Auburn,IUPUI,11
+2009-10,2009-11-21,916986,28,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,9,-2,1862,IUPUI,2176,976,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475547,NA,NA,0,IUPUI,Auburn,12
+2009-10,2009-11-21,916986,30,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,9,-2,1862,IUPUI,2172,972,4,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,13
+2009-10,2009-11-21,916986,32,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,9,-2,1299,Auburn,2159,959,13, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29.5,8.950000000000003,466772,NA,NA,0,Auburn,IUPUI,13
+2009-10,2009-11-21,916986,35,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,11,-4,1862,IUPUI,2145,945,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,IUPUI,14
+2009-10,2009-11-21,916986,36,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,11,-4,1299,Auburn,2145,945,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,14
+2009-10,2009-11-21,916986,37,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,11,-4,NA,NA,2145,945,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,38,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,12,-5,1862,IUPUI,2145,945,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,14
+2009-10,2009-11-21,916986,40,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,12,-5,1299,Auburn,2132,932,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,10.650000000000006,509402,NA,NA,0,Auburn,Auburn,15
+2009-10,2009-11-21,916986,42,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,12,-5,1299,Auburn,2122,922,10, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,5.799999999999997,7.950000000000003,509426,NA,NA,0,Auburn,Auburn,15
+2009-10,2009-11-21,916986,43,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,12,-5,1299,Auburn,2122,922,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,45,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,12,-5,1299,Auburn,2096,896,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466772,NA,NA,0,Auburn,IUPUI,15
+2009-10,2009-11-21,916986,48,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2068,868,28, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,35.2,10.05,338675,NA,NA,0,IUPUI,Auburn,16
+2009-10,2009-11-21,916986,50,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1299,Auburn,2058,858,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,55,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2030,830,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,10.65,410582,NA,NA,0,IUPUI,IUPUI,17
+2009-10,2009-11-21,916986,56,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2017,817,13, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,7.75,338675,NA,NA,0,IUPUI,IUPUI,17
+2009-10,2009-11-21,916986,58,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2014,814,3, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,8.15,475550,NA,NA,0,IUPUI,Auburn,17
+2009-10,2009-11-21,916986,60,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2010,810,4,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,18
+2009-10,2009-11-21,916986,61,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1299,Auburn,2010,810,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,62,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1299,Auburn,2010,810,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,65,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,2008,808,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,67,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1299,Auburn,2000,800,8, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,14.549999999999997,509402,NA,NA,0,Auburn,Auburn,18
+2009-10,2009-11-21,916986,68,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1299,Auburn,1995,795,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,12.950000000000003,329690,NA,NA,0,Auburn,IUPUI,18
+2009-10,2009-11-21,916986,69,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,14,-7,1862,IUPUI,1984,784,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410602,NA,NA,0,IUPUI,IUPUI,19
+2009-10,2009-11-21,916986,70,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,16,-9,1862,IUPUI,1981,781,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,Auburn,19
+2009-10,2009-11-21,916986,71,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,16,-9,1862,IUPUI,1966,766,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,22.45,475547,NA,NA,0,IUPUI,IUPUI,20
+2009-10,2009-11-21,916986,75,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,16,-9,1299,Auburn,1957,757,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,76,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,16,-9,1862,IUPUI,1957,757,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,79,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,16,-9,1299,Auburn,1950,750,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,20
+2009-10,2009-11-21,916986,80,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,17,-10,1862,IUPUI,1950,750,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,20
+2009-10,2009-11-21,916986,81,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,17,-10,1862,IUPUI,1950,750,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,82,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1862,IUPUI,1950,750,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,20
+2009-10,2009-11-21,916986,84,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1299,Auburn,1935,735,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18,6.75,509402,NA,NA,0,Auburn,IUPUI,21
+2009-10,2009-11-21,916986,85,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1862,IUPUI,1915,715,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338681,NA,NA,0,IUPUI,IUPUI,22
+2009-10,2009-11-21,916986,87,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1862,IUPUI,1910,710,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27.3,29.25,410593,NA,NA,0,IUPUI,Auburn,22
+2009-10,2009-11-21,916986,91,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1862,IUPUI,1907,707,3,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,23
+2009-10,2009-11-21,916986,92,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,NA,NA,1907,707,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,96,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1299,Auburn,1877,677,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,5.650000000000006,329690,NA,NA,0,Auburn,IUPUI,23
+2009-10,2009-11-21,916986,98,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,18,-11,1299,Auburn,1855,655,22,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,24
+2009-10,2009-11-21,916986,99,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,19,-12,1862,IUPUI,1855,655,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,24
+2009-10,2009-11-21,916986,100,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,19,-12,1299,Auburn,1855,655,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,101,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,19,-12,1299,Auburn,1855,655,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,102,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,20,-13,1862,IUPUI,1855,655,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,24
+2009-10,2009-11-21,916986,109,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,7,20,-13,1299,Auburn,1834,634,21,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,25
+2009-10,2009-11-21,916986,111,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,20,-11,1299,Auburn,1794,594,40, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466771,NA,NA,0,Auburn,IUPUI,26
+2009-10,2009-11-21,916986,113,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,20,-11,1299,Auburn,1787,587,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,115,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,20,-11,1862,IUPUI,1785,585,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475550,NA,NA,0,IUPUI,IUPUI,27
+2009-10,2009-11-21,916986,116,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1862,IUPUI,1778,578,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,Auburn,27
+2009-10,2009-11-21,916986,117,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1299,Auburn,1757,557,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,7.549999999999997,509426,NA,NA,0,Auburn,Auburn,28
+2009-10,2009-11-21,916986,118,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1299,Auburn,1749,549,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37,25.75,329687,NA,NA,0,Auburn,IUPUI,28
+2009-10,2009-11-21,916986,120,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1862,IUPUI,1745,545,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,124,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1862,IUPUI,1739,539,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20,28.05,410593,NA,NA,0,IUPUI,Auburn,29
+2009-10,2009-11-21,916986,125,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,9,22,-13,1299,Auburn,1727,527,12, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,17.799999999999997,6.650000000000006,466767,NA,NA,0,Auburn,Auburn,30
+2009-10,2009-11-21,916986,126,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,11,22,-11,1299,Auburn,1722,522,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329687,NA,NA,0,Auburn,IUPUI,30
+2009-10,2009-11-21,916986,129,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,11,22,-11,1862,IUPUI,1701,501,21,Offensive foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,31
+2009-10,2009-11-21,916986,130,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,11,22,-11,1299,Auburn,1701,501,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,132,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,14,22,-8,1299,Auburn,1689,489,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4,6.450000000000003,509426,NA,NA,0,Auburn,Auburn,32
+2009-10,2009-11-21,916986,134,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,14,22,-8,1862,IUPUI,1666,466,23,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,32
+2009-10,2009-11-21,916986,135,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,14,22,-8,NA,NA,1666,466,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,136,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,14,22,-8,1862,IUPUI,1666,466,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,137,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,15,22,-7,1299,Auburn,1666,466,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,32
+2009-10,2009-11-21,916986,138,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,16,22,-6,1299,Auburn,1666,466,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,32
+2009-10,2009-11-21,916986,142,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,16,24,-8,1862,IUPUI,1649,449,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,Auburn,33
+2009-10,2009-11-21,916986,143,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,16,24,-8,1299,Auburn,1629,429,20, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.2,11.049999999999997,466771,NA,NA,0,Auburn,Auburn,34
+2009-10,2009-11-21,916986,144,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,16,24,-8,1299,Auburn,1624,424,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329687,NA,NA,0,Auburn,Auburn,34
+2009-10,2009-11-21,916986,146,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,18,24,-6,1299,Auburn,1621,421,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329687,NA,NA,0,Auburn,IUPUI,34
+2009-10,2009-11-21,916986,148,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,18,24,-6,1299,Auburn,1618,418,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,35
+2009-10,2009-11-21,916986,149,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,18,24,-6,1862,IUPUI,1618,418,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,150,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,18,24,-6,1862,IUPUI,1618,418,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,35
+2009-10,2009-11-21,916986,153,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,18,24,-6,1862,IUPUI,1612,412,6,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,36
+2009-10,2009-11-21,916986,154,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,19,24,-5,1299,Auburn,1612,412,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,36
+2009-10,2009-11-21,916986,155,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,20,24,-4,1299,Auburn,1612,412,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,36
+2009-10,2009-11-21,916986,159,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,20,24,-4,1862,IUPUI,1598,398,14, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,7.95,338681,NA,NA,0,IUPUI,Auburn,37
+2009-10,2009-11-21,916986,160,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,22,24,-2,1299,Auburn,1592,392,6, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,23.7,11.650000000000006,466767,NA,NA,0,Auburn,IUPUI,38
+2009-10,2009-11-21,916986,161,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,22,27,-5,1862,IUPUI,1571,371,21, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,42.7,15.85,522850,NA,NA,0,IUPUI,Auburn,39
+2009-10,2009-11-21,916986,163,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,22,27,-5,1862,IUPUI,1549,349,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,167,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,22,29,-7,1862,IUPUI,1535,335,14, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,40.5,17.05,475547,NA,NA,0,IUPUI,Auburn,40
+2009-10,2009-11-21,916986,169,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,22,29,-7,1862,IUPUI,1526,326,9,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,41
+2009-10,2009-11-21,916986,170,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,23,29,-6,1299,Auburn,1526,326,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,41
+2009-10,2009-11-21,916986,171,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,23,29,-6,1299,Auburn,1526,326,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,172,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,29,-5,1299,Auburn,1526,326,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,41
+2009-10,2009-11-21,916986,175,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,29,-5,1862,IUPUI,1520,320,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,179,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,29,-5,1862,IUPUI,1504,304,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,13.55,522850,NA,NA,0,IUPUI,IUPUI,42
+2009-10,2009-11-21,916986,180,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,29,-5,1862,IUPUI,1497,297,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338675,NA,NA,0,IUPUI,IUPUI,42
+2009-10,2009-11-21,916986,181,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,31,-7,1862,IUPUI,1482,282,15, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25,11.45,338675,NA,NA,0,IUPUI,Auburn,42
+2009-10,2009-11-21,916986,183,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,24,31,-7,1862,IUPUI,1476,276,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,189,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,27,31,-4,1299,Auburn,1467,267,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,5.700000000000003,19.950000000000003,509426,NA,NA,0,Auburn,IUPUI,43
+2009-10,2009-11-21,916986,192,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,27,33,-6,1862,IUPUI,1449,249,18, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.3,7.35,338675,NA,NA,0,IUPUI,Auburn,44
+2009-10,2009-11-21,916986,193,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,29,33,-4,1299,Auburn,1434,234,15, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26,11.650000000000006,466772,NA,NA,0,Auburn,IUPUI,45
+2009-10,2009-11-21,916986,198,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,29,33,-4,1862,IUPUI,1411,211,23,Offensive foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,46
+2009-10,2009-11-21,916986,199,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,29,33,-4,NA,NA,1411,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,201,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,33,-1,1299,Auburn,1383,183,28, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,28.3,29.650000000000006,329690,NA,NA,0,Auburn,IUPUI,47
+2009-10,2009-11-21,916986,204,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,33,-1,1299,Auburn,1354,154,29,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,48
+2009-10,2009-11-21,916986,205,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,34,-2,1862,IUPUI,1354,154,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,48
+2009-10,2009-11-21,916986,206,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,34,-2,1862,IUPUI,1354,154,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,207,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,35,-3,1862,IUPUI,1354,154,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,48
+2009-10,2009-11-21,916986,209,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,32,35,-3,1299,Auburn,1334,134,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,22.650000000000006,329690,NA,NA,0,Auburn,Auburn,49
+2009-10,2009-11-21,916986,210,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,34,35,-1,1299,Auburn,1328,128,6, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,23.2,18.549999999999997,466767,NA,NA,0,Auburn,IUPUI,49
+2009-10,2009-11-21,916986,211,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,34,35,-1,1862,IUPUI,1305,105,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,19.35,475547,NA,NA,0,IUPUI,Auburn,50
+2009-10,2009-11-21,916986,212,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,37,35,2,1299,Auburn,1282,82,23, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46,6.450000000000003,329690,NA,NA,0,Auburn,IUPUI,51
+2009-10,2009-11-21,916986,213,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,37,35,2,1299,Auburn,1249,49,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,13.150000000000006,329687,NA,NA,0,Auburn,Auburn,52
+2009-10,2009-11-21,916986,214,0,1,Auburn,IUPUI,Tigers,Jaguars,4,4,39,35,4,1299,Auburn,1235,35,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329690,NA,NA,0,Auburn,IUPUI,52
+2009-10,2009-11-21,916986,216,0,1,Auburn,IUPUI,Tigers,Jaguars,4,3,39,35,4,1862,IUPUI,1230,30,5,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,231,0,1,Auburn,IUPUI,Tigers,Jaguars,4,3,39,35,4,1862,IUPUI,1208,8,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,19.75,475550,NA,NA,0,IUPUI,Auburn,53
+2009-10,2009-11-21,916986,235,0,1,Auburn,IUPUI,Tigers,Jaguars,3,3,39,35,4,1299,Auburn,1204,4,4,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,237,0,1,Auburn,IUPUI,Tigers,Jaguars,3,3,41,35,6,1299,Auburn,1201,1,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329690,NA,NA,0,Auburn,Auburn,54
+2009-10,2009-11-21,916986,238,0,1,Auburn,IUPUI,Tigers,Jaguars,3,3,41,35,6,1862,IUPUI,1201,1,0,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,54
+2009-10,2009-11-21,916986,239,0,1,Auburn,IUPUI,Tigers,Jaguars,3,3,41,35,6,1299,Auburn,1201,1,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,54
+2009-10,2009-11-21,916986,241,0,1,Auburn,IUPUI,Tigers,Jaguars,3,3,41,35,6,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,242,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,41,35,6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Auburn,54
+2009-10,2009-11-21,916986,246,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,44,35,9,1299,Auburn,1160,1160,40, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.299999999999997,22.650000000000006,466767,NA,NA,0,Auburn,IUPUI,55
+2009-10,2009-11-21,916986,248,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,44,35,9,1299,Auburn,1135,1135,25,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,56
+2009-10,2009-11-21,916986,249,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,44,36,8,1862,IUPUI,1135,1135,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,56
+2009-10,2009-11-21,916986,250,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,44,37,7,1862,IUPUI,1135,1135,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,56
+2009-10,2009-11-21,916986,252,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,47,37,10,1299,Auburn,1127,1127,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,8.299999999999997,20.349999999999994,509426,NA,NA,0,Auburn,IUPUI,57
+2009-10,2009-11-21,916986,253,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,47,37,10,1862,IUPUI,1104,1104,23, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.2,10.85,475547,NA,NA,0,IUPUI,Auburn,58
+2009-10,2009-11-21,916986,255,0,2,Auburn,IUPUI,Tigers,Jaguars,4,4,49,37,12,1299,Auburn,1088,1088,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509426,NA,NA,0,Auburn,IUPUI,59
+2009-10,2009-11-21,916986,257,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,49,37,12,1862,IUPUI,1086,1086,2,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,258,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,49,37,12,1862,IUPUI,1086,1086,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,266,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,49,37,12,1862,IUPUI,1058,1058,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338681,NA,NA,0,IUPUI,Auburn,60
+2009-10,2009-11-21,916986,267,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,51,37,14,1299,Auburn,1051,1051,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466767,NA,NA,0,Auburn,IUPUI,61
+2009-10,2009-11-21,916986,271,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,51,37,14,1862,IUPUI,1023,1023,28,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,62
+2009-10,2009-11-21,916986,272,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,51,37,14,1862,IUPUI,1023,1023,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,273,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,51,37,14,1299,Auburn,1023,1023,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,275,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,53,37,16,1299,Auburn,1011,1011,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466771,NA,NA,0,Auburn,IUPUI,62
+2009-10,2009-11-21,916986,276,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,53,40,13,1862,IUPUI,989,989,22, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.7,21.85,410582,NA,NA,0,IUPUI,Auburn,63
+2009-10,2009-11-21,916986,277,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,40,15,1299,Auburn,976,976,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466771,NA,NA,0,Auburn,IUPUI,64
+2009-10,2009-11-21,916986,279,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,40,15,1299,Auburn,965,965,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,65
+2009-10,2009-11-21,916986,280,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,40,15,1862,IUPUI,965,965,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,281,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,40,15,1299,Auburn,965,965,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,283,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,42,13,1862,IUPUI,955,955,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,Auburn,65
+2009-10,2009-11-21,916986,286,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,42,13,1862,IUPUI,943,943,12,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,66
+2009-10,2009-11-21,916986,287,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,55,42,13,NA,NA,943,943,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,289,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,57,42,15,1299,Auburn,930,930,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,466771,NA,NA,0,Auburn,IUPUI,66
+2009-10,2009-11-21,916986,291,0,2,Auburn,IUPUI,Tigers,Jaguars,4,3,57,42,15,1299,Auburn,917,917,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,293,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,57,42,15,1862,IUPUI,916,916,1,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,297,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,57,42,15,1299,Auburn,913,913,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,67
+2009-10,2009-11-21,916986,299,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,57,42,15,1862,IUPUI,897,897,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41,20.35,410582,NA,NA,0,IUPUI,Auburn,67
+2009-10,2009-11-21,916986,301,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,57,42,15,1862,IUPUI,871,871,26,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,68
+2009-10,2009-11-21,916986,302,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,58,42,16,1299,Auburn,871,871,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,68
+2009-10,2009-11-21,916986,303,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,42,17,1299,Auburn,871,871,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,68
+2009-10,2009-11-21,916986,305,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,44,15,1862,IUPUI,856,856,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475547,NA,NA,0,IUPUI,Auburn,69
+2009-10,2009-11-21,916986,307,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,44,15,1862,IUPUI,851,851,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,311,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,44,15,1862,IUPUI,826,826,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,12.05,475547,NA,NA,0,IUPUI,Auburn,70
+2009-10,2009-11-21,916986,312,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,44,15,1299,Auburn,818,818,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399720,NA,NA,0,Auburn,IUPUI,71
+2009-10,2009-11-21,916986,314,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1862,IUPUI,811,811,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,IUPUI,72
+2009-10,2009-11-21,916986,315,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,811,811,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,72
+2009-10,2009-11-21,916986,316,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,811,811,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,317,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1862,IUPUI,811,811,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,72
+2009-10,2009-11-21,916986,320,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,806,806,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,326,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,770,770,36,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,330,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,744,744,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,19.75,466767,NA,NA,0,Auburn,IUPUI,73
+2009-10,2009-11-21,916986,336,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1862,IUPUI,726,726,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,344,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,NA,NA,715,715,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,347,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,714,714,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,74
+2009-10,2009-11-21,916986,350,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,46,13,1299,Auburn,704,704,10,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,74
+2009-10,2009-11-21,916986,351,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,47,12,1862,IUPUI,704,704,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,74
+2009-10,2009-11-21,916986,352,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,48,11,1862,IUPUI,704,704,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,74
+2009-10,2009-11-21,916986,353,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,48,11,1299,Auburn,704,704,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,359,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,50,9,1862,IUPUI,675,675,29, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,11.3,9.15,338675,NA,NA,0,IUPUI,Auburn,75
+2009-10,2009-11-21,916986,360,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,59,50,9,1299,Auburn,649,649,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,9.150000000000006,329690,NA,NA,0,Auburn,Auburn,76
+2009-10,2009-11-21,916986,361,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,61,50,11,1299,Auburn,643,643,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509426,NA,NA,0,Auburn,IUPUI,76
+2009-10,2009-11-21,916986,363,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,63,50,13,1299,Auburn,602,602,41, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,37.5,7.549999999999997,509426,NA,NA,0,Auburn,Auburn,77
+2009-10,2009-11-21,916986,364,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,63,50,13,1862,IUPUI,602,602,0,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,77
+2009-10,2009-11-21,916986,365,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,50,14,1299,Auburn,602,602,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,77
+2009-10,2009-11-21,916986,368,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,50,14,1862,IUPUI,594,594,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,372,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,52,12,1862,IUPUI,581,581,13, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,32,15.55,338681,NA,NA,0,IUPUI,Auburn,78
+2009-10,2009-11-21,916986,373,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,52,12,1299,Auburn,571,571,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466772,NA,NA,0,Auburn,IUPUI,79
+2009-10,2009-11-21,916986,374,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,54,10,1862,IUPUI,553,553,18, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,24.2,10.25,475550,NA,NA,0,IUPUI,Auburn,80
+2009-10,2009-11-21,916986,376,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,64,54,10,1862,IUPUI,541,541,12,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,81
+2009-10,2009-11-21,916986,377,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1299,Auburn,541,541,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,81
+2009-10,2009-11-21,916986,378,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1862,IUPUI,541,541,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,379,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1299,Auburn,541,541,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,380,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1299,Auburn,541,541,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,81
+2009-10,2009-11-21,916986,383,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1299,Auburn,523,523,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,15.650000000000006,329690,NA,NA,0,Auburn,Auburn,81
+2009-10,2009-11-21,916986,384,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1299,Auburn,522,522,1, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24,7.950000000000003,509426,NA,NA,0,Auburn,Auburn,81
+2009-10,2009-11-21,916986,387,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,65,54,11,1862,IUPUI,520,520,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,389,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,54,14,1299,Auburn,496,496,24, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,27.5,30.35,466767,NA,NA,0,Auburn,IUPUI,81
+2009-10,2009-11-21,916986,390,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,56,12,1862,IUPUI,483,483,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,Auburn,82
+2009-10,2009-11-21,916986,398,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,56,12,1862,IUPUI,447,447,36,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,83
+2009-10,2009-11-21,916986,399,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,56,12,NA,NA,447,447,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,402,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,56,12,1299,Auburn,405,405,42,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,83
+2009-10,2009-11-21,916986,403,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,57,11,1862,IUPUI,405,405,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,83
+2009-10,2009-11-21,916986,404,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1862,IUPUI,405,405,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,84
+2009-10,2009-11-21,916986,407,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1299,Auburn,368,368,37, misses a 3-point jump shot from 31 feet out.,missed,FALSE,TRUE,Jump Shot,12.200000000000003,33.45,509426,NA,NA,0,Auburn,Auburn,85
+2009-10,2009-11-21,916986,409,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1862,IUPUI,367,367,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,414,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1299,Auburn,331,331,36,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,417,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1299,Auburn,307,307,24, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,6.650000000000006,329690,NA,NA,0,Auburn,IUPUI,85
+2009-10,2009-11-21,916986,421,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1299,Auburn,303,303,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,86
+2009-10,2009-11-21,916986,422,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1862,IUPUI,303,303,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Auburn,86
+2009-10,2009-11-21,916986,425,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1299,Auburn,269,269,34, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,6.049999999999997,329687,NA,NA,0,Auburn,IUPUI,87
+2009-10,2009-11-21,916986,429,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,68,58,10,1862,IUPUI,253,253,16, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,31.2,30.25,410582,NA,NA,0,IUPUI,Auburn,88
+2009-10,2009-11-21,916986,432,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,70,58,12,1299,Auburn,243,243,10, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28.3,9.849999999999994,329690,NA,NA,0,Auburn,IUPUI,89
+2009-10,2009-11-21,916986,438,0,2,Auburn,IUPUI,Tigers,Jaguars,4,2,70,61,9,1862,IUPUI,222,222,21, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,29.7,28.45,410593,NA,NA,0,IUPUI,Auburn,90
+2009-10,2009-11-21,916986,441,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,70,61,9,1862,IUPUI,219,219,3,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,443,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,73,61,12,1299,Auburn,202,202,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.200000000000003,6.75,466767,NA,NA,0,Auburn,IUPUI,91
+2009-10,2009-11-21,916986,444,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,73,63,10,1862,IUPUI,188,188,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,Auburn,92
+2009-10,2009-11-21,916986,448,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,73,63,10,NA,NA,176,176,12,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,449,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,73,63,10,1862,IUPUI,176,176,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,452,0,2,Auburn,IUPUI,Tigers,Jaguars,4,1,76,63,13,1299,Auburn,152,152,24, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.700000000000003,12.25,329690,NA,NA,0,Auburn,IUPUI,93
+2009-10,2009-11-21,916986,454,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,76,63,13,1299,Auburn,150,150,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,456,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,76,63,13,1862,IUPUI,135,135,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,6.95,475550,NA,NA,0,IUPUI,IUPUI,94
+2009-10,2009-11-21,916986,457,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,76,63,13,1862,IUPUI,128,128,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,16.7,28.65,475547,NA,NA,0,IUPUI,Auburn,94
+2009-10,2009-11-21,916986,459,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,76,63,13,1862,IUPUI,112,112,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,463,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,78,63,15,1299,Auburn,107,107,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329690,NA,NA,0,Auburn,IUPUI,95
+2009-10,2009-11-21,916986,464,0,2,Auburn,IUPUI,Tigers,Jaguars,3,1,78,63,15,1862,IUPUI,94,94,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.8,28.65,410593,NA,NA,0,IUPUI,Auburn,96
+2009-10,2009-11-21,916986,467,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,78,63,15,1299,Auburn,85,85,9,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,468,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,78,63,15,1299,Auburn,85,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,472,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,78,63,15,1862,IUPUI,69,69,16,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,97
+2009-10,2009-11-21,916986,473,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,78,63,15,1862,IUPUI,69,69,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,474,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,79,63,16,1299,Auburn,69,69,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,97
+2009-10,2009-11-21,916986,475,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,79,63,16,1862,IUPUI,69,69,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,916986,476,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,63,17,1299,Auburn,69,69,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,IUPUI,98
+2009-10,2009-11-21,916986,479,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,65,15,1862,IUPUI,58,58,11, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,26,16.05,522850,NA,NA,0,IUPUI,Auburn,99
+2009-10,2009-11-21,916986,483,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,65,15,1299,Auburn,25,25,33, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,17.650000000000006,329687,NA,NA,0,Auburn,IUPUI,100
+2009-10,2009-11-21,916986,484,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,65,15,1862,IUPUI,10,10,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,29.65,338675,NA,NA,0,IUPUI,NA,101
+2009-10,2009-11-21,916986,487,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,65,15,NA,NA,0,0,10,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,916986,488,0,2,Auburn,IUPUI,Tigers,Jaguars,2,1,80,65,15,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,NA

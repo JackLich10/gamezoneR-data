@@ -1,0 +1,188 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-23,1009822,1,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Auburn,NA
+2010-11,2011-02-23,1009822,5,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,0,2,-2,1299,Auburn,2348,1148,52, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,553794,NA,NA,0,Auburn,Alabama,1
+2010-11,2011-02-23,1009822,10,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,2,-1,1284,Alabama,2329,1129,19, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,2
+2010-11,2011-02-23,1009822,11,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,2,-1,1284,Alabama,2329,1129,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,2
+2010-11,2011-02-23,1009822,12,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,2,-1,1284,Alabama,2301,1101,28, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24,9.25,460833,NA,NA,0,Alabama,Auburn,2
+2010-11,2011-02-23,1009822,13,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1299,Auburn,2301,1101,0, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.5,12.75,466763,NA,NA,0,Auburn,Alabama,3
+2010-11,2011-02-23,1009822,13.75,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2275,1075,26, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12,12.25,460836,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,14.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2275,1075,0, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24,9.25,460836,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,16,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2275,1075,0, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,14.549999999999997,512933,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,18,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1299,Auburn,2265,1065,10,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,20,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1299,Auburn,2265,1065,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,23,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1299,Auburn,2261,1061,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,26,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1299,Auburn,2256,1056,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,29,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2235,1035,21,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,4
+2010-11,2011-02-23,1009822,30,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2225,1025,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25,29.25,512933,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-02-23,1009822,30.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,4,-3,1284,Alabama,2225,1025,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,6.25,512933,NA,NA,0,Alabama,Auburn,4
+2010-11,2011-02-23,1009822,31,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,6,-5,1299,Auburn,2225,1025,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466763,NA,NA,0,Auburn,Alabama,5
+2010-11,2011-02-23,1009822,36,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,6,-5,1284,Alabama,2174,974,51, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,30.049999999999997,512933,NA,NA,0,Alabama,Auburn,6
+2010-11,2011-02-23,1009822,39,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,6,-5,NA,NA,2157,957,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,41,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,8,-7,1299,Auburn,2141,941,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553796,NA,NA,0,Auburn,Auburn,7
+2010-11,2011-02-23,1009822,45,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,8,-7,1284,Alabama,2102,902,39,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,7
+2010-11,2011-02-23,1009822,46,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2102,902,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,7
+2010-11,2011-02-23,1009822,47,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2102,902,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,7
+2010-11,2011-02-23,1009822,51,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1284,Alabama,2090,890,12, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,19.549999999999997,460833,NA,NA,0,Alabama,Auburn,8
+2010-11,2011-02-23,1009822,53,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1284,Alabama,2085,885,5,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,56,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1284,Alabama,2079,879,6,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,57,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2079,879,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,58,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2079,879,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,58.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2073,873,6, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,25,8.25,466763,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,59,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,9,-8,1299,Auburn,2073,873,0, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24,23.25,466763,NA,NA,0,Auburn,Auburn,9
+2010-11,2011-02-23,1009822,60,0,1,Alabama,Auburn,Crimson Tide,Tigers,4,4,1,11,-10,1299,Auburn,2073,873,0, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.5,8.55,466768,NA,NA,0,Auburn,Alabama,9
+2010-11,2011-02-23,1009822,63,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,1,11,-10,1284,Alabama,2061,861,12,Crimson Tide take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,67.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,1,11,-10,1299,Auburn,2004,804,57,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,10
+2010-11,2011-02-23,1009822,72,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,2,11,-9,1284,Alabama,2004,804,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,10
+2010-11,2011-02-23,1009822,73,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,3,11,-8,1284,Alabama,2004,804,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,10
+2010-11,2011-02-23,1009822,79,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,3,11,-8,1299,Auburn,1960,760,44, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466768,NA,NA,0,Auburn,Auburn,11
+2010-11,2011-02-23,1009822,80,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,3,13,-10,1299,Auburn,1956,756,4, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.75,509427,NA,NA,0,Auburn,Alabama,11
+2010-11,2011-02-23,1009822,85,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,13,-7,1284,Alabama,1926,726,30, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.3,30.25,399641,NA,NA,0,Alabama,Auburn,12
+2010-11,2011-02-23,1009822,87,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,13,-7,1284,Alabama,1912,712,14,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,13
+2010-11,2011-02-23,1009822,88,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,13,-7,NA,NA,1912,712,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,89,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,13,-7,1299,Auburn,1912,712,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,13
+2010-11,2011-02-23,1009822,90,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,13,-7,1299,Auburn,1912,712,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,13
+2010-11,2011-02-23,1009822,91,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,14,-8,1299,Auburn,1912,712,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,13
+2010-11,2011-02-23,1009822,94,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,14,-8,1284,Alabama,1893,693,19, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,18.950000000000003,460833,NA,NA,0,Alabama,Alabama,14
+2010-11,2011-02-23,1009822,96,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,14,-8,1284,Alabama,1861,661,32, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25,30.25,553767,NA,NA,0,Alabama,Auburn,14
+2010-11,2011-02-23,1009822,98,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,14,-8,1299,Auburn,1861,661,0, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,14.75,466763,NA,NA,0,Auburn,Alabama,15
+2010-11,2011-02-23,1009822,99,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,6,14,-8,1299,Auburn,1857,657,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,16
+2010-11,2011-02-23,1009822,100,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,7,14,-7,1284,Alabama,1857,657,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,16
+2010-11,2011-02-23,1009822,101,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,8,14,-6,1284,Alabama,1857,657,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,16
+2010-11,2011-02-23,1009822,104,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,4,10,14,-4,1284,Alabama,1825,625,32, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,24.8,22.049999999999997,460833,NA,NA,0,Alabama,Auburn,17
+2010-11,2011-02-23,1009822,107,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,10,14,-4,1299,Auburn,1822,622,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,118,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,10,14,-4,1299,Auburn,1773,573,49, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.2,8.35,509427,NA,NA,0,Auburn,Alabama,18
+2010-11,2011-02-23,1009822,120,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,10,14,-4,1299,Auburn,1756,556,17,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,19
+2010-11,2011-02-23,1009822,121,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,11,14,-3,1284,Alabama,1756,556,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,19
+2010-11,2011-02-23,1009822,122,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,12,14,-2,1284,Alabama,1756,556,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,19
+2010-11,2011-02-23,1009822,122.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,12,14,-2,1299,Auburn,1751,551,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,31,18.25,553796,NA,NA,0,Auburn,Auburn,20
+2010-11,2011-02-23,1009822,123,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,12,14,-2,1299,Auburn,1751,551,0, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,18,20.25,553796,NA,NA,0,Auburn,Alabama,20
+2010-11,2011-02-23,1009822,124,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,12,14,-2,1284,Alabama,1751,551,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512935,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-02-23,1009822,125,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,12,14,-2,1299,Auburn,1747,547,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-02-23,1009822,126,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,13,14,-1,1284,Alabama,1747,547,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-02-23,1009822,127,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,14,0,1284,Alabama,1747,547,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,21
+2010-11,2011-02-23,1009822,129,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,16,-2,1299,Auburn,1732,532,15, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.7,9.15,509426,NA,NA,0,Auburn,Alabama,22
+2010-11,2011-02-23,1009822,132,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,18,-4,1299,Auburn,1702,502,30, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,20,19.55,466768,NA,NA,0,Auburn,Alabama,23
+2010-11,2011-02-23,1009822,135,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,18,-4,NA,NA,1671,471,31,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,141,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,20,-6,1299,Auburn,1656,456,15, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,24.7,17.85,553795,NA,NA,0,Auburn,Alabama,24
+2010-11,2011-02-23,1009822,142,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,20,-6,1284,Alabama,1627,427,29, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,20.549999999999997,460833,NA,NA,0,Alabama,Alabama,25
+2010-11,2011-02-23,1009822,144,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,20,-6,1284,Alabama,1616,416,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,23.650000000000006,460836,NA,NA,0,Alabama,Alabama,25
+2010-11,2011-02-23,1009822,147,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,14,20,-6,1299,Auburn,1610,410,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,25
+2010-11,2011-02-23,1009822,148,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,15,20,-5,1284,Alabama,1610,410,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,25
+2010-11,2011-02-23,1009822,149,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,20,-4,1284,Alabama,1610,410,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,25
+2010-11,2011-02-23,1009822,151,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,20,-4,1284,Alabama,1592,392,18,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,26
+2010-11,2011-02-23,1009822,153,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,20,-4,1284,Alabama,1592,392,0,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,26
+2010-11,2011-02-23,1009822,155,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,22,-6,1299,Auburn,1592,392,0, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8.8,9.65,466768,NA,NA,0,Auburn,Alabama,26
+2010-11,2011-02-23,1009822,156,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,24,-8,1299,Auburn,1507,307,85, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.5,8.75,553794,NA,NA,0,Auburn,Alabama,27
+2010-11,2011-02-23,1009822,158,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,24,-8,1284,Alabama,1490,290,17,Offensive foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,28
+2010-11,2011-02-23,1009822,159,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,24,-8,1299,Auburn,1477,277,13, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,29
+2010-11,2011-02-23,1009822,160,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,26,-10,1299,Auburn,1477,277,0, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,24.8,21.15,399720,NA,NA,0,Auburn,Alabama,29
+2010-11,2011-02-23,1009822,160.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,26,-10,1299,Auburn,1450,250,27,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,30
+2010-11,2011-02-23,1009822,161,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,26,-10,1284,Alabama,1450,250,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460838,NA,NA,0,Alabama,Auburn,30
+2010-11,2011-02-23,1009822,164,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,26,-10,NA,NA,1420,220,30,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,164.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,26,-10,1284,Alabama,1420,220,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,31
+2010-11,2011-02-23,1009822,165,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,27,-11,1299,Auburn,1420,220,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,31
+2010-11,2011-02-23,1009822,166,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,28,-12,1299,Auburn,1420,220,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,31
+2010-11,2011-02-23,1009822,170,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,16,31,-15,1299,Auburn,1386,186,34, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,8.5,22.25,553796,NA,NA,0,Auburn,Alabama,32
+2010-11,2011-02-23,1009822,171,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,18,31,-13,1284,Alabama,1362,162,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460833,NA,NA,0,Alabama,Auburn,33
+2010-11,2011-02-23,1009822,174,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,20,31,-11,1284,Alabama,1313,113,49, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.950000000000003,460833,NA,NA,0,Alabama,Alabama,34
+2010-11,2011-02-23,1009822,178,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,20,31,-11,1299,Auburn,1290,90,23,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,34
+2010-11,2011-02-23,1009822,179,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,21,31,-10,1284,Alabama,1290,90,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,34
+2010-11,2011-02-23,1009822,180,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1284,Alabama,1290,90,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,34
+2010-11,2011-02-23,1009822,181.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1284,Alabama,1237,37,53, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,30,19.25,460833,NA,NA,0,Alabama,Auburn,35
+2010-11,2011-02-23,1009822,182.25,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1299,Auburn,1237,37,0, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38,12.25,466768,NA,NA,0,Auburn,Alabama,36
+2010-11,2011-02-23,1009822,183,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1284,Alabama,1237,37,0, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,20,20.25,460833,NA,NA,0,Alabama,Alabama,37
+2010-11,2011-02-23,1009822,184.5,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1284,Alabama,1237,37,0, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24,9.25,399641,NA,NA,0,Alabama,Auburn,37
+2010-11,2011-02-23,1009822,184.875,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1299,Auburn,1237,37,0, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,30,18.25,466768,NA,NA,0,Auburn,Auburn,38
+2010-11,2011-02-23,1009822,185.25,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,22,31,-9,1299,Auburn,1237,37,0, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,19,21.25,466768,NA,NA,0,Auburn,Alabama,38
+2010-11,2011-02-23,1009822,186,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,25,31,-6,1284,Alabama,1237,37,0, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.3,22.25,553764,NA,NA,0,Alabama,Auburn,39
+2010-11,2011-02-23,1009822,203,0,1,Alabama,Auburn,Crimson Tide,Tigers,3,3,25,31,-6,NA,NA,1200,0,37,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,211,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,4,25,31,-6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Auburn,40
+2010-11,2011-02-23,1009822,215,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,4,25,31,-6,1299,Auburn,1164,1164,36, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,30.25,466768,NA,NA,0,Auburn,Auburn,41
+2010-11,2011-02-23,1009822,224,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,4,25,34,-9,1299,Auburn,1086,1086,78, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,8.3,22.25,509426,NA,NA,0,Auburn,Alabama,41
+2010-11,2011-02-23,1009822,230,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,4,25,34,-9,1299,Auburn,1065,1065,21,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,42
+2010-11,2011-02-23,1009822,238,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,25,34,-9,1299,Auburn,1028,1028,37,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,251,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,25,34,-9,1284,Alabama,983,983,45,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,42
+2010-11,2011-02-23,1009822,252,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,25,35,-10,1299,Auburn,983,983,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,42
+2010-11,2011-02-23,1009822,253,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,25,35,-10,1299,Auburn,983,983,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,42
+2010-11,2011-02-23,1009822,256,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,27,35,-8,1284,Alabama,972,972,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,19.3,21.450000000000003,553764,NA,NA,0,Alabama,Auburn,43
+2010-11,2011-02-23,1009822,258,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,27,35,-8,NA,NA,959,959,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,259,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,27,35,-8,1299,Auburn,959,959,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,6.75,466763,NA,NA,0,Auburn,Alabama,44
+2010-11,2011-02-23,1009822,261,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,35,-6,1284,Alabama,958,958,1, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.3,9.349999999999994,512935,NA,NA,0,Alabama,Auburn,45
+2010-11,2011-02-23,1009822,262,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1299,Auburn,924,924,34, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,14,22.25,553791,NA,NA,0,Auburn,Alabama,46
+2010-11,2011-02-23,1009822,265,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1299,Auburn,892,892,32,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,47
+2010-11,2011-02-23,1009822,270,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1299,Auburn,878,878,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,47
+2010-11,2011-02-23,1009822,271,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1284,Alabama,878,878,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,47
+2010-11,2011-02-23,1009822,272,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1284,Alabama,878,878,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,47
+2010-11,2011-02-23,1009822,274,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,37,-8,1299,Auburn,853,853,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,7.75,553791,NA,NA,0,Auburn,Auburn,48
+2010-11,2011-02-23,1009822,276,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,38,-9,1299,Auburn,846,846,7, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,48
+2010-11,2011-02-23,1009822,277,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,38,-9,1299,Auburn,846,846,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,48
+2010-11,2011-02-23,1009822,281,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,38,-9,1299,Auburn,779,779,67, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9,9.15,466768,NA,NA,0,Auburn,Alabama,48
+2010-11,2011-02-23,1009822,283,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,38,-9,1299,Auburn,772,772,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,49
+2010-11,2011-02-23,1009822,287,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,38,-9,1284,Alabama,751,751,21, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,30.75,460838,NA,NA,0,Alabama,Auburn,49
+2010-11,2011-02-23,1009822,288,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,41,-12,1299,Auburn,737,737,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,9,23.85,509426,NA,NA,0,Auburn,Alabama,50
+2010-11,2011-02-23,1009822,293,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,41,-12,1299,Auburn,666,666,71,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,51
+2010-11,2011-02-23,1009822,294,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,41,-12,NA,NA,666,666,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,299,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,29,41,-12,1299,Auburn,608,608,58,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,51
+2010-11,2011-02-23,1009822,300,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1284,Alabama,608,608,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,51
+2010-11,2011-02-23,1009822,301,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1284,Alabama,608,608,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,51
+2010-11,2011-02-23,1009822,304,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1284,Alabama,607,607,1,Offensive foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,51
+2010-11,2011-02-23,1009822,308,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1299,Auburn,598,598,9,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,308.5,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1284,Alabama,598,598,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,309,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,30,41,-11,1299,Auburn,598,598,0,Technical foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,310,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,31,41,-10,1284,Alabama,598,598,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,310.25,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,31,41,-10,1284,Alabama,598,598,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,310.5,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,31,41,-10,1284,Alabama,598,598,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,311,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,31,41,-10,1284,Alabama,598,598,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,319,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,31,41,-10,1284,Alabama,590,590,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,23.450000000000003,512933,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,322,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,33,41,-8,1284,Alabama,503,503,87, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553767,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,323,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,33,41,-8,1299,Auburn,503,503,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,52
+2010-11,2011-02-23,1009822,324,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,41,-7,1284,Alabama,503,503,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,52
+2010-11,2011-02-23,1009822,336,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,41,-7,NA,NA,468,468,35,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,343,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,41,-7,1284,Alabama,462,462,6,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,53
+2010-11,2011-02-23,1009822,344,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,42,-8,1299,Auburn,462,462,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,53
+2010-11,2011-02-23,1009822,345,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,43,-9,1299,Auburn,462,462,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,53
+2010-11,2011-02-23,1009822,348,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,43,-9,1284,Alabama,438,438,24,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,53
+2010-11,2011-02-23,1009822,349,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,43,-9,1299,Auburn,438,438,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,53
+2010-11,2011-02-23,1009822,352,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,34,43,-9,1299,Auburn,437,437,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,54
+2010-11,2011-02-23,1009822,353,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,35,43,-8,1284,Alabama,437,437,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,54
+2010-11,2011-02-23,1009822,354,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,36,43,-7,1284,Alabama,437,437,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,54
+2010-11,2011-02-23,1009822,361,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,37,43,-6,1284,Alabama,377,377,60, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,55
+2010-11,2011-02-23,1009822,362,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,38,43,-5,1284,Alabama,377,377,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,55
+2010-11,2011-02-23,1009822,374,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,39,43,-4,1284,Alabama,279,279,98, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,56
+2010-11,2011-02-23,1009822,375,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,40,43,-3,1284,Alabama,279,279,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,56
+2010-11,2011-02-23,1009822,379,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,40,43,-3,1284,Alabama,251,251,28,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,57
+2010-11,2011-02-23,1009822,383,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,40,43,-3,1284,Alabama,251,251,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,57
+2010-11,2011-02-23,1009822,384,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1284,Alabama,251,251,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,57
+2010-11,2011-02-23,1009822,387,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1284,Alabama,236,236,15,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,58
+2010-11,2011-02-23,1009822,389,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,NA,NA,235,235,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,390,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1299,Auburn,235,235,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,6.75,399720,NA,NA,0,Auburn,Auburn,58
+2010-11,2011-02-23,1009822,394,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1299,Auburn,234,234,1, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,58
+2010-11,2011-02-23,1009822,397,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1299,Auburn,233,233,1, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,58
+2010-11,2011-02-23,1009822,401,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,41,43,-2,1284,Alabama,209,209,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,18.549999999999997,512933,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-02-23,1009822,402,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,3,43,43,0,1284,Alabama,205,205,4, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.5,8.950000000000003,460838,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-02-23,1009822,405,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,43,43,0,1299,Auburn,204,204,1,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,411,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,43,43,0,1299,Auburn,180,180,24,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-02-23,1009822,412,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,43,43,0,1299,Auburn,180,180,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-02-23,1009822,413,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,43,43,0,1284,Alabama,180,180,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-02-23,1009822,414,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,44,43,1,1284,Alabama,180,180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,59
+2010-11,2011-02-23,1009822,416,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,44,45,-1,1299,Auburn,159,159,21, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.7,12.45,399720,NA,NA,0,Auburn,Alabama,60
+2010-11,2011-02-23,1009822,418,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,44,45,-1,1299,Auburn,140,140,19,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,61
+2010-11,2011-02-23,1009822,419,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,45,45,0,1284,Alabama,140,140,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,61
+2010-11,2011-02-23,1009822,420,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,45,45,0,1284,Alabama,140,140,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,61
+2010-11,2011-02-23,1009822,422,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,45,45,0,1284,Alabama,112,112,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460838,NA,NA,0,Alabama,Alabama,61
+2010-11,2011-02-23,1009822,423,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,45,2,1284,Alabama,106,106,6, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.75,460836,NA,NA,0,Alabama,Auburn,61
+2010-11,2011-02-23,1009822,432,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,45,2,1284,Alabama,59,59,47,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,62
+2010-11,2011-02-23,1009822,433,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,46,1,1299,Auburn,59,59,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,62
+2010-11,2011-02-23,1009822,434,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,47,0,1299,Auburn,59,59,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Alabama,62
+2010-11,2011-02-23,1009822,437,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,47,0,1299,Auburn,53,53,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,63
+2010-11,2011-02-23,1009822,438,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,47,47,0,1284,Alabama,53,53,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,63
+2010-11,2011-02-23,1009822,439,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,2,48,47,1,1284,Alabama,53,53,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,63
+2010-11,2011-02-23,1009822,443,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,1,48,47,1,1299,Auburn,42,42,11,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,445,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,1,48,47,1,1299,Auburn,37,37,5, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,30.55,553795,NA,NA,0,Auburn,Alabama,64
+2010-11,2011-02-23,1009822,447,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,1,49,47,2,1284,Alabama,32,32,5, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,65
+2010-11,2011-02-23,1009822,448,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,1,49,47,2,1284,Alabama,32,32,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Auburn,65
+2010-11,2011-02-23,1009822,456,0,2,Alabama,Auburn,Crimson Tide,Tigers,4,1,49,49,0,1299,Auburn,14,14,18, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.2,13.55,399720,NA,NA,0,Auburn,Alabama,66
+2010-11,2011-02-23,1009822,463,0,2,Alabama,Auburn,Crimson Tide,Tigers,3,1,49,49,0,1284,Alabama,8,8,6,Crimson Tide take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,466,0,2,Alabama,Auburn,Crimson Tide,Tigers,3,1,51,49,2,1284,Alabama,0,0,8, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.549999999999997,460833,NA,NA,0,Alabama,Auburn,67
+2010-11,2011-02-23,1009822,468,0,2,Alabama,Auburn,Crimson Tide,Tigers,3,1,51,49,2,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-23,1009822,469,0,2,Alabama,Auburn,Crimson Tide,Tigers,3,1,51,49,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,NA

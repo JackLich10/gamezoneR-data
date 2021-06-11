@@ -1,0 +1,219 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2008-09,2009-03-05,841627,1,0,1,USC,Oregon,Trojans,Ducks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Oregon,NA
+2008-09,2009-03-05,841627,5,0,1,USC,Oregon,Trojans,Ducks,4,4,0,0,0,1669,USC,2386,1186,14,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,1
+2008-09,2009-03-05,841627,6,0,1,USC,Oregon,Trojans,Ducks,4,4,0,1,-1,1562,Oregon,2386,1186,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,1
+2008-09,2009-03-05,841627,7,0,1,USC,Oregon,Trojans,Ducks,4,4,0,2,-2,1562,Oregon,2386,1186,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,1
+2008-09,2009-03-05,841627,17,0,1,USC,Oregon,Trojans,Ducks,4,4,0,2,-2,1562,Oregon,2340,1140,46, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,2
+2008-09,2009-03-05,841627,18,0,1,USC,Oregon,Trojans,Ducks,4,4,0,5,-5,1562,Oregon,2329,1129,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,18.5,28.85,330062,NA,NA,0,Oregon,USC,2
+2008-09,2009-03-05,841627,19,0,1,USC,Oregon,Trojans,Ducks,4,4,2,5,-3,1669,USC,2308,1108,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350585,NA,NA,0,USC,Oregon,3
+2008-09,2009-03-05,841627,20,0,1,USC,Oregon,Trojans,Ducks,4,4,2,7,-5,1562,Oregon,2287,1087,21, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,40.8,10.65,457352,NA,NA,0,Oregon,USC,4
+2008-09,2009-03-05,841627,23,0,1,USC,Oregon,Trojans,Ducks,4,4,2,7,-5,1562,Oregon,2277,1077,10,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,5
+2008-09,2009-03-05,841627,24,0,1,USC,Oregon,Trojans,Ducks,4,4,3,7,-4,1669,USC,2277,1077,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,5
+2008-09,2009-03-05,841627,25,0,1,USC,Oregon,Trojans,Ducks,4,4,4,7,-3,1669,USC,2277,1077,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,5
+2008-09,2009-03-05,841627,31,0,1,USC,Oregon,Trojans,Ducks,4,4,4,7,-3,1562,Oregon,2255,1055,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,14.35,330061,NA,NA,0,Oregon,USC,6
+2008-09,2009-03-05,841627,32,0,1,USC,Oregon,Trojans,Ducks,4,4,4,7,-3,1669,USC,2239,1039,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,14.150000000000006,330059,NA,NA,0,USC,USC,7
+2008-09,2009-03-05,841627,33,0,1,USC,Oregon,Trojans,Ducks,4,4,6,7,-1,1669,USC,2234,1034,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330057,NA,NA,0,USC,Oregon,7
+2008-09,2009-03-05,841627,34,0,1,USC,Oregon,Trojans,Ducks,4,4,6,7,-1,1562,Oregon,2222,1022,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,3.75,330063,NA,NA,0,Oregon,USC,8
+2008-09,2009-03-05,841627,35,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,1669,USC,2212,1012,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.3,4.849999999999994,350585,NA,NA,0,USC,Oregon,9
+2008-09,2009-03-05,841627,36,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,1562,Oregon,2186,986,26, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,23.25,330063,NA,NA,0,Oregon,USC,10
+2008-09,2009-03-05,841627,37,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,1669,USC,2173,973,13, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,24.5,8.549999999999997,457598,NA,NA,0,USC,Oregon,11
+2008-09,2009-03-05,841627,47,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,1669,USC,2157,957,16,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,12
+2008-09,2009-03-05,841627,48,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,NA,NA,2157,957,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,51,0,1,USC,Oregon,Trojans,Ducks,4,4,9,7,2,1562,Oregon,2157,957,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,12
+2008-09,2009-03-05,841627,52,0,1,USC,Oregon,Trojans,Ducks,4,4,9,8,1,1562,Oregon,2157,957,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,12
+2008-09,2009-03-05,841627,58,0,1,USC,Oregon,Trojans,Ducks,4,4,9,8,1,1562,Oregon,2145,945,12,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,13
+2008-09,2009-03-05,841627,61,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1669,USC,2122,922,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330057,NA,NA,0,USC,Oregon,13
+2008-09,2009-03-05,841627,62,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1562,Oregon,2106,906,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,4.85,457354,NA,NA,0,Oregon,Oregon,14
+2008-09,2009-03-05,841627,67,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1669,USC,2104,904,2,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,14
+2008-09,2009-03-05,841627,68,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1562,Oregon,2104,904,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,14
+2008-09,2009-03-05,841627,69,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1562,Oregon,2104,904,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,14
+2008-09,2009-03-05,841627,75,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1669,USC,2078,878,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,5.25,330059,NA,NA,0,USC,Oregon,15
+2008-09,2009-03-05,841627,76,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1669,USC,2078,878,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,16
+2008-09,2009-03-05,841627,78,0,1,USC,Oregon,Trojans,Ducks,4,4,11,8,3,1669,USC,2045,845,33, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,39.5,17.25,395373,NA,NA,0,USC,Oregon,16
+2008-09,2009-03-05,841627,79,0,1,USC,Oregon,Trojans,Ducks,4,4,11,11,0,1562,Oregon,2036,836,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,42.7,20.95,330062,NA,NA,0,Oregon,USC,17
+2008-09,2009-03-05,841627,80.5,0,1,USC,Oregon,Trojans,Ducks,4,4,11,11,0,1562,Oregon,2036,836,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2008-09,2009-03-05,841627,82,0,1,USC,Oregon,Trojans,Ducks,4,4,11,11,0,1669,USC,2019,819,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2008-09,2009-03-05,841627,86,0,1,USC,Oregon,Trojans,Ducks,4,4,11,14,-3,1562,Oregon,2014,814,5, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,40.2,21.45,330061,NA,NA,0,Oregon,USC,18
+2008-09,2009-03-05,841627,88,0,1,USC,Oregon,Trojans,Ducks,4,4,11,14,-3,1562,Oregon,2002,802,12,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,19
+2008-09,2009-03-05,841627,89,0,1,USC,Oregon,Trojans,Ducks,4,4,11,14,-3,1669,USC,2002,802,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,19
+2008-09,2009-03-05,841627,90,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1669,USC,2002,802,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,19
+2008-09,2009-03-05,841627,91,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1562,Oregon,2002,802,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2008-09,2009-03-05,841627,96,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1562,Oregon,1995,795,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.2,29.05,330061,NA,NA,0,Oregon,Oregon,20
+2008-09,2009-03-05,841627,98,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1562,Oregon,1987,787,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457352,NA,NA,0,Oregon,USC,20
+2008-09,2009-03-05,841627,103,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1562,Oregon,1975,775,12,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,21
+2008-09,2009-03-05,841627,105,0,1,USC,Oregon,Trojans,Ducks,4,4,12,14,-2,1669,USC,1963,763,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,350585,NA,NA,0,USC,USC,21
+2008-09,2009-03-05,841627,116,0,1,USC,Oregon,Trojans,Ducks,4,4,14,14,0,1669,USC,1947,747,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330057,NA,NA,0,USC,Oregon,21
+2008-09,2009-03-05,841627,117,0,1,USC,Oregon,Trojans,Ducks,4,4,16,14,2,1669,USC,1933,733,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457594,NA,NA,0,USC,Oregon,22
+2008-09,2009-03-05,841627,118,0,1,USC,Oregon,Trojans,Ducks,4,4,16,14,2,1562,Oregon,1916,716,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25,31.15,457354,NA,NA,0,Oregon,USC,23
+2008-09,2009-03-05,841627,127,0,1,USC,Oregon,Trojans,Ducks,4,4,16,14,2,NA,NA,1913,713,3,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,132,0,1,USC,Oregon,Trojans,Ducks,4,4,18,14,4,1669,USC,1895,695,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457594,NA,NA,0,USC,Oregon,24
+2008-09,2009-03-05,841627,133,0,1,USC,Oregon,Trojans,Ducks,4,4,18,14,4,1562,Oregon,1876,676,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,25
+2008-09,2009-03-05,841627,134,0,1,USC,Oregon,Trojans,Ducks,4,4,18,16,2,1562,Oregon,1869,669,7, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.7,7.15,457352,NA,NA,0,Oregon,USC,25
+2008-09,2009-03-05,841627,135,0,1,USC,Oregon,Trojans,Ducks,4,4,20,16,4,1669,USC,1863,663,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330057,NA,NA,0,USC,Oregon,26
+2008-09,2009-03-05,841627,136,0,1,USC,Oregon,Trojans,Ducks,4,4,20,18,2,1562,Oregon,1843,643,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457352,NA,NA,0,Oregon,USC,27
+2008-09,2009-03-05,841627,137,0,1,USC,Oregon,Trojans,Ducks,4,4,20,18,2,1562,Oregon,1809,609,34, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,11.45,457353,NA,NA,0,Oregon,Oregon,28
+2008-09,2009-03-05,841627,138,0,1,USC,Oregon,Trojans,Ducks,4,4,20,20,0,1562,Oregon,1803,603,6, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.8,10.05,330062,NA,NA,0,Oregon,USC,28
+2008-09,2009-03-05,841627,139,0,1,USC,Oregon,Trojans,Ducks,4,4,22,20,2,1669,USC,1769,569,34, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457600,NA,NA,0,USC,Oregon,29
+2008-09,2009-03-05,841627,140,0,1,USC,Oregon,Trojans,Ducks,4,4,22,20,2,1562,Oregon,1739,539,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,17.45,330062,NA,NA,0,Oregon,USC,30
+2008-09,2009-03-05,841627,149,0,1,USC,Oregon,Trojans,Ducks,4,4,24,20,4,1669,USC,1725,525,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330057,NA,NA,0,USC,Oregon,31
+2008-09,2009-03-05,841627,150,0,1,USC,Oregon,Trojans,Ducks,4,3,24,20,4,1562,Oregon,1725,525,0,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,156,0,1,USC,Oregon,Trojans,Ducks,4,3,27,20,7,1669,USC,1660,460,65, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3.299999999999997,12.450000000000003,457597,NA,NA,0,USC,Oregon,32
+2008-09,2009-03-05,841627,157,0,1,USC,Oregon,Trojans,Ducks,4,3,27,23,4,1562,Oregon,1636,436,24, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.5,22.65,483475,NA,NA,0,Oregon,USC,33
+2008-09,2009-03-05,841627,158,0,1,USC,Oregon,Trojans,Ducks,4,3,29,23,6,1669,USC,1617,417,19, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,25.2,13.349999999999994,457594,NA,NA,0,USC,Oregon,34
+2008-09,2009-03-05,841627,159,0,1,USC,Oregon,Trojans,Ducks,4,3,29,23,6,1562,Oregon,1606,406,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.5,29.05,483475,NA,NA,0,Oregon,USC,35
+2008-09,2009-03-05,841627,160,0,1,USC,Oregon,Trojans,Ducks,4,3,31,23,8,1669,USC,1600,400,6, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.7,9.650000000000006,330059,NA,NA,0,USC,Oregon,36
+2008-09,2009-03-05,841627,167,0,1,USC,Oregon,Trojans,Ducks,4,2,31,23,8,1562,Oregon,1600,400,0,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,176,0,1,USC,Oregon,Trojans,Ducks,4,2,31,23,8,NA,NA,1588,388,12,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,180,0,1,USC,Oregon,Trojans,Ducks,4,2,33,23,10,1669,USC,1565,365,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Oregon,37
+2008-09,2009-03-05,841627,181,0,1,USC,Oregon,Trojans,Ducks,4,2,33,23,10,1562,Oregon,1545,345,20, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.3,9.55,330062,NA,NA,0,Oregon,USC,38
+2008-09,2009-03-05,841627,182,0,1,USC,Oregon,Trojans,Ducks,4,2,33,23,10,1669,USC,1523,323,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,21.650000000000006,457597,NA,NA,0,USC,USC,39
+2008-09,2009-03-05,841627,184,0,1,USC,Oregon,Trojans,Ducks,4,2,35,23,12,1669,USC,1516,316,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295427,NA,NA,0,USC,Oregon,39
+2008-09,2009-03-05,841627,187,0,1,USC,Oregon,Trojans,Ducks,4,2,35,23,12,1669,USC,1516,316,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,40
+2008-09,2009-03-05,841627,190,0,1,USC,Oregon,Trojans,Ducks,4,2,35,26,9,1562,Oregon,1491,291,25, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.7,30.25,457354,NA,NA,0,Oregon,USC,40
+2008-09,2009-03-05,841627,191,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,1562,Oregon,1474,274,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457353,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,194,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,1669,USC,1452,252,22,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,196,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,1562,Oregon,1452,252,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,201,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,1562,Oregon,1452,252,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,221,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,1669,USC,1428,228,24,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,222,0,1,USC,Oregon,Trojans,Ducks,4,2,35,28,7,NA,NA,1428,228,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,223,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1562,Oregon,1428,228,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,224,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1562,Oregon,1428,228,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,227,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1562,Oregon,1382,182,46, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,18.95,457355,NA,NA,0,Oregon,Oregon,41
+2008-09,2009-03-05,841627,232,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1562,Oregon,1353,153,29,Offensive foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,41
+2008-09,2009-03-05,841627,235,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1669,USC,1337,137,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330057,NA,NA,0,USC,USC,42
+2008-09,2009-03-05,841627,236,0,1,USC,Oregon,Trojans,Ducks,4,2,35,29,6,1669,USC,1331,131,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,22.650000000000006,330059,NA,NA,0,USC,Oregon,42
+2008-09,2009-03-05,841627,252,0,1,USC,Oregon,Trojans,Ducks,4,2,35,32,3,1562,Oregon,1288,88,43, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,31.3,29.65,330061,NA,NA,0,Oregon,USC,43
+2008-09,2009-03-05,841627,253,0,1,USC,Oregon,Trojans,Ducks,4,2,35,32,3,1669,USC,1256,56,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.700000000000003,5.25,295796,NA,NA,0,USC,Oregon,44
+2008-09,2009-03-05,841627,254,0,1,USC,Oregon,Trojans,Ducks,4,2,35,35,0,1562,Oregon,1242,42,14, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,25.8,30.75,457354,NA,NA,0,Oregon,USC,45
+2008-09,2009-03-05,841627,256,0,1,USC,Oregon,Trojans,Ducks,3,2,35,35,0,1669,USC,1229,29,13,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,260,0,1,USC,Oregon,Trojans,Ducks,3,2,35,35,0,1562,Oregon,1209,9,20,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,46
+2008-09,2009-03-05,841627,261,0,1,USC,Oregon,Trojans,Ducks,3,2,35,35,0,1669,USC,1209,9,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,46
+2008-09,2009-03-05,841627,262,0,1,USC,Oregon,Trojans,Ducks,3,2,36,35,1,1669,USC,1209,9,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,46
+2008-09,2009-03-05,841627,264,0,1,USC,Oregon,Trojans,Ducks,3,2,36,35,1,1562,Oregon,1200,0,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,3.75,330062,NA,NA,0,Oregon,USC,47
+2008-09,2009-03-05,841627,265,0,1,USC,Oregon,Trojans,Ducks,3,2,36,35,1,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,267,0,2,USC,Oregon,Trojans,Ducks,4,4,36,35,1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,48
+2008-09,2009-03-05,841627,270,0,2,USC,Oregon,Trojans,Ducks,4,4,36,35,1,1669,USC,1175,1175,25, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,15.150000000000006,457594,NA,NA,0,USC,Oregon,49
+2008-09,2009-03-05,841627,271,0,2,USC,Oregon,Trojans,Ducks,4,4,36,37,-1,1562,Oregon,1166,1166,9, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,7.699999999999999,3.55,330061,NA,NA,0,Oregon,USC,50
+2008-09,2009-03-05,841627,274,0,2,USC,Oregon,Trojans,Ducks,4,4,36,37,-1,1562,Oregon,1151,1151,15,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,51
+2008-09,2009-03-05,841627,275,0,2,USC,Oregon,Trojans,Ducks,4,4,37,37,0,1669,USC,1151,1151,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,51
+2008-09,2009-03-05,841627,277,0,2,USC,Oregon,Trojans,Ducks,4,4,38,37,1,1669,USC,1151,1151,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,51
+2008-09,2009-03-05,841627,289,0,2,USC,Oregon,Trojans,Ducks,4,4,38,39,-1,1562,Oregon,1134,1134,17, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,43.2,9.65,483475,NA,NA,0,Oregon,USC,52
+2008-09,2009-03-05,841627,291,0,2,USC,Oregon,Trojans,Ducks,4,4,38,39,-1,1562,Oregon,1113,1113,21,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,53
+2008-09,2009-03-05,841627,292,0,2,USC,Oregon,Trojans,Ducks,3,4,38,39,-1,1669,USC,1113,1113,0,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,294,0,2,USC,Oregon,Trojans,Ducks,3,4,38,39,-1,1669,USC,1100,1100,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7,19.75,350585,NA,NA,0,USC,USC,53
+2008-09,2009-03-05,841627,295,0,2,USC,Oregon,Trojans,Ducks,3,4,38,39,-1,1669,USC,1078,1078,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,15.650000000000006,330059,NA,NA,0,USC,Oregon,53
+2008-09,2009-03-05,841627,296,0,2,USC,Oregon,Trojans,Ducks,3,4,38,39,-1,1562,Oregon,1070,1070,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,USC,54
+2008-09,2009-03-05,841627,297,0,2,USC,Oregon,Trojans,Ducks,3,4,40,39,1,1669,USC,1058,1058,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457594,NA,NA,0,USC,Oregon,55
+2008-09,2009-03-05,841627,298,0,2,USC,Oregon,Trojans,Ducks,3,4,40,39,1,1562,Oregon,1042,1042,16, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,22.65,330062,NA,NA,0,Oregon,USC,56
+2008-09,2009-03-05,841627,301,0,2,USC,Oregon,Trojans,Ducks,3,4,40,39,1,1669,USC,1034,1034,8,Offensive foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,57
+2008-09,2009-03-05,841627,303,0,2,USC,Oregon,Trojans,Ducks,3,4,40,39,1,1562,Oregon,1017,1017,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457351,NA,NA,0,Oregon,USC,58
+2008-09,2009-03-05,841627,304,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1669,USC,989,989,28, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,33.5,16.049999999999997,330059,NA,NA,0,USC,Oregon,59
+2008-09,2009-03-05,841627,305,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1562,Oregon,970,970,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,4.85,483475,NA,NA,0,Oregon,USC,60
+2008-09,2009-03-05,841627,308,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1669,USC,936,936,34, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.299999999999997,7.150000000000006,330059,NA,NA,0,USC,Oregon,61
+2008-09,2009-03-05,841627,315,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,NA,NA,935,935,1,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,319,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1562,Oregon,899,899,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457351,NA,NA,0,Oregon,Oregon,62
+2008-09,2009-03-05,841627,324,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1562,Oregon,899,899,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457353,NA,NA,0,Oregon,USC,62
+2008-09,2009-03-05,841627,329,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1669,USC,871,871,28, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,17.849999999999994,330059,NA,NA,0,USC,USC,63
+2008-09,2009-03-05,841627,330,0,2,USC,Oregon,Trojans,Ducks,3,4,42,39,3,1669,USC,866,866,5, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,8.5,5.650000000000006,457594,NA,NA,0,USC,USC,63
+2008-09,2009-03-05,841627,331,0,2,USC,Oregon,Trojans,Ducks,3,4,44,39,5,1669,USC,855,855,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330059,NA,NA,0,USC,Oregon,63
+2008-09,2009-03-05,841627,334,0,2,USC,Oregon,Trojans,Ducks,3,4,44,39,5,1669,USC,843,843,12,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,64
+2008-09,2009-03-05,841627,337,0,2,USC,Oregon,Trojans,Ducks,3,4,44,40,4,1562,Oregon,843,843,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,64
+2008-09,2009-03-05,841627,338,0,2,USC,Oregon,Trojans,Ducks,3,4,44,41,3,1562,Oregon,843,843,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,64
+2008-09,2009-03-05,841627,340,0,2,USC,Oregon,Trojans,Ducks,3,4,46,41,5,1669,USC,834,834,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350585,NA,NA,0,USC,Oregon,65
+2008-09,2009-03-05,841627,345,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,813,813,21, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,26.8,21.349999999999994,350585,NA,NA,0,USC,Oregon,66
+2008-09,2009-03-05,841627,347,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,794,794,19,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,67
+2008-09,2009-03-05,841627,350,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1562,Oregon,780,780,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,29.65,330062,NA,NA,0,Oregon,Oregon,67
+2008-09,2009-03-05,841627,351,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,780,780,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,67
+2008-09,2009-03-05,841627,353,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1562,Oregon,765,765,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457351,NA,NA,0,Oregon,USC,67
+2008-09,2009-03-05,841627,356,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1562,Oregon,746,746,19,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,68
+2008-09,2009-03-05,841627,357,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,746,746,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,68
+2008-09,2009-03-05,841627,358,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,746,746,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,68
+2008-09,2009-03-05,841627,362,0,2,USC,Oregon,Trojans,Ducks,3,4,48,41,7,1669,USC,746,746,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,69
+2008-09,2009-03-05,841627,369,0,2,USC,Oregon,Trojans,Ducks,3,4,50,41,9,1669,USC,713,713,33, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330057,NA,NA,0,USC,Oregon,69
+2008-09,2009-03-05,841627,371,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1562,Oregon,704,704,9,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,373,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1562,Oregon,697,697,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,21.65,330061,NA,NA,0,Oregon,USC,70
+2008-09,2009-03-05,841627,374,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1669,USC,680,680,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,5.25,330057,NA,NA,0,USC,Oregon,71
+2008-09,2009-03-05,841627,375,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1562,Oregon,669,669,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,25.55,457354,NA,NA,0,Oregon,USC,72
+2008-09,2009-03-05,841627,378,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1562,Oregon,657,657,12,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,73
+2008-09,2009-03-05,841627,379,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,NA,NA,657,657,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,389,0,2,USC,Oregon,Trojans,Ducks,3,3,50,41,9,1669,USC,628,628,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457600,NA,NA,0,USC,USC,73
+2008-09,2009-03-05,841627,390,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1669,USC,623,623,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457600,NA,NA,0,USC,Oregon,73
+2008-09,2009-03-05,841627,392,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1669,USC,617,617,6,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,74
+2008-09,2009-03-05,841627,397,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1562,Oregon,605,605,12,Offensive foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,74
+2008-09,2009-03-05,841627,405,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1562,Oregon,588,588,17,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,75
+2008-09,2009-03-05,841627,407,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1669,USC,558,558,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,13.75,330059,NA,NA,0,USC,Oregon,75
+2008-09,2009-03-05,841627,408,0,2,USC,Oregon,Trojans,Ducks,3,3,52,41,11,1562,Oregon,548,548,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395383,NA,NA,0,Oregon,USC,76
+2008-09,2009-03-05,841627,409,0,2,USC,Oregon,Trojans,Ducks,3,3,54,41,13,1669,USC,537,537,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,20,21.650000000000006,330059,NA,NA,0,USC,Oregon,77
+2008-09,2009-03-05,841627,414,0,2,USC,Oregon,Trojans,Ducks,3,2,54,41,13,1562,Oregon,525,525,12,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,418,0,2,USC,Oregon,Trojans,Ducks,3,2,54,41,13,1669,USC,518,518,7,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,78
+2008-09,2009-03-05,841627,419,0,2,USC,Oregon,Trojans,Ducks,3,2,54,42,12,1562,Oregon,518,518,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,78
+2008-09,2009-03-05,841627,420,0,2,USC,Oregon,Trojans,Ducks,3,2,54,43,11,1562,Oregon,518,518,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,78
+2008-09,2009-03-05,841627,422,0,2,USC,Oregon,Trojans,Ducks,3,2,56,43,13,1669,USC,494,494,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Oregon,79
+2008-09,2009-03-05,841627,423,0,2,USC,Oregon,Trojans,Ducks,3,2,56,45,11,1562,Oregon,478,478,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457355,NA,NA,0,Oregon,USC,80
+2008-09,2009-03-05,841627,424,0,2,USC,Oregon,Trojans,Ducks,3,2,56,45,11,1669,USC,456,456,22, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,20,11.650000000000006,457598,NA,NA,0,USC,Oregon,81
+2008-09,2009-03-05,841627,425,0,2,USC,Oregon,Trojans,Ducks,3,2,56,47,9,1562,Oregon,441,441,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457351,NA,NA,0,Oregon,USC,82
+2008-09,2009-03-05,841627,428,0,2,USC,Oregon,Trojans,Ducks,3,2,56,47,9,1562,Oregon,422,422,19,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,83
+2008-09,2009-03-05,841627,429,0,2,USC,Oregon,Trojans,Ducks,3,2,56,47,9,NA,NA,422,422,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,431,0,2,USC,Oregon,Trojans,Ducks,3,2,57,47,10,1669,USC,422,422,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,83
+2008-09,2009-03-05,841627,432,0,2,USC,Oregon,Trojans,Ducks,3,2,57,47,10,1669,USC,422,422,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,83
+2008-09,2009-03-05,841627,436,0,2,USC,Oregon,Trojans,Ducks,3,2,57,49,8,1562,Oregon,409,409,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330061,NA,NA,0,Oregon,USC,84
+2008-09,2009-03-05,841627,437,0,2,USC,Oregon,Trojans,Ducks,3,2,57,49,8,1669,USC,375,375,34, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,25.549999999999997,330059,NA,NA,0,USC,USC,85
+2008-09,2009-03-05,841627,441,0,2,USC,Oregon,Trojans,Ducks,3,2,57,49,8,1562,Oregon,366,366,9,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2008-09,2009-03-05,841627,442,0,2,USC,Oregon,Trojans,Ducks,3,2,57,49,8,1669,USC,366,366,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,85
+2008-09,2009-03-05,841627,443,0,2,USC,Oregon,Trojans,Ducks,3,2,58,49,9,1669,USC,366,366,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,85
+2008-09,2009-03-05,841627,446,0,2,USC,Oregon,Trojans,Ducks,3,2,58,52,6,1562,Oregon,356,356,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,18,29.45,330061,NA,NA,0,Oregon,USC,86
+2008-09,2009-03-05,841627,447,0,2,USC,Oregon,Trojans,Ducks,3,2,60,52,8,1669,USC,329,329,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457594,NA,NA,0,USC,Oregon,87
+2008-09,2009-03-05,841627,448,0,2,USC,Oregon,Trojans,Ducks,3,2,60,52,8,1562,Oregon,319,319,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39,25.55,330061,NA,NA,0,Oregon,Oregon,88
+2008-09,2009-03-05,841627,452,0,2,USC,Oregon,Trojans,Ducks,3,2,60,54,6,1562,Oregon,317,317,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330062,NA,NA,0,Oregon,Oregon,88
+2008-09,2009-03-05,841627,453,0,2,USC,Oregon,Trojans,Ducks,3,2,60,54,6,1669,USC,317,317,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,88
+2008-09,2009-03-05,841627,454,0,2,USC,Oregon,Trojans,Ducks,3,2,60,55,5,1562,Oregon,317,317,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,88
+2008-09,2009-03-05,841627,459,0,2,USC,Oregon,Trojans,Ducks,3,2,60,55,5,1669,USC,305,305,12,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,89
+2008-09,2009-03-05,841627,460,0,2,USC,Oregon,Trojans,Ducks,3,2,60,56,4,1562,Oregon,305,305,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,89
+2008-09,2009-03-05,841627,461,0,2,USC,Oregon,Trojans,Ducks,3,2,60,56,4,1562,Oregon,305,305,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,89
+2008-09,2009-03-05,841627,465,0,2,USC,Oregon,Trojans,Ducks,3,2,60,56,4,1562,Oregon,292,292,13,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,90
+2008-09,2009-03-05,841627,466,0,2,USC,Oregon,Trojans,Ducks,3,2,61,56,5,1669,USC,292,292,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,90
+2008-09,2009-03-05,841627,467,0,2,USC,Oregon,Trojans,Ducks,3,2,62,56,6,1669,USC,292,292,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,90
+2008-09,2009-03-05,841627,469,0,2,USC,Oregon,Trojans,Ducks,3,2,62,59,3,1562,Oregon,283,283,9, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.2,21.15,330061,NA,NA,0,Oregon,USC,91
+2008-09,2009-03-05,841627,471,0,2,USC,Oregon,Trojans,Ducks,3,2,62,59,3,1562,Oregon,264,264,19,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2008-09,2009-03-05,841627,472,0,2,USC,Oregon,Trojans,Ducks,3,2,63,59,4,1669,USC,264,264,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2008-09,2009-03-05,841627,473,0,2,USC,Oregon,Trojans,Ducks,3,2,64,59,5,1669,USC,264,264,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,92
+2008-09,2009-03-05,841627,476,0,2,USC,Oregon,Trojans,Ducks,3,2,64,59,5,1562,Oregon,246,246,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,93
+2008-09,2009-03-05,841627,478,0,2,USC,Oregon,Trojans,Ducks,3,2,64,59,5,1562,Oregon,239,239,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.3,27.85,457353,NA,NA,0,Oregon,Oregon,93
+2008-09,2009-03-05,841627,479,0,2,USC,Oregon,Trojans,Ducks,3,2,64,61,3,1562,Oregon,239,239,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457351,NA,NA,0,Oregon,Oregon,93
+2008-09,2009-03-05,841627,480,0,2,USC,Oregon,Trojans,Ducks,3,2,64,61,3,1669,USC,239,239,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,93
+2008-09,2009-03-05,841627,481,0,2,USC,Oregon,Trojans,Ducks,3,2,64,61,3,NA,NA,239,239,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,485,0,2,USC,Oregon,Trojans,Ducks,3,2,64,62,2,1562,Oregon,239,239,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,93
+2008-09,2009-03-05,841627,487,0,2,USC,Oregon,Trojans,Ducks,3,2,66,62,4,1669,USC,216,216,23, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,34.2,19.549999999999997,457594,NA,NA,0,USC,Oregon,94
+2008-09,2009-03-05,841627,488,0,2,USC,Oregon,Trojans,Ducks,3,2,66,62,4,1562,Oregon,189,189,27, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,14.75,457355,NA,NA,0,Oregon,Oregon,95
+2008-09,2009-03-05,841627,491,0,2,USC,Oregon,Trojans,Ducks,3,2,66,62,4,1562,Oregon,177,177,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,29.85,330061,NA,NA,0,Oregon,USC,95
+2008-09,2009-03-05,841627,492,0,2,USC,Oregon,Trojans,Ducks,3,2,68,62,6,1669,USC,172,172,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457594,NA,NA,0,USC,Oregon,96
+2008-09,2009-03-05,841627,499,0,2,USC,Oregon,Trojans,Ducks,3,2,68,62,6,1562,Oregon,161,161,11,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,97
+2008-09,2009-03-05,841627,500,0,2,USC,Oregon,Trojans,Ducks,3,2,69,62,7,1669,USC,161,161,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,97
+2008-09,2009-03-05,841627,501,0,2,USC,Oregon,Trojans,Ducks,3,2,70,62,8,1669,USC,161,161,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,97
+2008-09,2009-03-05,841627,507,0,2,USC,Oregon,Trojans,Ducks,3,2,70,62,8,1562,Oregon,147,147,14, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,15.85,330061,NA,NA,0,Oregon,USC,98
+2008-09,2009-03-05,841627,510,0,2,USC,Oregon,Trojans,Ducks,2,2,70,62,8,1669,USC,137,137,10,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,515,0,2,USC,Oregon,Trojans,Ducks,2,2,72,62,10,1669,USC,118,118,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330059,NA,NA,0,USC,Oregon,99
+2008-09,2009-03-05,841627,517,0,2,USC,Oregon,Trojans,Ducks,2,2,72,62,10,1562,Oregon,89,89,29, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24,13.75,330062,NA,NA,0,Oregon,USC,100
+2008-09,2009-03-05,841627,520,0,2,USC,Oregon,Trojans,Ducks,2,2,72,62,10,1562,Oregon,88,88,1,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2008-09,2009-03-05,841627,521,0,2,USC,Oregon,Trojans,Ducks,2,2,73,62,11,1669,USC,88,88,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2008-09,2009-03-05,841627,522,0,2,USC,Oregon,Trojans,Ducks,2,2,74,62,12,1669,USC,88,88,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,101
+2008-09,2009-03-05,841627,524,0,2,USC,Oregon,Trojans,Ducks,2,2,74,62,12,1562,Oregon,76,76,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,21.35,330061,NA,NA,0,Oregon,Oregon,102
+2008-09,2009-03-05,841627,526,0,2,USC,Oregon,Trojans,Ducks,2,2,74,62,12,1562,Oregon,67,67,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,7.95,457355,NA,NA,0,Oregon,USC,102
+2008-09,2009-03-05,841627,527,0,2,USC,Oregon,Trojans,Ducks,2,2,74,62,12,1562,Oregon,67,67,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,103
+2008-09,2009-03-05,841627,528,0,2,USC,Oregon,Trojans,Ducks,2,2,75,62,13,1669,USC,67,67,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,103
+2008-09,2009-03-05,841627,530,0,2,USC,Oregon,Trojans,Ducks,2,2,76,62,14,1669,USC,67,67,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,103
+2008-09,2009-03-05,841627,535,0,2,USC,Oregon,Trojans,Ducks,2,2,76,62,14,1669,USC,65,65,2,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,104
+2008-09,2009-03-05,841627,536,0,2,USC,Oregon,Trojans,Ducks,2,2,76,63,13,1562,Oregon,65,65,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,104
+2008-09,2009-03-05,841627,537,0,2,USC,Oregon,Trojans,Ducks,2,2,76,64,12,1562,Oregon,65,65,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,USC,104
+2008-09,2009-03-05,841627,545,0,2,USC,Oregon,Trojans,Ducks,2,2,76,64,12,1562,Oregon,54,54,11,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,105
+2008-09,2009-03-05,841627,546,0,2,USC,Oregon,Trojans,Ducks,2,2,77,64,13,1669,USC,54,54,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,105
+2008-09,2009-03-05,841627,547,0,2,USC,Oregon,Trojans,Ducks,2,2,78,64,14,1669,USC,54,54,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,105
+2008-09,2009-03-05,841627,551,0,2,USC,Oregon,Trojans,Ducks,2,2,78,66,12,1562,Oregon,50,50,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330061,NA,NA,0,Oregon,USC,106
+2008-09,2009-03-05,841627,552,0,2,USC,Oregon,Trojans,Ducks,2,1,78,66,12,1562,Oregon,50,50,0,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,556,0,2,USC,Oregon,Trojans,Ducks,2,1,78,66,12,1562,Oregon,42,42,8,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,107
+2008-09,2009-03-05,841627,557,0,2,USC,Oregon,Trojans,Ducks,2,1,79,66,13,1669,USC,42,42,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,107
+2008-09,2009-03-05,841627,558,0,2,USC,Oregon,Trojans,Ducks,2,1,80,66,14,1669,USC,42,42,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Oregon,107
+2008-09,2009-03-05,841627,560,0,2,USC,Oregon,Trojans,Ducks,2,1,80,66,14,1562,Oregon,30,30,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,24.35,483475,NA,NA,0,Oregon,Oregon,108
+2008-09,2009-03-05,841627,561,0,2,USC,Oregon,Trojans,Ducks,2,1,80,66,14,1562,Oregon,26,26,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,20.95,457353,NA,NA,0,Oregon,NA,108
+2008-09,2009-03-05,841627,562,0,2,USC,Oregon,Trojans,Ducks,2,1,80,66,14,NA,NA,0,0,26,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-03-05,841627,563,0,2,USC,Oregon,Trojans,Ducks,2,1,80,66,14,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,NA

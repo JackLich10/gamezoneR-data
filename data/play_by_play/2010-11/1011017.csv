@@ -1,0 +1,247 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-29,1011017,1,0,1,Rice,LSU,Owls,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,LSU,NA
+2010-11,2010-12-29,1011017,4,0,1,Rice,LSU,Owls,Tigers,4,4,0,3,-3,1476,LSU,2379,1179,21, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,6,22.25,548680,NA,NA,0,LSU,Rice,1
+2010-11,2010-12-29,1011017,6,0,1,Rice,LSU,Owls,Tigers,4,4,0,3,-3,1476,LSU,2367,1167,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,2
+2010-11,2010-12-29,1011017,9,0,1,Rice,LSU,Owls,Tigers,4,4,2,3,-1,1582,Rice,2367,1167,0, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,34,21.25,458971,NA,NA,0,Rice,Rice,2
+2010-11,2010-12-29,1011017,11,0,1,Rice,LSU,Owls,Tigers,4,4,2,3,-1,1476,LSU,2344,1144,23,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,2
+2010-11,2010-12-29,1011017,12,0,1,Rice,LSU,Owls,Tigers,4,4,2,3,-1,1582,Rice,2344,1144,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,2
+2010-11,2010-12-29,1011017,13,0,1,Rice,LSU,Owls,Tigers,4,4,3,3,0,1582,Rice,2344,1144,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,2
+2010-11,2010-12-29,1011017,16,0,1,Rice,LSU,Owls,Tigers,4,4,3,3,0,1582,Rice,2323,1123,21,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,3
+2010-11,2010-12-29,1011017,18,0,1,Rice,LSU,Owls,Tigers,4,4,3,3,0,1476,LSU,2318,1118,5, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,23,10.25,400354,NA,NA,0,LSU,LSU,3
+2010-11,2010-12-29,1011017,22,0,1,Rice,LSU,Owls,Tigers,4,4,3,3,0,1476,LSU,2287,1087,31, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,10.25,509461,NA,NA,0,LSU,Rice,3
+2010-11,2010-12-29,1011017,24,0,1,Rice,LSU,Owls,Tigers,4,4,3,3,0,1476,LSU,2279,1079,8,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,4
+2010-11,2010-12-29,1011017,26,0,1,Rice,LSU,Owls,Tigers,4,4,5,3,2,1582,Rice,2267,1067,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295357,NA,NA,0,Rice,LSU,4
+2010-11,2010-12-29,1011017,27.5,0,1,Rice,LSU,Owls,Tigers,4,4,5,3,2,1476,LSU,2227,1027,40, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19,29.25,460876,NA,NA,0,LSU,Rice,5
+2010-11,2010-12-29,1011017,28,0,1,Rice,LSU,Owls,Tigers,4,4,7,3,4,1582,Rice,2213,1013,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Rice,6
+2010-11,2010-12-29,1011017,30,0,1,Rice,LSU,Owls,Tigers,4,3,7,3,4,1476,LSU,2208,1008,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,34,0,1,Rice,LSU,Owls,Tigers,4,3,7,3,4,1476,LSU,2190,990,18,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2010-11,2010-12-29,1011017,35,0,1,Rice,LSU,Owls,Tigers,4,3,7,3,4,1582,Rice,2190,990,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2010-11,2010-12-29,1011017,36,0,1,Rice,LSU,Owls,Tigers,4,3,8,3,5,1582,Rice,2190,990,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,6
+2010-11,2010-12-29,1011017,41,0,1,Rice,LSU,Owls,Tigers,4,3,8,3,5,1476,LSU,2175,975,15, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,9.15,460876,NA,NA,0,LSU,Rice,7
+2010-11,2010-12-29,1011017,43,0,1,Rice,LSU,Owls,Tigers,4,3,8,3,5,1476,LSU,2168,968,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,8
+2010-11,2010-12-29,1011017,46,0,1,Rice,LSU,Owls,Tigers,4,3,8,3,5,1476,LSU,2158,958,10,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,8
+2010-11,2010-12-29,1011017,47,0,1,Rice,LSU,Owls,Tigers,4,3,8,3,5,NA,NA,2158,958,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,51,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1582,Rice,2143,943,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552330,NA,NA,0,Rice,LSU,8
+2010-11,2010-12-29,1011017,52,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1476,LSU,2109,909,34, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,6.25,460876,NA,NA,0,LSU,Rice,9
+2010-11,2010-12-29,1011017,55,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1582,Rice,2076,876,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,10
+2010-11,2010-12-29,1011017,57,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1582,Rice,2070,870,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339839,NA,NA,0,Rice,Rice,10
+2010-11,2010-12-29,1011017,60,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1582,Rice,2063,863,7,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,10
+2010-11,2010-12-29,1011017,63,0,1,Rice,LSU,Owls,Tigers,4,3,10,3,7,1476,LSU,2052,852,11,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,11
+2010-11,2010-12-29,1011017,65,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,2041,841,11, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,8.299999999999997,26.75,295357,NA,NA,0,Rice,LSU,12
+2010-11,2010-12-29,1011017,67,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,2016,816,25,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,13
+2010-11,2010-12-29,1011017,68,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,2016,816,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,13
+2010-11,2010-12-29,1011017,69,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,2016,816,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,13
+2010-11,2010-12-29,1011017,71,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,2001,801,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,LSU,14
+2010-11,2010-12-29,1011017,73,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1991,791,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,15
+2010-11,2010-12-29,1011017,74,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1991,791,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,15
+2010-11,2010-12-29,1011017,75,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1991,791,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,15
+2010-11,2010-12-29,1011017,93.5,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1990,790,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,16
+2010-11,2010-12-29,1011017,112,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1987,787,3, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,16
+2010-11,2010-12-29,1011017,114,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1966,766,21, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,8.15,483816,NA,NA,0,LSU,Rice,17
+2010-11,2010-12-29,1011017,116,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1945,745,21,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,18
+2010-11,2010-12-29,1011017,117,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1945,745,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,18
+2010-11,2010-12-29,1011017,122,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1943,743,2, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,18
+2010-11,2010-12-29,1011017,125,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1940,740,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,19
+2010-11,2010-12-29,1011017,128,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1476,LSU,1926,726,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,5.25,548681,NA,NA,0,LSU,Rice,19
+2010-11,2010-12-29,1011017,132,0,1,Rice,LSU,Owls,Tigers,4,3,13,3,10,1582,Rice,1901,701,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,16.849999999999994,473209,NA,NA,0,Rice,LSU,20
+2010-11,2010-12-29,1011017,133,0,1,Rice,LSU,Owls,Tigers,4,3,13,6,7,1476,LSU,1893,693,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.1999999999999993,1.5499999999999998,548681,NA,NA,0,LSU,Rice,21
+2010-11,2010-12-29,1011017,139,0,1,Rice,LSU,Owls,Tigers,4,3,13,6,7,NA,NA,1871,671,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,143,0,1,Rice,LSU,Owls,Tigers,4,3,13,6,7,1476,LSU,1844,644,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,15.65,548681,NA,NA,0,LSU,Rice,22
+2010-11,2010-12-29,1011017,144,0,1,Rice,LSU,Owls,Tigers,4,3,15,6,9,1582,Rice,1819,619,25, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.5,8.349999999999994,506616,NA,NA,0,Rice,LSU,23
+2010-11,2010-12-29,1011017,145,0,1,Rice,LSU,Owls,Tigers,4,3,15,9,6,1476,LSU,1798,598,21, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,9.8,25.15,548680,NA,NA,0,LSU,Rice,24
+2010-11,2010-12-29,1011017,151,0,1,Rice,LSU,Owls,Tigers,4,3,15,9,6,1582,Rice,1765,565,33, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,15.5,29.650000000000006,458971,NA,NA,0,Rice,Rice,25
+2010-11,2010-12-29,1011017,155,0,1,Rice,LSU,Owls,Tigers,4,3,15,9,6,1476,LSU,1749,549,16,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,25
+2010-11,2010-12-29,1011017,156,0,1,Rice,LSU,Owls,Tigers,4,3,16,9,7,1582,Rice,1749,549,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,25
+2010-11,2010-12-29,1011017,157,0,1,Rice,LSU,Owls,Tigers,4,3,17,9,8,1582,Rice,1749,549,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,25
+2010-11,2010-12-29,1011017,159,0,1,Rice,LSU,Owls,Tigers,4,3,17,9,8,1476,LSU,1730,530,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15,10.85,548681,NA,NA,0,LSU,LSU,26
+2010-11,2010-12-29,1011017,164,0,1,Rice,LSU,Owls,Tigers,4,3,17,9,8,1476,LSU,1716,516,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,23.65,548680,NA,NA,0,LSU,Rice,26
+2010-11,2010-12-29,1011017,166,0,1,Rice,LSU,Owls,Tigers,4,3,17,9,8,1476,LSU,1709,509,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,27
+2010-11,2010-12-29,1011017,167,0,1,Rice,LSU,Owls,Tigers,4,3,17,9,8,1582,Rice,1709,509,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,27
+2010-11,2010-12-29,1011017,168,0,1,Rice,LSU,Owls,Tigers,4,3,18,9,9,1582,Rice,1709,509,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,27
+2010-11,2010-12-29,1011017,174,0,1,Rice,LSU,Owls,Tigers,4,3,18,9,9,1476,LSU,1691,491,18,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,28
+2010-11,2010-12-29,1011017,181,0,1,Rice,LSU,Owls,Tigers,4,3,18,9,9,NA,NA,1662,462,29,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,184,0,1,Rice,LSU,Owls,Tigers,4,3,18,9,9,1476,LSU,1651,451,11, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,21.65,548680,NA,NA,0,LSU,LSU,29
+2010-11,2010-12-29,1011017,194,0,1,Rice,LSU,Owls,Tigers,4,3,18,12,6,1476,LSU,1624,424,27, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7.5,18.25,548678,NA,NA,0,LSU,Rice,29
+2010-11,2010-12-29,1011017,195,0,1,Rice,LSU,Owls,Tigers,4,3,20,12,8,1582,Rice,1604,404,20, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,23.2,18.049999999999997,473209,NA,NA,0,Rice,LSU,30
+2010-11,2010-12-29,1011017,196,0,1,Rice,LSU,Owls,Tigers,4,3,20,15,5,1476,LSU,1592,392,12, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,7.5,25.75,548680,NA,NA,0,LSU,Rice,31
+2010-11,2010-12-29,1011017,198,0,1,Rice,LSU,Owls,Tigers,4,3,20,15,5,1582,Rice,1572,372,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,5.849999999999994,473209,NA,NA,0,Rice,Rice,32
+2010-11,2010-12-29,1011017,199,0,1,Rice,LSU,Owls,Tigers,4,3,20,15,5,1476,LSU,1572,372,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,32
+2010-11,2010-12-29,1011017,200,0,1,Rice,LSU,Owls,Tigers,4,3,20,15,5,1582,Rice,1572,372,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,32
+2010-11,2010-12-29,1011017,201,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1582,Rice,1572,372,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,32
+2010-11,2010-12-29,1011017,203,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1476,LSU,1550,350,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10,23.85,548680,NA,NA,0,LSU,Rice,33
+2010-11,2010-12-29,1011017,204,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1582,Rice,1525,325,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5,18.75,295357,NA,NA,0,Rice,LSU,34
+2010-11,2010-12-29,1011017,207,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1582,Rice,1512,312,13,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2010-12-29,1011017,210,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1582,Rice,1499,299,13,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2010-12-29,1011017,211,0,1,Rice,LSU,Owls,Tigers,4,3,21,15,6,1476,LSU,1499,299,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2010-12-29,1011017,216,0,1,Rice,LSU,Owls,Tigers,4,3,21,17,4,1476,LSU,1479,279,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,460876,NA,NA,0,LSU,Rice,35
+2010-11,2010-12-29,1011017,218,0,1,Rice,LSU,Owls,Tigers,4,3,21,17,4,1582,Rice,1464,264,15, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,36
+2010-11,2010-12-29,1011017,219,0,1,Rice,LSU,Owls,Tigers,4,3,22,17,5,1582,Rice,1464,264,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,36
+2010-11,2010-12-29,1011017,220,0,1,Rice,LSU,Owls,Tigers,4,3,22,17,5,1476,LSU,1464,264,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,36
+2010-11,2010-12-29,1011017,221,0,1,Rice,LSU,Owls,Tigers,4,3,22,17,5,1476,LSU,1444,244,20, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.3,6.45,548677,NA,NA,0,LSU,Rice,36
+2010-11,2010-12-29,1011017,223,0,1,Rice,LSU,Owls,Tigers,4,3,22,17,5,1476,LSU,1439,239,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,37
+2010-11,2010-12-29,1011017,224,0,1,Rice,LSU,Owls,Tigers,4,3,22,17,5,1582,Rice,1439,239,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,37
+2010-11,2010-12-29,1011017,225,0,1,Rice,LSU,Owls,Tigers,4,3,23,17,6,1582,Rice,1439,239,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,37
+2010-11,2010-12-29,1011017,227,0,1,Rice,LSU,Owls,Tigers,4,3,23,20,3,1476,LSU,1429,229,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,46.7,13.15,548678,NA,NA,0,LSU,Rice,38
+2010-11,2010-12-29,1011017,229,0,1,Rice,LSU,Owls,Tigers,4,3,23,20,3,1476,LSU,1413,213,16,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,39
+2010-11,2010-12-29,1011017,230,0,1,Rice,LSU,Owls,Tigers,4,3,23,20,3,NA,NA,1413,213,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,233,0,1,Rice,LSU,Owls,Tigers,4,3,24,20,4,1582,Rice,1413,213,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,39
+2010-11,2010-12-29,1011017,234,0,1,Rice,LSU,Owls,Tigers,4,3,25,20,5,1582,Rice,1413,213,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,39
+2010-11,2010-12-29,1011017,236,0,1,Rice,LSU,Owls,Tigers,4,3,25,23,2,1476,LSU,1378,178,35, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,20,29.25,483816,NA,NA,0,LSU,Rice,40
+2010-11,2010-12-29,1011017,237,0,1,Rice,LSU,Owls,Tigers,4,3,25,23,2,1582,Rice,1360,160,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,18.549999999999997,473209,NA,NA,0,Rice,Rice,41
+2010-11,2010-12-29,1011017,238,0,1,Rice,LSU,Owls,Tigers,4,3,27,23,4,1582,Rice,1342,142,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,LSU,41
+2010-11,2010-12-29,1011017,239,0,1,Rice,LSU,Owls,Tigers,4,3,27,23,4,1476,LSU,1327,127,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13,26.15,548681,NA,NA,0,LSU,Rice,42
+2010-11,2010-12-29,1011017,246,0,1,Rice,LSU,Owls,Tigers,3,3,27,23,4,1582,Rice,1319,119,8,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,249,0,1,Rice,LSU,Owls,Tigers,3,3,27,23,4,1582,Rice,1311,111,8, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,11.25,473209,NA,NA,0,Rice,Rice,43
+2010-11,2010-12-29,1011017,250,0,1,Rice,LSU,Owls,Tigers,3,3,29,23,6,1582,Rice,1305,105,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,LSU,43
+2010-11,2010-12-29,1011017,252,0,1,Rice,LSU,Owls,Tigers,3,3,29,23,6,1476,LSU,1280,80,25, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,10.65,548681,NA,NA,0,LSU,Rice,44
+2010-11,2010-12-29,1011017,263,0,1,Rice,LSU,Owls,Tigers,3,3,29,23,6,1476,LSU,1257,57,23,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,45
+2010-11,2010-12-29,1011017,264,0,1,Rice,LSU,Owls,Tigers,3,3,30,23,7,1582,Rice,1257,57,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,45
+2010-11,2010-12-29,1011017,265,0,1,Rice,LSU,Owls,Tigers,3,3,31,23,8,1582,Rice,1257,57,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,45
+2010-11,2010-12-29,1011017,267,0,1,Rice,LSU,Owls,Tigers,3,3,31,26,5,1476,LSU,1237,37,20, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,28.2,29.45,548678,NA,NA,0,LSU,Rice,46
+2010-11,2010-12-29,1011017,269,0,1,Rice,LSU,Owls,Tigers,3,3,31,26,5,1582,Rice,1202,2,35, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,34.7,24.75,473209,NA,NA,0,Rice,LSU,47
+2010-11,2010-12-29,1011017,272,0,1,Rice,LSU,Owls,Tigers,3,3,31,26,5,1476,LSU,1201,1,1, misses a 3-point jump shot from 52 feet out.,missed,FALSE,TRUE,Jump Shot,28.5,36.95,483816,NA,NA,0,LSU,Rice,48
+2010-11,2010-12-29,1011017,274,0,1,Rice,LSU,Owls,Tigers,3,3,31,26,5,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,278,0,2,Rice,LSU,Owls,Tigers,4,4,31,26,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,49
+2010-11,2010-12-29,1011017,280,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1582,Rice,1190,1190,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552330,NA,NA,0,Rice,LSU,50
+2010-11,2010-12-29,1011017,281,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1476,LSU,1167,1167,23, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,13.95,548680,NA,NA,0,LSU,LSU,51
+2010-11,2010-12-29,1011017,282,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1476,LSU,1156,1156,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,13.75,548681,NA,NA,0,LSU,LSU,51
+2010-11,2010-12-29,1011017,283,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1476,LSU,1124,1124,32, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,15.85,398595,NA,NA,0,LSU,Rice,51
+2010-11,2010-12-29,1011017,287,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1476,LSU,1111,1111,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,52
+2010-11,2010-12-29,1011017,289,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1582,Rice,1105,1105,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,14.75,458971,NA,NA,0,Rice,LSU,52
+2010-11,2010-12-29,1011017,291,0,2,Rice,LSU,Owls,Tigers,4,4,33,26,7,1582,Rice,1098,1098,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,53
+2010-11,2010-12-29,1011017,293,0,2,Rice,LSU,Owls,Tigers,4,4,33,28,5,1476,LSU,1079,1079,19, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14,6.25,398595,NA,NA,0,LSU,Rice,53
+2010-11,2010-12-29,1011017,294,0,2,Rice,LSU,Owls,Tigers,4,4,35,28,7,1582,Rice,1058,1058,21, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,27.7,18.25,458971,NA,NA,0,Rice,LSU,54
+2010-11,2010-12-29,1011017,296,0,2,Rice,LSU,Owls,Tigers,4,4,35,28,7,1582,Rice,1040,1040,18,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,55
+2010-11,2010-12-29,1011017,297,0,2,Rice,LSU,Owls,Tigers,4,4,35,29,6,1476,LSU,1040,1040,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,55
+2010-11,2010-12-29,1011017,298,0,2,Rice,LSU,Owls,Tigers,4,4,35,29,6,1476,LSU,1040,1040,0, misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,55
+2010-11,2010-12-29,1011017,299,0,2,Rice,LSU,Owls,Tigers,4,4,35,30,5,1476,LSU,1040,1040,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,55
+2010-11,2010-12-29,1011017,304,0,2,Rice,LSU,Owls,Tigers,4,4,35,30,5,1582,Rice,1022,1022,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,56
+2010-11,2010-12-29,1011017,307,0,2,Rice,LSU,Owls,Tigers,4,4,37,30,7,1582,Rice,1021,1021,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,LSU,56
+2010-11,2010-12-29,1011017,312,0,2,Rice,LSU,Owls,Tigers,4,4,37,30,7,1582,Rice,1016,1016,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,57
+2010-11,2010-12-29,1011017,317,0,2,Rice,LSU,Owls,Tigers,4,4,37,30,7,1476,LSU,1006,1006,10, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.8,9.15,460876,NA,NA,0,LSU,LSU,57
+2010-11,2010-12-29,1011017,318,0,2,Rice,LSU,Owls,Tigers,4,4,37,30,7,1476,LSU,1006,1006,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,LSU,57
+2010-11,2010-12-29,1011017,321,0,2,Rice,LSU,Owls,Tigers,4,4,37,32,5,1476,LSU,1004,1004,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400354,NA,NA,0,LSU,Rice,57
+2010-11,2010-12-29,1011017,324,0,2,Rice,LSU,Owls,Tigers,4,4,39,32,7,1582,Rice,1001,1001,3, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,19.7,8.150000000000006,506616,NA,NA,0,Rice,Rice,58
+2010-11,2010-12-29,1011017,327,0,2,Rice,LSU,Owls,Tigers,4,4,39,32,7,1476,LSU,999,999,2,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,58
+2010-11,2010-12-29,1011017,330,0,2,Rice,LSU,Owls,Tigers,4,4,40,32,8,1582,Rice,998,998,1, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,58
+2010-11,2010-12-29,1011017,332,0,2,Rice,LSU,Owls,Tigers,4,4,40,32,8,1476,LSU,986,986,12, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,19.55,548681,NA,NA,0,LSU,Rice,59
+2010-11,2010-12-29,1011017,359,0,2,Rice,LSU,Owls,Tigers,4,4,40,32,8,1476,LSU,954,954,32,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,60
+2010-11,2010-12-29,1011017,360,0,2,Rice,LSU,Owls,Tigers,4,4,40,32,8,NA,NA,954,954,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,362,0,2,Rice,LSU,Owls,Tigers,4,4,40,32,8,1582,Rice,947,947,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,12.25,295357,NA,NA,0,Rice,Rice,60
+2010-11,2010-12-29,1011017,368,0,2,Rice,LSU,Owls,Tigers,4,4,43,32,11,1582,Rice,914,914,33, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,6.200000000000003,23.849999999999994,458971,NA,NA,0,Rice,LSU,60
+2010-11,2010-12-29,1011017,370,0,2,Rice,LSU,Owls,Tigers,4,4,43,34,9,1476,LSU,893,893,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,LSU,61
+2010-11,2010-12-29,1011017,371,0,2,Rice,LSU,Owls,Tigers,4,4,43,34,9,1582,Rice,893,893,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,61
+2010-11,2010-12-29,1011017,372,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1476,LSU,893,893,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,61
+2010-11,2010-12-29,1011017,376,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1476,LSU,880,880,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,62
+2010-11,2010-12-29,1011017,379,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1476,LSU,871,871,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,62
+2010-11,2010-12-29,1011017,383,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1476,LSU,847,847,24, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,21.15,548681,NA,NA,0,LSU,Rice,62
+2010-11,2010-12-29,1011017,384,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1582,Rice,832,832,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18,28.25,458971,NA,NA,0,Rice,LSU,63
+2010-11,2010-12-29,1011017,385.5,0,2,Rice,LSU,Owls,Tigers,4,4,43,35,8,1476,LSU,810,810,22,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,64
+2010-11,2010-12-29,1011017,389.5,0,2,Rice,LSU,Owls,Tigers,4,3,43,35,8,1476,LSU,810,810,0,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,392,0,2,Rice,LSU,Owls,Tigers,4,3,45,35,10,1582,Rice,790,790,20, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.7,9.650000000000006,506616,NA,NA,0,Rice,LSU,65
+2010-11,2010-12-29,1011017,393,0,2,Rice,LSU,Owls,Tigers,4,3,45,35,10,1476,LSU,772,772,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.1999999999999993,2.15,548681,NA,NA,0,LSU,LSU,66
+2010-11,2010-12-29,1011017,395,0,2,Rice,LSU,Owls,Tigers,4,3,45,35,10,1582,Rice,736,736,36,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,66
+2010-11,2010-12-29,1011017,396,0,2,Rice,LSU,Owls,Tigers,4,3,45,36,9,1476,LSU,736,736,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,66
+2010-11,2010-12-29,1011017,397,0,2,Rice,LSU,Owls,Tigers,4,3,45,37,8,1476,LSU,736,736,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,66
+2010-11,2010-12-29,1011017,406,0,2,Rice,LSU,Owls,Tigers,4,3,45,37,8,1582,Rice,716,716,20, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,25.75,473209,NA,NA,0,Rice,LSU,67
+2010-11,2010-12-29,1011017,409,0,2,Rice,LSU,Owls,Tigers,4,3,45,37,8,1582,Rice,713,713,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,68
+2010-11,2010-12-29,1011017,410,0,2,Rice,LSU,Owls,Tigers,4,3,45,37,8,NA,NA,713,713,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,415,0,2,Rice,LSU,Owls,Tigers,4,3,45,37,8,1476,LSU,698,698,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7,21.35,548678,NA,NA,0,LSU,Rice,68
+2010-11,2010-12-29,1011017,423,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1582,Rice,663,663,35, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,27.5,20.150000000000006,473209,NA,NA,0,Rice,LSU,69
+2010-11,2010-12-29,1011017,425,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1582,Rice,647,647,16,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,70
+2010-11,2010-12-29,1011017,426,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1476,LSU,647,647,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,70
+2010-11,2010-12-29,1011017,430,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1476,LSU,617,617,30,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,70
+2010-11,2010-12-29,1011017,433,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1476,LSU,590,590,27,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,71
+2010-11,2010-12-29,1011017,434,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1582,Rice,590,590,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,71
+2010-11,2010-12-29,1011017,443,0,2,Rice,LSU,Owls,Tigers,4,3,47,37,10,1476,LSU,563,563,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.7,6.95,548678,NA,NA,0,LSU,Rice,72
+2010-11,2010-12-29,1011017,447,0,2,Rice,LSU,Owls,Tigers,4,3,49,37,12,1582,Rice,551,551,12, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14,6.450000000000003,506616,NA,NA,0,Rice,LSU,73
+2010-11,2010-12-29,1011017,449,0,2,Rice,LSU,Owls,Tigers,4,3,49,39,10,1476,LSU,527,527,24, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509461,NA,NA,0,LSU,LSU,74
+2010-11,2010-12-29,1011017,450,0,2,Rice,LSU,Owls,Tigers,4,3,49,39,10,1582,Rice,527,527,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,74
+2010-11,2010-12-29,1011017,451,0,2,Rice,LSU,Owls,Tigers,4,3,49,39,10,1476,LSU,527,527,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,74
+2010-11,2010-12-29,1011017,461,0,2,Rice,LSU,Owls,Tigers,3,3,49,39,10,1582,Rice,513,513,14,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,464,0,2,Rice,LSU,Owls,Tigers,3,3,51,39,12,1582,Rice,506,506,7, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,23.7,18.950000000000003,458971,NA,NA,0,Rice,LSU,75
+2010-11,2010-12-29,1011017,465,0,2,Rice,LSU,Owls,Tigers,3,3,51,39,12,1476,LSU,493,493,13, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,17.05,548681,NA,NA,0,LSU,Rice,76
+2010-11,2010-12-29,1011017,467,0,2,Rice,LSU,Owls,Tigers,3,3,51,39,12,1582,Rice,472,472,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,7.150000000000006,473209,NA,NA,0,Rice,Rice,77
+2010-11,2010-12-29,1011017,468,0,2,Rice,LSU,Owls,Tigers,3,3,51,39,12,1476,LSU,472,472,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,77
+2010-11,2010-12-29,1011017,469,0,2,Rice,LSU,Owls,Tigers,3,3,51,39,12,NA,NA,472,472,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,470,0,2,Rice,LSU,Owls,Tigers,3,3,52,39,13,1582,Rice,472,472,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,77
+2010-11,2010-12-29,1011017,471,0,2,Rice,LSU,Owls,Tigers,3,3,52,39,13,1582,Rice,472,472,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,77
+2010-11,2010-12-29,1011017,474,0,2,Rice,LSU,Owls,Tigers,3,3,52,39,13,1582,Rice,454,454,18,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,78
+2010-11,2010-12-29,1011017,475,0,2,Rice,LSU,Owls,Tigers,3,3,52,39,13,1476,LSU,454,454,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,78
+2010-11,2010-12-29,1011017,476,0,2,Rice,LSU,Owls,Tigers,3,3,52,40,12,1476,LSU,454,454,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,78
+2010-11,2010-12-29,1011017,478,0,2,Rice,LSU,Owls,Tigers,3,3,52,40,12,1476,LSU,438,438,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,20.35,548678,NA,NA,0,LSU,Rice,79
+2010-11,2010-12-29,1011017,479,0,2,Rice,LSU,Owls,Tigers,3,3,52,40,12,1582,Rice,413,413,25, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,21.150000000000006,339839,NA,NA,0,Rice,LSU,80
+2010-11,2010-12-29,1011017,480,0,2,Rice,LSU,Owls,Tigers,3,3,52,40,12,1476,LSU,400,400,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,23.25,548680,NA,NA,0,LSU,Rice,81
+2010-11,2010-12-29,1011017,482,0,2,Rice,LSU,Owls,Tigers,3,3,52,40,12,1476,LSU,377,377,23,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,82
+2010-11,2010-12-29,1011017,483,0,2,Rice,LSU,Owls,Tigers,3,3,53,40,13,1582,Rice,377,377,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,82
+2010-11,2010-12-29,1011017,484,0,2,Rice,LSU,Owls,Tigers,3,3,54,40,14,1582,Rice,377,377,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,82
+2010-11,2010-12-29,1011017,486,0,2,Rice,LSU,Owls,Tigers,3,3,54,40,14,1476,LSU,366,366,11, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,10.45,548680,NA,NA,0,LSU,LSU,83
+2010-11,2010-12-29,1011017,487,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1476,LSU,361,361,5, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,27.3,10.65,398595,NA,NA,0,LSU,Rice,83
+2010-11,2010-12-29,1011017,491,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1476,LSU,333,333,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,548680,NA,NA,0,LSU,LSU,84
+2010-11,2010-12-29,1011017,495,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1476,LSU,326,326,7, misses a tip shot from 7 feet out.,missed,FALSE,FALSE,Tip Shot,20.7,11.25,400354,NA,NA,0,LSU,Rice,84
+2010-11,2010-12-29,1011017,500,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1476,LSU,324,324,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,85
+2010-11,2010-12-29,1011017,501,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,NA,NA,324,324,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,502.625,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1582,Rice,320,320,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,Rice,85
+2010-11,2010-12-29,1011017,504.25,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1476,LSU,318,318,2,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,85
+2010-11,2010-12-29,1011017,504.5,0,2,Rice,LSU,Owls,Tigers,3,3,54,42,12,1582,Rice,318,318,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,85
+2010-11,2010-12-29,1011017,504.75,0,2,Rice,LSU,Owls,Tigers,3,3,55,42,13,1582,Rice,318,318,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,85
+2010-11,2010-12-29,1011017,505,0,2,Rice,LSU,Owls,Tigers,3,3,57,42,15,1582,Rice,313,313,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506617,NA,NA,0,Rice,LSU,86
+2010-11,2010-12-29,1011017,507,0,2,Rice,LSU,Owls,Tigers,3,3,57,45,12,1476,LSU,303,303,10, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,10.25,548681,NA,NA,0,LSU,Rice,87
+2010-11,2010-12-29,1011017,508,0,2,Rice,LSU,Owls,Tigers,3,3,58,45,13,1582,Rice,300,300,3, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,88
+2010-11,2010-12-29,1011017,509,0,2,Rice,LSU,Owls,Tigers,3,3,59,45,14,1582,Rice,300,300,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,88
+2010-11,2010-12-29,1011017,511,0,2,Rice,LSU,Owls,Tigers,3,3,59,48,11,1476,LSU,292,292,8, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,2.5,15.65,548681,NA,NA,0,LSU,Rice,89
+2010-11,2010-12-29,1011017,512,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1582,Rice,257,257,35, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399613,NA,NA,0,Rice,LSU,90
+2010-11,2010-12-29,1011017,514,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1582,Rice,243,243,14,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2010-11,2010-12-29,1011017,534,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,NA,NA,243,243,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,542,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1476,LSU,240,240,3, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2010-11,2010-12-29,1011017,543,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1476,LSU,240,240,0, misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2010-11,2010-12-29,1011017,544,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1476,LSU,240,240,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2010-11,2010-12-29,1011017,550,0,2,Rice,LSU,Owls,Tigers,3,3,61,48,13,1476,LSU,225,225,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,24.75,548681,NA,NA,0,LSU,LSU,91
+2010-11,2010-12-29,1011017,551,0,2,Rice,LSU,Owls,Tigers,3,3,61,50,11,1476,LSU,220,220,5, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,16.5,10.05,460876,NA,NA,0,LSU,Rice,91
+2010-11,2010-12-29,1011017,552,0,2,Rice,LSU,Owls,Tigers,3,3,61,53,8,1476,LSU,183,183,37, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,28.5,30.35,548681,NA,NA,0,LSU,Rice,92
+2010-11,2010-12-29,1011017,558,0,2,Rice,LSU,Owls,Tigers,3,3,61,53,8,1476,LSU,167,167,16,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,93
+2010-11,2010-12-29,1011017,559,0,2,Rice,LSU,Owls,Tigers,3,3,62,53,9,1582,Rice,167,167,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,93
+2010-11,2010-12-29,1011017,560,0,2,Rice,LSU,Owls,Tigers,3,3,63,53,10,1582,Rice,167,167,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,93
+2010-11,2010-12-29,1011017,566,0,2,Rice,LSU,Owls,Tigers,3,2,63,53,10,1476,LSU,164,164,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,568,0,2,Rice,LSU,Owls,Tigers,3,2,63,55,8,1476,LSU,161,161,3, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,35.2,2.35,548678,NA,NA,0,LSU,Rice,94
+2010-11,2010-12-29,1011017,570,0,2,Rice,LSU,Owls,Tigers,2,2,63,55,8,1582,Rice,152,152,9,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,583,0,2,Rice,LSU,Owls,Tigers,2,2,63,55,8,1582,Rice,120,120,32,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,95
+2010-11,2010-12-29,1011017,584,0,2,Rice,LSU,Owls,Tigers,2,2,63,56,7,1476,LSU,120,120,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,95
+2010-11,2010-12-29,1011017,585,0,2,Rice,LSU,Owls,Tigers,2,2,63,57,6,1476,LSU,120,120,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,95
+2010-11,2010-12-29,1011017,588,0,2,Rice,LSU,Owls,Tigers,2,2,63,57,6,1476,LSU,90,90,30,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,96
+2010-11,2010-12-29,1011017,589,0,2,Rice,LSU,Owls,Tigers,2,2,64,57,7,1582,Rice,90,90,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,96
+2010-11,2010-12-29,1011017,590,0,2,Rice,LSU,Owls,Tigers,2,1,64,57,7,1476,LSU,90,90,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,591,0,2,Rice,LSU,Owls,Tigers,2,1,64,57,7,1582,Rice,90,90,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,96
+2010-11,2010-12-29,1011017,593,0,2,Rice,LSU,Owls,Tigers,2,1,64,57,7,1476,LSU,80,80,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,16.45,548681,NA,NA,0,LSU,Rice,97
+2010-11,2010-12-29,1011017,597,0,2,Rice,LSU,Owls,Tigers,2,1,64,57,7,1476,LSU,60,60,20,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,98
+2010-11,2010-12-29,1011017,600,0,2,Rice,LSU,Owls,Tigers,2,1,64,57,7,1582,Rice,60,60,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,98
+2010-11,2010-12-29,1011017,601,0,2,Rice,LSU,Owls,Tigers,2,1,65,57,8,1582,Rice,60,60,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,98
+2010-11,2010-12-29,1011017,604,0,2,Rice,LSU,Owls,Tigers,2,1,65,59,6,1476,LSU,50,50,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,548680,NA,NA,0,LSU,Rice,99
+2010-11,2010-12-29,1011017,607,0,2,Rice,LSU,Owls,Tigers,2,1,65,59,6,1476,LSU,50,50,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2010-11,2010-12-29,1011017,608,0,2,Rice,LSU,Owls,Tigers,1,1,65,59,6,1582,Rice,50,50,0,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,609,0,2,Rice,LSU,Owls,Tigers,1,1,66,59,7,1582,Rice,50,50,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2010-11,2010-12-29,1011017,610,0,2,Rice,LSU,Owls,Tigers,1,1,67,59,8,1582,Rice,50,50,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,100
+2010-11,2010-12-29,1011017,613,0,2,Rice,LSU,Owls,Tigers,1,1,67,59,8,1582,Rice,40,40,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,101
+2010-11,2010-12-29,1011017,614,0,2,Rice,LSU,Owls,Tigers,1,1,67,60,7,1476,LSU,40,40,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,101
+2010-11,2010-12-29,1011017,615,0,2,Rice,LSU,Owls,Tigers,1,1,67,61,6,1476,LSU,40,40,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,101
+2010-11,2010-12-29,1011017,616,0,2,Rice,LSU,Owls,Tigers,1,1,67,62,5,1476,LSU,40,40,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,101
+2010-11,2010-12-29,1011017,621,0,2,Rice,LSU,Owls,Tigers,1,1,67,62,5,1476,LSU,34,34,6,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2010-11,2010-12-29,1011017,623,0,2,Rice,LSU,Owls,Tigers,1,1,68,62,6,1582,Rice,34,34,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2010-11,2010-12-29,1011017,624,0,2,Rice,LSU,Owls,Tigers,1,1,68,62,6,1582,Rice,34,34,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,102
+2010-11,2010-12-29,1011017,627,0,2,Rice,LSU,Owls,Tigers,1,1,68,62,6,1476,LSU,26,26,8, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,23.85,548678,NA,NA,0,LSU,LSU,103
+2010-11,2010-12-29,1011017,627.75,0,2,Rice,LSU,Owls,Tigers,1,1,68,65,3,1476,LSU,25,25,1, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,6,17.25,548680,NA,NA,0,LSU,Rice,103
+2010-11,2010-12-29,1011017,628.5,0,2,Rice,LSU,Owls,Tigers,1,1,68,65,3,1476,LSU,24,24,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,104
+2010-11,2010-12-29,1011017,629.25,0,2,Rice,LSU,Owls,Tigers,1,1,69,65,4,1582,Rice,24,24,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,104
+2010-11,2010-12-29,1011017,629.625,0,2,Rice,LSU,Owls,Tigers,1,1,70,65,5,1582,Rice,24,24,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,104
+2010-11,2010-12-29,1011017,640,0,2,Rice,LSU,Owls,Tigers,1,1,70,67,3,1476,LSU,16,16,8, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,27,7.55,548678,NA,NA,0,LSU,LSU,105
+2010-11,2010-12-29,1011017,641,0,2,Rice,LSU,Owls,Tigers,1,1,70,67,3,1582,Rice,16,16,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,105
+2010-11,2010-12-29,1011017,642,0,2,Rice,LSU,Owls,Tigers,1,1,70,68,2,1476,LSU,16,16,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Rice,105
+2010-11,2010-12-29,1011017,645,0,2,Rice,LSU,Owls,Tigers,1,1,70,68,2,1476,LSU,14,14,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,106
+2010-11,2010-12-29,1011017,654,0,2,Rice,LSU,Owls,Tigers,1,1,71,68,3,1582,Rice,14,14,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,106
+2010-11,2010-12-29,1011017,655,0,2,Rice,LSU,Owls,Tigers,1,1,72,68,4,1582,Rice,14,14,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,106
+2010-11,2010-12-29,1011017,658,0,2,Rice,LSU,Owls,Tigers,1,1,72,68,4,1476,LSU,10,10,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,107
+2010-11,2010-12-29,1011017,659,0,2,Rice,LSU,Owls,Tigers,1,1,73,68,5,1582,Rice,10,10,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,107
+2010-11,2010-12-29,1011017,660,0,2,Rice,LSU,Owls,Tigers,1,1,74,68,6,1582,Rice,10,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,LSU,107
+2010-11,2010-12-29,1011017,665,0,2,Rice,LSU,Owls,Tigers,1,1,74,68,6,1476,LSU,4,4,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,15.15,524957,NA,NA,0,LSU,NA,108
+2010-11,2010-12-29,1011017,675,0,2,Rice,LSU,Owls,Tigers,1,1,74,68,6,NA,NA,0,0,4,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-29,1011017,676,0,2,Rice,LSU,Owls,Tigers,1,1,74,68,6,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,NA

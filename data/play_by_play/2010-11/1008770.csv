@@ -1,0 +1,202 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-12,1008770,1,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arkansas,NA
+2010-11,2011-02-12,1008770,10,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,0,0,1293,Arkansas,2354,1154,46, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.25,410622,NA,NA,0,Arkansas,LSU,1
+2010-11,2011-02-12,1008770,11,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,0,0,1476,LSU,2331,1131,23, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,9.15,548678,NA,NA,0,LSU,LSU,2
+2010-11,2011-02-12,1008770,13,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,0,0,1293,Arkansas,2314,1114,17,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,2
+2010-11,2011-02-12,1008770,14,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,0,0,1476,LSU,2314,1114,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,2
+2010-11,2011-02-12,1008770,15,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,1,-1,1476,LSU,2314,1114,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,2
+2010-11,2011-02-12,1008770,18,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,1,-1,1293,Arkansas,2301,1101,13, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,8.150000000000006,410622,NA,NA,0,Arkansas,Arkansas,3
+2010-11,2011-02-12,1008770,19,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,0,1,-1,1476,LSU,2299,1099,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,3
+2010-11,2011-02-12,1008770,21,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,3,1,2,1293,Arkansas,2296,1096,3, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47,7.549999999999997,460845,NA,NA,0,Arkansas,LSU,3
+2010-11,2011-02-12,1008770,23,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,3,1,2,1293,Arkansas,2281,1081,15,Personal foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,4
+2010-11,2011-02-12,1008770,24,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,3,1,2,1476,LSU,2276,1076,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,25.25,548681,NA,NA,0,LSU,Arkansas,4
+2010-11,2011-02-12,1008770,26,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,5,1,4,1293,Arkansas,2272,1072,4, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.8,8.549999999999997,509394,NA,NA,0,Arkansas,LSU,5
+2010-11,2011-02-12,1008770,36,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,5,3,2,1476,LSU,2248,1048,24, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,29.5,18.05,548681,NA,NA,0,LSU,Arkansas,6
+2010-11,2011-02-12,1008770,38,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,5,3,2,1293,Arkansas,2237,1037,11,Offensive foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,7
+2010-11,2011-02-12,1008770,40,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,5,3,2,1476,LSU,2214,1014,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,29.45,548681,NA,NA,0,LSU,Arkansas,8
+2010-11,2011-02-12,1008770,41,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,8,3,5,1293,Arkansas,2195,995,19, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,26.7,31.35,460845,NA,NA,0,Arkansas,LSU,9
+2010-11,2011-02-12,1008770,46,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,8,3,5,1293,Arkansas,2159,959,36, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26,12.450000000000003,460845,NA,NA,0,Arkansas,LSU,10
+2010-11,2011-02-12,1008770,47,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,8,5,3,1476,LSU,2150,950,9, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,42.7,8.55,509461,NA,NA,0,LSU,Arkansas,11
+2010-11,2011-02-12,1008770,51,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,8,5,3,NA,NA,2142,942,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,60,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,8,5,3,1476,LSU,2121,921,21, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,13.15,460876,NA,NA,0,LSU,Arkansas,12
+2010-11,2011-02-12,1008770,61,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,5,5,1293,Arkansas,2109,909,12, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.5,8.150000000000006,400357,NA,NA,0,Arkansas,LSU,13
+2010-11,2011-02-12,1008770,62,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,5,5,1476,LSU,2086,886,23, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,19.75,400354,NA,NA,0,LSU,LSU,14
+2010-11,2011-02-12,1008770,63,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1476,LSU,2083,883,3, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.2,9.65,460876,NA,NA,0,LSU,Arkansas,14
+2010-11,2011-02-12,1008770,66,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1476,LSU,2076,876,7,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,15
+2010-11,2011-02-12,1008770,68,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1293,Arkansas,2049,849,27, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,10.049999999999997,400357,NA,NA,0,Arkansas,LSU,16
+2010-11,2011-02-12,1008770,69,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1476,LSU,2029,829,20, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.2,14.35,548680,NA,NA,0,LSU,Arkansas,17
+2010-11,2011-02-12,1008770,72,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1476,LSU,2024,824,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,18
+2010-11,2011-02-12,1008770,73,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,10,7,3,1293,Arkansas,2024,824,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,18
+2010-11,2011-02-12,1008770,74,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,11,7,4,1293,Arkansas,2024,824,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,18
+2010-11,2011-02-12,1008770,75,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,11,7,4,1293,Arkansas,2024,824,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,19
+2010-11,2011-02-12,1008770,79,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,11,7,4,1476,LSU,1999,799,25,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,19
+2010-11,2011-02-12,1008770,80,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,12,7,5,1293,Arkansas,1999,799,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,19
+2010-11,2011-02-12,1008770,81,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,7,6,1293,Arkansas,1999,799,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,19
+2010-11,2011-02-12,1008770,92,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,7,6,1293,Arkansas,1971,771,28,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,20
+2010-11,2011-02-12,1008770,93,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,8,5,1476,LSU,1971,771,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,20
+2010-11,2011-02-12,1008770,94,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,9,4,1476,LSU,1971,771,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,20
+2010-11,2011-02-12,1008770,99,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,9,4,1476,LSU,1959,759,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,21
+2010-11,2011-02-12,1008770,106,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,13,9,4,1476,LSU,1945,745,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,21
+2010-11,2011-02-12,1008770,107,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,14,9,5,1293,Arkansas,1945,745,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,21
+2010-11,2011-02-12,1008770,108,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,9,6,1293,Arkansas,1945,745,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,21
+2010-11,2011-02-12,1008770,122,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,9,6,NA,NA,1918,718,27,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,129,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,11,4,1476,LSU,1879,679,39, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,29.8,8.95,548680,NA,NA,0,LSU,Arkansas,22
+2010-11,2011-02-12,1008770,130,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,11,4,1293,Arkansas,1859,659,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,9.549999999999997,410622,NA,NA,0,Arkansas,LSU,23
+2010-11,2011-02-12,1008770,131,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,11,4,1476,LSU,1849,649,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,10.25,548678,NA,NA,0,LSU,Arkansas,24
+2010-11,2011-02-12,1008770,132,0,1,Arkansas,LSU,Razorbacks,Tigers,4,4,15,11,4,1293,Arkansas,1832,632,17, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,8.75,548281,NA,NA,0,Arkansas,Arkansas,25
+2010-11,2011-02-12,1008770,134,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,15,11,4,1293,Arkansas,1800,600,32,Razorbacks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,142,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,15,11,4,1293,Arkansas,1781,581,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15,11.650000000000006,410622,NA,NA,0,Arkansas,Arkansas,25
+2010-11,2011-02-12,1008770,146,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,15,11,4,1476,LSU,1752,552,29,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,25
+2010-11,2011-02-12,1008770,147,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,16,11,5,1293,Arkansas,1752,552,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,25
+2010-11,2011-02-12,1008770,148,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,11,6,1293,Arkansas,1752,552,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,25
+2010-11,2011-02-12,1008770,152,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,11,6,1476,LSU,1733,533,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,9.65,400354,NA,NA,0,LSU,LSU,26
+2010-11,2011-02-12,1008770,153,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,11,6,1476,LSU,1727,527,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,13.55,398595,NA,NA,0,LSU,Arkansas,26
+2010-11,2011-02-12,1008770,155,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,11,6,1293,Arkansas,1711,511,16,Offensive foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,27
+2010-11,2011-02-12,1008770,160,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,13,4,1476,LSU,1696,496,15, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,26,23.05,398595,NA,NA,0,LSU,Arkansas,28
+2010-11,2011-02-12,1008770,162,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,17,13,4,1476,LSU,1689,489,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,29
+2010-11,2011-02-12,1008770,163,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,18,13,5,1293,Arkansas,1689,489,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,29
+2010-11,2011-02-12,1008770,164,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,19,13,6,1293,Arkansas,1689,489,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,29
+2010-11,2011-02-12,1008770,166,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,19,15,4,1476,LSU,1668,468,21, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,32.8,9.55,400354,NA,NA,0,LSU,Arkansas,30
+2010-11,2011-02-12,1008770,167,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,22,15,7,1293,Arkansas,1647,447,21, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,2.799999999999997,8.549999999999997,400355,NA,NA,0,Arkansas,LSU,31
+2010-11,2011-02-12,1008770,168,0,1,Arkansas,LSU,Razorbacks,Tigers,3,4,24,15,9,1293,Arkansas,1612,412,35, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,25.3,9.150000000000006,400357,NA,NA,0,Arkansas,LSU,32
+2010-11,2011-02-12,1008770,172,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,24,15,9,1476,LSU,1610,410,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,177,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,24,17,7,1476,LSU,1601,401,9, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,38.7,8.35,400354,NA,NA,0,LSU,Arkansas,33
+2010-11,2011-02-12,1008770,178,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,24,17,7,1293,Arkansas,1580,380,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.2,18.950000000000003,402419,NA,NA,0,Arkansas,Arkansas,34
+2010-11,2011-02-12,1008770,179,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,17,9,1293,Arkansas,1563,363,17, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27,8.150000000000006,402419,NA,NA,0,Arkansas,LSU,34
+2010-11,2011-02-12,1008770,182,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,17,9,NA,NA,1543,343,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,195,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,17,9,1293,Arkansas,1523,323,20,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2011-02-12,1008770,196,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,18,8,1476,LSU,1523,323,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2011-02-12,1008770,197,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,18,8,1476,LSU,1523,323,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2010-11,2011-02-12,1008770,207,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,26,20,6,1476,LSU,1492,292,31, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,21.8,15.85,460876,NA,NA,0,LSU,Arkansas,35
+2010-11,2011-02-12,1008770,208,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,29,20,9,1293,Arkansas,1475,275,17, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,37.8,25.549999999999997,460845,NA,NA,0,Arkansas,LSU,36
+2010-11,2011-02-12,1008770,210,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,29,20,9,1476,LSU,1454,254,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37,10.05,400354,NA,NA,0,LSU,LSU,37
+2010-11,2011-02-12,1008770,217,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,29,22,7,1476,LSU,1447,247,7, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.7,9.15,548678,NA,NA,0,LSU,Arkansas,37
+2010-11,2011-02-12,1008770,219.5,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,29,22,7,1293,Arkansas,1433,233,14, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30,9.25,509392,NA,NA,0,Arkansas,Arkansas,38
+2010-11,2011-02-12,1008770,223,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,29,22,7,NA,NA,1433,233,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,226,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,31,22,9,1293,Arkansas,1420,220,13, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,30.7,9.549999999999997,509394,NA,NA,0,Arkansas,LSU,38
+2010-11,2011-02-12,1008770,227,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,33,22,11,1293,Arkansas,1402,202,18, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,27.8,10.450000000000003,402419,NA,NA,0,Arkansas,LSU,39
+2010-11,2011-02-12,1008770,234,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,33,22,11,1293,Arkansas,1356,156,46, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,16.650000000000006,460845,NA,NA,0,Arkansas,Arkansas,40
+2010-11,2011-02-12,1008770,237,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,33,22,11,1293,Arkansas,1355,155,1, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,13.950000000000003,460845,NA,NA,0,Arkansas,Arkansas,40
+2010-11,2011-02-12,1008770,242,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,33,22,11,1293,Arkansas,1354,154,1,Offensive foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,40
+2010-11,2011-02-12,1008770,245,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,33,22,11,1476,LSU,1339,139,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,19.8,30.35,548678,NA,NA,0,LSU,Arkansas,41
+2010-11,2011-02-12,1008770,246,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,36,22,14,1293,Arkansas,1308,108,31, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47.3,11.849999999999994,509390,NA,NA,0,Arkansas,LSU,42
+2010-11,2011-02-12,1008770,252,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,38,22,16,1293,Arkansas,1259,59,49, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25.2,11.25,410622,NA,NA,0,Arkansas,LSU,43
+2010-11,2011-02-12,1008770,253,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,38,22,16,1476,LSU,1223,23,36, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,22.45,509462,NA,NA,0,LSU,Arkansas,44
+2010-11,2011-02-12,1008770,255,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,40,22,18,1293,Arkansas,1205,5,18, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.8,8.549999999999997,460845,NA,NA,0,Arkansas,LSU,45
+2010-11,2011-02-12,1008770,256,0,1,Arkansas,LSU,Razorbacks,Tigers,3,3,40,22,18,NA,NA,1200,0,5,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,257,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,22,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arkansas,46
+2010-11,2011-02-12,1008770,263,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,22,18,1293,Arkansas,1174,1174,26, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,9,25.549999999999997,400355,NA,NA,0,Arkansas,LSU,47
+2010-11,2011-02-12,1008770,265,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,22,18,1293,Arkansas,1163,1163,11,Personal foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,48
+2010-11,2011-02-12,1008770,269,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,22,18,1476,LSU,1155,1155,8, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,12.75,548681,NA,NA,0,LSU,LSU,48
+2010-11,2011-02-12,1008770,272,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,22,18,1293,Arkansas,1154,1154,1,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,48
+2010-11,2011-02-12,1008770,273,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,23,17,1476,LSU,1154,1154,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,48
+2010-11,2011-02-12,1008770,275,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,40,24,16,1476,LSU,1154,1154,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,48
+2010-11,2011-02-12,1008770,283,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1293,Arkansas,1125,1125,29, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,21,12.25,460845,NA,NA,0,Arkansas,LSU,49
+2010-11,2011-02-12,1008770,283.5,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1476,LSU,1107,1107,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,9,24.25,548680,NA,NA,0,LSU,Arkansas,50
+2010-11,2011-02-12,1008770,285,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1293,Arkansas,1101,1101,6, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8.299999999999997,12.450000000000003,402419,NA,NA,0,Arkansas,LSU,51
+2010-11,2011-02-12,1008770,286,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1476,LSU,1080,1080,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,15.65,460876,NA,NA,0,LSU,Arkansas,52
+2010-11,2011-02-12,1008770,287,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1293,Arkansas,1071,1071,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,18.25,400355,NA,NA,0,Arkansas,LSU,53
+2010-11,2011-02-12,1008770,288,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,24,18,1476,LSU,1063,1063,8, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,14.75,548681,NA,NA,0,LSU,LSU,54
+2010-11,2011-02-12,1008770,289,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,26,16,1476,LSU,1061,1061,2, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,23.8,9.65,460876,NA,NA,0,LSU,Arkansas,54
+2010-11,2011-02-12,1008770,290,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,26,16,1293,Arkansas,1038,1038,23, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,7.549999999999997,410622,NA,NA,0,Arkansas,LSU,55
+2010-11,2011-02-12,1008770,291,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,42,26,16,1476,LSU,1030,1030,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,11.3,26.15,548678,NA,NA,0,LSU,Arkansas,56
+2010-11,2011-02-12,1008770,292,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,45,26,19,1293,Arkansas,1021,1021,9, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,7.799999999999997,26.349999999999994,460845,NA,NA,0,Arkansas,LSU,57
+2010-11,2011-02-12,1008770,293,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,45,29,16,1476,LSU,996,996,25, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.2,30.25,548681,NA,NA,0,LSU,Arkansas,58
+2010-11,2011-02-12,1008770,296,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,45,29,16,1476,LSU,985,985,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,59
+2010-11,2011-02-12,1008770,303,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,47,29,18,1293,Arkansas,971,971,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.5,8.349999999999994,509392,NA,NA,0,Arkansas,LSU,59
+2010-11,2011-02-12,1008770,304,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,47,31,16,1476,LSU,957,957,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.2,9.15,509462,NA,NA,0,LSU,Arkansas,60
+2010-11,2011-02-12,1008770,306,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,50,31,19,1293,Arkansas,943,943,14, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,25.2,30.75,460845,NA,NA,0,Arkansas,LSU,61
+2010-11,2011-02-12,1008770,307,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,50,33,17,1476,LSU,927,927,16, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,25.3,13.55,548681,NA,NA,0,LSU,Arkansas,62
+2010-11,2011-02-12,1008770,308,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,33,19,1293,Arkansas,899,899,28, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,25,11.849999999999994,509394,NA,NA,0,Arkansas,LSU,63
+2010-11,2011-02-12,1008770,311,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,33,19,1293,Arkansas,879,879,20,Personal foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,64
+2010-11,2011-02-12,1008770,312,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,33,19,NA,NA,879,879,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,317,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,35,17,1476,LSU,868,868,11, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25,11.05,548678,NA,NA,0,LSU,Arkansas,64
+2010-11,2011-02-12,1008770,323,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,35,17,1293,Arkansas,848,848,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,19.150000000000006,400355,NA,NA,0,Arkansas,Arkansas,65
+2010-11,2011-02-12,1008770,325,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,35,17,1476,LSU,841,841,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,65
+2010-11,2011-02-12,1008770,332,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,35,17,1293,Arkansas,802,802,39,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,65
+2010-11,2011-02-12,1008770,333,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,36,16,1476,LSU,802,802,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,65
+2010-11,2011-02-12,1008770,334,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,37,15,1476,LSU,802,802,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,65
+2010-11,2011-02-12,1008770,337,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,52,37,15,1476,LSU,785,785,17,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,66
+2010-11,2011-02-12,1008770,338,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,53,37,16,1293,Arkansas,785,785,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,66
+2010-11,2011-02-12,1008770,339,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,54,37,17,1293,Arkansas,785,785,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,66
+2010-11,2011-02-12,1008770,342,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,54,37,17,1293,Arkansas,782,782,3,Personal foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,67
+2010-11,2011-02-12,1008770,348,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,54,37,17,1293,Arkansas,775,775,7,Personal foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,67
+2010-11,2011-02-12,1008770,350,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,54,39,15,1476,LSU,770,770,5, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28,9.25,509462,NA,NA,0,LSU,Arkansas,67
+2010-11,2011-02-12,1008770,354,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,54,39,15,1476,LSU,761,761,9,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,68
+2010-11,2011-02-12,1008770,356,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,55,39,16,1293,Arkansas,761,761,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,68
+2010-11,2011-02-12,1008770,357,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,56,39,17,1293,Arkansas,761,761,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,68
+2010-11,2011-02-12,1008770,359,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,56,39,17,1476,LSU,743,743,18, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,18.75,548678,NA,NA,0,LSU,Arkansas,69
+2010-11,2011-02-12,1008770,361,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,56,39,17,1476,LSU,735,735,8,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,70
+2010-11,2011-02-12,1008770,362,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,57,39,18,1293,Arkansas,735,735,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,70
+2010-11,2011-02-12,1008770,363,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,57,39,18,1293,Arkansas,735,735,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,70
+2010-11,2011-02-12,1008770,365,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,57,39,18,1476,LSU,717,717,18, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,12.05,400354,NA,NA,0,LSU,Arkansas,71
+2010-11,2011-02-12,1008770,366,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,59,39,20,1293,Arkansas,696,696,21, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,26.3,14.75,548281,NA,NA,0,Arkansas,LSU,72
+2010-11,2011-02-12,1008770,368,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,59,41,18,1476,LSU,679,679,17, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13.7,11.45,548681,NA,NA,0,LSU,Arkansas,73
+2010-11,2011-02-12,1008770,369,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,59,41,18,1476,LSU,679,679,0,Technical foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,74
+2010-11,2011-02-12,1008770,370,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,59,41,18,NA,NA,679,679,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,371,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,60,41,19,1293,Arkansas,679,679,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,74
+2010-11,2011-02-12,1008770,372,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,61,41,20,1293,Arkansas,679,679,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,74
+2010-11,2011-02-12,1008770,374,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,61,41,20,1293,Arkansas,651,651,28, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,12.25,509390,NA,NA,0,Arkansas,LSU,75
+2010-11,2011-02-12,1008770,375,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,61,41,20,1476,LSU,633,633,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,18.55,548681,NA,NA,0,LSU,Arkansas,76
+2010-11,2011-02-12,1008770,376,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,41,22,1293,Arkansas,617,617,16, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28.8,10.450000000000003,400355,NA,NA,0,Arkansas,LSU,77
+2010-11,2011-02-12,1008770,377,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,43,20,1476,LSU,600,600,17, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,33.5,19.35,400354,NA,NA,0,LSU,Arkansas,78
+2010-11,2011-02-12,1008770,378,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,43,20,1293,Arkansas,579,579,21, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,11.849999999999994,400357,NA,NA,0,Arkansas,Arkansas,79
+2010-11,2011-02-12,1008770,380,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,43,20,1293,Arkansas,575,575,4, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,14.950000000000003,509390,NA,NA,0,Arkansas,LSU,79
+2010-11,2011-02-12,1008770,385,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,43,20,1476,LSU,565,565,10,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,80
+2010-11,2011-02-12,1008770,390,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,63,43,20,1476,LSU,551,551,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,81
+2010-11,2011-02-12,1008770,391,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,64,43,21,1293,Arkansas,551,551,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,81
+2010-11,2011-02-12,1008770,392,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,65,43,22,1293,Arkansas,551,551,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,81
+2010-11,2011-02-12,1008770,399,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,65,43,22,1476,LSU,531,531,20, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30,12.05,483816,NA,NA,0,LSU,Arkansas,82
+2010-11,2011-02-12,1008770,400,0,2,Arkansas,LSU,Razorbacks,Tigers,4,4,65,43,22,1476,LSU,530,530,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,83
+2010-11,2011-02-12,1008770,401,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,65,43,22,1476,LSU,530,530,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,402,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,66,43,23,1293,Arkansas,530,530,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,83
+2010-11,2011-02-12,1008770,403,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,67,43,24,1293,Arkansas,530,530,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,83
+2010-11,2011-02-12,1008770,407,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,67,43,24,1476,LSU,517,517,13, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20,8.55,483816,NA,NA,0,LSU,LSU,84
+2010-11,2011-02-12,1008770,409,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,67,46,21,1476,LSU,512,512,5, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7.699999999999999,19.35,548678,NA,NA,0,LSU,Arkansas,84
+2010-11,2011-02-12,1008770,412,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,67,46,21,1476,LSU,489,489,23,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,85
+2010-11,2011-02-12,1008770,413,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,68,46,22,1293,Arkansas,489,489,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,85
+2010-11,2011-02-12,1008770,414,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,69,46,23,1293,Arkansas,489,489,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,85
+2010-11,2011-02-12,1008770,416,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,69,46,23,1476,LSU,476,476,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,22.65,548678,NA,NA,0,LSU,Arkansas,86
+2010-11,2011-02-12,1008770,417,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,71,46,25,1293,Arkansas,444,444,32, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,26.5,15.849999999999994,509394,NA,NA,0,Arkansas,LSU,87
+2010-11,2011-02-12,1008770,420,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,71,46,25,NA,NA,424,424,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,430,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,71,46,25,1293,Arkansas,409,409,15, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26,10.650000000000006,509394,NA,NA,0,Arkansas,Arkansas,88
+2010-11,2011-02-12,1008770,431,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,73,46,27,1293,Arkansas,406,406,3, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,25.2,10.650000000000006,509394,NA,NA,0,Arkansas,LSU,88
+2010-11,2011-02-12,1008770,433,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,73,46,27,1476,LSU,387,387,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,18.05,548681,NA,NA,0,LSU,LSU,89
+2010-11,2011-02-12,1008770,434,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,73,48,25,1476,LSU,382,382,5, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.2,8.55,398595,NA,NA,0,LSU,Arkansas,89
+2010-11,2011-02-12,1008770,437,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,73,48,25,1476,LSU,367,367,15,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,90
+2010-11,2011-02-12,1008770,438,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,74,48,26,1293,Arkansas,367,367,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,90
+2010-11,2011-02-12,1008770,439,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,75,48,27,1293,Arkansas,367,367,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,90
+2010-11,2011-02-12,1008770,441,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,75,48,27,1476,LSU,351,351,16, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,8.35,398595,NA,NA,0,LSU,Arkansas,91
+2010-11,2011-02-12,1008770,445,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,75,48,27,1476,LSU,329,329,22,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,92
+2010-11,2011-02-12,1008770,446,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,75,48,27,1293,Arkansas,329,329,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,92
+2010-11,2011-02-12,1008770,447,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,76,48,28,1293,Arkansas,329,329,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,LSU,92
+2010-11,2011-02-12,1008770,451,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,76,48,28,1293,Arkansas,316,316,13,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,93
+2010-11,2011-02-12,1008770,452,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,76,48,28,1476,LSU,316,316,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,93
+2010-11,2011-02-12,1008770,453,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,76,49,27,1476,LSU,316,316,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,93
+2010-11,2011-02-12,1008770,455,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1293,Arkansas,300,300,16, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.3,9.849999999999994,402419,NA,NA,0,Arkansas,LSU,94
+2010-11,2011-02-12,1008770,457,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1476,LSU,279,279,21, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,8.15,400354,NA,NA,0,LSU,LSU,95
+2010-11,2011-02-12,1008770,460,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1476,LSU,266,266,13, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,4.85,548681,NA,NA,0,LSU,LSU,95
+2010-11,2011-02-12,1008770,461,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1476,LSU,264,264,2, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17.7,9.65,460876,NA,NA,0,LSU,Arkansas,95
+2010-11,2011-02-12,1008770,462,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1293,Arkansas,257,257,7, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,10.450000000000003,402419,NA,NA,0,Arkansas,LSU,96
+2010-11,2011-02-12,1008770,464,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,49,29,1293,Arkansas,244,244,13,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,97
+2010-11,2011-02-12,1008770,465,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,50,28,1476,LSU,244,244,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,97
+2010-11,2011-02-12,1008770,466,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,51,27,1476,LSU,244,244,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,97
+2010-11,2011-02-12,1008770,469,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,51,27,NA,NA,235,235,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,482,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,54,24,1476,LSU,200,200,35, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,43.7,21.15,548678,NA,NA,0,LSU,Arkansas,98
+2010-11,2011-02-12,1008770,483,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,54,24,1293,Arkansas,171,171,29, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26,12.049999999999997,574907,NA,NA,0,Arkansas,Arkansas,99
+2010-11,2011-02-12,1008770,485,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,54,24,1293,Arkansas,157,157,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,12.950000000000003,574907,NA,NA,0,Arkansas,LSU,99
+2010-11,2011-02-12,1008770,492,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,54,24,1293,Arkansas,118,118,39,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,100
+2010-11,2011-02-12,1008770,493,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,55,23,1476,LSU,118,118,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,100
+2010-11,2011-02-12,1008770,494,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,56,22,1476,LSU,118,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,100
+2010-11,2011-02-12,1008770,496,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,56,22,1293,Arkansas,108,108,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,17,20.549999999999997,509391,NA,NA,0,Arkansas,LSU,101
+2010-11,2011-02-12,1008770,497,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,78,56,22,1476,LSU,100,100,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.7,30.25,548680,NA,NA,0,LSU,Arkansas,102
+2010-11,2011-02-12,1008770,498,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,56,24,1293,Arkansas,90,90,10, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,28.8,12.25,574907,NA,NA,0,Arkansas,LSU,103
+2010-11,2011-02-12,1008770,500,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,56,24,1293,Arkansas,70,70,20,Shooting foul committed by Razorbacks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,104
+2010-11,2011-02-12,1008770,501,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,57,23,1476,LSU,70,70,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,104
+2010-11,2011-02-12,1008770,502,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,57,23,1476,LSU,70,70,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Arkansas,104
+2010-11,2011-02-12,1008770,505,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,57,23,1293,Arkansas,54,54,16, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,16.200000000000003,29.25,574907,NA,NA,0,Arkansas,LSU,105
+2010-11,2011-02-12,1008770,507,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,59,21,1476,LSU,46,46,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.7,7.95,509462,NA,NA,0,LSU,Arkansas,106
+2010-11,2011-02-12,1008770,508,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,59,21,1293,Arkansas,34,34,12, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,22.5,30.75,548312,NA,NA,0,Arkansas,LSU,107
+2010-11,2011-02-12,1008770,509,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,61,19,1476,LSU,26,26,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.7,7.95,548678,NA,NA,0,LSU,Arkansas,108
+2010-11,2011-02-12,1008770,510,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,61,19,NA,NA,0,0,26,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1008770,511,0,2,Arkansas,LSU,Razorbacks,Tigers,4,3,80,61,19,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arkansas,Arkansas,NA

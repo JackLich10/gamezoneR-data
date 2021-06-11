@@ -1,0 +1,262 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-22,1001623,1,1,1,Baylor,San Diego,Bears,Toreros,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Baylor,NA
+2010-11,2010-12-22,1001623,4,1,1,Baylor,San Diego,Bears,Toreros,4,4,0,0,0,1313,Baylor,2385,1185,15, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,24.2,6.950000000000003,469234,NA,NA,0,Baylor,Baylor,1
+2010-11,2010-12-22,1001623,5,1,1,Baylor,San Diego,Bears,Toreros,4,4,0,0,0,1591,San Diego,2385,1185,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,1
+2010-11,2010-12-22,1001623,23,1,1,Baylor,San Diego,Bears,Toreros,4,4,2,0,2,1313,Baylor,2321,1121,64, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469235,NA,NA,0,Baylor,San Diego,2
+2010-11,2010-12-22,1001623,24,1,1,Baylor,San Diego,Bears,Toreros,4,4,2,0,2,1591,San Diego,2301,1101,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523683,NA,NA,0,San Diego,San Diego,3
+2010-11,2010-12-22,1001623,25,1,1,Baylor,San Diego,Bears,Toreros,4,4,2,0,2,1313,Baylor,2301,1101,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,3
+2010-11,2010-12-22,1001623,28,1,1,Baylor,San Diego,Bears,Toreros,4,4,2,0,2,1591,San Diego,2293,1093,8,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,4
+2010-11,2010-12-22,1001623,31,1,1,Baylor,San Diego,Bears,Toreros,4,4,2,0,2,1313,Baylor,2293,1093,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,4
+2010-11,2010-12-22,1001623,35,1,1,Baylor,San Diego,Bears,Toreros,4,4,3,0,3,1313,Baylor,2293,1093,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,4
+2010-11,2010-12-22,1001623,39,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,0,4,1313,Baylor,2293,1093,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,4
+2010-11,2010-12-22,1001623,52,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,2,2,1591,San Diego,2278,1078,15, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,36.3,13.35,459653,NA,NA,0,San Diego,Baylor,5
+2010-11,2010-12-22,1001623,54,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,2,2,1313,Baylor,2244,1044,34, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,13.349999999999994,551738,NA,NA,0,Baylor,Baylor,6
+2010-11,2010-12-22,1001623,55,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,2,2,1591,San Diego,2244,1044,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,6
+2010-11,2010-12-22,1001623,58,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,2,2,1313,Baylor,2237,1037,7,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,7
+2010-11,2010-12-22,1001623,59,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,2,2,1591,San Diego,2237,1037,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,7
+2010-11,2010-12-22,1001623,63,1,1,Baylor,San Diego,Bears,Toreros,4,4,4,3,1,1591,San Diego,2237,1037,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,7
+2010-11,2010-12-22,1001623,66,1,1,Baylor,San Diego,Bears,Toreros,4,4,7,3,4,1313,Baylor,2217,1017,20, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.5,5.450000000000003,398437,NA,NA,0,Baylor,San Diego,8
+2010-11,2010-12-22,1001623,67,1,1,Baylor,San Diego,Bears,Toreros,4,4,10,3,7,1313,Baylor,2192,992,25, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,5,17.450000000000003,511658,NA,NA,0,Baylor,San Diego,9
+2010-11,2010-12-22,1001623,68,1,1,Baylor,San Diego,Bears,Toreros,4,4,10,3,7,1591,San Diego,2171,971,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,3.85,523683,NA,NA,0,San Diego,San Diego,10
+2010-11,2010-12-22,1001623,69,1,1,Baylor,San Diego,Bears,Toreros,4,4,10,3,7,1313,Baylor,2171,971,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,10
+2010-11,2010-12-22,1001623,70,1,1,Baylor,San Diego,Bears,Toreros,4,4,12,3,9,1313,Baylor,2165,965,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469235,NA,NA,0,Baylor,San Diego,11
+2010-11,2010-12-22,1001623,75,1,1,Baylor,San Diego,Bears,Toreros,4,4,12,3,9,NA,NA,2136,936,29,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,77,1,1,Baylor,San Diego,Bears,Toreros,4,4,12,3,9,1313,Baylor,2134,934,2, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,5.849999999999994,511658,NA,NA,0,Baylor,Baylor,12
+2010-11,2010-12-22,1001623,78,1,1,Baylor,San Diego,Bears,Toreros,4,4,12,3,9,1313,Baylor,2134,934,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,12
+2010-11,2010-12-22,1001623,79,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2130,930,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.7,7.349999999999994,469235,NA,NA,0,Baylor,San Diego,12
+2010-11,2010-12-22,1001623,80,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1591,San Diego,2112,912,18, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,23.8,9.85,462091,NA,NA,0,San Diego,San Diego,13
+2010-11,2010-12-22,1001623,81,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2112,912,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,13
+2010-11,2010-12-22,1001623,82,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2097,897,15, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,29.3,6.650000000000006,457578,NA,NA,0,Baylor,Baylor,14
+2010-11,2010-12-22,1001623,83,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1591,San Diego,2097,897,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,14
+2010-11,2010-12-22,1001623,87,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1591,San Diego,2086,886,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,18.45,484183,NA,NA,0,San Diego,San Diego,15
+2010-11,2010-12-22,1001623,90,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1591,San Diego,2070,870,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,33.7,28.25,484183,NA,NA,0,San Diego,San Diego,15
+2010-11,2010-12-22,1001623,91,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2070,870,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,15
+2010-11,2010-12-22,1001623,92,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2043,843,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,11.049999999999997,469235,NA,NA,0,Baylor,Baylor,16
+2010-11,2010-12-22,1001623,93,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2043,843,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2010-11,2010-12-22,1001623,94,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2037,837,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457578,NA,NA,0,Baylor,Baylor,16
+2010-11,2010-12-22,1001623,95,1,1,Baylor,San Diego,Bears,Toreros,4,4,14,3,11,1313,Baylor,2037,837,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2010-11,2010-12-22,1001623,100,1,1,Baylor,San Diego,Bears,Toreros,4,4,16,3,13,1313,Baylor,2023,823,14, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,28.2,24.049999999999997,469234,NA,NA,0,Baylor,San Diego,16
+2010-11,2010-12-22,1001623,102,1,1,Baylor,San Diego,Bears,Toreros,4,4,16,3,13,1591,San Diego,1996,796,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,16.05,523689,NA,NA,0,San Diego,San Diego,17
+2010-11,2010-12-22,1001623,103,1,1,Baylor,San Diego,Bears,Toreros,4,4,16,3,13,1313,Baylor,1996,796,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,17
+2010-11,2010-12-22,1001623,105,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,3,15,1313,Baylor,1987,787,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551738,NA,NA,0,Baylor,San Diego,18
+2010-11,2010-12-22,1001623,107,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,5,13,1591,San Diego,1965,765,22, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,24.5,11.65,523689,NA,NA,0,San Diego,Baylor,19
+2010-11,2010-12-22,1001623,116,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,7,11,1591,San Diego,1932,732,33, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551109,NA,NA,0,San Diego,Baylor,20
+2010-11,2010-12-22,1001623,120,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,7,11,1313,Baylor,1899,699,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398438,NA,NA,0,Baylor,San Diego,21
+2010-11,2010-12-22,1001623,122,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,7,11,NA,NA,1899,699,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,127,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,7,11,1591,San Diego,1882,682,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,10.45,551109,NA,NA,0,San Diego,San Diego,22
+2010-11,2010-12-22,1001623,128,1,1,Baylor,San Diego,Bears,Toreros,4,4,18,7,11,1313,Baylor,1882,682,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,22
+2010-11,2010-12-22,1001623,129,1,1,Baylor,San Diego,Bears,Toreros,4,4,20,7,13,1313,Baylor,1869,669,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511655,NA,NA,0,Baylor,San Diego,23
+2010-11,2010-12-22,1001623,130,1,1,Baylor,San Diego,Bears,Toreros,4,4,20,9,11,1591,San Diego,1851,651,18, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,20.7,12.75,459653,NA,NA,0,San Diego,Baylor,24
+2010-11,2010-12-22,1001623,135,1,1,Baylor,San Diego,Bears,Toreros,4,4,20,9,11,1313,Baylor,1825,625,26, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,21.650000000000006,469234,NA,NA,0,Baylor,Baylor,25
+2010-11,2010-12-22,1001623,138,1,1,Baylor,San Diego,Bears,Toreros,4,4,20,9,11,1313,Baylor,1824,624,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551738,NA,NA,0,Baylor,Baylor,25
+2010-11,2010-12-22,1001623,139,1,1,Baylor,San Diego,Bears,Toreros,4,4,20,9,11,1313,Baylor,1824,624,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,25
+2010-11,2010-12-22,1001623,140,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1821,621,3, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.2,6.950000000000003,551738,NA,NA,0,Baylor,San Diego,25
+2010-11,2010-12-22,1001623,144,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1802,602,19, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.3,13.55,523678,NA,NA,0,San Diego,San Diego,26
+2010-11,2010-12-22,1001623,148,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1797,597,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,10.25,551109,NA,NA,0,San Diego,San Diego,26
+2010-11,2010-12-22,1001623,149,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1797,597,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,26
+2010-11,2010-12-22,1001623,150,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1791,591,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,10.45,411453,NA,NA,0,San Diego,San Diego,26
+2010-11,2010-12-22,1001623,151,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1791,591,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,26
+2010-11,2010-12-22,1001623,152,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1775,575,16, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,15.549999999999997,398437,NA,NA,0,Baylor,Baylor,27
+2010-11,2010-12-22,1001623,153,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1775,575,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,27
+2010-11,2010-12-22,1001623,157,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1769,569,6,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,27
+2010-11,2010-12-22,1001623,158,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1769,569,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,27
+2010-11,2010-12-22,1001623,162,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1769,569,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,27
+2010-11,2010-12-22,1001623,163,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1769,569,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,27
+2010-11,2010-12-22,1001623,174,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1749,549,20, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,25.2,9.65,462091,NA,NA,0,San Diego,San Diego,28
+2010-11,2010-12-22,1001623,177,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1749,549,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462091,NA,NA,0,San Diego,San Diego,28
+2010-11,2010-12-22,1001623,178,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1313,Baylor,1749,549,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,28
+2010-11,2010-12-22,1001623,184,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1723,523,26, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,6.65,462091,NA,NA,0,San Diego,San Diego,29
+2010-11,2010-12-22,1001623,185,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,9,13,1591,San Diego,1723,523,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,29
+2010-11,2010-12-22,1001623,186,1,1,Baylor,San Diego,Bears,Toreros,4,4,22,11,11,1591,San Diego,1718,518,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551109,NA,NA,0,San Diego,Baylor,29
+2010-11,2010-12-22,1001623,187,1,1,Baylor,San Diego,Bears,Toreros,4,4,24,11,13,1313,Baylor,1686,486,32, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,43.3,3.8499999999999943,469235,NA,NA,0,Baylor,San Diego,30
+2010-11,2010-12-22,1001623,190,1,1,Baylor,San Diego,Bears,Toreros,4,4,24,11,13,1591,San Diego,1678,478,8,Offensive foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,31
+2010-11,2010-12-22,1001623,191,1,1,Baylor,San Diego,Bears,Toreros,4,4,24,11,13,NA,NA,1678,478,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,195,1,1,Baylor,San Diego,Bears,Toreros,4,4,26,11,15,1313,Baylor,1658,458,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,San Diego,32
+2010-11,2010-12-22,1001623,200,1,1,Baylor,San Diego,Bears,Toreros,4,4,29,11,18,1313,Baylor,1635,435,23, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.2,8.75,398437,NA,NA,0,Baylor,San Diego,33
+2010-11,2010-12-22,1001623,201,1,1,Baylor,San Diego,Bears,Toreros,4,3,29,11,18,1591,San Diego,1631,431,4,Toreros take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,204,1,1,Baylor,San Diego,Bears,Toreros,4,3,29,13,16,1591,San Diego,1618,418,13, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,551108,NA,NA,0,San Diego,Baylor,34
+2010-11,2010-12-22,1001623,205,1,1,Baylor,San Diego,Bears,Toreros,4,3,31,13,18,1313,Baylor,1598,398,20, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,22.3,12.450000000000003,551738,NA,NA,0,Baylor,San Diego,35
+2010-11,2010-12-22,1001623,206,1,1,Baylor,San Diego,Bears,Toreros,4,3,31,13,18,1591,San Diego,1581,381,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41,24.25,523689,NA,NA,0,San Diego,San Diego,36
+2010-11,2010-12-22,1001623,207,1,1,Baylor,San Diego,Bears,Toreros,4,3,31,13,18,1313,Baylor,1581,381,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,36
+2010-11,2010-12-22,1001623,211,1,1,Baylor,San Diego,Bears,Toreros,4,3,31,13,18,1591,San Diego,1567,367,14,Personal foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,37
+2010-11,2010-12-22,1001623,215,1,1,Baylor,San Diego,Bears,Toreros,4,3,33,13,20,1313,Baylor,1563,363,4, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,29.3,7.150000000000006,469234,NA,NA,0,Baylor,San Diego,37
+2010-11,2010-12-22,1001623,219,1,1,Baylor,San Diego,Bears,Toreros,4,3,33,13,20,1313,Baylor,1553,353,10,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,38
+2010-11,2010-12-22,1001623,227,1,1,Baylor,San Diego,Bears,Toreros,4,3,35,13,22,1313,Baylor,1528,328,25, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,San Diego,38
+2010-11,2010-12-22,1001623,230,1,1,Baylor,San Diego,Bears,Toreros,4,3,35,13,22,1591,San Diego,1508,308,20,Personal foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,39
+2010-11,2010-12-22,1001623,233,1,1,Baylor,San Diego,Bears,Toreros,4,3,37,13,24,1313,Baylor,1500,300,8, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,32.8,13.150000000000006,469234,NA,NA,0,Baylor,San Diego,39
+2010-11,2010-12-22,1001623,237,1,1,Baylor,San Diego,Bears,Toreros,4,3,37,13,24,1313,Baylor,1485,285,15,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,40
+2010-11,2010-12-22,1001623,239,1,1,Baylor,San Diego,Bears,Toreros,4,3,37,13,24,1591,San Diego,1483,283,2, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,9.85,459653,NA,NA,0,San Diego,San Diego,40
+2010-11,2010-12-22,1001623,240,1,1,Baylor,San Diego,Bears,Toreros,4,3,37,13,24,1313,Baylor,1483,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,40
+2010-11,2010-12-22,1001623,241,1,1,Baylor,San Diego,Bears,Toreros,4,3,39,13,26,1313,Baylor,1473,273,10, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,511655,NA,NA,0,Baylor,San Diego,41
+2010-11,2010-12-22,1001623,245,1,1,Baylor,San Diego,Bears,Toreros,4,3,39,13,26,1591,San Diego,1456,256,17,Personal foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,42
+2010-11,2010-12-22,1001623,247,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1313,Baylor,1449,249,7, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,29,9.549999999999997,398438,NA,NA,0,Baylor,San Diego,42
+2010-11,2010-12-22,1001623,252,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,NA,NA,1430,230,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,256,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1313,Baylor,1420,220,10,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,43
+2010-11,2010-12-22,1001623,257,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1591,San Diego,1420,220,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,43
+2010-11,2010-12-22,1001623,261,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1591,San Diego,1420,220,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,43
+2010-11,2010-12-22,1001623,262,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1313,Baylor,1420,220,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,43
+2010-11,2010-12-22,1001623,268,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1591,San Diego,1411,211,9,Personal foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,44
+2010-11,2010-12-22,1001623,269,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1313,Baylor,1411,211,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,44
+2010-11,2010-12-22,1001623,270,1,1,Baylor,San Diego,Bears,Toreros,4,3,41,13,28,1313,Baylor,1411,211,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,44
+2010-11,2010-12-22,1001623,273,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,13,30,1313,Baylor,1398,198,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551738,NA,NA,0,Baylor,San Diego,44
+2010-11,2010-12-22,1001623,274,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,13,30,1591,San Diego,1380,180,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551109,NA,NA,0,San Diego,San Diego,45
+2010-11,2010-12-22,1001623,275,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,13,30,1591,San Diego,1380,180,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,45
+2010-11,2010-12-22,1001623,279,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,13,30,1313,Baylor,1372,172,8,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,45
+2010-11,2010-12-22,1001623,280,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,14,29,1591,San Diego,1372,172,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,45
+2010-11,2010-12-22,1001623,281,1,1,Baylor,San Diego,Bears,Toreros,4,3,43,15,28,1591,San Diego,1372,172,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,45
+2010-11,2010-12-22,1001623,283,1,1,Baylor,San Diego,Bears,Toreros,4,3,45,15,30,1313,Baylor,1367,167,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511655,NA,NA,0,Baylor,San Diego,46
+2010-11,2010-12-22,1001623,284,1,1,Baylor,San Diego,Bears,Toreros,4,3,45,15,30,1591,San Diego,1359,159,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,18.05,411453,NA,NA,0,San Diego,San Diego,47
+2010-11,2010-12-22,1001623,285,1,1,Baylor,San Diego,Bears,Toreros,4,3,45,15,30,1313,Baylor,1359,159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,47
+2010-11,2010-12-22,1001623,290,1,1,Baylor,San Diego,Bears,Toreros,4,3,45,15,30,1313,Baylor,1340,140,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,48
+2010-11,2010-12-22,1001623,295,1,1,Baylor,San Diego,Bears,Toreros,4,3,45,15,30,1591,San Diego,1324,124,16,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,48
+2010-11,2010-12-22,1001623,296,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,15,31,1313,Baylor,1324,124,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,48
+2010-11,2010-12-22,1001623,297,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,15,31,1313,Baylor,1324,124,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,48
+2010-11,2010-12-22,1001623,298,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,15,31,1591,San Diego,1324,124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,48
+2010-11,2010-12-22,1001623,300,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,15,31,1591,San Diego,1320,120,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,23.25,459653,NA,NA,0,San Diego,San Diego,49
+2010-11,2010-12-22,1001623,301,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,15,31,1591,San Diego,1320,120,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,49
+2010-11,2010-12-22,1001623,302,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,17,29,1591,San Diego,1316,116,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551108,NA,NA,0,San Diego,Baylor,49
+2010-11,2010-12-22,1001623,305,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,17,29,1313,Baylor,1296,96,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,23.049999999999997,551738,NA,NA,0,Baylor,Baylor,50
+2010-11,2010-12-22,1001623,306,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,17,29,1313,Baylor,1296,96,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,50
+2010-11,2010-12-22,1001623,318,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,19,27,1591,San Diego,1249,49,47, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,20,19.15,459653,NA,NA,0,San Diego,Baylor,50
+2010-11,2010-12-22,1001623,319,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,19,27,1313,Baylor,1231,31,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,18.950000000000003,469235,NA,NA,0,Baylor,Baylor,51
+2010-11,2010-12-22,1001623,320,1,1,Baylor,San Diego,Bears,Toreros,4,3,46,19,27,1313,Baylor,1231,31,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,51
+2010-11,2010-12-22,1001623,321,1,1,Baylor,San Diego,Bears,Toreros,4,3,48,19,29,1313,Baylor,1224,24,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511655,NA,NA,0,Baylor,San Diego,51
+2010-11,2010-12-22,1001623,326,1,1,Baylor,San Diego,Bears,Toreros,4,3,48,19,29,1313,Baylor,1216,16,8,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,52
+2010-11,2010-12-22,1001623,330,1,1,Baylor,San Diego,Bears,Toreros,4,3,48,19,29,1591,San Diego,1204,4,12, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,21.35,459653,NA,NA,0,San Diego,San Diego,52
+2010-11,2010-12-22,1001623,331,1,1,Baylor,San Diego,Bears,Toreros,4,3,48,19,29,1313,Baylor,1204,4,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,52
+2010-11,2010-12-22,1001623,332,1,1,Baylor,San Diego,Bears,Toreros,4,3,48,19,29,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,333,1,2,Baylor,San Diego,Bears,Toreros,4,4,48,19,29,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Baylor,53
+2010-11,2010-12-22,1001623,336,1,2,Baylor,San Diego,Bears,Toreros,4,4,50,19,31,1313,Baylor,1190,1190,10, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,19.7,22.650000000000006,469234,NA,NA,0,Baylor,San Diego,54
+2010-11,2010-12-22,1001623,337,1,2,Baylor,San Diego,Bears,Toreros,4,4,50,19,31,1591,San Diego,1165,1165,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484183,NA,NA,0,San Diego,San Diego,55
+2010-11,2010-12-22,1001623,338,1,2,Baylor,San Diego,Bears,Toreros,4,4,50,19,31,1591,San Diego,1165,1165,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,55
+2010-11,2010-12-22,1001623,339,1,2,Baylor,San Diego,Bears,Toreros,4,4,50,21,29,1591,San Diego,1160,1160,5, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,25.5,5.65,462091,NA,NA,0,San Diego,Baylor,55
+2010-11,2010-12-22,1001623,343,1,2,Baylor,San Diego,Bears,Toreros,4,4,50,21,29,1591,San Diego,1131,1131,29,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,56
+2010-11,2010-12-22,1001623,344,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,21,31,1313,Baylor,1131,1131,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511658,NA,NA,0,Baylor,San Diego,56
+2010-11,2010-12-22,1001623,345,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,21,31,1313,Baylor,1131,1131,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,57
+2010-11,2010-12-22,1001623,346,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,21,31,1313,Baylor,1131,1131,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,57
+2010-11,2010-12-22,1001623,350,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,21,31,1591,San Diego,1119,1119,12, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,23,9.15,462091,NA,NA,0,San Diego,San Diego,57
+2010-11,2010-12-22,1001623,351,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,21,31,1313,Baylor,1119,1119,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,57
+2010-11,2010-12-22,1001623,356,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,23,29,1591,San Diego,1097,1097,22, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,20.2,7.35,523683,NA,NA,0,San Diego,Baylor,58
+2010-11,2010-12-22,1001623,357,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,23,29,1313,Baylor,1079,1079,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,20.150000000000006,398437,NA,NA,0,Baylor,Baylor,59
+2010-11,2010-12-22,1001623,358,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,23,29,1591,San Diego,1079,1079,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,59
+2010-11,2010-12-22,1001623,362,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,23,29,1313,Baylor,1064,1064,15,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,60
+2010-11,2010-12-22,1001623,363,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,24,28,1591,San Diego,1064,1064,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,60
+2010-11,2010-12-22,1001623,364,1,2,Baylor,San Diego,Bears,Toreros,4,4,52,25,27,1591,San Diego,1064,1064,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,60
+2010-11,2010-12-22,1001623,366,1,2,Baylor,San Diego,Bears,Toreros,4,4,54,25,29,1313,Baylor,1041,1041,23, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,San Diego,61
+2010-11,2010-12-22,1001623,375,1,2,Baylor,San Diego,Bears,Toreros,4,4,54,25,29,1591,San Diego,1023,1023,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,24.55,411453,NA,NA,0,San Diego,San Diego,62
+2010-11,2010-12-22,1001623,376,1,2,Baylor,San Diego,Bears,Toreros,4,4,54,25,29,1591,San Diego,1023,1023,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,62
+2010-11,2010-12-22,1001623,377,1,2,Baylor,San Diego,Bears,Toreros,4,4,54,28,26,1591,San Diego,1017,1017,6, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.8,25.55,484183,NA,NA,0,San Diego,Baylor,62
+2010-11,2010-12-22,1001623,383,1,2,Baylor,San Diego,Bears,Toreros,4,4,54,28,26,1591,San Diego,1005,1005,12,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,63
+2010-11,2010-12-22,1001623,384,1,2,Baylor,San Diego,Bears,Toreros,4,4,55,28,27,1313,Baylor,1005,1005,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,63
+2010-11,2010-12-22,1001623,385,1,2,Baylor,San Diego,Bears,Toreros,4,4,56,28,28,1313,Baylor,1005,1005,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,63
+2010-11,2010-12-22,1001623,387,1,2,Baylor,San Diego,Bears,Toreros,4,4,56,30,26,1591,San Diego,995,995,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551108,NA,NA,0,San Diego,Baylor,64
+2010-11,2010-12-22,1001623,388,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,30,28,1313,Baylor,973,973,22, makes a hook shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,31.3,5.450000000000003,457578,NA,NA,0,Baylor,San Diego,65
+2010-11,2010-12-22,1001623,392,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,30,28,1313,Baylor,956,956,17,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,66
+2010-11,2010-12-22,1001623,393,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,30,28,NA,NA,956,956,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,397,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,30,28,1313,Baylor,941,941,15,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,66
+2010-11,2010-12-22,1001623,398,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,31,27,1591,San Diego,941,941,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,66
+2010-11,2010-12-22,1001623,399,1,2,Baylor,San Diego,Bears,Toreros,4,4,58,32,26,1591,San Diego,941,941,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,66
+2010-11,2010-12-22,1001623,401,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1313,Baylor,927,927,14, makes a jump shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.5,7.150000000000006,551738,NA,NA,0,Baylor,San Diego,67
+2010-11,2010-12-22,1001623,405,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1591,San Diego,909,909,18,Offensive foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,68
+2010-11,2010-12-22,1001623,412,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1591,San Diego,887,887,22,Personal foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,69
+2010-11,2010-12-22,1001623,419,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1313,Baylor,870,870,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,29.450000000000003,511658,NA,NA,0,Baylor,Baylor,69
+2010-11,2010-12-22,1001623,420,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1591,San Diego,870,870,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,69
+2010-11,2010-12-22,1001623,424,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,32,28,1313,Baylor,863,863,7,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,70
+2010-11,2010-12-22,1001623,425,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,33,27,1591,San Diego,863,863,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,70
+2010-11,2010-12-22,1001623,427,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1591,San Diego,863,863,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,70
+2010-11,2010-12-22,1001623,433,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1591,San Diego,842,842,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551108,NA,NA,0,San Diego,San Diego,71
+2010-11,2010-12-22,1001623,434,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1313,Baylor,842,842,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,71
+2010-11,2010-12-22,1001623,438,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1313,Baylor,833,833,9, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,11,19.25,511655,NA,NA,0,Baylor,Baylor,72
+2010-11,2010-12-22,1001623,439,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1313,Baylor,833,833,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,72
+2010-11,2010-12-22,1001623,452,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,34,26,1313,Baylor,800,800,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469235,NA,NA,0,Baylor,San Diego,72
+2010-11,2010-12-22,1001623,461,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,37,23,1591,San Diego,767,767,33, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.1999999999999993,6.95,523689,NA,NA,0,San Diego,Baylor,73
+2010-11,2010-12-22,1001623,463,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,37,23,1313,Baylor,735,735,32, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,9.549999999999997,398438,NA,NA,0,Baylor,Baylor,74
+2010-11,2010-12-22,1001623,464,1,2,Baylor,San Diego,Bears,Toreros,4,4,60,37,23,1313,Baylor,735,735,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,74
+2010-11,2010-12-22,1001623,465,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1313,Baylor,716,716,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469235,NA,NA,0,Baylor,San Diego,74
+2010-11,2010-12-22,1001623,470,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,NA,NA,692,692,24,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,476,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1313,Baylor,677,677,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,12.799999999999997,27.849999999999994,398437,NA,NA,0,Baylor,Baylor,75
+2010-11,2010-12-22,1001623,477,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1591,San Diego,677,677,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,75
+2010-11,2010-12-22,1001623,481,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1591,San Diego,654,654,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523689,NA,NA,0,San Diego,San Diego,76
+2010-11,2010-12-22,1001623,482,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1591,San Diego,654,654,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,76
+2010-11,2010-12-22,1001623,483,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,37,25,1313,Baylor,654,654,0,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,76
+2010-11,2010-12-22,1001623,484,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,38,24,1591,San Diego,654,654,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,76
+2010-11,2010-12-22,1001623,485,1,2,Baylor,San Diego,Bears,Toreros,4,4,62,39,23,1591,San Diego,654,654,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,76
+2010-11,2010-12-22,1001623,492,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1313,Baylor,638,638,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.700000000000003,18.75,511658,NA,NA,0,Baylor,San Diego,77
+2010-11,2010-12-22,1001623,493,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1591,San Diego,615,615,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,22.45,523678,NA,NA,0,San Diego,San Diego,78
+2010-11,2010-12-22,1001623,494,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1313,Baylor,615,615,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,78
+2010-11,2010-12-22,1001623,496,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1313,Baylor,600,600,15, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,8.549999999999997,457578,NA,NA,0,Baylor,San Diego,79
+2010-11,2010-12-22,1001623,509,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1591,San Diego,582,582,18, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,27.3,8.15,523683,NA,NA,0,San Diego,San Diego,80
+2010-11,2010-12-22,1001623,510,1,2,Baylor,San Diego,Bears,Toreros,4,4,65,39,26,1313,Baylor,582,582,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,80
+2010-11,2010-12-22,1001623,511,1,2,Baylor,San Diego,Bears,Toreros,4,4,67,39,28,1313,Baylor,569,569,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,San Diego,81
+2010-11,2010-12-22,1001623,515,1,2,Baylor,San Diego,Bears,Toreros,4,3,67,39,28,1591,San Diego,561,561,8,Toreros take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,522,1,2,Baylor,San Diego,Bears,Toreros,4,3,70,39,31,1313,Baylor,527,527,34, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.200000000000003,5.450000000000003,398437,NA,NA,0,Baylor,San Diego,82
+2010-11,2010-12-22,1001623,523,1,2,Baylor,San Diego,Bears,Toreros,4,3,70,39,31,1591,San Diego,515,515,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,8.55,551109,NA,NA,0,San Diego,San Diego,83
+2010-11,2010-12-22,1001623,524,1,2,Baylor,San Diego,Bears,Toreros,4,3,70,39,31,1313,Baylor,515,515,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,83
+2010-11,2010-12-22,1001623,525,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1313,Baylor,506,506,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,San Diego,84
+2010-11,2010-12-22,1001623,526,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1591,San Diego,489,489,17, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,19.95,459653,NA,NA,0,San Diego,San Diego,85
+2010-11,2010-12-22,1001623,527,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1313,Baylor,489,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,85
+2010-11,2010-12-22,1001623,528,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1313,Baylor,479,479,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,23.450000000000003,398438,NA,NA,0,Baylor,Baylor,86
+2010-11,2010-12-22,1001623,529,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1591,San Diego,479,479,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,86
+2010-11,2010-12-22,1001623,530,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1591,San Diego,465,465,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.5,25.75,484183,NA,NA,0,San Diego,San Diego,87
+2010-11,2010-12-22,1001623,531,1,2,Baylor,San Diego,Bears,Toreros,4,3,72,39,33,1313,Baylor,465,465,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,87
+2010-11,2010-12-22,1001623,534,1,2,Baylor,San Diego,Bears,Toreros,3,3,72,39,33,1313,Baylor,459,459,6,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,545,1,2,Baylor,San Diego,Bears,Toreros,3,3,74,39,35,1313,Baylor,446,446,13, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,23,8.950000000000003,398438,NA,NA,0,Baylor,San Diego,88
+2010-11,2010-12-22,1001623,548,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,39,35,1591,San Diego,435,435,11,Toreros take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,554,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,39,35,1591,San Diego,423,423,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,9,24.25,523689,NA,NA,0,San Diego,San Diego,89
+2010-11,2010-12-22,1001623,555,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,39,35,1313,Baylor,423,423,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,89
+2010-11,2010-12-22,1001623,559,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,39,35,1313,Baylor,406,406,17,Offensive foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,90
+2010-11,2010-12-22,1001623,567,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,41,33,1591,San Diego,386,386,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,523687,NA,NA,0,San Diego,Baylor,91
+2010-11,2010-12-22,1001623,568,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,41,33,1313,Baylor,359,359,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,92
+2010-11,2010-12-22,1001623,569,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,41,33,1591,San Diego,359,359,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,92
+2010-11,2010-12-22,1001623,570,1,2,Baylor,San Diego,Bears,Toreros,3,2,74,44,30,1591,San Diego,348,348,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.7,9.35,523689,NA,NA,0,San Diego,Baylor,93
+2010-11,2010-12-22,1001623,573,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1313,Baylor,337,337,11,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,577,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,327,327,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523687,NA,NA,0,San Diego,San Diego,94
+2010-11,2010-12-22,1001623,578,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,327,327,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,94
+2010-11,2010-12-22,1001623,579,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,321,321,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411453,NA,NA,0,San Diego,San Diego,94
+2010-11,2010-12-22,1001623,580,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1313,Baylor,321,321,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,94
+2010-11,2010-12-22,1001623,581,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1313,Baylor,312,312,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511655,NA,NA,0,Baylor,Baylor,95
+2010-11,2010-12-22,1001623,582,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,312,312,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,95
+2010-11,2010-12-22,1001623,586,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1313,Baylor,288,288,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.8,6.049999999999997,398438,NA,NA,0,Baylor,San Diego,96
+2010-11,2010-12-22,1001623,592,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,280,280,8, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,4.85,551108,NA,NA,0,San Diego,San Diego,97
+2010-11,2010-12-22,1001623,593,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,280,280,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,97
+2010-11,2010-12-22,1001623,607,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,251,251,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,18.25,411453,NA,NA,0,San Diego,Baylor,97
+2010-11,2010-12-22,1001623,614,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1313,Baylor,241,241,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,98
+2010-11,2010-12-22,1001623,615,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,44,30,1591,San Diego,241,241,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,98
+2010-11,2010-12-22,1001623,616,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,46,28,1591,San Diego,234,234,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,523689,NA,NA,0,San Diego,Baylor,99
+2010-11,2010-12-22,1001623,617,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,46,28,1313,Baylor,216,216,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.299999999999997,5.049999999999997,551738,NA,NA,0,Baylor,Baylor,100
+2010-11,2010-12-22,1001623,618,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,46,28,1313,Baylor,216,216,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,100
+2010-11,2010-12-22,1001623,619,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,46,28,1313,Baylor,208,208,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,100
+2010-11,2010-12-22,1001623,620,1,2,Baylor,San Diego,Bears,Toreros,2,2,74,46,28,1313,Baylor,208,208,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,100
+2010-11,2010-12-22,1001623,621,1,2,Baylor,San Diego,Bears,Toreros,2,2,76,46,30,1313,Baylor,203,203,5, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,22.8,5.25,578341,NA,NA,0,Baylor,San Diego,100
+2010-11,2010-12-22,1001623,624,1,2,Baylor,San Diego,Bears,Toreros,2,2,76,48,28,1591,San Diego,198,198,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551108,NA,NA,0,San Diego,Baylor,101
+2010-11,2010-12-22,1001623,625,1,2,Baylor,San Diego,Bears,Toreros,1,2,76,48,28,1313,Baylor,194,194,4,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,630,1,2,Baylor,San Diego,Bears,Toreros,1,2,76,48,28,1591,San Diego,184,184,10,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,102
+2010-11,2010-12-22,1001623,631,1,2,Baylor,San Diego,Bears,Toreros,1,2,76,48,28,NA,NA,184,184,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,632,1,2,Baylor,San Diego,Bears,Toreros,1,2,77,48,29,1313,Baylor,184,184,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,102
+2010-11,2010-12-22,1001623,633,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,184,184,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,102
+2010-11,2010-12-22,1001623,635,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,169,169,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,20.35,551108,NA,NA,0,San Diego,San Diego,103
+2010-11,2010-12-22,1001623,636,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,169,169,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,103
+2010-11,2010-12-22,1001623,636.5,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,158,158,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7,20.25,523689,NA,NA,0,San Diego,San Diego,103
+2010-11,2010-12-22,1001623,636.75,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,158,158,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,103
+2010-11,2010-12-22,1001623,637,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,158,158,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551108,NA,NA,0,San Diego,San Diego,103
+2010-11,2010-12-22,1001623,638,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,158,158,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,103
+2010-11,2010-12-22,1001623,639,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,139,139,19, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,5.200000000000003,22.450000000000003,578341,NA,NA,0,Baylor,Baylor,104
+2010-11,2010-12-22,1001623,640,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,139,139,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,104
+2010-11,2010-12-22,1001623,641,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,128,128,11, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,12.25,523689,NA,NA,0,San Diego,San Diego,105
+2010-11,2010-12-22,1001623,642,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,128,128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,105
+2010-11,2010-12-22,1001623,643,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,110,110,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,106
+2010-11,2010-12-22,1001623,644,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1591,San Diego,110,110,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,106
+2010-11,2010-12-22,1001623,648,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,48,30,1313,Baylor,101,101,9,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,107
+2010-11,2010-12-22,1001623,651,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,49,29,1591,San Diego,101,101,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,107
+2010-11,2010-12-22,1001623,653,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,50,28,1591,San Diego,101,101,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,107
+2010-11,2010-12-22,1001623,664,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,50,28,1591,San Diego,88,88,13,Shooting foul committed by Toreros.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,108
+2010-11,2010-12-22,1001623,664.5,1,2,Baylor,San Diego,Bears,Toreros,1,2,78,50,28,1313,Baylor,88,88,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,108
+2010-11,2010-12-22,1001623,665,1,2,Baylor,San Diego,Bears,Toreros,1,2,79,50,29,1313,Baylor,88,88,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,San Diego,108
+2010-11,2010-12-22,1001623,693,1,2,Baylor,San Diego,Bears,Toreros,1,2,79,50,29,1313,Baylor,54,54,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511656,NA,NA,0,Baylor,Baylor,109
+2010-11,2010-12-22,1001623,694,1,2,Baylor,San Diego,Bears,Toreros,1,2,79,50,29,1313,Baylor,54,54,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,109
+2010-11,2010-12-22,1001623,696,1,2,Baylor,San Diego,Bears,Toreros,1,2,81,50,31,1313,Baylor,46,46,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511656,NA,NA,0,Baylor,San Diego,109
+2010-11,2010-12-22,1001623,706,1,2,Baylor,San Diego,Bears,Toreros,1,2,81,50,31,1591,San Diego,37,37,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,11.65,523687,NA,NA,0,San Diego,San Diego,110
+2010-11,2010-12-22,1001623,707,1,2,Baylor,San Diego,Bears,Toreros,1,2,81,50,31,1313,Baylor,37,37,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,Baylor,110
+2010-11,2010-12-22,1001623,729,1,2,Baylor,San Diego,Bears,Toreros,1,2,83,50,33,1313,Baylor,6,6,31, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,511655,NA,NA,0,Baylor,San Diego,111
+2010-11,2010-12-22,1001623,734,1,2,Baylor,San Diego,Bears,Toreros,1,2,83,50,33,NA,NA,0,0,6,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-22,1001623,735,1,2,Baylor,San Diego,Bears,Toreros,1,2,83,50,33,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,San Diego,San Diego,NA

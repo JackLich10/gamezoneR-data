@@ -1,0 +1,229 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-29,919740,1,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Yale,NA
+2009-10,2009-12-29,919740,3,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,0,0,0,1716,Yale,2386,1186,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339903,NA,NA,0,Yale,Colorado,1
+2009-10,2009-12-29,919740,7,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,0,0,0,1360,Colorado,2354,1154,32, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,7.75,405832,NA,NA,0,Colorado,Colorado,2
+2009-10,2009-12-29,919740,22,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,0,2,1360,Colorado,2332,1132,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Yale,2
+2009-10,2009-12-29,919740,31,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,2,0,1716,Yale,2306,1106,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339904,NA,NA,0,Yale,Colorado,3
+2009-10,2009-12-29,919740,33,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,2,0,1360,Colorado,2283,1083,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,12.799999999999997,23.450000000000003,400623,NA,NA,0,Colorado,Yale,4
+2009-10,2009-12-29,919740,34,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,4,-2,1716,Yale,2262,1062,21, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,21.3,10.85,410881,NA,NA,0,Yale,Colorado,5
+2009-10,2009-12-29,919740,38,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,4,-2,1716,Yale,2237,1037,25,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,6
+2009-10,2009-12-29,919740,40,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,4,-2,1360,Colorado,2231,1031,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Yale,7
+2009-10,2009-12-29,919740,47,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,4,-2,1716,Yale,2204,1004,27, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.2,11.25,339903,NA,NA,0,Yale,Yale,8
+2009-10,2009-12-29,919740,48,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,4,-2,1716,Yale,2197,997,7, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,7.75,339903,NA,NA,0,Yale,Yale,8
+2009-10,2009-12-29,919740,49,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1716,Yale,2194,994,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410885,NA,NA,0,Yale,Colorado,8
+2009-10,2009-12-29,919740,58,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1716,Yale,2177,977,17,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,9
+2009-10,2009-12-29,919740,60,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1360,Colorado,2158,958,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24,30.049999999999997,512995,NA,NA,0,Colorado,Colorado,9
+2009-10,2009-12-29,919740,62,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,NA,NA,2149,949,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,65,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1360,Colorado,2142,942,7,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,9
+2009-10,2009-12-29,919740,71,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1716,Yale,2111,911,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,25.35,339905,NA,NA,0,Yale,Yale,10
+2009-10,2009-12-29,919740,73,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1716,Yale,2105,905,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410885,NA,NA,0,Yale,Colorado,10
+2009-10,2009-12-29,919740,75,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,6,-4,1716,Yale,2104,904,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,11
+2009-10,2009-12-29,919740,85,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,8,-6,1716,Yale,2087,887,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,465113,NA,NA,0,Yale,Colorado,11
+2009-10,2009-12-29,919740,87,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,2,8,-6,1360,Colorado,2082,882,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,10.049999999999997,405832,NA,NA,0,Colorado,Colorado,12
+2009-10,2009-12-29,919740,98,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1360,Colorado,2037,837,45, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Yale,12
+2009-10,2009-12-29,919740,101,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1360,Colorado,2020,820,17,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,13
+2009-10,2009-12-29,919740,103,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1716,Yale,2016,816,4, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,19.35,465109,NA,NA,0,Yale,Yale,13
+2009-10,2009-12-29,919740,104,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1716,Yale,2010,810,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,508064,NA,NA,0,Yale,Colorado,13
+2009-10,2009-12-29,919740,108,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1360,Colorado,1993,793,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,31.2,27.849999999999994,329550,NA,NA,0,Colorado,Yale,14
+2009-10,2009-12-29,919740,110,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,4,8,-4,1360,Colorado,1980,780,13,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,15
+2009-10,2009-12-29,919740,112,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,6,8,-2,1360,Colorado,1973,773,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,405832,NA,NA,0,Colorado,Yale,15
+2009-10,2009-12-29,919740,116,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,6,11,-5,1716,Yale,1956,756,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4,8.55,410881,NA,NA,0,Yale,Colorado,16
+2009-10,2009-12-29,919740,119,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,6,11,-5,1716,Yale,1948,748,8,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,17
+2009-10,2009-12-29,919740,125,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,6,11,-5,1716,Yale,1941,741,7,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,17
+2009-10,2009-12-29,919740,126,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,7,11,-4,1360,Colorado,1941,741,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,17
+2009-10,2009-12-29,919740,127,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,11,-3,1360,Colorado,1941,741,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,17
+2009-10,2009-12-29,919740,131,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,11,-3,1716,Yale,1923,723,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,134,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,13,-5,1716,Yale,1900,700,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339904,NA,NA,0,Yale,Yale,18
+2009-10,2009-12-29,919740,135,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,13,-5,1360,Colorado,1900,700,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,18
+2009-10,2009-12-29,919740,136,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,13,-5,NA,NA,1900,700,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,137,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,13,-5,1716,Yale,1900,700,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,18
+2009-10,2009-12-29,919740,139,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,13,-5,1716,Yale,1866,666,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,9.55,410884,NA,NA,0,Yale,Yale,18
+2009-10,2009-12-29,919740,140,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,15,-7,1716,Yale,1862,662,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339903,NA,NA,0,Yale,Colorado,18
+2009-10,2009-12-29,919740,142,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,15,-7,1360,Colorado,1848,648,14, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37,5.849999999999994,458708,NA,NA,0,Colorado,Yale,19
+2009-10,2009-12-29,919740,144,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,15,-7,1360,Colorado,1847,647,1,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,20
+2009-10,2009-12-29,919740,146,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,8,18,-10,1716,Yale,1837,637,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44,13.15,410881,NA,NA,0,Yale,Colorado,20
+2009-10,2009-12-29,919740,155,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,10,18,-8,1360,Colorado,1807,607,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,21
+2009-10,2009-12-29,919740,174,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,10,18,-8,1716,Yale,1747,547,60,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,21
+2009-10,2009-12-29,919740,175,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,10,18,-8,1360,Colorado,1747,547,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,21
+2009-10,2009-12-29,919740,176,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1360,Colorado,1747,547,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,21
+2009-10,2009-12-29,919740,179,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1716,Yale,1730,530,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34,25.95,339905,NA,NA,0,Yale,Yale,22
+2009-10,2009-12-29,919740,181,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1716,Yale,1726,526,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339905,NA,NA,0,Yale,Colorado,22
+2009-10,2009-12-29,919740,183,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1716,Yale,1725,525,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,184,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1360,Colorado,1725,525,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,189,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1360,Colorado,1700,500,25, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,6.450000000000003,512995,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,195,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,1360,Colorado,1665,465,35, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,30.5,27.849999999999994,405832,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,199,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,11,18,-7,NA,NA,1659,459,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,224,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,13,18,-5,1360,Colorado,1607,407,52, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458711,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,225,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,4,13,18,-5,1716,Yale,1607,407,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,23
+2009-10,2009-12-29,919740,228,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,13,18,-5,1716,Yale,1605,405,2,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,229,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,13,18,-5,1360,Colorado,1605,405,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,23
+2009-10,2009-12-29,919740,235,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,13,18,-5,1716,Yale,1585,385,20,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,237,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,13,18,-5,1716,Yale,1575,375,10, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,27,22.65,465109,NA,NA,0,Yale,Colorado,24
+2009-10,2009-12-29,919740,243,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,13,18,-5,1716,Yale,1553,353,22,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,25
+2009-10,2009-12-29,919740,244,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,14,18,-4,1360,Colorado,1553,353,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,25
+2009-10,2009-12-29,919740,245,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1360,Colorado,1553,353,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,25
+2009-10,2009-12-29,919740,246,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1360,Colorado,1553,353,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,268,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1360,Colorado,1499,299,54, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329550,NA,NA,0,Colorado,Colorado,26
+2009-10,2009-12-29,919740,271,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1360,Colorado,1498,298,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Yale,26
+2009-10,2009-12-29,919740,289,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1360,Colorado,1462,262,36,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,27
+2009-10,2009-12-29,919740,294,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,NA,NA,1438,238,24,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,296,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1716,Yale,1426,226,12, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,7.75,508064,NA,NA,0,Yale,Yale,27
+2009-10,2009-12-29,919740,297,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,15,18,-3,1716,Yale,1420,220,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,9.55,410884,NA,NA,0,Yale,Colorado,27
+2009-10,2009-12-29,919740,298,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,17,18,-1,1360,Colorado,1414,214,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400623,NA,NA,0,Colorado,Yale,28
+2009-10,2009-12-29,919740,305,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,17,18,-1,1716,Yale,1396,196,18,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,29
+2009-10,2009-12-29,919740,306,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,18,18,0,1360,Colorado,1396,196,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,29
+2009-10,2009-12-29,919740,307,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,19,18,1,1360,Colorado,1396,196,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,29
+2009-10,2009-12-29,919740,315,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,19,18,1,1360,Colorado,1374,174,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Yale,30
+2009-10,2009-12-29,919740,316,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,19,18,1,1716,Yale,1368,168,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,9.85,465109,NA,NA,0,Yale,Yale,31
+2009-10,2009-12-29,919740,317,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,19,20,-1,1716,Yale,1361,161,7, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.2,7.35,410884,NA,NA,0,Yale,Colorado,31
+2009-10,2009-12-29,919740,326,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,19,20,-1,1716,Yale,1341,141,20,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,32
+2009-10,2009-12-29,919740,327,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,20,20,0,1360,Colorado,1341,141,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,32
+2009-10,2009-12-29,919740,328,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,20,20,0,1360,Colorado,1341,141,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,32
+2009-10,2009-12-29,919740,330,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,20,20,0,1716,Yale,1335,135,6, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5,9.65,410884,NA,NA,0,Yale,Colorado,33
+2009-10,2009-12-29,919740,331,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,22,20,2,1360,Colorado,1325,125,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400623,NA,NA,0,Colorado,Yale,34
+2009-10,2009-12-29,919740,333,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,22,20,2,1716,Yale,1308,108,17, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,8.75,339905,NA,NA,0,Yale,Yale,35
+2009-10,2009-12-29,919740,335,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,22,23,-1,1716,Yale,1302,102,6, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,21.8,28.85,410884,NA,NA,0,Yale,Colorado,35
+2009-10,2009-12-29,919740,338,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,22,23,-1,1360,Colorado,1287,87,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,8.75,405832,NA,NA,0,Colorado,Colorado,36
+2009-10,2009-12-29,919740,343,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,24,23,1,1360,Colorado,1263,63,24, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Colorado,36
+2009-10,2009-12-29,919740,344,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,24,23,1,1716,Yale,1263,63,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,36
+2009-10,2009-12-29,919740,346,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,25,23,2,1360,Colorado,1263,63,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,36
+2009-10,2009-12-29,919740,353,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,25,23,2,1716,Yale,1245,45,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,11.25,339904,NA,NA,0,Yale,Colorado,37
+2009-10,2009-12-29,919740,355,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,25,23,2,1716,Yale,1244,44,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,38
+2009-10,2009-12-29,919740,356,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,25,23,2,1360,Colorado,1244,44,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,38
+2009-10,2009-12-29,919740,357,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,26,23,3,1360,Colorado,1244,44,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,38
+2009-10,2009-12-29,919740,360,0,1,Colorado,Yale,Buffaloes,Bulldogs,4,3,26,25,1,1716,Yale,1227,27,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,339904,NA,NA,0,Yale,Colorado,39
+2009-10,2009-12-29,919740,371,0,1,Colorado,Yale,Buffaloes,Bulldogs,3,3,26,25,1,1360,Colorado,1219,19,8,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,376,0,1,Colorado,Yale,Buffaloes,Bulldogs,3,3,26,25,1,NA,NA,1200,0,19,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,377,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,25,1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,40
+2009-10,2009-12-29,919740,380,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,25,1,1360,Colorado,1188,1188,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Yale,41
+2009-10,2009-12-29,919740,385,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,25,1,1360,Colorado,1158,1158,30,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,42
+2009-10,2009-12-29,919740,386,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,26,0,1716,Yale,1158,1158,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,42
+2009-10,2009-12-29,919740,387,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,27,-1,1716,Yale,1158,1158,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,42
+2009-10,2009-12-29,919740,389,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,27,-1,1360,Colorado,1145,1145,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458711,NA,NA,0,Colorado,Yale,43
+2009-10,2009-12-29,919740,391,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,26,27,-1,1716,Yale,1132,1132,13, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.3,7.75,339905,NA,NA,0,Yale,Colorado,44
+2009-10,2009-12-29,919740,392,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,28,27,1,1360,Colorado,1124,1124,8, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,31.3,24.25,400623,NA,NA,0,Colorado,Yale,45
+2009-10,2009-12-29,919740,395,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,31,27,4,1360,Colorado,1088,1088,36, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,31.3,28.650000000000006,400623,NA,NA,0,Colorado,Yale,46
+2009-10,2009-12-29,919740,396,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,31,27,4,1360,Colorado,1071,1071,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Yale,47
+2009-10,2009-12-29,919740,399,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,31,27,4,1716,Yale,1061,1061,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,9.65,339903,NA,NA,0,Yale,Yale,48
+2009-10,2009-12-29,919740,401,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,31,29,2,1716,Yale,1058,1058,3, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24.8,6.95,339904,NA,NA,0,Yale,Colorado,48
+2009-10,2009-12-29,919740,415,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,33,29,4,1360,Colorado,1039,1039,19, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,26.8,11.849999999999994,400623,NA,NA,0,Colorado,Colorado,49
+2009-10,2009-12-29,919740,416,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,33,29,4,1716,Yale,1039,1039,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,49
+2009-10,2009-12-29,919740,417,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,29,5,1360,Colorado,1039,1039,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,49
+2009-10,2009-12-29,919740,418,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,29,5,1360,Colorado,1039,1039,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,422,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,29,5,1716,Yale,1012,1012,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,11.8,22.65,339905,NA,NA,0,Yale,Colorado,50
+2009-10,2009-12-29,919740,428,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,29,5,1360,Colorado,1003,1003,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,12.25,329550,NA,NA,0,Colorado,Yale,51
+2009-10,2009-12-29,919740,439,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,31,3,1716,Yale,970,970,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410885,NA,NA,0,Yale,Yale,52
+2009-10,2009-12-29,919740,440,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,31,3,1360,Colorado,970,970,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,52
+2009-10,2009-12-29,919740,441,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,34,32,2,1716,Yale,970,970,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,52
+2009-10,2009-12-29,919740,443,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,37,32,5,1360,Colorado,959,959,11, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,37.8,23.849999999999994,405832,NA,NA,0,Colorado,Yale,53
+2009-10,2009-12-29,919740,446,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,37,32,5,1360,Colorado,928,928,31,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,54
+2009-10,2009-12-29,919740,447,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,37,32,5,NA,NA,928,928,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,448,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,37,32,5,1716,Yale,928,928,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,54
+2009-10,2009-12-29,919740,449,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,37,33,4,1716,Yale,928,928,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,54
+2009-10,2009-12-29,919740,452,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,39,33,6,1360,Colorado,913,913,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400623,NA,NA,0,Colorado,Colorado,55
+2009-10,2009-12-29,919740,459,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,39,33,6,1716,Yale,888,888,25,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,55
+2009-10,2009-12-29,919740,460,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,40,33,7,1360,Colorado,888,888,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,55
+2009-10,2009-12-29,919740,461,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1360,Colorado,888,888,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,55
+2009-10,2009-12-29,919740,469,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1360,Colorado,859,859,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,17.049999999999997,512995,NA,NA,0,Colorado,Yale,56
+2009-10,2009-12-29,919740,470,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1716,Yale,854,854,5, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,6.45,508064,NA,NA,0,Yale,Colorado,57
+2009-10,2009-12-29,919740,471,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1360,Colorado,848,848,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Yale,58
+2009-10,2009-12-29,919740,482,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1716,Yale,835,835,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,14.8,7.15,508064,NA,NA,0,Yale,Yale,59
+2009-10,2009-12-29,919740,491,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,41,33,8,1360,Colorado,827,827,8,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,59
+2009-10,2009-12-29,919740,494,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,4,43,33,10,1360,Colorado,804,804,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,405832,NA,NA,0,Colorado,Yale,59
+2009-10,2009-12-29,919740,497,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,43,33,10,1716,Yale,803,803,1,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,500,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,43,35,8,1716,Yale,748,748,55, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,23.2,20.95,465109,NA,NA,0,Yale,Colorado,60
+2009-10,2009-12-29,919740,506,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,43,35,8,1716,Yale,734,734,14,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2009-10,2009-12-29,919740,507,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,43,35,8,1360,Colorado,734,734,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2009-10,2009-12-29,919740,508,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,44,35,9,1360,Colorado,734,734,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,61
+2009-10,2009-12-29,919740,510,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,44,35,9,1716,Yale,725,725,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,465109,NA,NA,0,Yale,Colorado,62
+2009-10,2009-12-29,919740,511,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,46,35,11,1360,Colorado,719,719,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Yale,63
+2009-10,2009-12-29,919740,520,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,46,35,11,NA,NA,698,698,21,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,522,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,46,37,9,1716,Yale,690,690,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,410885,NA,NA,0,Yale,Colorado,64
+2009-10,2009-12-29,919740,524,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,37,12,1360,Colorado,659,659,31, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,5,12.75,405832,NA,NA,0,Colorado,Yale,65
+2009-10,2009-12-29,919740,529,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,37,12,1716,Yale,629,629,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.8,28.05,410884,NA,NA,0,Yale,Colorado,66
+2009-10,2009-12-29,919740,530,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,37,12,1360,Colorado,614,614,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,31.7,26.150000000000006,513002,NA,NA,0,Colorado,Yale,67
+2009-10,2009-12-29,919740,535,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1716,Yale,603,603,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339904,NA,NA,0,Yale,Yale,68
+2009-10,2009-12-29,919740,536,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1360,Colorado,603,603,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,68
+2009-10,2009-12-29,919740,537,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1716,Yale,603,603,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,68
+2009-10,2009-12-29,919740,539,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1360,Colorado,590,590,13, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,28,5.650000000000006,512995,NA,NA,0,Colorado,Yale,69
+2009-10,2009-12-29,919740,541,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1716,Yale,574,574,16, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,5.699999999999999,7.15,339905,NA,NA,0,Yale,Yale,70
+2009-10,2009-12-29,919740,544,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,39,10,1360,Colorado,572,572,2,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,70
+2009-10,2009-12-29,919740,545,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,40,9,1716,Yale,572,572,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,70
+2009-10,2009-12-29,919740,546,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,41,8,1716,Yale,572,572,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,70
+2009-10,2009-12-29,919740,549,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,49,41,8,1360,Colorado,567,567,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458708,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,551,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,51,41,10,1360,Colorado,564,564,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,552,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,51,41,10,1716,Yale,564,564,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,553,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,51,41,10,1360,Colorado,564,564,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,556,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,51,41,10,1716,Yale,551,551,13,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,557,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,51,41,10,1360,Colorado,551,551,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,71
+2009-10,2009-12-29,919740,558,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1360,Colorado,551,551,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,71
+2009-10,2009-12-29,919740,563,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1360,Colorado,535,535,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,28.650000000000006,458708,NA,NA,0,Colorado,Yale,72
+2009-10,2009-12-29,919740,573,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1716,Yale,497,497,38, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,18.55,410881,NA,NA,0,Yale,Colorado,73
+2009-10,2009-12-29,919740,574,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1360,Colorado,470,470,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,5.049999999999997,405832,NA,NA,0,Colorado,Yale,74
+2009-10,2009-12-29,919740,579,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1716,Yale,448,448,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,14.95,465108,NA,NA,0,Yale,Colorado,75
+2009-10,2009-12-29,919740,583,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,NA,NA,445,445,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,588,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,41,11,1716,Yale,437,437,8,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,76
+2009-10,2009-12-29,919740,596,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,43,9,1716,Yale,415,415,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339903,NA,NA,0,Yale,Yale,76
+2009-10,2009-12-29,919740,597,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,43,9,1360,Colorado,415,415,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,76
+2009-10,2009-12-29,919740,598,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,44,8,1716,Yale,415,415,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,76
+2009-10,2009-12-29,919740,605,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,52,44,8,1716,Yale,392,392,23,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,77
+2009-10,2009-12-29,919740,606,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,53,44,9,1360,Colorado,392,392,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,77
+2009-10,2009-12-29,919740,607,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,54,44,10,1360,Colorado,392,392,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,77
+2009-10,2009-12-29,919740,620,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,44,12,1360,Colorado,373,373,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458708,NA,NA,0,Colorado,Yale,78
+2009-10,2009-12-29,919740,624,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,44,12,1360,Colorado,346,346,27,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,79
+2009-10,2009-12-29,919740,625,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,44,12,1716,Yale,346,346,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,79
+2009-10,2009-12-29,919740,626,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,45,11,1716,Yale,346,346,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,79
+2009-10,2009-12-29,919740,628,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,45,11,1360,Colorado,342,342,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,80
+2009-10,2009-12-29,919740,633,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,45,11,1360,Colorado,329,329,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Yale,80
+2009-10,2009-12-29,919740,638,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,47,9,1716,Yale,316,316,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339905,NA,NA,0,Yale,Yale,81
+2009-10,2009-12-29,919740,639,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,47,9,1360,Colorado,316,316,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,81
+2009-10,2009-12-29,919740,640,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,48,8,1716,Yale,316,316,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,81
+2009-10,2009-12-29,919740,643,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,56,48,8,1716,Yale,308,308,8,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,82
+2009-10,2009-12-29,919740,644,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,57,48,9,1360,Colorado,308,308,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,82
+2009-10,2009-12-29,919740,645,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,58,48,10,1360,Colorado,308,308,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,82
+2009-10,2009-12-29,919740,651,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,58,48,10,1716,Yale,297,297,11,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,82
+2009-10,2009-12-29,919740,652,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,58,48,10,1360,Colorado,297,297,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,82
+2009-10,2009-12-29,919740,653,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,59,48,11,1360,Colorado,297,297,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,82
+2009-10,2009-12-29,919740,655,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,59,48,11,1716,Yale,292,292,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,12.7,23.65,508064,NA,NA,0,Yale,Colorado,83
+2009-10,2009-12-29,919740,666,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,59,48,11,1716,Yale,266,266,26,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,84
+2009-10,2009-12-29,919740,667,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,48,12,1360,Colorado,266,266,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,84
+2009-10,2009-12-29,919740,668,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,48,12,1716,Yale,266,266,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,669,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,48,12,1360,Colorado,266,266,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,84
+2009-10,2009-12-29,919740,681,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,48,12,1360,Colorado,247,247,19,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,85
+2009-10,2009-12-29,919740,682,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,49,11,1716,Yale,247,247,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,85
+2009-10,2009-12-29,919740,683,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,50,10,1716,Yale,247,247,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,85
+2009-10,2009-12-29,919740,685,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,50,10,1360,Colorado,217,217,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19,28.25,458708,NA,NA,0,Colorado,Yale,86
+2009-10,2009-12-29,919740,687,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,50,10,1360,Colorado,211,211,6,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,87
+2009-10,2009-12-29,919740,688,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,50,10,NA,NA,211,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,689,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,51,9,1716,Yale,211,211,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,87
+2009-10,2009-12-29,919740,690,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,52,8,1716,Yale,211,211,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,87
+2009-10,2009-12-29,919740,692,0,2,Colorado,Yale,Buffaloes,Bulldogs,4,3,60,54,6,1716,Yale,199,199,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339905,NA,NA,0,Yale,Colorado,88
+2009-10,2009-12-29,919740,696,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,60,54,6,1360,Colorado,177,177,22,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,698,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,60,54,6,1360,Colorado,172,172,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,16.25,458711,NA,NA,0,Colorado,Yale,89
+2009-10,2009-12-29,919740,707,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,60,54,6,1716,Yale,146,146,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,21.35,410881,NA,NA,0,Yale,Colorado,90
+2009-10,2009-12-29,919740,715,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,60,54,6,1716,Yale,136,136,10,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,91
+2009-10,2009-12-29,919740,716,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,61,54,7,1360,Colorado,136,136,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,91
+2009-10,2009-12-29,919740,717,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,62,54,8,1360,Colorado,136,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,91
+2009-10,2009-12-29,919740,719,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,62,54,8,1716,Yale,129,129,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,19.5,26.75,339905,NA,NA,0,Yale,Colorado,92
+2009-10,2009-12-29,919740,721,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,64,54,10,1360,Colorado,98,98,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Yale,93
+2009-10,2009-12-29,919740,726,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,64,54,10,1360,Colorado,89,89,9,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,94
+2009-10,2009-12-29,919740,727,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,64,54,10,1716,Yale,89,89,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,94
+2009-10,2009-12-29,919740,728,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,64,55,9,1716,Yale,89,89,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Colorado,94
+2009-10,2009-12-29,919740,734,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,64,55,9,1716,Yale,81,81,8,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,95
+2009-10,2009-12-29,919740,735,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,65,55,10,1360,Colorado,81,81,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,95
+2009-10,2009-12-29,919740,736,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,66,55,11,1360,Colorado,81,81,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,95
+2009-10,2009-12-29,919740,744,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,68,55,13,1360,Colorado,63,63,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,96
+2009-10,2009-12-29,919740,746,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,68,55,13,1716,Yale,63,63,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,96
+2009-10,2009-12-29,919740,747,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,69,55,14,1360,Colorado,63,63,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,96
+2009-10,2009-12-29,919740,748,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,69,55,14,1360,Colorado,63,63,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,919740,752,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,3,69,57,12,1716,Yale,51,51,12, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28,9.15,410885,NA,NA,0,Yale,Colorado,97
+2009-10,2009-12-29,919740,754,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,69,57,12,1716,Yale,50,50,1,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,756,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,69,57,12,1716,Yale,49,49,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,98
+2009-10,2009-12-29,919740,757,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,69,57,12,1360,Colorado,49,49,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,98
+2009-10,2009-12-29,919740,758,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,57,13,1360,Colorado,49,49,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Yale,98
+2009-10,2009-12-29,919740,760,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,57,13,1716,Yale,41,41,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,23.05,339905,NA,NA,0,Yale,Colorado,99
+2009-10,2009-12-29,919740,762,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,57,13,1360,Colorado,18,18,23, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,11.25,329550,NA,NA,0,Colorado,Colorado,100
+2009-10,2009-12-29,919740,763,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,57,13,1360,Colorado,13,13,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513002,NA,NA,0,Colorado,Yale,100
+2009-10,2009-12-29,919740,764,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,59,11,1716,Yale,1,1,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339905,NA,NA,0,Yale,Colorado,101
+2009-10,2009-12-29,919740,765,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,59,11,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,919740,766,0,2,Colorado,Yale,Buffaloes,Bulldogs,3,2,70,59,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,NA

@@ -1,0 +1,326 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-06,924242,1,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,LSU,NA
+2009-10,2010-02-06,924242,3,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,2,0,2,1476,LSU,2373,1173,27, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13,3.3499999999999943,398592,NA,NA,0,LSU,Kentucky,1
+2009-10,2010-02-06,924242,7,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,2,0,2,1476,LSU,2354,1154,19,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,2
+2009-10,2010-02-06,924242,9,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,2,0,2,1459,Kentucky,2354,1154,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,2
+2009-10,2010-02-06,924242,12,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,2,1,1,1459,Kentucky,2354,1154,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,2
+2009-10,2010-02-06,924242,14,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2341,1141,13, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,43.2,16.049999999999997,295384,NA,NA,0,LSU,Kentucky,3
+2009-10,2010-02-06,924242,15,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2329,1129,12, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,22.5,4.05,402375,NA,NA,0,Kentucky,Kentucky,4
+2009-10,2010-02-06,924242,16,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2329,1129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,4
+2009-10,2010-02-06,924242,28,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2319,1119,10, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,21.45,399599,NA,NA,0,Kentucky,Kentucky,5
+2009-10,2010-02-06,924242,29,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2319,1119,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,5
+2009-10,2010-02-06,924242,31,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2309,1109,10,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,5
+2009-10,2010-02-06,924242,33,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2282,1082,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39,7.549999999999997,509461,NA,NA,0,LSU,LSU,5
+2009-10,2010-02-06,924242,34,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2282,1082,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,5
+2009-10,2010-02-06,924242,35,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2275,1075,7, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,26,21.35,509450,NA,NA,0,Kentucky,Kentucky,6
+2009-10,2010-02-06,924242,42,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2243,1043,32,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,6
+2009-10,2010-02-06,924242,44,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2240,1040,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,17.849999999999994,398592,NA,NA,0,LSU,LSU,6
+2009-10,2010-02-06,924242,45,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2240,1040,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,6
+2009-10,2010-02-06,924242,46,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2215,1015,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398595,NA,NA,0,LSU,LSU,6
+2009-10,2010-02-06,924242,47,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2215,1015,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,6
+2009-10,2010-02-06,924242,48,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2207,1007,8, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,11.45,399599,NA,NA,0,Kentucky,LSU,7
+2009-10,2010-02-06,924242,50,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2198,998,9, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,23,21.450000000000003,398592,NA,NA,0,LSU,LSU,8
+2009-10,2010-02-06,924242,51,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2198,998,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,8
+2009-10,2010-02-06,924242,52,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2189,989,9, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17,9.55,509449,NA,NA,0,Kentucky,Kentucky,9
+2009-10,2010-02-06,924242,53,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2189,989,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,9
+2009-10,2010-02-06,924242,54.75,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2184,984,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,16.049999999999997,398592,NA,NA,0,LSU,LSU,10
+2009-10,2010-02-06,924242,55,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1459,Kentucky,2182,982,2,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,10
+2009-10,2010-02-06,924242,56,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,5,1,4,1476,LSU,2182,982,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,10
+2009-10,2010-02-06,924242,59,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,1,5,1476,LSU,2182,982,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,10
+2009-10,2010-02-06,924242,61,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,1,5,1459,Kentucky,2173,973,9, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,30.2,12.25,509456,NA,NA,0,Kentucky,Kentucky,11
+2009-10,2010-02-06,924242,62,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,1,5,1476,LSU,2173,973,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,11
+2009-10,2010-02-06,924242,76,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,1,5,NA,NA,2142,942,31,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,84,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1459,Kentucky,2136,936,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509456,NA,NA,0,Kentucky,LSU,12
+2009-10,2010-02-06,924242,86,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1476,LSU,2107,907,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509461,NA,NA,0,LSU,LSU,13
+2009-10,2010-02-06,924242,87,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1476,LSU,2107,907,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,13
+2009-10,2010-02-06,924242,90,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1459,Kentucky,2103,903,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,91,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1459,Kentucky,2103,903,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,94,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,3,3,1459,Kentucky,2102,902,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,96,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,6,5,1,1459,Kentucky,2094,894,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,509450,NA,NA,0,Kentucky,LSU,13
+2009-10,2010-02-06,924242,97,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,2070,870,24, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,40.8,8.75,398592,NA,NA,0,LSU,Kentucky,14
+2009-10,2010-02-06,924242,99,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,2049,849,21,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,102,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,2043,843,6,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,15
+2009-10,2010-02-06,924242,104,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,2022,822,21, misses a hook shot.,missed,FALSE,FALSE,Hook Shot,25.3,5.25,460876,NA,NA,0,LSU,LSU,15
+2009-10,2010-02-06,924242,105,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1459,Kentucky,2022,822,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,15
+2009-10,2010-02-06,924242,106,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1459,Kentucky,2004,804,18, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,17,6.05,509450,NA,NA,0,Kentucky,Kentucky,16
+2009-10,2010-02-06,924242,107,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,2004,804,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,16
+2009-10,2010-02-06,924242,108,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1476,LSU,1990,790,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398592,NA,NA,0,LSU,LSU,17
+2009-10,2010-02-06,924242,109,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,5,3,1459,Kentucky,1990,790,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,17
+2009-10,2010-02-06,924242,110,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,7,1,1459,Kentucky,1983,783,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509450,NA,NA,0,Kentucky,Kentucky,18
+2009-10,2010-02-06,924242,112,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,7,1,1476,LSU,1977,777,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,18
+2009-10,2010-02-06,924242,113,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1459,Kentucky,1977,777,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,18
+2009-10,2010-02-06,924242,116,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1459,Kentucky,1970,770,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,119,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1459,Kentucky,1970,770,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,19
+2009-10,2010-02-06,924242,120,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1459,Kentucky,1965,765,5,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,20
+2009-10,2010-02-06,924242,131,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1459,Kentucky,1965,765,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,134,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,8,0,1476,LSU,1945,745,20,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,21
+2009-10,2010-02-06,924242,136,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,9,-1,1459,Kentucky,1944,744,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,21
+2009-10,2010-02-06,924242,137,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1944,744,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,21
+2009-10,2010-02-06,924242,138,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1944,744,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,141,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1929,729,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295384,NA,NA,0,LSU,LSU,22
+2009-10,2010-02-06,924242,145.5,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1926,726,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,LSU,22
+2009-10,2010-02-06,924242,146.25,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1926,726,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,22
+2009-10,2010-02-06,924242,147,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1925,725,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,148,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1925,725,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,23
+2009-10,2010-02-06,924242,153,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1920,720,5, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,460876,NA,NA,0,LSU,LSU,23
+2009-10,2010-02-06,924242,161,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1906,706,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,12.25,398592,NA,NA,0,LSU,LSU,23
+2009-10,2010-02-06,924242,162,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1906,706,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,23
+2009-10,2010-02-06,924242,173,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1897,697,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,174,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,NA,NA,1890,690,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,183,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1476,LSU,1882,682,8, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,26.5,3.8499999999999943,483816,NA,NA,0,LSU,LSU,24
+2009-10,2010-02-06,924242,184,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,10,-2,1459,Kentucky,1882,682,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,24
+2009-10,2010-02-06,924242,185,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,12,-4,1459,Kentucky,1873,673,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,354814,NA,NA,0,Kentucky,LSU,25
+2009-10,2010-02-06,924242,187,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,12,-4,1459,Kentucky,1862,662,11,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,26
+2009-10,2010-02-06,924242,188,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,12,-4,1476,LSU,1862,662,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,190,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,8,12,-4,1459,Kentucky,1862,662,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,192,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,12,-2,1476,LSU,1855,655,7, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,27.2,3.75,398592,NA,NA,0,LSU,Kentucky,26
+2009-10,2010-02-06,924242,193,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1459,Kentucky,1843,643,12, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,9.15,399599,NA,NA,0,Kentucky,LSU,27
+2009-10,2010-02-06,924242,194,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1476,LSU,1807,607,36, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,14.150000000000006,398592,NA,NA,0,LSU,LSU,28
+2009-10,2010-02-06,924242,196,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1476,LSU,1796,596,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,15.349999999999994,295384,NA,NA,0,LSU,LSU,28
+2009-10,2010-02-06,924242,197,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1459,Kentucky,1796,596,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,28
+2009-10,2010-02-06,924242,198,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1459,Kentucky,1778,578,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30.7,30.05,399599,NA,NA,0,Kentucky,Kentucky,29
+2009-10,2010-02-06,924242,199,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,14,-4,1459,Kentucky,1778,578,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,29
+2009-10,2010-02-06,924242,200,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,16,-6,1459,Kentucky,1772,572,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509453,NA,NA,0,Kentucky,LSU,29
+2009-10,2010-02-06,924242,203,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,16,-6,1476,LSU,1754,554,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,21.849999999999994,295384,NA,NA,0,LSU,LSU,30
+2009-10,2010-02-06,924242,204,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,16,-6,1459,Kentucky,1754,554,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,30
+2009-10,2010-02-06,924242,205,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,16,-6,1459,Kentucky,1732,532,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509450,NA,NA,0,Kentucky,Kentucky,31
+2009-10,2010-02-06,924242,206,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,16,-6,1459,Kentucky,1732,532,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,31
+2009-10,2010-02-06,924242,207,0,1,LSU,Kentucky,Tigers,Wildcats,4,4,10,18,-8,1459,Kentucky,1727,527,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399599,NA,NA,0,Kentucky,LSU,31
+2009-10,2010-02-06,924242,212,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,18,-8,1476,LSU,1720,520,7,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,216,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,20,-10,1459,Kentucky,1709,509,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509449,NA,NA,0,Kentucky,Kentucky,32
+2009-10,2010-02-06,924242,230,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,20,-10,1476,LSU,1674,474,35,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,32
+2009-10,2010-02-06,924242,231,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,20,-10,NA,NA,1674,474,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,240,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1459,Kentucky,1667,467,7, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,23,3.55,509450,NA,NA,0,Kentucky,Kentucky,32
+2009-10,2010-02-06,924242,241,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1476,LSU,1667,467,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,32
+2009-10,2010-02-06,924242,242,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1459,Kentucky,1667,467,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,32
+2009-10,2010-02-06,924242,243,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1476,LSU,1667,467,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,32
+2009-10,2010-02-06,924242,247,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1476,LSU,1664,464,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,23.849999999999994,398592,NA,NA,0,LSU,LSU,33
+2009-10,2010-02-06,924242,248,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,22,-12,1459,Kentucky,1664,464,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,33
+2009-10,2010-02-06,924242,251,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1459,Kentucky,1643,443,21, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,22.7,2.55,509450,NA,NA,0,Kentucky,LSU,34
+2009-10,2010-02-06,924242,252,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1476,LSU,1625,425,18, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,18.950000000000003,295384,NA,NA,0,LSU,LSU,35
+2009-10,2010-02-06,924242,253,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1476,LSU,1625,425,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,35
+2009-10,2010-02-06,924242,254,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1476,LSU,1613,413,12, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,27.7,4.849999999999994,509461,NA,NA,0,LSU,LSU,35
+2009-10,2010-02-06,924242,255,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1459,Kentucky,1613,413,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,35
+2009-10,2010-02-06,924242,257,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,24,-14,1476,LSU,1604,404,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,36
+2009-10,2010-02-06,924242,259,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,25,-15,1459,Kentucky,1604,404,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,36
+2009-10,2010-02-06,924242,260,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,25,-15,1459,Kentucky,1604,404,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,37
+2009-10,2010-02-06,924242,261,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,25,-15,1459,Kentucky,1604,404,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,37
+2009-10,2010-02-06,924242,266,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,27,-17,1459,Kentucky,1593,393,11, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509449,NA,NA,0,Kentucky,LSU,37
+2009-10,2010-02-06,924242,267,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,27,-17,1459,Kentucky,1580,380,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,12.65,399599,NA,NA,0,Kentucky,Kentucky,38
+2009-10,2010-02-06,924242,269,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,27,-17,1459,Kentucky,1580,380,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,38
+2009-10,2010-02-06,924242,270,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,29,-19,1459,Kentucky,1571,371,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509456,NA,NA,0,Kentucky,LSU,38
+2009-10,2010-02-06,924242,271,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,29,-19,1476,LSU,1557,357,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41,19.549999999999997,295384,NA,NA,0,LSU,LSU,39
+2009-10,2010-02-06,924242,272,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,29,-19,1459,Kentucky,1557,357,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,39
+2009-10,2010-02-06,924242,276,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,29,-19,1476,LSU,1525,325,32,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,40
+2009-10,2010-02-06,924242,277,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,30,-20,1459,Kentucky,1525,325,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,40
+2009-10,2010-02-06,924242,278,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,30,-20,1476,LSU,1525,325,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,279,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,30,-20,1476,LSU,1525,325,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,280,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,30,-20,1459,Kentucky,1525,325,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,40
+2009-10,2010-02-06,924242,281,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,30,-20,1459,Kentucky,1525,325,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,40
+2009-10,2010-02-06,924242,283,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,32,-22,1459,Kentucky,1524,324,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399599,NA,NA,0,Kentucky,LSU,40
+2009-10,2010-02-06,924242,286,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,32,-22,1476,LSU,1516,316,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,20.549999999999997,398592,NA,NA,0,LSU,LSU,41
+2009-10,2010-02-06,924242,287,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,32,-22,1459,Kentucky,1516,316,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,41
+2009-10,2010-02-06,924242,288,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,32,-22,1459,Kentucky,1484,284,32, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,21.45,509456,NA,NA,0,Kentucky,Kentucky,42
+2009-10,2010-02-06,924242,289,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,32,-22,1459,Kentucky,1484,284,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,42
+2009-10,2010-02-06,924242,290,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,10,34,-24,1459,Kentucky,1472,272,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509450,NA,NA,0,Kentucky,LSU,42
+2009-10,2010-02-06,924242,291,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,34,-22,1476,LSU,1445,245,27, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,38.3,18.950000000000003,295384,NA,NA,0,LSU,Kentucky,43
+2009-10,2010-02-06,924242,293,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,34,-22,1476,LSU,1419,219,26,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,44
+2009-10,2010-02-06,924242,312,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,34,-22,NA,NA,1401,201,18,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,313,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,35,-23,1459,Kentucky,1401,201,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,44
+2009-10,2010-02-06,924242,314,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,36,-24,1459,Kentucky,1401,201,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,44
+2009-10,2010-02-06,924242,315,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,36,-24,1459,Kentucky,1401,201,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,316,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,36,-24,1476,LSU,1401,201,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,317,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,36,-24,1459,Kentucky,1401,201,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,318,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,36,-24,1476,LSU,1401,201,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,320,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1459,Kentucky,1390,190,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399599,NA,NA,0,Kentucky,LSU,45
+2009-10,2010-02-06,924242,321,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1476,LSU,1363,163,27, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,17.450000000000003,483816,NA,NA,0,LSU,LSU,46
+2009-10,2010-02-06,924242,322,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1459,Kentucky,1363,163,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,46
+2009-10,2010-02-06,924242,326,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1459,Kentucky,1338,138,25,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,47
+2009-10,2010-02-06,924242,332,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1476,LSU,1312,112,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.700000000000003,19.349999999999994,398592,NA,NA,0,LSU,LSU,47
+2009-10,2010-02-06,924242,333,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1459,Kentucky,1312,112,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,47
+2009-10,2010-02-06,924242,335,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1476,LSU,1296,96,16,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,48
+2009-10,2010-02-06,924242,345,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1459,Kentucky,1287,87,9, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,48
+2009-10,2010-02-06,924242,348,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,38,-26,1476,LSU,1287,87,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,349,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,39,-27,1459,Kentucky,1287,87,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,48
+2009-10,2010-02-06,924242,351,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,39,-27,1476,LSU,1277,77,10, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,14.349999999999994,398592,NA,NA,0,LSU,LSU,49
+2009-10,2010-02-06,924242,352,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,39,-27,1459,Kentucky,1277,77,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,49
+2009-10,2010-02-06,924242,353,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,12,42,-30,1459,Kentucky,1268,68,9, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.3,23.25,469487,NA,NA,0,Kentucky,LSU,50
+2009-10,2010-02-06,924242,354,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1476,LSU,1251,51,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483816,NA,NA,0,LSU,Kentucky,51
+2009-10,2010-02-06,924242,355,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1240,40,11, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,27.3,11.45,509450,NA,NA,0,Kentucky,Kentucky,52
+2009-10,2010-02-06,924242,356,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1476,LSU,1240,40,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,52
+2009-10,2010-02-06,924242,357,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1476,LSU,1232,32,8, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,23.5,7.349999999999994,483816,NA,NA,0,LSU,LSU,53
+2009-10,2010-02-06,924242,358,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1232,32,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,53
+2009-10,2010-02-06,924242,359,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1476,LSU,1226,26,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,10.25,398592,NA,NA,0,LSU,LSU,54
+2009-10,2010-02-06,924242,360,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1226,26,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,54
+2009-10,2010-02-06,924242,362,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1211,11,15,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,55
+2009-10,2010-02-06,924242,363,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1211,11,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,366,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1205,5,6, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,15.15,399599,NA,NA,0,Kentucky,Kentucky,55
+2009-10,2010-02-06,924242,367,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,1459,Kentucky,1205,5,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,55
+2009-10,2010-02-06,924242,369,0,1,LSU,Kentucky,Tigers,Wildcats,3,4,14,42,-28,NA,NA,1200,0,5,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,387,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,14,42,-28,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,LSU,55
+2009-10,2010-02-06,924242,389,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,16,42,-26,1476,LSU,1194,1194,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,Kentucky,56
+2009-10,2010-02-06,924242,390,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,16,42,-26,1459,Kentucky,1178,1178,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,20.15,509456,NA,NA,0,Kentucky,Kentucky,57
+2009-10,2010-02-06,924242,391,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,16,42,-26,1476,LSU,1178,1178,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,57
+2009-10,2010-02-06,924242,393,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,16,42,-26,1459,Kentucky,1160,1160,18,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,58
+2009-10,2010-02-06,924242,394,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,16,42,-26,1476,LSU,1160,1160,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,58
+2009-10,2010-02-06,924242,397,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,42,-25,1476,LSU,1160,1160,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,58
+2009-10,2010-02-06,924242,399,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1148,1148,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509450,NA,NA,0,Kentucky,LSU,59
+2009-10,2010-02-06,924242,400,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1129,1129,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,9.650000000000006,295384,NA,NA,0,LSU,LSU,60
+2009-10,2010-02-06,924242,401,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1129,1129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,60
+2009-10,2010-02-06,924242,402,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1116,1116,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509449,NA,NA,0,Kentucky,Kentucky,61
+2009-10,2010-02-06,924242,403,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1116,1116,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,61
+2009-10,2010-02-06,924242,404,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1108,1108,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509449,NA,NA,0,Kentucky,Kentucky,61
+2009-10,2010-02-06,924242,405,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1108,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,61
+2009-10,2010-02-06,924242,406,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1092,1092,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4,11.25,509461,NA,NA,0,LSU,LSU,62
+2009-10,2010-02-06,924242,407,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1092,1092,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,62
+2009-10,2010-02-06,924242,408,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1067,1067,25, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,27.2,5.049999999999997,295384,NA,NA,0,LSU,LSU,63
+2009-10,2010-02-06,924242,409,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1067,1067,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,63
+2009-10,2010-02-06,924242,411,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1476,LSU,1061,1061,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,63
+2009-10,2010-02-06,924242,414,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,44,-27,1459,Kentucky,1061,1061,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,63
+2009-10,2010-02-06,924242,417,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,17,45,-28,1459,Kentucky,1061,1061,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,63
+2009-10,2010-02-06,924242,419,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,19,45,-26,1476,LSU,1056,1056,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.2,1.75,398592,NA,NA,0,LSU,Kentucky,64
+2009-10,2010-02-06,924242,425,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,19,45,-26,1459,Kentucky,1017,1017,39, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,11.65,402375,NA,NA,0,Kentucky,Kentucky,65
+2009-10,2010-02-06,924242,426,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,19,45,-26,1476,LSU,1017,1017,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,65
+2009-10,2010-02-06,924242,427,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,21,45,-24,1476,LSU,1009,1009,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.5,1.1500000000000057,483816,NA,NA,0,LSU,Kentucky,66
+2009-10,2010-02-06,924242,428,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,21,45,-24,1459,Kentucky,1002,1002,7, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17,12.25,509450,NA,NA,0,Kentucky,Kentucky,67
+2009-10,2010-02-06,924242,429,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,21,45,-24,1476,LSU,1002,1002,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,67
+2009-10,2010-02-06,924242,430,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,45,-22,1476,LSU,988,988,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398592,NA,NA,0,LSU,Kentucky,68
+2009-10,2010-02-06,924242,431,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1459,Kentucky,966,966,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402375,NA,NA,0,Kentucky,LSU,69
+2009-10,2010-02-06,924242,432,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1476,LSU,951,951,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,8.799999999999997,5.849999999999994,295384,NA,NA,0,LSU,LSU,70
+2009-10,2010-02-06,924242,433,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1476,LSU,951,951,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,70
+2009-10,2010-02-06,924242,434,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1476,LSU,945,945,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43,19.549999999999997,398592,NA,NA,0,LSU,LSU,70
+2009-10,2010-02-06,924242,435,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1459,Kentucky,945,945,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,70
+2009-10,2010-02-06,924242,438.5,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,47,-24,1476,LSU,945,945,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,71
+2009-10,2010-02-06,924242,442,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,49,-26,1459,Kentucky,942,942,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402375,NA,NA,0,Kentucky,Kentucky,71
+2009-10,2010-02-06,924242,443,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,49,-26,1476,LSU,942,942,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,71
+2009-10,2010-02-06,924242,444,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,49,-26,NA,NA,942,942,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,446,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,942,942,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,71
+2009-10,2010-02-06,924242,447,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,942,942,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,448,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,942,942,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,451,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,904,904,38,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,72
+2009-10,2010-02-06,924242,454,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1476,LSU,898,898,6, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.200000000000003,9.349999999999994,483816,NA,NA,0,LSU,LSU,72
+2009-10,2010-02-06,924242,455,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,898,898,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,72
+2009-10,2010-02-06,924242,458,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,895,895,3,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,73
+2009-10,2010-02-06,924242,459,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1476,LSU,895,895,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,73
+2009-10,2010-02-06,924242,462,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,23,50,-27,1459,Kentucky,895,895,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,463,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1476,LSU,895,895,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,73
+2009-10,2010-02-06,924242,465,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1459,Kentucky,880,880,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,16.05,509456,NA,NA,0,Kentucky,Kentucky,74
+2009-10,2010-02-06,924242,466,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1476,LSU,880,880,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,74
+2009-10,2010-02-06,924242,471,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1476,LSU,870,870,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.700000000000003,12.950000000000003,295384,NA,NA,0,LSU,Kentucky,75
+2009-10,2010-02-06,924242,473,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1476,LSU,870,870,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,76
+2009-10,2010-02-06,924242,479,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1459,Kentucky,865,865,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,18.95,469484,NA,NA,0,Kentucky,LSU,76
+2009-10,2010-02-06,924242,481,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1476,LSU,865,865,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,484,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,24,50,-26,1459,Kentucky,854,854,11,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,77
+2009-10,2010-02-06,924242,486,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,26,50,-24,1476,LSU,849,849,5, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,42.3,10.450000000000003,483817,NA,NA,0,LSU,Kentucky,77
+2009-10,2010-02-06,924242,487,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,26,52,-26,1459,Kentucky,831,831,18, makes a hook shot from 4 feet out.,made,FALSE,FALSE,Hook Shot,24.3,9.15,399599,NA,NA,0,Kentucky,LSU,78
+2009-10,2010-02-06,924242,488,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,52,-24,1476,LSU,814,814,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483817,NA,NA,0,LSU,Kentucky,79
+2009-10,2010-02-06,924242,489,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,52,-24,1459,Kentucky,787,787,27, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,13.15,399599,NA,NA,0,Kentucky,Kentucky,80
+2009-10,2010-02-06,924242,490,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,52,-24,1476,LSU,787,787,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,80
+2009-10,2010-02-06,924242,491,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,52,-24,1476,LSU,769,769,18, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,23,6.450000000000003,460876,NA,NA,0,LSU,LSU,81
+2009-10,2010-02-06,924242,492,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,52,-24,1459,Kentucky,769,769,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,81
+2009-10,2010-02-06,924242,493,0,2,LSU,Kentucky,Tigers,Wildcats,4,4,28,54,-26,1459,Kentucky,764,764,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,354814,NA,NA,0,Kentucky,LSU,82
+2009-10,2010-02-06,924242,499,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,28,54,-26,1476,LSU,762,762,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,503,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,54,-24,1476,LSU,749,749,13, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,460876,NA,NA,0,LSU,Kentucky,83
+2009-10,2010-02-06,924242,504,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,57,-27,1459,Kentucky,738,738,11, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,5.699999999999999,14.15,402375,NA,NA,0,Kentucky,LSU,84
+2009-10,2010-02-06,924242,506,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,57,-27,1476,LSU,709,709,29,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,85
+2009-10,2010-02-06,924242,511,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,57,-27,NA,NA,705,705,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,512,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,58,-28,1459,Kentucky,705,705,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,85
+2009-10,2010-02-06,924242,513,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,59,-29,1459,Kentucky,705,705,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,85
+2009-10,2010-02-06,924242,517,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,61,-31,1459,Kentucky,694,694,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509449,NA,NA,0,Kentucky,LSU,86
+2009-10,2010-02-06,924242,518,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,61,-31,1476,LSU,674,674,20, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,5.650000000000006,398592,NA,NA,0,LSU,LSU,87
+2009-10,2010-02-06,924242,519,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,61,-31,1459,Kentucky,674,674,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,87
+2009-10,2010-02-06,924242,520,0,2,LSU,Kentucky,Tigers,Wildcats,3,4,30,63,-33,1459,Kentucky,660,660,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509449,NA,NA,0,Kentucky,LSU,88
+2009-10,2010-02-06,924242,532,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,30,63,-33,1476,LSU,659,659,1,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,534,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,30,63,-33,1476,LSU,656,656,3, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,6.700000000000003,3.8499999999999943,295384,NA,NA,0,LSU,LSU,89
+2009-10,2010-02-06,924242,535,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,30,63,-33,1476,LSU,656,656,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,89
+2009-10,2010-02-06,924242,536,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,32,63,-31,1476,LSU,642,642,14, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.2,1.5499999999999972,460876,NA,NA,0,LSU,Kentucky,89
+2009-10,2010-02-06,924242,537,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,32,63,-31,1459,Kentucky,637,637,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,8.75,509449,NA,NA,0,Kentucky,Kentucky,90
+2009-10,2010-02-06,924242,538,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,32,63,-31,1476,LSU,637,637,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,90
+2009-10,2010-02-06,924242,539,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,33,63,-30,1476,LSU,632,632,5, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2009-10,2010-02-06,924242,540,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,33,63,-30,1459,Kentucky,631,631,1,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,91
+2009-10,2010-02-06,924242,541,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,33,63,-30,1459,Kentucky,631,631,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,549,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,33,65,-32,1459,Kentucky,622,622,9, makes a hook shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,27.3,4.65,509453,NA,NA,0,Kentucky,LSU,91
+2009-10,2010-02-06,924242,550,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,36,65,-29,1476,LSU,598,598,24, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,1.7999999999999972,12.450000000000003,398592,NA,NA,0,LSU,Kentucky,92
+2009-10,2010-02-06,924242,552,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,36,65,-29,1459,Kentucky,581,581,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,553,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,36,65,-29,1459,Kentucky,581,581,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,555,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,65,-27,1476,LSU,577,577,4, makes a hook shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25.2,10.650000000000006,295384,NA,NA,0,LSU,Kentucky,93
+2009-10,2010-02-06,924242,556,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,68,-30,1459,Kentucky,560,560,17, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14.8,25.95,469487,NA,NA,0,Kentucky,LSU,94
+2009-10,2010-02-06,924242,557,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,68,-30,1476,LSU,544,544,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,7.349999999999994,460874,NA,NA,0,LSU,LSU,95
+2009-10,2010-02-06,924242,558,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,68,-30,1459,Kentucky,544,544,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,95
+2009-10,2010-02-06,924242,559,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,68,-30,1459,Kentucky,527,527,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469488,NA,NA,0,Kentucky,Kentucky,96
+2009-10,2010-02-06,924242,560,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,38,68,-30,1476,LSU,527,527,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,96
+2009-10,2010-02-06,924242,561,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,1476,LSU,514,514,13, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7.299999999999997,5.849999999999994,398592,NA,NA,0,LSU,Kentucky,97
+2009-10,2010-02-06,924242,562,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,1459,Kentucky,498,498,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509456,NA,NA,0,Kentucky,Kentucky,98
+2009-10,2010-02-06,924242,563,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,1476,LSU,498,498,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,98
+2009-10,2010-02-06,924242,565,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,1459,Kentucky,486,486,12,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,99
+2009-10,2010-02-06,924242,575,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,NA,NA,477,477,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,576,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,40,68,-28,1476,LSU,477,477,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,578,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,41,68,-27,1476,LSU,477,477,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,99
+2009-10,2010-02-06,924242,579,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,42,68,-26,1476,LSU,477,477,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,99
+2009-10,2010-02-06,924242,580.25,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,68,-25,1476,LSU,477,477,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,100
+2009-10,2010-02-06,924242,581.5,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1459,Kentucky,471,471,6, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.300000000000001,14.95,399599,NA,NA,0,Kentucky,LSU,101
+2009-10,2010-02-06,924242,583,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1459,Kentucky,469,469,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,587,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1476,LSU,467,467,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398592,NA,NA,0,LSU,LSU,102
+2009-10,2010-02-06,924242,588,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1459,Kentucky,467,467,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,102
+2009-10,2010-02-06,924242,598,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1459,Kentucky,433,433,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,7.55,399599,NA,NA,0,Kentucky,Kentucky,103
+2009-10,2010-02-06,924242,599,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1459,Kentucky,433,433,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,103
+2009-10,2010-02-06,924242,600,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,43,71,-28,1476,LSU,433,433,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,103
+2009-10,2010-02-06,924242,613.5,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,46,71,-25,1476,LSU,428,428,5, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.8,23.25,295384,NA,NA,0,LSU,Kentucky,103
+2009-10,2010-02-06,924242,627,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,46,71,-25,1459,Kentucky,407,407,21,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,635,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,46,71,-25,1476,LSU,402,402,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,104
+2009-10,2010-02-06,924242,636,0,2,LSU,Kentucky,Tigers,Wildcats,2,4,46,71,-25,1459,Kentucky,402,402,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,104
+2009-10,2010-02-06,924242,660,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,46,71,-25,1476,LSU,381,381,21,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,661,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,46,72,-26,1459,Kentucky,381,381,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,104
+2009-10,2010-02-06,924242,663,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,48,72,-24,1476,LSU,372,372,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398592,NA,NA,0,LSU,Kentucky,105
+2009-10,2010-02-06,924242,664,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,48,72,-24,1459,Kentucky,340,340,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,13.95,509449,NA,NA,0,Kentucky,Kentucky,106
+2009-10,2010-02-06,924242,665,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,48,72,-24,1459,Kentucky,340,340,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,106
+2009-10,2010-02-06,924242,704,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1476,LSU,322,322,18, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,5.700000000000003,12.450000000000003,398592,NA,NA,0,LSU,Kentucky,106
+2009-10,2010-02-06,924242,705,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1459,Kentucky,304,304,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14,25.95,354814,NA,NA,0,Kentucky,Kentucky,107
+2009-10,2010-02-06,924242,706,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1459,Kentucky,304,304,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,107
+2009-10,2010-02-06,924242,707,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1459,Kentucky,283,283,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6,14.15,509456,NA,NA,0,Kentucky,Kentucky,107
+2009-10,2010-02-06,924242,708,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1459,Kentucky,283,283,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,107
+2009-10,2010-02-06,924242,712,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1476,LSU,275,275,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46,10.849999999999994,295384,NA,NA,0,LSU,LSU,107
+2009-10,2010-02-06,924242,713,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1459,Kentucky,275,275,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,107
+2009-10,2010-02-06,924242,715,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,72,-21,1476,LSU,264,264,11,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,108
+2009-10,2010-02-06,924242,727,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,73,-22,1459,Kentucky,253,253,11, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,108
+2009-10,2010-02-06,924242,728,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,73,-22,1476,LSU,253,253,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,729,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,74,-23,1459,Kentucky,253,253,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,108
+2009-10,2010-02-06,924242,731,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,74,-23,1476,LSU,242,242,11, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,22.8,5.650000000000006,509462,NA,NA,0,LSU,LSU,109
+2009-10,2010-02-06,924242,732,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,74,-23,1459,Kentucky,242,242,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,109
+2009-10,2010-02-06,924242,743,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,74,-23,NA,NA,228,228,14,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,747,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,223,223,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509449,NA,NA,0,Kentucky,LSU,110
+2009-10,2010-02-06,924242,748,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1476,LSU,210,210,13, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,8.75,509462,NA,NA,0,LSU,LSU,111
+2009-10,2010-02-06,924242,749,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,210,210,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,111
+2009-10,2010-02-06,924242,750,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1476,LSU,190,190,20, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,23.7,3.8499999999999943,398595,NA,NA,0,LSU,LSU,112
+2009-10,2010-02-06,924242,751,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,190,190,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,112
+2009-10,2010-02-06,924242,752,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,180,180,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,19.55,402375,NA,NA,0,Kentucky,Kentucky,113
+2009-10,2010-02-06,924242,753,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,180,180,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,113
+2009-10,2010-02-06,924242,754,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,162,162,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.05,509456,NA,NA,0,Kentucky,Kentucky,113
+2009-10,2010-02-06,924242,755,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1476,LSU,162,162,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,113
+2009-10,2010-02-06,924242,758,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,51,76,-25,1459,Kentucky,151,151,11,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,114
+2009-10,2010-02-06,924242,759,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,52,76,-24,1476,LSU,151,151,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,114
+2009-10,2010-02-06,924242,760,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,52,76,-24,1459,Kentucky,151,151,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,761,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,52,76,-24,1459,Kentucky,151,151,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,762,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,52,76,-24,1459,Kentucky,151,151,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,763,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,52,76,-24,1459,Kentucky,151,151,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,924242,764,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,76,-23,1476,LSU,151,151,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,114
+2009-10,2010-02-06,924242,766,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,76,-23,1459,Kentucky,150,150,1, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,21.45,509450,NA,NA,0,Kentucky,Kentucky,115
+2009-10,2010-02-06,924242,767,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,76,-23,1459,Kentucky,150,150,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,115
+2009-10,2010-02-06,924242,768,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,76,-23,1459,Kentucky,143,143,7, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,21.8,5.65,509452,NA,NA,0,Kentucky,Kentucky,115
+2009-10,2010-02-06,924242,769,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,76,-23,1459,Kentucky,143,143,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,115
+2009-10,2010-02-06,924242,770,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,79,-26,1459,Kentucky,138,138,5, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.5,20.55,509452,NA,NA,0,Kentucky,LSU,115
+2009-10,2010-02-06,924242,771,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,79,-26,1476,LSU,129,129,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,8.549999999999997,398592,NA,NA,0,LSU,LSU,116
+2009-10,2010-02-06,924242,772,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,79,-26,1459,Kentucky,129,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,116
+2009-10,2010-02-06,924242,773.5,0,2,LSU,Kentucky,Tigers,Wildcats,1,4,53,81,-28,1459,Kentucky,123,123,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329864,NA,NA,0,Kentucky,LSU,117
+2009-10,2010-02-06,924242,776,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,53,81,-28,1476,LSU,109,109,14,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,782,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1476,LSU,93,93,16, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398595,NA,NA,0,LSU,Kentucky,118
+2009-10,2010-02-06,924242,784,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1459,Kentucky,63,63,30, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.7,11.45,509452,NA,NA,0,Kentucky,Kentucky,119
+2009-10,2010-02-06,924242,785,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1476,LSU,63,63,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,LSU,119
+2009-10,2010-02-06,924242,786,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1476,LSU,51,51,12, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,28.8,4.650000000000006,524957,NA,NA,0,LSU,LSU,120
+2009-10,2010-02-06,924242,787,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1476,LSU,51,51,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,120
+2009-10,2010-02-06,924242,787.25,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1459,Kentucky,51,51,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469488,NA,NA,0,Kentucky,Kentucky,120
+2009-10,2010-02-06,924242,787.5,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1459,Kentucky,45,45,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329864,NA,NA,0,Kentucky,LSU,120
+2009-10,2010-02-06,924242,788,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1476,LSU,38,38,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,6.650000000000006,524958,NA,NA,0,LSU,LSU,121
+2009-10,2010-02-06,924242,789,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,1459,Kentucky,38,38,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Kentucky,121
+2009-10,2010-02-06,924242,794,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,NA,NA,0,0,38,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,924242,795,0,2,LSU,Kentucky,Tigers,Wildcats,0,4,55,81,-26,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,NA

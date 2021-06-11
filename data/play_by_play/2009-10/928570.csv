@@ -1,0 +1,196 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-09,928570,1,0,1,Tulane,UAB,Green Wave,Blazers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UAB,NA
+2009-10,2010-01-09,928570,3,0,1,Tulane,UAB,Green Wave,Blazers,4,4,0,0,0,1303,UAB,2385,1185,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,10.25,295947,NA,NA,0,UAB,Tulane,1
+2009-10,2010-01-09,928570,4,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,0,2,1661,Tulane,2370,1170,15, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,27.5,10.25,458974,NA,NA,0,Tulane,UAB,2
+2009-10,2010-01-09,928570,11,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,0,2,1661,Tulane,2333,1133,37, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39,6.950000000000003,399678,NA,NA,0,Tulane,UAB,3
+2009-10,2010-01-09,928570,12,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,2,0,1303,UAB,2328,1128,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330032,NA,NA,0,UAB,Tulane,4
+2009-10,2010-01-09,928570,13,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,2,0,1661,Tulane,2302,1102,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,29.650000000000006,332680,NA,NA,0,Tulane,UAB,5
+2009-10,2010-01-09,928570,14,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,2,0,1303,UAB,2290,1090,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,5.65,295947,NA,NA,0,UAB,UAB,6
+2009-10,2010-01-09,928570,15,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,2,0,1303,UAB,2266,1066,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330032,NA,NA,0,UAB,Tulane,6
+2009-10,2010-01-09,928570,17,0,1,Tulane,UAB,Green Wave,Blazers,4,4,2,2,0,1303,UAB,2251,1051,15,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,7
+2009-10,2010-01-09,928570,22,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,2,1,1661,Tulane,2251,1051,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,7
+2009-10,2010-01-09,928570,23,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,2,1,1661,Tulane,2251,1051,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,7
+2009-10,2010-01-09,928570,26,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,2,1,1661,Tulane,2232,1032,19,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,8
+2009-10,2010-01-09,928570,27,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,2,1,1303,UAB,2232,1032,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,8
+2009-10,2010-01-09,928570,28,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,3,0,1303,UAB,2232,1032,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,8
+2009-10,2010-01-09,928570,30,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,3,0,1303,UAB,2197,997,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,Tulane,9
+2009-10,2010-01-09,928570,31,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,3,0,1661,Tulane,2183,983,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330028,NA,NA,0,Tulane,UAB,10
+2009-10,2010-01-09,928570,32,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,3,0,1303,UAB,2178,978,5, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,8.35,338887,NA,NA,0,UAB,UAB,11
+2009-10,2010-01-09,928570,40,0,1,Tulane,UAB,Green Wave,Blazers,4,4,3,3,0,1303,UAB,2169,969,9, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,330032,NA,NA,0,UAB,Tulane,11
+2009-10,2010-01-09,928570,41,0,1,Tulane,UAB,Green Wave,Blazers,4,4,5,3,2,1661,Tulane,2153,953,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,UAB,12
+2009-10,2010-01-09,928570,48,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,3,2,1303,UAB,2153,953,0,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,50,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,3,2,1303,UAB,2144,944,9, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,25.75,295947,NA,NA,0,UAB,UAB,13
+2009-10,2010-01-09,928570,61,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,3,2,NA,NA,2124,924,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,65,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,5,0,1303,UAB,2112,912,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330032,NA,NA,0,UAB,Tulane,13
+2009-10,2010-01-09,928570,76,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,8,-3,1303,UAB,2070,870,42, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,39.7,23.25,413779,NA,NA,0,UAB,Tulane,14
+2009-10,2010-01-09,928570,79,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,8,-3,1661,Tulane,2053,853,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-09,928570,89,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,8,-3,1661,Tulane,2032,832,21, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32,9.650000000000006,330029,NA,NA,0,Tulane,UAB,15
+2009-10,2010-01-09,928570,96,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,8,-3,1661,Tulane,2005,805,27,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2009-10,2010-01-09,928570,97,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,9,-4,1303,UAB,2005,805,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2009-10,2010-01-09,928570,98,0,1,Tulane,UAB,Green Wave,Blazers,4,3,5,10,-5,1303,UAB,2005,805,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,16
+2009-10,2010-01-09,928570,109,0,1,Tulane,UAB,Green Wave,Blazers,4,3,7,10,-3,1661,Tulane,1942,742,63, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,38.7,6.75,525093,NA,NA,0,Tulane,UAB,17
+2009-10,2010-01-09,928570,109.5,0,1,Tulane,UAB,Green Wave,Blazers,4,3,7,10,-3,1303,UAB,1924,724,18,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,18
+2009-10,2010-01-09,928570,109.75,0,1,Tulane,UAB,Green Wave,Blazers,4,3,8,10,-2,1661,Tulane,1924,724,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,18
+2009-10,2010-01-09,928570,110,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,10,0,1661,Tulane,1922,722,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,525093,NA,NA,0,Tulane,UAB,19
+2009-10,2010-01-09,928570,129,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,10,0,1661,Tulane,1917,717,5,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,20
+2009-10,2010-01-09,928570,130,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,10,0,NA,NA,1917,717,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,134,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,10,0,1303,UAB,1886,686,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295959,NA,NA,0,UAB,UAB,20
+2009-10,2010-01-09,928570,138,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,10,0,1303,UAB,1880,680,6, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,8.55,295959,NA,NA,0,UAB,UAB,20
+2009-10,2010-01-09,928570,139,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,12,-2,1303,UAB,1866,666,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338887,NA,NA,0,UAB,Tulane,20
+2009-10,2010-01-09,928570,140,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,12,-2,1661,Tulane,1860,660,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,12.25,330029,NA,NA,0,Tulane,UAB,21
+2009-10,2010-01-09,928570,141,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,14,-4,1303,UAB,1853,653,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295959,NA,NA,0,UAB,Tulane,22
+2009-10,2010-01-09,928570,142,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,14,-4,1661,Tulane,1836,636,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.799999999999997,27.349999999999994,332680,NA,NA,0,Tulane,Tulane,23
+2009-10,2010-01-09,928570,147,0,1,Tulane,UAB,Green Wave,Blazers,4,3,10,14,-4,1303,UAB,1829,629,7,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,23
+2009-10,2010-01-09,928570,148,0,1,Tulane,UAB,Green Wave,Blazers,4,3,11,14,-3,1661,Tulane,1829,629,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,23
+2009-10,2010-01-09,928570,149,0,1,Tulane,UAB,Green Wave,Blazers,4,3,12,14,-2,1661,Tulane,1829,629,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,23
+2009-10,2010-01-09,928570,152,0,1,Tulane,UAB,Green Wave,Blazers,4,3,12,14,-2,1303,UAB,1816,616,13,Offensive foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,24
+2009-10,2010-01-09,928570,154,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,14,1,1661,Tulane,1800,600,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,24.7,29.450000000000003,332680,NA,NA,0,Tulane,UAB,25
+2009-10,2010-01-09,928570,158,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,14,1,1661,Tulane,1773,573,27,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,26
+2009-10,2010-01-09,928570,159,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,15,0,1303,UAB,1773,573,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,26
+2009-10,2010-01-09,928570,160,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,16,-1,1303,UAB,1773,573,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,26
+2009-10,2010-01-09,928570,164,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,16,-1,1303,UAB,1759,559,14,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,27
+2009-10,2010-01-09,928570,165,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,16,-1,1661,Tulane,1759,559,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,27
+2009-10,2010-01-09,928570,172,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,16,-1,1303,UAB,1742,542,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.3,6.95,513462,NA,NA,0,UAB,UAB,27
+2009-10,2010-01-09,928570,173,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,18,-3,1303,UAB,1736,536,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338887,NA,NA,0,UAB,Tulane,27
+2009-10,2010-01-09,928570,174,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,18,-3,1661,Tulane,1726,526,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,25.150000000000006,332680,NA,NA,0,Tulane,UAB,28
+2009-10,2010-01-09,928570,187,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,18,-3,NA,NA,1651,451,75,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,192,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1303,UAB,1618,418,33, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.3,9.65,330032,NA,NA,0,UAB,Tulane,29
+2009-10,2010-01-09,928570,193,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1661,Tulane,1591,391,27, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23,8.950000000000003,330028,NA,NA,0,Tulane,Tulane,30
+2009-10,2010-01-09,928570,200,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1661,Tulane,1564,364,27,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-09,928570,203,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1661,Tulane,1549,349,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330028,NA,NA,0,Tulane,UAB,30
+2009-10,2010-01-09,928570,204,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1303,UAB,1522,322,27, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,10.65,330032,NA,NA,0,UAB,Tulane,31
+2009-10,2010-01-09,928570,205,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1661,Tulane,1510,310,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,16.450000000000003,399678,NA,NA,0,Tulane,UAB,32
+2009-10,2010-01-09,928570,207,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1303,UAB,1501,301,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,18.25,413779,NA,NA,0,UAB,Tulane,33
+2009-10,2010-01-09,928570,208,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1303,UAB,1499,299,2,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,34
+2009-10,2010-01-09,928570,213,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,20,-5,1661,Tulane,1487,287,12, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,9.549999999999997,487636,NA,NA,0,Tulane,UAB,34
+2009-10,2010-01-09,928570,214,0,1,Tulane,UAB,Green Wave,Blazers,4,3,15,23,-8,1303,UAB,1467,267,20, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,13.3,26.15,413779,NA,NA,0,UAB,Tulane,35
+2009-10,2010-01-09,928570,219,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,23,-8,1661,Tulane,1466,266,1,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,222,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,23,-8,1661,Tulane,1448,248,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,22.849999999999994,301792,NA,NA,0,Tulane,UAB,36
+2009-10,2010-01-09,928570,223,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1303,UAB,1440,240,8, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,13.2,14.55,295947,NA,NA,0,UAB,Tulane,37
+2009-10,2010-01-09,928570,224,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1661,Tulane,1418,218,22, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,11.25,487636,NA,NA,0,Tulane,UAB,38
+2009-10,2010-01-09,928570,225,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1303,UAB,1403,203,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,6.05,295947,NA,NA,0,UAB,Tulane,39
+2009-10,2010-01-09,928570,232,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1303,UAB,1403,203,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,40
+2009-10,2010-01-09,928570,233,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,NA,NA,1403,203,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,234,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1661,Tulane,1403,203,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,40
+2009-10,2010-01-09,928570,240,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1303,UAB,1385,185,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,UAB,41
+2009-10,2010-01-09,928570,246,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,25,-10,1303,UAB,1367,167,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,29.85,338887,NA,NA,0,UAB,UAB,41
+2009-10,2010-01-09,928570,249,0,1,Tulane,UAB,Green Wave,Blazers,3,3,15,27,-12,1303,UAB,1343,143,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295959,NA,NA,0,UAB,Tulane,41
+2009-10,2010-01-09,928570,250,0,1,Tulane,UAB,Green Wave,Blazers,3,3,17,27,-10,1661,Tulane,1320,120,23, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,34,18.950000000000003,399678,NA,NA,0,Tulane,UAB,42
+2009-10,2010-01-09,928570,265,0,1,Tulane,UAB,Green Wave,Blazers,3,3,17,27,-10,1303,UAB,1268,68,52,Offensive foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,43
+2009-10,2010-01-09,928570,267,0,1,Tulane,UAB,Green Wave,Blazers,3,3,17,27,-10,1303,UAB,1219,19,49, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,24.05,295959,NA,NA,0,UAB,Tulane,44
+2009-10,2010-01-09,928570,271,0,1,Tulane,UAB,Green Wave,Blazers,3,3,17,27,-10,1303,UAB,1201,1,18,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,45
+2009-10,2010-01-09,928570,272,0,1,Tulane,UAB,Green Wave,Blazers,3,3,17,27,-10,1661,Tulane,1201,1,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,45
+2009-10,2010-01-09,928570,273,0,1,Tulane,UAB,Green Wave,Blazers,3,3,18,27,-9,1661,Tulane,1201,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,45
+2009-10,2010-01-09,928570,275,0,1,Tulane,UAB,Green Wave,Blazers,3,3,18,27,-9,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,280,0,2,Tulane,UAB,Green Wave,Blazers,4,4,18,27,-9,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulane,46
+2009-10,2010-01-09,928570,288,0,2,Tulane,UAB,Green Wave,Blazers,4,4,18,27,-9,1661,Tulane,1176,1176,24, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,8.549999999999997,458974,NA,NA,0,Tulane,Tulane,47
+2009-10,2010-01-09,928570,289,0,2,Tulane,UAB,Green Wave,Blazers,4,4,18,27,-9,1661,Tulane,1145,1145,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458973,NA,NA,0,Tulane,Tulane,47
+2009-10,2010-01-09,928570,290,0,2,Tulane,UAB,Green Wave,Blazers,4,4,20,27,-7,1661,Tulane,1139,1139,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399678,NA,NA,0,Tulane,UAB,47
+2009-10,2010-01-09,928570,291,0,2,Tulane,UAB,Green Wave,Blazers,4,4,20,29,-9,1303,UAB,1122,1122,17, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,14.2,14.35,338887,NA,NA,0,UAB,Tulane,48
+2009-10,2010-01-09,928570,292,0,2,Tulane,UAB,Green Wave,Blazers,4,4,20,29,-9,1661,Tulane,1099,1099,23, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,27,9.650000000000006,330028,NA,NA,0,Tulane,Tulane,49
+2009-10,2010-01-09,928570,293,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,29,-7,1661,Tulane,1094,1094,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,UAB,49
+2009-10,2010-01-09,928570,295,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,29,-7,1661,Tulane,1089,1089,5,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2009-10,2010-01-09,928570,296,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,29,-7,1303,UAB,1089,1089,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2009-10,2010-01-09,928570,297,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,30,-8,1303,UAB,1089,1089,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,50
+2009-10,2010-01-09,928570,299,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,30,-8,1661,Tulane,1058,1058,31, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,9.650000000000006,458974,NA,NA,0,Tulane,Tulane,51
+2009-10,2010-01-09,928570,306,0,2,Tulane,UAB,Green Wave,Blazers,4,4,22,30,-8,1303,UAB,1057,1057,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,51
+2009-10,2010-01-09,928570,308,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,30,-6,1661,Tulane,1026,1026,31, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.3,12.950000000000003,458974,NA,NA,0,Tulane,UAB,51
+2009-10,2010-01-09,928570,311,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,30,-6,1303,UAB,995,995,31, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,24.55,338887,NA,NA,0,UAB,Tulane,52
+2009-10,2010-01-09,928570,312,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,30,-6,1661,Tulane,968,968,27, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,20,14.549999999999997,458974,NA,NA,0,Tulane,Tulane,53
+2009-10,2010-01-09,928570,316,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,30,-6,NA,NA,959,959,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,318,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,30,-6,1661,Tulane,953,953,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26,30.049999999999997,399678,NA,NA,0,Tulane,UAB,53
+2009-10,2010-01-09,928570,319,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,32,-8,1303,UAB,932,932,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330032,NA,NA,0,UAB,Tulane,54
+2009-10,2010-01-09,928570,320,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,32,-8,1661,Tulane,900,900,32, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22,9.150000000000006,330027,NA,NA,0,Tulane,UAB,55
+2009-10,2010-01-09,928570,337,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,32,-8,1303,UAB,869,869,31, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,18.95,399809,NA,NA,0,UAB,Tulane,56
+2009-10,2010-01-09,928570,338,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,32,-8,1661,Tulane,860,860,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330028,NA,NA,0,Tulane,UAB,57
+2009-10,2010-01-09,928570,339,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,34,-10,1303,UAB,839,839,21, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,18.2,11.25,330032,NA,NA,0,UAB,Tulane,58
+2009-10,2010-01-09,928570,343,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,34,-10,1303,UAB,827,827,12,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,59
+2009-10,2010-01-09,928570,348,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,34,-10,1303,UAB,817,817,10,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,59
+2009-10,2010-01-09,928570,349,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,34,-10,1661,Tulane,817,817,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,59
+2009-10,2010-01-09,928570,350,0,2,Tulane,UAB,Green Wave,Blazers,4,4,24,34,-10,1661,Tulane,817,817,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,59
+2009-10,2010-01-09,928570,352,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,814,814,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UAB,59
+2009-10,2010-01-09,928570,353,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,797,797,17, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,5.65,295947,NA,NA,0,UAB,Tulane,60
+2009-10,2010-01-09,928570,355,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,769,769,28,Offensive foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,61
+2009-10,2010-01-09,928570,358,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,755,755,14, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,11.8,15.15,338887,NA,NA,0,UAB,Tulane,62
+2009-10,2010-01-09,928570,375,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,755,755,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,63
+2009-10,2010-01-09,928570,387,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,738,738,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458973,NA,NA,0,Tulane,UAB,63
+2009-10,2010-01-09,928570,391,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,723,723,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.7,24.75,413779,NA,NA,0,UAB,UAB,64
+2009-10,2010-01-09,928570,392,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,712,712,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295947,NA,NA,0,UAB,Tulane,64
+2009-10,2010-01-09,928570,393,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,703,703,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399678,NA,NA,0,Tulane,UAB,65
+2009-10,2010-01-09,928570,396,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,684,684,19,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,66
+2009-10,2010-01-09,928570,397,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,NA,NA,684,684,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,404,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1661,Tulane,666,666,18,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,66
+2009-10,2010-01-09,928570,410,0,2,Tulane,UAB,Green Wave,Blazers,4,4,26,34,-8,1303,UAB,651,651,15,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,66
+2009-10,2010-01-09,928570,411,0,2,Tulane,UAB,Green Wave,Blazers,4,4,27,34,-7,1661,Tulane,651,651,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,66
+2009-10,2010-01-09,928570,412,0,2,Tulane,UAB,Green Wave,Blazers,4,4,28,34,-6,1661,Tulane,651,651,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,66
+2009-10,2010-01-09,928570,418,0,2,Tulane,UAB,Green Wave,Blazers,4,4,28,34,-6,1661,Tulane,635,635,16,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,67
+2009-10,2010-01-09,928570,419,0,2,Tulane,UAB,Green Wave,Blazers,4,4,28,35,-7,1303,UAB,635,635,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,67
+2009-10,2010-01-09,928570,420,0,2,Tulane,UAB,Green Wave,Blazers,4,4,28,36,-8,1303,UAB,635,635,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,67
+2009-10,2010-01-09,928570,426,0,2,Tulane,UAB,Green Wave,Blazers,4,4,28,36,-8,1303,UAB,606,606,29,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,68
+2009-10,2010-01-09,928570,427,0,2,Tulane,UAB,Green Wave,Blazers,4,4,29,36,-7,1661,Tulane,606,606,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,68
+2009-10,2010-01-09,928570,428,0,2,Tulane,UAB,Green Wave,Blazers,4,4,29,36,-7,1661,Tulane,606,606,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,68
+2009-10,2010-01-09,928570,432,0,2,Tulane,UAB,Green Wave,Blazers,4,4,29,39,-10,1303,UAB,577,577,29, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46,10.85,399809,NA,NA,0,UAB,Tulane,69
+2009-10,2010-01-09,928570,433,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,39,-8,1661,Tulane,557,557,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458973,NA,NA,0,Tulane,UAB,70
+2009-10,2010-01-09,928570,436,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,39,-8,1661,Tulane,552,552,5,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,71
+2009-10,2010-01-09,928570,444,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,42,-11,1303,UAB,533,533,19, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,12.5,25.15,338887,NA,NA,0,UAB,Tulane,71
+2009-10,2010-01-09,928570,461,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,42,-11,1303,UAB,498,498,35, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,19.15,330032,NA,NA,0,UAB,Tulane,72
+2009-10,2010-01-09,928570,464,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,42,-11,1661,Tulane,479,479,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,10.650000000000006,330028,NA,NA,0,Tulane,Tulane,73
+2009-10,2010-01-09,928570,471,0,2,Tulane,UAB,Green Wave,Blazers,4,4,31,42,-11,1303,UAB,479,479,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,73
+2009-10,2010-01-09,928570,472,0,2,Tulane,UAB,Green Wave,Blazers,4,4,32,42,-10,1661,Tulane,479,479,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,73
+2009-10,2010-01-09,928570,473,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1661,Tulane,479,479,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,73
+2009-10,2010-01-09,928570,478,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,NA,NA,460,460,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,488,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1661,Tulane,436,436,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35,27.450000000000003,399678,NA,NA,0,Tulane,UAB,74
+2009-10,2010-01-09,928570,491,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1661,Tulane,417,417,19,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,75
+2009-10,2010-01-09,928570,492,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1303,UAB,417,417,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,75
+2009-10,2010-01-09,928570,497,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1303,UAB,404,404,13,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2009-10,2010-01-09,928570,498,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,42,-9,1661,Tulane,404,404,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,76
+2009-10,2010-01-09,928570,502,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,44,-11,1303,UAB,368,368,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330032,NA,NA,0,UAB,Tulane,77
+2009-10,2010-01-09,928570,503,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,44,-11,1303,UAB,345,345,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,413779,NA,NA,0,UAB,Tulane,78
+2009-10,2010-01-09,928570,508,0,2,Tulane,UAB,Green Wave,Blazers,4,4,33,44,-11,1303,UAB,326,326,19,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,79
+2009-10,2010-01-09,928570,510.5,0,2,Tulane,UAB,Green Wave,Blazers,4,4,34,44,-10,1661,Tulane,326,326,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,79
+2009-10,2010-01-09,928570,511.75,0,2,Tulane,UAB,Green Wave,Blazers,3,4,34,44,-10,1661,Tulane,326,326,0,Green Wave take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,513,0,2,Tulane,UAB,Green Wave,Blazers,3,4,36,44,-8,1661,Tulane,325,325,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UAB,80
+2009-10,2010-01-09,928570,530,0,2,Tulane,UAB,Green Wave,Blazers,3,4,38,44,-6,1661,Tulane,273,273,52, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,23.7,8.349999999999994,458974,NA,NA,0,Tulane,UAB,81
+2009-10,2010-01-09,928570,532,0,2,Tulane,UAB,Green Wave,Blazers,3,4,38,44,-6,1303,UAB,242,242,31, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,9.15,330032,NA,NA,0,UAB,UAB,82
+2009-10,2010-01-09,928570,549,0,2,Tulane,UAB,Green Wave,Blazers,3,4,38,46,-8,1303,UAB,240,240,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338887,NA,NA,0,UAB,Tulane,82
+2009-10,2010-01-09,928570,550,0,2,Tulane,UAB,Green Wave,Blazers,3,4,40,46,-6,1661,Tulane,211,211,29, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.3,9.150000000000006,330028,NA,NA,0,Tulane,UAB,83
+2009-10,2010-01-09,928570,557,0,2,Tulane,UAB,Green Wave,Blazers,3,4,40,46,-6,1303,UAB,211,211,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,84
+2009-10,2010-01-09,928570,558,0,2,Tulane,UAB,Green Wave,Blazers,3,4,40,46,-6,NA,NA,211,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,560,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,46,-5,1661,Tulane,211,211,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,84
+2009-10,2010-01-09,928570,567,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,46,-5,1661,Tulane,195,195,16,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,85
+2009-10,2010-01-09,928570,568,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,47,-6,1303,UAB,195,195,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,85
+2009-10,2010-01-09,928570,569,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,1303,UAB,195,195,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,86
+2009-10,2010-01-09,928570,570,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,1303,UAB,195,195,0,Technical foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,87
+2009-10,2010-01-09,928570,571,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,1661,Tulane,195,195,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,88
+2009-10,2010-01-09,928570,575,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,1303,UAB,191,191,4,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,88
+2009-10,2010-01-09,928570,576,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,NA,NA,191,191,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,577,0,2,Tulane,UAB,Green Wave,Blazers,3,4,41,48,-7,1661,Tulane,191,191,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,88
+2009-10,2010-01-09,928570,578,0,2,Tulane,UAB,Green Wave,Blazers,3,4,42,48,-6,1661,Tulane,191,191,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UAB,88
+2009-10,2010-01-09,928570,580,0,2,Tulane,UAB,Green Wave,Blazers,3,4,42,48,-6,1303,UAB,173,173,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,UAB,89
+2009-10,2010-01-09,928570,581,0,2,Tulane,UAB,Green Wave,Blazers,3,4,42,50,-8,1303,UAB,168,168,5, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.2,8.35,483133,NA,NA,0,UAB,Tulane,89
+2009-10,2010-01-09,928570,582,0,2,Tulane,UAB,Green Wave,Blazers,3,4,44,50,-6,1661,Tulane,156,156,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,UAB,90
+2009-10,2010-01-09,928570,588,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,50,-6,1661,Tulane,155,155,1,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,593,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,50,-6,1661,Tulane,155,155,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,91
+2009-10,2010-01-09,928570,594,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,51,-7,1303,UAB,155,155,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,91
+2009-10,2010-01-09,928570,595,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,52,-8,1303,UAB,155,155,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,91
+2009-10,2010-01-09,928570,599,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,52,-8,1661,Tulane,130,130,25, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,16.25,458973,NA,NA,0,Tulane,UAB,92
+2009-10,2010-01-09,928570,600,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1303,UAB,105,105,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Tulane,93
+2009-10,2010-01-09,928570,609,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1661,Tulane,89,89,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,18.549999999999997,399678,NA,NA,0,Tulane,UAB,94
+2009-10,2010-01-09,928570,610,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1303,UAB,59,59,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330032,NA,NA,0,UAB,Tulane,95
+2009-10,2010-01-09,928570,611,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1661,Tulane,51,51,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399678,NA,NA,0,Tulane,UAB,96
+2009-10,2010-01-09,928570,616,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1661,Tulane,48,48,3,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,97
+2009-10,2010-01-09,928570,617,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,54,-10,1303,UAB,48,48,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,97
+2009-10,2010-01-09,928570,618,0,2,Tulane,UAB,Green Wave,Blazers,2,4,44,55,-11,1303,UAB,48,48,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,97
+2009-10,2010-01-09,928570,620,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,55,-9,1661,Tulane,40,40,8, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.5,8.549999999999997,458974,NA,NA,0,Tulane,UAB,98
+2009-10,2010-01-09,928570,628,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,55,-9,1661,Tulane,37,37,3,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,99
+2009-10,2010-01-09,928570,630,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,56,-10,1303,UAB,37,37,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,99
+2009-10,2010-01-09,928570,631,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,57,-11,1303,UAB,37,37,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,99
+2009-10,2010-01-09,928570,633,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,57,-11,1661,Tulane,32,32,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458973,NA,NA,0,Tulane,UAB,100
+2009-10,2010-01-09,928570,635,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,57,-11,1661,Tulane,20,20,12,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,101
+2009-10,2010-01-09,928570,636,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,57,-11,1303,UAB,20,20,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,101
+2009-10,2010-01-09,928570,637,0,2,Tulane,UAB,Green Wave,Blazers,2,4,46,58,-12,1303,UAB,20,20,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Tulane,101
+2009-10,2010-01-09,928570,639,0,2,Tulane,UAB,Green Wave,Blazers,2,4,49,58,-9,1661,Tulane,10,10,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.5,30.549999999999997,332680,NA,NA,0,Tulane,UAB,102
+2009-10,2010-01-09,928570,644,0,2,Tulane,UAB,Green Wave,Blazers,1,4,49,58,-9,1661,Tulane,6,6,4,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,648,0,2,Tulane,UAB,Green Wave,Blazers,1,4,49,58,-9,1661,Tulane,0,0,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,4.849999999999994,458974,NA,NA,0,Tulane,NA,103
+2009-10,2010-01-09,928570,649,0,2,Tulane,UAB,Green Wave,Blazers,1,4,49,58,-9,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-09,928570,650,0,2,Tulane,UAB,Green Wave,Blazers,1,4,49,58,-9,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,NA

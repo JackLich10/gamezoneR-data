@@ -1,0 +1,187 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-28,1008647,1,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,NA
+2010-11,2010-12-28,1008647,3,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,2,0,2,1627,Stanford,2366,1166,34, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,22.2,13.75,395377,NA,NA,0,Stanford,Yale,1
+2010-11,2010-12-28,1008647,4,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,2,0,2,1627,Stanford,2315,1115,51, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,13.75,457562,NA,NA,0,Stanford,Stanford,2
+2010-11,2010-12-28,1008647,9,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,2,0,2,1716,Yale,2285,1085,30,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,2
+2010-11,2010-12-28,1008647,10,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,3,0,3,1627,Stanford,2285,1085,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,2
+2010-11,2010-12-28,1008647,11,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,0,4,1627,Stanford,2285,1085,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,2
+2010-11,2010-12-28,1008647,14,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,0,4,1716,Yale,2266,1066,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.7,30.05,465113,NA,NA,0,Yale,Yale,3
+2010-11,2010-12-28,1008647,15,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,0,4,1627,Stanford,2266,1066,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,3
+2010-11,2010-12-28,1008647,17,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,2,2,1716,Yale,2252,1052,14, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,6.800000000000001,6.45,465106,NA,NA,0,Yale,Stanford,3
+2010-11,2010-12-28,1008647,18,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,2,2,1627,Stanford,2221,1021,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Yale,4
+2010-11,2010-12-28,1008647,19,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,4,5,-1,1716,Yale,2189,989,32, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.3,25.35,508067,NA,NA,0,Yale,Stanford,5
+2010-11,2010-12-28,1008647,20,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,1627,Stanford,2163,963,26, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7,8.349999999999994,457561,NA,NA,0,Stanford,Yale,6
+2010-11,2010-12-28,1008647,21,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,1716,Yale,2147,947,16, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.8,7.15,465113,NA,NA,0,Yale,Stanford,7
+2010-11,2010-12-28,1008647,26,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,NA,NA,2137,937,10,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,28,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,1627,Stanford,2130,930,7, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,24.25,457561,NA,NA,0,Stanford,Stanford,8
+2010-11,2010-12-28,1008647,41,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,1716,Yale,2088,888,42,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,8
+2010-11,2010-12-28,1008647,42,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,6,5,1,1627,Stanford,2088,888,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,8
+2010-11,2010-12-28,1008647,43,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,2088,888,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,8
+2010-11,2010-12-28,1008647,45,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,2069,869,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,15.85,465113,NA,NA,0,Yale,Stanford,9
+2010-11,2010-12-28,1008647,47,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,2048,848,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,14.75,457561,NA,NA,0,Stanford,Stanford,10
+2010-11,2010-12-28,1008647,48,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,2041,841,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,Stanford,10
+2010-11,2010-12-28,1008647,49,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,2041,841,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Yale,10
+2010-11,2010-12-28,1008647,50,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,2041,841,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,11
+2010-11,2010-12-28,1008647,52,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,2015,815,26, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,6.800000000000001,7.15,410884,NA,NA,0,Yale,Stanford,11
+2010-11,2010-12-28,1008647,53,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,1997,797,18, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,27.7,13.150000000000006,395377,NA,NA,0,Stanford,Stanford,12
+2010-11,2010-12-28,1008647,54,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,1989,789,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31.8,28.25,552304,NA,NA,0,Stanford,Yale,12
+2010-11,2010-12-28,1008647,55,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,1977,777,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.2,29.45,465109,NA,NA,0,Yale,Stanford,13
+2010-11,2010-12-28,1008647,59,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,1952,752,25,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,14
+2010-11,2010-12-28,1008647,61,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,1937,737,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,8.549999999999997,552309,NA,NA,0,Stanford,Yale,14
+2010-11,2010-12-28,1008647,62,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,1926,726,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,465109,NA,NA,0,Yale,Stanford,15
+2010-11,2010-12-28,1008647,64,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,1907,707,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.799999999999997,10.450000000000003,457561,NA,NA,0,Stanford,Yale,16
+2010-11,2010-12-28,1008647,65,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1627,Stanford,1907,707,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,17
+2010-11,2010-12-28,1008647,66,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,NA,NA,1907,707,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,76,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,5,2,1716,Yale,1877,677,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410884,NA,NA,0,Yale,Yale,17
+2010-11,2010-12-28,1008647,84,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,8,-1,1716,Yale,1862,662,15, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,14.5,25.95,508067,NA,NA,0,Yale,Stanford,17
+2010-11,2010-12-28,1008647,88,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,7,8,-1,1627,Stanford,1835,635,27, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,18
+2010-11,2010-12-28,1008647,89,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,8,8,0,1627,Stanford,1835,635,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,18
+2010-11,2010-12-28,1008647,93,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,8,9,-1,1716,Yale,1816,616,19, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,19
+2010-11,2010-12-28,1008647,94,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,8,9,-1,1716,Yale,1816,616,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,19
+2010-11,2010-12-28,1008647,95,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,8,10,-2,1716,Yale,1816,616,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,19
+2010-11,2010-12-28,1008647,98,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,8,10,-2,1627,Stanford,1784,584,32,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,100,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,10,1,1627,Stanford,1783,583,1, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,12.700000000000003,24.25,552305,NA,NA,0,Stanford,Yale,20
+2010-11,2010-12-28,1008647,105,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,10,1,1627,Stanford,1753,553,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552309,NA,NA,0,Stanford,Yale,21
+2010-11,2010-12-28,1008647,108,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,10,1,1627,Stanford,1750,550,3,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,22
+2010-11,2010-12-28,1008647,110,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,10,1,1716,Yale,1733,533,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.7,6.95,465109,NA,NA,0,Yale,Yale,22
+2010-11,2010-12-28,1008647,111,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,13,-2,1716,Yale,1727,527,6, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,19.5,30.35,508067,NA,NA,0,Yale,Stanford,22
+2010-11,2010-12-28,1008647,118,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,11,13,-2,1627,Stanford,1689,489,38, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,25.349999999999994,457561,NA,NA,0,Stanford,Stanford,23
+2010-11,2010-12-28,1008647,119,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,13,13,0,1627,Stanford,1663,463,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512693,NA,NA,0,Stanford,Yale,23
+2010-11,2010-12-28,1008647,120,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,15,13,2,1627,Stanford,1619,419,44, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,Yale,24
+2010-11,2010-12-28,1008647,121,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,15,15,0,1716,Yale,1605,405,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410881,NA,NA,0,Yale,Stanford,25
+2010-11,2010-12-28,1008647,122,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,15,15,0,1627,Stanford,1568,368,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25,29.650000000000006,411256,NA,NA,0,Stanford,Yale,26
+2010-11,2010-12-28,1008647,123,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,15,15,0,1716,Yale,1558,358,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,24.05,410881,NA,NA,0,Yale,Stanford,27
+2010-11,2010-12-28,1008647,124,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,17,15,2,1627,Stanford,1539,339,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457561,NA,NA,0,Stanford,Yale,28
+2010-11,2010-12-28,1008647,128,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,17,15,2,NA,NA,1527,327,12,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,132,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,15,5,1627,Stanford,1503,303,24, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.8,29.849999999999994,552304,NA,NA,0,Stanford,Yale,29
+2010-11,2010-12-28,1008647,138,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1716,Yale,1461,261,42, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,7.199999999999999,22.05,410881,NA,NA,0,Yale,Stanford,30
+2010-11,2010-12-28,1008647,141,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1716,Yale,1440,240,21,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,31
+2010-11,2010-12-28,1008647,142,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1627,Stanford,1440,240,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,31
+2010-11,2010-12-28,1008647,143,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1627,Stanford,1440,240,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,31
+2010-11,2010-12-28,1008647,146,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1716,Yale,1417,217,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,30.05,465109,NA,NA,0,Yale,Yale,32
+2010-11,2010-12-28,1008647,147,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,1627,Stanford,1417,217,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,32
+2010-11,2010-12-28,1008647,148,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,18,2,NA,NA,1417,217,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,149,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,19,1,1716,Yale,1417,217,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,32
+2010-11,2010-12-28,1008647,150,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,20,0,1716,Yale,1417,217,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,32
+2010-11,2010-12-28,1008647,152,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,20,0,1627,Stanford,1404,204,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,6.799999999999997,6.25,457563,NA,NA,0,Stanford,Stanford,33
+2010-11,2010-12-28,1008647,155,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,20,0,1716,Yale,1376,176,28,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,33
+2010-11,2010-12-28,1008647,156,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,20,20,0,1627,Stanford,1376,176,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,33
+2010-11,2010-12-28,1008647,157,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,21,20,1,1627,Stanford,1376,176,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,33
+2010-11,2010-12-28,1008647,159,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,21,20,1,1716,Yale,1344,144,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410881,NA,NA,0,Yale,Stanford,34
+2010-11,2010-12-28,1008647,160,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,20,4,1627,Stanford,1329,129,15, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,5,10.049999999999997,457562,NA,NA,0,Stanford,Yale,35
+2010-11,2010-12-28,1008647,163,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,22,2,1716,Yale,1323,123,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,465113,NA,NA,0,Yale,Stanford,36
+2010-11,2010-12-28,1008647,164,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,22,2,1627,Stanford,1323,123,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,37
+2010-11,2010-12-28,1008647,165,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,23,1,1716,Yale,1323,123,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,37
+2010-11,2010-12-28,1008647,167,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,23,1,1627,Stanford,1312,112,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,22.049999999999997,552304,NA,NA,0,Stanford,Yale,38
+2010-11,2010-12-28,1008647,168,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,23,1,1716,Yale,1291,91,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,5.65,555314,NA,NA,0,Yale,Yale,39
+2010-11,2010-12-28,1008647,169,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,23,1,1716,Yale,1267,67,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,465113,NA,NA,0,Yale,Stanford,39
+2010-11,2010-12-28,1008647,175,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,24,23,1,1627,Stanford,1248,48,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552304,NA,NA,0,Stanford,Stanford,40
+2010-11,2010-12-28,1008647,176,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,23,3,1627,Stanford,1246,46,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457563,NA,NA,0,Stanford,Yale,40
+2010-11,2010-12-28,1008647,177,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,23,3,1716,Yale,1246,46,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,41
+2010-11,2010-12-28,1008647,178,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,23,3,1627,Stanford,1246,46,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,41
+2010-11,2010-12-28,1008647,183,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,23,3,1627,Stanford,1216,16,30,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,42
+2010-11,2010-12-28,1008647,184,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,24,2,1716,Yale,1216,16,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,42
+2010-11,2010-12-28,1008647,185,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,24,2,1627,Stanford,1216,16,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,186,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,25,1,1716,Yale,1216,16,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,42
+2010-11,2010-12-28,1008647,187,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,25,1,1716,Yale,1216,16,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,190,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,1716,Yale,1204,4,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,555313,NA,NA,0,Yale,Stanford,43
+2010-11,2010-12-28,1008647,194,0,1,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,195,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Yale,44
+2010-11,2010-12-28,1008647,197,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,1716,Yale,1176,1176,24, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,6.25,465109,NA,NA,0,Yale,Stanford,45
+2010-11,2010-12-28,1008647,199,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,1627,Stanford,1166,1166,10, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,9.150000000000006,552304,NA,NA,0,Stanford,Stanford,46
+2010-11,2010-12-28,1008647,203,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,26,27,-1,1716,Yale,1156,1156,10,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,46
+2010-11,2010-12-28,1008647,208,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,28,27,1,1627,Stanford,1124,1124,32, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395377,NA,NA,0,Stanford,Yale,46
+2010-11,2010-12-28,1008647,217,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,28,27,1,1716,Yale,1113,1113,11,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,47
+2010-11,2010-12-28,1008647,220,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,28,27,1,1716,Yale,1098,1098,15,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,47
+2010-11,2010-12-28,1008647,221,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,28,27,1,1716,Yale,1098,1098,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,223,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1627,Stanford,1086,1086,12, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,17.700000000000003,19.150000000000006,457563,NA,NA,0,Stanford,Yale,47
+2010-11,2010-12-28,1008647,234,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1716,Yale,1050,1050,36,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,48
+2010-11,2010-12-28,1008647,236,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1627,Stanford,1041,1041,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,22.450000000000003,457561,NA,NA,0,Stanford,Yale,48
+2010-11,2010-12-28,1008647,237,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1716,Yale,1022,1022,19, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,17.45,508067,NA,NA,0,Yale,Stanford,49
+2010-11,2010-12-28,1008647,238,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1627,Stanford,1014,1014,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,18.549999999999997,457561,NA,NA,0,Stanford,Yale,50
+2010-11,2010-12-28,1008647,239,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1716,Yale,999,999,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,16.05,465109,NA,NA,0,Yale,Yale,51
+2010-11,2010-12-28,1008647,249,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1627,Stanford,973,973,26,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,51
+2010-11,2010-12-28,1008647,255,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,27,3,1716,Yale,942,942,31, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,19.75,465113,NA,NA,0,Yale,Yale,51
+2010-11,2010-12-28,1008647,256,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,29,1,1716,Yale,938,938,4, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.8,9.65,555313,NA,NA,0,Yale,Stanford,51
+2010-11,2010-12-28,1008647,258,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,29,1,NA,NA,925,925,13,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,265,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,29,1,1627,Stanford,911,911,14,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,52
+2010-11,2010-12-28,1008647,266,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,30,0,1716,Yale,911,911,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,52
+2010-11,2010-12-28,1008647,267,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,30,31,-1,1716,Yale,911,911,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,52
+2010-11,2010-12-28,1008647,269,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,33,31,2,1627,Stanford,900,900,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,14.700000000000003,26.950000000000003,457561,NA,NA,0,Stanford,Yale,53
+2010-11,2010-12-28,1008647,273,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,33,33,0,1716,Yale,883,883,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,508067,NA,NA,0,Yale,Stanford,54
+2010-11,2010-12-28,1008647,276,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,33,33,0,1716,Yale,870,870,13,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,55
+2010-11,2010-12-28,1008647,277,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,33,33,0,1627,Stanford,870,870,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,55
+2010-11,2010-12-28,1008647,278,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,33,33,0,1627,Stanford,870,870,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,279,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,34,33,1,1627,Stanford,870,870,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,55
+2010-11,2010-12-28,1008647,280,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,34,33,1,1716,Yale,870,870,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,282,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,34,33,1,1716,Yale,853,853,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,12.05,508067,NA,NA,0,Yale,Yale,56
+2010-11,2010-12-28,1008647,283,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,34,35,-1,1716,Yale,835,835,18, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,20.8,24.55,555313,NA,NA,0,Yale,Stanford,56
+2010-11,2010-12-28,1008647,284,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,36,35,1,1627,Stanford,820,820,15, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,32.3,22.650000000000006,457561,NA,NA,0,Stanford,Yale,57
+2010-11,2010-12-28,1008647,286,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,36,35,1,1627,Stanford,805,805,15,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,58
+2010-11,2010-12-28,1008647,287,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,36,36,0,1716,Yale,805,805,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,58
+2010-11,2010-12-28,1008647,288,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,36,37,-1,1716,Yale,805,805,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,58
+2010-11,2010-12-28,1008647,290,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,39,37,2,1627,Stanford,781,781,24, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.3,5.25,552309,NA,NA,0,Stanford,Yale,59
+2010-11,2010-12-28,1008647,291,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,39,37,2,1716,Yale,760,760,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,555313,NA,NA,0,Yale,Stanford,60
+2010-11,2010-12-28,1008647,292,0,2,Stanford,Yale,Cardinal,Bulldogs,4,4,42,37,5,1627,Stanford,745,745,15, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,35,26.75,457561,NA,NA,0,Stanford,Yale,61
+2010-11,2010-12-28,1008647,295,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1716,Yale,736,736,9,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,297,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1716,Yale,687,687,49, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14,25.55,508066,NA,NA,0,Yale,Stanford,62
+2010-11,2010-12-28,1008647,298,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1627,Stanford,683,683,4, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,14.950000000000003,552309,NA,NA,0,Stanford,Yale,63
+2010-11,2010-12-28,1008647,300,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1716,Yale,655,655,28, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41,5.85,555314,NA,NA,0,Yale,Stanford,64
+2010-11,2010-12-28,1008647,301,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1716,Yale,655,655,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,65
+2010-11,2010-12-28,1008647,302,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,NA,NA,655,655,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,315,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,42,37,5,1716,Yale,638,638,17,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,65
+2010-11,2010-12-28,1008647,316,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1627,Stanford,638,638,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,65
+2010-11,2010-12-28,1008647,317,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1627,Stanford,638,638,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,65
+2010-11,2010-12-28,1008647,319,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1627,Stanford,608,608,30, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,10.049999999999997,552305,NA,NA,0,Stanford,Yale,65
+2010-11,2010-12-28,1008647,320,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1716,Yale,589,589,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.7,29.25,465109,NA,NA,0,Yale,Stanford,66
+2010-11,2010-12-28,1008647,330,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1627,Stanford,568,568,21,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,67
+2010-11,2010-12-28,1008647,336,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,43,37,6,1627,Stanford,529,529,39, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.5,12.049999999999997,457562,NA,NA,0,Stanford,Stanford,68
+2010-11,2010-12-28,1008647,337,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1627,Stanford,525,525,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411256,NA,NA,0,Stanford,Yale,68
+2010-11,2010-12-28,1008647,348,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1627,Stanford,487,487,38, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,9.349999999999994,395377,NA,NA,0,Stanford,Yale,69
+2010-11,2010-12-28,1008647,362,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,NA,NA,463,463,24,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,365,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1627,Stanford,450,450,13,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,70
+2010-11,2010-12-28,1008647,368,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1716,Yale,428,428,22, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,15.55,465113,NA,NA,0,Yale,Stanford,70
+2010-11,2010-12-28,1008647,370,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1716,Yale,425,425,3,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,71
+2010-11,2010-12-28,1008647,371,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1627,Stanford,425,425,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,71
+2010-11,2010-12-28,1008647,377,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,45,37,8,1716,Yale,398,398,27, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,6.05,465109,NA,NA,0,Yale,Stanford,72
+2010-11,2010-12-28,1008647,382,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,48,37,11,1627,Stanford,353,353,45, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,41.3,20.150000000000006,457561,NA,NA,0,Stanford,Yale,73
+2010-11,2010-12-28,1008647,383,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,48,39,9,1716,Yale,333,333,20, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,28.2,17.25,465113,NA,NA,0,Yale,Stanford,74
+2010-11,2010-12-28,1008647,389,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,39,11,1627,Stanford,305,305,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,Yale,75
+2010-11,2010-12-28,1008647,391,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,39,11,1627,Stanford,293,293,12,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,76
+2010-11,2010-12-28,1008647,394,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,39,11,1627,Stanford,291,291,2,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,76
+2010-11,2010-12-28,1008647,395,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,40,10,1716,Yale,291,291,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,76
+2010-11,2010-12-28,1008647,396,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,41,9,1716,Yale,291,291,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,76
+2010-11,2010-12-28,1008647,398,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,50,41,9,1627,Stanford,283,283,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,9.150000000000006,552305,NA,NA,0,Stanford,Stanford,77
+2010-11,2010-12-28,1008647,399,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,260,260,23, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,34,27.150000000000006,552304,NA,NA,0,Stanford,Yale,77
+2010-11,2010-12-28,1008647,401,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,NA,NA,227,227,33,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,405,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1716,Yale,222,222,5,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,78
+2010-11,2010-12-28,1008647,406,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,NA,NA,222,222,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,407,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,222,222,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,78
+2010-11,2010-12-28,1008647,408,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,222,222,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,78
+2010-11,2010-12-28,1008647,411,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,220,220,2,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,79
+2010-11,2010-12-28,1008647,412,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,220,220,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,413,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1716,Yale,220,220,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,79
+2010-11,2010-12-28,1008647,418,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,53,41,12,1627,Stanford,214,214,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552309,NA,NA,0,Stanford,Stanford,80
+2010-11,2010-12-28,1008647,420,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,55,41,14,1627,Stanford,207,207,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395377,NA,NA,0,Stanford,Yale,80
+2010-11,2010-12-28,1008647,421,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,55,41,14,1716,Yale,204,204,3,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,81
+2010-11,2010-12-28,1008647,422,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,55,41,14,1716,Yale,204,204,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,423,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,56,41,15,1627,Stanford,204,204,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,81
+2010-11,2010-12-28,1008647,424,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,41,16,1627,Stanford,204,204,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,81
+2010-11,2010-12-28,1008647,428,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,41,16,1627,Stanford,169,169,35,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,82
+2010-11,2010-12-28,1008647,429,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,41,16,1627,Stanford,169,169,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-28,1008647,435,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,41,16,1627,Stanford,150,150,19,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,82
+2010-11,2010-12-28,1008647,436,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,41,16,1716,Yale,150,150,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,82
+2010-11,2010-12-28,1008647,437,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,42,15,1716,Yale,150,150,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Stanford,82
+2010-11,2010-12-28,1008647,439,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,42,15,1716,Yale,149,149,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,83
+2010-11,2010-12-28,1008647,440,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,57,42,15,1627,Stanford,149,149,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,83
+2010-11,2010-12-28,1008647,441,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,58,42,16,1627,Stanford,149,149,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Yale,83
+2010-11,2010-12-28,1008647,444,0,2,Stanford,Yale,Cardinal,Bulldogs,4,3,58,42,16,1716,Yale,141,141,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410881,NA,NA,0,Yale,Yale,84
+2010-11,2010-12-28,1008647,445,0,2,Stanford,Yale,Cardinal,Bulldogs,4,2,58,42,16,1716,Yale,141,141,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,447,0,2,Stanford,Yale,Cardinal,Bulldogs,4,2,58,42,16,1716,Yale,130,130,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,508067,NA,NA,0,Yale,Stanford,84
+2010-11,2010-12-28,1008647,450,0,2,Stanford,Yale,Cardinal,Bulldogs,4,2,60,42,18,1627,Stanford,95,95,35, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,40.5,6.950000000000003,411256,NA,NA,0,Stanford,Yale,85
+2010-11,2010-12-28,1008647,451,0,2,Stanford,Yale,Cardinal,Bulldogs,4,2,60,42,18,1716,Yale,73,73,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,555313,NA,NA,0,Yale,Stanford,86
+2010-11,2010-12-28,1008647,453,0,2,Stanford,Yale,Cardinal,Bulldogs,4,2,60,42,18,1627,Stanford,51,51,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.2,26.150000000000006,552304,NA,NA,0,Stanford,Yale,87
+2010-11,2010-12-28,1008647,458,0,2,Stanford,Yale,Cardinal,Bulldogs,4,1,60,42,18,1716,Yale,34,34,17,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,461,0,2,Stanford,Yale,Cardinal,Bulldogs,4,1,60,44,16,1716,Yale,18,18,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,555313,NA,NA,0,Yale,Stanford,88
+2010-11,2010-12-28,1008647,466,0,2,Stanford,Yale,Cardinal,Bulldogs,4,1,60,44,16,NA,NA,0,0,18,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-28,1008647,467,0,2,Stanford,Yale,Cardinal,Bulldogs,4,1,60,44,16,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,NA

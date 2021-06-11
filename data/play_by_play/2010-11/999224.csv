@@ -1,0 +1,337 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-01,999224,1,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Lamar,NA
+2010-11,2010-12-01,999224,3,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,0,0,0,1463,Lamar,2388,1188,12, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,24.7,9.15,567494,NA,NA,0,Lamar,Lamar,1
+2010-11,2010-12-01,999224,4,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,0,0,0,1651,Texas,2388,1188,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,1
+2010-11,2010-12-01,999224,5,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,2,0,2,1651,Texas,2380,1180,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402371,NA,NA,0,Texas,Lamar,2
+2010-11,2010-12-01,999224,10.5,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,2,0,2,1651,Texas,2362,1162,18,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,3
+2010-11,2010-12-01,999224,16,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,2,0,2,1463,Lamar,2336,1136,26,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2010-11,2010-12-01,999224,17,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,2,0,2,1651,Texas,2336,1136,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2010-11,2010-12-01,999224,19,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,0,3,1651,Texas,2336,1136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,3
+2010-11,2010-12-01,999224,23,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,0,3,1651,Texas,2332,1132,4,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,4
+2010-11,2010-12-01,999224,24,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,1,2,1463,Lamar,2332,1132,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,4
+2010-11,2010-12-01,999224,25,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,2,1,1463,Lamar,2332,1132,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,4
+2010-11,2010-12-01,999224,27,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,2,1,1651,Texas,2307,1107,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,22.849999999999994,513608,NA,NA,0,Texas,Texas,5
+2010-11,2010-12-01,999224,28,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,3,2,1,1651,Texas,2307,1107,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,5
+2010-11,2010-12-01,999224,29,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,2,3,1651,Texas,2300,1100,7, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.5,7.950000000000003,402371,NA,NA,0,Texas,Lamar,5
+2010-11,2010-12-01,999224,32,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,2,3,1651,Texas,2292,1092,8,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,6
+2010-11,2010-12-01,999224,33,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,3,2,1463,Lamar,2292,1092,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,6
+2010-11,2010-12-01,999224,34,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,4,1,1463,Lamar,2292,1092,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,6
+2010-11,2010-12-01,999224,36,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,4,1,1463,Lamar,2274,1074,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,7
+2010-11,2010-12-01,999224,37,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,4,1,1463,Lamar,2274,1074,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,7
+2010-11,2010-12-01,999224,38,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,6,-1,1463,Lamar,2270,1070,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.5,7.35,479779,NA,NA,0,Lamar,Texas,7
+2010-11,2010-12-01,999224,39,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,6,-1,1651,Texas,2250,1050,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,10.25,552806,NA,NA,0,Texas,Texas,8
+2010-11,2010-12-01,999224,40,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,6,-1,1463,Lamar,2250,1050,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,8
+2010-11,2010-12-01,999224,42,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,6,-1,1651,Texas,2244,1044,6,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,9
+2010-11,2010-12-01,999224,43,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,7,-2,1463,Lamar,2244,1044,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,9
+2010-11,2010-12-01,999224,44,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,8,-3,1463,Lamar,2244,1044,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,9
+2010-11,2010-12-01,999224,46,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,8,-3,1651,Texas,2235,1035,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,10
+2010-11,2010-12-01,999224,47,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,8,-3,1651,Texas,2235,1035,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,10
+2010-11,2010-12-01,999224,48,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,8,-3,1651,Texas,2231,1031,4, misses a tip shot from 5 feet out.,missed,FALSE,FALSE,Tip Shot,28.2,8.950000000000003,552806,NA,NA,0,Texas,Texas,10
+2010-11,2010-12-01,999224,49,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,8,-3,1463,Lamar,2231,1031,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,10
+2010-11,2010-12-01,999224,50,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1463,Lamar,2217,1017,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12,24.35,479779,NA,NA,0,Lamar,Texas,11
+2010-11,2010-12-01,999224,51,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1651,Texas,2188,988,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19.5,29.450000000000003,552805,NA,NA,0,Texas,Texas,12
+2010-11,2010-12-01,999224,52,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1651,Texas,2188,988,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,12
+2010-11,2010-12-01,999224,53,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1651,Texas,2182,982,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.8,25.349999999999994,513608,NA,NA,0,Texas,Texas,12
+2010-11,2010-12-01,999224,54,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1463,Lamar,2182,982,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,12
+2010-11,2010-12-01,999224,57,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,5,11,-6,1651,Texas,2171,971,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,59,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1651,Texas,2151,951,20, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.3,12.049999999999997,552806,NA,NA,0,Texas,Lamar,13
+2010-11,2010-12-01,999224,61,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1463,Lamar,2135,935,16, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38,10.25,567501,NA,NA,0,Lamar,Lamar,14
+2010-11,2010-12-01,999224,65,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,NA,NA,2133,933,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,72,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1463,Lamar,2131,931,2, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38,6.25,522873,NA,NA,0,Lamar,Lamar,14
+2010-11,2010-12-01,999224,73,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1651,Texas,2131,931,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,14
+2010-11,2010-12-01,999224,76,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1651,Texas,2103,903,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,18.950000000000003,552805,NA,NA,0,Texas,Texas,15
+2010-11,2010-12-01,999224,77,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1463,Lamar,2103,903,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,15
+2010-11,2010-12-01,999224,80,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1463,Lamar,2086,886,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15,4.25,567494,NA,NA,0,Lamar,Lamar,16
+2010-11,2010-12-01,999224,81,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,7,11,-4,1651,Texas,2086,886,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,16
+2010-11,2010-12-01,999224,82,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2081,881,5, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,8.25,552806,NA,NA,0,Texas,Lamar,17
+2010-11,2010-12-01,999224,83,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2057,857,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,18
+2010-11,2010-12-01,999224,84,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1463,Lamar,2057,857,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,18
+2010-11,2010-12-01,999224,87,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1463,Lamar,2045,845,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,88,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2045,845,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,89,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2045,845,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,93,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2017,817,28, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,12.950000000000003,469830,NA,NA,0,Texas,Texas,19
+2010-11,2010-12-01,999224,94,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,2017,817,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,19
+2010-11,2010-12-01,999224,103,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1463,Lamar,1974,774,43, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45,13.25,567495,NA,NA,0,Lamar,Lamar,19
+2010-11,2010-12-01,999224,104,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,1974,774,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,19
+2010-11,2010-12-01,999224,105,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,1967,767,7,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,20
+2010-11,2010-12-01,999224,110,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1463,Lamar,1952,752,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,16.85,479779,NA,NA,0,Lamar,Lamar,21
+2010-11,2010-12-01,999224,111,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,1952,752,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,21
+2010-11,2010-12-01,999224,113,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,1942,742,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,9.150000000000006,400598,NA,NA,0,Texas,Texas,22
+2010-11,2010-12-01,999224,114,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1651,Texas,1942,742,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,22
+2010-11,2010-12-01,999224,116,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,9,11,-2,1463,Lamar,1941,741,1,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,22
+2010-11,2010-12-01,999224,117,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,10,11,-1,1651,Texas,1941,741,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,22
+2010-11,2010-12-01,999224,118,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,11,11,0,1651,Texas,1941,741,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,22
+2010-11,2010-12-01,999224,122,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,11,11,0,NA,NA,1916,716,25,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,131,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,11,11,0,1463,Lamar,1896,696,20, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24,31.25,567497,NA,NA,0,Lamar,Lamar,23
+2010-11,2010-12-01,999224,132,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,11,11,0,1651,Texas,1896,696,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,23
+2010-11,2010-12-01,999224,135,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,14,11,3,1651,Texas,1872,672,24, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15.299999999999997,26.75,513608,NA,NA,0,Texas,Lamar,24
+2010-11,2010-12-01,999224,137,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,14,13,1,1463,Lamar,1852,652,20, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,24.3,10.45,479782,NA,NA,0,Lamar,Texas,25
+2010-11,2010-12-01,999224,140,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,14,13,1,1463,Lamar,1828,628,24,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,26
+2010-11,2010-12-01,999224,141,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1828,628,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,26
+2010-11,2010-12-01,999224,142,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1828,628,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,26
+2010-11,2010-12-01,999224,143,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1828,628,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,26
+2010-11,2010-12-01,999224,152,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1817,617,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,19,28.25,513608,NA,NA,0,Texas,Lamar,27
+2010-11,2010-12-01,999224,160,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1797,597,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,15.35,567501,NA,NA,0,Lamar,Lamar,28
+2010-11,2010-12-01,999224,161,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1797,597,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,28
+2010-11,2010-12-01,999224,162,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1783,583,14, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,23,19.75,329526,NA,NA,0,Texas,Texas,29
+2010-11,2010-12-01,999224,163,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1783,583,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,29
+2010-11,2010-12-01,999224,164,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1765,565,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,19,19.75,567498,NA,NA,0,Lamar,Lamar,30
+2010-11,2010-12-01,999224,165,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1765,565,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,30
+2010-11,2010-12-01,999224,167,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1751,551,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567495,NA,NA,0,Lamar,Lamar,31
+2010-11,2010-12-01,999224,168,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1751,551,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,31
+2010-11,2010-12-01,999224,171,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1746,546,5,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,32
+2010-11,2010-12-01,999224,174,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1735,535,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,33
+2010-11,2010-12-01,999224,178,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1729,529,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567498,NA,NA,0,Lamar,Lamar,33
+2010-11,2010-12-01,999224,179,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1729,529,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,33
+2010-11,2010-12-01,999224,182,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1717,517,12,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,33
+2010-11,2010-12-01,999224,185,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1651,Texas,1717,517,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,33
+2010-11,2010-12-01,999224,187,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,15,13,2,1463,Lamar,1717,517,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,188,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,16,13,3,1651,Texas,1717,517,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,33
+2010-11,2010-12-01,999224,198,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,16,13,3,1463,Lamar,1676,476,41,Offensive foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,34
+2010-11,2010-12-01,999224,199,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,16,13,3,NA,NA,1676,476,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,205,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,18,13,5,1651,Texas,1657,457,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Texas,35
+2010-11,2010-12-01,999224,207,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,18,13,5,1463,Lamar,1656,456,1,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2010-11,2010-12-01,999224,208,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,19,13,6,1651,Texas,1656,456,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,35
+2010-11,2010-12-01,999224,212,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,19,13,6,1463,Lamar,1645,445,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567498,NA,NA,0,Lamar,Lamar,36
+2010-11,2010-12-01,999224,217,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,19,13,6,1463,Lamar,1626,426,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34,10.25,567494,NA,NA,0,Lamar,Lamar,36
+2010-11,2010-12-01,999224,218,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,19,13,6,1651,Texas,1626,426,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,36
+2010-11,2010-12-01,999224,219,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,19,15,4,1463,Lamar,1616,416,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,567494,NA,NA,0,Lamar,Texas,37
+2010-11,2010-12-01,999224,220,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,22,15,7,1651,Texas,1594,394,22, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,30.3,29.849999999999994,552805,NA,NA,0,Texas,Lamar,38
+2010-11,2010-12-01,999224,221,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,22,17,5,1463,Lamar,1579,379,15, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,18.8,11.45,567494,NA,NA,0,Lamar,Texas,39
+2010-11,2010-12-01,999224,226,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,22,17,5,1651,Texas,1564,364,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,229,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,22,17,5,1463,Lamar,1542,342,22, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,15.15,479779,NA,NA,0,Lamar,Texas,40
+2010-11,2010-12-01,999224,234,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,24,17,7,1651,Texas,1530,330,12, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,27.8,10.049999999999997,513608,NA,NA,0,Texas,Lamar,41
+2010-11,2010-12-01,999224,235,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,24,17,7,1463,Lamar,1523,323,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,341413,NA,NA,0,Lamar,Lamar,42
+2010-11,2010-12-01,999224,236,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,24,17,7,1651,Texas,1523,323,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,42
+2010-11,2010-12-01,999224,238,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,24,17,7,1463,Lamar,1516,316,7,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,43
+2010-11,2010-12-01,999224,239,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,24,17,7,1651,Texas,1516,316,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,43
+2010-11,2010-12-01,999224,241,0,1,Texas,Lamar,Longhorns,Cardinals,4,4,25,17,8,1651,Texas,1516,316,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,43
+2010-11,2010-12-01,999224,242,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,17,8,1463,Lamar,1516,316,0,Cardinals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,251,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,17,8,1463,Lamar,1507,307,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,44
+2010-11,2010-12-01,999224,252,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,17,8,1463,Lamar,1507,307,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,44
+2010-11,2010-12-01,999224,259,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,17,8,1651,Texas,1476,276,31,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,44
+2010-11,2010-12-01,999224,260,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,18,7,1463,Lamar,1476,276,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,44
+2010-11,2010-12-01,999224,261,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1463,Lamar,1476,276,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,44
+2010-11,2010-12-01,999224,264,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1651,Texas,1448,248,28, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,21.25,400598,NA,NA,0,Texas,Texas,45
+2010-11,2010-12-01,999224,265,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1463,Lamar,1448,248,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,45
+2010-11,2010-12-01,999224,267,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1651,Texas,1446,246,2,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,46
+2010-11,2010-12-01,999224,271,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1463,Lamar,1446,246,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,46
+2010-11,2010-12-01,999224,272,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,25,19,6,1651,Texas,1446,246,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,46
+2010-11,2010-12-01,999224,276,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,1651,Texas,1429,229,17, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39,23.25,552805,NA,NA,0,Texas,Lamar,47
+2010-11,2010-12-01,999224,278,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,1463,Lamar,1418,218,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,18,21.25,522875,NA,NA,0,Lamar,Lamar,48
+2010-11,2010-12-01,999224,279,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,1651,Texas,1418,218,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,48
+2010-11,2010-12-01,999224,281,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,NA,NA,1411,211,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,295,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,1651,Texas,1394,194,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,49
+2010-11,2010-12-01,999224,296,0,1,Texas,Lamar,Longhorns,Cardinals,4,3,28,19,9,1651,Texas,1394,194,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,49
+2010-11,2010-12-01,999224,299,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1651,Texas,1384,184,10,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,301.5,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1651,Texas,1354,154,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402374,NA,NA,0,Texas,Texas,49
+2010-11,2010-12-01,999224,302.75,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1463,Lamar,1354,154,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,49
+2010-11,2010-12-01,999224,304,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1463,Lamar,1347,147,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567501,NA,NA,0,Lamar,Lamar,50
+2010-11,2010-12-01,999224,305,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1651,Texas,1347,147,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,50
+2010-11,2010-12-01,999224,306,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1463,Lamar,1340,140,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567494,NA,NA,0,Lamar,Lamar,51
+2010-11,2010-12-01,999224,306.5,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1463,Lamar,1340,140,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,51
+2010-11,2010-12-01,999224,307,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,28,19,9,1463,Lamar,1338,138,2,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,51
+2010-11,2010-12-01,999224,308,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,29,19,10,1651,Texas,1338,138,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,51
+2010-11,2010-12-01,999224,309,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,19,11,1651,Texas,1338,138,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,52
+2010-11,2010-12-01,999224,311,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,19,11,1463,Lamar,1327,127,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.2,26.75,479782,NA,NA,0,Lamar,Lamar,53
+2010-11,2010-12-01,999224,312,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,19,11,1651,Texas,1327,127,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,53
+2010-11,2010-12-01,999224,313,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,21,9,1463,Lamar,1307,107,20, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,567498,NA,NA,0,Lamar,Texas,54
+2010-11,2010-12-01,999224,315,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,21,9,1651,Texas,1286,86,21, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,12.25,400598,NA,NA,0,Texas,Texas,55
+2010-11,2010-12-01,999224,316,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,30,21,9,1651,Texas,1286,86,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,55
+2010-11,2010-12-01,999224,317,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,21,11,1651,Texas,1281,81,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.7,7.950000000000003,552806,NA,NA,0,Texas,Lamar,55
+2010-11,2010-12-01,999224,318,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,21,11,1463,Lamar,1264,64,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41,24.25,567495,NA,NA,0,Lamar,Lamar,56
+2010-11,2010-12-01,999224,319,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,21,11,1463,Lamar,1264,64,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,56
+2010-11,2010-12-01,999224,320,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,21,11,1463,Lamar,1258,58,6, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,8.75,341413,NA,NA,0,Lamar,Lamar,56
+2010-11,2010-12-01,999224,321,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,21,11,1463,Lamar,1258,58,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,56
+2010-11,2010-12-01,999224,322,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,23,9,1463,Lamar,1252,52,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567498,NA,NA,0,Lamar,Texas,56
+2010-11,2010-12-01,999224,323,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,23,9,1651,Texas,1234,34,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,8.25,513608,NA,NA,0,Texas,Texas,57
+2010-11,2010-12-01,999224,324,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,23,9,1463,Lamar,1234,34,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,57
+2010-11,2010-12-01,999224,330,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,32,23,9,1463,Lamar,1227,27,7,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,58
+2010-11,2010-12-01,999224,331,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,33,23,10,1651,Texas,1227,27,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,58
+2010-11,2010-12-01,999224,332,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,34,23,11,1651,Texas,1227,27,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,58
+2010-11,2010-12-01,999224,334,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,34,25,9,1463,Lamar,1203,3,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,567498,NA,NA,0,Lamar,Texas,59
+2010-11,2010-12-01,999224,335,0,1,Texas,Lamar,Longhorns,Cardinals,3,3,34,25,9,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,348,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,60
+2010-11,2010-12-01,999224,351,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1651,Texas,1189,1189,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.25,513608,NA,NA,0,Texas,Texas,61
+2010-11,2010-12-01,999224,352,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1463,Lamar,1189,1189,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,61
+2010-11,2010-12-01,999224,354,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1463,Lamar,1173,1173,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,479779,NA,NA,0,Lamar,Lamar,62
+2010-11,2010-12-01,999224,355,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1651,Texas,1173,1173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,62
+2010-11,2010-12-01,999224,356,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1463,Lamar,1171,1171,2,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,63
+2010-11,2010-12-01,999224,368,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,34,25,9,1463,Lamar,1165,1165,6,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,63
+2010-11,2010-12-01,999224,370,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,36,25,11,1651,Texas,1162,1162,3, makes a jump shot from 11 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,36,5.25,513608,NA,NA,0,Texas,Lamar,63
+2010-11,2010-12-01,999224,372,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,36,25,11,1651,Texas,1149,1149,13,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,64
+2010-11,2010-12-01,999224,373,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,36,26,10,1463,Lamar,1149,1149,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,64
+2010-11,2010-12-01,999224,376,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,36,27,9,1463,Lamar,1149,1149,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,64
+2010-11,2010-12-01,999224,378,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1651,Texas,1134,1134,15, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,9.25,552805,NA,NA,0,Texas,Lamar,65
+2010-11,2010-12-01,999224,379,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1463,Lamar,1102,1102,32, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,22,14.25,479782,NA,NA,0,Lamar,Lamar,66
+2010-11,2010-12-01,999224,380,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1651,Texas,1102,1102,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,66
+2010-11,2010-12-01,999224,382,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1651,Texas,1091,1091,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,8.150000000000006,513608,NA,NA,0,Texas,Texas,67
+2010-11,2010-12-01,999224,383,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1651,Texas,1091,1091,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,67
+2010-11,2010-12-01,999224,386,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,39,27,12,1463,Lamar,1087,1087,4,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,67
+2010-11,2010-12-01,999224,387,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,40,27,13,1651,Texas,1087,1087,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,67
+2010-11,2010-12-01,999224,388,0,2,Texas,Lamar,Longhorns,Cardinals,4,4,41,27,14,1651,Texas,1087,1087,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,67
+2010-11,2010-12-01,999224,389,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,41,27,14,1463,Lamar,1087,1087,0,Cardinals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,395,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,41,27,14,1463,Lamar,1076,1076,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,68
+2010-11,2010-12-01,999224,396,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,41,27,14,1651,Texas,1076,1076,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,68
+2010-11,2010-12-01,999224,399,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,41,27,14,1463,Lamar,1069,1069,7,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,69
+2010-11,2010-12-01,999224,400,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,42,27,15,1651,Texas,1069,1069,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,69
+2010-11,2010-12-01,999224,402,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,43,27,16,1651,Texas,1069,1069,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,69
+2010-11,2010-12-01,999224,405,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,45,27,18,1651,Texas,1045,1045,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402371,NA,NA,0,Texas,Texas,70
+2010-11,2010-12-01,999224,407,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,45,27,18,1463,Lamar,1044,1044,1,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,70
+2010-11,2010-12-01,999224,408,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,46,27,19,1651,Texas,1044,1044,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,70
+2010-11,2010-12-01,999224,416,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,46,27,19,1651,Texas,1033,1033,11,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,71
+2010-11,2010-12-01,999224,423,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,27,21,1651,Texas,1013,1013,20, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26,17.25,402373,NA,NA,0,Texas,Lamar,71
+2010-11,2010-12-01,999224,424,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,27,21,1463,Lamar,1001,1001,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567501,NA,NA,0,Lamar,Lamar,72
+2010-11,2010-12-01,999224,425,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,27,21,1651,Texas,1001,1001,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,72
+2010-11,2010-12-01,999224,429,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,27,21,1651,Texas,984,984,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,73
+2010-11,2010-12-01,999224,430,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,27,21,1463,Lamar,984,984,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,73
+2010-11,2010-12-01,999224,431,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,29,19,1463,Lamar,959,959,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567501,NA,NA,0,Lamar,Texas,74
+2010-11,2010-12-01,999224,435,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,29,19,1463,Lamar,955,955,4,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2010-11,2010-12-01,999224,436,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,29,19,NA,NA,955,955,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,443,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,29,19,1651,Texas,932,932,23,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,75
+2010-11,2010-12-01,999224,444,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,30,18,1463,Lamar,932,932,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,75
+2010-11,2010-12-01,999224,445,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,31,17,1463,Lamar,932,932,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,75
+2010-11,2010-12-01,999224,450,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,48,33,15,1463,Lamar,911,911,21, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,30,14.35,341413,NA,NA,0,Lamar,Texas,76
+2010-11,2010-12-01,999224,455,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,893,893,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Lamar,77
+2010-11,2010-12-01,999224,456,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1463,Lamar,876,876,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567498,NA,NA,0,Lamar,Lamar,78
+2010-11,2010-12-01,999224,457,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,876,876,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,78
+2010-11,2010-12-01,999224,458,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,867,867,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,25.549999999999997,513608,NA,NA,0,Texas,Texas,79
+2010-11,2010-12-01,999224,459,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1463,Lamar,867,867,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,79
+2010-11,2010-12-01,999224,461,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1463,Lamar,857,857,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567501,NA,NA,0,Lamar,Lamar,80
+2010-11,2010-12-01,999224,465,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,854,854,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,80
+2010-11,2010-12-01,999224,466,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,854,854,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-01,999224,473,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1651,Texas,819,819,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.200000000000003,15.150000000000006,400598,NA,NA,0,Texas,Texas,80
+2010-11,2010-12-01,999224,474,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,33,17,1463,Lamar,819,819,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,80
+2010-11,2010-12-01,999224,475,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1463,Lamar,811,811,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,567501,NA,NA,0,Lamar,Texas,81
+2010-11,2010-12-01,999224,494,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1463,Lamar,768,768,43,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,82
+2010-11,2010-12-01,999224,495,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1651,Texas,768,768,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,82
+2010-11,2010-12-01,999224,496,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1463,Lamar,768,768,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,82
+2010-11,2010-12-01,999224,506,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1651,Texas,762,762,6,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,83
+2010-11,2010-12-01,999224,510,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,35,15,1651,Texas,750,750,12,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,83
+2010-11,2010-12-01,999224,511,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,36,14,1463,Lamar,750,750,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,83
+2010-11,2010-12-01,999224,512,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,36,14,1463,Lamar,750,750,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,83
+2010-11,2010-12-01,999224,513,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,36,14,1651,Texas,750,750,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,83
+2010-11,2010-12-01,999224,519,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,36,14,1463,Lamar,740,740,10,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2010-11,2010-12-01,999224,520,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,50,36,14,1651,Texas,740,740,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2010-11,2010-12-01,999224,522,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,36,15,1651,Texas,740,740,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,84
+2010-11,2010-12-01,999224,525,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,36,15,1651,Texas,738,738,2,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,85
+2010-11,2010-12-01,999224,526,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,37,14,1463,Lamar,738,738,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,85
+2010-11,2010-12-01,999224,527,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,38,13,1463,Lamar,738,738,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,86
+2010-11,2010-12-01,999224,529,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,38,13,1463,Lamar,723,723,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,87
+2010-11,2010-12-01,999224,530,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,51,38,13,1651,Texas,723,723,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,87
+2010-11,2010-12-01,999224,531,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,53,38,15,1651,Texas,717,717,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469830,NA,NA,0,Texas,Lamar,88
+2010-11,2010-12-01,999224,532,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,53,40,13,1463,Lamar,711,711,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567498,NA,NA,0,Lamar,Texas,89
+2010-11,2010-12-01,999224,533,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,53,40,13,1651,Texas,686,686,25, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,9.349999999999994,552806,NA,NA,0,Texas,Texas,90
+2010-11,2010-12-01,999224,534,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,53,40,13,1651,Texas,686,686,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,90
+2010-11,2010-12-01,999224,535,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,40,15,1651,Texas,681,681,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,25.7,9.150000000000006,329526,NA,NA,0,Texas,Lamar,90
+2010-11,2010-12-01,999224,535.5,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,40,15,1463,Lamar,675,675,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567494,NA,NA,0,Lamar,Lamar,91
+2010-11,2010-12-01,999224,535.75,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,40,15,1463,Lamar,675,675,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,91
+2010-11,2010-12-01,999224,536,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1463,Lamar,675,675,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567494,NA,NA,0,Lamar,Texas,91
+2010-11,2010-12-01,999224,538,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1651,Texas,658,658,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,20.25,552805,NA,NA,0,Texas,Texas,92
+2010-11,2010-12-01,999224,539,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1463,Lamar,658,658,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,92
+2010-11,2010-12-01,999224,542,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,NA,NA,656,656,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,551,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1463,Lamar,640,640,16, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36,6.65,567494,NA,NA,0,Lamar,Lamar,93
+2010-11,2010-12-01,999224,552,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1651,Texas,640,640,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,93
+2010-11,2010-12-01,999224,556,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,55,42,13,1463,Lamar,618,618,22,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,94
+2010-11,2010-12-01,999224,557,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,56,42,14,1651,Texas,618,618,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,94
+2010-11,2010-12-01,999224,558,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,56,42,14,1651,Texas,618,618,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,94
+2010-11,2010-12-01,999224,559,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,56,42,14,1463,Lamar,618,618,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,94
+2010-11,2010-12-01,999224,566,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,56,44,12,1463,Lamar,609,609,9, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.5,9.55,522873,NA,NA,0,Lamar,Texas,95
+2010-11,2010-12-01,999224,567,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,56,44,12,1463,Lamar,609,609,0,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,96
+2010-11,2010-12-01,999224,568,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,57,44,13,1651,Texas,609,609,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,96
+2010-11,2010-12-01,999224,569,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,57,44,13,1651,Texas,609,609,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2010-11,2010-12-01,999224,570,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,57,44,13,1463,Lamar,609,609,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,97
+2010-11,2010-12-01,999224,576,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,57,44,13,1463,Lamar,598,598,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,24,20.95,567501,NA,NA,0,Lamar,Lamar,98
+2010-11,2010-12-01,999224,577,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,57,44,13,1651,Texas,598,598,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,98
+2010-11,2010-12-01,999224,580,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,579,579,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400598,NA,NA,0,Texas,Lamar,99
+2010-11,2010-12-01,999224,582,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,563,563,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567494,NA,NA,0,Lamar,Lamar,100
+2010-11,2010-12-01,999224,583,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,563,563,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,100
+2010-11,2010-12-01,999224,586,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,561,561,2,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,100
+2010-11,2010-12-01,999224,587,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,561,561,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,100
+2010-11,2010-12-01,999224,589,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,561,561,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,100
+2010-11,2010-12-01,999224,590,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,561,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,100
+2010-11,2010-12-01,999224,594,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,545,545,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552806,NA,NA,0,Texas,Texas,101
+2010-11,2010-12-01,999224,595,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,545,545,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,101
+2010-11,2010-12-01,999224,600,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,541,541,4,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,101
+2010-11,2010-12-01,999224,601,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,541,541,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,101
+2010-11,2010-12-01,999224,603,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,541,541,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,101
+2010-11,2010-12-01,999224,604,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,541,541,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,101
+2010-11,2010-12-01,999224,608,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,518,518,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,14.15,567495,NA,NA,0,Lamar,Lamar,102
+2010-11,2010-12-01,999224,609,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,518,518,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,102
+2010-11,2010-12-01,999224,611,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1463,Lamar,513,513,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567495,NA,NA,0,Lamar,Lamar,102
+2010-11,2010-12-01,999224,612,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,44,15,1651,Texas,513,513,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,102
+2010-11,2010-12-01,999224,617,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,483,483,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,522873,NA,NA,0,Lamar,Texas,103
+2010-11,2010-12-01,999224,620,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,NA,NA,479,479,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,626,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1651,Texas,458,458,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,104
+2010-11,2010-12-01,999224,627,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1651,Texas,458,458,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,104
+2010-11,2010-12-01,999224,628,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1651,Texas,452,452,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,23.849999999999994,400598,NA,NA,0,Texas,Texas,104
+2010-11,2010-12-01,999224,629,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,452,452,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,104
+2010-11,2010-12-01,999224,630,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,440,440,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,479779,NA,NA,0,Lamar,Lamar,105
+2010-11,2010-12-01,999224,631,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,440,440,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,105
+2010-11,2010-12-01,999224,632,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,436,436,4, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,7.75,341413,NA,NA,0,Lamar,Lamar,105
+2010-11,2010-12-01,999224,633,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1651,Texas,436,436,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,105
+2010-11,2010-12-01,999224,636,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,59,46,13,1463,Lamar,428,428,8,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,106
+2010-11,2010-12-01,999224,637,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,46,14,1651,Texas,428,428,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,106
+2010-11,2010-12-01,999224,638,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,46,14,1651,Texas,428,428,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,106
+2010-11,2010-12-01,999224,639,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,46,14,1463,Lamar,428,428,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,106
+2010-11,2010-12-01,999224,648,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,46,14,1463,Lamar,417,417,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30,28.25,567493,NA,NA,0,Lamar,Lamar,107
+2010-11,2010-12-01,999224,649,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,46,14,1463,Lamar,417,417,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,107
+2010-11,2010-12-01,999224,650,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,60,48,12,1463,Lamar,412,412,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567501,NA,NA,0,Lamar,Texas,107
+2010-11,2010-12-01,999224,655,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,48,14,1651,Texas,379,379,33, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,26.8,16.849999999999994,552805,NA,NA,0,Texas,Lamar,108
+2010-11,2010-12-01,999224,658,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,48,14,1463,Lamar,363,363,16, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,522873,NA,NA,0,Lamar,Lamar,109
+2010-11,2010-12-01,999224,659,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,48,14,1463,Lamar,363,363,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,109
+2010-11,2010-12-01,999224,662,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,48,14,1651,Texas,363,363,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,109
+2010-11,2010-12-01,999224,663,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,49,13,1463,Lamar,363,363,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,109
+2010-11,2010-12-01,999224,664,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,49,13,1463,Lamar,363,363,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,109
+2010-11,2010-12-01,999224,665,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,49,13,1651,Texas,363,363,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,109
+2010-11,2010-12-01,999224,675,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,49,13,1651,Texas,345,345,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552806,NA,NA,0,Texas,Texas,110
+2010-11,2010-12-01,999224,676,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,62,49,13,1463,Lamar,345,345,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,110
+2010-11,2010-12-01,999224,679,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,64,49,15,1651,Texas,329,329,16, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,28.5,23.849999999999994,552805,NA,NA,0,Texas,Lamar,111
+2010-11,2010-12-01,999224,679.5,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,64,49,15,1463,Lamar,312,312,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,112
+2010-11,2010-12-01,999224,679.75,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,64,49,15,1463,Lamar,312,312,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,112
+2010-11,2010-12-01,999224,680,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,64,49,15,1463,Lamar,308,308,4, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,21,8.25,567494,NA,NA,0,Lamar,Lamar,112
+2010-11,2010-12-01,999224,681,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,64,49,15,1651,Texas,308,308,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,112
+2010-11,2010-12-01,999224,683,0,2,Texas,Lamar,Longhorns,Cardinals,4,3,66,49,17,1651,Texas,302,302,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400598,NA,NA,0,Texas,Lamar,113
+2010-11,2010-12-01,999224,684,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,66,49,17,1463,Lamar,299,299,3,Cardinals take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,697,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,66,49,17,1463,Lamar,280,280,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567493,NA,NA,0,Lamar,Lamar,114
+2010-11,2010-12-01,999224,698,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,66,49,17,1651,Texas,280,280,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,114
+2010-11,2010-12-01,999224,699,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1651,Texas,265,265,15, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39,24.25,513608,NA,NA,0,Texas,Lamar,115
+2010-11,2010-12-01,999224,700,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1463,Lamar,250,250,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26,15.25,567494,NA,NA,0,Lamar,Lamar,116
+2010-11,2010-12-01,999224,701,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1651,Texas,250,250,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,116
+2010-11,2010-12-01,999224,703,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1651,Texas,242,242,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400598,NA,NA,0,Texas,Texas,117
+2010-11,2010-12-01,999224,704,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1651,Texas,242,242,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,117
+2010-11,2010-12-01,999224,706,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,1463,Lamar,239,239,3,Shooting foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,117
+2010-11,2010-12-01,999224,707,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,69,49,20,NA,NA,239,239,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,718,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1651,Texas,239,239,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,117
+2010-11,2010-12-01,999224,719,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1651,Texas,239,239,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,117
+2010-11,2010-12-01,999224,720,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1463,Lamar,239,239,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,117
+2010-11,2010-12-01,999224,727,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1463,Lamar,224,224,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36,8.25,522875,NA,NA,0,Lamar,Lamar,118
+2010-11,2010-12-01,999224,728,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1463,Lamar,224,224,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,118
+2010-11,2010-12-01,999224,728.5,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1463,Lamar,218,218,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522873,NA,NA,0,Lamar,Lamar,118
+2010-11,2010-12-01,999224,728.75,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,49,21,1463,Lamar,218,218,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,118
+2010-11,2010-12-01,999224,729,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,70,51,19,1463,Lamar,218,218,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567495,NA,NA,0,Lamar,Texas,118
+2010-11,2010-12-01,999224,730,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1651,Texas,199,199,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513608,NA,NA,0,Texas,Lamar,119
+2010-11,2010-12-01,999224,732,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1463,Lamar,174,174,25, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,20,20.25,479782,NA,NA,0,Lamar,Lamar,120
+2010-11,2010-12-01,999224,733,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1651,Texas,174,174,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,120
+2010-11,2010-12-01,999224,741,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1463,Lamar,159,159,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,479782,NA,NA,0,Lamar,Lamar,121
+2010-11,2010-12-01,999224,742,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1651,Texas,159,159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,121
+2010-11,2010-12-01,999224,744,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1463,Lamar,156,156,3,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,122
+2010-11,2010-12-01,999224,747,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,72,51,21,1651,Texas,156,156,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,122
+2010-11,2010-12-01,999224,749,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,73,51,22,1651,Texas,156,156,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,122
+2010-11,2010-12-01,999224,754,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,73,53,20,1463,Lamar,141,141,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,522873,NA,NA,0,Lamar,Texas,123
+2010-11,2010-12-01,999224,755,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,73,53,20,1463,Lamar,121,121,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,8.25,567495,NA,NA,0,Lamar,Lamar,124
+2010-11,2010-12-01,999224,756,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,73,53,20,1651,Texas,121,121,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,124
+2010-11,2010-12-01,999224,757,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1651,Texas,91,91,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552805,NA,NA,0,Texas,Lamar,125
+2010-11,2010-12-01,999224,758,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1463,Lamar,76,76,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567501,NA,NA,0,Lamar,Lamar,126
+2010-11,2010-12-01,999224,759,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1651,Texas,76,76,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,126
+2010-11,2010-12-01,999224,769,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1651,Texas,54,54,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Lamar,127
+2010-11,2010-12-01,999224,790,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1463,Lamar,44,44,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10,24.25,522872,NA,NA,0,Lamar,Lamar,128
+2010-11,2010-12-01,999224,791,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1651,Texas,44,44,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,128
+2010-11,2010-12-01,999224,794,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1463,Lamar,27,27,17,Personal foul committed by Cardinals.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,129
+2010-11,2010-12-01,999224,803,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,75,53,22,1651,Texas,26,26,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,129
+2010-11,2010-12-01,999224,805,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,53,23,1651,Texas,26,26,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Lamar,129
+2010-11,2010-12-01,999224,811,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,53,23,1651,Texas,21,21,5,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,130
+2010-11,2010-12-01,999224,814,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,54,22,1463,Lamar,21,21,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Lamar,130
+2010-11,2010-12-01,999224,815,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,55,21,1463,Lamar,21,21,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Lamar,Texas,130
+2010-11,2010-12-01,999224,820,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,55,21,NA,NA,0,0,21,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-01,999224,832,0,2,Texas,Lamar,Longhorns,Cardinals,4,2,76,55,21,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,NA

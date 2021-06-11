@@ -1,0 +1,281 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-26,1010969,1,0,1,Kentucky,Florida,Wildcats,Gators,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Florida,NA
+2010-11,2011-02-26,1010969,4,0,1,Kentucky,Florida,Wildcats,Gators,4,4,0,0,0,1407,Florida,2368,1168,32, misses a layup from 3 feet out.,missed,FALSE,FALSE,Layup Shot,22,6.25,400599,NA,NA,0,Florida,Florida,1
+2010-11,2011-02-26,1010969,5,0,1,Kentucky,Florida,Wildcats,Gators,4,4,0,0,0,1407,Florida,2368,1168,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,1
+2010-11,2011-02-26,1010969,6,0,1,Kentucky,Florida,Wildcats,Gators,4,4,0,0,0,1407,Florida,2365,1165,3, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,8.35,400602,NA,NA,0,Florida,Kentucky,1
+2010-11,2011-02-26,1010969,13,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,0,2,1459,Kentucky,2340,1140,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553576,NA,NA,0,Kentucky,Florida,2
+2010-11,2011-02-26,1010969,15,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,0,2,1459,Kentucky,2331,1131,9,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-02-26,1010969,21,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,0,2,1459,Kentucky,2329,1129,2,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-02-26,1010969,22,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,1,1,1407,Florida,2329,1129,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-02-26,1010969,23,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,2,0,1407,Florida,2329,1129,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-02-26,1010969,24,0,1,Kentucky,Florida,Wildcats,Gators,4,4,2,3,-1,1407,Florida,2329,1129,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,3
+2010-11,2011-02-26,1010969,26,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2315,1115,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553575,NA,NA,0,Kentucky,Florida,4
+2010-11,2011-02-26,1010969,27,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1407,Florida,2291,1091,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,5
+2010-11,2011-02-26,1010969,28,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2291,1091,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,5
+2010-11,2011-02-26,1010969,30,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2280,1080,11, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,6.950000000000003,553575,NA,NA,0,Kentucky,Kentucky,6
+2010-11,2011-02-26,1010969,33,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2274,1074,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,10.849999999999994,553573,NA,NA,0,Kentucky,Kentucky,6
+2010-11,2011-02-26,1010969,34,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1407,Florida,2274,1074,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,6
+2010-11,2011-02-26,1010969,40,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1407,Florida,2242,1042,32,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,7
+2010-11,2011-02-26,1010969,41,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2242,1042,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,7
+2010-11,2011-02-26,1010969,43,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1407,Florida,2242,1042,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,44,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1459,Kentucky,2242,1042,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,7
+2010-11,2011-02-26,1010969,45,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,3,1,1407,Florida,2242,1042,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,7
+2010-11,2011-02-26,1010969,51,0,1,Kentucky,Florida,Wildcats,Gators,4,4,4,6,-2,1407,Florida,2217,1017,25, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,25,29.85,512752,NA,NA,0,Florida,Kentucky,8
+2010-11,2011-02-26,1010969,52,0,1,Kentucky,Florida,Wildcats,Gators,4,4,6,6,0,1459,Kentucky,2198,998,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469484,NA,NA,0,Kentucky,Florida,9
+2010-11,2011-02-26,1010969,53,0,1,Kentucky,Florida,Wildcats,Gators,4,4,6,6,0,1407,Florida,2178,978,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460865,NA,NA,0,Florida,Florida,10
+2010-11,2011-02-26,1010969,54,0,1,Kentucky,Florida,Wildcats,Gators,4,4,6,6,0,1459,Kentucky,2178,978,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,10
+2010-11,2011-02-26,1010969,55,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,6,3,1459,Kentucky,2167,967,11, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.2,16.25,469484,NA,NA,0,Kentucky,Florida,11
+2010-11,2011-02-26,1010969,56,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,6,3,1407,Florida,2147,947,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,18.45,512752,NA,NA,0,Florida,Florida,12
+2010-11,2011-02-26,1010969,57,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,6,3,1459,Kentucky,2147,947,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,12
+2010-11,2011-02-26,1010969,58,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,6,3,1459,Kentucky,2138,938,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,17.049999999999997,553576,NA,NA,0,Kentucky,Kentucky,13
+2010-11,2011-02-26,1010969,59,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,6,3,1407,Florida,2138,938,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,13
+2010-11,2011-02-26,1010969,60,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1407,Florida,2114,914,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,332667,NA,NA,0,Florida,Kentucky,14
+2010-11,2011-02-26,1010969,62,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1407,Florida,2100,900,14,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,15
+2010-11,2011-02-26,1010969,63,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,NA,NA,2100,900,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,68,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1459,Kentucky,2082,882,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,12.25,553575,NA,NA,0,Kentucky,Kentucky,15
+2010-11,2011-02-26,1010969,71,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1407,Florida,2081,881,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,74,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1459,Kentucky,2073,873,8, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,18,10.450000000000003,553573,NA,NA,0,Kentucky,Kentucky,15
+2010-11,2011-02-26,1010969,75,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1459,Kentucky,2073,873,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,15
+2010-11,2011-02-26,1010969,76,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1407,Florida,2071,871,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,77,0,1,Kentucky,Florida,Wildcats,Gators,4,4,9,8,1,1407,Florida,2071,871,0,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,15
+2010-11,2011-02-26,1010969,79,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,8,3,1459,Kentucky,2053,853,18, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9.700000000000003,16.049999999999997,553573,NA,NA,0,Kentucky,Florida,15
+2010-11,2011-02-26,1010969,83,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,8,3,1459,Kentucky,2039,839,14,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,16
+2010-11,2011-02-26,1010969,84,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,8,3,1407,Florida,2039,839,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,85,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,8,3,1407,Florida,2039,839,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,89,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,11,0,1407,Florida,2031,831,8, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.8,28.65,512753,NA,NA,0,Florida,Kentucky,16
+2010-11,2011-02-26,1010969,90,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,11,0,1459,Kentucky,2011,811,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.299999999999997,18.75,553573,NA,NA,0,Kentucky,Kentucky,17
+2010-11,2011-02-26,1010969,91,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,11,0,1407,Florida,2011,811,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,17
+2010-11,2011-02-26,1010969,93,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,11,0,1459,Kentucky,2004,804,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,98,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,11,0,1459,Kentucky,1991,791,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,105,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1984,784,7, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,20.2,8.55,400602,NA,NA,0,Florida,Kentucky,18
+2010-11,2011-02-26,1010969,106,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1951,751,33, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,26.349999999999994,469487,NA,NA,0,Kentucky,Kentucky,19
+2010-11,2011-02-26,1010969,107,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1951,751,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,19
+2010-11,2011-02-26,1010969,109,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1940,740,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460865,NA,NA,0,Florida,Florida,20
+2010-11,2011-02-26,1010969,114,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1931,731,9, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,19.5,8.35,400602,NA,NA,0,Florida,Kentucky,20
+2010-11,2011-02-26,1010969,116,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1931,731,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,121,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1916,716,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,12.950000000000003,469484,NA,NA,0,Kentucky,Kentucky,21
+2010-11,2011-02-26,1010969,122,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1916,716,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,21
+2010-11,2011-02-26,1010969,124,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1914,714,2,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,21
+2010-11,2011-02-26,1010969,125,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,NA,NA,1914,714,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,133,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1896,696,18,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,21
+2010-11,2011-02-26,1010969,134,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1896,696,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,135,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1896,696,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,136,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1896,696,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,140,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1885,685,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,13.95,400602,NA,NA,0,Florida,Florida,21
+2010-11,2011-02-26,1010969,141,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1885,685,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,21
+2010-11,2011-02-26,1010969,142,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1459,Kentucky,1874,674,11, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,13.75,469484,NA,NA,0,Kentucky,Kentucky,22
+2010-11,2011-02-26,1010969,143,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1874,674,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,22
+2010-11,2011-02-26,1010969,149,0,1,Kentucky,Florida,Wildcats,Gators,4,4,11,13,-2,1407,Florida,1851,651,23,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,153,0,1,Kentucky,Florida,Wildcats,Gators,4,4,13,13,0,1459,Kentucky,1836,636,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469487,NA,NA,0,Kentucky,Florida,23
+2010-11,2011-02-26,1010969,154,0,1,Kentucky,Florida,Wildcats,Gators,4,4,13,13,0,1407,Florida,1816,616,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,24
+2010-11,2011-02-26,1010969,155,0,1,Kentucky,Florida,Wildcats,Gators,4,4,13,13,0,1459,Kentucky,1816,616,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,24
+2010-11,2011-02-26,1010969,156,0,1,Kentucky,Florida,Wildcats,Gators,4,4,13,15,-2,1407,Florida,1803,603,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512752,NA,NA,0,Florida,Kentucky,25
+2010-11,2011-02-26,1010969,157,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,15,0,1459,Kentucky,1775,575,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553575,NA,NA,0,Kentucky,Florida,26
+2010-11,2011-02-26,1010969,159,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,15,0,1407,Florida,1763,563,12,Offensive foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,27
+2010-11,2011-02-26,1010969,160,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,15,0,1407,Florida,1763,563,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,164,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,15,0,1459,Kentucky,1739,539,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.5,26.75,469488,NA,NA,0,Kentucky,Kentucky,28
+2010-11,2011-02-26,1010969,165,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,15,0,1407,Florida,1739,539,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,28
+2010-11,2011-02-26,1010969,166,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,18,-3,1407,Florida,1718,518,21, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.3,29.45,460865,NA,NA,0,Florida,Kentucky,29
+2010-11,2011-02-26,1010969,170,0,1,Kentucky,Florida,Wildcats,Gators,4,4,15,18,-3,1407,Florida,1696,496,22,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,30
+2010-11,2011-02-26,1010969,172,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1459,Kentucky,1692,492,4, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,553576,NA,NA,0,Kentucky,Florida,30
+2010-11,2011-02-26,1010969,176,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,NA,NA,1671,471,21,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,178,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1459,Kentucky,1648,448,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469487,NA,NA,0,Kentucky,Kentucky,31
+2010-11,2011-02-26,1010969,179,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1459,Kentucky,1648,448,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,31
+2010-11,2011-02-26,1010969,188,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1459,Kentucky,1636,436,12,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,31
+2010-11,2011-02-26,1010969,189,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1407,Florida,1636,436,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,190,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,18,-1,1459,Kentucky,1636,436,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,197,0,1,Kentucky,Florida,Wildcats,Gators,4,4,17,20,-3,1407,Florida,1620,420,16, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,31.8,8.95,332667,NA,NA,0,Florida,Kentucky,32
+2010-11,2011-02-26,1010969,199,0,1,Kentucky,Florida,Wildcats,Gators,4,4,19,20,-1,1459,Kentucky,1608,408,12, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,19.2,11.25,553575,NA,NA,0,Kentucky,Kentucky,33
+2010-11,2011-02-26,1010969,200,0,1,Kentucky,Florida,Wildcats,Gators,4,4,19,20,-1,1407,Florida,1608,408,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,33
+2010-11,2011-02-26,1010969,201,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1459,Kentucky,1608,408,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,33
+2010-11,2011-02-26,1010969,204,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1582,382,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,22.85,400599,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,205,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1582,382,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,207,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1459,Kentucky,1558,358,24,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,208,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1459,Kentucky,1558,358,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,210,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1554,354,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,16.45,512752,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,211,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1554,354,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,212,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1548,348,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.7,29.05,460865,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-26,1010969,213,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1459,Kentucky,1548,348,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,34
+2010-11,2011-02-26,1010969,218,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1536,336,12,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,35
+2010-11,2011-02-26,1010969,219,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1459,Kentucky,1536,336,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,35
+2010-11,2011-02-26,1010969,221,0,1,Kentucky,Florida,Wildcats,Gators,4,4,20,20,0,1407,Florida,1536,336,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,222,0,1,Kentucky,Florida,Wildcats,Gators,4,4,21,20,1,1459,Kentucky,1536,336,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,35
+2010-11,2011-02-26,1010969,225,0,1,Kentucky,Florida,Wildcats,Gators,4,4,21,20,1,1459,Kentucky,1527,327,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,229,0,1,Kentucky,Florida,Wildcats,Gators,4,4,21,20,1,1407,Florida,1514,314,13, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,24.5,11.45,332667,NA,NA,0,Florida,Florida,36
+2010-11,2011-02-26,1010969,230,0,1,Kentucky,Florida,Wildcats,Gators,4,4,21,20,1,1459,Kentucky,1514,314,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,36
+2010-11,2011-02-26,1010969,232,0,1,Kentucky,Florida,Wildcats,Gators,4,4,24,20,4,1459,Kentucky,1504,304,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.5,18.75,553575,NA,NA,0,Kentucky,Florida,37
+2010-11,2011-02-26,1010969,234,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1407,Florida,1501,301,3,Gators take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,241,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1459,Kentucky,1474,274,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469487,NA,NA,0,Kentucky,Kentucky,38
+2010-11,2011-02-26,1010969,242,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1407,Florida,1474,274,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,38
+2010-11,2011-02-26,1010969,243,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1407,Florida,1457,257,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.25,400599,NA,NA,0,Florida,Florida,39
+2010-11,2011-02-26,1010969,244,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1459,Kentucky,1457,257,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,39
+2010-11,2011-02-26,1010969,245,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1459,Kentucky,1435,235,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469488,NA,NA,0,Kentucky,Kentucky,40
+2010-11,2011-02-26,1010969,246,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1407,Florida,1435,235,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,40
+2010-11,2011-02-26,1010969,249,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,1459,Kentucky,1422,222,13,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,41
+2010-11,2011-02-26,1010969,250,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,20,4,NA,NA,1422,222,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,251,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,21,3,1407,Florida,1422,222,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,41
+2010-11,2011-02-26,1010969,252,0,1,Kentucky,Florida,Wildcats,Gators,4,3,24,22,2,1407,Florida,1422,222,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,41
+2010-11,2011-02-26,1010969,255,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,22,4,1459,Kentucky,1404,204,18, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13.299999999999997,6.049999999999997,553576,NA,NA,0,Kentucky,Florida,42
+2010-11,2011-02-26,1010969,257,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,22,4,1459,Kentucky,1401,201,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,260,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,25,1,1407,Florida,1383,183,18, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.3,13.35,512752,NA,NA,0,Florida,Kentucky,43
+2010-11,2011-02-26,1010969,261,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,25,1,1459,Kentucky,1356,156,27, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,11.049999999999997,469484,NA,NA,0,Kentucky,Kentucky,44
+2010-11,2011-02-26,1010969,262,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,25,1,1407,Florida,1356,156,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,44
+2010-11,2011-02-26,1010969,263,0,1,Kentucky,Florida,Wildcats,Gators,4,3,26,27,-1,1407,Florida,1347,147,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512752,NA,NA,0,Florida,Kentucky,45
+2010-11,2011-02-26,1010969,266,0,1,Kentucky,Florida,Wildcats,Gators,3,3,26,27,-1,1459,Kentucky,1335,135,12,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,267,0,1,Kentucky,Florida,Wildcats,Gators,3,3,26,27,-1,1459,Kentucky,1335,135,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,269,0,1,Kentucky,Florida,Wildcats,Gators,3,3,28,27,1,1459,Kentucky,1325,125,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469484,NA,NA,0,Kentucky,Florida,46
+2010-11,2011-02-26,1010969,270,0,1,Kentucky,Florida,Wildcats,Gators,3,3,28,29,-1,1407,Florida,1305,105,20, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,23.7,12.95,332667,NA,NA,0,Florida,Kentucky,47
+2010-11,2011-02-26,1010969,271,0,1,Kentucky,Florida,Wildcats,Gators,3,3,30,29,1,1459,Kentucky,1290,90,15, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,37.5,19.549999999999997,469484,NA,NA,0,Kentucky,Florida,48
+2010-11,2011-02-26,1010969,273,0,1,Kentucky,Florida,Wildcats,Gators,3,3,30,29,1,1407,Florida,1275,75,15,Offensive foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,49
+2010-11,2011-02-26,1010969,279,0,1,Kentucky,Florida,Wildcats,Gators,3,3,32,29,3,1459,Kentucky,1260,60,15, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31,10.450000000000003,469484,NA,NA,0,Kentucky,Kentucky,50
+2010-11,2011-02-26,1010969,280,0,1,Kentucky,Florida,Wildcats,Gators,3,3,32,29,3,1407,Florida,1260,60,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,50
+2010-11,2011-02-26,1010969,281,0,1,Kentucky,Florida,Wildcats,Gators,3,3,32,29,3,1459,Kentucky,1260,60,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,282,0,1,Kentucky,Florida,Wildcats,Gators,3,3,32,29,3,1407,Florida,1260,60,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,283,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,29,4,1459,Kentucky,1260,60,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,50
+2010-11,2011-02-26,1010969,285,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,31,2,1407,Florida,1249,49,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Kentucky,51
+2010-11,2011-02-26,1010969,286,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,31,2,1459,Kentucky,1232,32,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,14.549999999999997,469484,NA,NA,0,Kentucky,Kentucky,52
+2010-11,2011-02-26,1010969,287,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,31,2,1407,Florida,1232,32,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,52
+2010-11,2011-02-26,1010969,293,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,31,2,1459,Kentucky,1211,11,21,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,53
+2010-11,2011-02-26,1010969,294,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,32,1,1407,Florida,1211,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,53
+2010-11,2011-02-26,1010969,295,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,33,0,1407,Florida,1211,11,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,53
+2010-11,2011-02-26,1010969,296,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,33,0,1407,Florida,1211,11,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,303,0,1,Kentucky,Florida,Wildcats,Gators,3,3,33,33,0,1407,Florida,1205,5,6,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,54
+2010-11,2011-02-26,1010969,305,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,1459,Kentucky,1205,5,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,54
+2010-11,2011-02-26,1010969,306,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,1407,Florida,1205,5,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,307,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,1407,Florida,1205,5,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,308,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,1459,Kentucky,1205,5,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,54
+2010-11,2011-02-26,1010969,309,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,1407,Florida,1205,5,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,54
+2010-11,2011-02-26,1010969,311,0,1,Kentucky,Florida,Wildcats,Gators,3,3,34,33,1,NA,NA,1200,0,5,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,314,0,2,Kentucky,Florida,Wildcats,Gators,4,4,34,33,1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kentucky,55
+2010-11,2011-02-26,1010969,330,0,2,Kentucky,Florida,Wildcats,Gators,4,4,37,33,4,1459,Kentucky,1183,1183,17, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32,27.25,553576,NA,NA,0,Kentucky,Florida,56
+2010-11,2011-02-26,1010969,332,0,2,Kentucky,Florida,Wildcats,Gators,4,4,37,33,4,1459,Kentucky,1138,1138,45, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25,11.25,553573,NA,NA,0,Kentucky,Kentucky,57
+2010-11,2011-02-26,1010969,333,0,2,Kentucky,Florida,Wildcats,Gators,4,4,37,33,4,1459,Kentucky,1138,1138,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,57
+2010-11,2011-02-26,1010969,334,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1459,Kentucky,1138,1138,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469488,NA,NA,0,Kentucky,Florida,57
+2010-11,2011-02-26,1010969,341,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1407,Florida,1118,1118,20, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,21.7,9.15,332667,NA,NA,0,Florida,Florida,58
+2010-11,2011-02-26,1010969,342,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1459,Kentucky,1118,1118,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,58
+2010-11,2011-02-26,1010969,344,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1407,Florida,1108,1108,10,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,59
+2010-11,2011-02-26,1010969,346,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1459,Kentucky,1093,1093,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41,20.75,469484,NA,NA,0,Kentucky,Kentucky,59
+2010-11,2011-02-26,1010969,347,0,2,Kentucky,Florida,Wildcats,Gators,4,4,39,33,6,1407,Florida,1093,1093,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,59
+2010-11,2011-02-26,1010969,350,0,2,Kentucky,Florida,Wildcats,Gators,4,3,39,33,6,1407,Florida,1076,1076,17,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,361,0,2,Kentucky,Florida,Wildcats,Gators,4,3,39,36,3,1407,Florida,1070,1070,6, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.8,30.05,512752,NA,NA,0,Florida,Kentucky,60
+2010-11,2011-02-26,1010969,364,0,2,Kentucky,Florida,Wildcats,Gators,4,3,41,36,5,1459,Kentucky,1045,1045,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553573,NA,NA,0,Kentucky,Florida,61
+2010-11,2011-02-26,1010969,365,0,2,Kentucky,Florida,Wildcats,Gators,4,3,41,39,2,1407,Florida,1025,1025,20, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22.5,29.05,512752,NA,NA,0,Florida,Kentucky,62
+2010-11,2011-02-26,1010969,367,0,2,Kentucky,Florida,Wildcats,Gators,4,3,41,39,2,1459,Kentucky,1000,1000,25, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23,12.75,553576,NA,NA,0,Kentucky,Kentucky,63
+2010-11,2011-02-26,1010969,368,0,2,Kentucky,Florida,Wildcats,Gators,4,3,41,39,2,1407,Florida,1000,1000,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,63
+2010-11,2011-02-26,1010969,369,0,2,Kentucky,Florida,Wildcats,Gators,4,3,41,41,0,1407,Florida,986,986,14, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,41.2,11.45,400599,NA,NA,0,Florida,Kentucky,64
+2010-11,2011-02-26,1010969,370,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,41,3,1459,Kentucky,961,961,25, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.799999999999997,13.349999999999994,553575,NA,NA,0,Kentucky,Florida,65
+2010-11,2011-02-26,1010969,372,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1407,Florida,944,944,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Florida,66
+2010-11,2011-02-26,1010969,373,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1459,Kentucky,944,944,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,66
+2010-11,2011-02-26,1010969,374,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,NA,NA,944,944,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,375,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1407,Florida,944,944,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,376,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1407,Florida,944,944,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-26,1010969,377,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1407,Florida,944,944,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,66
+2010-11,2011-02-26,1010969,378,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1459,Kentucky,944,944,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,66
+2010-11,2011-02-26,1010969,383,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1459,Kentucky,926,926,18, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,18.049999999999997,469484,NA,NA,0,Kentucky,Kentucky,67
+2010-11,2011-02-26,1010969,384,0,2,Kentucky,Florida,Wildcats,Gators,4,3,44,43,1,1459,Kentucky,926,926,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,67
+2010-11,2011-02-26,1010969,385,0,2,Kentucky,Florida,Wildcats,Gators,4,3,46,43,3,1459,Kentucky,921,921,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469488,NA,NA,0,Kentucky,Florida,67
+2010-11,2011-02-26,1010969,386,0,2,Kentucky,Florida,Wildcats,Gators,4,3,46,45,1,1407,Florida,905,905,16, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Kentucky,68
+2010-11,2011-02-26,1010969,387,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1459,Kentucky,883,883,22, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,28.3,14.950000000000003,469484,NA,NA,0,Kentucky,Florida,69
+2010-11,2011-02-26,1010969,389,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1407,Florida,846,846,37, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25,16.25,460865,NA,NA,0,Florida,Florida,70
+2010-11,2011-02-26,1010969,390,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1407,Florida,846,846,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,70
+2010-11,2011-02-26,1010969,408,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1459,Kentucky,825,825,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553575,NA,NA,0,Kentucky,Kentucky,70
+2010-11,2011-02-26,1010969,409,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1407,Florida,825,825,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,70
+2010-11,2011-02-26,1010969,410,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,45,3,1459,Kentucky,821,821,4,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,71
+2010-11,2011-02-26,1010969,412,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1407,Florida,819,819,2, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,37,10.85,400599,NA,NA,0,Florida,Kentucky,71
+2010-11,2011-02-26,1010969,416,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1459,Kentucky,807,807,12, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,13.700000000000003,19.349999999999994,469487,NA,NA,0,Kentucky,Kentucky,72
+2010-11,2011-02-26,1010969,417,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1407,Florida,807,807,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,72
+2010-11,2011-02-26,1010969,418,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1407,Florida,807,807,0, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,31.75,460865,NA,NA,0,Florida,Florida,73
+2010-11,2011-02-26,1010969,419,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1459,Kentucky,807,807,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,73
+2010-11,2011-02-26,1010969,453,0,2,Kentucky,Florida,Wildcats,Gators,4,3,48,47,1,1407,Florida,770,770,37,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,74
+2010-11,2011-02-26,1010969,459,0,2,Kentucky,Florida,Wildcats,Gators,4,3,50,47,3,1459,Kentucky,758,758,12, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,25,12.25,469484,NA,NA,0,Kentucky,Florida,74
+2010-11,2011-02-26,1010969,463,0,2,Kentucky,Florida,Wildcats,Gators,4,3,52,47,5,1459,Kentucky,723,723,35, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,32.7,12.25,469484,NA,NA,0,Kentucky,Florida,75
+2010-11,2011-02-26,1010969,464,0,2,Kentucky,Florida,Wildcats,Gators,4,3,52,49,3,1407,Florida,700,700,23, makes a hook shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,30.3,10.25,332667,NA,NA,0,Florida,Kentucky,76
+2010-11,2011-02-26,1010969,465,0,2,Kentucky,Florida,Wildcats,Gators,4,3,52,49,3,1459,Kentucky,689,689,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553575,NA,NA,0,Kentucky,Kentucky,77
+2010-11,2011-02-26,1010969,466,0,2,Kentucky,Florida,Wildcats,Gators,4,3,52,49,3,1459,Kentucky,689,689,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,77
+2010-11,2011-02-26,1010969,467,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1459,Kentucky,685,685,4, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.8,11.049999999999997,469488,NA,NA,0,Kentucky,Florida,77
+2010-11,2011-02-26,1010969,469,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1407,Florida,677,677,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512752,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-26,1010969,470,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1407,Florida,677,677,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-26,1010969,473,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,NA,NA,673,673,4,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,478,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1407,Florida,665,665,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-26,1010969,479,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1407,Florida,665,665,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-26,1010969,480,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1407,Florida,656,656,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-26,1010969,481,0,2,Kentucky,Florida,Wildcats,Gators,4,3,54,49,5,1459,Kentucky,656,656,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,78
+2010-11,2011-02-26,1010969,482,0,2,Kentucky,Florida,Wildcats,Gators,4,3,56,49,7,1459,Kentucky,645,645,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553573,NA,NA,0,Kentucky,Florida,79
+2010-11,2011-02-26,1010969,483,0,2,Kentucky,Florida,Wildcats,Gators,4,3,56,49,7,1407,Florida,619,619,26, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,31.5,7.15,400602,NA,NA,0,Florida,Florida,80
+2010-11,2011-02-26,1010969,484,0,2,Kentucky,Florida,Wildcats,Gators,4,3,56,49,7,1459,Kentucky,619,619,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,80
+2010-11,2011-02-26,1010969,487,0,2,Kentucky,Florida,Wildcats,Gators,4,3,56,49,7,1407,Florida,601,601,18,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,81
+2010-11,2011-02-26,1010969,492,0,2,Kentucky,Florida,Wildcats,Gators,4,3,58,49,9,1459,Kentucky,576,576,25, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,22.2,14.75,469487,NA,NA,0,Kentucky,Florida,81
+2010-11,2011-02-26,1010969,493,0,2,Kentucky,Florida,Wildcats,Gators,4,3,58,52,6,1407,Florida,550,550,26, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.199999999999999,6.65,400599,NA,NA,0,Florida,Kentucky,82
+2010-11,2011-02-26,1010969,494,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,52,9,1459,Kentucky,521,521,29, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.299999999999997,22.849999999999994,553576,NA,NA,0,Kentucky,Florida,83
+2010-11,2011-02-26,1010969,495,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,54,7,1407,Florida,497,497,24, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,25.5,26.15,460865,NA,NA,0,Florida,Kentucky,84
+2010-11,2011-02-26,1010969,496,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,54,7,1407,Florida,485,485,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,28.25,460865,NA,NA,0,Florida,Florida,85
+2010-11,2011-02-26,1010969,497,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,54,7,1459,Kentucky,485,485,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,85
+2010-11,2011-02-26,1010969,500,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,54,7,NA,NA,478,478,7,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,506,0,2,Kentucky,Florida,Wildcats,Gators,4,3,61,56,5,1407,Florida,457,457,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Kentucky,86
+2010-11,2011-02-26,1010969,508,0,2,Kentucky,Florida,Wildcats,Gators,4,3,64,56,8,1459,Kentucky,432,432,25, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14,26.25,469487,NA,NA,0,Kentucky,Florida,87
+2010-11,2011-02-26,1010969,509,0,2,Kentucky,Florida,Wildcats,Gators,4,3,64,56,8,1407,Florida,407,407,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,29.05,512752,NA,NA,0,Florida,Florida,88
+2010-11,2011-02-26,1010969,510,0,2,Kentucky,Florida,Wildcats,Gators,4,3,64,56,8,1459,Kentucky,407,407,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,88
+2010-11,2011-02-26,1010969,511,0,2,Kentucky,Florida,Wildcats,Gators,4,3,66,56,10,1459,Kentucky,378,378,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553576,NA,NA,0,Kentucky,Florida,89
+2010-11,2011-02-26,1010969,512,0,2,Kentucky,Florida,Wildcats,Gators,4,3,66,56,10,1407,Florida,361,361,17, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,27.15,400599,NA,NA,0,Florida,Florida,90
+2010-11,2011-02-26,1010969,513,0,2,Kentucky,Florida,Wildcats,Gators,4,3,66,56,10,1459,Kentucky,361,361,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,90
+2010-11,2011-02-26,1010969,515,0,2,Kentucky,Florida,Wildcats,Gators,4,3,66,56,10,1459,Kentucky,335,335,26, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14.299999999999997,10.849999999999994,553573,NA,NA,0,Kentucky,Kentucky,91
+2010-11,2011-02-26,1010969,516,0,2,Kentucky,Florida,Wildcats,Gators,4,3,66,56,10,1407,Florida,335,335,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,91
+2010-11,2011-02-26,1010969,518,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1407,Florida,335,335,0,Gators take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,534.1875,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1407,Florida,310,310,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512753,NA,NA,0,Florida,Florida,92
+2010-11,2011-02-26,1010969,542.28125,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1459,Kentucky,310,310,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,92
+2010-11,2011-02-26,1010969,550.375,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1459,Kentucky,300,300,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553573,NA,NA,0,Kentucky,Kentucky,93
+2010-11,2011-02-26,1010969,552.6875,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1407,Florida,300,300,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,93
+2010-11,2011-02-26,1010969,555,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,56,10,1459,Kentucky,291,291,9,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,94
+2010-11,2011-02-26,1010969,557,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,57,9,1407,Florida,291,291,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,94
+2010-11,2011-02-26,1010969,558,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,58,8,1407,Florida,291,291,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,94
+2010-11,2011-02-26,1010969,562,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,58,8,1459,Kentucky,268,268,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,8.25,553576,NA,NA,0,Kentucky,Kentucky,95
+2010-11,2011-02-26,1010969,563,0,2,Kentucky,Florida,Wildcats,Gators,4,2,66,58,8,1459,Kentucky,268,268,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,95
+2010-11,2011-02-26,1010969,564,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,58,11,1459,Kentucky,251,251,17, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,23.5,29.450000000000003,469484,NA,NA,0,Kentucky,Florida,95
+2010-11,2011-02-26,1010969,567,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,58,11,1459,Kentucky,232,232,19,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,568,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,58,11,NA,NA,232,232,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,586,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1407,Florida,231,231,1, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,587,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1459,Kentucky,231,231,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,588,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1407,Florida,231,231,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,589,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1407,Florida,231,231,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,592,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1407,Florida,228,228,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,18.95,460865,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,593,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1407,Florida,228,228,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,597,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,60,9,1459,Kentucky,225,225,3,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,598,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1407,Florida,225,225,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,599,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1407,Florida,225,225,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-26,1010969,600,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1459,Kentucky,225,225,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,96
+2010-11,2011-02-26,1010969,606,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1459,Kentucky,194,194,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,19.950000000000003,553575,NA,NA,0,Kentucky,Kentucky,97
+2010-11,2011-02-26,1010969,607,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1459,Kentucky,194,194,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,97
+2010-11,2011-02-26,1010969,613,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1407,Florida,166,166,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512752,NA,NA,0,Florida,Florida,97
+2010-11,2011-02-26,1010969,614,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1459,Kentucky,166,166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,97
+2010-11,2011-02-26,1010969,616,0,2,Kentucky,Florida,Wildcats,Gators,4,2,69,61,8,1407,Florida,160,160,6,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,98
+2010-11,2011-02-26,1010969,618,0,2,Kentucky,Florida,Wildcats,Gators,4,2,71,61,10,1459,Kentucky,131,131,29, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,25,12.950000000000003,553573,NA,NA,0,Kentucky,Florida,98
+2010-11,2011-02-26,1010969,620,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,124,124,7,Gators take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,624,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,117,117,7,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,99
+2010-11,2011-02-26,1010969,626,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1459,Kentucky,101,101,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553573,NA,NA,0,Kentucky,Kentucky,99
+2010-11,2011-02-26,1010969,627,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,101,101,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,99
+2010-11,2011-02-26,1010969,628,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,94,94,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460865,NA,NA,0,Florida,Florida,100
+2010-11,2011-02-26,1010969,629,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1459,Kentucky,94,94,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,100
+2010-11,2011-02-26,1010969,633,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,78,78,16,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,101
+2010-11,2011-02-26,1010969,637,0,2,Kentucky,Florida,Wildcats,Gators,4,1,71,61,10,1407,Florida,75,75,3,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,101
+2010-11,2011-02-26,1010969,638,0,2,Kentucky,Florida,Wildcats,Gators,4,1,72,61,11,1459,Kentucky,75,75,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,101
+2010-11,2011-02-26,1010969,639,0,2,Kentucky,Florida,Wildcats,Gators,4,1,73,61,12,1459,Kentucky,75,75,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,101
+2010-11,2011-02-26,1010969,645,0,2,Kentucky,Florida,Wildcats,Gators,4,1,73,64,9,1407,Florida,68,68,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,43.3,17.05,512752,NA,NA,0,Florida,Kentucky,102
+2010-11,2011-02-26,1010969,650,0,2,Kentucky,Florida,Wildcats,Gators,4,1,73,64,9,1407,Florida,60,60,8,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,103
+2010-11,2011-02-26,1010969,651,0,2,Kentucky,Florida,Wildcats,Gators,4,1,74,64,10,1459,Kentucky,60,60,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,103
+2010-11,2011-02-26,1010969,652,0,2,Kentucky,Florida,Wildcats,Gators,4,1,74,64,10,1459,Kentucky,60,60,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,103
+2010-11,2011-02-26,1010969,653,0,2,Kentucky,Florida,Wildcats,Gators,4,1,74,64,10,1407,Florida,60,60,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,103
+2010-11,2011-02-26,1010969,657,0,2,Kentucky,Florida,Wildcats,Gators,4,1,74,66,8,1407,Florida,52,52,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,332667,NA,NA,0,Florida,Kentucky,104
+2010-11,2011-02-26,1010969,661,0,2,Kentucky,Florida,Wildcats,Gators,4,0,74,66,8,1407,Florida,51,51,1,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,676,0,2,Kentucky,Florida,Wildcats,Gators,4,0,74,66,8,1407,Florida,48,48,3,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,105
+2010-11,2011-02-26,1010969,677,0,2,Kentucky,Florida,Wildcats,Gators,4,0,74,66,8,1459,Kentucky,48,48,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,105
+2010-11,2011-02-26,1010969,678,0,2,Kentucky,Florida,Wildcats,Gators,4,0,74,66,8,1407,Florida,48,48,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,105
+2010-11,2011-02-26,1010969,683,0,2,Kentucky,Florida,Wildcats,Gators,4,0,74,68,6,1407,Florida,42,42,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Kentucky,106
+2010-11,2011-02-26,1010969,690,0,2,Kentucky,Florida,Wildcats,Gators,3,0,74,68,6,1459,Kentucky,39,39,3,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,693,0,2,Kentucky,Florida,Wildcats,Gators,3,0,74,68,6,1407,Florida,35,35,4,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,107
+2010-11,2011-02-26,1010969,694,0,2,Kentucky,Florida,Wildcats,Gators,3,0,75,68,7,1459,Kentucky,35,35,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,107
+2010-11,2011-02-26,1010969,695,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,1459,Kentucky,35,35,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Florida,107
+2010-11,2011-02-26,1010969,698,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,1407,Florida,29,29,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31,28.85,512752,NA,NA,0,Florida,Florida,108
+2010-11,2011-02-26,1010969,704,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,1407,Florida,23,23,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,6.95,460865,NA,NA,0,Florida,Florida,108
+2010-11,2011-02-26,1010969,705,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,1459,Kentucky,23,23,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Kentucky,108
+2010-11,2011-02-26,1010969,706,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,NA,NA,0,0,23,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-26,1010969,707,0,2,Kentucky,Florida,Wildcats,Gators,3,0,76,68,8,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kentucky,Kentucky,NA

@@ -1,0 +1,250 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-27,999223,1,0,1,Texas,Rice,Longhorns,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,NA
+2010-11,2010-11-27,999223,8,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1582,Rice,2393,1193,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458971,NA,NA,0,Rice,Texas,1
+2010-11,2010-11-27,999223,9,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1651,Texas,2375,1175,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,2
+2010-11,2010-11-27,999223,10,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1582,Rice,2375,1175,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,2
+2010-11,2010-11-27,999223,11,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1582,Rice,2341,1141,34, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.25,473209,NA,NA,0,Rice,Rice,3
+2010-11,2010-11-27,999223,12,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1651,Texas,2341,1141,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,3
+2010-11,2010-11-27,999223,14,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1582,Rice,2327,1127,14,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,4
+2010-11,2010-11-27,999223,15,0,1,Texas,Rice,Longhorns,Owls,4,4,0,2,-2,1651,Texas,2327,1127,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,4
+2010-11,2010-11-27,999223,17,0,1,Texas,Rice,Longhorns,Owls,4,4,1,2,-1,1651,Texas,2327,1127,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,4
+2010-11,2010-11-27,999223,19,0,1,Texas,Rice,Longhorns,Owls,4,4,1,2,-1,1582,Rice,2302,1102,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,4.85,339839,NA,NA,0,Rice,Rice,5
+2010-11,2010-11-27,999223,20,0,1,Texas,Rice,Longhorns,Owls,4,4,1,2,-1,1651,Texas,2302,1102,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,5
+2010-11,2010-11-27,999223,22,0,1,Texas,Rice,Longhorns,Owls,4,4,1,2,-1,1651,Texas,2284,1084,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,21.650000000000006,513608,NA,NA,0,Texas,Texas,6
+2010-11,2010-11-27,999223,25,0,1,Texas,Rice,Longhorns,Owls,4,4,3,2,1,1651,Texas,2272,1072,12, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.3,18.549999999999997,402373,NA,NA,0,Texas,Rice,6
+2010-11,2010-11-27,999223,31,0,1,Texas,Rice,Longhorns,Owls,4,4,3,4,-1,1582,Rice,2244,1044,28, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7,5.65,473209,NA,NA,0,Rice,Texas,7
+2010-11,2010-11-27,999223,32,0,1,Texas,Rice,Longhorns,Owls,4,4,6,4,2,1651,Texas,2234,1034,10, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,48,5.25,552805,NA,NA,0,Texas,Rice,8
+2010-11,2010-11-27,999223,34,0,1,Texas,Rice,Longhorns,Owls,4,4,6,4,2,1651,Texas,2195,995,39, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402371,NA,NA,0,Texas,Texas,9
+2010-11,2010-11-27,999223,35,0,1,Texas,Rice,Longhorns,Owls,4,4,6,4,2,1582,Rice,2195,995,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,9
+2010-11,2010-11-27,999223,36,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1582,Rice,2173,973,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Texas,10
+2010-11,2010-11-27,999223,41,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1582,Rice,2123,923,50, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,19.95,458971,NA,NA,0,Rice,Texas,11
+2010-11,2010-11-27,999223,45,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,NA,NA,2120,920,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,47,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1651,Texas,2120,920,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,48,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1651,Texas,2120,920,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,54,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1651,Texas,2106,906,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,4.049999999999997,552805,NA,NA,0,Texas,Texas,12
+2010-11,2010-11-27,999223,55,0,1,Texas,Rice,Longhorns,Owls,4,4,6,6,0,1651,Texas,2106,906,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,12
+2010-11,2010-11-27,999223,56,0,1,Texas,Rice,Longhorns,Owls,4,4,8,6,2,1651,Texas,2101,901,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,402373,NA,NA,0,Texas,Rice,12
+2010-11,2010-11-27,999223,58,0,1,Texas,Rice,Longhorns,Owls,4,4,8,6,2,1582,Rice,2068,868,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,13
+2010-11,2010-11-27,999223,61,0,1,Texas,Rice,Longhorns,Owls,4,4,8,6,2,1582,Rice,2065,865,3, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,9.35,506616,NA,NA,0,Rice,Rice,13
+2010-11,2010-11-27,999223,62,0,1,Texas,Rice,Longhorns,Owls,4,4,8,6,2,1651,Texas,2065,865,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,13
+2010-11,2010-11-27,999223,63,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1651,Texas,2040,840,25, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552806,NA,NA,0,Texas,Rice,14
+2010-11,2010-11-27,999223,64,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1582,Rice,2018,818,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,13.15,473209,NA,NA,0,Rice,Rice,15
+2010-11,2010-11-27,999223,65,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1651,Texas,2018,818,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,15
+2010-11,2010-11-27,999223,76,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1582,Rice,2001,801,17, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,23,26.15,506616,NA,NA,0,Rice,Rice,16
+2010-11,2010-11-27,999223,77,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1651,Texas,2001,801,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,16
+2010-11,2010-11-27,999223,91,0,1,Texas,Rice,Longhorns,Owls,4,4,10,6,4,1582,Rice,1977,777,24,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,95,0,1,Texas,Rice,Longhorns,Owls,4,4,13,6,7,1651,Texas,1964,764,13, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.299999999999997,23.049999999999997,469830,NA,NA,0,Texas,Rice,17
+2010-11,2010-11-27,999223,106,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1582,Rice,1933,733,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,473209,NA,NA,0,Rice,Texas,18
+2010-11,2010-11-27,999223,110,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1651,Texas,1912,712,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,21.349999999999994,402373,NA,NA,0,Texas,Texas,19
+2010-11,2010-11-27,999223,111,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1582,Rice,1912,712,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,19
+2010-11,2010-11-27,999223,116,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1582,Rice,1874,674,38, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,20
+2010-11,2010-11-27,999223,117,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1582,Rice,1874,674,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,20
+2010-11,2010-11-27,999223,120,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,NA,NA,1872,672,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,121,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1651,Texas,1872,672,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,122,0,1,Texas,Rice,Longhorns,Owls,4,4,13,8,5,1651,Texas,1872,672,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,132,0,1,Texas,Rice,Longhorns,Owls,4,4,15,8,7,1651,Texas,1861,661,11, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,12.25,469830,NA,NA,0,Texas,Rice,20
+2010-11,2010-11-27,999223,133,0,1,Texas,Rice,Longhorns,Owls,4,4,15,8,7,1582,Rice,1848,648,13, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,12.95,339839,NA,NA,0,Rice,Rice,21
+2010-11,2010-11-27,999223,134,0,1,Texas,Rice,Longhorns,Owls,4,4,15,8,7,1651,Texas,1848,648,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,21
+2010-11,2010-11-27,999223,136,0,1,Texas,Rice,Longhorns,Owls,4,4,17,8,9,1651,Texas,1822,622,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400598,NA,NA,0,Texas,Rice,22
+2010-11,2010-11-27,999223,163,0,1,Texas,Rice,Longhorns,Owls,4,4,17,8,9,1651,Texas,1780,580,42,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,164,0,1,Texas,Rice,Longhorns,Owls,4,4,17,8,9,1582,Rice,1780,580,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,176,0,1,Texas,Rice,Longhorns,Owls,4,4,17,10,7,1582,Rice,1765,565,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Texas,23
+2010-11,2010-11-27,999223,178,0,1,Texas,Rice,Longhorns,Owls,4,4,17,10,7,1651,Texas,1757,557,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,16.650000000000006,513608,NA,NA,0,Texas,Rice,24
+2010-11,2010-11-27,999223,180,0,1,Texas,Rice,Longhorns,Owls,4,4,17,10,7,1651,Texas,1757,557,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,183,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1751,551,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Texas,25
+2010-11,2010-11-27,999223,185,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1651,Texas,1746,546,5,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,26
+2010-11,2010-11-27,999223,210,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1721,521,25, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,11,17.05,473209,NA,NA,0,Rice,Rice,27
+2010-11,2010-11-27,999223,211,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1721,521,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,27
+2010-11,2010-11-27,999223,242,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1688,488,33, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,21.85,399613,NA,NA,0,Rice,Rice,27
+2010-11,2010-11-27,999223,243,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1651,Texas,1688,488,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,27
+2010-11,2010-11-27,999223,262,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1651,Texas,1679,479,9, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,10.25,402374,NA,NA,0,Texas,Texas,28
+2010-11,2010-11-27,999223,263,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1679,479,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,28
+2010-11,2010-11-27,999223,266,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1582,Rice,1636,436,43, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,21.25,458971,NA,NA,0,Rice,Rice,29
+2010-11,2010-11-27,999223,267,0,1,Texas,Rice,Longhorns,Owls,4,4,17,12,5,1651,Texas,1636,436,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,29
+2010-11,2010-11-27,999223,273,0,1,Texas,Rice,Longhorns,Owls,4,4,19,12,7,1651,Texas,1622,422,14, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,41,6.75,329526,NA,NA,0,Texas,Rice,30
+2010-11,2010-11-27,999223,279,0,1,Texas,Rice,Longhorns,Owls,4,3,19,12,7,1582,Rice,1612,412,10,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,285,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1582,Rice,1607,407,5, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46,10.25,506616,NA,NA,0,Rice,Texas,31
+2010-11,2010-11-27,999223,291,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1651,Texas,1592,392,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,36.3,29.049999999999997,400598,NA,NA,0,Texas,Rice,32
+2010-11,2010-11-27,999223,303.5,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1651,Texas,1569,369,23,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,33
+2010-11,2010-11-27,999223,310.75,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,NA,NA,1569,369,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,320,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1582,Rice,1555,355,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,16.45,295357,NA,NA,0,Rice,Rice,33
+2010-11,2010-11-27,999223,321,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1651,Texas,1555,355,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,33
+2010-11,2010-11-27,999223,323,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1651,Texas,1539,339,16, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,13.75,402373,NA,NA,0,Texas,Texas,34
+2010-11,2010-11-27,999223,324,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1582,Rice,1539,339,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,34
+2010-11,2010-11-27,999223,342,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1582,Rice,1519,319,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,35
+2010-11,2010-11-27,999223,343,0,1,Texas,Rice,Longhorns,Owls,4,3,19,15,4,1582,Rice,1519,319,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,35
+2010-11,2010-11-27,999223,344,0,1,Texas,Rice,Longhorns,Owls,4,3,19,17,2,1582,Rice,1511,311,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,339839,NA,NA,0,Rice,Texas,35
+2010-11,2010-11-27,999223,346,0,1,Texas,Rice,Longhorns,Owls,4,3,19,17,2,1651,Texas,1488,288,23, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,36,18.25,513608,NA,NA,0,Texas,Texas,36
+2010-11,2010-11-27,999223,346.5,0,1,Texas,Rice,Longhorns,Owls,4,3,19,17,2,1651,Texas,1488,288,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,36
+2010-11,2010-11-27,999223,347,0,1,Texas,Rice,Longhorns,Owls,4,3,19,17,2,1651,Texas,1482,282,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,19.549999999999997,513608,NA,NA,0,Texas,Texas,36
+2010-11,2010-11-27,999223,348,0,1,Texas,Rice,Longhorns,Owls,4,3,19,17,2,1582,Rice,1482,282,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,36
+2010-11,2010-11-27,999223,350,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1582,Rice,1448,248,34, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,458971,NA,NA,0,Rice,Texas,37
+2010-11,2010-11-27,999223,351,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1651,Texas,1429,229,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.650000000000006,400598,NA,NA,0,Texas,Texas,38
+2010-11,2010-11-27,999223,352,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1582,Rice,1429,229,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,38
+2010-11,2010-11-27,999223,371,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1582,Rice,1379,179,50, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,39
+2010-11,2010-11-27,999223,372,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1651,Texas,1379,179,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,39
+2010-11,2010-11-27,999223,373,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1651,Texas,1364,164,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,40
+2010-11,2010-11-27,999223,374,0,1,Texas,Rice,Longhorns,Owls,4,3,19,19,0,1582,Rice,1364,164,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,40
+2010-11,2010-11-27,999223,375,0,1,Texas,Rice,Longhorns,Owls,4,3,19,22,-3,1582,Rice,1338,138,26, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,6.699999999999999,20.95,295357,NA,NA,0,Rice,Texas,41
+2010-11,2010-11-27,999223,387,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,1651,Texas,1336,136,2,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,404,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,1651,Texas,1318,118,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11,24.349999999999994,469830,NA,NA,0,Texas,Texas,42
+2010-11,2010-11-27,999223,405,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,1651,Texas,1318,118,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,42
+2010-11,2010-11-27,999223,407,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,1582,Rice,1314,114,4,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,42
+2010-11,2010-11-27,999223,408,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,NA,NA,1314,114,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,409,0,1,Texas,Rice,Longhorns,Owls,3,3,19,22,-3,1651,Texas,1314,114,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,42
+2010-11,2010-11-27,999223,411,0,1,Texas,Rice,Longhorns,Owls,3,3,20,22,-2,1651,Texas,1314,114,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,42
+2010-11,2010-11-27,999223,420,0,1,Texas,Rice,Longhorns,Owls,3,3,20,22,-2,1651,Texas,1298,98,16,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,43
+2010-11,2010-11-27,999223,421,0,1,Texas,Rice,Longhorns,Owls,3,3,20,22,-2,1582,Rice,1298,98,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,43
+2010-11,2010-11-27,999223,423,0,1,Texas,Rice,Longhorns,Owls,3,3,20,23,-3,1582,Rice,1298,98,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,43
+2010-11,2010-11-27,999223,424,0,1,Texas,Rice,Longhorns,Owls,3,3,20,23,-3,1582,Rice,1298,98,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,433,0,1,Texas,Rice,Longhorns,Owls,3,3,20,23,-3,1651,Texas,1276,76,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,30.049999999999997,552805,NA,NA,0,Texas,Texas,44
+2010-11,2010-11-27,999223,447,0,1,Texas,Rice,Longhorns,Owls,3,3,20,23,-3,1651,Texas,1236,36,40, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.450000000000003,469830,NA,NA,0,Texas,Texas,44
+2010-11,2010-11-27,999223,448,0,1,Texas,Rice,Longhorns,Owls,3,3,20,23,-3,1582,Rice,1236,36,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,44
+2010-11,2010-11-27,999223,450,0,1,Texas,Rice,Longhorns,Owls,3,2,20,23,-3,1582,Rice,1218,18,18,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,472,0,1,Texas,Rice,Longhorns,Owls,3,2,20,23,-3,1582,Rice,1204,4,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24,13.95,458971,NA,NA,0,Rice,Rice,45
+2010-11,2010-11-27,999223,473,0,1,Texas,Rice,Longhorns,Owls,3,2,20,23,-3,1582,Rice,1204,4,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,45
+2010-11,2010-11-27,999223,476,0,1,Texas,Rice,Longhorns,Owls,3,2,20,23,-3,1582,Rice,1201,1,3, misses a tip shot from 5 feet out.,missed,FALSE,FALSE,Tip Shot,26.7,10.25,339839,NA,NA,0,Rice,Texas,45
+2010-11,2010-11-27,999223,479,0,1,Texas,Rice,Longhorns,Owls,3,2,20,23,-3,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,480,0,2,Texas,Rice,Longhorns,Owls,4,4,20,23,-3,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,46
+2010-11,2010-11-27,999223,484,0,2,Texas,Rice,Longhorns,Owls,4,4,20,23,-3,1651,Texas,1182,1182,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,20.549999999999997,513608,NA,NA,0,Texas,Texas,47
+2010-11,2010-11-27,999223,485,0,2,Texas,Rice,Longhorns,Owls,4,4,20,23,-3,1651,Texas,1182,1182,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2010-11,2010-11-27,999223,487,0,2,Texas,Rice,Longhorns,Owls,4,4,20,23,-3,1582,Rice,1177,1177,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2010-11,2010-11-27,999223,488,0,2,Texas,Rice,Longhorns,Owls,4,4,21,23,-2,1651,Texas,1177,1177,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2010-11,2010-11-27,999223,489,0,2,Texas,Rice,Longhorns,Owls,4,4,22,23,-1,1651,Texas,1177,1177,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,47
+2010-11,2010-11-27,999223,498,0,2,Texas,Rice,Longhorns,Owls,4,4,22,23,-1,1651,Texas,1142,1142,35,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,48
+2010-11,2010-11-27,999223,499,0,2,Texas,Rice,Longhorns,Owls,4,4,22,24,-2,1582,Rice,1142,1142,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,48
+2010-11,2010-11-27,999223,500,0,2,Texas,Rice,Longhorns,Owls,4,4,22,24,-2,1582,Rice,1142,1142,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,48
+2010-11,2010-11-27,999223,501,0,2,Texas,Rice,Longhorns,Owls,4,4,22,24,-2,1651,Texas,1142,1142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,48
+2010-11,2010-11-27,999223,508,0,2,Texas,Rice,Longhorns,Owls,4,4,22,24,-2,1651,Texas,1134,1134,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,49
+2010-11,2010-11-27,999223,509,0,2,Texas,Rice,Longhorns,Owls,4,4,22,24,-2,1582,Rice,1134,1134,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,49
+2010-11,2010-11-27,999223,511,0,2,Texas,Rice,Longhorns,Owls,4,4,22,26,-4,1582,Rice,1104,1104,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Texas,50
+2010-11,2010-11-27,999223,512,0,2,Texas,Rice,Longhorns,Owls,4,4,22,26,-4,1651,Texas,1085,1085,19, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,12.25,552805,NA,NA,0,Texas,Texas,51
+2010-11,2010-11-27,999223,513,0,2,Texas,Rice,Longhorns,Owls,4,4,22,26,-4,1582,Rice,1085,1085,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,51
+2010-11,2010-11-27,999223,514,0,2,Texas,Rice,Longhorns,Owls,4,4,22,26,-4,1582,Rice,1068,1068,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,5.25,473209,NA,NA,0,Rice,Rice,52
+2010-11,2010-11-27,999223,515,0,2,Texas,Rice,Longhorns,Owls,4,4,22,26,-4,1651,Texas,1068,1068,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,52
+2010-11,2010-11-27,999223,516,0,2,Texas,Rice,Longhorns,Owls,4,4,24,26,-2,1651,Texas,1057,1057,11, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,29,20.150000000000006,402373,NA,NA,0,Texas,Rice,53
+2010-11,2010-11-27,999223,518,0,2,Texas,Rice,Longhorns,Owls,4,3,24,26,-2,1582,Rice,1050,1050,7,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,520,0,2,Texas,Rice,Longhorns,Owls,4,3,24,26,-2,1582,Rice,1035,1035,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,23.65,339839,NA,NA,0,Rice,Rice,54
+2010-11,2010-11-27,999223,521,0,2,Texas,Rice,Longhorns,Owls,4,3,24,26,-2,1582,Rice,1035,1035,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,54
+2010-11,2010-11-27,999223,522,0,2,Texas,Rice,Longhorns,Owls,4,3,24,28,-4,1582,Rice,1006,1006,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Texas,54
+2010-11,2010-11-27,999223,523,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1651,Texas,993,993,13, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39,21.25,513608,NA,NA,0,Texas,Rice,55
+2010-11,2010-11-27,999223,524,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1582,Rice,975,975,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339839,NA,NA,0,Rice,Rice,56
+2010-11,2010-11-27,999223,525,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1651,Texas,975,975,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,56
+2010-11,2010-11-27,999223,527,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1651,Texas,950,950,25, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39,11.25,513608,NA,NA,0,Texas,Texas,57
+2010-11,2010-11-27,999223,528,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1582,Rice,950,950,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,57
+2010-11,2010-11-27,999223,530,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1651,Texas,939,939,11,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,58
+2010-11,2010-11-27,999223,531,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,NA,NA,939,939,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,534,0,2,Texas,Rice,Longhorns,Owls,4,3,27,28,-1,1582,Rice,939,939,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,58
+2010-11,2010-11-27,999223,536,0,2,Texas,Rice,Longhorns,Owls,4,3,27,29,-2,1582,Rice,939,939,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,58
+2010-11,2010-11-27,999223,538,0,2,Texas,Rice,Longhorns,Owls,4,3,30,29,1,1651,Texas,933,933,6, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6,15.25,513608,NA,NA,0,Texas,Rice,59
+2010-11,2010-11-27,999223,540,0,2,Texas,Rice,Longhorns,Owls,4,3,30,29,1,1582,Rice,897,897,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339839,NA,NA,0,Rice,Rice,60
+2010-11,2010-11-27,999223,541,0,2,Texas,Rice,Longhorns,Owls,4,3,30,29,1,1651,Texas,897,897,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,60
+2010-11,2010-11-27,999223,542,0,2,Texas,Rice,Longhorns,Owls,4,3,30,29,1,1651,Texas,889,889,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,14.549999999999997,469830,NA,NA,0,Texas,Texas,61
+2010-11,2010-11-27,999223,543,0,2,Texas,Rice,Longhorns,Owls,4,3,30,29,1,1651,Texas,889,889,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,61
+2010-11,2010-11-27,999223,544,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1651,Texas,884,884,5, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.5,13.150000000000006,513608,NA,NA,0,Texas,Rice,61
+2010-11,2010-11-27,999223,546,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1582,Rice,847,847,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.2,27.15,458971,NA,NA,0,Rice,Rice,62
+2010-11,2010-11-27,999223,547,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1651,Texas,847,847,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,62
+2010-11,2010-11-27,999223,550,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1582,Rice,844,844,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,63
+2010-11,2010-11-27,999223,553,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1651,Texas,820,820,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,29.450000000000003,513608,NA,NA,0,Texas,Texas,63
+2010-11,2010-11-27,999223,554,0,2,Texas,Rice,Longhorns,Owls,4,3,33,29,4,1582,Rice,820,820,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,63
+2010-11,2010-11-27,999223,555,0,2,Texas,Rice,Longhorns,Owls,4,3,33,32,1,1582,Rice,794,794,26, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,4.85,295357,NA,NA,0,Rice,Texas,64
+2010-11,2010-11-27,999223,569,0,2,Texas,Rice,Longhorns,Owls,4,3,33,32,1,1582,Rice,778,778,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330369,NA,NA,0,Rice,Rice,65
+2010-11,2010-11-27,999223,570,0,2,Texas,Rice,Longhorns,Owls,4,3,33,32,1,1582,Rice,778,778,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,65
+2010-11,2010-11-27,999223,571,0,2,Texas,Rice,Longhorns,Owls,4,3,33,34,-1,1582,Rice,772,772,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Texas,65
+2010-11,2010-11-27,999223,574.5,0,2,Texas,Rice,Longhorns,Owls,4,3,33,34,-1,1651,Texas,760,760,12, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,32,21.25,400598,NA,NA,0,Texas,Texas,66
+2010-11,2010-11-27,999223,575.25,0,2,Texas,Rice,Longhorns,Owls,4,3,33,34,-1,1651,Texas,760,760,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,66
+2010-11,2010-11-27,999223,576,0,2,Texas,Rice,Longhorns,Owls,4,3,35,34,1,1651,Texas,759,759,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552806,NA,NA,0,Texas,Texas,66
+2010-11,2010-11-27,999223,577,0,2,Texas,Rice,Longhorns,Owls,4,3,35,34,1,1582,Rice,759,759,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,66
+2010-11,2010-11-27,999223,585,0,2,Texas,Rice,Longhorns,Owls,4,3,36,34,2,1651,Texas,753,753,6, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,66
+2010-11,2010-11-27,999223,596,0,2,Texas,Rice,Longhorns,Owls,4,3,36,34,2,1651,Texas,720,720,33, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,30.549999999999997,469830,NA,NA,0,Texas,Rice,67
+2010-11,2010-11-27,999223,601,0,2,Texas,Rice,Longhorns,Owls,4,3,36,34,2,1651,Texas,717,717,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,68
+2010-11,2010-11-27,999223,602,0,2,Texas,Rice,Longhorns,Owls,4,3,36,34,2,NA,NA,717,717,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,604,0,2,Texas,Rice,Longhorns,Owls,4,3,36,36,0,1582,Rice,711,711,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,Texas,68
+2010-11,2010-11-27,999223,605,0,2,Texas,Rice,Longhorns,Owls,4,3,39,36,3,1651,Texas,686,686,25, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5,20.25,552805,NA,NA,0,Texas,Rice,69
+2010-11,2010-11-27,999223,606,0,2,Texas,Rice,Longhorns,Owls,4,3,39,39,0,1582,Rice,656,656,30, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3,4.25,295357,NA,NA,0,Rice,Texas,70
+2010-11,2010-11-27,999223,616,0,2,Texas,Rice,Longhorns,Owls,4,3,42,39,3,1651,Texas,631,631,25, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.3,13.349999999999994,513608,NA,NA,0,Texas,Rice,71
+2010-11,2010-11-27,999223,617,0,2,Texas,Rice,Longhorns,Owls,4,3,42,39,3,1582,Rice,608,608,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,29.25,295357,NA,NA,0,Rice,Rice,72
+2010-11,2010-11-27,999223,618,0,2,Texas,Rice,Longhorns,Owls,4,3,42,39,3,1582,Rice,608,608,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,72
+2010-11,2010-11-27,999223,619,0,2,Texas,Rice,Longhorns,Owls,4,3,42,41,1,1582,Rice,580,580,28, makes a hook shot from 10 feet out.,made,FALSE,FALSE,Hook Shot,25.3,15.55,399613,NA,NA,0,Rice,Texas,72
+2010-11,2010-11-27,999223,621,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1651,Texas,560,560,20, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,17.25,552805,NA,NA,0,Texas,Rice,73
+2010-11,2010-11-27,999223,622,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1582,Rice,543,543,17, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,12.45,399613,NA,NA,0,Rice,Rice,74
+2010-11,2010-11-27,999223,623,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1651,Texas,543,543,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,74
+2010-11,2010-11-27,999223,626,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1582,Rice,535,535,8,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2010-11,2010-11-27,999223,629,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1651,Texas,535,535,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2010-11,2010-11-27,999223,633,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1651,Texas,533,533,2, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2010-11,2010-11-27,999223,634,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1582,Rice,533,533,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,75
+2010-11,2010-11-27,999223,637,0,2,Texas,Rice,Longhorns,Owls,4,3,45,41,4,1651,Texas,520,520,13,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,76
+2010-11,2010-11-27,999223,647,0,2,Texas,Rice,Longhorns,Owls,4,3,48,41,7,1651,Texas,509,509,11, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,20.8,28.25,400598,NA,NA,0,Texas,Rice,76
+2010-11,2010-11-27,999223,648,0,2,Texas,Rice,Longhorns,Owls,4,3,48,43,5,1582,Rice,484,484,25, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,10.7,14.75,458971,NA,NA,0,Rice,Texas,77
+2010-11,2010-11-27,999223,649,0,2,Texas,Rice,Longhorns,Owls,4,3,48,43,5,1651,Texas,468,468,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,25,22.450000000000003,400598,NA,NA,0,Texas,Texas,78
+2010-11,2010-11-27,999223,650,0,2,Texas,Rice,Longhorns,Owls,4,3,48,43,5,1582,Rice,468,468,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,78
+2010-11,2010-11-27,999223,651,0,2,Texas,Rice,Longhorns,Owls,4,3,48,46,2,1582,Rice,437,437,31, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.6999999999999993,5.25,295357,NA,NA,0,Rice,Texas,79
+2010-11,2010-11-27,999223,655,0,2,Texas,Rice,Longhorns,Owls,4,3,48,46,2,1651,Texas,410,410,27, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,6.25,400598,NA,NA,0,Texas,Texas,80
+2010-11,2010-11-27,999223,656,0,2,Texas,Rice,Longhorns,Owls,4,3,48,46,2,1651,Texas,410,410,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,80
+2010-11,2010-11-27,999223,660,0,2,Texas,Rice,Longhorns,Owls,4,3,48,46,2,1582,Rice,410,410,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,80
+2010-11,2010-11-27,999223,661,0,2,Texas,Rice,Longhorns,Owls,4,3,48,46,2,NA,NA,410,410,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,664,0,2,Texas,Rice,Longhorns,Owls,4,3,49,46,3,1651,Texas,410,410,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,80
+2010-11,2010-11-27,999223,665,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1651,Texas,410,410,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,80
+2010-11,2010-11-27,999223,676,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1582,Rice,391,391,19, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,18.95,458971,NA,NA,0,Rice,Rice,81
+2010-11,2010-11-27,999223,677,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1651,Texas,391,391,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,81
+2010-11,2010-11-27,999223,684,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1582,Rice,367,367,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330369,NA,NA,0,Rice,Rice,82
+2010-11,2010-11-27,999223,686.5,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1582,Rice,367,367,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,82
+2010-11,2010-11-27,999223,687.75,0,2,Texas,Rice,Longhorns,Owls,4,3,50,46,4,1651,Texas,367,367,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,82
+2010-11,2010-11-27,999223,689,0,2,Texas,Rice,Longhorns,Owls,4,3,50,49,1,1582,Rice,353,353,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,11.5,25.75,458971,NA,NA,0,Rice,Texas,82
+2010-11,2010-11-27,999223,690,0,2,Texas,Rice,Longhorns,Owls,4,3,50,49,1,1651,Texas,324,324,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,18.25,513608,NA,NA,0,Texas,Texas,83
+2010-11,2010-11-27,999223,691,0,2,Texas,Rice,Longhorns,Owls,4,3,50,49,1,1582,Rice,324,324,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,83
+2010-11,2010-11-27,999223,697,0,2,Texas,Rice,Longhorns,Owls,4,3,50,49,1,1582,Rice,292,292,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458971,NA,NA,0,Rice,Rice,84
+2010-11,2010-11-27,999223,698,0,2,Texas,Rice,Longhorns,Owls,4,3,50,49,1,1651,Texas,292,292,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,84
+2010-11,2010-11-27,999223,707,0,2,Texas,Rice,Longhorns,Owls,4,3,53,49,4,1651,Texas,260,260,32, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.7,5.650000000000006,400598,NA,NA,0,Texas,Rice,85
+2010-11,2010-11-27,999223,708,0,2,Texas,Rice,Longhorns,Owls,4,3,53,51,2,1582,Rice,215,215,45, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Texas,86
+2010-11,2010-11-27,999223,721,0,2,Texas,Rice,Longhorns,Owls,4,3,56,51,5,1651,Texas,205,205,10, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24,30.25,552805,NA,NA,0,Texas,Rice,87
+2010-11,2010-11-27,999223,726,0,2,Texas,Rice,Longhorns,Owls,4,2,56,51,5,1582,Rice,193,193,12,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,746,0,2,Texas,Rice,Longhorns,Owls,4,2,56,51,5,1651,Texas,171,171,22,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,88
+2010-11,2010-11-27,999223,747,0,2,Texas,Rice,Longhorns,Owls,4,2,56,51,5,NA,NA,171,171,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,748,0,2,Texas,Rice,Longhorns,Owls,4,2,56,52,4,1582,Rice,171,171,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,88
+2010-11,2010-11-27,999223,749,0,2,Texas,Rice,Longhorns,Owls,4,2,56,53,3,1582,Rice,171,171,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,88
+2010-11,2010-11-27,999223,752,0,2,Texas,Rice,Longhorns,Owls,4,2,56,53,3,1582,Rice,161,161,10,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,89
+2010-11,2010-11-27,999223,761,0,2,Texas,Rice,Longhorns,Owls,4,2,56,53,3,1582,Rice,141,141,20,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,89
+2010-11,2010-11-27,999223,762,0,2,Texas,Rice,Longhorns,Owls,4,2,57,53,4,1651,Texas,141,141,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,89
+2010-11,2010-11-27,999223,763,0,2,Texas,Rice,Longhorns,Owls,4,2,58,53,5,1651,Texas,141,141,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,89
+2010-11,2010-11-27,999223,767,0,2,Texas,Rice,Longhorns,Owls,4,2,58,53,5,1651,Texas,131,131,10,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2010-11,2010-11-27,999223,768,0,2,Texas,Rice,Longhorns,Owls,4,2,58,53,5,1582,Rice,131,131,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,769,0,2,Texas,Rice,Longhorns,Owls,4,2,58,54,4,1582,Rice,131,131,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2010-11,2010-11-27,999223,770,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1582,Rice,131,131,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,90
+2010-11,2010-11-27,999223,778,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1651,Texas,100,100,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44,18.25,400598,NA,NA,0,Texas,Texas,91
+2010-11,2010-11-27,999223,779,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1651,Texas,100,100,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,91
+2010-11,2010-11-27,999223,780,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1651,Texas,72,72,28, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,19,21.25,402373,NA,NA,0,Texas,Texas,91
+2010-11,2010-11-27,999223,781,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1582,Rice,72,72,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,91
+2010-11,2010-11-27,999223,785,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1582,Rice,58,58,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,92
+2010-11,2010-11-27,999223,786,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1582,Rice,58,58,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,92
+2010-11,2010-11-27,999223,802,0,2,Texas,Rice,Longhorns,Owls,4,2,58,55,3,1651,Texas,55,55,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,92
+2010-11,2010-11-27,999223,803,0,2,Texas,Rice,Longhorns,Owls,4,2,58,56,2,1582,Rice,55,55,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,92
+2010-11,2010-11-27,999223,804,0,2,Texas,Rice,Longhorns,Owls,4,1,58,56,2,1582,Rice,55,55,0,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,805,0,2,Texas,Rice,Longhorns,Owls,4,1,58,57,1,1582,Rice,55,55,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,92
+2010-11,2010-11-27,999223,808,0,2,Texas,Rice,Longhorns,Owls,4,1,60,57,3,1651,Texas,33,33,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552805,NA,NA,0,Texas,Rice,93
+2010-11,2010-11-27,999223,811,0,2,Texas,Rice,Longhorns,Owls,4,0,60,57,3,1582,Rice,31,31,2,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,813,0,2,Texas,Rice,Longhorns,Owls,4,0,60,57,3,1582,Rice,23,23,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,814,0,2,Texas,Rice,Longhorns,Owls,4,0,60,57,3,1582,Rice,23,23,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,816,0,2,Texas,Rice,Longhorns,Owls,4,0,60,57,3,1582,Rice,19,19,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339839,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,818,0,2,Texas,Rice,Longhorns,Owls,3,0,60,57,3,1651,Texas,19,19,0,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,827,0,2,Texas,Rice,Longhorns,Owls,3,0,60,57,3,1651,Texas,14,14,5,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,828,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1582,Rice,14,14,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,829,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1582,Rice,14,14,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,999223,830,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1582,Rice,14,14,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-27,999223,831,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1651,Texas,14,14,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,94
+2010-11,2010-11-27,999223,837,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1582,Rice,12,12,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,838,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1651,Texas,12,12,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,839,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1651,Texas,12,12,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,841,0,2,Texas,Rice,Longhorns,Owls,3,0,60,58,2,1582,Rice,11,11,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,844,0,2,Texas,Rice,Longhorns,Owls,3,0,61,58,3,1651,Texas,11,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,846,0,2,Texas,Rice,Longhorns,Owls,3,0,61,58,3,1651,Texas,11,11,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2010-11,2010-11-27,999223,847,0,2,Texas,Rice,Longhorns,Owls,3,0,61,58,3,1582,Rice,11,11,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,95
+2010-11,2010-11-27,999223,853,0,2,Texas,Rice,Longhorns,Owls,3,0,61,58,3,1651,Texas,7,7,4,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,96
+2010-11,2010-11-27,999223,854,0,2,Texas,Rice,Longhorns,Owls,3,0,61,58,3,1582,Rice,7,7,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,96
+2010-11,2010-11-27,999223,856,0,2,Texas,Rice,Longhorns,Owls,3,0,61,59,2,1582,Rice,7,7,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Texas,96
+2010-11,2010-11-27,999223,861,0,2,Texas,Rice,Longhorns,Owls,3,0,61,59,2,1582,Rice,6,6,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2010-11,2010-11-27,999223,862,0,2,Texas,Rice,Longhorns,Owls,3,0,61,59,2,1651,Texas,6,6,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2010-11,2010-11-27,999223,864,0,2,Texas,Rice,Longhorns,Owls,3,0,62,59,3,1651,Texas,6,6,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Rice,97
+2010-11,2010-11-27,999223,866,0,2,Texas,Rice,Longhorns,Owls,3,0,62,59,3,1582,Rice,1,1,5, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,21.35,506616,NA,NA,0,Rice,NA,98
+2010-11,2010-11-27,999223,868,0,2,Texas,Rice,Longhorns,Owls,3,0,62,59,3,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,999223,869,0,2,Texas,Rice,Longhorns,Owls,3,0,62,59,3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,NA

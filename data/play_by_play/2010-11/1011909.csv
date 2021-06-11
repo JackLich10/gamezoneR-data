@@ -1,0 +1,218 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-22,1011909,1,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,NA
+2010-11,2011-01-22,1011909,4,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,1344,UCF,2374,1174,26,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,1
+2010-11,2011-01-22,1011909,5,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,1582,Rice,2374,1174,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,1
+2010-11,2011-01-22,1011909,6,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,1582,Rice,2374,1174,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,1
+2010-11,2011-01-22,1011909,10,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,1344,UCF,2342,1142,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512157,NA,NA,0,UCF,UCF,2
+2010-11,2011-01-22,1011909,14,0,1,UCF,Rice,Knights,Owls,4,4,0,0,0,1344,UCF,2335,1135,7, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,32.95,458975,NA,NA,0,UCF,Rice,2
+2010-11,2011-01-22,1011909,15,0,1,UCF,Rice,Knights,Owls,4,4,0,2,-2,1582,Rice,2305,1105,30, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,36,11.85,506616,NA,NA,0,Rice,UCF,3
+2010-11,2011-01-22,1011909,26,0,1,UCF,Rice,Knights,Owls,4,4,0,2,-2,1582,Rice,2300,1100,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,4
+2010-11,2011-01-22,1011909,28,0,1,UCF,Rice,Knights,Owls,4,4,0,2,-2,1344,UCF,2298,1098,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,UCF,4
+2010-11,2011-01-22,1011909,29,0,1,UCF,Rice,Knights,Owls,4,4,2,2,0,1344,UCF,2293,1093,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,Rice,4
+2010-11,2011-01-22,1011909,31,0,1,UCF,Rice,Knights,Owls,4,4,2,2,0,1344,UCF,2277,1077,16,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,5
+2010-11,2011-01-22,1011909,40,0,1,UCF,Rice,Knights,Owls,4,4,2,2,0,1344,UCF,2258,1058,19,Offensive foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,5
+2010-11,2011-01-22,1011909,46,0,1,UCF,Rice,Knights,Owls,4,4,4,2,2,1344,UCF,2226,1026,32, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,18.3,8.349999999999994,512166,NA,NA,0,UCF,Rice,6
+2010-11,2011-01-22,1011909,51,0,1,UCF,Rice,Knights,Owls,4,4,4,2,2,1582,Rice,2204,1004,22,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,7
+2010-11,2011-01-22,1011909,55,0,1,UCF,Rice,Knights,Owls,4,4,4,2,2,1344,UCF,2197,997,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,30.049999999999997,512166,NA,NA,0,UCF,Rice,7
+2010-11,2011-01-22,1011909,57,0,1,UCF,Rice,Knights,Owls,4,4,4,2,2,1344,UCF,2182,982,15,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,8
+2010-11,2011-01-22,1011909,62,0,1,UCF,Rice,Knights,Owls,4,4,6,2,4,1344,UCF,2151,951,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,Rice,8
+2010-11,2011-01-22,1011909,63,0,1,UCF,Rice,Knights,Owls,4,4,6,2,4,1582,Rice,2128,928,23, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,15,18.55,506616,NA,NA,0,Rice,Rice,9
+2010-11,2011-01-22,1011909,64,0,1,UCF,Rice,Knights,Owls,4,4,6,4,2,1582,Rice,2115,915,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330369,NA,NA,0,Rice,UCF,9
+2010-11,2011-01-22,1011909,66,0,1,UCF,Rice,Knights,Owls,4,4,8,4,4,1344,UCF,2086,886,29, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.2,8.150000000000006,458978,NA,NA,0,UCF,Rice,10
+2010-11,2011-01-22,1011909,67,0,1,UCF,Rice,Knights,Owls,4,4,8,6,2,1582,Rice,2062,862,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,UCF,11
+2010-11,2011-01-22,1011909,70,0,1,UCF,Rice,Knights,Owls,4,4,8,6,2,1582,Rice,2043,843,19,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,12
+2010-11,2011-01-22,1011909,71,0,1,UCF,Rice,Knights,Owls,4,4,8,6,2,NA,NA,2043,843,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,72,0,1,UCF,Rice,Knights,Owls,4,4,8,6,2,1344,UCF,2043,843,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,8.950000000000003,512166,NA,NA,0,UCF,UCF,12
+2010-11,2011-01-22,1011909,82.5,0,1,UCF,Rice,Knights,Owls,4,4,8,6,2,1582,Rice,2038,838,5,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,12
+2010-11,2011-01-22,1011909,93,0,1,UCF,Rice,Knights,Owls,4,4,9,6,3,1344,UCF,2037,837,1, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,12
+2010-11,2011-01-22,1011909,96.5,0,1,UCF,Rice,Knights,Owls,4,4,10,6,4,1344,UCF,2037,837,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,13
+2010-11,2011-01-22,1011909,100,0,1,UCF,Rice,Knights,Owls,4,4,10,8,2,1582,Rice,2008,808,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330369,NA,NA,0,Rice,UCF,13
+2010-11,2011-01-22,1011909,107,0,1,UCF,Rice,Knights,Owls,4,4,10,8,2,1582,Rice,1971,771,37, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,6.25,339839,NA,NA,0,Rice,UCF,14
+2010-11,2011-01-22,1011909,108,0,1,UCF,Rice,Knights,Owls,4,4,10,8,2,1344,UCF,1962,762,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,6.049999999999997,330456,NA,NA,0,UCF,UCF,15
+2010-11,2011-01-22,1011909,110,0,1,UCF,Rice,Knights,Owls,4,4,10,8,2,1582,Rice,1957,757,5,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,15
+2010-11,2011-01-22,1011909,111,0,1,UCF,Rice,Knights,Owls,4,4,11,8,3,1344,UCF,1957,757,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,15
+2010-11,2011-01-22,1011909,112,0,1,UCF,Rice,Knights,Owls,4,4,12,8,4,1344,UCF,1957,757,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,15
+2010-11,2011-01-22,1011909,115,0,1,UCF,Rice,Knights,Owls,4,4,12,8,4,1582,Rice,1930,730,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.85,458971,NA,NA,0,Rice,UCF,16
+2010-11,2011-01-22,1011909,116,0,1,UCF,Rice,Knights,Owls,4,4,12,8,4,1344,UCF,1907,707,23, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.7,7.349999999999994,330456,NA,NA,0,UCF,Rice,17
+2010-11,2011-01-22,1011909,119,0,1,UCF,Rice,Knights,Owls,4,4,12,8,4,1344,UCF,1904,704,3,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,18
+2010-11,2011-01-22,1011909,120,0,1,UCF,Rice,Knights,Owls,4,4,12,8,4,NA,NA,1904,704,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,157,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1582,Rice,1890,690,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506617,NA,NA,0,Rice,UCF,18
+2010-11,2011-01-22,1011909,162,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1344,UCF,1860,660,30,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,19
+2010-11,2011-01-22,1011909,169,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1582,Rice,1853,653,7, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,11.85,506617,NA,NA,0,Rice,UCF,19
+2010-11,2011-01-22,1011909,173,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1344,UCF,1837,637,16, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28,10.25,332457,NA,NA,0,UCF,Rice,20
+2010-11,2011-01-22,1011909,174,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1582,Rice,1825,625,12, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,19.5,11.85,339839,NA,NA,0,Rice,UCF,21
+2010-11,2011-01-22,1011909,175,0,1,UCF,Rice,Knights,Owls,4,4,12,10,2,1344,UCF,1814,614,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,22.650000000000006,329495,NA,NA,0,UCF,UCF,22
+2010-11,2011-01-22,1011909,176,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1344,UCF,1778,578,36, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40.2,23.450000000000003,458977,NA,NA,0,UCF,Rice,22
+2010-11,2011-01-22,1011909,179,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1582,Rice,1740,540,38, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,13.15,506616,NA,NA,0,Rice,Rice,23
+2010-11,2011-01-22,1011909,181,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1582,Rice,1736,536,4, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,23,8.15,506617,NA,NA,0,Rice,Rice,23
+2010-11,2011-01-22,1011909,193,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1582,Rice,1722,522,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,UCF,23
+2010-11,2011-01-22,1011909,195,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1582,Rice,1717,517,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,24
+2010-11,2011-01-22,1011909,198,0,1,UCF,Rice,Knights,Owls,4,4,15,10,5,1344,UCF,1695,495,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,38,18.25,458975,NA,NA,0,UCF,UCF,24
+2010-11,2011-01-22,1011909,199,0,1,UCF,Rice,Knights,Owls,4,4,18,10,8,1344,UCF,1687,487,8, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.700000000000003,24.549999999999997,458977,NA,NA,0,UCF,Rice,24
+2010-11,2011-01-22,1011909,213,0,1,UCF,Rice,Knights,Owls,4,4,18,12,6,1582,Rice,1673,473,14, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,12.7,16.65,473209,NA,NA,0,Rice,UCF,25
+2010-11,2011-01-22,1011909,214,0,1,UCF,Rice,Knights,Owls,4,4,18,12,6,1344,UCF,1662,462,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,14.950000000000003,330456,NA,NA,0,UCF,Rice,26
+2010-11,2011-01-22,1011909,220,0,1,UCF,Rice,Knights,Owls,4,4,18,12,6,1582,Rice,1624,424,38, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24,25.35,506616,NA,NA,0,Rice,Rice,27
+2010-11,2011-01-22,1011909,221,0,1,UCF,Rice,Knights,Owls,4,4,18,12,6,1582,Rice,1620,420,4, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.8,8.55,506617,NA,NA,0,Rice,UCF,27
+2010-11,2011-01-22,1011909,224,0,1,UCF,Rice,Knights,Owls,4,4,20,12,8,1344,UCF,1613,413,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330456,NA,NA,0,UCF,UCF,28
+2010-11,2011-01-22,1011909,225,0,1,UCF,Rice,Knights,Owls,4,4,20,12,8,1582,Rice,1613,413,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,28
+2010-11,2011-01-22,1011909,226,0,1,UCF,Rice,Knights,Owls,4,4,20,12,8,NA,NA,1613,413,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,227,0,1,UCF,Rice,Knights,Owls,4,4,21,12,9,1344,UCF,1613,413,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,28
+2010-11,2011-01-22,1011909,229,0,1,UCF,Rice,Knights,Owls,4,4,21,12,9,1582,Rice,1597,397,16, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18.8,8.15,399613,NA,NA,0,Rice,Rice,29
+2010-11,2011-01-22,1011909,231,0,1,UCF,Rice,Knights,Owls,4,4,21,12,9,1344,UCF,1591,391,6,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,29
+2010-11,2011-01-22,1011909,232,0,1,UCF,Rice,Knights,Owls,4,4,21,13,8,1582,Rice,1591,391,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,29
+2010-11,2011-01-22,1011909,233,0,1,UCF,Rice,Knights,Owls,4,4,21,13,8,1582,Rice,1591,391,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,29
+2010-11,2011-01-22,1011909,238,0,1,UCF,Rice,Knights,Owls,4,4,21,13,8,1582,Rice,1570,370,21, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,12.95,506616,NA,NA,0,Rice,Rice,29
+2010-11,2011-01-22,1011909,245,0,1,UCF,Rice,Knights,Owls,4,4,21,16,5,1582,Rice,1550,350,20, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,22.8,30.75,473209,NA,NA,0,Rice,UCF,29
+2010-11,2011-01-22,1011909,248,0,1,UCF,Rice,Knights,Owls,4,4,21,16,5,1344,UCF,1523,323,27, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,21.450000000000003,458975,NA,NA,0,UCF,Rice,30
+2010-11,2011-01-22,1011909,250,0,1,UCF,Rice,Knights,Owls,4,4,21,16,5,1344,UCF,1504,304,19,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2010-11,2011-01-22,1011909,251,0,1,UCF,Rice,Knights,Owls,4,4,21,17,4,1582,Rice,1504,304,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2010-11,2011-01-22,1011909,252,0,1,UCF,Rice,Knights,Owls,4,4,21,18,3,1582,Rice,1504,304,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,31
+2010-11,2011-01-22,1011909,255,0,1,UCF,Rice,Knights,Owls,4,4,21,18,3,1582,Rice,1495,295,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,32
+2010-11,2011-01-22,1011909,256,0,1,UCF,Rice,Knights,Owls,4,4,22,18,4,1344,UCF,1495,295,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,32
+2010-11,2011-01-22,1011909,257,0,1,UCF,Rice,Knights,Owls,4,4,23,18,5,1344,UCF,1495,295,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,33
+2010-11,2011-01-22,1011909,259,0,1,UCF,Rice,Knights,Owls,4,4,23,18,5,1582,Rice,1472,272,23, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,16.65,473209,NA,NA,0,Rice,UCF,34
+2010-11,2011-01-22,1011909,260,0,1,UCF,Rice,Knights,Owls,4,4,23,18,5,1344,UCF,1460,260,12, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.799999999999997,10.849999999999994,330456,NA,NA,0,UCF,Rice,35
+2010-11,2011-01-22,1011909,266,0,1,UCF,Rice,Knights,Owls,4,4,23,18,5,1344,UCF,1446,246,14,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,36
+2010-11,2011-01-22,1011909,267,0,1,UCF,Rice,Knights,Owls,4,4,23,19,4,1582,Rice,1446,246,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,36
+2010-11,2011-01-22,1011909,268,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,1582,Rice,1446,246,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,37
+2010-11,2011-01-22,1011909,272,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,NA,NA,1425,225,21,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,280,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,1582,Rice,1412,212,13, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,11.7,18.45,473209,NA,NA,0,Rice,UCF,38
+2010-11,2011-01-22,1011909,281,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,1344,UCF,1384,184,28, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.299999999999997,19.549999999999997,483160,NA,NA,0,UCF,UCF,39
+2010-11,2011-01-22,1011909,282,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,1344,UCF,1376,176,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,16.049999999999997,512166,NA,NA,0,UCF,Rice,39
+2010-11,2011-01-22,1011909,283,0,1,UCF,Rice,Knights,Owls,4,4,23,20,3,1582,Rice,1357,157,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,40
+2010-11,2011-01-22,1011909,284,0,1,UCF,Rice,Knights,Owls,4,4,23,22,1,1582,Rice,1353,153,4, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,19.7,9.65,458971,NA,NA,0,Rice,UCF,40
+2010-11,2011-01-22,1011909,285,0,1,UCF,Rice,Knights,Owls,4,4,25,22,3,1344,UCF,1332,132,21, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.299999999999997,7.75,330456,NA,NA,0,UCF,Rice,41
+2010-11,2011-01-22,1011909,287,0,1,UCF,Rice,Knights,Owls,4,4,25,22,3,1582,Rice,1310,110,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,29.25,473209,NA,NA,0,Rice,UCF,42
+2010-11,2011-01-22,1011909,289,0,1,UCF,Rice,Knights,Owls,4,4,25,22,3,1344,UCF,1302,102,8,Offensive foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,43
+2010-11,2011-01-22,1011909,291,0,1,UCF,Rice,Knights,Owls,4,4,25,22,3,1582,Rice,1282,82,20, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,25.55,458971,NA,NA,0,Rice,UCF,44
+2010-11,2011-01-22,1011909,294,0,1,UCF,Rice,Knights,Owls,4,3,25,22,3,1582,Rice,1273,73,9,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,302,0,1,UCF,Rice,Knights,Owls,4,3,25,22,3,1582,Rice,1261,61,12,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,45
+2010-11,2011-01-22,1011909,303,0,1,UCF,Rice,Knights,Owls,4,3,26,22,4,1344,UCF,1261,61,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,45
+2010-11,2011-01-22,1011909,304,0,1,UCF,Rice,Knights,Owls,4,3,27,22,5,1344,UCF,1261,61,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,45
+2010-11,2011-01-22,1011909,308,0,1,UCF,Rice,Knights,Owls,4,3,27,25,2,1582,Rice,1245,45,16, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7.5,20.55,458971,NA,NA,0,Rice,UCF,46
+2010-11,2011-01-22,1011909,311,0,1,UCF,Rice,Knights,Owls,3,3,27,25,2,1344,UCF,1239,39,6,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,324,0,1,UCF,Rice,Knights,Owls,3,3,27,25,2,1344,UCF,1211,11,28, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,7.75,329495,NA,NA,0,UCF,UCF,47
+2010-11,2011-01-22,1011909,327,0,1,UCF,Rice,Knights,Owls,3,3,27,25,2,1344,UCF,1203,3,8, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32,11.25,458978,NA,NA,0,UCF,Rice,47
+2010-11,2011-01-22,1011909,329,0,1,UCF,Rice,Knights,Owls,3,3,27,25,2,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,331,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,48
+2010-11,2011-01-22,1011909,343,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,1582,Rice,1177,1177,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,13.75,506616,NA,NA,0,Rice,Rice,49
+2010-11,2011-01-22,1011909,344,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,1582,Rice,1173,1173,4, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,11.45,506617,NA,NA,0,Rice,UCF,49
+2010-11,2011-01-22,1011909,346,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,1582,Rice,1150,1150,23,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,50
+2010-11,2011-01-22,1011909,347,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,1344,UCF,1150,1150,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,50
+2010-11,2011-01-22,1011909,348,0,2,UCF,Rice,Knights,Owls,4,4,27,25,2,1344,UCF,1150,1150,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,50
+2010-11,2011-01-22,1011909,353,0,2,UCF,Rice,Knights,Owls,4,4,27,27,0,1582,Rice,1118,1118,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,UCF,51
+2010-11,2011-01-22,1011909,355,0,2,UCF,Rice,Knights,Owls,4,4,27,27,0,1344,UCF,1102,1102,16,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,52
+2010-11,2011-01-22,1011909,358,0,2,UCF,Rice,Knights,Owls,4,4,27,27,0,1344,UCF,1080,1080,22,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,52
+2010-11,2011-01-22,1011909,360,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1582,Rice,1078,1078,2, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,35.7,19.55,458971,NA,NA,0,Rice,UCF,52
+2010-11,2011-01-22,1011909,362,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1344,UCF,1044,1044,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,16.650000000000006,512157,NA,NA,0,UCF,UCF,53
+2010-11,2011-01-22,1011909,364,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1582,Rice,1037,1037,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,53
+2010-11,2011-01-22,1011909,366,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1344,UCF,1017,1017,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,Rice,53
+2010-11,2011-01-22,1011909,368,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1344,UCF,1013,1013,4,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,54
+2010-11,2011-01-22,1011909,373,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1344,UCF,988,988,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.799999999999997,18.549999999999997,330456,NA,NA,0,UCF,Rice,54
+2010-11,2011-01-22,1011909,374,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1582,Rice,977,977,11, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,22.5,11.05,552332,NA,NA,0,Rice,UCF,55
+2010-11,2011-01-22,1011909,376,0,2,UCF,Rice,Knights,Owls,4,4,27,29,-2,1582,Rice,971,971,6,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,56
+2010-11,2011-01-22,1011909,377,0,2,UCF,Rice,Knights,Owls,4,4,28,29,-1,1344,UCF,971,971,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,56
+2010-11,2011-01-22,1011909,378,0,2,UCF,Rice,Knights,Owls,4,4,28,29,-1,1344,UCF,971,971,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,56
+2010-11,2011-01-22,1011909,398,0,2,UCF,Rice,Knights,Owls,4,4,28,29,-1,1344,UCF,942,942,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40,20.75,458975,NA,NA,0,UCF,Rice,56
+2010-11,2011-01-22,1011909,399,0,2,UCF,Rice,Knights,Owls,4,4,28,31,-3,1582,Rice,927,927,15, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,15.8,6.75,552332,NA,NA,0,Rice,UCF,57
+2010-11,2011-01-22,1011909,401,0,2,UCF,Rice,Knights,Owls,4,4,28,31,-3,1344,UCF,904,904,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40,22.650000000000006,512157,NA,NA,0,UCF,UCF,58
+2010-11,2011-01-22,1011909,402,0,2,UCF,Rice,Knights,Owls,4,4,28,31,-3,1344,UCF,899,899,5, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,7.950000000000003,330456,NA,NA,0,UCF,Rice,58
+2010-11,2011-01-22,1011909,405,0,2,UCF,Rice,Knights,Owls,4,4,28,31,-3,NA,NA,896,896,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,406,0,2,UCF,Rice,Knights,Owls,4,4,28,31,-3,1344,UCF,896,896,0,Technical foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,59
+2010-11,2011-01-22,1011909,407,0,2,UCF,Rice,Knights,Owls,4,4,28,32,-4,1582,Rice,896,896,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,59
+2010-11,2011-01-22,1011909,408,0,2,UCF,Rice,Knights,Owls,4,4,28,33,-5,1582,Rice,896,896,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,59
+2010-11,2011-01-22,1011909,411,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1582,Rice,871,871,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,UCF,60
+2010-11,2011-01-22,1011909,412,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1344,UCF,847,847,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,6.25,458977,NA,NA,0,UCF,Rice,61
+2010-11,2011-01-22,1011909,421,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1582,Rice,828,828,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,6.75,295357,NA,NA,0,Rice,UCF,62
+2010-11,2011-01-22,1011909,423,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1582,Rice,815,815,13,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,63
+2010-11,2011-01-22,1011909,424,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1344,UCF,815,815,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,63
+2010-11,2011-01-22,1011909,425,0,2,UCF,Rice,Knights,Owls,4,4,28,35,-7,1344,UCF,815,815,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,63
+2010-11,2011-01-22,1011909,429,0,2,UCF,Rice,Knights,Owls,4,4,28,38,-10,1582,Rice,784,784,31, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47,6.45,339839,NA,NA,0,Rice,UCF,64
+2010-11,2011-01-22,1011909,430,0,2,UCF,Rice,Knights,Owls,4,4,28,38,-10,1344,UCF,761,761,23, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,10.299999999999997,15.349999999999994,330456,NA,NA,0,UCF,Rice,65
+2010-11,2011-01-22,1011909,431,0,2,UCF,Rice,Knights,Owls,4,4,28,40,-12,1582,Rice,738,738,23, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,23.3,8.15,506616,NA,NA,0,Rice,UCF,66
+2010-11,2011-01-22,1011909,437,0,2,UCF,Rice,Knights,Owls,3,4,28,40,-12,1344,UCF,736,736,2,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,441,0,2,UCF,Rice,Knights,Owls,3,4,28,40,-12,1582,Rice,716,716,20,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,67
+2010-11,2011-01-22,1011909,442,0,2,UCF,Rice,Knights,Owls,3,4,28,40,-12,NA,NA,716,716,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,443,0,2,UCF,Rice,Knights,Owls,3,4,29,40,-11,1344,UCF,716,716,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,67
+2010-11,2011-01-22,1011909,444,0,2,UCF,Rice,Knights,Owls,3,4,30,40,-10,1344,UCF,716,716,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,67
+2010-11,2011-01-22,1011909,446,0,2,UCF,Rice,Knights,Owls,3,4,30,40,-10,1582,Rice,695,695,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.2,29.85,473209,NA,NA,0,Rice,Rice,68
+2010-11,2011-01-22,1011909,450,0,2,UCF,Rice,Knights,Owls,3,4,30,40,-10,1582,Rice,672,672,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,UCF,68
+2010-11,2011-01-22,1011909,461,0,2,UCF,Rice,Knights,Owls,3,4,30,40,-10,1582,Rice,662,662,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,69
+2010-11,2011-01-22,1011909,462,0,2,UCF,Rice,Knights,Owls,3,4,30,40,-10,1344,UCF,662,662,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,69
+2010-11,2011-01-22,1011909,463,0,2,UCF,Rice,Knights,Owls,3,4,31,40,-9,1344,UCF,662,662,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,69
+2010-11,2011-01-22,1011909,466,0,2,UCF,Rice,Knights,Owls,3,4,31,40,-9,1582,Rice,639,639,23,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,70
+2010-11,2011-01-22,1011909,469,0,2,UCF,Rice,Knights,Owls,3,4,33,40,-7,1344,UCF,592,592,47, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,Rice,71
+2010-11,2011-01-22,1011909,470,0,2,UCF,Rice,Knights,Owls,3,4,33,40,-7,1582,Rice,553,553,39, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.7,6.95,399613,NA,NA,0,Rice,UCF,72
+2010-11,2011-01-22,1011909,471,0,2,UCF,Rice,Knights,Owls,3,4,35,40,-5,1344,UCF,545,545,8, makes a layup from 3 feet out.,made,FALSE,FALSE,Layup Shot,27,8.25,512166,NA,NA,0,UCF,Rice,73
+2010-11,2011-01-22,1011909,482,0,2,UCF,Rice,Knights,Owls,3,3,35,40,-5,1582,Rice,533,533,12,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,485,0,2,UCF,Rice,Knights,Owls,3,3,35,40,-5,1344,UCF,519,519,14,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,74
+2010-11,2011-01-22,1011909,486,0,2,UCF,Rice,Knights,Owls,3,3,35,41,-6,1582,Rice,519,519,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,74
+2010-11,2011-01-22,1011909,487,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,1582,Rice,519,519,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,74
+2010-11,2011-01-22,1011909,489,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,1344,UCF,499,499,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549951,NA,NA,0,UCF,Rice,75
+2010-11,2011-01-22,1011909,490,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,1582,Rice,471,471,28, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,6.25,458971,NA,NA,0,Rice,UCF,76
+2010-11,2011-01-22,1011909,491,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,1344,UCF,444,444,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,UCF,77
+2010-11,2011-01-22,1011909,499,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,1582,Rice,441,441,3,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,77
+2010-11,2011-01-22,1011909,500,0,2,UCF,Rice,Knights,Owls,3,3,35,42,-7,NA,NA,441,441,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,502,0,2,UCF,Rice,Knights,Owls,3,3,36,42,-6,1344,UCF,441,441,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,77
+2010-11,2011-01-22,1011909,503,0,2,UCF,Rice,Knights,Owls,3,3,37,42,-5,1344,UCF,441,441,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,77
+2010-11,2011-01-22,1011909,516,0,2,UCF,Rice,Knights,Owls,3,3,37,42,-5,1344,UCF,441,441,0,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2010-11,2011-01-22,1011909,518,0,2,UCF,Rice,Knights,Owls,3,3,39,42,-3,1344,UCF,397,397,44, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,32.7,15.150000000000006,512166,NA,NA,0,UCF,Rice,78
+2010-11,2011-01-22,1011909,520,0,2,UCF,Rice,Knights,Owls,3,3,39,42,-3,1582,Rice,378,378,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,UCF,79
+2010-11,2011-01-22,1011909,521,0,2,UCF,Rice,Knights,Owls,3,3,41,42,-1,1344,UCF,370,370,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549951,NA,NA,0,UCF,Rice,80
+2010-11,2011-01-22,1011909,524,0,2,UCF,Rice,Knights,Owls,3,2,41,42,-1,1582,Rice,354,354,16,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,527,0,2,UCF,Rice,Knights,Owls,3,2,41,42,-1,1344,UCF,340,340,14,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,81
+2010-11,2011-01-22,1011909,528,0,2,UCF,Rice,Knights,Owls,3,2,41,43,-2,1582,Rice,340,340,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,81
+2010-11,2011-01-22,1011909,529,0,2,UCF,Rice,Knights,Owls,3,2,41,43,-2,1582,Rice,340,340,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,81
+2010-11,2011-01-22,1011909,533,0,2,UCF,Rice,Knights,Owls,3,2,41,43,-2,1582,Rice,326,326,14,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,82
+2010-11,2011-01-22,1011909,534,0,2,UCF,Rice,Knights,Owls,3,2,42,43,-1,1344,UCF,326,326,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,82
+2010-11,2011-01-22,1011909,535,0,2,UCF,Rice,Knights,Owls,3,2,43,43,0,1344,UCF,326,326,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,83
+2010-11,2011-01-22,1011909,539,0,2,UCF,Rice,Knights,Owls,3,2,43,43,0,1582,Rice,297,297,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,543.5,0,2,UCF,Rice,Knights,Owls,3,2,43,43,0,1582,Rice,295,295,2, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11,24.25,473209,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,549,0,2,UCF,Rice,Knights,Owls,3,2,43,43,0,1344,UCF,292,292,3,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,550,0,2,UCF,Rice,Knights,Owls,3,2,43,44,-1,1582,Rice,292,292,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,551,0,2,UCF,Rice,Knights,Owls,3,2,43,44,-1,1582,Rice,292,292,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,555,0,2,UCF,Rice,Knights,Owls,3,2,43,44,-1,1582,Rice,267,267,25, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,5.45,339839,NA,NA,0,Rice,Rice,84
+2010-11,2011-01-22,1011909,560,0,2,UCF,Rice,Knights,Owls,3,2,43,46,-3,1582,Rice,263,263,4, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,41.5,6.75,473209,NA,NA,0,Rice,UCF,84
+2010-11,2011-01-22,1011909,561,0,2,UCF,Rice,Knights,Owls,3,2,43,46,-3,1344,UCF,237,237,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512157,NA,NA,0,UCF,Rice,85
+2010-11,2011-01-22,1011909,562,0,2,UCF,Rice,Knights,Owls,3,2,43,46,-3,1582,Rice,213,213,24, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,11.45,506617,NA,NA,0,Rice,UCF,86
+2010-11,2011-01-22,1011909,564,0,2,UCF,Rice,Knights,Owls,3,2,45,46,-1,1344,UCF,202,202,11, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,32.2,8.950000000000003,512166,NA,NA,0,UCF,UCF,87
+2010-11,2011-01-22,1011909,565,0,2,UCF,Rice,Knights,Owls,3,2,45,46,-1,1582,Rice,202,202,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,87
+2010-11,2011-01-22,1011909,566,0,2,UCF,Rice,Knights,Owls,3,2,45,46,-1,NA,NA,202,202,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,567,0,2,UCF,Rice,Knights,Owls,3,2,45,46,-1,1344,UCF,202,202,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,87
+2010-11,2011-01-22,1011909,569,0,2,UCF,Rice,Knights,Owls,3,2,45,48,-3,1582,Rice,178,178,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,473209,NA,NA,0,Rice,UCF,88
+2010-11,2011-01-22,1011909,570,0,2,UCF,Rice,Knights,Owls,3,2,47,48,-1,1344,UCF,160,160,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,Rice,89
+2010-11,2011-01-22,1011909,571,0,2,UCF,Rice,Knights,Owls,3,2,47,48,-1,1582,Rice,140,140,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,90
+2010-11,2011-01-22,1011909,572.5,0,2,UCF,Rice,Knights,Owls,3,2,47,48,-1,1344,UCF,138,138,2,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2010-11,2011-01-22,1011909,577,0,2,UCF,Rice,Knights,Owls,3,2,47,49,-2,1582,Rice,138,138,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,90
+2010-11,2011-01-22,1011909,578,0,2,UCF,Rice,Knights,Owls,3,2,47,50,-3,1582,Rice,138,138,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,91
+2010-11,2011-01-22,1011909,582,0,2,UCF,Rice,Knights,Owls,3,2,47,50,-3,1344,UCF,130,130,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,14.75,458975,NA,NA,0,UCF,Rice,92
+2010-11,2011-01-22,1011909,591,0,2,UCF,Rice,Knights,Owls,3,1,47,50,-3,1582,Rice,111,111,19,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,603,0,2,UCF,Rice,Knights,Owls,3,1,47,50,-3,1344,UCF,104,104,7,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,93
+2010-11,2011-01-22,1011909,604,0,2,UCF,Rice,Knights,Owls,3,1,47,50,-3,1582,Rice,104,104,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,93
+2010-11,2011-01-22,1011909,605,0,2,UCF,Rice,Knights,Owls,3,1,47,51,-4,1582,Rice,104,104,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,93
+2010-11,2011-01-22,1011909,607.5,0,2,UCF,Rice,Knights,Owls,3,1,47,51,-4,1582,Rice,90,90,14,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,94
+2010-11,2011-01-22,1011909,612,0,2,UCF,Rice,Knights,Owls,3,1,48,51,-3,1344,UCF,90,90,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,94
+2010-11,2011-01-22,1011909,613,0,2,UCF,Rice,Knights,Owls,3,1,49,51,-2,1344,UCF,90,90,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,94
+2010-11,2011-01-22,1011909,620,0,2,UCF,Rice,Knights,Owls,3,1,49,51,-2,1582,Rice,57,57,33, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,20.15,506616,NA,NA,0,Rice,UCF,95
+2010-11,2011-01-22,1011909,643,0,2,UCF,Rice,Knights,Owls,2,1,49,51,-2,1344,UCF,41,41,16,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,647,0,2,UCF,Rice,Knights,Owls,2,1,49,51,-2,1582,Rice,28,28,13,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,96
+2010-11,2011-01-22,1011909,648,0,2,UCF,Rice,Knights,Owls,2,1,49,51,-2,1344,UCF,28,28,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,96
+2010-11,2011-01-22,1011909,649,0,2,UCF,Rice,Knights,Owls,2,1,50,51,-1,1344,UCF,28,28,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Rice,96
+2010-11,2011-01-22,1011909,660,0,2,UCF,Rice,Knights,Owls,2,1,50,51,-1,1344,UCF,28,28,0,Technical foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,97
+2010-11,2011-01-22,1011909,661,0,2,UCF,Rice,Knights,Owls,2,1,50,51,-1,1344,UCF,28,28,0,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,97
+2010-11,2011-01-22,1011909,662,0,2,UCF,Rice,Knights,Owls,2,1,50,52,-2,1582,Rice,28,28,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,97
+2010-11,2011-01-22,1011909,663,0,2,UCF,Rice,Knights,Owls,2,1,50,53,-3,1582,Rice,28,28,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,97
+2010-11,2011-01-22,1011909,687,0,2,UCF,Rice,Knights,Owls,2,1,50,53,-3,1344,UCF,27,27,1,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,98
+2010-11,2011-01-22,1011909,688,0,2,UCF,Rice,Knights,Owls,2,1,50,54,-4,1582,Rice,27,27,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,98
+2010-11,2011-01-22,1011909,689,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1582,Rice,27,27,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,98
+2010-11,2011-01-22,1011909,692,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1344,UCF,20,20,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512157,NA,NA,0,UCF,Rice,99
+2010-11,2011-01-22,1011909,712,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1344,UCF,18,18,2,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2010-11,2011-01-22,1011909,713,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1582,Rice,18,18,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2010-11,2011-01-22,1011909,715,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1582,Rice,18,18,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,100
+2010-11,2011-01-22,1011909,717,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1344,UCF,13,13,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,22.25,458977,NA,NA,0,UCF,Rice,101
+2010-11,2011-01-22,1011909,730,0,2,UCF,Rice,Knights,Owls,2,1,50,55,-5,1344,UCF,8,8,5,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2010-11,2011-01-22,1011909,731,0,2,UCF,Rice,Knights,Owls,2,1,50,56,-6,1582,Rice,8,8,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2010-11,2011-01-22,1011909,732,0,2,UCF,Rice,Knights,Owls,2,1,50,57,-7,1582,Rice,8,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,UCF,102
+2010-11,2011-01-22,1011909,734,0,2,UCF,Rice,Knights,Owls,2,1,50,57,-7,1344,UCF,5,5,3, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,24.75,329495,NA,NA,0,UCF,NA,103
+2010-11,2011-01-22,1011909,736,0,2,UCF,Rice,Knights,Owls,2,1,50,57,-7,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011909,737,0,2,UCF,Rice,Knights,Owls,2,1,50,57,-7,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,NA

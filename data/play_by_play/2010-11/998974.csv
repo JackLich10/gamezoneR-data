@@ -1,0 +1,291 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-16,998974,1,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,NA
+2010-11,2010-11-16,998974,6,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,2,0,2,1420,Georgia,2382,1182,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Georgia,1
+2010-11,2010-11-16,998974,7,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,2,0,2,1360,Colorado,2382,1182,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,1
+2010-11,2010-11-16,998974,8,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,0,3,1420,Georgia,2382,1182,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,1
+2010-11,2010-11-16,998974,20,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,0,3,1360,Colorado,2353,1153,29, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,5.45,458708,NA,NA,0,Colorado,Colorado,2
+2010-11,2010-11-16,998974,28,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,0,3,1420,Georgia,2315,1115,38,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,2
+2010-11,2010-11-16,998974,29,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,1,2,1360,Colorado,2315,1115,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,2
+2010-11,2010-11-16,998974,30,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,2,1,1360,Colorado,2315,1115,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,2
+2010-11,2010-11-16,998974,40,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,3,4,-1,1360,Colorado,2288,1088,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458708,NA,NA,0,Colorado,Georgia,3
+2010-11,2010-11-16,998974,41,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,6,4,2,1420,Georgia,2266,1066,22, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,40.3,19.75,466775,NA,NA,0,Georgia,Colorado,4
+2010-11,2010-11-16,998974,42,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,9,4,5,1420,Georgia,2242,1042,24, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,30.2,28.25,412053,NA,NA,0,Georgia,Colorado,5
+2010-11,2010-11-16,998974,43,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,9,4,5,1360,Colorado,2227,1027,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,12.75,512995,NA,NA,0,Colorado,Georgia,6
+2010-11,2010-11-16,998974,44,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,4,11,4,7,1420,Georgia,2218,1018,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,403004,NA,NA,0,Georgia,Colorado,7
+2010-11,2010-11-16,998974,46,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,11,4,7,1360,Colorado,2212,1012,6,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,59,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,11,4,7,1420,Georgia,2193,993,19,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,8
+2010-11,2010-11-16,998974,60,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,11,4,7,1420,Georgia,2193,993,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,62,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,11,4,7,1360,Colorado,2181,981,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,12.75,400623,NA,NA,0,Colorado,Georgia,8
+2010-11,2010-11-16,998974,67,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,13,4,9,1420,Georgia,2176,976,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Georgia,9
+2010-11,2010-11-16,998974,68,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,13,4,9,1360,Colorado,2176,976,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,9
+2010-11,2010-11-16,998974,69,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,13,4,9,1420,Georgia,2176,976,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,9
+2010-11,2010-11-16,998974,75,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,13,4,9,1360,Colorado,2161,961,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.2,7.55,512995,NA,NA,0,Colorado,Georgia,10
+2010-11,2010-11-16,998974,76,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,1420,Georgia,2153,953,8, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.3,24.549999999999997,411373,NA,NA,0,Georgia,Colorado,11
+2010-11,2010-11-16,998974,89,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,1420,Georgia,2106,906,47,Offensive Charge Foul foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,12
+2010-11,2010-11-16,998974,90,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,NA,NA,2106,906,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,95,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,1360,Colorado,2093,893,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,16.7,18.55,405832,NA,NA,0,Colorado,Colorado,12
+2010-11,2010-11-16,998974,96.5,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,1360,Colorado,2093,893,0, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,26,8.25,400623,NA,NA,0,Colorado,Colorado,12
+2010-11,2010-11-16,998974,98,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,4,12,1420,Georgia,2086,886,7,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,12
+2010-11,2010-11-16,998974,99,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,5,11,1360,Colorado,2086,886,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,12
+2010-11,2010-11-16,998974,100,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,16,6,10,1360,Colorado,2086,886,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,12
+2010-11,2010-11-16,998974,106,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,2060,860,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Colorado,13
+2010-11,2010-11-16,998974,107,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1360,Colorado,2041,841,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.2,22.65,548635,NA,NA,0,Colorado,Georgia,14
+2010-11,2010-11-16,998974,108,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,2033,833,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6,20.549999999999997,550496,NA,NA,0,Georgia,Colorado,15
+2010-11,2010-11-16,998974,110,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1360,Colorado,2025,825,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,17.65,405832,NA,NA,0,Colorado,Colorado,16
+2010-11,2010-11-16,998974,111,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,2023,823,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,16
+2010-11,2010-11-16,998974,112,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,2023,823,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,114,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1360,Colorado,2014,814,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.2,28.65,405832,NA,NA,0,Colorado,Georgia,16
+2010-11,2010-11-16,998974,115,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,2002,802,12, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,15.799999999999997,6.950000000000003,466775,NA,NA,0,Georgia,Colorado,17
+2010-11,2010-11-16,998974,119,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1420,Georgia,1992,792,10,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,18
+2010-11,2010-11-16,998974,120,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,6,12,1360,Colorado,1992,792,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,121,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,7,11,1360,Colorado,1992,792,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,18
+2010-11,2010-11-16,998974,122,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,7,11,1360,Colorado,1992,792,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,123,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,18,8,10,1360,Colorado,1992,792,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,18
+2010-11,2010-11-16,998974,129,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,20,8,12,1420,Georgia,1982,782,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403001,NA,NA,0,Georgia,Colorado,19
+2010-11,2010-11-16,998974,131,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,20,8,12,1360,Colorado,1976,776,6,Offensive Charge Foul foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,20
+2010-11,2010-11-16,998974,141,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,20,8,12,1360,Colorado,1967,767,9,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,20
+2010-11,2010-11-16,998974,148,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,20,8,12,1360,Colorado,1956,756,11,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,20
+2010-11,2010-11-16,998974,153,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,20,8,12,1360,Colorado,1943,743,13,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,20
+2010-11,2010-11-16,998974,154,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,21,8,13,1420,Georgia,1943,743,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,20
+2010-11,2010-11-16,998974,155,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,21,8,13,1420,Georgia,1943,743,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,156,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1420,Georgia,1943,743,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,20
+2010-11,2010-11-16,998974,158,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1360,Colorado,1930,730,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,24.05,399618,NA,NA,0,Colorado,Georgia,21
+2010-11,2010-11-16,998974,159,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1420,Georgia,1915,715,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,21,22.450000000000003,466775,NA,NA,0,Georgia,Georgia,22
+2010-11,2010-11-16,998974,164,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1360,Colorado,1906,706,9,Offensive Charge Foul foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,22
+2010-11,2010-11-16,998974,165,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,NA,NA,1906,706,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,169,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1420,Georgia,1882,682,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403001,NA,NA,0,Georgia,Georgia,22
+2010-11,2010-11-16,998974,174,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,8,14,1420,Georgia,1871,671,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,22.5,30.25,509442,NA,NA,0,Georgia,Colorado,22
+2010-11,2010-11-16,998974,176,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1360,Colorado,1857,657,14, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,42,8.95,512995,NA,NA,0,Colorado,Georgia,23
+2010-11,2010-11-16,998974,177,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1420,Georgia,1827,627,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.8,23.049999999999997,509442,NA,NA,0,Georgia,Colorado,24
+2010-11,2010-11-16,998974,181,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1420,Georgia,1819,619,8,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,25
+2010-11,2010-11-16,998974,182,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1360,Colorado,1819,619,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,183,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1360,Colorado,1819,619,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,25
+2010-11,2010-11-16,998974,186,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1360,Colorado,1818,618,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,192,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1420,Georgia,1804,604,14, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,6.450000000000003,403004,NA,NA,0,Georgia,Colorado,26
+2010-11,2010-11-16,998974,193,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1420,Georgia,1800,600,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,199,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,22,10,12,1360,Colorado,1786,586,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,12.25,458708,NA,NA,0,Colorado,Georgia,27
+2010-11,2010-11-16,998974,200,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1420,Georgia,1757,557,29, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,403004,NA,NA,0,Georgia,Colorado,28
+2010-11,2010-11-16,998974,201,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1360,Colorado,1741,541,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,16.2,28.85,400623,NA,NA,0,Colorado,Georgia,29
+2010-11,2010-11-16,998974,202,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1420,Georgia,1714,514,27, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,18.549999999999997,412053,NA,NA,0,Georgia,Colorado,30
+2010-11,2010-11-16,998974,203,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1360,Colorado,1703,503,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8,20.95,399618,NA,NA,0,Colorado,Georgia,31
+2010-11,2010-11-16,998974,204,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1420,Georgia,1695,495,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.3,26.349999999999994,412053,NA,NA,0,Georgia,Georgia,32
+2010-11,2010-11-16,998974,206,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1360,Colorado,1683,483,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,207,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,24,10,14,1360,Colorado,1683,483,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,209,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,10,17,1420,Georgia,1667,467,16, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,11.299999999999997,25.75,550496,NA,NA,0,Georgia,Colorado,32
+2010-11,2010-11-16,998974,210,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1360,Colorado,1643,443,24, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,24.2,16.25,512995,NA,NA,0,Colorado,Georgia,33
+2010-11,2010-11-16,998974,211,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1420,Georgia,1621,421,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,18.049999999999997,550498,NA,NA,0,Georgia,Georgia,34
+2010-11,2010-11-16,998974,216,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1360,Colorado,1614,414,7,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,34
+2010-11,2010-11-16,998974,217,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,NA,NA,1614,414,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,218,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1420,Georgia,1614,414,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,34
+2010-11,2010-11-16,998974,219,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1420,Georgia,1614,414,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,220,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,12,15,1420,Georgia,1614,414,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,34
+2010-11,2010-11-16,998974,222,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,27,14,13,1360,Colorado,1606,406,8, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,24,16.45,458709,NA,NA,0,Colorado,Georgia,35
+2010-11,2010-11-16,998974,225,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,29,14,15,1420,Georgia,1592,392,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,403001,NA,NA,0,Georgia,Georgia,36
+2010-11,2010-11-16,998974,226,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,29,14,15,1360,Colorado,1591,391,1,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,36
+2010-11,2010-11-16,998974,227,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,29,14,15,1420,Georgia,1591,391,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,36
+2010-11,2010-11-16,998974,229,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,29,14,15,1420,Georgia,1585,385,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466775,NA,NA,0,Georgia,Georgia,36
+2010-11,2010-11-16,998974,230,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,14,17,1420,Georgia,1580,380,5, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24,7.349999999999994,466775,NA,NA,0,Georgia,Colorado,36
+2010-11,2010-11-16,998974,231,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,16,15,1360,Colorado,1570,370,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458708,NA,NA,0,Colorado,Georgia,37
+2010-11,2010-11-16,998974,235,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,16,15,1420,Georgia,1534,334,36, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,19.950000000000003,466775,NA,NA,0,Georgia,Colorado,38
+2010-11,2010-11-16,998974,239,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,16,15,1420,Georgia,1527,327,7,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,39
+2010-11,2010-11-16,998974,240,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,17,14,1360,Colorado,1527,327,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,39
+2010-11,2010-11-16,998974,241,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,17,14,1420,Georgia,1527,327,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,242,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,18,13,1360,Colorado,1527,327,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,39
+2010-11,2010-11-16,998974,245,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,18,13,1420,Georgia,1498,298,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,10.650000000000006,550496,NA,NA,0,Georgia,Colorado,40
+2010-11,2010-11-16,998974,246,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,18,13,1420,Georgia,1495,295,3,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,41
+2010-11,2010-11-16,998974,249,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,18,13,1360,Colorado,1494,294,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,250,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,18,13,1360,Colorado,1494,294,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,251,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,19,12,1360,Colorado,1494,294,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,41
+2010-11,2010-11-16,998974,252,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,19,12,1360,Colorado,1494,294,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,41
+2010-11,2010-11-16,998974,257,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,19,12,1420,Georgia,1489,289,5,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,41
+2010-11,2010-11-16,998974,258,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,19,12,1360,Colorado,1489,289,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,259,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,19,12,1420,Georgia,1489,289,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,260,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,20,11,1360,Colorado,1489,289,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,41
+2010-11,2010-11-16,998974,261,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,21,10,1360,Colorado,1489,289,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,41
+2010-11,2010-11-16,998974,265,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,23,8,1360,Colorado,1477,277,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458708,NA,NA,0,Colorado,Georgia,42
+2010-11,2010-11-16,998974,267,0,1,Georgia,Colorado,Bulldogs,Buffaloes,4,3,31,23,8,1420,Georgia,1456,256,21,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,43
+2010-11,2010-11-16,998974,268,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,31,23,8,1420,Georgia,1456,256,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,278,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,31,23,8,1360,Colorado,1439,239,17,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2010-11,2010-11-16,998974,279,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,31,23,8,NA,NA,1439,239,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,280,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,32,23,9,1420,Georgia,1439,239,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2010-11,2010-11-16,998974,281,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,32,23,9,1420,Georgia,1439,239,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,44
+2010-11,2010-11-16,998974,286,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,32,23,9,1420,Georgia,1422,222,17,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,45
+2010-11,2010-11-16,998974,287,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,32,24,8,1360,Colorado,1422,222,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,45
+2010-11,2010-11-16,998974,288,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,3,32,25,7,1360,Colorado,1422,222,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,45
+2010-11,2010-11-16,998974,301,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,25,7,1360,Colorado,1373,173,49,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,304,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,25,7,1420,Georgia,1355,155,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,466775,NA,NA,0,Georgia,Colorado,46
+2010-11,2010-11-16,998974,308,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,25,7,1360,Colorado,1331,131,24, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,15.15,512995,NA,NA,0,Colorado,Colorado,47
+2010-11,2010-11-16,998974,315,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1360,Colorado,1305,105,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513005,NA,NA,0,Colorado,Colorado,47
+2010-11,2010-11-16,998974,316,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1420,Georgia,1305,105,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,47
+2010-11,2010-11-16,998974,317,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1360,Colorado,1305,105,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,47
+2010-11,2010-11-16,998974,325,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1360,Colorado,1288,88,17,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,48
+2010-11,2010-11-16,998974,326,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1420,Georgia,1288,88,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,48
+2010-11,2010-11-16,998974,327,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,27,5,1420,Georgia,1288,88,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,48
+2010-11,2010-11-16,998974,331,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,30,2,1360,Colorado,1261,61,27, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,6.05,458711,NA,NA,0,Colorado,Georgia,49
+2010-11,2010-11-16,998974,333,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,32,30,2,1360,Colorado,1250,50,11,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,50
+2010-11,2010-11-16,998974,334,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,30,3,1420,Georgia,1250,50,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,50
+2010-11,2010-11-16,998974,335,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,30,3,1420,Georgia,1250,50,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,50
+2010-11,2010-11-16,998974,337,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,33,0,1360,Colorado,1243,43,7, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,6.95,399618,NA,NA,0,Colorado,Georgia,51
+2010-11,2010-11-16,998974,338,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,33,0,1420,Georgia,1209,9,34, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32,8.950000000000003,509442,NA,NA,0,Georgia,Colorado,52
+2010-11,2010-11-16,998974,339,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,33,0,1360,Colorado,1200,0,9, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,25.35,512995,NA,NA,0,Colorado,Georgia,53
+2010-11,2010-11-16,998974,340,0,1,Georgia,Colorado,Bulldogs,Buffaloes,3,2,33,33,0,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,341,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,33,33,0,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,54
+2010-11,2010-11-16,998974,344,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,35,33,2,1420,Georgia,1169,1169,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Colorado,55
+2010-11,2010-11-16,998974,345,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,35,36,-1,1360,Colorado,1152,1152,17, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7,19.35,400623,NA,NA,0,Colorado,Georgia,56
+2010-11,2010-11-16,998974,347,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,35,36,-1,1360,Colorado,1138,1138,14,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,57
+2010-11,2010-11-16,998974,348,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,36,36,0,1420,Georgia,1138,1138,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,57
+2010-11,2010-11-16,998974,349,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,37,36,1,1420,Georgia,1138,1138,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,57
+2010-11,2010-11-16,998974,351,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,37,38,-1,1360,Colorado,1110,1110,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Georgia,58
+2010-11,2010-11-16,998974,352,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,39,38,1,1420,Georgia,1090,1090,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Colorado,59
+2010-11,2010-11-16,998974,354,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,38,3,1420,Georgia,1073,1073,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Colorado,60
+2010-11,2010-11-16,998974,356,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,38,3,1420,Georgia,1051,1051,22,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2010-11,2010-11-16,998974,357,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,39,2,1360,Colorado,1051,1051,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2010-11,2010-11-16,998974,358,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,40,1,1360,Colorado,1051,1051,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,61
+2010-11,2010-11-16,998974,364,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,40,1,1360,Colorado,1042,1042,9,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,62
+2010-11,2010-11-16,998974,366,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,40,1,1420,Georgia,1021,1021,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.650000000000006,466774,NA,NA,0,Georgia,Colorado,62
+2010-11,2010-11-16,998974,367,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,41,40,1,1360,Colorado,1010,1010,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,18.25,400623,NA,NA,0,Colorado,Georgia,63
+2010-11,2010-11-16,998974,368,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,43,40,3,1420,Georgia,1004,1004,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Colorado,64
+2010-11,2010-11-16,998974,369,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,43,40,3,1360,Colorado,999,999,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,65
+2010-11,2010-11-16,998974,370,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,43,42,1,1360,Colorado,990,990,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Georgia,65
+2010-11,2010-11-16,998974,371,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,42,3,1420,Georgia,963,963,27, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,23,12.75,403004,NA,NA,0,Georgia,Colorado,66
+2010-11,2010-11-16,998974,374,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,42,3,1420,Georgia,957,957,6,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,67
+2010-11,2010-11-16,998974,375,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,42,3,NA,NA,957,957,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,376,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,42,3,1360,Colorado,957,957,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,67
+2010-11,2010-11-16,998974,377,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,42,3,1360,Colorado,957,957,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,378,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,43,2,1360,Colorado,957,957,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,67
+2010-11,2010-11-16,998974,383,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,45,43,2,1360,Colorado,942,942,15,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,68
+2010-11,2010-11-16,998974,384,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,46,43,3,1420,Georgia,942,942,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,68
+2010-11,2010-11-16,998974,385,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,43,4,1420,Georgia,942,942,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,68
+2010-11,2010-11-16,998974,398,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1360,Colorado,924,924,18, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.3,11.05,399618,NA,NA,0,Colorado,Georgia,69
+2010-11,2010-11-16,998974,399,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,904,904,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411373,NA,NA,0,Georgia,Georgia,70
+2010-11,2010-11-16,998974,400,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,897,897,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411373,NA,NA,0,Georgia,Colorado,70
+2010-11,2010-11-16,998974,402,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1360,Colorado,891,891,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Georgia,71
+2010-11,2010-11-16,998974,404,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,874,874,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,23,27.650000000000006,411373,NA,NA,0,Georgia,Colorado,72
+2010-11,2010-11-16,998974,408,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,858,858,16,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,73
+2010-11,2010-11-16,998974,409,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,858,858,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,412,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1360,Colorado,839,839,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Georgia,73
+2010-11,2010-11-16,998974,421,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1360,Colorado,823,823,16,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,74
+2010-11,2010-11-16,998974,424,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1360,Colorado,804,804,19,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,74
+2010-11,2010-11-16,998974,425,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,804,804,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,426,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,804,804,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,427,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,47,45,2,1420,Georgia,804,804,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,74
+2010-11,2010-11-16,998974,428,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,45,3,1420,Georgia,804,804,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,74
+2010-11,2010-11-16,998974,433,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,45,3,1420,Georgia,783,783,21,Personal Block Foul foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,75
+2010-11,2010-11-16,998974,434,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,45,3,1360,Colorado,783,783,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,435,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,45,3,1360,Colorado,783,783,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,436,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,45,3,1360,Colorado,783,783,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,75
+2010-11,2010-11-16,998974,437,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,46,2,1360,Colorado,783,783,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,75
+2010-11,2010-11-16,998974,444,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,46,2,1420,Georgia,759,759,24,Offensive Charge Foul foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,76
+2010-11,2010-11-16,998974,455,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,46,2,1420,Georgia,726,726,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403001,NA,NA,0,Georgia,Georgia,76
+2010-11,2010-11-16,998974,456.5,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,46,2,1420,Georgia,722,722,4, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18,5.25,412053,NA,NA,0,Georgia,Georgia,76
+2010-11,2010-11-16,998974,457.75,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,48,46,2,1360,Colorado,720,720,2,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,76
+2010-11,2010-11-16,998974,459.375,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,49,46,3,1420,Georgia,720,720,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,76
+2010-11,2010-11-16,998974,462.1875,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,50,46,4,1420,Georgia,720,720,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,76
+2010-11,2010-11-16,998974,465,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,1420,Georgia,701,701,19, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,466775,NA,NA,0,Georgia,Colorado,77
+2010-11,2010-11-16,998974,471,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,1420,Georgia,693,693,8,Personal Block Foul foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,78
+2010-11,2010-11-16,998974,472,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,NA,NA,693,693,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,486,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,1360,Colorado,686,686,7, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,26.55,512995,NA,NA,0,Colorado,Colorado,78
+2010-11,2010-11-16,998974,489,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,1420,Georgia,681,681,5,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,78
+2010-11,2010-11-16,998974,490,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,46,6,1360,Colorado,681,681,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,78
+2010-11,2010-11-16,998974,491,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,47,5,1360,Colorado,681,681,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,78
+2010-11,2010-11-16,998974,495,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,52,49,3,1360,Colorado,655,655,26, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,405832,NA,NA,0,Colorado,Georgia,79
+2010-11,2010-11-16,998974,496,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,54,49,5,1420,Georgia,632,632,23, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.7,13.950000000000003,466775,NA,NA,0,Georgia,Colorado,80
+2010-11,2010-11-16,998974,497,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,54,49,5,1360,Colorado,621,621,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,8.15,458708,NA,NA,0,Colorado,Colorado,81
+2010-11,2010-11-16,998974,498,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,54,49,5,1360,Colorado,604,604,17, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,16.2,19.15,512995,NA,NA,0,Colorado,Georgia,81
+2010-11,2010-11-16,998974,500,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,54,49,5,1420,Georgia,596,596,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403004,NA,NA,0,Georgia,Georgia,82
+2010-11,2010-11-16,998974,504,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,54,49,5,1360,Colorado,595,595,1,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,82
+2010-11,2010-11-16,998974,505,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,55,49,6,1420,Georgia,595,595,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,82
+2010-11,2010-11-16,998974,506,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,55,49,6,1420,Georgia,595,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,507,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,49,7,1420,Georgia,595,595,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,82
+2010-11,2010-11-16,998974,512,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,49,7,1420,Georgia,577,577,18,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,83
+2010-11,2010-11-16,998974,513,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,49,7,1360,Colorado,577,577,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,514,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,50,6,1360,Colorado,577,577,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,83
+2010-11,2010-11-16,998974,515,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,50,6,1420,Georgia,577,577,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,516,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,51,5,1360,Colorado,577,577,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,83
+2010-11,2010-11-16,998974,521,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,56,51,5,1360,Colorado,550,550,27,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,84
+2010-11,2010-11-16,998974,522,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,57,51,6,1420,Georgia,550,550,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,84
+2010-11,2010-11-16,998974,523,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,57,51,6,1420,Georgia,550,550,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,84
+2010-11,2010-11-16,998974,530,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,57,51,6,1420,Georgia,537,537,13,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,85
+2010-11,2010-11-16,998974,531,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,57,52,5,1360,Colorado,537,537,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,85
+2010-11,2010-11-16,998974,532,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,57,53,4,1360,Colorado,537,537,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,85
+2010-11,2010-11-16,998974,536,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,53,6,1420,Georgia,527,527,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Colorado,86
+2010-11,2010-11-16,998974,537,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,55,4,1360,Colorado,508,508,19, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.2,6.75,458708,NA,NA,0,Colorado,Georgia,87
+2010-11,2010-11-16,998974,542,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,1360,Colorado,486,486,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Georgia,88
+2010-11,2010-11-16,998974,550,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,NA,NA,478,478,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,552,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,1420,Georgia,471,471,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411373,NA,NA,0,Georgia,Georgia,89
+2010-11,2010-11-16,998974,553,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,1420,Georgia,464,464,7, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,403001,NA,NA,0,Georgia,Colorado,89
+2010-11,2010-11-16,998974,558,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,1360,Colorado,451,451,13,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,90
+2010-11,2010-11-16,998974,564,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,57,2,1360,Colorado,432,432,19, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,10.25,405832,NA,NA,0,Colorado,Colorado,91
+2010-11,2010-11-16,998974,565,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,59,0,1360,Colorado,427,427,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.5,8.15,458708,NA,NA,0,Colorado,Georgia,91
+2010-11,2010-11-16,998974,566,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,59,0,1420,Georgia,408,408,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403001,NA,NA,0,Georgia,Colorado,92
+2010-11,2010-11-16,998974,570,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,59,0,1420,Georgia,385,385,23,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,93
+2010-11,2010-11-16,998974,571,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,60,-1,1360,Colorado,385,385,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,93
+2010-11,2010-11-16,998974,572,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,60,-1,1420,Georgia,385,385,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,573,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,60,-1,1360,Colorado,385,385,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,93
+2010-11,2010-11-16,998974,581,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,60,-1,1360,Colorado,353,353,32, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21,6.95,405832,NA,NA,0,Colorado,Georgia,93
+2010-11,2010-11-16,998974,582,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,59,60,-1,1360,Colorado,353,353,0,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,94
+2010-11,2010-11-16,998974,583,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,60,60,0,1420,Georgia,353,353,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,94
+2010-11,2010-11-16,998974,584,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,61,60,1,1420,Georgia,353,353,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,94
+2010-11,2010-11-16,998974,586,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,61,62,-1,1360,Colorado,337,337,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Georgia,95
+2010-11,2010-11-16,998974,587,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,64,62,2,1420,Georgia,316,316,21, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,38,24.950000000000003,411373,NA,NA,0,Georgia,Colorado,96
+2010-11,2010-11-16,998974,588,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,64,64,0,1360,Colorado,296,296,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400623,NA,NA,0,Colorado,Georgia,97
+2010-11,2010-11-16,998974,589,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,1420,Georgia,279,279,17, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,19.7,28.650000000000006,466774,NA,NA,0,Georgia,Colorado,98
+2010-11,2010-11-16,998974,590,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,1360,Colorado,266,266,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Georgia,99
+2010-11,2010-11-16,998974,591,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,1420,Georgia,260,260,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,12.25,466774,NA,NA,0,Georgia,Georgia,100
+2010-11,2010-11-16,998974,593,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,1360,Colorado,251,251,9,Offensive Charge Foul foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,100
+2010-11,2010-11-16,998974,601,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,1360,Colorado,225,225,26,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,100
+2010-11,2010-11-16,998974,602,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,67,64,3,NA,NA,225,225,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,603.5,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,68,64,4,1420,Georgia,225,225,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,100
+2010-11,2010-11-16,998974,604,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1420,Georgia,225,225,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,100
+2010-11,2010-11-16,998974,605,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1420,Georgia,225,225,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,613,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1360,Colorado,205,205,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,4.85,405832,NA,NA,0,Colorado,Colorado,101
+2010-11,2010-11-16,998974,618,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1420,Georgia,205,205,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,101
+2010-11,2010-11-16,998974,619,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1420,Georgia,205,205,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-16,998974,620,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,64,5,1360,Colorado,205,205,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,101
+2010-11,2010-11-16,998974,621,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,69,65,4,1360,Colorado,205,205,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,101
+2010-11,2010-11-16,998974,625,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,71,65,6,1420,Georgia,192,192,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Colorado,102
+2010-11,2010-11-16,998974,626,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,71,65,6,1360,Colorado,169,169,23, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,9.55,405832,NA,NA,0,Colorado,Georgia,103
+2010-11,2010-11-16,998974,634,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,71,65,6,1360,Colorado,152,152,17,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,104
+2010-11,2010-11-16,998974,635,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,65,7,1420,Georgia,152,152,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,104
+2010-11,2010-11-16,998974,636,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,65,7,1420,Georgia,152,152,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,104
+2010-11,2010-11-16,998974,640,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,65,7,1360,Colorado,145,145,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,5.65,405832,NA,NA,0,Colorado,Colorado,105
+2010-11,2010-11-16,998974,644,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,65,7,1420,Georgia,139,139,6,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,105
+2010-11,2010-11-16,998974,645,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,66,6,1360,Colorado,139,139,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,105
+2010-11,2010-11-16,998974,646,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,66,6,1360,Colorado,139,139,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,105
+2010-11,2010-11-16,998974,648,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,66,6,1360,Colorado,136,136,3, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,20.15,400623,NA,NA,0,Colorado,Colorado,105
+2010-11,2010-11-16,998974,649,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,68,4,1360,Colorado,130,130,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513005,NA,NA,0,Colorado,Georgia,105
+2010-11,2010-11-16,998974,653,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,68,4,1360,Colorado,118,118,12,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,106
+2010-11,2010-11-16,998974,654,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,72,68,4,1420,Georgia,118,118,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,106
+2010-11,2010-11-16,998974,655,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,73,68,5,1420,Georgia,118,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,106
+2010-11,2010-11-16,998974,659,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,73,68,5,1360,Colorado,109,109,9, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,17,15.15,512995,NA,NA,0,Colorado,Colorado,107
+2010-11,2010-11-16,998974,661,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,73,68,5,1420,Georgia,99,99,10,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,107
+2010-11,2010-11-16,998974,662,0,2,Georgia,Colorado,Bulldogs,Buffaloes,4,4,73,69,4,1360,Colorado,99,99,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,107
+2010-11,2010-11-16,998974,663,0,2,Georgia,Colorado,Bulldogs,Buffaloes,3,4,73,69,4,1420,Georgia,99,99,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,664,0,2,Georgia,Colorado,Bulldogs,Buffaloes,3,4,73,70,3,1360,Colorado,99,99,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Georgia,107
+2010-11,2010-11-16,998974,668,0,2,Georgia,Colorado,Bulldogs,Buffaloes,3,4,75,70,5,1420,Georgia,90,90,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Colorado,108
+2010-11,2010-11-16,998974,670,0,2,Georgia,Colorado,Bulldogs,Buffaloes,3,3,75,70,5,1360,Colorado,84,84,6,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,675,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,75,70,5,1420,Georgia,67,67,17,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,680,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,75,70,5,1360,Colorado,60,60,7,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,109
+2010-11,2010-11-16,998974,681,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,76,70,6,1420,Georgia,60,60,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,109
+2010-11,2010-11-16,998974,682,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,77,70,7,1420,Georgia,60,60,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,109
+2010-11,2010-11-16,998974,685,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,77,72,5,1360,Colorado,52,52,8, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,17.5,7.55,405832,NA,NA,0,Colorado,Georgia,110
+2010-11,2010-11-16,998974,708,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,77,72,5,1360,Colorado,41,41,11,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,111
+2010-11,2010-11-16,998974,709,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,78,72,6,1420,Georgia,41,41,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,111
+2010-11,2010-11-16,998974,710,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,78,72,6,1420,Georgia,41,41,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,111
+2010-11,2010-11-16,998974,715,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,78,72,6,1360,Colorado,34,34,7, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24,25.35,458708,NA,NA,0,Colorado,Georgia,112
+2010-11,2010-11-16,998974,718,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,78,72,6,1360,Colorado,30,30,4,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,113
+2010-11,2010-11-16,998974,719,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,79,72,7,1420,Georgia,30,30,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,113
+2010-11,2010-11-16,998974,720,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,79,72,7,1420,Georgia,30,30,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,113
+2010-11,2010-11-16,998974,722,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,79,72,7,1360,Colorado,24,24,6, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,21,16.05,400623,NA,NA,0,Colorado,Georgia,114
+2010-11,2010-11-16,998974,723,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,81,72,9,1420,Georgia,17,17,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Colorado,115
+2010-11,2010-11-16,998974,744,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,3,81,74,7,1360,Colorado,10,10,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Georgia,116
+2010-11,2010-11-16,998974,745,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,81,74,7,1360,Colorado,10,10,0,Buffaloes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,746,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,81,74,7,1360,Colorado,10,10,0,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,117
+2010-11,2010-11-16,998974,747,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,81,74,7,1360,Colorado,10,10,0,Technical foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,117
+2010-11,2010-11-16,998974,748,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,82,74,8,1420,Georgia,10,10,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,117
+2010-11,2010-11-16,998974,749,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,1420,Georgia,10,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,117
+2010-11,2010-11-16,998974,750,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,1420,Georgia,10,10,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,118
+2010-11,2010-11-16,998974,752,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,1420,Georgia,10,10,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Colorado,118
+2010-11,2010-11-16,998974,753,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,1360,Colorado,5,5,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.5,28.85,512995,NA,NA,0,Colorado,NA,119
+2010-11,2010-11-16,998974,754,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-16,998974,755,0,2,Georgia,Colorado,Bulldogs,Buffaloes,2,2,83,74,9,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,NA

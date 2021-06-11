@@ -1,0 +1,304 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-17,920728,1,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,NA
+2009-10,2009-11-17,920728,4,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,0,0,0,1388,Duke,2388,1188,12, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,10.25,398429,NA,NA,0,Duke,Duke,1
+2009-10,2009-11-17,920728,5,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,0,0,0,1388,Duke,2388,1188,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,1
+2009-10,2009-11-17,920728,6,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,2,0,2,1388,Duke,2380,1180,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329889,NA,NA,0,Duke,Charlotte,1
+2009-10,2009-11-17,920728,15,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,2,0,2,1388,Duke,2352,1152,28,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,2
+2009-10,2009-11-17,920728,16,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,2,1,1,1523,Charlotte,2352,1152,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,2
+2009-10,2009-11-17,920728,17,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,2,2,0,1523,Charlotte,2352,1152,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,2
+2009-10,2009-11-17,920728,19,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1388,Duke,2348,1148,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Charlotte,3
+2009-10,2009-11-17,920728,20,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1523,Charlotte,2311,1111,37, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,31,19.15,411397,NA,NA,0,Charlotte,Charlotte,4
+2009-10,2009-11-17,920728,21,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1523,Charlotte,2311,1111,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,4
+2009-10,2009-11-17,920728,26,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1388,Duke,2298,1098,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,35.3,17.849999999999994,467271,NA,NA,0,Duke,Duke,4
+2009-10,2009-11-17,920728,27,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1388,Duke,2298,1098,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,4
+2009-10,2009-11-17,920728,31,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,4,2,2,1523,Charlotte,2296,1096,2,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,4
+2009-10,2009-11-17,920728,32,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,5,2,3,1388,Duke,2296,1096,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,4
+2009-10,2009-11-17,920728,33,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,6,2,4,1388,Duke,2296,1096,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,4
+2009-10,2009-11-17,920728,36,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,8,2,6,1388,Duke,2281,1081,15, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Charlotte,5
+2009-10,2009-11-17,920728,40,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,8,2,6,1388,Duke,2270,1070,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.2,26.75,329889,NA,NA,0,Duke,Duke,6
+2009-10,2009-11-17,920728,41,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,8,2,6,1388,Duke,2270,1070,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,6
+2009-10,2009-11-17,920728,46,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1388,Duke,2268,1068,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329889,NA,NA,0,Duke,Duke,6
+2009-10,2009-11-17,920728,50,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1523,Charlotte,2268,1068,0,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,6
+2009-10,2009-11-17,920728,51,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1388,Duke,2268,1068,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,6
+2009-10,2009-11-17,920728,52,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1523,Charlotte,2268,1068,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,6
+2009-10,2009-11-17,920728,55.5,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1388,Duke,2238,1038,30, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,16.25,398429,NA,NA,0,Duke,Duke,7
+2009-10,2009-11-17,920728,57.25,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,10,2,8,1388,Duke,2238,1038,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,7
+2009-10,2009-11-17,920728,59,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,12,2,10,1388,Duke,2238,1038,0, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,18.8,20.150000000000006,398429,NA,NA,0,Duke,Charlotte,7
+2009-10,2009-11-17,920728,60,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,14,2,12,1388,Duke,2218,1018,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Charlotte,8
+2009-10,2009-11-17,920728,66,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,14,4,10,1523,Charlotte,2199,999,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,462741,NA,NA,0,Charlotte,Duke,9
+2009-10,2009-11-17,920728,67,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,14,4,10,1388,Duke,2188,988,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13.299999999999997,16.849999999999994,329890,NA,NA,0,Duke,Duke,10
+2009-10,2009-11-17,920728,68,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,14,4,10,1523,Charlotte,2188,988,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,10
+2009-10,2009-11-17,920728,72,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,17,4,13,1388,Duke,2178,978,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40,24.349999999999994,398428,NA,NA,0,Duke,Charlotte,11
+2009-10,2009-11-17,920728,75,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,17,4,13,1388,Duke,2156,956,22,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,12
+2009-10,2009-11-17,920728,76,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,17,4,13,NA,NA,2156,956,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,78,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,17,6,11,1523,Charlotte,2142,942,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Duke,12
+2009-10,2009-11-17,920728,79,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,20,6,14,1388,Duke,2125,925,17, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41.3,22.450000000000003,329889,NA,NA,0,Duke,Charlotte,13
+2009-10,2009-11-17,920728,80,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,20,9,11,1523,Charlotte,2109,909,16, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46,8.15,329686,NA,NA,0,Charlotte,Duke,14
+2009-10,2009-11-17,920728,81,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,9,13,1388,Duke,2088,888,21, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,20.2,13.150000000000006,467271,NA,NA,0,Duke,Charlotte,15
+2009-10,2009-11-17,920728,82,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,9,13,1523,Charlotte,2066,866,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332687,NA,NA,0,Charlotte,Charlotte,16
+2009-10,2009-11-17,920728,88,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,2054,854,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Duke,16
+2009-10,2009-11-17,920728,88.25,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,2034,834,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,18.75,398428,NA,NA,0,Duke,Duke,17
+2009-10,2009-11-17,920728,88.375,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,2034,834,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,17
+2009-10,2009-11-17,920728,88.5,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,2034,834,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,17
+2009-10,2009-11-17,920728,102,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,2016,816,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,6.45,329686,NA,NA,0,Charlotte,Duke,17
+2009-10,2009-11-17,920728,113,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,2006,806,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.299999999999997,20.549999999999997,329889,NA,NA,0,Duke,Duke,18
+2009-10,2009-11-17,920728,114,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,2006,806,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,18
+2009-10,2009-11-17,920728,115,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,1997,797,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.2,23.65,462737,NA,NA,0,Charlotte,Duke,19
+2009-10,2009-11-17,920728,123,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,1995,795,2,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,130,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,1984,784,11,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,132,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1978,778,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,133,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1978,778,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,133.5,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1972,772,6, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,26.5,6.950000000000003,329891,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,133.75,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1972,772,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,134,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1972,772,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329891,NA,NA,0,Duke,Duke,20
+2009-10,2009-11-17,920728,135,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,1972,772,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,20
+2009-10,2009-11-17,920728,136,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1523,Charlotte,1967,767,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395649,NA,NA,0,Charlotte,Charlotte,21
+2009-10,2009-11-17,920728,137,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,22,11,11,1388,Duke,1967,767,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,21
+2009-10,2009-11-17,920728,138,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,11,13,1388,Duke,1959,759,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329891,NA,NA,0,Duke,Charlotte,22
+2009-10,2009-11-17,920728,141,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,11,13,1388,Duke,1934,734,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.200000000000003,25.150000000000006,510784,NA,NA,0,Duke,Duke,23
+2009-10,2009-11-17,920728,142,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,11,13,1523,Charlotte,1934,734,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,23
+2009-10,2009-11-17,920728,148,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,11,13,1523,Charlotte,1918,718,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,21.45,411397,NA,NA,0,Charlotte,Charlotte,24
+2009-10,2009-11-17,920728,149,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,11,13,1523,Charlotte,1918,718,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,24
+2009-10,2009-11-17,920728,150,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,24,14,10,1523,Charlotte,1907,707,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,8.5,22.85,462737,NA,NA,0,Charlotte,Duke,24
+2009-10,2009-11-17,920728,151,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,14,13,1388,Duke,1896,696,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.799999999999997,17.450000000000003,398428,NA,NA,0,Duke,Charlotte,25
+2009-10,2009-11-17,920728,152,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,14,13,1523,Charlotte,1881,681,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.8,22.65,462737,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2009-11-17,920728,153,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,14,13,1523,Charlotte,1881,681,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2009-11-17,920728,192,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,14,13,1388,Duke,1871,671,10,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2009-11-17,920728,193,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,14,13,NA,NA,1871,671,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,194,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,15,12,1523,Charlotte,1871,671,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2009-11-17,920728,195,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,15,12,1523,Charlotte,1871,671,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2009-11-17,920728,196,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,27,15,12,1388,Duke,1871,671,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,26
+2009-10,2009-11-17,920728,199,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,30,15,15,1388,Duke,1866,666,5, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,27.7,30.049999999999997,398429,NA,NA,0,Duke,Charlotte,27
+2009-10,2009-11-17,920728,200,1,1,Duke,Charlotte,Blue Devils,49ers,4,4,32,15,17,1388,Duke,1850,650,16, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Charlotte,28
+2009-10,2009-11-17,920728,203,1,1,Duke,Charlotte,Blue Devils,49ers,4,3,32,15,17,1523,Charlotte,1845,645,5,49ers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,216,1,1,Duke,Charlotte,Blue Devils,49ers,4,3,32,15,17,1523,Charlotte,1822,622,23,Offensive foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,29
+2009-10,2009-11-17,920728,218,1,1,Duke,Charlotte,Blue Devils,49ers,4,3,35,15,20,1388,Duke,1799,599,23, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,33,27.849999999999994,329889,NA,NA,0,Duke,Charlotte,30
+2009-10,2009-11-17,920728,226,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,35,15,20,1523,Charlotte,1799,599,0,49ers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,228,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,35,17,18,1523,Charlotte,1783,583,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Duke,31
+2009-10,2009-11-17,920728,229,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,37,17,20,1388,Duke,1758,558,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467271,NA,NA,0,Duke,Charlotte,32
+2009-10,2009-11-17,920728,230,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,37,17,20,1523,Charlotte,1745,545,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15,7.15,329686,NA,NA,0,Charlotte,Charlotte,33
+2009-10,2009-11-17,920728,231,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,37,17,20,1388,Duke,1745,545,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,33
+2009-10,2009-11-17,920728,232,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,39,17,22,1388,Duke,1728,528,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Charlotte,34
+2009-10,2009-11-17,920728,236,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,39,17,22,1388,Duke,1720,520,8,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,35
+2009-10,2009-11-17,920728,240,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,39,20,19,1523,Charlotte,1709,509,11, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.699999999999999,7.35,332681,NA,NA,0,Charlotte,Duke,35
+2009-10,2009-11-17,920728,241,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,41,20,21,1388,Duke,1690,490,19, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,34.3,7.349999999999994,398428,NA,NA,0,Duke,Charlotte,36
+2009-10,2009-11-17,920728,242,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,41,20,21,1523,Charlotte,1674,474,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,19.35,462741,NA,NA,0,Charlotte,Charlotte,37
+2009-10,2009-11-17,920728,243,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,41,20,21,1388,Duke,1674,474,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,37
+2009-10,2009-11-17,920728,244,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,44,20,24,1388,Duke,1665,465,9, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.700000000000003,9.349999999999994,398429,NA,NA,0,Duke,Charlotte,38
+2009-10,2009-11-17,920728,245,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,44,22,22,1523,Charlotte,1646,446,19, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,23.5,10.25,329686,NA,NA,0,Charlotte,Duke,39
+2009-10,2009-11-17,920728,246,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,44,22,22,1388,Duke,1634,434,12, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,22.049999999999997,329889,NA,NA,0,Duke,Duke,40
+2009-10,2009-11-17,920728,247,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,44,22,22,1388,Duke,1634,434,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,40
+2009-10,2009-11-17,920728,248,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1629,429,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329889,NA,NA,0,Duke,Charlotte,40
+2009-10,2009-11-17,920728,250,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1611,411,18,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,41
+2009-10,2009-11-17,920728,251,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,NA,NA,1611,411,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,258,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1597,397,14, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,24.549999999999997,329890,NA,NA,0,Duke,Duke,41
+2009-10,2009-11-17,920728,259,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1597,397,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,41
+2009-10,2009-11-17,920728,260,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1589,389,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.3,6.45,329686,NA,NA,0,Charlotte,Charlotte,42
+2009-10,2009-11-17,920728,261,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1589,389,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,42
+2009-10,2009-11-17,920728,270,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1582,382,7,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,43
+2009-10,2009-11-17,920728,272,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1579,379,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,7.549999999999997,329889,NA,NA,0,Duke,Charlotte,43
+2009-10,2009-11-17,920728,282,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1579,379,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2009-11-17,920728,283,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1579,379,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2009-11-17,920728,284,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1579,379,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2009-11-17,920728,289,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1572,372,7,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2009-11-17,920728,292,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1570,370,2, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2009-11-17,920728,293,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1570,370,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,44
+2009-10,2009-11-17,920728,298,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1551,351,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,9.549999999999997,398429,NA,NA,0,Duke,Duke,45
+2009-10,2009-11-17,920728,299,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1551,351,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,45
+2009-10,2009-11-17,920728,300,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1543,343,8, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,22.7,8.549999999999997,467271,NA,NA,0,Duke,Duke,45
+2009-10,2009-11-17,920728,301,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1543,343,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,45
+2009-10,2009-11-17,920728,302,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1535,335,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,45
+2009-10,2009-11-17,920728,303,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1535,335,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,45
+2009-10,2009-11-17,920728,304,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1523,Charlotte,1531,331,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,7.15,332681,NA,NA,0,Charlotte,Charlotte,46
+2009-10,2009-11-17,920728,305,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1531,331,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,46
+2009-10,2009-11-17,920728,306,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1525,325,6, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,11.650000000000006,398429,NA,NA,0,Duke,Duke,47
+2009-10,2009-11-17,920728,307,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,46,22,24,1388,Duke,1525,325,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,47
+2009-10,2009-11-17,920728,308,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,48,22,26,1388,Duke,1518,318,7, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26.7,7.349999999999994,329891,NA,NA,0,Duke,Charlotte,47
+2009-10,2009-11-17,920728,309,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,48,22,26,1523,Charlotte,1507,307,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,39,12.45,510999,NA,NA,0,Charlotte,Charlotte,48
+2009-10,2009-11-17,920728,310,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,48,22,26,1388,Duke,1507,307,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,48
+2009-10,2009-11-17,920728,311,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,48,22,26,1388,Duke,1490,290,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,18.950000000000003,398428,NA,NA,0,Duke,Duke,49
+2009-10,2009-11-17,920728,312,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,48,22,26,1523,Charlotte,1490,290,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,49
+2009-10,2009-11-17,920728,317,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,51,22,29,1388,Duke,1474,274,16, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.200000000000003,18.950000000000003,518947,NA,NA,0,Duke,Charlotte,50
+2009-10,2009-11-17,920728,318,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,51,24,27,1523,Charlotte,1461,261,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Duke,51
+2009-10,2009-11-17,920728,320,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,51,24,27,1523,Charlotte,1448,248,13,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2009-10,2009-11-17,920728,321,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,52,24,28,1388,Duke,1448,248,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2009-10,2009-11-17,920728,322,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,53,24,29,1388,Duke,1448,248,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,52
+2009-10,2009-11-17,920728,324,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,53,24,29,1523,Charlotte,1430,230,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,20.15,329686,NA,NA,0,Charlotte,Charlotte,53
+2009-10,2009-11-17,920728,325,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,53,24,29,1388,Duke,1430,230,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,53
+2009-10,2009-11-17,920728,326,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,55,24,31,1388,Duke,1414,214,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Charlotte,54
+2009-10,2009-11-17,920728,328,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,55,24,31,1523,Charlotte,1401,201,13, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,24.55,462737,NA,NA,0,Charlotte,Charlotte,55
+2009-10,2009-11-17,920728,329,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,55,24,31,1388,Duke,1401,201,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,55
+2009-10,2009-11-17,920728,330,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,24,33,1388,Duke,1386,186,15, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,36,8.950000000000003,510784,NA,NA,0,Duke,Charlotte,56
+2009-10,2009-11-17,920728,333,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,24,33,1388,Duke,1362,162,24,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,57
+2009-10,2009-11-17,920728,334,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,24,33,NA,NA,1362,162,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,337,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,24,33,1523,Charlotte,1362,162,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,57
+2009-10,2009-11-17,920728,339,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1362,162,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,57
+2009-10,2009-11-17,920728,341,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1388,Duke,1349,149,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,30.5,20.549999999999997,329889,NA,NA,0,Duke,Duke,58
+2009-10,2009-11-17,920728,342,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1349,149,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,58
+2009-10,2009-11-17,920728,343,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1332,132,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.3,13.55,349787,NA,NA,0,Charlotte,Charlotte,59
+2009-10,2009-11-17,920728,344,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1388,Duke,1332,132,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,59
+2009-10,2009-11-17,920728,345,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1388,Duke,1317,117,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,14.299999999999997,28.450000000000003,398429,NA,NA,0,Duke,Duke,60
+2009-10,2009-11-17,920728,346,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1317,117,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,60
+2009-10,2009-11-17,920728,347,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1302,102,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,349787,NA,NA,0,Charlotte,Charlotte,61
+2009-10,2009-11-17,920728,348,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1388,Duke,1302,102,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,61
+2009-10,2009-11-17,920728,350,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1284,84,18,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,62
+2009-10,2009-11-17,920728,351,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1388,Duke,1284,84,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,62
+2009-10,2009-11-17,920728,352,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,25,32,1523,Charlotte,1284,84,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,62
+2009-10,2009-11-17,920728,357,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,1523,Charlotte,1277,77,7, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,12,21.25,411397,NA,NA,0,Charlotte,Duke,63
+2009-10,2009-11-17,920728,362,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,1523,Charlotte,1248,48,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,22.25,462737,NA,NA,0,Charlotte,Charlotte,64
+2009-10,2009-11-17,920728,363,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,1388,Duke,1248,48,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,64
+2009-10,2009-11-17,920728,364,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,1388,Duke,1216,16,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,65
+2009-10,2009-11-17,920728,365,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,1523,Charlotte,1216,16,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,65
+2009-10,2009-11-17,920728,367,1,1,Duke,Charlotte,Blue Devils,49ers,4,2,57,27,30,NA,NA,1200,0,16,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,399,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,57,27,30,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,66
+2009-10,2009-11-17,920728,408,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,57,27,30,1388,Duke,1188,1188,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15,11.049999999999997,398428,NA,NA,0,Duke,Duke,67
+2009-10,2009-11-17,920728,409,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,57,27,30,1523,Charlotte,1188,1188,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,67
+2009-10,2009-11-17,920728,410,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,27,33,1388,Duke,1183,1183,5, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,9.650000000000006,329889,NA,NA,0,Duke,Charlotte,68
+2009-10,2009-11-17,920728,416,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,27,33,1388,Duke,1142,1142,41, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,18.25,398428,NA,NA,0,Duke,Duke,69
+2009-10,2009-11-17,920728,417,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,27,33,1523,Charlotte,1142,1142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,69
+2009-10,2009-11-17,920728,419,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,29,31,1523,Charlotte,1134,1134,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395649,NA,NA,0,Charlotte,Duke,70
+2009-10,2009-11-17,920728,420,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,29,31,1388,Duke,1134,1134,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,71
+2009-10,2009-11-17,920728,421,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,60,30,30,1523,Charlotte,1134,1134,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,71
+2009-10,2009-11-17,920728,423,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,62,30,32,1388,Duke,1116,1116,18, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16.700000000000003,14.950000000000003,467271,NA,NA,0,Duke,Charlotte,72
+2009-10,2009-11-17,920728,424,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,62,30,32,1523,Charlotte,1085,1085,31, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,6.25,329686,NA,NA,0,Charlotte,Charlotte,73
+2009-10,2009-11-17,920728,425,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,62,30,32,1388,Duke,1085,1085,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,73
+2009-10,2009-11-17,920728,426,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,62,32,30,1523,Charlotte,1071,1071,14, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,10.3,17.45,411397,NA,NA,0,Charlotte,Duke,74
+2009-10,2009-11-17,920728,428,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,62,32,30,1523,Charlotte,1055,1055,16,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,75
+2009-10,2009-11-17,920728,429,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,63,32,31,1388,Duke,1055,1055,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,75
+2009-10,2009-11-17,920728,430,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,64,32,32,1388,Duke,1055,1055,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,75
+2009-10,2009-11-17,920728,432,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,64,32,32,1523,Charlotte,1036,1036,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.8,29.05,411397,NA,NA,0,Charlotte,Charlotte,76
+2009-10,2009-11-17,920728,433,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,64,32,32,1388,Duke,1036,1036,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,76
+2009-10,2009-11-17,920728,434,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,66,32,34,1388,Duke,1012,1012,24, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Charlotte,77
+2009-10,2009-11-17,920728,435,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,66,32,34,1523,Charlotte,987,987,25, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,5.45,329686,NA,NA,0,Charlotte,Duke,78
+2009-10,2009-11-17,920728,444,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,1388,Duke,981,981,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Charlotte,79
+2009-10,2009-11-17,920728,445,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,1523,Charlotte,959,959,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462741,NA,NA,0,Charlotte,Charlotte,80
+2009-10,2009-11-17,920728,446,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,1523,Charlotte,959,959,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,80
+2009-10,2009-11-17,920728,447,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,1523,Charlotte,955,955,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329686,NA,NA,0,Charlotte,Charlotte,80
+2009-10,2009-11-17,920728,448,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,1388,Duke,955,955,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,80
+2009-10,2009-11-17,920728,453,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,68,32,36,NA,NA,948,948,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,473,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1388,Duke,910,910,38, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,10.849999999999994,329889,NA,NA,0,Duke,Charlotte,81
+2009-10,2009-11-17,920728,477,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1388,Duke,893,893,17,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,82
+2009-10,2009-11-17,920728,481,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1523,Charlotte,875,875,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510994,NA,NA,0,Charlotte,Charlotte,82
+2009-10,2009-11-17,920728,482,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1388,Duke,875,875,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,82
+2009-10,2009-11-17,920728,483,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1388,Duke,866,866,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,83
+2009-10,2009-11-17,920728,484,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1523,Charlotte,866,866,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,83
+2009-10,2009-11-17,920728,489,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,32,39,1388,Duke,860,860,6,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,84
+2009-10,2009-11-17,920728,490,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,33,38,1523,Charlotte,860,860,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,84
+2009-10,2009-11-17,920728,491,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,860,860,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,84
+2009-10,2009-11-17,920728,495,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,841,841,19,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,85
+2009-10,2009-11-17,920728,497,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1388,Duke,837,837,4, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,32,19.549999999999997,518947,NA,NA,0,Duke,Duke,85
+2009-10,2009-11-17,920728,498,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,837,837,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,85
+2009-10,2009-11-17,920728,499,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,822,822,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395649,NA,NA,0,Charlotte,Charlotte,86
+2009-10,2009-11-17,920728,500,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,822,822,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,86
+2009-10,2009-11-17,920728,507,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1388,Duke,805,805,17,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,86
+2009-10,2009-11-17,920728,509,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,796,796,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510994,NA,NA,0,Charlotte,Charlotte,86
+2009-10,2009-11-17,920728,510,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,34,37,1523,Charlotte,796,796,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,86
+2009-10,2009-11-17,920728,511,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,36,35,1523,Charlotte,790,790,6, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26.7,7.95,349787,NA,NA,0,Charlotte,Duke,86
+2009-10,2009-11-17,920728,512,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,36,35,1388,Duke,763,763,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,28.25,518947,NA,NA,0,Duke,Duke,87
+2009-10,2009-11-17,920728,513,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,36,35,1523,Charlotte,763,763,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,87
+2009-10,2009-11-17,920728,514,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,36,35,1523,Charlotte,757,757,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395649,NA,NA,0,Charlotte,Charlotte,88
+2009-10,2009-11-17,920728,515,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,71,36,35,1388,Duke,757,757,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,88
+2009-10,2009-11-17,920728,516,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,36,37,1388,Duke,750,750,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398429,NA,NA,0,Duke,Charlotte,89
+2009-10,2009-11-17,920728,518,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,36,37,1388,Duke,722,722,28,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,90
+2009-10,2009-11-17,920728,519,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,37,36,1523,Charlotte,722,722,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,90
+2009-10,2009-11-17,920728,520,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,37,36,1523,Charlotte,722,722,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,90
+2009-10,2009-11-17,920728,521,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,37,36,1388,Duke,722,722,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,90
+2009-10,2009-11-17,920728,528,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,37,36,1523,Charlotte,712,712,10,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,91
+2009-10,2009-11-17,920728,529,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,73,37,36,NA,NA,712,712,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,530.5,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,74,37,37,1388,Duke,712,712,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,91
+2009-10,2009-11-17,920728,532,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,37,38,1388,Duke,712,712,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,91
+2009-10,2009-11-17,920728,543.5,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,37,38,1523,Charlotte,692,692,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511002,NA,NA,0,Charlotte,Charlotte,92
+2009-10,2009-11-17,920728,549.25,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,37,38,1523,Charlotte,692,692,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,92
+2009-10,2009-11-17,920728,555,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,39,36,1523,Charlotte,692,692,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Duke,92
+2009-10,2009-11-17,920728,556,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,39,36,1388,Duke,684,684,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,18.450000000000003,467271,NA,NA,0,Duke,Duke,93
+2009-10,2009-11-17,920728,557,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,39,36,1523,Charlotte,684,684,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,93
+2009-10,2009-11-17,920728,558,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,75,41,34,1523,Charlotte,676,676,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Duke,94
+2009-10,2009-11-17,920728,563,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,78,41,37,1388,Duke,641,641,35, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.799999999999997,7.75,467270,NA,NA,0,Duke,Charlotte,95
+2009-10,2009-11-17,920728,564,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,78,41,37,1523,Charlotte,622,622,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,6.95,329686,NA,NA,0,Charlotte,Charlotte,96
+2009-10,2009-11-17,920728,565,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,78,41,37,1523,Charlotte,622,622,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,96
+2009-10,2009-11-17,920728,566,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,78,43,35,1523,Charlotte,616,616,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Duke,96
+2009-10,2009-11-17,920728,570,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,78,43,35,1523,Charlotte,604,604,12,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,97
+2009-10,2009-11-17,920728,572,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,79,43,36,1388,Duke,604,604,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,97
+2009-10,2009-11-17,920728,573,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1388,Duke,604,604,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,97
+2009-10,2009-11-17,920728,575,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1523,Charlotte,590,590,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329686,NA,NA,0,Charlotte,Charlotte,98
+2009-10,2009-11-17,920728,576,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1388,Duke,590,590,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,98
+2009-10,2009-11-17,920728,580,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1523,Charlotte,568,568,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,23.05,411397,NA,NA,0,Charlotte,Charlotte,99
+2009-10,2009-11-17,920728,581,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1523,Charlotte,568,568,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,99
+2009-10,2009-11-17,920728,594,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,43,37,1388,Duke,565,565,3,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,99
+2009-10,2009-11-17,920728,595,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,44,36,1523,Charlotte,565,565,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,99
+2009-10,2009-11-17,920728,596,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,80,45,35,1523,Charlotte,565,565,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,99
+2009-10,2009-11-17,920728,599,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,82,45,37,1388,Duke,546,546,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467270,NA,NA,0,Duke,Charlotte,100
+2009-10,2009-11-17,920728,600,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,82,48,34,1523,Charlotte,529,529,17, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,7.95,510999,NA,NA,0,Charlotte,Duke,101
+2009-10,2009-11-17,920728,602,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,82,48,34,1523,Charlotte,516,516,13,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,608,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,82,48,34,1523,Charlotte,505,505,11,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,610,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,505,505,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,611,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,505,505,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,612,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,505,505,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,614,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,490,490,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,615,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,490,490,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,618,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1523,Charlotte,486,486,4,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,619,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,486,486,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,621,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1388,Duke,486,486,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2009-11-17,920728,622,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,48,35,1523,Charlotte,486,486,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,102
+2009-10,2009-11-17,920728,628,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,83,50,33,1523,Charlotte,469,469,17, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,34,19.55,510999,NA,NA,0,Charlotte,Duke,103
+2009-10,2009-11-17,920728,629,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,453,453,16, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.2,11.049999999999997,329891,NA,NA,0,Duke,Charlotte,104
+2009-10,2009-11-17,920728,630,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,440,440,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,25.15,411397,NA,NA,0,Charlotte,Charlotte,105
+2009-10,2009-11-17,920728,631,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,440,440,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,105
+2009-10,2009-11-17,920728,632,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,430,430,10, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,17.299999999999997,22.849999999999994,518947,NA,NA,0,Duke,Duke,106
+2009-10,2009-11-17,920728,633,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,430,430,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,106
+2009-10,2009-11-17,920728,637,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,421,421,9,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,107
+2009-10,2009-11-17,920728,641,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,421,421,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,107
+2009-10,2009-11-17,920728,643,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,421,421,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,107
+2009-10,2009-11-17,920728,644,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,421,421,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,107
+2009-10,2009-11-17,920728,647,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,410,410,11, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,10.650000000000006,329891,NA,NA,0,Duke,Duke,108
+2009-10,2009-11-17,920728,648,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,410,410,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,108
+2009-10,2009-11-17,920728,651,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,407,407,3,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,108
+2009-10,2009-11-17,920728,653,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,388,388,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,23.65,329686,NA,NA,0,Charlotte,Charlotte,109
+2009-10,2009-11-17,920728,654,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1388,Duke,388,388,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,109
+2009-10,2009-11-17,920728,654.5,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,85,50,35,1523,Charlotte,388,388,0,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,110
+2009-10,2009-11-17,920728,655,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,87,50,37,1388,Duke,367,367,21, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,19.8,19.349999999999994,398429,NA,NA,0,Duke,Charlotte,110
+2009-10,2009-11-17,920728,658,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,87,50,37,1388,Duke,358,358,9,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,111
+2009-10,2009-11-17,920728,659,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,87,51,36,1523,Charlotte,358,358,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,111
+2009-10,2009-11-17,920728,660,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,87,52,35,1523,Charlotte,358,358,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,111
+2009-10,2009-11-17,920728,664,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,87,52,35,1523,Charlotte,344,344,14,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,112
+2009-10,2009-11-17,920728,665,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,52,36,1388,Duke,344,344,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,112
+2009-10,2009-11-17,920728,666,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,52,36,1388,Duke,344,344,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,112
+2009-10,2009-11-17,920728,667,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,52,36,1523,Charlotte,344,344,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,112
+2009-10,2009-11-17,920728,673,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,52,36,1388,Duke,333,333,11,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,113
+2009-10,2009-11-17,920728,674,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,53,35,1523,Charlotte,333,333,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,113
+2009-10,2009-11-17,920728,675,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,88,54,34,1523,Charlotte,333,333,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,113
+2009-10,2009-11-17,920728,678,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,91,54,37,1388,Duke,322,322,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15.700000000000003,26.549999999999997,398428,NA,NA,0,Duke,Charlotte,114
+2009-10,2009-11-17,920728,679,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,91,54,37,1523,Charlotte,286,286,36, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,9.55,329686,NA,NA,0,Charlotte,Charlotte,115
+2009-10,2009-11-17,920728,680,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,91,54,37,1388,Duke,286,286,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,115
+2009-10,2009-11-17,920728,684,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,91,54,37,1523,Charlotte,270,270,16,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,116
+2009-10,2009-11-17,920728,685,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,91,54,37,1388,Duke,270,270,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,116
+2009-10,2009-11-17,920728,687,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,92,54,38,1388,Duke,270,270,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,116
+2009-10,2009-11-17,920728,692,1,2,Duke,Charlotte,Blue Devils,49ers,4,4,92,54,38,1523,Charlotte,258,258,12,Offensive foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,117
+2009-10,2009-11-17,920728,694,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,1388,Duke,258,258,0,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,707,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,NA,NA,239,239,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,717,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,1523,Charlotte,228,228,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,24.55,510999,NA,NA,0,Charlotte,Charlotte,118
+2009-10,2009-11-17,920728,718,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,1388,Duke,228,228,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,118
+2009-10,2009-11-17,920728,721,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,1523,Charlotte,203,203,25,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,119
+2009-10,2009-11-17,920728,722,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,92,54,38,1388,Duke,203,203,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,119
+2009-10,2009-11-17,920728,727,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,93,54,39,1388,Duke,202,202,1, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,119
+2009-10,2009-11-17,920728,729,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,93,54,39,1523,Charlotte,183,183,19, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,23.2,30.95,462741,NA,NA,0,Charlotte,Charlotte,120
+2009-10,2009-11-17,920728,730,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,93,54,39,1388,Duke,183,183,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Duke,120
+2009-10,2009-11-17,920728,731,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,96,54,42,1388,Duke,169,169,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,31.2,29.450000000000003,510784,NA,NA,0,Duke,Charlotte,121
+2009-10,2009-11-17,920728,732,1,2,Duke,Charlotte,Blue Devils,49ers,3,4,98,54,44,1388,Duke,144,144,25, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Charlotte,122
+2009-10,2009-11-17,920728,737,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,98,54,44,1388,Duke,140,140,4,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,744,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,98,54,44,1523,Charlotte,123,123,17, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.699999999999999,9.15,510999,NA,NA,0,Charlotte,Charlotte,123
+2009-10,2009-11-17,920728,745,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,98,54,44,1523,Charlotte,123,123,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,123
+2009-10,2009-11-17,920728,746,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,98,54,44,1388,Duke,112,112,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329891,NA,NA,0,Duke,Duke,123
+2009-10,2009-11-17,920728,747,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,98,54,44,1388,Duke,112,112,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,123
+2009-10,2009-11-17,920728,748,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1388,Duke,108,108,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329891,NA,NA,0,Duke,Charlotte,123
+2009-10,2009-11-17,920728,749,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1523,Charlotte,96,96,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411397,NA,NA,0,Charlotte,Charlotte,124
+2009-10,2009-11-17,920728,750,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1523,Charlotte,96,96,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,124
+2009-10,2009-11-17,920728,751,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1388,Duke,66,66,30, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,8.549999999999997,398428,NA,NA,0,Duke,Duke,124
+2009-10,2009-11-17,920728,752,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1388,Duke,66,66,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,124
+2009-10,2009-11-17,920728,758,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1523,Charlotte,62,62,4,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,124
+2009-10,2009-11-17,920728,759,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,100,54,46,1388,Duke,62,62,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,124
+2009-10,2009-11-17,920728,761,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,101,54,47,1388,Duke,62,62,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Charlotte,124
+2009-10,2009-11-17,920728,765,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,101,56,45,1523,Charlotte,49,49,13, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,22.2,25.15,510996,NA,NA,0,Charlotte,Duke,125
+2009-10,2009-11-17,920728,766,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,101,59,42,1523,Charlotte,28,28,21, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,41.2,26.15,510998,NA,NA,0,Charlotte,Duke,126
+2009-10,2009-11-17,920728,773,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,101,59,42,NA,NA,0,0,28,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,920728,781,1,2,Duke,Charlotte,Blue Devils,49ers,2,4,101,59,42,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,NA

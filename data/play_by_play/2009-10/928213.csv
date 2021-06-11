@@ -1,0 +1,291 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-08,928213,1,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgetown,NA
+2009-10,2009-12-08,928213,3,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,0,0,0,1419,Georgetown,2370,1170,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,28.849999999999994,402392,NA,NA,0,Georgetown,Georgetown,1
+2009-10,2009-12-08,928213,4,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,0,0,0,1419,Georgetown,2370,1170,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,1
+2009-10,2009-12-08,928213,5,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1419,Georgetown,2361,1161,9, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,19.349999999999994,402389,NA,NA,0,Georgetown,Butler,1
+2009-10,2009-12-08,928213,6,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1324,Butler,2347,1147,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,2
+2009-10,2009-12-08,928213,7,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1419,Georgetown,2347,1147,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,2
+2009-10,2009-12-08,928213,8,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1419,Georgetown,2334,1134,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.3,27.150000000000006,467467,NA,NA,0,Georgetown,Georgetown,3
+2009-10,2009-12-08,928213,9,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1324,Butler,2334,1134,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,3
+2009-10,2009-12-08,928213,10,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1324,Butler,2323,1123,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,8.75,477669,NA,NA,0,Butler,Butler,4
+2009-10,2009-12-08,928213,11,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,3,0,3,1419,Georgetown,2323,1123,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,4
+2009-10,2009-12-08,928213,12,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1419,Georgetown,2308,1108,15, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,24.7,12.450000000000003,398060,NA,NA,0,Georgetown,Butler,5
+2009-10,2009-12-08,928213,13,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1324,Butler,2290,1090,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,6
+2009-10,2009-12-08,928213,14,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1419,Georgetown,2290,1090,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,6
+2009-10,2009-12-08,928213,17,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1419,Georgetown,2263,1063,27,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,7
+2009-10,2009-12-08,928213,19,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1324,Butler,2236,1036,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,7
+2009-10,2009-12-08,928213,20,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,0,5,1419,Georgetown,2236,1036,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,7
+2009-10,2009-12-08,928213,24,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,3,2,1324,Butler,2206,1006,30, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.199999999999999,8.35,477667,NA,NA,0,Butler,Georgetown,8
+2009-10,2009-12-08,928213,26,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,5,0,1324,Butler,2182,982,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Butler,9
+2009-10,2009-12-08,928213,27,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,5,0,1419,Georgetown,2182,982,0,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,9
+2009-10,2009-12-08,928213,28,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,6,-1,1324,Butler,2182,982,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,9
+2009-10,2009-12-08,928213,33,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,6,-1,1419,Georgetown,2149,949,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467468,NA,NA,0,Georgetown,Georgetown,10
+2009-10,2009-12-08,928213,34,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,6,-1,1419,Georgetown,2149,949,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,10
+2009-10,2009-12-08,928213,39,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,6,-1,NA,NA,2147,947,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,44,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,5,6,-1,1419,Georgetown,2136,936,11,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,10
+2009-10,2009-12-08,928213,47.5,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,7,6,1,1419,Georgetown,2127,927,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467467,NA,NA,0,Georgetown,Butler,10
+2009-10,2009-12-08,928213,48,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,7,6,1,1324,Butler,2125,925,2, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,29.65,477670,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-08,928213,50,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,7,6,1,1324,Butler,2125,925,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-08,928213,51,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,7,6,1,1324,Butler,2113,913,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,11.85,477669,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-08,928213,52,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,7,6,1,1419,Georgetown,2113,913,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,11
+2009-10,2009-12-08,928213,78,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,4,10,6,4,1419,Georgetown,2077,877,36, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,33,26.549999999999997,467467,NA,NA,0,Georgetown,Butler,12
+2009-10,2009-12-08,928213,85,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,6,4,1324,Butler,2077,877,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,97,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,6,4,1324,Butler,2045,845,32,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,13
+2009-10,2009-12-08,928213,99,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,6,4,1419,Georgetown,2028,828,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467468,NA,NA,0,Georgetown,Georgetown,13
+2009-10,2009-12-08,928213,100,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,6,4,1324,Butler,2028,828,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,13
+2009-10,2009-12-08,928213,102,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,6,4,1419,Georgetown,2014,814,14,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,14
+2009-10,2009-12-08,928213,103,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,7,3,1324,Butler,2014,814,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,14
+2009-10,2009-12-08,928213,104,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,8,2,1324,Butler,2014,814,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,14
+2009-10,2009-12-08,928213,106,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,10,11,-1,1324,Butler,1989,789,25, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.199999999999999,17.05,401057,NA,NA,0,Butler,Georgetown,15
+2009-10,2009-12-08,928213,107,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,12,11,1,1419,Georgetown,1971,771,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,16
+2009-10,2009-12-08,928213,108,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,12,11,1,1324,Butler,1938,738,33, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,21.45,330417,NA,NA,0,Butler,Butler,17
+2009-10,2009-12-08,928213,109,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,12,11,1,1419,Georgetown,1938,738,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,17
+2009-10,2009-12-08,928213,114,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,12,11,1,1324,Butler,1934,734,4,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,18
+2009-10,2009-12-08,928213,115,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,13,11,2,1419,Georgetown,1934,734,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,18
+2009-10,2009-12-08,928213,117,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1419,Georgetown,1934,734,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,18
+2009-10,2009-12-08,928213,132,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1324,Butler,1918,718,16,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,19
+2009-10,2009-12-08,928213,133,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,NA,NA,1918,718,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,136,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1419,Georgetown,1904,704,14, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,19.2,11.049999999999997,398060,NA,NA,0,Georgetown,Georgetown,20
+2009-10,2009-12-08,928213,137,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1324,Butler,1904,704,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,20
+2009-10,2009-12-08,928213,141,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1324,Butler,1885,685,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,21
+2009-10,2009-12-08,928213,142,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,14,11,3,1419,Georgetown,1885,685,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,21
+2009-10,2009-12-08,928213,143,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1419,Georgetown,1869,669,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,18.7,28.650000000000006,402389,NA,NA,0,Georgetown,Butler,22
+2009-10,2009-12-08,928213,147,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1419,Georgetown,1850,650,19,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,23
+2009-10,2009-12-08,928213,150,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1324,Butler,1834,634,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,23
+2009-10,2009-12-08,928213,151,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1419,Georgetown,1834,634,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,23
+2009-10,2009-12-08,928213,156,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1324,Butler,1811,611,23,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,24
+2009-10,2009-12-08,928213,157,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,17,11,6,1419,Georgetown,1811,611,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,24
+2009-10,2009-12-08,928213,160,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1419,Georgetown,1811,611,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,24
+2009-10,2009-12-08,928213,163,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1324,Butler,1801,601,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,7.35,339496,NA,NA,0,Butler,Georgetown,25
+2009-10,2009-12-08,928213,167,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1419,Georgetown,1785,585,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467468,NA,NA,0,Georgetown,Georgetown,26
+2009-10,2009-12-08,928213,168,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1419,Georgetown,1785,585,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,26
+2009-10,2009-12-08,928213,169,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1419,Georgetown,1777,577,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398060,NA,NA,0,Georgetown,Georgetown,26
+2009-10,2009-12-08,928213,170,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,18,11,7,1419,Georgetown,1777,577,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,26
+2009-10,2009-12-08,928213,171,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,20,11,9,1419,Georgetown,1773,573,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402389,NA,NA,0,Georgetown,Butler,26
+2009-10,2009-12-08,928213,172,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,20,13,7,1324,Butler,1767,567,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,Georgetown,27
+2009-10,2009-12-08,928213,173,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,13,9,1419,Georgetown,1742,542,25, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,24.5,12.25,398060,NA,NA,0,Georgetown,Butler,28
+2009-10,2009-12-08,928213,177,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,13,9,1324,Butler,1721,521,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.8,24.55,477667,NA,NA,0,Butler,Butler,29
+2009-10,2009-12-08,928213,178,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,13,9,1419,Georgetown,1721,521,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,29
+2009-10,2009-12-08,928213,181,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,13,9,1324,Butler,1719,519,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,30
+2009-10,2009-12-08,928213,189,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,13,9,1419,Georgetown,1695,495,24, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,20,31.15,398060,NA,NA,0,Georgetown,Butler,30
+2009-10,2009-12-08,928213,194,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,22,16,6,1324,Butler,1682,482,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.7,22.05,477667,NA,NA,0,Butler,Georgetown,31
+2009-10,2009-12-08,928213,199,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1419,Georgetown,1665,465,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467467,NA,NA,0,Georgetown,Butler,32
+2009-10,2009-12-08,928213,203,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1324,Butler,1641,441,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401057,NA,NA,0,Butler,Butler,33
+2009-10,2009-12-08,928213,204,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1419,Georgetown,1641,441,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,33
+2009-10,2009-12-08,928213,208,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,NA,NA,1630,430,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,210,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1419,Georgetown,1611,411,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,29.049999999999997,513268,NA,NA,0,Georgetown,Georgetown,34
+2009-10,2009-12-08,928213,211,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1324,Butler,1611,411,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,34
+2009-10,2009-12-08,928213,214,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,16,8,1419,Georgetown,1606,406,5,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,35
+2009-10,2009-12-08,928213,219,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,19,5,1324,Butler,1593,393,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.8,23.05,401057,NA,NA,0,Butler,Georgetown,35
+2009-10,2009-12-08,928213,222,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,19,5,1324,Butler,1551,351,42, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,11.25,401057,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-08,928213,223,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,19,5,1324,Butler,1551,351,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-08,928213,225,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,19,5,1419,Georgetown,1543,343,8,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-08,928213,227,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1324,Butler,1543,343,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-08,928213,228,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1324,Butler,1543,343,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-08,928213,229,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1419,Georgetown,1543,343,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,36
+2009-10,2009-12-08,928213,232,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1324,Butler,1542,342,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,37
+2009-10,2009-12-08,928213,239,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1419,Georgetown,1525,325,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,11.049999999999997,467468,NA,NA,0,Georgetown,Georgetown,37
+2009-10,2009-12-08,928213,240,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,24,20,4,1419,Georgetown,1525,325,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,37
+2009-10,2009-12-08,928213,241,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,26,20,6,1419,Georgetown,1518,318,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513268,NA,NA,0,Georgetown,Butler,37
+2009-10,2009-12-08,928213,247,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,26,20,6,1324,Butler,1503,303,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,9.35,477667,NA,NA,0,Butler,Butler,38
+2009-10,2009-12-08,928213,248,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,26,20,6,1419,Georgetown,1503,303,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,38
+2009-10,2009-12-08,928213,249,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,26,22,4,1324,Butler,1485,285,18, makes a jump shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,32.7,7.15,401057,NA,NA,0,Butler,Georgetown,39
+2009-10,2009-12-08,928213,252,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,28,22,6,1419,Georgetown,1465,265,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Georgetown,40
+2009-10,2009-12-08,928213,253,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,28,22,6,1324,Butler,1465,265,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,40
+2009-10,2009-12-08,928213,254,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,3,29,22,7,1419,Georgetown,1465,265,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,40
+2009-10,2009-12-08,928213,255,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,29,22,7,1324,Butler,1465,265,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,261,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,29,22,7,1324,Butler,1451,251,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339496,NA,NA,0,Butler,Butler,41
+2009-10,2009-12-08,928213,267,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,29,22,7,1324,Butler,1429,229,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,7.15,477667,NA,NA,0,Butler,Georgetown,41
+2009-10,2009-12-08,928213,270,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,29,22,7,NA,NA,1428,228,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,276,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,22,9,1419,Georgetown,1413,213,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,42
+2009-10,2009-12-08,928213,279,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,22,9,1324,Butler,1382,182,31, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,7.35,477669,NA,NA,0,Butler,Butler,43
+2009-10,2009-12-08,928213,280,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,22,9,1419,Georgetown,1382,182,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,43
+2009-10,2009-12-08,928213,283,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,25,6,1324,Butler,1366,166,16, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.5,9.65,477669,NA,NA,0,Butler,Georgetown,44
+2009-10,2009-12-08,928213,292,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,25,6,1419,Georgetown,1335,135,31,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,45
+2009-10,2009-12-08,928213,295,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,26,5,1324,Butler,1335,135,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,45
+2009-10,2009-12-08,928213,296,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1324,Butler,1335,135,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,45
+2009-10,2009-12-08,928213,298,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1419,Georgetown,1325,125,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467468,NA,NA,0,Georgetown,Georgetown,46
+2009-10,2009-12-08,928213,299,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1324,Butler,1325,125,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,46
+2009-10,2009-12-08,928213,306,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1324,Butler,1299,99,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513025,NA,NA,0,Butler,Butler,47
+2009-10,2009-12-08,928213,307,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1419,Georgetown,1299,99,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,47
+2009-10,2009-12-08,928213,310,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,31,27,4,1324,Butler,1285,85,14,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,48
+2009-10,2009-12-08,928213,311,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,32,27,5,1419,Georgetown,1285,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,48
+2009-10,2009-12-08,928213,312,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,33,27,6,1419,Georgetown,1285,85,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,48
+2009-10,2009-12-08,928213,316,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,33,27,6,1324,Butler,1269,69,16,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,49
+2009-10,2009-12-08,928213,317,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,34,27,7,1419,Georgetown,1269,69,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,49
+2009-10,2009-12-08,928213,318,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,35,27,8,1419,Georgetown,1269,69,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,49
+2009-10,2009-12-08,928213,320,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,35,29,6,1324,Butler,1254,54,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,Georgetown,50
+2009-10,2009-12-08,928213,321,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,37,29,8,1419,Georgetown,1241,41,13, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,15,7.75,467468,NA,NA,0,Georgetown,Butler,51
+2009-10,2009-12-08,928213,322,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,37,31,6,1324,Butler,1212,12,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Georgetown,52
+2009-10,2009-12-08,928213,324,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,39,31,8,1419,Georgetown,1202,2,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,53
+2009-10,2009-12-08,928213,326,0,1,Georgetown,Butler,Hoyas,Bulldogs,4,2,39,31,8,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,327,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,39,31,8,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgetown,54
+2009-10,2009-12-08,928213,332,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,39,31,8,1419,Georgetown,1176,1176,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467467,NA,NA,0,Georgetown,Georgetown,55
+2009-10,2009-12-08,928213,333,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,39,31,8,1419,Georgetown,1176,1176,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,55
+2009-10,2009-12-08,928213,334,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1419,Georgetown,1173,1173,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,55
+2009-10,2009-12-08,928213,336,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1161,1161,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42,18.75,339496,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,337,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1161,1161,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,340,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1419,Georgetown,1159,1159,2,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,342,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1154,1154,5, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,12.45,477670,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,343,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1154,1154,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,344,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1146,1146,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,12.25,477667,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-08,928213,345,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1419,Georgetown,1146,1146,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,56
+2009-10,2009-12-08,928213,352,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1419,Georgetown,1128,1128,18, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,13.349999999999994,398060,NA,NA,0,Georgetown,Georgetown,57
+2009-10,2009-12-08,928213,353,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1128,1128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,57
+2009-10,2009-12-08,928213,354,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1118,1118,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.85,477669,NA,NA,0,Butler,Butler,58
+2009-10,2009-12-08,928213,355,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1419,Georgetown,1118,1118,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,58
+2009-10,2009-12-08,928213,360,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,41,31,10,1324,Butler,1085,1085,33,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,59
+2009-10,2009-12-08,928213,361,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,42,31,11,1419,Georgetown,1085,1085,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,59
+2009-10,2009-12-08,928213,362,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1085,1085,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,59
+2009-10,2009-12-08,928213,367,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1070,1070,15,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,60
+2009-10,2009-12-08,928213,369,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1324,Butler,1061,1061,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,60
+2009-10,2009-12-08,928213,370,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1324,Butler,1061,1061,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,60
+2009-10,2009-12-08,928213,371,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1324,Butler,1057,1057,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,60
+2009-10,2009-12-08,928213,372,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1057,1057,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,60
+2009-10,2009-12-08,928213,373,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1042,1042,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,18.950000000000003,467468,NA,NA,0,Georgetown,Georgetown,61
+2009-10,2009-12-08,928213,374,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1042,1042,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,61
+2009-10,2009-12-08,928213,380,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,31,12,1419,Georgetown,1040,1040,2,Offensive foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,61
+2009-10,2009-12-08,928213,382,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,33,10,1324,Butler,1024,1024,16, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,36.5,7.15,477667,NA,NA,0,Butler,Georgetown,62
+2009-10,2009-12-08,928213,389,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,33,10,1419,Georgetown,981,981,43,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,63
+2009-10,2009-12-08,928213,391,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,33,10,1324,Butler,972,972,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,63
+2009-10,2009-12-08,928213,392,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,43,33,10,1419,Georgetown,972,972,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,63
+2009-10,2009-12-08,928213,393,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,46,33,13,1419,Georgetown,943,943,29, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.5,9.849999999999994,402389,NA,NA,0,Georgetown,Butler,64
+2009-10,2009-12-08,928213,394,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,46,35,11,1324,Butler,920,920,23, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,477667,NA,NA,0,Butler,Georgetown,65
+2009-10,2009-12-08,928213,395,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,4,49,35,14,1419,Georgetown,896,896,24, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.5,13.349999999999994,402389,NA,NA,0,Georgetown,Butler,66
+2009-10,2009-12-08,928213,399,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,49,35,14,1324,Butler,892,892,4,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,413,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,49,35,14,1324,Butler,839,839,53, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,7.15,339496,NA,NA,0,Butler,Georgetown,67
+2009-10,2009-12-08,928213,417,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,49,35,14,NA,NA,837,837,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,423,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,35,17,1419,Georgetown,818,818,19, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,10.299999999999997,22.25,513268,NA,NA,0,Georgetown,Butler,68
+2009-10,2009-12-08,928213,426,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,35,17,1419,Georgetown,800,800,18,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,69
+2009-10,2009-12-08,928213,427,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,35,17,1324,Butler,800,800,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,69
+2009-10,2009-12-08,928213,430,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,36,16,1324,Butler,800,800,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,69
+2009-10,2009-12-08,928213,432,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,36,16,1419,Georgetown,790,790,10, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,11.049999999999997,467468,NA,NA,0,Georgetown,Georgetown,70
+2009-10,2009-12-08,928213,433,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,36,16,1324,Butler,790,790,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,70
+2009-10,2009-12-08,928213,434,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,36,16,1324,Butler,778,778,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,71
+2009-10,2009-12-08,928213,435,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,36,16,1419,Georgetown,778,778,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,71
+2009-10,2009-12-08,928213,438,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,749,749,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,401058,NA,NA,0,Butler,Georgetown,72
+2009-10,2009-12-08,928213,440,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,733,733,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467467,NA,NA,0,Georgetown,Butler,73
+2009-10,2009-12-08,928213,442,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,733,733,0,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,74
+2009-10,2009-12-08,928213,445,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,729,729,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401059,NA,NA,0,Butler,Butler,74
+2009-10,2009-12-08,928213,446,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,729,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,74
+2009-10,2009-12-08,928213,448,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,717,717,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,17.25,467467,NA,NA,0,Georgetown,Georgetown,75
+2009-10,2009-12-08,928213,449,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,717,717,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,75
+2009-10,2009-12-08,928213,452,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,715,715,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,75
+2009-10,2009-12-08,928213,453,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,NA,NA,715,715,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,460,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,694,694,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,13.549999999999997,402389,NA,NA,0,Georgetown,Georgetown,75
+2009-10,2009-12-08,928213,461,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,694,694,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,75
+2009-10,2009-12-08,928213,462,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,680,680,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,10.85,401057,NA,NA,0,Butler,Butler,76
+2009-10,2009-12-08,928213,463,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,680,680,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,76
+2009-10,2009-12-08,928213,465,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,657,657,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,28.25,467467,NA,NA,0,Georgetown,Georgetown,77
+2009-10,2009-12-08,928213,466,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1324,Butler,657,657,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,77
+2009-10,2009-12-08,928213,470,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,38,14,1419,Georgetown,656,656,1,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-12-08,928213,471,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,39,13,1324,Butler,656,656,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-12-08,928213,472,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1324,Butler,656,656,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,78
+2009-10,2009-12-08,928213,477,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1419,Georgetown,647,647,9,Offensive foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,79
+2009-10,2009-12-08,928213,493,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1324,Butler,633,633,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477669,NA,NA,0,Butler,Butler,80
+2009-10,2009-12-08,928213,494,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1419,Georgetown,633,633,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,80
+2009-10,2009-12-08,928213,497,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1324,Butler,607,607,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,81
+2009-10,2009-12-08,928213,498,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,40,12,1324,Butler,607,607,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,81
+2009-10,2009-12-08,928213,499,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,42,10,1324,Butler,597,597,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Georgetown,81
+2009-10,2009-12-08,928213,502,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,42,10,1324,Butler,592,592,5,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,82
+2009-10,2009-12-08,928213,508,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,42,10,1324,Butler,570,570,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401059,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-08,928213,509,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,52,42,10,1419,Georgetown,570,570,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,82
+2009-10,2009-12-08,928213,511,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,42,12,1419,Georgetown,562,562,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,83
+2009-10,2009-12-08,928213,524,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,42,12,1419,Georgetown,550,550,12,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,84
+2009-10,2009-12-08,928213,525,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,43,11,1324,Butler,550,550,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,84
+2009-10,2009-12-08,928213,526,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,44,10,1324,Butler,550,550,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,84
+2009-10,2009-12-08,928213,530,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,44,10,1324,Butler,542,542,8,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,85
+2009-10,2009-12-08,928213,533,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,44,10,1419,Georgetown,531,531,11,Offensive foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,85
+2009-10,2009-12-08,928213,541,0,2,Georgetown,Butler,Hoyas,Bulldogs,4,3,54,47,7,1324,Butler,518,518,13, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.5,18.25,477667,NA,NA,0,Butler,Georgetown,86
+2009-10,2009-12-08,928213,544,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,54,47,7,1419,Georgetown,509,509,9,Hoyas take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,547,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,54,47,7,1419,Georgetown,500,500,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,7.150000000000006,402392,NA,NA,0,Georgetown,Georgetown,87
+2009-10,2009-12-08,928213,548,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,54,47,7,1419,Georgetown,500,500,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,87
+2009-10,2009-12-08,928213,549,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,47,9,1419,Georgetown,493,493,7, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,24.8,6.650000000000006,513262,NA,NA,0,Georgetown,Butler,87
+2009-10,2009-12-08,928213,553,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,47,9,1419,Georgetown,484,484,9,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,88
+2009-10,2009-12-08,928213,554,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,48,8,1324,Butler,484,484,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,88
+2009-10,2009-12-08,928213,555,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1324,Butler,484,484,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,88
+2009-10,2009-12-08,928213,568,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,NA,NA,448,448,36,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,586,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1324,Butler,416,416,32, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8,7.35,477667,NA,NA,0,Butler,Butler,89
+2009-10,2009-12-08,928213,587,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1419,Georgetown,416,416,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,89
+2009-10,2009-12-08,928213,588,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1419,Georgetown,389,389,27, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.7,6.75,467468,NA,NA,0,Georgetown,Georgetown,90
+2009-10,2009-12-08,928213,589,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1324,Butler,389,389,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,90
+2009-10,2009-12-08,928213,591,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,56,49,7,1324,Butler,376,376,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,12.45,477667,NA,NA,0,Butler,Georgetown,91
+2009-10,2009-12-08,928213,601,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,49,9,1419,Georgetown,355,355,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467468,NA,NA,0,Georgetown,Butler,92
+2009-10,2009-12-08,928213,603,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,49,9,1419,Georgetown,340,340,15,Personal foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,93
+2009-10,2009-12-08,928213,604,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,50,8,1324,Butler,340,340,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,93
+2009-10,2009-12-08,928213,605,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,51,7,1324,Butler,340,340,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,93
+2009-10,2009-12-08,928213,607,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,51,7,1419,Georgetown,311,311,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402389,NA,NA,0,Georgetown,Georgetown,94
+2009-10,2009-12-08,928213,608,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,51,7,1419,Georgetown,311,311,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,94
+2009-10,2009-12-08,928213,609,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,51,7,1419,Georgetown,305,305,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467468,NA,NA,0,Georgetown,Georgetown,94
+2009-10,2009-12-08,928213,610,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,58,51,7,1419,Georgetown,305,305,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,94
+2009-10,2009-12-08,928213,611,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1419,Georgetown,299,299,6, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,25.2,7.150000000000006,467468,NA,NA,0,Georgetown,Butler,94
+2009-10,2009-12-08,928213,615,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1324,Butler,290,290,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,12.45,477667,NA,NA,0,Butler,Butler,95
+2009-10,2009-12-08,928213,616,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1419,Georgetown,290,290,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,95
+2009-10,2009-12-08,928213,618,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1324,Butler,289,289,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,96
+2009-10,2009-12-08,928213,627,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1419,Georgetown,255,255,34, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,22.650000000000006,467468,NA,NA,0,Georgetown,Georgetown,96
+2009-10,2009-12-08,928213,628,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1324,Butler,255,255,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,96
+2009-10,2009-12-08,928213,631,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,51,9,1419,Georgetown,243,243,12,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,97
+2009-10,2009-12-08,928213,632,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,52,8,1324,Butler,243,243,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,97
+2009-10,2009-12-08,928213,633,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,53,7,1324,Butler,243,243,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,97
+2009-10,2009-12-08,928213,643,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,53,7,1324,Butler,214,214,29,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,98
+2009-10,2009-12-08,928213,644,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,53,7,NA,NA,214,214,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,648,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,60,53,7,1324,Butler,199,199,15,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,98
+2009-10,2009-12-08,928213,649,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,61,53,8,1419,Georgetown,199,199,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,98
+2009-10,2009-12-08,928213,650,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1419,Georgetown,199,199,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,98
+2009-10,2009-12-08,928213,653,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1324,Butler,189,189,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330417,NA,NA,0,Butler,Butler,99
+2009-10,2009-12-08,928213,654,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1324,Butler,189,189,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,99
+2009-10,2009-12-08,928213,673,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1324,Butler,187,187,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330417,NA,NA,0,Butler,Butler,99
+2009-10,2009-12-08,928213,674,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1419,Georgetown,187,187,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,99
+2009-10,2009-12-08,928213,689,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,62,53,9,1324,Butler,173,173,14,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,100
+2009-10,2009-12-08,928213,691,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,53,10,1419,Georgetown,173,173,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,100
+2009-10,2009-12-08,928213,692,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,53,10,1419,Georgetown,173,173,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,100
+2009-10,2009-12-08,928213,693,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,53,10,1324,Butler,173,173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,100
+2009-10,2009-12-08,928213,703,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,53,10,1419,Georgetown,162,162,11,Shooting foul committed by Hoyas.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,101
+2009-10,2009-12-08,928213,704,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,53,10,1324,Butler,162,162,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,101
+2009-10,2009-12-08,928213,707,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,54,9,1324,Butler,162,162,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,101
+2009-10,2009-12-08,928213,708,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,55,8,1324,Butler,162,162,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,101
+2009-10,2009-12-08,928213,712,0,2,Georgetown,Butler,Hoyas,Bulldogs,3,3,63,55,8,1324,Butler,149,149,13,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,102
+2009-10,2009-12-08,928213,713,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1419,Georgetown,149,149,0,Hoyas take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,714,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1419,Georgetown,149,149,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,102
+2009-10,2009-12-08,928213,715,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1324,Butler,149,149,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,102
+2009-10,2009-12-08,928213,722,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1324,Butler,138,138,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477669,NA,NA,0,Butler,Butler,103
+2009-10,2009-12-08,928213,723,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1419,Georgetown,138,138,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,103
+2009-10,2009-12-08,928213,728,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,63,55,8,1324,Butler,135,135,3,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,104
+2009-10,2009-12-08,928213,729,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1419,Georgetown,135,135,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,104
+2009-10,2009-12-08,928213,730,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1419,Georgetown,135,135,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,104
+2009-10,2009-12-08,928213,731,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1324,Butler,135,135,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,104
+2009-10,2009-12-08,928213,738,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1324,Butler,128,128,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,105
+2009-10,2009-12-08,928213,739,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1419,Georgetown,128,128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,105
+2009-10,2009-12-08,928213,742,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1324,Butler,126,126,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,106
+2009-10,2009-12-08,928213,744,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,64,55,9,1419,Georgetown,126,126,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,106
+2009-10,2009-12-08,928213,747,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,55,10,1419,Georgetown,126,126,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,106
+2009-10,2009-12-08,928213,749,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,55,10,1324,Butler,120,120,6, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,11.45,477667,NA,NA,0,Butler,Butler,107
+2009-10,2009-12-08,928213,750,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,55,10,1324,Butler,120,120,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,107
+2009-10,2009-12-08,928213,751,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,57,8,1324,Butler,114,114,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Georgetown,107
+2009-10,2009-12-08,928213,752,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,57,8,1419,Georgetown,88,88,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402392,NA,NA,0,Georgetown,Georgetown,108
+2009-10,2009-12-08,928213,753,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,57,8,1324,Butler,88,88,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,108
+2009-10,2009-12-08,928213,754,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,59,6,1324,Butler,80,80,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477667,NA,NA,0,Butler,Georgetown,109
+2009-10,2009-12-08,928213,757,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,65,59,6,1324,Butler,63,63,17,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,110
+2009-10,2009-12-08,928213,758,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,66,59,7,1419,Georgetown,63,63,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,110
+2009-10,2009-12-08,928213,759,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,67,59,8,1419,Georgetown,63,63,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,110
+2009-10,2009-12-08,928213,761,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,3,67,62,5,1324,Butler,50,50,13, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,8.95,401057,NA,NA,0,Butler,Georgetown,111
+2009-10,2009-12-08,928213,770,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,67,62,5,1324,Butler,47,47,3,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,774,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,67,62,5,1324,Butler,46,46,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,112
+2009-10,2009-12-08,928213,775,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,67,62,5,1419,Georgetown,46,46,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,112
+2009-10,2009-12-08,928213,778,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1419,Georgetown,46,46,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,112
+2009-10,2009-12-08,928213,780,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1324,Butler,35,35,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,29.25,477669,NA,NA,0,Butler,Butler,113
+2009-10,2009-12-08,928213,781,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1324,Butler,35,35,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,113
+2009-10,2009-12-08,928213,801,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1324,Butler,28,28,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477669,NA,NA,0,Butler,Butler,113
+2009-10,2009-12-08,928213,802,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1419,Georgetown,28,28,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,113
+2009-10,2009-12-08,928213,820,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,68,62,6,1324,Butler,27,27,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,114
+2009-10,2009-12-08,928213,821,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,69,62,7,1419,Georgetown,27,27,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,114
+2009-10,2009-12-08,928213,822,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,70,62,8,1419,Georgetown,27,27,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,114
+2009-10,2009-12-08,928213,825,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,70,62,8,1324,Butler,17,17,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,15.35,477667,NA,NA,0,Butler,Butler,115
+2009-10,2009-12-08,928213,826,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,70,62,8,1419,Georgetown,17,17,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Georgetown,115
+2009-10,2009-12-08,928213,829,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,70,62,8,1324,Butler,17,17,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,116
+2009-10,2009-12-08,928213,830,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,71,62,9,1419,Georgetown,17,17,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,116
+2009-10,2009-12-08,928213,831,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,72,62,10,1419,Georgetown,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Butler,116
+2009-10,2009-12-08,928213,834,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,2,72,65,7,1324,Butler,6,6,11, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.3,16.45,477667,NA,NA,0,Butler,Georgetown,117
+2009-10,2009-12-08,928213,837,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,1,72,65,7,1324,Butler,6,6,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,863,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,1,72,65,7,NA,NA,0,0,6,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-08,928213,864,0,2,Georgetown,Butler,Hoyas,Bulldogs,2,1,72,65,7,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgetown,Georgetown,NA

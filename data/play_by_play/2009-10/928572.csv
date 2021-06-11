@@ -1,0 +1,274 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-27,928572,1,0,1,UTEP,Tulane,Miners,Green Wave,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UTEP,NA
+2009-10,2010-01-27,928572,4,0,1,UTEP,Tulane,Miners,Green Wave,4,4,0,0,0,1661,Tulane,2384,1184,16,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,1
+2009-10,2010-01-27,928572,5,0,1,UTEP,Tulane,Miners,Green Wave,4,4,1,0,1,1654,UTEP,2384,1184,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,1
+2009-10,2010-01-27,928572,6,0,1,UTEP,Tulane,Miners,Green Wave,4,4,2,0,2,1654,UTEP,2384,1184,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,1
+2009-10,2010-01-27,928572,8,0,1,UTEP,Tulane,Miners,Green Wave,4,4,2,0,2,1661,Tulane,2358,1158,26, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,39.2,15.85,399678,NA,NA,0,Tulane,UTEP,2
+2009-10,2010-01-27,928572,9,0,1,UTEP,Tulane,Miners,Green Wave,4,4,4,0,4,1654,UTEP,2352,1152,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,3
+2009-10,2010-01-27,928572,11,0,1,UTEP,Tulane,Miners,Green Wave,4,4,4,0,4,1654,UTEP,2328,1128,24,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,4
+2009-10,2010-01-27,928572,18,0,1,UTEP,Tulane,Miners,Green Wave,4,4,4,0,4,1661,Tulane,2323,1123,5, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38,6.95,399678,NA,NA,0,Tulane,UTEP,4
+2009-10,2010-01-27,928572,20,0,1,UTEP,Tulane,Miners,Green Wave,4,4,4,0,4,1661,Tulane,2319,1119,4,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,5
+2009-10,2010-01-27,928572,22,0,1,UTEP,Tulane,Miners,Green Wave,4,4,5,0,5,1654,UTEP,2319,1119,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,5
+2009-10,2010-01-27,928572,23,0,1,UTEP,Tulane,Miners,Green Wave,4,4,6,0,6,1654,UTEP,2319,1119,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,5
+2009-10,2010-01-27,928572,27,0,1,UTEP,Tulane,Miners,Green Wave,4,4,6,2,4,1661,Tulane,2302,1102,17, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,13,14.75,512092,NA,NA,0,Tulane,UTEP,6
+2009-10,2010-01-27,928572,28,0,1,UTEP,Tulane,Miners,Green Wave,4,4,6,2,4,1654,UTEP,2284,1084,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,10.849999999999994,458982,NA,NA,0,UTEP,Tulane,7
+2009-10,2010-01-27,928572,30,0,1,UTEP,Tulane,Miners,Green Wave,4,4,6,2,4,1654,UTEP,2276,1076,8,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,8
+2009-10,2010-01-27,928572,40,0,1,UTEP,Tulane,Miners,Green Wave,4,4,6,4,2,1661,Tulane,2254,1054,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458974,NA,NA,0,Tulane,UTEP,8
+2009-10,2010-01-27,928572,43,0,1,UTEP,Tulane,Miners,Green Wave,4,4,8,4,4,1654,UTEP,2230,1030,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,9
+2009-10,2010-01-27,928572,44,0,1,UTEP,Tulane,Miners,Green Wave,4,4,8,4,4,1661,Tulane,2208,1008,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512092,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-01-27,928572,45,0,1,UTEP,Tulane,Miners,Green Wave,4,4,8,4,4,1661,Tulane,2205,1005,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-01-27,928572,47,0,1,UTEP,Tulane,Miners,Green Wave,4,4,8,4,4,1661,Tulane,2202,1002,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-01-27,928572,48,0,1,UTEP,Tulane,Miners,Green Wave,4,4,8,4,4,1654,UTEP,2202,1002,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,49,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,4,4,1654,UTEP,2202,1002,0,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,52,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,4,4,1654,UTEP,2198,998,4,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-01-27,928572,55,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,4,4,1661,Tulane,2190,990,8, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,12.45,399678,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-01-27,928572,58,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,4,4,1661,Tulane,2189,989,1,Offensive foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,10
+2009-10,2010-01-27,928572,59,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,4,4,1654,UTEP,2186,986,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29,10.450000000000003,458982,NA,NA,0,UTEP,Tulane,11
+2009-10,2010-01-27,928572,60,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,6,2,1661,Tulane,2181,981,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,UTEP,12
+2009-10,2010-01-27,928572,63,0,1,UTEP,Tulane,Miners,Green Wave,3,4,8,6,2,1654,UTEP,2163,963,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,30.35,399793,NA,NA,0,UTEP,Tulane,13
+2009-10,2010-01-27,928572,75,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1661,Tulane,2140,940,23,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,86,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1654,UTEP,2140,940,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,90,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1654,UTEP,2137,937,3,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,14
+2009-10,2010-01-27,928572,91,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,NA,NA,2137,937,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,100,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1661,Tulane,2115,915,22,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,14
+2009-10,2010-01-27,928572,101,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1654,UTEP,2115,915,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,106,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,6,2,1661,Tulane,2105,905,10, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,12.25,512092,NA,NA,0,Tulane,Tulane,14
+2009-10,2010-01-27,928572,107,0,1,UTEP,Tulane,Miners,Green Wave,3,3,8,8,0,1661,Tulane,2102,902,3, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.3,8.55,332680,NA,NA,0,Tulane,UTEP,14
+2009-10,2010-01-27,928572,109,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,8,3,1654,UTEP,2082,882,20, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,28.5,29.049999999999997,330051,NA,NA,0,UTEP,Tulane,15
+2009-10,2010-01-27,928572,111,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,8,3,1661,Tulane,2076,876,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,127,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,8,3,1654,UTEP,2034,834,42, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12,15.549999999999997,330051,NA,NA,0,UTEP,Tulane,16
+2009-10,2010-01-27,928572,128,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,11,0,1661,Tulane,2021,821,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,4.699999999999999,15.35,301792,NA,NA,0,Tulane,UTEP,17
+2009-10,2010-01-27,928572,129,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,11,0,1654,UTEP,1999,799,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.799999999999997,21.849999999999994,399800,NA,NA,0,UTEP,Tulane,18
+2009-10,2010-01-27,928572,130,0,1,UTEP,Tulane,Miners,Green Wave,3,3,11,11,0,1661,Tulane,1986,786,13, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,12.65,332680,NA,NA,0,Tulane,UTEP,19
+2009-10,2010-01-27,928572,131,0,1,UTEP,Tulane,Miners,Green Wave,3,3,13,11,2,1654,UTEP,1981,781,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Tulane,20
+2009-10,2010-01-27,928572,136,0,1,UTEP,Tulane,Miners,Green Wave,3,3,13,11,2,1661,Tulane,1956,756,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.7,24.75,512092,NA,NA,0,Tulane,Tulane,21
+2009-10,2010-01-27,928572,137,0,1,UTEP,Tulane,Miners,Green Wave,3,3,13,13,0,1661,Tulane,1951,751,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UTEP,21
+2009-10,2010-01-27,928572,138,0,1,UTEP,Tulane,Miners,Green Wave,3,3,15,13,2,1654,UTEP,1934,734,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329549,NA,NA,0,UTEP,Tulane,22
+2009-10,2010-01-27,928572,139,0,1,UTEP,Tulane,Miners,Green Wave,3,3,15,13,2,1661,Tulane,1922,722,12, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,22.3,30.75,301792,NA,NA,0,Tulane,UTEP,23
+2009-10,2010-01-27,928572,145,0,1,UTEP,Tulane,Miners,Green Wave,3,3,15,13,2,NA,NA,1907,707,15,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,152,0,1,UTEP,Tulane,Miners,Green Wave,3,3,17,13,4,1654,UTEP,1898,698,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330051,NA,NA,0,UTEP,Tulane,24
+2009-10,2010-01-27,928572,154,0,1,UTEP,Tulane,Miners,Green Wave,3,3,17,13,4,1661,Tulane,1879,679,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17,12.95,330028,NA,NA,0,Tulane,UTEP,25
+2009-10,2010-01-27,928572,157,0,1,UTEP,Tulane,Miners,Green Wave,3,3,17,13,4,1654,UTEP,1866,666,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,15.650000000000006,399793,NA,NA,0,UTEP,Tulane,26
+2009-10,2010-01-27,928572,158,0,1,UTEP,Tulane,Miners,Green Wave,3,3,17,15,2,1661,Tulane,1852,652,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399678,NA,NA,0,Tulane,UTEP,27
+2009-10,2010-01-27,928572,161,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,15,4,1654,UTEP,1832,632,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411497,NA,NA,0,UTEP,Tulane,28
+2009-10,2010-01-27,928572,162,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1815,615,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458973,NA,NA,0,Tulane,UTEP,29
+2009-10,2010-01-27,928572,164,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1809,609,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,167,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1654,UTEP,1790,590,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,20.549999999999997,330051,NA,NA,0,UTEP,Tulane,30
+2009-10,2010-01-27,928572,170,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1773,573,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,171,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1773,573,0,Offensive foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,31
+2009-10,2010-01-27,928572,174,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1654,UTEP,1756,556,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,14.549999999999997,399800,NA,NA,0,UTEP,Tulane,32
+2009-10,2010-01-27,928572,176,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1654,UTEP,1749,549,7,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,33
+2009-10,2010-01-27,928572,181,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1734,534,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,21.65,458973,NA,NA,0,Tulane,UTEP,33
+2009-10,2010-01-27,928572,183,0,1,UTEP,Tulane,Miners,Green Wave,3,3,19,17,2,1661,Tulane,1724,524,10,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,34
+2009-10,2010-01-27,928572,184,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,17,3,1654,UTEP,1724,524,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,34
+2009-10,2010-01-27,928572,185,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,17,3,1654,UTEP,1724,524,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,34
+2009-10,2010-01-27,928572,188,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,17,3,1654,UTEP,1709,509,15,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,34
+2009-10,2010-01-27,928572,191,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,1661,Tulane,1701,501,8, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,11.8,19.15,399678,NA,NA,0,Tulane,UTEP,35
+2009-10,2010-01-27,928572,196,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,1661,Tulane,1674,474,27,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,36
+2009-10,2010-01-27,928572,197,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,NA,NA,1674,474,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,199,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,1661,Tulane,1674,474,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,200,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,1654,UTEP,1674,474,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,36
+2009-10,2010-01-27,928572,202,0,1,UTEP,Tulane,Miners,Green Wave,3,3,20,19,1,1661,Tulane,1656,456,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,6.25,525093,NA,NA,0,Tulane,UTEP,37
+2009-10,2010-01-27,928572,203,0,1,UTEP,Tulane,Miners,Green Wave,3,3,23,19,4,1654,UTEP,1640,440,16, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,43.7,16.650000000000006,330051,NA,NA,0,UTEP,Tulane,38
+2009-10,2010-01-27,928572,204,0,1,UTEP,Tulane,Miners,Green Wave,3,3,23,19,4,1661,Tulane,1621,421,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,525093,NA,NA,0,Tulane,Tulane,39
+2009-10,2010-01-27,928572,205,0,1,UTEP,Tulane,Miners,Green Wave,3,3,23,21,2,1661,Tulane,1618,418,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,487636,NA,NA,0,Tulane,UTEP,39
+2009-10,2010-01-27,928572,206,0,1,UTEP,Tulane,Miners,Green Wave,3,3,23,21,2,1654,UTEP,1603,403,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,16.049999999999997,329549,NA,NA,0,UTEP,UTEP,40
+2009-10,2010-01-27,928572,207,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1654,UTEP,1598,398,5, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.3,30.35,330051,NA,NA,0,UTEP,Tulane,40
+2009-10,2010-01-27,928572,209,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1661,Tulane,1563,363,35,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,211,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1661,Tulane,1559,359,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,5.05,525093,NA,NA,0,Tulane,UTEP,41
+2009-10,2010-01-27,928572,212,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1654,UTEP,1550,350,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,21.349999999999994,329549,NA,NA,0,UTEP,Tulane,42
+2009-10,2010-01-27,928572,214,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1661,Tulane,1538,338,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,218,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1661,Tulane,1531,331,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399678,NA,NA,0,Tulane,UTEP,43
+2009-10,2010-01-27,928572,222,0,1,UTEP,Tulane,Miners,Green Wave,3,3,26,21,5,1661,Tulane,1516,316,15,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,44
+2009-10,2010-01-27,928572,223,0,1,UTEP,Tulane,Miners,Green Wave,3,3,27,21,6,1654,UTEP,1516,316,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,44
+2009-10,2010-01-27,928572,224,0,1,UTEP,Tulane,Miners,Green Wave,3,3,27,21,6,1661,Tulane,1516,316,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,225,0,1,UTEP,Tulane,Miners,Green Wave,3,3,27,21,6,1661,Tulane,1516,316,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,226,0,1,UTEP,Tulane,Miners,Green Wave,3,3,28,21,7,1654,UTEP,1516,316,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,45
+2009-10,2010-01-27,928572,233,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1654,UTEP,1500,300,16, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,35.8,13.75,329549,NA,NA,0,UTEP,Tulane,46
+2009-10,2010-01-27,928572,234,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1661,Tulane,1485,285,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,18.75,330027,NA,NA,0,Tulane,Tulane,47
+2009-10,2010-01-27,928572,236,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1654,UTEP,1480,280,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,238,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1661,Tulane,1478,278,2, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,21.35,399678,NA,NA,0,Tulane,UTEP,47
+2009-10,2010-01-27,928572,239,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1654,UTEP,1472,272,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,12.450000000000003,411497,NA,NA,0,UTEP,Tulane,48
+2009-10,2010-01-27,928572,240,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1661,Tulane,1450,250,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,15.85,525093,NA,NA,0,Tulane,UTEP,49
+2009-10,2010-01-27,928572,242,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1661,Tulane,1446,246,4,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,50
+2009-10,2010-01-27,928572,243,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1654,UTEP,1446,246,0,Technical foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,50
+2009-10,2010-01-27,928572,244,0,1,UTEP,Tulane,Miners,Green Wave,3,3,30,21,9,1654,UTEP,1446,246,0,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,51
+2009-10,2010-01-27,928572,245,0,1,UTEP,Tulane,Miners,Green Wave,3,3,31,21,10,1654,UTEP,1446,246,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,51
+2009-10,2010-01-27,928572,246,0,1,UTEP,Tulane,Miners,Green Wave,3,3,32,21,11,1654,UTEP,1446,246,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,51
+2009-10,2010-01-27,928572,248,0,1,UTEP,Tulane,Miners,Green Wave,3,3,32,21,11,1654,UTEP,1444,244,2, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,20.150000000000006,399800,NA,NA,0,UTEP,UTEP,52
+2009-10,2010-01-27,928572,251,0,1,UTEP,Tulane,Miners,Green Wave,3,3,34,21,13,1654,UTEP,1430,230,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399800,NA,NA,0,UTEP,Tulane,52
+2009-10,2010-01-27,928572,254,0,1,UTEP,Tulane,Miners,Green Wave,3,2,34,21,13,1661,Tulane,1429,229,1,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,258,0,1,UTEP,Tulane,Miners,Green Wave,3,2,34,21,13,1661,Tulane,1418,218,11, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,4.85,399678,NA,NA,0,Tulane,Tulane,53
+2009-10,2010-01-27,928572,259,0,1,UTEP,Tulane,Miners,Green Wave,3,2,34,23,11,1661,Tulane,1391,191,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UTEP,53
+2009-10,2010-01-27,928572,265,0,1,UTEP,Tulane,Miners,Green Wave,3,2,34,23,11,1654,UTEP,1366,166,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,18.25,330051,NA,NA,0,UTEP,Tulane,54
+2009-10,2010-01-27,928572,266,0,1,UTEP,Tulane,Miners,Green Wave,3,2,34,23,11,1661,Tulane,1304,104,62, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,18.55,487636,NA,NA,0,Tulane,UTEP,55
+2009-10,2010-01-27,928572,271,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1654,UTEP,1280,80,24, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,43.7,15.150000000000006,411497,NA,NA,0,UTEP,Tulane,56
+2009-10,2010-01-27,928572,272,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1661,Tulane,1264,64,16, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34,9.35,512092,NA,NA,0,Tulane,UTEP,57
+2009-10,2010-01-27,928572,278,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1661,Tulane,1255,55,9,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,58
+2009-10,2010-01-27,928572,279,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,NA,NA,1255,55,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,280,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1661,Tulane,1255,55,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,281,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1661,Tulane,1255,55,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,282,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1654,UTEP,1255,55,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,283.5,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1654,UTEP,1255,55,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,58
+2009-10,2010-01-27,928572,284,0,1,UTEP,Tulane,Miners,Green Wave,3,2,37,23,14,1654,UTEP,1255,55,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,58
+2009-10,2010-01-27,928572,303,0,1,UTEP,Tulane,Miners,Green Wave,2,2,37,23,14,1654,UTEP,1235,35,20,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,313,0,1,UTEP,Tulane,Miners,Green Wave,2,2,37,23,14,NA,NA,1200,0,35,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,314,0,2,UTEP,Tulane,Miners,Green Wave,4,4,37,23,14,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UTEP,58
+2009-10,2010-01-27,928572,316,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,23,16,1654,UTEP,1190,1190,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329549,NA,NA,0,UTEP,Tulane,59
+2009-10,2010-01-27,928572,317,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,23,16,1661,Tulane,1166,1166,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Tulane,60
+2009-10,2010-01-27,928572,318,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,23,16,1661,Tulane,1163,1163,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Tulane,60
+2009-10,2010-01-27,928572,319,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,23,16,1661,Tulane,1160,1160,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Tulane,60
+2009-10,2010-01-27,928572,320,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,25,14,1661,Tulane,1157,1157,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,UTEP,60
+2009-10,2010-01-27,928572,321,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,25,14,1654,UTEP,1136,1136,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38,4.849999999999994,458982,NA,NA,0,UTEP,Tulane,61
+2009-10,2010-01-27,928572,322,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,25,14,1661,Tulane,1128,1128,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,16.05,512092,NA,NA,0,Tulane,UTEP,62
+2009-10,2010-01-27,928572,327,0,2,UTEP,Tulane,Miners,Green Wave,4,4,39,25,14,1661,Tulane,1104,1104,24,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,63
+2009-10,2010-01-27,928572,328,0,2,UTEP,Tulane,Miners,Green Wave,4,4,40,25,15,1654,UTEP,1104,1104,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,63
+2009-10,2010-01-27,928572,329,0,2,UTEP,Tulane,Miners,Green Wave,4,4,41,25,16,1654,UTEP,1104,1104,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,63
+2009-10,2010-01-27,928572,332,0,2,UTEP,Tulane,Miners,Green Wave,4,4,41,25,16,1654,UTEP,1090,1090,14,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,64
+2009-10,2010-01-27,928572,333,0,2,UTEP,Tulane,Miners,Green Wave,4,4,41,25,16,1661,Tulane,1090,1090,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,64
+2009-10,2010-01-27,928572,334,0,2,UTEP,Tulane,Miners,Green Wave,4,4,41,26,15,1661,Tulane,1090,1090,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,64
+2009-10,2010-01-27,928572,336,0,2,UTEP,Tulane,Miners,Green Wave,4,4,43,26,17,1654,UTEP,1073,1073,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458982,NA,NA,0,UTEP,Tulane,65
+2009-10,2010-01-27,928572,340,0,2,UTEP,Tulane,Miners,Green Wave,4,4,43,26,17,1661,Tulane,1064,1064,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,342,0,2,UTEP,Tulane,Miners,Green Wave,4,4,45,26,19,1654,UTEP,1056,1056,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,66
+2009-10,2010-01-27,928572,350,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,26,21,1654,UTEP,1033,1033,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,67
+2009-10,2010-01-27,928572,351,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,28,19,1661,Tulane,1020,1020,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399678,NA,NA,0,Tulane,UTEP,68
+2009-10,2010-01-27,928572,353,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,28,19,1654,UTEP,1008,1008,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,17.849999999999994,458982,NA,NA,0,UTEP,Tulane,69
+2009-10,2010-01-27,928572,354,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,28,19,1654,UTEP,1008,1008,0,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,70
+2009-10,2010-01-27,928572,355,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,28,19,1654,UTEP,1008,1008,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,360,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,30,17,1661,Tulane,983,983,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,UTEP,70
+2009-10,2010-01-27,928572,361,0,2,UTEP,Tulane,Miners,Green Wave,4,4,47,30,17,1654,UTEP,965,965,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,20.549999999999997,399793,NA,NA,0,UTEP,UTEP,71
+2009-10,2010-01-27,928572,362,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1654,UTEP,962,962,3, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458982,NA,NA,0,UTEP,Tulane,71
+2009-10,2010-01-27,928572,370,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1654,UTEP,933,933,29,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,72
+2009-10,2010-01-27,928572,371,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,NA,NA,933,933,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,373,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1654,UTEP,932,932,1,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,72
+2009-10,2010-01-27,928572,376,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1661,Tulane,930,930,2,Offensive foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,72
+2009-10,2010-01-27,928572,377,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1661,Tulane,930,930,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,378,0,2,UTEP,Tulane,Miners,Green Wave,4,4,49,30,19,1654,UTEP,930,930,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,382,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,30,22,1654,UTEP,926,926,4, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,34,27.150000000000006,330051,NA,NA,0,UTEP,Tulane,73
+2009-10,2010-01-27,928572,383,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,32,20,1661,Tulane,905,905,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458974,NA,NA,0,Tulane,UTEP,74
+2009-10,2010-01-27,928572,399,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,32,20,1661,Tulane,856,856,49, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,26.35,399678,NA,NA,0,Tulane,Tulane,75
+2009-10,2010-01-27,928572,401,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,34,18,1661,Tulane,851,851,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,UTEP,75
+2009-10,2010-01-27,928572,403,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,34,18,NA,NA,848,848,3,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,408,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,34,18,1661,Tulane,831,831,17,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,76
+2009-10,2010-01-27,928572,409,0,2,UTEP,Tulane,Miners,Green Wave,4,4,52,34,18,1654,UTEP,831,831,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,410,0,2,UTEP,Tulane,Miners,Green Wave,4,4,53,34,19,1654,UTEP,831,831,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,76
+2009-10,2010-01-27,928572,411,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,34,20,1654,UTEP,831,831,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,76
+2009-10,2010-01-27,928572,421,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,34,20,1654,UTEP,814,814,17,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,424,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,34,20,1654,UTEP,811,811,3,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,425,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1661,Tulane,811,811,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,426,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1654,UTEP,811,811,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,427,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1661,Tulane,811,811,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,430,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1654,UTEP,790,790,21,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,433,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1661,Tulane,778,778,12, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,14.95,458973,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,435,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1661,Tulane,775,775,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,487636,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,437,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,35,19,1654,UTEP,767,767,8,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,77
+2009-10,2010-01-27,928572,438,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,36,18,1661,Tulane,767,767,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,77
+2009-10,2010-01-27,928572,439,0,2,UTEP,Tulane,Miners,Green Wave,4,4,54,36,18,1661,Tulane,767,767,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,78
+2009-10,2010-01-27,928572,441,0,2,UTEP,Tulane,Miners,Green Wave,4,4,56,36,20,1654,UTEP,758,758,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329549,NA,NA,0,UTEP,Tulane,79
+2009-10,2010-01-27,928572,443,0,2,UTEP,Tulane,Miners,Green Wave,4,4,56,38,18,1661,Tulane,744,744,14, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,24,19.35,399678,NA,NA,0,Tulane,UTEP,80
+2009-10,2010-01-27,928572,445,0,2,UTEP,Tulane,Miners,Green Wave,4,4,58,38,20,1654,UTEP,725,725,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Tulane,81
+2009-10,2010-01-27,928572,449,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1661,Tulane,716,716,9,Green Wave take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,451,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1661,Tulane,702,702,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,13.35,458973,NA,NA,0,Tulane,UTEP,82
+2009-10,2010-01-27,928572,452,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1654,UTEP,694,694,8, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,4.25,329549,NA,NA,0,UTEP,Tulane,83
+2009-10,2010-01-27,928572,457,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1654,UTEP,685,685,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,458,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1654,UTEP,685,685,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,459,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,1654,UTEP,685,685,0,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,84
+2009-10,2010-01-27,928572,460,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,38,20,NA,NA,685,685,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,461,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1661,Tulane,685,685,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,84
+2009-10,2010-01-27,928572,462,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1661,Tulane,685,685,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,85
+2009-10,2010-01-27,928572,466,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1654,UTEP,678,678,7,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,86
+2009-10,2010-01-27,928572,470,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1661,Tulane,663,663,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,471,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1661,Tulane,663,663,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,475,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1654,UTEP,656,656,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,10.049999999999997,458982,NA,NA,0,UTEP,Tulane,87
+2009-10,2010-01-27,928572,476,0,2,UTEP,Tulane,Miners,Green Wave,4,3,58,39,19,1661,Tulane,642,642,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23,12.45,458974,NA,NA,0,Tulane,UTEP,88
+2009-10,2010-01-27,928572,477,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,39,21,1654,UTEP,635,635,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Tulane,89
+2009-10,2010-01-27,928572,478,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,618,618,17, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,8.7,19.75,332680,NA,NA,0,Tulane,UTEP,90
+2009-10,2010-01-27,928572,484,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,597,597,21,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,91
+2009-10,2010-01-27,928572,485,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,597,597,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,486,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,597,597,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,487,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,597,597,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,91
+2009-10,2010-01-27,928572,488,0,2,UTEP,Tulane,Miners,Green Wave,4,3,60,42,18,1661,Tulane,597,597,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,490,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1654,UTEP,595,595,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399793,NA,NA,0,UTEP,Tulane,91
+2009-10,2010-01-27,928572,491,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1661,Tulane,578,578,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512092,NA,NA,0,Tulane,UTEP,92
+2009-10,2010-01-27,928572,493,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1661,Tulane,569,569,9,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,93
+2009-10,2010-01-27,928572,495,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1654,UTEP,567,567,2, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,6.450000000000003,330051,NA,NA,0,UTEP,Tulane,93
+2009-10,2010-01-27,928572,497,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1661,Tulane,562,562,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,499,0,2,UTEP,Tulane,Miners,Green Wave,4,3,62,42,20,1661,Tulane,549,549,13, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,10.45,330027,NA,NA,0,Tulane,UTEP,94
+2009-10,2010-01-27,928572,500,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,42,22,1654,UTEP,536,536,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330051,NA,NA,0,UTEP,Tulane,95
+2009-10,2010-01-27,928572,505,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,42,22,1654,UTEP,518,518,18,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,96
+2009-10,2010-01-27,928572,506,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,43,21,1661,Tulane,518,518,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,96
+2009-10,2010-01-27,928572,507,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,44,20,1661,Tulane,518,518,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,96
+2009-10,2010-01-27,928572,516,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,44,20,1654,UTEP,506,506,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,518.5,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,44,20,1654,UTEP,506,506,0,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,97
+2009-10,2010-01-27,928572,520,0,2,UTEP,Tulane,Miners,Green Wave,4,3,64,46,18,1661,Tulane,499,499,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UTEP,98
+2009-10,2010-01-27,928572,528,0,2,UTEP,Tulane,Miners,Green Wave,3,3,64,46,18,1654,UTEP,490,490,9,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,534,0,2,UTEP,Tulane,Miners,Green Wave,3,3,64,46,18,1661,Tulane,484,484,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,19.15,330027,NA,NA,0,Tulane,UTEP,99
+2009-10,2010-01-27,928572,535,0,2,UTEP,Tulane,Miners,Green Wave,3,3,64,46,18,1661,Tulane,482,482,2,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,100
+2009-10,2010-01-27,928572,536,0,2,UTEP,Tulane,Miners,Green Wave,3,3,64,46,18,1654,UTEP,482,482,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,537,0,2,UTEP,Tulane,Miners,Green Wave,3,3,65,46,19,1654,UTEP,482,482,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,100
+2009-10,2010-01-27,928572,538,0,2,UTEP,Tulane,Miners,Green Wave,3,3,66,46,20,1654,UTEP,482,482,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,101
+2009-10,2010-01-27,928572,540,0,2,UTEP,Tulane,Miners,Green Wave,3,3,66,48,18,1661,Tulane,477,477,5, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,11,18.75,399678,NA,NA,0,Tulane,UTEP,102
+2009-10,2010-01-27,928572,544,0,2,UTEP,Tulane,Miners,Green Wave,3,3,66,48,18,1654,UTEP,462,462,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399793,NA,NA,0,UTEP,UTEP,103
+2009-10,2010-01-27,928572,545,0,2,UTEP,Tulane,Miners,Green Wave,3,3,68,48,20,1654,UTEP,453,453,9, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.7,9.650000000000006,330051,NA,NA,0,UTEP,Tulane,103
+2009-10,2010-01-27,928572,546,0,2,UTEP,Tulane,Miners,Green Wave,3,3,68,50,18,1661,Tulane,437,437,16, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,24,11.65,330027,NA,NA,0,Tulane,UTEP,104
+2009-10,2010-01-27,928572,548,0,2,UTEP,Tulane,Miners,Green Wave,3,3,68,50,18,1654,UTEP,425,425,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,5.650000000000006,330051,NA,NA,0,UTEP,UTEP,105
+2009-10,2010-01-27,928572,550,0,2,UTEP,Tulane,Miners,Green Wave,3,3,68,50,18,1661,Tulane,425,425,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,105
+2009-10,2010-01-27,928572,551,0,2,UTEP,Tulane,Miners,Green Wave,3,3,68,50,18,NA,NA,425,425,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,552,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,50,19,1654,UTEP,425,425,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,105
+2009-10,2010-01-27,928572,553,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,50,19,1654,UTEP,425,425,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,106
+2009-10,2010-01-27,928572,557,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,50,19,1654,UTEP,411,411,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,1.5,6.450000000000003,399793,NA,NA,0,UTEP,Tulane,106
+2009-10,2010-01-27,928572,558,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,52,17,1661,Tulane,400,400,11, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,9.8,16.85,399678,NA,NA,0,Tulane,UTEP,107
+2009-10,2010-01-27,928572,559,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,52,17,1654,UTEP,369,369,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,21.849999999999994,399800,NA,NA,0,UTEP,Tulane,108
+2009-10,2010-01-27,928572,560,0,2,UTEP,Tulane,Miners,Green Wave,3,3,69,54,15,1661,Tulane,360,360,9, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,14.3,14.95,399678,NA,NA,0,Tulane,UTEP,109
+2009-10,2010-01-27,928572,562,0,2,UTEP,Tulane,Miners,Green Wave,2,3,69,54,15,1654,UTEP,355,355,5,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,567,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,54,17,1654,UTEP,345,345,10, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.5,12.950000000000003,330051,NA,NA,0,UTEP,Tulane,110
+2009-10,2010-01-27,928572,568,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,54,17,1661,Tulane,324,324,21, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,17.05,330027,NA,NA,0,Tulane,Tulane,111
+2009-10,2010-01-27,928572,570,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,54,17,1654,UTEP,318,318,6,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,111
+2009-10,2010-01-27,928572,572,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,55,16,1661,Tulane,318,318,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,111
+2009-10,2010-01-27,928572,573,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,56,15,1661,Tulane,318,318,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,111
+2009-10,2010-01-27,928572,584,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,56,15,1654,UTEP,307,307,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,589,0,2,UTEP,Tulane,Miners,Green Wave,2,3,71,56,15,1661,Tulane,294,294,13,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,112
+2009-10,2010-01-27,928572,590,0,2,UTEP,Tulane,Miners,Green Wave,2,3,72,56,16,1654,UTEP,294,294,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,112
+2009-10,2010-01-27,928572,591,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,56,17,1654,UTEP,294,294,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,112
+2009-10,2010-01-27,928572,592,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,56,17,1654,UTEP,294,294,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,594,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,58,15,1661,Tulane,288,288,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399678,NA,NA,0,Tulane,UTEP,113
+2009-10,2010-01-27,928572,595,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,58,15,1654,UTEP,272,272,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399793,NA,NA,0,UTEP,Tulane,114
+2009-10,2010-01-27,928572,597,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,60,13,1661,Tulane,260,260,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330027,NA,NA,0,Tulane,UTEP,115
+2009-10,2010-01-27,928572,603,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,60,13,1654,UTEP,250,250,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,612,0,2,UTEP,Tulane,Miners,Green Wave,2,3,73,60,13,1661,Tulane,241,241,9,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,116
+2009-10,2010-01-27,928572,613,0,2,UTEP,Tulane,Miners,Green Wave,2,3,74,60,14,1654,UTEP,241,241,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,116
+2009-10,2010-01-27,928572,614,0,2,UTEP,Tulane,Miners,Green Wave,2,3,74,60,14,1654,UTEP,241,241,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,615,0,2,UTEP,Tulane,Miners,Green Wave,2,3,75,60,15,1654,UTEP,241,241,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,116
+2009-10,2010-01-27,928572,618,0,2,UTEP,Tulane,Miners,Green Wave,2,3,75,60,15,1661,Tulane,234,234,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.3,23.25,330027,NA,NA,0,Tulane,UTEP,117
+2009-10,2010-01-27,928572,624,0,2,UTEP,Tulane,Miners,Green Wave,2,3,75,60,15,NA,NA,228,228,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,627,0,2,UTEP,Tulane,Miners,Green Wave,2,3,75,60,15,1654,UTEP,208,208,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,21.150000000000006,330051,NA,NA,0,UTEP,Tulane,118
+2009-10,2010-01-27,928572,628,0,2,UTEP,Tulane,Miners,Green Wave,2,3,75,62,13,1661,Tulane,199,199,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512092,NA,NA,0,Tulane,UTEP,119
+2009-10,2010-01-27,928572,629,0,2,UTEP,Tulane,Miners,Green Wave,2,3,77,62,15,1654,UTEP,185,185,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,120
+2009-10,2010-01-27,928572,631,0,2,UTEP,Tulane,Miners,Green Wave,2,3,77,62,15,1654,UTEP,168,168,17,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,121
+2009-10,2010-01-27,928572,632,0,2,UTEP,Tulane,Miners,Green Wave,2,3,77,63,14,1661,Tulane,168,168,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,121
+2009-10,2010-01-27,928572,633,0,2,UTEP,Tulane,Miners,Green Wave,2,3,77,64,13,1661,Tulane,168,168,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,UTEP,121
+2009-10,2010-01-27,928572,637,0,2,UTEP,Tulane,Miners,Green Wave,2,3,79,64,15,1654,UTEP,150,150,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399791,NA,NA,0,UTEP,Tulane,122
+2009-10,2010-01-27,928572,638,0,2,UTEP,Tulane,Miners,Green Wave,2,3,79,64,15,1661,Tulane,139,139,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,17.85,399678,NA,NA,0,Tulane,Tulane,123
+2009-10,2010-01-27,928572,639,0,2,UTEP,Tulane,Miners,Green Wave,2,3,79,66,13,1661,Tulane,137,137,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,UTEP,123
+2009-10,2010-01-27,928572,641,0,2,UTEP,Tulane,Miners,Green Wave,2,3,79,66,13,1654,UTEP,133,133,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,651,0,2,UTEP,Tulane,Miners,Green Wave,2,3,81,66,15,1654,UTEP,102,102,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329549,NA,NA,0,UTEP,Tulane,124
+2009-10,2010-01-27,928572,653,0,2,UTEP,Tulane,Miners,Green Wave,2,3,81,66,15,1661,Tulane,86,86,16, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,458974,NA,NA,0,Tulane,Tulane,125
+2009-10,2010-01-27,928572,656,0,2,UTEP,Tulane,Miners,Green Wave,2,3,81,69,12,1661,Tulane,82,82,4, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.699999999999999,16.05,512092,NA,NA,0,Tulane,UTEP,125
+2009-10,2010-01-27,928572,657,0,2,UTEP,Tulane,Miners,Green Wave,2,2,81,69,12,1661,Tulane,81,81,1,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,662,0,2,UTEP,Tulane,Miners,Green Wave,2,2,81,69,12,1661,Tulane,67,67,14,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,126
+2009-10,2010-01-27,928572,663,0,2,UTEP,Tulane,Miners,Green Wave,2,2,81,69,12,1654,UTEP,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,664,0,2,UTEP,Tulane,Miners,Green Wave,2,2,81,69,12,1661,Tulane,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-27,928572,665,0,2,UTEP,Tulane,Miners,Green Wave,2,2,81,69,12,1654,UTEP,67,67,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,126
+2009-10,2010-01-27,928572,666,0,2,UTEP,Tulane,Miners,Green Wave,2,2,82,69,13,1654,UTEP,67,67,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,126
+2009-10,2010-01-27,928572,675,0,2,UTEP,Tulane,Miners,Green Wave,2,2,82,69,13,1654,UTEP,52,52,15,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,127
+2009-10,2010-01-27,928572,676,0,2,UTEP,Tulane,Miners,Green Wave,2,2,82,69,13,1661,Tulane,52,52,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,127
+2009-10,2010-01-27,928572,677,0,2,UTEP,Tulane,Miners,Green Wave,2,2,82,69,13,1661,Tulane,52,52,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,127
+2009-10,2010-01-27,928572,679,0,2,UTEP,Tulane,Miners,Green Wave,2,2,82,69,13,1661,Tulane,46,46,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512092,NA,NA,0,Tulane,UTEP,127
+2009-10,2010-01-27,928572,681,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,69,15,1654,UTEP,40,40,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Tulane,128
+2009-10,2010-01-27,928572,685,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,1661,Tulane,31,31,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330027,NA,NA,0,Tulane,UTEP,129
+2009-10,2010-01-27,928572,690,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,1661,Tulane,30,30,1,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,130
+2009-10,2010-01-27,928572,692,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,1654,UTEP,30,30,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,130
+2009-10,2010-01-27,928572,693,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,1654,UTEP,30,30,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Tulane,130
+2009-10,2010-01-27,928572,696,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,1661,Tulane,26,26,4, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25,31.35,399678,NA,NA,0,Tulane,NA,131
+2009-10,2010-01-27,928572,704,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,NA,NA,0,0,26,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,928572,705,0,2,UTEP,Tulane,Miners,Green Wave,2,2,84,71,13,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,NA

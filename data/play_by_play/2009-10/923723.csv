@@ -1,0 +1,226 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-28,923723,1,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,NA
+2009-10,2010-02-28,923723,17,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,1446,Indiana,2384,1184,16,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,1
+2009-10,2010-02-28,923723,23,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,1449,Iowa,2379,1179,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,1
+2009-10,2010-02-28,923723,34,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,1446,Indiana,2366,1166,13, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,20,18.05,515371,NA,NA,0,Indiana,Indiana,1
+2009-10,2010-02-28,923723,38,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,1446,Indiana,2351,1151,15, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,15.3,17.05,515356,NA,NA,0,Indiana,Iowa,1
+2009-10,2010-02-28,923723,45,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,0,0,0,1449,Iowa,2345,1145,6, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,7.150000000000006,506036,NA,NA,0,Iowa,Iowa,2
+2009-10,2010-02-28,923723,46,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,2,0,2,1449,Iowa,2345,1145,0, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,28.2,6.25,402413,NA,NA,0,Iowa,Indiana,2
+2009-10,2010-02-28,923723,50,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,2,0,2,1446,Indiana,2345,1145,0,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,3
+2009-10,2010-02-28,923723,65,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,2,0,2,1449,Iowa,2345,1145,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,3
+2009-10,2010-02-28,923723,68,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,2,0,2,1449,Iowa,2340,1140,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,4
+2009-10,2010-02-28,923723,99,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,2,0,2,1446,Indiana,2301,1101,39,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,4
+2009-10,2010-02-28,923723,100,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,3,0,3,1449,Iowa,2301,1101,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,4
+2009-10,2010-02-28,923723,101,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,4,0,4,1449,Iowa,2301,1101,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,4
+2009-10,2010-02-28,923723,129,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,4,0,4,1449,Iowa,2240,1040,61,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,5
+2009-10,2010-02-28,923723,143,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,4,1,3,1446,Indiana,2240,1040,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,5
+2009-10,2010-02-28,923723,150,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,4,2,2,1446,Indiana,2240,1040,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,5
+2009-10,2010-02-28,923723,157,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,6,2,4,1449,Iowa,2229,1029,11, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,27.2,7.349999999999994,469227,NA,NA,0,Iowa,Indiana,6
+2009-10,2010-02-28,923723,158,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,6,2,4,1446,Indiana,2229,1029,0,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,7
+2009-10,2010-02-28,923723,159,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,2,5,1449,Iowa,2229,1029,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,7
+2009-10,2010-02-28,923723,162,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1446,Indiana,2222,1022,7, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,27.3,6.75,463289,NA,NA,0,Indiana,Iowa,8
+2009-10,2010-02-28,923723,167,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1449,Iowa,2202,1002,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24,11.25,469227,NA,NA,0,Iowa,Indiana,9
+2009-10,2010-02-28,923723,172,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1446,Indiana,2189,989,13, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,8.35,339886,NA,NA,0,Indiana,Iowa,10
+2009-10,2010-02-28,923723,173,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1449,Iowa,2164,964,25, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,9.650000000000006,402413,NA,NA,0,Iowa,Iowa,11
+2009-10,2010-02-28,923723,174,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1449,Iowa,2162,962,2, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,8.75,402413,NA,NA,0,Iowa,Indiana,11
+2009-10,2010-02-28,923723,175,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,7,4,3,1446,Indiana,2155,955,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20.8,28.05,515371,NA,NA,0,Indiana,Iowa,12
+2009-10,2010-02-28,923723,177,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,9,4,5,1449,Iowa,2138,938,17, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,26.5,9.549999999999997,469227,NA,NA,0,Iowa,Iowa,13
+2009-10,2010-02-28,923723,178,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,9,4,5,1446,Indiana,2138,938,0,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,13
+2009-10,2010-02-28,923723,179,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,9,4,5,NA,NA,2138,938,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,221,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2138,938,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,13
+2009-10,2010-02-28,923723,226,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2103,903,35, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,5.849999999999994,506036,NA,NA,0,Iowa,Indiana,14
+2009-10,2010-02-28,923723,229,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1446,Indiana,2069,869,34, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,6.05,515360,NA,NA,0,Indiana,Iowa,15
+2009-10,2010-02-28,923723,231,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2047,847,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.3,6.950000000000003,506031,NA,NA,0,Iowa,Iowa,16
+2009-10,2010-02-28,923723,233,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2032,832,15, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,6.75,402413,NA,NA,0,Iowa,Iowa,16
+2009-10,2010-02-28,923723,239,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2014,814,18, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32,9.549999999999997,469227,NA,NA,0,Iowa,Indiana,16
+2009-10,2010-02-28,923723,241,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,2007,807,7,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,17
+2009-10,2010-02-28,923723,244,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1446,Indiana,1992,792,15, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,26.55,339886,NA,NA,0,Indiana,Iowa,17
+2009-10,2010-02-28,923723,248,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,1970,770,22, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25,30.950000000000003,506045,NA,NA,0,Iowa,Indiana,18
+2009-10,2010-02-28,923723,249,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1446,Indiana,1961,761,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,20.35,463289,NA,NA,0,Indiana,Iowa,19
+2009-10,2010-02-28,923723,250,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1449,Iowa,1929,729,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,10.450000000000003,329845,NA,NA,0,Iowa,Iowa,20
+2009-10,2010-02-28,923723,252,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,10,4,6,1446,Indiana,1926,726,3,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,20
+2009-10,2010-02-28,923723,254,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1449,Iowa,1916,716,10, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26.7,11.049999999999997,469227,NA,NA,0,Iowa,Indiana,20
+2009-10,2010-02-28,923723,256,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1446,Indiana,1894,694,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,6.05,463291,NA,NA,0,Indiana,Iowa,21
+2009-10,2010-02-28,923723,258,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,NA,NA,1891,691,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,275,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1449,Iowa,1855,655,36, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,11.650000000000006,402413,NA,NA,0,Iowa,Iowa,22
+2009-10,2010-02-28,923723,276,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1449,Iowa,1843,643,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,19.75,506036,NA,NA,0,Iowa,Iowa,22
+2009-10,2010-02-28,923723,278,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1446,Indiana,1832,632,11,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,22
+2009-10,2010-02-28,923723,279,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,12,4,8,1449,Iowa,1832,632,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,22
+2009-10,2010-02-28,923723,280,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,13,4,9,1449,Iowa,1832,632,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,22
+2009-10,2010-02-28,923723,284,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,15,4,11,1449,Iowa,1800,600,32, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,40.5,6.25,469224,NA,NA,0,Iowa,Indiana,23
+2009-10,2010-02-28,923723,286,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,15,4,11,1449,Iowa,1786,586,14,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,24
+2009-10,2010-02-28,923723,287,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,15,4,11,1446,Indiana,1786,586,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,24
+2009-10,2010-02-28,923723,288,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,15,4,11,1446,Indiana,1786,586,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,24
+2009-10,2010-02-28,923723,290,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,17,4,13,1449,Iowa,1767,567,19, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.2,8.950000000000003,469224,NA,NA,0,Iowa,Indiana,25
+2009-10,2010-02-28,923723,293,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,4,13,1446,Indiana,1762,562,5,Hoosiers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,297,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,7,10,1446,Indiana,1745,545,17, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.7,30.35,515356,NA,NA,0,Indiana,Iowa,26
+2009-10,2010-02-28,923723,298,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,7,10,1449,Iowa,1706,506,39, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,30.5,31.549999999999997,506031,NA,NA,0,Iowa,Iowa,27
+2009-10,2010-02-28,923723,300,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,7,10,1449,Iowa,1693,493,13, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,26,30.950000000000003,506045,NA,NA,0,Iowa,Indiana,27
+2009-10,2010-02-28,923723,301,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,7,10,1449,Iowa,1691,491,2,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,28
+2009-10,2010-02-28,923723,310,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,7,10,1446,Indiana,1674,474,17, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,11.05,515360,NA,NA,0,Indiana,Indiana,28
+2009-10,2010-02-28,923723,311,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,9,8,1446,Indiana,1670,470,4, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,28,6.95,515360,NA,NA,0,Indiana,Iowa,28
+2009-10,2010-02-28,923723,313,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,17,11,6,1446,Indiana,1650,450,20, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,26.5,19.55,463289,NA,NA,0,Indiana,Iowa,29
+2009-10,2010-02-28,923723,316,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,17,11,6,1449,Iowa,1650,450,0,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,318,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,11,8,1449,Iowa,1637,437,13, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21,8.150000000000006,402413,NA,NA,0,Iowa,Indiana,30
+2009-10,2010-02-28,923723,319,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,13,6,1446,Indiana,1617,417,20, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,24.2,9.15,463289,NA,NA,0,Indiana,Iowa,31
+2009-10,2010-02-28,923723,320,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,13,6,1449,Iowa,1599,399,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,24.049999999999997,469224,NA,NA,0,Iowa,Indiana,32
+2009-10,2010-02-28,923723,322,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,13,6,1449,Iowa,1578,378,21,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,33
+2009-10,2010-02-28,923723,323,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,13,6,NA,NA,1578,378,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,325,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,14,5,1446,Indiana,1578,378,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,33
+2009-10,2010-02-28,923723,326,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,15,4,1446,Indiana,1578,378,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,34
+2009-10,2010-02-28,923723,330,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,19,15,4,1449,Iowa,1547,347,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.2,28.450000000000003,469224,NA,NA,0,Iowa,Iowa,35
+2009-10,2010-02-28,923723,334,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,21,15,6,1449,Iowa,1533,333,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.7,8.950000000000003,506036,NA,NA,0,Iowa,Indiana,35
+2009-10,2010-02-28,923723,337,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,24,15,9,1449,Iowa,1492,292,41, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,31.5,29.650000000000006,506036,NA,NA,0,Iowa,Indiana,36
+2009-10,2010-02-28,923723,338.5,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,24,16,8,1446,Indiana,1483,283,9, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,37
+2009-10,2010-02-28,923723,339.25,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,24,17,7,1446,Indiana,1483,283,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,38
+2009-10,2010-02-28,923723,340,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,24,17,7,1449,Iowa,1481,281,2,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,39
+2009-10,2010-02-28,923723,348,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,26,17,9,1449,Iowa,1470,270,11, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,42,13.549999999999997,469224,NA,NA,0,Iowa,Indiana,39
+2009-10,2010-02-28,923723,349,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,26,19,7,1446,Indiana,1451,251,19, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,10.7,5.65,463289,NA,NA,0,Indiana,Iowa,40
+2009-10,2010-02-28,923723,350,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1449,Iowa,1429,229,22, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,23.3,19.75,506031,NA,NA,0,Iowa,Indiana,41
+2009-10,2010-02-28,923723,352,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1446,Indiana,1405,205,24,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,42
+2009-10,2010-02-28,923723,353,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,NA,NA,1405,205,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,361,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1449,Iowa,1373,173,32, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,6.75,402413,NA,NA,0,Iowa,Indiana,43
+2009-10,2010-02-28,923723,362,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1446,Indiana,1364,164,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,10.25,515371,NA,NA,0,Indiana,Iowa,44
+2009-10,2010-02-28,923723,364,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1449,Iowa,1349,149,15,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,45
+2009-10,2010-02-28,923723,368,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,28,19,9,1446,Indiana,1310,110,39, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,36,29.45,515363,NA,NA,0,Indiana,Iowa,46
+2009-10,2010-02-28,923723,370,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,30,19,11,1449,Iowa,1283,83,27, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,30.8,9.150000000000006,469224,NA,NA,0,Iowa,Indiana,47
+2009-10,2010-02-28,923723,372,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,30,19,11,1449,Iowa,1268,68,15,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,48
+2009-10,2010-02-28,923723,373,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,30,20,10,1446,Indiana,1268,68,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,48
+2009-10,2010-02-28,923723,374,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,30,21,9,1446,Indiana,1268,68,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,48
+2009-10,2010-02-28,923723,379,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,30,21,9,1449,Iowa,1245,45,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6.700000000000003,22.650000000000006,329845,NA,NA,0,Iowa,Iowa,49
+2009-10,2010-02-28,923723,380,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,32,21,11,1449,Iowa,1214,14,31, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22.7,7.150000000000006,506031,NA,NA,0,Iowa,Indiana,49
+2009-10,2010-02-28,923723,382,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,32,21,11,1446,Indiana,1206,6,8, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21,7.75,463289,NA,NA,0,Indiana,Indiana,50
+2009-10,2010-02-28,923723,385,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,32,23,9,1446,Indiana,1202,2,4, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13.8,8.15,515371,NA,NA,0,Indiana,Iowa,50
+2009-10,2010-02-28,923723,386,0,1,Iowa,Indiana,Hawkeyes,Hoosiers,3,3,32,23,9,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,388,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,32,23,9,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Indiana,51
+2009-10,2010-02-28,923723,390,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,32,25,7,1446,Indiana,1177,1177,23, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28.2,7.55,515371,NA,NA,0,Indiana,Iowa,52
+2009-10,2010-02-28,923723,391,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,32,25,7,1449,Iowa,1163,1163,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28,30.25,469224,NA,NA,0,Iowa,Indiana,53
+2009-10,2010-02-28,923723,395,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,32,27,5,1446,Indiana,1145,1145,18, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,23,7.95,515371,NA,NA,0,Indiana,Iowa,54
+2009-10,2010-02-28,923723,397,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,32,27,5,1446,Indiana,1122,1122,23,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,55
+2009-10,2010-02-28,923723,398,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,33,27,6,1449,Iowa,1122,1122,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,55
+2009-10,2010-02-28,923723,399,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,34,27,7,1449,Iowa,1122,1122,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,55
+2009-10,2010-02-28,923723,404,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,34,27,7,1446,Indiana,1104,1104,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28,9.15,515371,NA,NA,0,Indiana,Indiana,56
+2009-10,2010-02-28,923723,405,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,34,27,7,1446,Indiana,1102,1102,2, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,6.95,515356,NA,NA,0,Indiana,Iowa,56
+2009-10,2010-02-28,923723,406,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,36,27,9,1449,Iowa,1089,1089,13, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.2,8.75,469227,NA,NA,0,Iowa,Indiana,57
+2009-10,2010-02-28,923723,408,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,36,27,9,1449,Iowa,1070,1070,19,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,58
+2009-10,2010-02-28,923723,410,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,36,27,9,1446,Indiana,1062,1062,8, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,25.55,463289,NA,NA,0,Indiana,Iowa,58
+2009-10,2010-02-28,923723,414,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,36,27,9,1446,Indiana,1037,1037,25,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,59
+2009-10,2010-02-28,923723,415,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,37,27,10,1449,Iowa,1037,1037,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,59
+2009-10,2010-02-28,923723,416,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1449,Iowa,1037,1037,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,59
+2009-10,2010-02-28,923723,421,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1449,Iowa,1032,1032,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,60
+2009-10,2010-02-28,923723,424,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1449,Iowa,1003,1003,29,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,60
+2009-10,2010-02-28,923723,427,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1449,Iowa,989,989,14,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,60
+2009-10,2010-02-28,923723,429,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1446,Indiana,986,986,3, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,10.25,515356,NA,NA,0,Indiana,Iowa,60
+2009-10,2010-02-28,923723,431,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1446,Indiana,977,977,9,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,61
+2009-10,2010-02-28,923723,432,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1446,Indiana,977,977,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-28,923723,443,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,NA,NA,941,941,36,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,447,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,27,11,1449,Iowa,926,926,15,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,61
+2009-10,2010-02-28,923723,451,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,29,9,1446,Indiana,912,912,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,24.3,10.05,339886,NA,NA,0,Indiana,Iowa,61
+2009-10,2010-02-28,923723,452,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,29,9,1446,Indiana,912,912,0,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,62
+2009-10,2010-02-28,923723,455,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,29,9,1446,Indiana,902,902,10,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,63
+2009-10,2010-02-28,923723,463,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,29,9,1446,Indiana,848,848,54, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,29.25,339886,NA,NA,0,Indiana,Indiana,63
+2009-10,2010-02-28,923723,465,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,38,29,9,1446,Indiana,845,845,3,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,63
+2009-10,2010-02-28,923723,475,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,40,29,11,1449,Iowa,818,818,27, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,36.5,12.650000000000006,469224,NA,NA,0,Iowa,Indiana,64
+2009-10,2010-02-28,923723,477,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,40,29,11,1449,Iowa,799,799,19,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,65
+2009-10,2010-02-28,923723,478,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,40,30,10,1446,Indiana,799,799,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,65
+2009-10,2010-02-28,923723,479,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,40,30,10,1446,Indiana,799,799,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,65
+2009-10,2010-02-28,923723,481,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,4,42,30,12,1449,Iowa,778,778,21, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,29.3,8.150000000000006,469224,NA,NA,0,Iowa,Indiana,66
+2009-10,2010-02-28,923723,483,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,42,30,12,1446,Indiana,772,772,6,Hoosiers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,486,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,42,30,12,1446,Indiana,769,769,3,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,67
+2009-10,2010-02-28,923723,489,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,42,30,12,1446,Indiana,743,743,26,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,68
+2009-10,2010-02-28,923723,490,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,43,30,13,1449,Iowa,743,743,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,68
+2009-10,2010-02-28,923723,491,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,43,30,13,1449,Iowa,743,743,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,68
+2009-10,2010-02-28,923723,493,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,45,30,15,1449,Iowa,741,741,2, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,22.5,9.150000000000006,402413,NA,NA,0,Iowa,Indiana,68
+2009-10,2010-02-28,923723,494,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,45,32,13,1446,Indiana,711,711,30, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,16.3,5.85,463289,NA,NA,0,Indiana,Iowa,69
+2009-10,2010-02-28,923723,498,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,45,32,13,NA,NA,697,697,14,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,500,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,45,32,13,1449,Iowa,687,687,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,8.349999999999994,469224,NA,NA,0,Iowa,Iowa,70
+2009-10,2010-02-28,923723,504,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,45,32,13,1449,Iowa,662,662,25,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,70
+2009-10,2010-02-28,923723,508,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,32,15,1449,Iowa,645,645,17, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.2,8.950000000000003,506036,NA,NA,0,Iowa,Indiana,71
+2009-10,2010-02-28,923723,510,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,32,15,1449,Iowa,627,627,18,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,72
+2009-10,2010-02-28,923723,513,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,33,14,1446,Indiana,627,627,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,72
+2009-10,2010-02-28,923723,514,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1446,Indiana,627,627,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,73
+2009-10,2010-02-28,923723,517,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1446,Indiana,616,616,11,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,74
+2009-10,2010-02-28,923723,518,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1449,Iowa,616,616,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,74
+2009-10,2010-02-28,923723,523,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1446,Indiana,604,604,12,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,75
+2009-10,2010-02-28,923723,524,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1446,Indiana,604,604,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-28,923723,526,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,34,13,1449,Iowa,571,571,33, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4,17.049999999999997,469224,NA,NA,0,Iowa,Indiana,76
+2009-10,2010-02-28,923723,530,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,36,11,1446,Indiana,517,517,54, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,12,21.15,515363,NA,NA,0,Indiana,Iowa,77
+2009-10,2010-02-28,923723,534,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,47,36,11,1446,Indiana,501,501,16,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,78
+2009-10,2010-02-28,923723,535,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,48,36,12,1449,Iowa,501,501,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,78
+2009-10,2010-02-28,923723,536,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1449,Iowa,501,501,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,78
+2009-10,2010-02-28,923723,543,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1449,Iowa,496,496,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,79
+2009-10,2010-02-28,923723,544,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1446,Indiana,496,496,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,79
+2009-10,2010-02-28,923723,546,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1446,Indiana,490,490,6, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27,9.15,515360,NA,NA,0,Indiana,Iowa,79
+2009-10,2010-02-28,923723,548,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1446,Indiana,473,473,17,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,80
+2009-10,2010-02-28,923723,549,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,NA,NA,473,473,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,550,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1449,Iowa,473,473,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,80
+2009-10,2010-02-28,923723,551,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,36,13,1449,Iowa,473,473,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,80
+2009-10,2010-02-28,923723,553,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,49,38,11,1446,Indiana,454,454,19, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,21.3,23.65,339886,NA,NA,0,Indiana,Iowa,81
+2009-10,2010-02-28,923723,554,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1449,Iowa,432,432,22, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,25,19.150000000000006,506036,NA,NA,0,Iowa,Indiana,82
+2009-10,2010-02-28,923723,559,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1449,Iowa,412,412,20, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,7.75,506036,NA,NA,0,Iowa,Iowa,83
+2009-10,2010-02-28,923723,561,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1449,Iowa,399,399,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,12.25,506031,NA,NA,0,Iowa,Iowa,83
+2009-10,2010-02-28,923723,562,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1449,Iowa,393,393,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,9.349999999999994,469227,NA,NA,0,Iowa,Iowa,83
+2009-10,2010-02-28,923723,563,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1446,Indiana,393,393,0,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,83
+2009-10,2010-02-28,923723,565,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,51,38,13,1449,Iowa,393,393,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,83
+2009-10,2010-02-28,923723,566,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,52,38,14,1449,Iowa,393,393,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,83
+2009-10,2010-02-28,923723,569,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,52,38,14,1449,Iowa,384,384,9,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,84
+2009-10,2010-02-28,923723,570,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,52,38,14,1446,Indiana,384,384,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,84
+2009-10,2010-02-28,923723,571,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,52,39,13,1446,Indiana,384,384,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,84
+2009-10,2010-02-28,923723,573,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,55,39,16,1449,Iowa,367,367,17, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,42.5,24.75,469224,NA,NA,0,Iowa,Indiana,85
+2009-10,2010-02-28,923723,575,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,55,39,16,1446,Indiana,347,347,20,Offensive foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,86
+2009-10,2010-02-28,923723,578,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,55,39,16,1446,Indiana,338,338,9,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,87
+2009-10,2010-02-28,923723,579,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,55,39,16,1449,Iowa,338,338,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,87
+2009-10,2010-02-28,923723,580,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,56,39,17,1449,Iowa,338,338,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,87
+2009-10,2010-02-28,923723,586,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,56,39,17,1446,Indiana,308,308,30, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,11.05,463289,NA,NA,0,Indiana,Iowa,88
+2009-10,2010-02-28,923723,587,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,3,59,39,20,1449,Iowa,284,284,24, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,26,32.75,469224,NA,NA,0,Iowa,Indiana,89
+2009-10,2010-02-28,923723,592,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,59,39,20,1446,Indiana,280,280,4,Hoosiers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,594,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,59,39,20,1446,Indiana,271,271,9, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,32.35,339886,NA,NA,0,Indiana,Iowa,90
+2009-10,2010-02-28,923723,596,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,59,39,20,1446,Indiana,252,252,19,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2009-10,2010-02-28,923723,597,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,39,21,1449,Iowa,252,252,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2009-10,2010-02-28,923723,598,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,39,21,1449,Iowa,252,252,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2009-10,2010-02-28,923723,604,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,39,21,1449,Iowa,215,215,37, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,32.15,506031,NA,NA,0,Iowa,Indiana,91
+2009-10,2010-02-28,923723,606,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,39,21,1449,Iowa,208,208,7,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,92
+2009-10,2010-02-28,923723,607,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,39,21,NA,NA,208,208,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,608,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,40,20,1446,Indiana,208,208,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,92
+2009-10,2010-02-28,923723,609,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,41,19,1446,Indiana,208,208,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,92
+2009-10,2010-02-28,923723,612,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,41,19,1449,Iowa,201,201,7,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,93
+2009-10,2010-02-28,923723,613,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,42,18,1446,Indiana,201,201,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,93
+2009-10,2010-02-28,923723,614,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,43,17,1446,Indiana,201,201,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,93
+2009-10,2010-02-28,923723,621,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,45,15,1446,Indiana,176,176,25, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,7.55,463289,NA,NA,0,Indiana,Iowa,94
+2009-10,2010-02-28,923723,623,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,45,15,1446,Indiana,164,164,12,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,95
+2009-10,2010-02-28,923723,624,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,60,45,15,1449,Iowa,164,164,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,95
+2009-10,2010-02-28,923723,625,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,61,45,16,1449,Iowa,164,164,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,95
+2009-10,2010-02-28,923723,629,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,61,45,16,1449,Iowa,155,155,9,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,96
+2009-10,2010-02-28,923723,630,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,61,46,15,1446,Indiana,155,155,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,96
+2009-10,2010-02-28,923723,631,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,61,47,14,1446,Indiana,155,155,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,96
+2009-10,2010-02-28,923723,635,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,61,49,12,1446,Indiana,139,139,16, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,24,9.65,332669,NA,NA,0,Indiana,Iowa,97
+2009-10,2010-02-28,923723,636,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,63,49,14,1449,Iowa,127,127,12, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.7,7.75,469227,NA,NA,0,Iowa,Indiana,98
+2009-10,2010-02-28,923723,638,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,2,63,51,12,1446,Indiana,110,110,17, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21.7,7.75,339886,NA,NA,0,Indiana,Iowa,99
+2009-10,2010-02-28,923723,639,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,63,51,12,1446,Indiana,110,110,0,Hoosiers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,642,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,63,51,12,1446,Indiana,103,103,7,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,100
+2009-10,2010-02-28,923723,643,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,63,51,12,1449,Iowa,103,103,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,100
+2009-10,2010-02-28,923723,644,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,51,13,1449,Iowa,103,103,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,100
+2009-10,2010-02-28,923723,647,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,51,13,1449,Iowa,96,96,7,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,101
+2009-10,2010-02-28,923723,648,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,52,12,1446,Indiana,96,96,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,101
+2009-10,2010-02-28,923723,649,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,53,11,1446,Indiana,96,96,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Iowa,101
+2009-10,2010-02-28,923723,650,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,53,11,1446,Indiana,96,96,0,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,102
+2009-10,2010-02-28,923723,651,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,64,53,11,1449,Iowa,96,96,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,102
+2009-10,2010-02-28,923723,652,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,65,53,12,1449,Iowa,96,96,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,102
+2009-10,2010-02-28,923723,654,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,65,55,10,1446,Indiana,88,88,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.3,8.15,463289,NA,NA,0,Indiana,Iowa,103
+2009-10,2010-02-28,923723,656,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,65,55,10,1446,Indiana,79,79,9,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2009-10,2010-02-28,923723,657,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,66,55,11,1449,Iowa,79,79,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2009-10,2010-02-28,923723,658,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,67,55,12,1449,Iowa,79,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2009-10,2010-02-28,923723,663,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,67,55,12,1446,Indiana,69,69,10,Shooting foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2009-10,2010-02-28,923723,664,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,68,55,13,1449,Iowa,69,69,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2009-10,2010-02-28,923723,665,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,69,55,14,1449,Iowa,69,69,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,104
+2009-10,2010-02-28,923723,672,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,69,57,12,1446,Indiana,58,58,11, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,14.5,15.35,339886,NA,NA,0,Indiana,Iowa,105
+2009-10,2010-02-28,923723,673,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,69,57,12,1446,Indiana,58,58,0,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,106
+2009-10,2010-02-28,923723,674,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,70,57,13,1449,Iowa,58,58,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,106
+2009-10,2010-02-28,923723,675,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,71,57,14,1449,Iowa,58,58,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,106
+2009-10,2010-02-28,923723,677,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,71,57,14,1446,Indiana,50,50,8, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,7.35,332669,NA,NA,0,Indiana,Iowa,107
+2009-10,2010-02-28,923723,679,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,71,57,14,1446,Indiana,44,44,6,Personal foul committed by Hoosiers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,108
+2009-10,2010-02-28,923723,680,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,72,57,15,1449,Iowa,44,44,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,108
+2009-10,2010-02-28,923723,681,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,73,57,16,1449,Iowa,44,44,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Indiana,108
+2009-10,2010-02-28,923723,683,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,73,57,16,1446,Indiana,28,28,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,30.35,339886,NA,NA,0,Indiana,NA,109
+2009-10,2010-02-28,923723,696,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,73,57,16,NA,NA,0,0,28,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-28,923723,697,0,2,Iowa,Indiana,Hawkeyes,Hoosiers,4,1,73,57,16,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Indiana,Indiana,NA

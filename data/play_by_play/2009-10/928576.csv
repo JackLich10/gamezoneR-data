@@ -1,0 +1,319 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-20,928576,1,0,1,UCF,Auburn,Knights,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCF,NA
+2009-10,2009-11-20,928576,4,0,1,UCF,Auburn,Knights,Tigers,4,4,0,0,0,1299,Auburn,2392,1192,8,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,1
+2009-10,2009-11-20,928576,5,0,1,UCF,Auburn,Knights,Tigers,4,4,0,0,0,1344,UCF,2392,1192,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,1
+2009-10,2009-11-20,928576,6,0,1,UCF,Auburn,Knights,Tigers,4,4,1,0,1,1344,UCF,2392,1192,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,1
+2009-10,2009-11-20,928576,8,0,1,UCF,Auburn,Knights,Tigers,4,4,1,0,1,1299,Auburn,2381,1181,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,21.35,329687,NA,NA,0,Auburn,UCF,2
+2009-10,2009-11-20,928576,9,0,1,UCF,Auburn,Knights,Tigers,4,4,1,0,1,1344,UCF,2364,1164,17, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,30.5,10.25,330456,NA,NA,0,UCF,UCF,3
+2009-10,2009-11-20,928576,11,0,1,UCF,Auburn,Knights,Tigers,4,3,1,0,1,1299,Auburn,2356,1156,8,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,17,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1344,UCF,2323,1123,33, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.200000000000003,8.549999999999997,458977,NA,NA,0,UCF,Auburn,3
+2009-10,2009-11-20,928576,18,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1299,Auburn,2303,1103,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,29.5,28.05,466767,NA,NA,0,Auburn,UCF,4
+2009-10,2009-11-20,928576,19,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1344,UCF,2293,1093,10, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,20.950000000000003,458978,NA,NA,0,UCF,Auburn,5
+2009-10,2009-11-20,928576,21,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1344,UCF,2288,1088,5,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,6
+2009-10,2009-11-20,928576,23,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1299,Auburn,2274,1074,14, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,29.45,466767,NA,NA,0,Auburn,UCF,6
+2009-10,2009-11-20,928576,24,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1344,UCF,2244,1044,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,11.25,330456,NA,NA,0,UCF,UCF,7
+2009-10,2009-11-20,928576,25,0,1,UCF,Auburn,Knights,Tigers,4,3,4,0,4,1344,UCF,2223,1023,21, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,19.549999999999997,458977,NA,NA,0,UCF,UCF,7
+2009-10,2009-11-20,928576,27,0,1,UCF,Auburn,Knights,Tigers,4,3,6,0,6,1344,UCF,2213,1013,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330456,NA,NA,0,UCF,UCF,7
+2009-10,2009-11-20,928576,28,0,1,UCF,Auburn,Knights,Tigers,4,3,6,0,6,1299,Auburn,2213,1013,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,7
+2009-10,2009-11-20,928576,29,0,1,UCF,Auburn,Knights,Tigers,4,3,6,0,6,1299,Auburn,2213,1013,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,30,0,1,UCF,Auburn,Knights,Tigers,4,3,7,0,7,1344,UCF,2213,1013,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,7
+2009-10,2009-11-20,928576,31,0,1,UCF,Auburn,Knights,Tigers,4,3,7,0,7,1344,UCF,2213,1013,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,34,0,1,UCF,Auburn,Knights,Tigers,4,3,7,0,7,1299,Auburn,2207,1007,6,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,8
+2009-10,2009-11-20,928576,35,0,1,UCF,Auburn,Knights,Tigers,4,3,7,0,7,1344,UCF,2207,1007,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,40,0,1,UCF,Auburn,Knights,Tigers,4,3,7,0,7,1299,Auburn,2189,989,18,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,9
+2009-10,2009-11-20,928576,42,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2186,986,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,Auburn,9
+2009-10,2009-11-20,928576,43,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1299,Auburn,2172,972,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,9.15,329687,NA,NA,0,Auburn,UCF,10
+2009-10,2009-11-20,928576,45,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2164,964,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,16.200000000000003,15.650000000000006,458975,NA,NA,0,UCF,Auburn,11
+2009-10,2009-11-20,928576,46,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2163,963,1,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,12
+2009-10,2009-11-20,928576,51,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2138,938,25,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,55,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2125,925,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483160,NA,NA,0,UCF,UCF,12
+2009-10,2009-11-20,928576,61,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,NA,NA,2116,916,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,62,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1344,UCF,2116,916,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,65,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1299,Auburn,2095,895,21,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,66,0,1,UCF,Auburn,Knights,Tigers,4,3,9,0,9,1299,Auburn,2095,895,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,76,0,1,UCF,Auburn,Knights,Tigers,4,3,11,0,11,1344,UCF,2048,848,47, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329495,NA,NA,0,UCF,UCF,12
+2009-10,2009-11-20,928576,77,0,1,UCF,Auburn,Knights,Tigers,4,3,11,0,11,1299,Auburn,2048,848,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,12
+2009-10,2009-11-20,928576,78,0,1,UCF,Auburn,Knights,Tigers,4,3,11,0,11,1299,Auburn,2048,848,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,79,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1344,UCF,2048,848,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,12
+2009-10,2009-11-20,928576,82,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1344,UCF,2040,840,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,92,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1299,Auburn,2022,822,18,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,13
+2009-10,2009-11-20,928576,95,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1299,Auburn,2016,816,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,100,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1299,Auburn,1997,797,19,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,14
+2009-10,2009-11-20,928576,101,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1299,Auburn,1997,797,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,102,0,1,UCF,Auburn,Knights,Tigers,4,3,12,0,12,1299,Auburn,1997,797,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,103,0,1,UCF,Auburn,Knights,Tigers,4,3,13,0,13,1344,UCF,1997,797,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,14
+2009-10,2009-11-20,928576,104,0,1,UCF,Auburn,Knights,Tigers,4,3,13,0,13,1344,UCF,1997,797,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,15
+2009-10,2009-11-20,928576,106,0,1,UCF,Auburn,Knights,Tigers,4,3,13,3,10,1299,Auburn,1989,789,8, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,13.3,27.85,329690,NA,NA,0,Auburn,UCF,16
+2009-10,2009-11-20,928576,108,0,1,UCF,Auburn,Knights,Tigers,4,3,13,3,10,1299,Auburn,1982,782,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,110,0,1,UCF,Auburn,Knights,Tigers,4,3,13,3,10,1344,UCF,1969,769,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458979,NA,NA,0,UCF,UCF,17
+2009-10,2009-11-20,928576,111,0,1,UCF,Auburn,Knights,Tigers,4,3,15,3,12,1344,UCF,1966,766,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,Auburn,17
+2009-10,2009-11-20,928576,115,0,1,UCF,Auburn,Knights,Tigers,4,3,15,3,12,1344,UCF,1952,752,14,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,18
+2009-10,2009-11-20,928576,119,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1299,Auburn,1939,739,13, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,43.5,8.95,329690,NA,NA,0,Auburn,UCF,18
+2009-10,2009-11-20,928576,121,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,NA,NA,1911,711,28,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,122,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1299,Auburn,1911,711,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,124,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1299,Auburn,1898,698,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,7.55,509426,NA,NA,0,Auburn,Auburn,19
+2009-10,2009-11-20,928576,126,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1344,UCF,1889,689,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,129,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1344,UCF,1876,676,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,130,0,1,UCF,Auburn,Knights,Tigers,4,3,15,5,10,1344,UCF,1876,676,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,132,0,1,UCF,Auburn,Knights,Tigers,4,3,15,8,7,1299,Auburn,1859,659,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.7,12.45,509426,NA,NA,0,Auburn,UCF,19
+2009-10,2009-11-20,928576,134,0,1,UCF,Auburn,Knights,Tigers,4,3,15,8,7,1299,Auburn,1846,646,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,20
+2009-10,2009-11-20,928576,135,0,1,UCF,Auburn,Knights,Tigers,4,3,15,8,7,1299,Auburn,1846,646,0,Technical foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,20
+2009-10,2009-11-20,928576,136,0,1,UCF,Auburn,Knights,Tigers,4,3,15,8,7,1344,UCF,1846,646,0,Technical foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,20
+2009-10,2009-11-20,928576,137,0,1,UCF,Auburn,Knights,Tigers,4,3,16,8,8,1344,UCF,1846,646,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,20
+2009-10,2009-11-20,928576,138,0,1,UCF,Auburn,Knights,Tigers,4,3,17,8,9,1344,UCF,1846,646,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,21
+2009-10,2009-11-20,928576,141,0,1,UCF,Auburn,Knights,Tigers,4,3,17,8,9,1344,UCF,1840,640,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,145,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1299,Auburn,1836,636,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466772,NA,NA,0,Auburn,Auburn,22
+2009-10,2009-11-20,928576,146,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1344,UCF,1836,636,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,22
+2009-10,2009-11-20,928576,147,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1299,Auburn,1836,636,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,22
+2009-10,2009-11-20,928576,152,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1344,UCF,1830,630,6,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,22
+2009-10,2009-11-20,928576,155,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1299,Auburn,1824,624,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,18.2,29.25,509426,NA,NA,0,Auburn,UCF,22
+2009-10,2009-11-20,928576,156,0,1,UCF,Auburn,Knights,Tigers,4,3,17,10,7,1299,Auburn,1823,623,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,23
+2009-10,2009-11-20,928576,157,0,1,UCF,Auburn,Knights,Tigers,4,3,18,10,8,1344,UCF,1823,623,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,23
+2009-10,2009-11-20,928576,158,0,1,UCF,Auburn,Knights,Tigers,4,3,18,10,8,1344,UCF,1823,623,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,159,0,1,UCF,Auburn,Knights,Tigers,4,3,19,10,9,1344,UCF,1823,623,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,23
+2009-10,2009-11-20,928576,162,0,1,UCF,Auburn,Knights,Tigers,4,3,19,10,9,1299,Auburn,1801,601,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,22,29.65,329687,NA,NA,0,Auburn,UCF,24
+2009-10,2009-11-20,928576,163,0,1,UCF,Auburn,Knights,Tigers,4,3,19,10,9,1299,Auburn,1800,600,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,164,0,1,UCF,Auburn,Knights,Tigers,4,3,19,10,9,1299,Auburn,1800,600,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,167,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1344,UCF,1786,586,14, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,30.3,10.049999999999997,330456,NA,NA,0,UCF,Auburn,25
+2009-10,2009-11-20,928576,168,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1299,Auburn,1759,559,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,19.75,509402,NA,NA,0,Auburn,Auburn,26
+2009-10,2009-11-20,928576,174,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1299,Auburn,1728,528,31, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30.3,29.45,509402,NA,NA,0,Auburn,Auburn,26
+2009-10,2009-11-20,928576,176,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1344,UCF,1724,524,4,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,26
+2009-10,2009-11-20,928576,177,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1344,UCF,1724,524,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,178,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1344,UCF,1724,524,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,179,0,1,UCF,Auburn,Knights,Tigers,4,3,21,10,11,1299,Auburn,1724,524,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,26
+2009-10,2009-11-20,928576,181,0,1,UCF,Auburn,Knights,Tigers,4,3,21,13,8,1299,Auburn,1715,515,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,24.2,28.85,466767,NA,NA,0,Auburn,UCF,26
+2009-10,2009-11-20,928576,182,0,1,UCF,Auburn,Knights,Tigers,4,3,21,13,8,1344,UCF,1678,478,37, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,10.25,329495,NA,NA,0,UCF,Auburn,27
+2009-10,2009-11-20,928576,183,0,1,UCF,Auburn,Knights,Tigers,4,3,21,15,6,1299,Auburn,1671,471,7, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,22.3,11.85,329690,NA,NA,0,Auburn,UCF,28
+2009-10,2009-11-20,928576,187,0,1,UCF,Auburn,Knights,Tigers,4,3,21,17,4,1299,Auburn,1653,453,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466767,NA,NA,0,Auburn,UCF,29
+2009-10,2009-11-20,928576,189,0,1,UCF,Auburn,Knights,Tigers,3,3,21,17,4,1344,UCF,1652,452,1,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,190,0,1,UCF,Auburn,Knights,Tigers,3,3,21,17,4,1344,UCF,1652,452,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,198,0,1,UCF,Auburn,Knights,Tigers,3,3,21,17,4,NA,NA,1637,437,15,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,199,0,1,UCF,Auburn,Knights,Tigers,3,3,21,17,4,1344,UCF,1637,437,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,201,0,1,UCF,Auburn,Knights,Tigers,3,3,23,17,6,1344,UCF,1621,421,16, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,11.799999999999997,11.650000000000006,330456,NA,NA,0,UCF,Auburn,30
+2009-10,2009-11-20,928576,202,0,1,UCF,Auburn,Knights,Tigers,3,3,23,17,6,1299,Auburn,1591,391,30, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24,11.45,466771,NA,NA,0,Auburn,Auburn,31
+2009-10,2009-11-20,928576,203,0,1,UCF,Auburn,Knights,Tigers,3,3,23,19,4,1299,Auburn,1585,385,6, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.7,10.25,509402,NA,NA,0,Auburn,UCF,31
+2009-10,2009-11-20,928576,204,0,1,UCF,Auburn,Knights,Tigers,3,3,23,19,4,1344,UCF,1555,355,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329495,NA,NA,0,UCF,UCF,32
+2009-10,2009-11-20,928576,205,0,1,UCF,Auburn,Knights,Tigers,3,3,25,19,6,1344,UCF,1552,352,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,Auburn,32
+2009-10,2009-11-20,928576,208,0,1,UCF,Auburn,Knights,Tigers,3,3,25,19,6,1299,Auburn,1541,341,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,209,0,1,UCF,Auburn,Knights,Tigers,3,3,25,19,6,1299,Auburn,1541,341,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,214,0,1,UCF,Auburn,Knights,Tigers,3,3,25,19,6,1344,UCF,1536,336,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,217,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1521,321,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329495,NA,NA,0,UCF,UCF,33
+2009-10,2009-11-20,928576,221,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1299,Auburn,1503,303,18,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,33
+2009-10,2009-11-20,928576,222,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1503,303,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,33
+2009-10,2009-11-20,928576,223,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1299,Auburn,1503,303,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,224,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1503,303,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,33
+2009-10,2009-11-20,928576,226,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1499,299,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,Auburn,33
+2009-10,2009-11-20,928576,228,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1299,Auburn,1479,279,20, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.8,11.85,329687,NA,NA,0,Auburn,Auburn,34
+2009-10,2009-11-20,928576,230,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1475,275,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,231,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1344,UCF,1475,275,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,233,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1299,Auburn,1460,260,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,30.95,466767,NA,NA,0,Auburn,UCF,34
+2009-10,2009-11-20,928576,235,0,1,UCF,Auburn,Knights,Tigers,3,3,27,19,8,1299,Auburn,1444,244,16,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2009-10,2009-11-20,928576,236,0,1,UCF,Auburn,Knights,Tigers,3,3,28,19,9,1344,UCF,1444,244,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2009-10,2009-11-20,928576,237,0,1,UCF,Auburn,Knights,Tigers,3,3,28,19,9,1299,Auburn,1444,244,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,238,0,1,UCF,Auburn,Knights,Tigers,3,3,29,19,10,1344,UCF,1444,244,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,35
+2009-10,2009-11-20,928576,239,0,1,UCF,Auburn,Knights,Tigers,3,3,29,19,10,1344,UCF,1444,244,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,243,0,1,UCF,Auburn,Knights,Tigers,3,3,29,19,10,NA,NA,1424,224,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,244,0,1,UCF,Auburn,Knights,Tigers,3,3,29,19,10,1344,UCF,1424,224,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,246,0,1,UCF,Auburn,Knights,Tigers,3,3,31,19,12,1344,UCF,1410,210,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458978,NA,NA,0,UCF,Auburn,36
+2009-10,2009-11-20,928576,247,0,1,UCF,Auburn,Knights,Tigers,3,3,31,19,12,1299,Auburn,1398,198,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466771,NA,NA,0,Auburn,UCF,37
+2009-10,2009-11-20,928576,248,0,1,UCF,Auburn,Knights,Tigers,3,3,34,19,15,1344,UCF,1384,184,14, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,24.8,28.650000000000006,512157,NA,NA,0,UCF,Auburn,38
+2009-10,2009-11-20,928576,252,0,1,UCF,Auburn,Knights,Tigers,3,3,34,19,15,1344,UCF,1370,170,14,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,39
+2009-10,2009-11-20,928576,253,0,1,UCF,Auburn,Knights,Tigers,3,3,34,19,15,1299,Auburn,1370,170,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,39
+2009-10,2009-11-20,928576,254,0,1,UCF,Auburn,Knights,Tigers,3,3,34,20,14,1299,Auburn,1370,170,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,39
+2009-10,2009-11-20,928576,259,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1361,161,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329495,NA,NA,0,UCF,Auburn,40
+2009-10,2009-11-20,928576,261,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1350,150,11,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,41
+2009-10,2009-11-20,928576,262,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1350,150,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,263,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1299,Auburn,1350,150,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,41
+2009-10,2009-11-20,928576,274,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1315,115,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,UCF,42
+2009-10,2009-11-20,928576,275,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1310,110,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330456,NA,NA,0,UCF,Auburn,42
+2009-10,2009-11-20,928576,277,0,1,UCF,Auburn,Knights,Tigers,3,3,36,20,16,1344,UCF,1304,104,6,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,43
+2009-10,2009-11-20,928576,278,0,1,UCF,Auburn,Knights,Tigers,3,3,36,21,15,1299,Auburn,1304,104,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,43
+2009-10,2009-11-20,928576,279,0,1,UCF,Auburn,Knights,Tigers,3,3,36,22,14,1299,Auburn,1304,104,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,43
+2009-10,2009-11-20,928576,282,0,1,UCF,Auburn,Knights,Tigers,3,3,38,22,16,1344,UCF,1287,87,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458978,NA,NA,0,UCF,Auburn,44
+2009-10,2009-11-20,928576,283,0,1,UCF,Auburn,Knights,Tigers,3,3,38,22,16,1299,Auburn,1269,69,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509406,NA,NA,0,Auburn,Auburn,45
+2009-10,2009-11-20,928576,284,0,1,UCF,Auburn,Knights,Tigers,3,3,38,24,14,1299,Auburn,1264,64,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509406,NA,NA,0,Auburn,UCF,45
+2009-10,2009-11-20,928576,288,0,1,UCF,Auburn,Knights,Tigers,3,3,38,24,14,1344,UCF,1255,55,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458978,NA,NA,0,UCF,UCF,46
+2009-10,2009-11-20,928576,291,0,1,UCF,Auburn,Knights,Tigers,3,3,38,24,14,1299,Auburn,1254,54,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,46
+2009-10,2009-11-20,928576,292,0,1,UCF,Auburn,Knights,Tigers,3,3,38,24,14,1344,UCF,1254,54,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,46
+2009-10,2009-11-20,928576,293,0,1,UCF,Auburn,Knights,Tigers,3,3,39,24,15,1344,UCF,1254,54,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,46
+2009-10,2009-11-20,928576,294,0,1,UCF,Auburn,Knights,Tigers,3,3,39,24,15,1344,UCF,1254,54,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,296,0,1,UCF,Auburn,Knights,Tigers,3,3,39,24,15,1299,Auburn,1244,44,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4,10.25,509402,NA,NA,0,Auburn,UCF,47
+2009-10,2009-11-20,928576,301,0,1,UCF,Auburn,Knights,Tigers,3,3,41,24,17,1344,UCF,1211,11,33, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,29.2,15.849999999999994,512166,NA,NA,0,UCF,Auburn,48
+2009-10,2009-11-20,928576,303,0,1,UCF,Auburn,Knights,Tigers,3,3,41,24,17,1299,Auburn,1201,1,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25,29.85,329690,NA,NA,0,Auburn,UCF,49
+2009-10,2009-11-20,928576,305,0,1,UCF,Auburn,Knights,Tigers,3,3,41,24,17,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,306,0,2,UCF,Auburn,Knights,Tigers,4,4,41,24,17,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCF,50
+2009-10,2009-11-20,928576,309,0,2,UCF,Auburn,Knights,Tigers,4,4,41,24,17,1299,Auburn,1189,1189,11,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2009-10,2009-11-20,928576,310,0,2,UCF,Auburn,Knights,Tigers,4,4,41,24,17,1344,UCF,1189,1189,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,51
+2009-10,2009-11-20,928576,311,0,2,UCF,Auburn,Knights,Tigers,4,4,42,24,18,1344,UCF,1189,1189,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,51
+2009-10,2009-11-20,928576,314,0,2,UCF,Auburn,Knights,Tigers,4,4,42,24,18,1344,UCF,1175,1175,14,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,52
+2009-10,2009-11-20,928576,315,0,2,UCF,Auburn,Knights,Tigers,4,4,42,25,17,1299,Auburn,1175,1175,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,52
+2009-10,2009-11-20,928576,316,0,2,UCF,Auburn,Knights,Tigers,4,4,42,26,16,1299,Auburn,1175,1175,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,52
+2009-10,2009-11-20,928576,317,0,2,UCF,Auburn,Knights,Tigers,4,4,42,27,15,1299,Auburn,1175,1175,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,52
+2009-10,2009-11-20,928576,320,0,2,UCF,Auburn,Knights,Tigers,4,4,42,27,15,1344,UCF,1166,1166,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,17.25,458975,NA,NA,0,UCF,UCF,53
+2009-10,2009-11-20,928576,323,0,2,UCF,Auburn,Knights,Tigers,4,4,42,27,15,1299,Auburn,1153,1153,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,53
+2009-10,2009-11-20,928576,325,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1344,UCF,1148,1148,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330456,NA,NA,0,UCF,Auburn,53
+2009-10,2009-11-20,928576,326,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1299,Auburn,1137,1137,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30,9.15,329690,NA,NA,0,Auburn,Auburn,54
+2009-10,2009-11-20,928576,327,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1299,Auburn,1129,1129,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,17.45,466767,NA,NA,0,Auburn,UCF,54
+2009-10,2009-11-20,928576,328,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1344,UCF,1122,1122,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,6.650000000000006,458977,NA,NA,0,UCF,UCF,55
+2009-10,2009-11-20,928576,329,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1344,UCF,1112,1112,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483160,NA,NA,0,UCF,Auburn,55
+2009-10,2009-11-20,928576,330,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1299,Auburn,1106,1106,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329690,NA,NA,0,Auburn,UCF,56
+2009-10,2009-11-20,928576,332,0,2,UCF,Auburn,Knights,Tigers,4,4,44,27,17,1299,Auburn,1092,1092,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,57
+2009-10,2009-11-20,928576,333,0,2,UCF,Auburn,Knights,Tigers,4,4,45,27,18,1344,UCF,1092,1092,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,57
+2009-10,2009-11-20,928576,334,0,2,UCF,Auburn,Knights,Tigers,4,4,45,27,18,1299,Auburn,1092,1092,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,335,0,2,UCF,Auburn,Knights,Tigers,4,4,45,27,18,1344,UCF,1092,1092,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,336,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1344,UCF,1092,1092,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,57
+2009-10,2009-11-20,928576,339,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1344,UCF,1076,1076,16,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,58
+2009-10,2009-11-20,928576,341,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1299,Auburn,1068,1068,8, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29.7,8.35,466767,NA,NA,0,Auburn,UCF,58
+2009-10,2009-11-20,928576,343,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1299,Auburn,1061,1061,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,59
+2009-10,2009-11-20,928576,345,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1344,UCF,1058,1058,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,6.650000000000006,458977,NA,NA,0,UCF,Auburn,59
+2009-10,2009-11-20,928576,346,0,2,UCF,Auburn,Knights,Tigers,4,4,46,27,19,1299,Auburn,1047,1047,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,7.35,509426,NA,NA,0,Auburn,Auburn,60
+2009-10,2009-11-20,928576,347,0,2,UCF,Auburn,Knights,Tigers,4,4,46,29,17,1299,Auburn,1039,1039,8, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.3,11.65,466772,NA,NA,0,Auburn,UCF,60
+2009-10,2009-11-20,928576,349,0,2,UCF,Auburn,Knights,Tigers,4,4,46,29,17,1344,UCF,1035,1035,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,351,0,2,UCF,Auburn,Knights,Tigers,4,4,49,29,20,1344,UCF,1015,1015,20, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,12.700000000000003,26.549999999999997,330456,NA,NA,0,UCF,Auburn,61
+2009-10,2009-11-20,928576,352,0,2,UCF,Auburn,Knights,Tigers,4,4,49,29,20,1299,Auburn,1003,1003,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509426,NA,NA,0,Auburn,Auburn,62
+2009-10,2009-11-20,928576,354,0,2,UCF,Auburn,Knights,Tigers,4,3,49,29,20,1299,Auburn,998,998,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,355,0,2,UCF,Auburn,Knights,Tigers,4,3,49,29,20,1344,UCF,998,998,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,357,0,2,UCF,Auburn,Knights,Tigers,4,3,49,32,17,1299,Auburn,988,988,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,8.95,509426,NA,NA,0,Auburn,UCF,62
+2009-10,2009-11-20,928576,358,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1299,Auburn,979,979,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329687,NA,NA,0,Auburn,UCF,63
+2009-10,2009-11-20,928576,360,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1344,UCF,973,973,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,365,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1344,UCF,950,950,23, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.5,6.450000000000003,458977,NA,NA,0,UCF,Auburn,64
+2009-10,2009-11-20,928576,366,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1299,Auburn,944,944,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329690,NA,NA,0,Auburn,UCF,65
+2009-10,2009-11-20,928576,368,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1344,UCF,937,937,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,374,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,1299,Auburn,932,932,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,66
+2009-10,2009-11-20,928576,375,0,2,UCF,Auburn,Knights,Tigers,4,3,49,34,15,NA,NA,932,932,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,377,0,2,UCF,Auburn,Knights,Tigers,4,3,49,36,13,1299,Auburn,927,927,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329690,NA,NA,0,Auburn,UCF,66
+2009-10,2009-11-20,928576,379,0,2,UCF,Auburn,Knights,Tigers,4,3,49,38,11,1299,Auburn,917,917,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329687,NA,NA,0,Auburn,UCF,67
+2009-10,2009-11-20,928576,381,0,2,UCF,Auburn,Knights,Tigers,4,3,49,38,11,1344,UCF,915,915,2,Technical foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,68
+2009-10,2009-11-20,928576,382,0,2,UCF,Auburn,Knights,Tigers,4,3,49,39,10,1299,Auburn,915,915,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,69
+2009-10,2009-11-20,928576,383,0,2,UCF,Auburn,Knights,Tigers,4,3,49,40,9,1299,Auburn,915,915,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,69
+2009-10,2009-11-20,928576,384,0,2,UCF,Auburn,Knights,Tigers,3,3,49,40,9,1344,UCF,915,915,0,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,386,0,2,UCF,Auburn,Knights,Tigers,3,3,51,40,11,1344,UCF,902,902,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329495,NA,NA,0,UCF,Auburn,70
+2009-10,2009-11-20,928576,387,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1299,Auburn,885,885,17, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,27.7,6.95,329687,NA,NA,0,Auburn,UCF,71
+2009-10,2009-11-20,928576,389,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1344,UCF,877,877,8,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,72
+2009-10,2009-11-20,928576,390,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1344,UCF,877,877,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,392,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1299,Auburn,869,869,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,17.5,29.65,509426,NA,NA,0,Auburn,Auburn,72
+2009-10,2009-11-20,928576,394,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1299,Auburn,863,863,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509426,NA,NA,0,Auburn,UCF,72
+2009-10,2009-11-20,928576,396,0,2,UCF,Auburn,Knights,Tigers,3,3,51,42,9,1299,Auburn,860,860,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,73
+2009-10,2009-11-20,928576,398,0,2,UCF,Auburn,Knights,Tigers,3,3,51,44,7,1299,Auburn,855,855,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329690,NA,NA,0,Auburn,UCF,73
+2009-10,2009-11-20,928576,400,0,2,UCF,Auburn,Knights,Tigers,3,3,51,44,7,1299,Auburn,839,839,16,Flagrant foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-11-20,928576,401,0,2,UCF,Auburn,Knights,Tigers,3,3,52,44,8,1344,UCF,839,839,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-11-20,928576,402,0,2,UCF,Auburn,Knights,Tigers,3,3,52,44,8,1344,UCF,839,839,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-11-20,928576,407,0,2,UCF,Auburn,Knights,Tigers,3,3,52,44,8,1299,Auburn,827,827,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-11-20,928576,408,0,2,UCF,Auburn,Knights,Tigers,3,3,53,44,9,1344,UCF,827,827,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,74
+2009-10,2009-11-20,928576,409,0,2,UCF,Auburn,Knights,Tigers,3,3,53,44,9,1344,UCF,827,827,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,75
+2009-10,2009-11-20,928576,412,0,2,UCF,Auburn,Knights,Tigers,3,3,53,47,6,1299,Auburn,811,811,16, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.5,8.35,509426,NA,NA,0,Auburn,UCF,76
+2009-10,2009-11-20,928576,415,0,2,UCF,Auburn,Knights,Tigers,3,3,53,47,6,1344,UCF,794,794,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,419,0,2,UCF,Auburn,Knights,Tigers,3,3,53,47,6,1344,UCF,787,787,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,UCF,77
+2009-10,2009-11-20,928576,420,0,2,UCF,Auburn,Knights,Tigers,3,3,53,47,6,1344,UCF,783,783,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330456,NA,NA,0,UCF,Auburn,77
+2009-10,2009-11-20,928576,421,0,2,UCF,Auburn,Knights,Tigers,3,3,53,47,6,1299,Auburn,776,776,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,15.35,329690,NA,NA,0,Auburn,UCF,78
+2009-10,2009-11-20,928576,423,0,2,UCF,Auburn,Knights,Tigers,3,3,55,47,8,1344,UCF,758,758,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,UCF,79
+2009-10,2009-11-20,928576,424,0,2,UCF,Auburn,Knights,Tigers,3,3,55,47,8,1299,Auburn,758,758,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,79
+2009-10,2009-11-20,928576,425,0,2,UCF,Auburn,Knights,Tigers,3,3,55,47,8,1299,Auburn,758,758,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,426,0,2,UCF,Auburn,Knights,Tigers,3,3,55,47,8,1299,Auburn,758,758,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,427,0,2,UCF,Auburn,Knights,Tigers,3,3,56,47,9,1344,UCF,758,758,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,79
+2009-10,2009-11-20,928576,428,0,2,UCF,Auburn,Knights,Tigers,3,3,56,47,9,1344,UCF,758,758,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,432,0,2,UCF,Auburn,Knights,Tigers,3,3,56,47,9,1344,UCF,749,749,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,438,0,2,UCF,Auburn,Knights,Tigers,3,3,56,47,9,1299,Auburn,732,732,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,5.65,509402,NA,NA,0,Auburn,UCF,80
+2009-10,2009-11-20,928576,445,0,2,UCF,Auburn,Knights,Tigers,3,3,58,47,11,1344,UCF,712,712,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,Auburn,81
+2009-10,2009-11-20,928576,448,0,2,UCF,Auburn,Knights,Tigers,3,3,58,47,11,NA,NA,687,687,25,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,450,0,2,UCF,Auburn,Knights,Tigers,3,3,60,47,13,1344,UCF,675,675,12, makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,21.5,13.150000000000006,330456,NA,NA,0,UCF,Auburn,82
+2009-10,2009-11-20,928576,451,0,2,UCF,Auburn,Knights,Tigers,3,3,60,47,13,1299,Auburn,648,648,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.3,11.85,329687,NA,NA,0,Auburn,UCF,83
+2009-10,2009-11-20,928576,453,0,2,UCF,Auburn,Knights,Tigers,3,3,60,47,13,1299,Auburn,640,640,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,458,0,2,UCF,Auburn,Knights,Tigers,3,3,62,47,15,1344,UCF,614,614,26, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.3,9.549999999999997,458975,NA,NA,0,UCF,UCF,84
+2009-10,2009-11-20,928576,459,0,2,UCF,Auburn,Knights,Tigers,3,3,62,47,15,1299,Auburn,614,614,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,84
+2009-10,2009-11-20,928576,460,0,2,UCF,Auburn,Knights,Tigers,3,3,62,47,15,1299,Auburn,614,614,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,461,0,2,UCF,Auburn,Knights,Tigers,3,3,62,47,15,1344,UCF,614,614,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,84
+2009-10,2009-11-20,928576,463,0,2,UCF,Auburn,Knights,Tigers,3,3,62,47,15,1299,Auburn,602,602,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45,12.45,466767,NA,NA,0,Auburn,UCF,85
+2009-10,2009-11-20,928576,464,0,2,UCF,Auburn,Knights,Tigers,3,3,64,47,17,1344,UCF,596,596,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512157,NA,NA,0,UCF,Auburn,86
+2009-10,2009-11-20,928576,466,0,2,UCF,Auburn,Knights,Tigers,3,3,64,47,17,1344,UCF,587,587,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,472,0,2,UCF,Auburn,Knights,Tigers,3,3,64,47,17,1299,Auburn,575,575,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7,17.45,509426,NA,NA,0,Auburn,Auburn,87
+2009-10,2009-11-20,928576,473,0,2,UCF,Auburn,Knights,Tigers,3,3,64,49,15,1299,Auburn,571,571,4, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.3,10.45,466767,NA,NA,0,Auburn,UCF,87
+2009-10,2009-11-20,928576,476,0,2,UCF,Auburn,Knights,Tigers,3,2,64,49,15,1299,Auburn,569,569,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,478,0,2,UCF,Auburn,Knights,Tigers,3,2,64,49,15,1344,UCF,554,554,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,UCF,88
+2009-10,2009-11-20,928576,480,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,534,534,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,483160,NA,NA,0,UCF,Auburn,88
+2009-10,2009-11-20,928576,482,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,512,512,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.8,28.05,329687,NA,NA,0,Auburn,Auburn,89
+2009-10,2009-11-20,928576,484,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,505,505,7,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,89
+2009-10,2009-11-20,928576,485,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,505,505,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,486,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,505,505,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,487,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,505,505,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,493,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,483,483,22, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,12.05,329690,NA,NA,0,Auburn,UCF,89
+2009-10,2009-11-20,928576,494,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1344,UCF,445,445,38, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,15.849999999999994,458975,NA,NA,0,UCF,Auburn,90
+2009-10,2009-11-20,928576,496,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,437,437,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509426,NA,NA,0,Auburn,UCF,91
+2009-10,2009-11-20,928576,500,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,434,434,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,92
+2009-10,2009-11-20,928576,501,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,NA,NA,434,434,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,502,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,434,434,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,503,0,2,UCF,Auburn,Knights,Tigers,3,2,66,49,17,1299,Auburn,434,434,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,504,0,2,UCF,Auburn,Knights,Tigers,3,2,67,49,18,1344,UCF,434,434,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,92
+2009-10,2009-11-20,928576,505,0,2,UCF,Auburn,Knights,Tigers,3,2,68,49,19,1344,UCF,434,434,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,92
+2009-10,2009-11-20,928576,506,0,2,UCF,Auburn,Knights,Tigers,3,2,68,49,19,1299,Auburn,434,434,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,511,0,2,UCF,Auburn,Knights,Tigers,3,2,68,49,19,1299,Auburn,421,421,13,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,93
+2009-10,2009-11-20,928576,513,0,2,UCF,Auburn,Knights,Tigers,3,2,70,49,21,1344,UCF,409,409,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458977,NA,NA,0,UCF,Auburn,94
+2009-10,2009-11-20,928576,515,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,393,393,16, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,9.15,329689,NA,NA,0,Auburn,UCF,95
+2009-10,2009-11-20,928576,516,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,391,391,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,517,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,391,391,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,518,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,391,391,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,520,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,384,384,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,5.65,329690,NA,NA,0,Auburn,UCF,96
+2009-10,2009-11-20,928576,527,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1344,UCF,350,350,34, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,15.650000000000006,329495,NA,NA,0,UCF,Auburn,97
+2009-10,2009-11-20,928576,528,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,331,331,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,5.85,329690,NA,NA,0,Auburn,UCF,98
+2009-10,2009-11-20,928576,530,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1344,UCF,320,320,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329495,NA,NA,0,UCF,UCF,99
+2009-10,2009-11-20,928576,532,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,319,319,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,99
+2009-10,2009-11-20,928576,533,0,2,UCF,Auburn,Knights,Tigers,3,2,70,52,18,1299,Auburn,319,319,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,534,0,2,UCF,Auburn,Knights,Tigers,3,2,71,52,19,1344,UCF,319,319,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,99
+2009-10,2009-11-20,928576,535,0,2,UCF,Auburn,Knights,Tigers,3,2,71,52,19,1344,UCF,319,319,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,536,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1344,UCF,319,319,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,99
+2009-10,2009-11-20,928576,539,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1299,Auburn,301,301,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36,27.15,329689,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,541,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1299,Auburn,295,295,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,29.25,466767,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,543,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1344,UCF,293,293,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,549,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1299,Auburn,264,264,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466767,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,551,0,2,UCF,Auburn,Knights,Tigers,3,2,72,52,20,1344,UCF,256,256,8,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,552,0,2,UCF,Auburn,Knights,Tigers,3,2,72,53,19,1299,Auburn,256,256,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,553,0,2,UCF,Auburn,Knights,Tigers,3,2,72,53,19,1299,Auburn,256,256,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,554,0,2,UCF,Auburn,Knights,Tigers,3,2,72,54,18,1299,Auburn,256,256,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,560,0,2,UCF,Auburn,Knights,Tigers,3,2,72,54,18,1344,UCF,234,234,22,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,561,0,2,UCF,Auburn,Knights,Tigers,3,2,72,54,18,1299,Auburn,234,234,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,100
+2009-10,2009-11-20,928576,562,0,2,UCF,Auburn,Knights,Tigers,3,2,72,54,18,1299,Auburn,234,234,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,100
+2009-10,2009-11-20,928576,571,0,2,UCF,Auburn,Knights,Tigers,3,2,74,54,20,1344,UCF,225,225,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,Auburn,101
+2009-10,2009-11-20,928576,572,0,2,UCF,Auburn,Knights,Tigers,3,2,74,57,17,1299,Auburn,214,214,11, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,9.85,329687,NA,NA,0,Auburn,UCF,102
+2009-10,2009-11-20,928576,575,0,2,UCF,Auburn,Knights,Tigers,3,2,74,60,14,1299,Auburn,181,181,33, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,44.5,16.65,329690,NA,NA,0,Auburn,UCF,103
+2009-10,2009-11-20,928576,587,0,2,UCF,Auburn,Knights,Tigers,2,2,74,60,14,1344,UCF,156,156,25,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,588,0,2,UCF,Auburn,Knights,Tigers,2,2,74,60,14,1344,UCF,156,156,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,589,0,2,UCF,Auburn,Knights,Tigers,2,2,74,60,14,1344,UCF,156,156,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,592,0,2,UCF,Auburn,Knights,Tigers,2,2,74,60,14,1299,Auburn,152,152,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,598,0,2,UCF,Auburn,Knights,Tigers,2,2,74,63,11,1299,Auburn,140,140,12, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.3,8.35,466767,NA,NA,0,Auburn,UCF,104
+2009-10,2009-11-20,928576,600,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1299,Auburn,138,138,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,601,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1344,UCF,138,138,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,602,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1344,UCF,138,138,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,608,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1344,UCF,132,132,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,612,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1344,UCF,123,123,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,618,0,2,UCF,Auburn,Knights,Tigers,2,1,74,63,11,1299,Auburn,118,118,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,105
+2009-10,2009-11-20,928576,619,0,2,UCF,Auburn,Knights,Tigers,2,1,75,63,12,1344,UCF,118,118,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,105
+2009-10,2009-11-20,928576,620,0,2,UCF,Auburn,Knights,Tigers,2,1,76,63,13,1344,UCF,118,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,105
+2009-10,2009-11-20,928576,622,0,2,UCF,Auburn,Knights,Tigers,2,1,76,63,13,1299,Auburn,110,110,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,7.75,329689,NA,NA,0,Auburn,Auburn,106
+2009-10,2009-11-20,928576,625,0,2,UCF,Auburn,Knights,Tigers,2,1,76,66,10,1299,Auburn,97,97,13, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,42.5,17.85,509402,NA,NA,0,Auburn,UCF,106
+2009-10,2009-11-20,928576,627,0,2,UCF,Auburn,Knights,Tigers,2,0,76,66,10,1299,Auburn,96,96,1,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,634,0,2,UCF,Auburn,Knights,Tigers,2,0,76,66,10,1299,Auburn,73,73,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,21.65,329687,NA,NA,0,Auburn,Auburn,107
+2009-10,2009-11-20,928576,636,0,2,UCF,Auburn,Knights,Tigers,2,0,76,68,8,1299,Auburn,70,70,3, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,17.5,9.85,466767,NA,NA,0,Auburn,Auburn,107
+2009-10,2009-11-20,928576,637,0,2,UCF,Auburn,Knights,Tigers,2,0,76,68,8,1344,UCF,70,70,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,107
+2009-10,2009-11-20,928576,638,0,2,UCF,Auburn,Knights,Tigers,2,0,76,69,7,1299,Auburn,70,70,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,UCF,107
+2009-10,2009-11-20,928576,639,0,2,UCF,Auburn,Knights,Tigers,2,0,76,69,7,1299,Auburn,70,70,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,642,0,2,UCF,Auburn,Knights,Tigers,1,0,76,69,7,1344,UCF,59,59,11,Knights take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,643,0,2,UCF,Auburn,Knights,Tigers,1,0,76,69,7,1299,Auburn,59,59,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,108
+2009-10,2009-11-20,928576,644,0,2,UCF,Auburn,Knights,Tigers,1,0,77,69,8,1344,UCF,59,59,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,108
+2009-10,2009-11-20,928576,645,0,2,UCF,Auburn,Knights,Tigers,1,0,78,69,9,1344,UCF,59,59,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,108
+2009-10,2009-11-20,928576,648,0,2,UCF,Auburn,Knights,Tigers,1,0,78,71,7,1299,Auburn,52,52,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509402,NA,NA,0,Auburn,UCF,109
+2009-10,2009-11-20,928576,651,0,2,UCF,Auburn,Knights,Tigers,1,0,78,71,7,1299,Auburn,50,50,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,110
+2009-10,2009-11-20,928576,652,0,2,UCF,Auburn,Knights,Tigers,1,0,79,71,8,1344,UCF,50,50,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,110
+2009-10,2009-11-20,928576,653,0,2,UCF,Auburn,Knights,Tigers,1,0,79,71,8,1299,Auburn,50,50,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,654,0,2,UCF,Auburn,Knights,Tigers,1,0,80,71,9,1344,UCF,50,50,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,110
+2009-10,2009-11-20,928576,658,0,2,UCF,Auburn,Knights,Tigers,1,0,80,71,9,1299,Auburn,35,35,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,111
+2009-10,2009-11-20,928576,659,0,2,UCF,Auburn,Knights,Tigers,1,0,81,71,10,1344,UCF,35,35,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,111
+2009-10,2009-11-20,928576,660,0,2,UCF,Auburn,Knights,Tigers,1,0,81,71,10,1299,Auburn,35,35,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-20,928576,661,0,2,UCF,Auburn,Knights,Tigers,1,0,82,71,11,1344,UCF,35,35,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,111
+2009-10,2009-11-20,928576,663,0,2,UCF,Auburn,Knights,Tigers,1,0,82,71,11,1299,Auburn,28,28,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,23.45,329689,NA,NA,0,Auburn,Auburn,112
+2009-10,2009-11-20,928576,665,0,2,UCF,Auburn,Knights,Tigers,1,0,82,74,8,1299,Auburn,24,24,4, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,41.5,19.75,329687,NA,NA,0,Auburn,UCF,112
+2009-10,2009-11-20,928576,669,0,2,UCF,Auburn,Knights,Tigers,1,0,82,74,8,1299,Auburn,21,21,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,113
+2009-10,2009-11-20,928576,670,0,2,UCF,Auburn,Knights,Tigers,1,0,83,74,9,1344,UCF,21,21,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,113
+2009-10,2009-11-20,928576,671,0,2,UCF,Auburn,Knights,Tigers,1,0,84,74,10,1344,UCF,21,21,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,Auburn,113
+2009-10,2009-11-20,928576,674,0,2,UCF,Auburn,Knights,Tigers,1,0,84,74,10,1299,Auburn,15,15,6, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,19.55,329687,NA,NA,0,Auburn,NA,114
+2009-10,2009-11-20,928576,677,0,2,UCF,Auburn,Knights,Tigers,1,0,84,74,10,NA,NA,0,0,15,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-20,928576,678,0,2,UCF,Auburn,Knights,Tigers,1,0,84,74,10,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Auburn,Auburn,NA

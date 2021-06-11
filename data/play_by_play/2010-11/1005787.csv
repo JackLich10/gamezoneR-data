@@ -1,0 +1,259 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-23,1005787,1,0,1,North Texas,Rice,Mean Green,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,2,0,1,North Texas,Rice,Mean Green,Owls,4,4,0,0,0,1582,Rice,2400,1200,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,4,0,1,North Texas,Rice,Mean Green,Owls,4,4,0,0,0,1582,Rice,2385,1185,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,North Texas,1
+2010-11,2010-11-23,1005787,5,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,0,2,1541,North Texas,2376,1176,9, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,34,16.650000000000006,410784,NA,NA,0,North Texas,Rice,2
+2010-11,2010-11-23,1005787,6,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,0,2,1582,Rice,2364,1164,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.5,26.55,473209,NA,NA,0,Rice,North Texas,3
+2010-11,2010-11-23,1005787,9,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,0,2,1541,North Texas,2332,1132,32, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,13.950000000000003,410784,NA,NA,0,North Texas,Rice,4
+2010-11,2010-11-23,1005787,10,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1582,Rice,2292,1092,40, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,North Texas,5
+2010-11,2010-11-23,1005787,11,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1582,Rice,2273,1073,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,2.55,458971,NA,NA,0,Rice,Rice,6
+2010-11,2010-11-23,1005787,16,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1582,Rice,2248,1048,25, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,12.95,339839,NA,NA,0,Rice,North Texas,6
+2010-11,2010-11-23,1005787,17,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1541,North Texas,2230,1030,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,9.650000000000006,419844,NA,NA,0,North Texas,North Texas,7
+2010-11,2010-11-23,1005787,19,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1582,Rice,2226,1026,4,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,7
+2010-11,2010-11-23,1005787,20,0,1,North Texas,Rice,Mean Green,Owls,4,4,2,2,0,1541,North Texas,2226,1026,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,7
+2010-11,2010-11-23,1005787,21,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1541,North Texas,2226,1026,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,7
+2010-11,2010-11-23,1005787,23,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1582,Rice,2212,1012,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,16.45,473209,NA,NA,0,Rice,North Texas,8
+2010-11,2010-11-23,1005787,24,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1541,North Texas,2198,998,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,419844,NA,NA,0,North Texas,Rice,9
+2010-11,2010-11-23,1005787,25,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1582,Rice,2190,990,8, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,7.15,458971,NA,NA,0,Rice,North Texas,10
+2010-11,2010-11-23,1005787,31,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1541,North Texas,2165,965,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,419844,NA,NA,0,North Texas,Rice,11
+2010-11,2010-11-23,1005787,32,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,2,1,1582,Rice,2153,953,12, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,11.45,339839,NA,NA,0,Rice,Rice,12
+2010-11,2010-11-23,1005787,33,0,1,North Texas,Rice,Mean Green,Owls,4,4,3,4,-1,1582,Rice,2149,949,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,North Texas,12
+2010-11,2010-11-23,1005787,41,0,1,North Texas,Rice,Mean Green,Owls,4,4,5,4,1,1541,North Texas,2122,922,27, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.5,14.549999999999997,411165,NA,NA,0,North Texas,Rice,13
+2010-11,2010-11-23,1005787,43,0,1,North Texas,Rice,Mean Green,Owls,4,4,5,4,1,1582,Rice,2101,901,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,North Texas,14
+2010-11,2010-11-23,1005787,46,0,1,North Texas,Rice,Mean Green,Owls,4,4,5,4,1,1582,Rice,2099,899,2,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,15
+2010-11,2010-11-23,1005787,47.5,0,1,North Texas,Rice,Mean Green,Owls,4,4,5,4,1,NA,NA,2098,898,1,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,50,0,1,North Texas,Rice,Mean Green,Owls,4,4,5,4,1,1582,Rice,2098,898,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,51,0,1,North Texas,Rice,Mean Green,Owls,4,4,6,4,2,1541,North Texas,2098,898,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,15
+2010-11,2010-11-23,1005787,52,0,1,North Texas,Rice,Mean Green,Owls,4,4,7,4,3,1541,North Texas,2098,898,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,15
+2010-11,2010-11-23,1005787,54,0,1,North Texas,Rice,Mean Green,Owls,4,4,9,4,5,1541,North Texas,2077,877,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411164,NA,NA,0,North Texas,Rice,16
+2010-11,2010-11-23,1005787,55,0,1,North Texas,Rice,Mean Green,Owls,4,4,9,4,5,1582,Rice,2056,856,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,17
+2010-11,2010-11-23,1005787,56,0,1,North Texas,Rice,Mean Green,Owls,4,4,9,6,3,1582,Rice,2051,851,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,North Texas,17
+2010-11,2010-11-23,1005787,57,0,1,North Texas,Rice,Mean Green,Owls,4,4,9,6,3,1541,North Texas,2041,841,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25,28.450000000000003,411165,NA,NA,0,North Texas,North Texas,18
+2010-11,2010-11-23,1005787,58,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1541,North Texas,2036,836,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411165,NA,NA,0,North Texas,Rice,18
+2010-11,2010-11-23,1005787,60,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1582,Rice,2016,816,20,Offensive Charge Foul foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,19
+2010-11,2010-11-23,1005787,61,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1582,Rice,2016,816,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,62,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1582,Rice,2016,816,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,65,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1582,Rice,2010,810,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,66,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,6,5,1541,North Texas,2010,810,0,Offensive Charge Foul foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,19
+2010-11,2010-11-23,1005787,78,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,8,3,1582,Rice,1983,783,27, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,24.8,10.25,506617,NA,NA,0,Rice,North Texas,19
+2010-11,2010-11-23,1005787,80,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,8,3,1541,North Texas,1961,761,22, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,16.650000000000006,411164,NA,NA,0,North Texas,Rice,20
+2010-11,2010-11-23,1005787,81,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,8,3,1541,North Texas,1961,761,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,82,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,8,3,1541,North Texas,1961,761,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,84,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1582,Rice,1951,751,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25,29.05,295357,NA,NA,0,Rice,North Texas,21
+2010-11,2010-11-23,1005787,86,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1582,Rice,1935,735,16,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,22
+2010-11,2010-11-23,1005787,87,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1541,North Texas,1935,735,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,92,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1541,North Texas,1908,708,27,Offensive Charge Foul foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,North Texas,22
+2010-11,2010-11-23,1005787,93,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,NA,NA,1908,708,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,94,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1541,North Texas,1908,708,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,96,0,1,North Texas,Rice,Mean Green,Owls,4,4,11,11,0,1541,North Texas,1889,689,19, misses a layup from 4 feet out.,missed,FALSE,FALSE,Layup Shot,26,9.25,523387,NA,NA,0,North Texas,North Texas,22
+2010-11,2010-11-23,1005787,98,0,1,North Texas,Rice,Mean Green,Owls,4,4,13,11,2,1541,North Texas,1885,685,4, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,16.799999999999997,6.25,523387,NA,NA,0,North Texas,Rice,22
+2010-11,2010-11-23,1005787,101,0,1,North Texas,Rice,Mean Green,Owls,4,4,13,11,2,1541,North Texas,1880,680,5,Shooting foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,23
+2010-11,2010-11-23,1005787,121,0,1,North Texas,Rice,Mean Green,Owls,4,4,13,11,2,1582,Rice,1861,661,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,23
+2010-11,2010-11-23,1005787,124.5,0,1,North Texas,Rice,Mean Green,Owls,4,4,13,11,2,1582,Rice,1861,661,0, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23,13.25,458971,NA,NA,0,Rice,North Texas,23
+2010-11,2010-11-23,1005787,128,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,11,4,1541,North Texas,1849,649,12, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,25,17.849999999999994,411164,NA,NA,0,North Texas,Rice,24
+2010-11,2010-11-23,1005787,130,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,11,4,1541,North Texas,1840,640,9,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,25
+2010-11,2010-11-23,1005787,136,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,14,1,1582,Rice,1825,625,15, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.300000000000001,5.25,295357,NA,NA,0,Rice,North Texas,25
+2010-11,2010-11-23,1005787,138,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,14,1,1541,North Texas,1804,604,21,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,26
+2010-11,2010-11-23,1005787,139,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,14,1,1582,Rice,1804,604,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,140,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,14,1,1541,North Texas,1804,604,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,158,0,1,North Texas,Rice,Mean Green,Owls,4,4,15,16,-1,1582,Rice,1764,564,40, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,25.5,13.35,458971,NA,NA,0,Rice,North Texas,26
+2010-11,2010-11-23,1005787,159,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,16,1,1541,North Texas,1746,546,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338724,NA,NA,0,North Texas,Rice,27
+2010-11,2010-11-23,1005787,160,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,16,1,1582,Rice,1731,531,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,16.65,458972,NA,NA,0,Rice,Rice,28
+2010-11,2010-11-23,1005787,162,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,18,-1,1582,Rice,1723,523,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Rice,28
+2010-11,2010-11-23,1005787,163,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,18,-1,1541,North Texas,1723,523,0,Shooting foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,28
+2010-11,2010-11-23,1005787,164,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,18,-1,1541,North Texas,1723,523,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,165,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,18,-1,1541,North Texas,1723,523,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,166,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1582,Rice,1723,523,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,28
+2010-11,2010-11-23,1005787,174,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1582,Rice,1701,501,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,North Texas,29
+2010-11,2010-11-23,1005787,182,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1541,North Texas,1701,501,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,33.7,26.150000000000006,523387,NA,NA,0,North Texas,Rice,30
+2010-11,2010-11-23,1005787,183,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1541,North Texas,1701,501,0,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2010-11,2010-11-23,1005787,184,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1582,Rice,1687,487,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,North Texas,31
+2010-11,2010-11-23,1005787,185,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1541,North Texas,1675,475,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14,8.950000000000003,410784,NA,NA,0,North Texas,North Texas,32
+2010-11,2010-11-23,1005787,186.5,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1582,Rice,1674,474,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,32
+2010-11,2010-11-23,1005787,192,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,NA,NA,1674,474,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,196,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1582,Rice,1671,471,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,198,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,19,-2,1541,North Texas,1649,449,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,200,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,22,-5,1582,Rice,1647,447,2, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,9.3,19.95,458971,NA,NA,0,Rice,North Texas,32
+2010-11,2010-11-23,1005787,201,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,22,-5,1541,North Texas,1635,435,12, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,12.049999999999997,419844,NA,NA,0,North Texas,Rice,33
+2010-11,2010-11-23,1005787,208,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,22,-5,1582,Rice,1616,416,19, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,10.45,506617,NA,NA,0,Rice,North Texas,34
+2010-11,2010-11-23,1005787,209,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,22,-5,1541,North Texas,1609,409,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411165,NA,NA,0,North Texas,Rice,35
+2010-11,2010-11-23,1005787,210,0,1,North Texas,Rice,Mean Green,Owls,4,4,17,22,-5,1582,Rice,1604,404,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,19.15,552330,NA,NA,0,Rice,North Texas,36
+2010-11,2010-11-23,1005787,211,0,1,North Texas,Rice,Mean Green,Owls,4,4,19,22,-3,1541,North Texas,1592,392,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411165,NA,NA,0,North Texas,Rice,37
+2010-11,2010-11-23,1005787,212,0,1,North Texas,Rice,Mean Green,Owls,4,4,19,22,-3,1582,Rice,1554,354,38, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,17.65,458971,NA,NA,0,Rice,North Texas,38
+2010-11,2010-11-23,1005787,213,0,1,North Texas,Rice,Mean Green,Owls,4,4,21,22,-1,1541,North Texas,1545,345,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,523387,NA,NA,0,North Texas,Rice,39
+2010-11,2010-11-23,1005787,215,0,1,North Texas,Rice,Mean Green,Owls,4,4,21,22,-1,1541,North Texas,1539,339,6,Technical foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,40
+2010-11,2010-11-23,1005787,216,0,1,North Texas,Rice,Mean Green,Owls,4,4,21,23,-2,1582,Rice,1539,339,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,40
+2010-11,2010-11-23,1005787,217,0,1,North Texas,Rice,Mean Green,Owls,4,4,21,24,-3,1582,Rice,1539,339,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,40
+2010-11,2010-11-23,1005787,218,0,1,North Texas,Rice,Mean Green,Owls,4,4,21,24,-3,1582,Rice,1539,339,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,225,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,24,-1,1541,North Texas,1523,323,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411165,NA,NA,0,North Texas,Rice,41
+2010-11,2010-11-23,1005787,226,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,24,-1,1582,Rice,1523,323,0, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,16.45,458971,NA,NA,0,Rice,Rice,42
+2010-11,2010-11-23,1005787,261,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,24,-1,1582,Rice,1482,282,41, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26,12.65,473209,NA,NA,0,Rice,North Texas,42
+2010-11,2010-11-23,1005787,262,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,24,-1,1541,North Texas,1469,269,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,5.849999999999994,410784,NA,NA,0,North Texas,Rice,43
+2010-11,2010-11-23,1005787,263,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,26,-3,1582,Rice,1462,262,7, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,34.7,18.95,473209,NA,NA,0,Rice,North Texas,44
+2010-11,2010-11-23,1005787,264,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,26,-3,1582,Rice,1425,225,37, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,15,25.55,295357,NA,NA,0,Rice,North Texas,45
+2010-11,2010-11-23,1005787,265,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,26,-3,1541,North Texas,1419,219,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,12.450000000000003,411165,NA,NA,0,North Texas,North Texas,46
+2010-11,2010-11-23,1005787,267,0,1,North Texas,Rice,Mean Green,Owls,4,4,23,26,-3,1541,North Texas,1410,210,9, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,34,25.25,411165,NA,NA,0,North Texas,North Texas,46
+2010-11,2010-11-23,1005787,277,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1541,North Texas,1401,201,9,Mean Green take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,283,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1541,North Texas,1388,188,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,15.549999999999997,338724,NA,NA,0,North Texas,North Texas,46
+2010-11,2010-11-23,1005787,284,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1541,North Texas,1382,182,6, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,26.5,9.549999999999997,419844,NA,NA,0,North Texas,Rice,46
+2010-11,2010-11-23,1005787,292,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,NA,NA,1381,181,1,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,293,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1582,Rice,1381,181,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,294,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1582,Rice,1381,181,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,295,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1582,Rice,1381,181,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,300,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1541,North Texas,1355,155,26,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,47
+2010-11,2010-11-23,1005787,301,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,26,-3,1541,North Texas,1355,155,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,302,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,27,-4,1582,Rice,1355,155,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,47
+2010-11,2010-11-23,1005787,303,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,27,-4,1582,Rice,1355,155,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,304,0,1,North Texas,Rice,Mean Green,Owls,3,4,23,27,-4,1582,Rice,1355,155,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,48
+2010-11,2010-11-23,1005787,318,0,1,North Texas,Rice,Mean Green,Owls,3,4,25,27,-2,1541,North Texas,1334,134,21, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,21.7,8.950000000000003,330052,NA,NA,0,North Texas,Rice,49
+2010-11,2010-11-23,1005787,319,0,1,North Texas,Rice,Mean Green,Owls,3,4,25,29,-4,1582,Rice,1316,116,18, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,16,9.65,399613,NA,NA,0,Rice,North Texas,50
+2010-11,2010-11-23,1005787,320,0,1,North Texas,Rice,Mean Green,Owls,3,4,25,29,-4,1541,North Texas,1299,99,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,28.849999999999994,411164,NA,NA,0,North Texas,Rice,51
+2010-11,2010-11-23,1005787,323,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,29,-4,1582,Rice,1289,89,10,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,324,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,29,-4,1582,Rice,1289,89,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,326,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,29,-4,1582,Rice,1271,71,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,10.65,506617,NA,NA,0,Rice,Rice,52
+2010-11,2010-11-23,1005787,327,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1582,Rice,1268,68,3, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,23.5,9.65,399613,NA,NA,0,Rice,North Texas,52
+2010-11,2010-11-23,1005787,332,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1541,North Texas,1247,47,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40,20.950000000000003,411165,NA,NA,0,North Texas,Rice,53
+2010-11,2010-11-23,1005787,334,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1582,Rice,1213,13,34, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,21.45,473209,NA,NA,0,Rice,North Texas,54
+2010-11,2010-11-23,1005787,335,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1582,Rice,1213,13,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,340,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1582,Rice,1207,7,6,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,55
+2010-11,2010-11-23,1005787,341,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,1541,North Texas,1205,5,2, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26,28.650000000000006,411164,NA,NA,0,North Texas,North Texas,55
+2010-11,2010-11-23,1005787,343,0,1,North Texas,Rice,Mean Green,Owls,3,3,25,31,-6,NA,NA,1200,0,5,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,349,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,31,-6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,North Texas,55
+2010-11,2010-11-23,1005787,353,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,31,-6,1541,North Texas,1183,1183,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411165,NA,NA,0,North Texas,North Texas,56
+2010-11,2010-11-23,1005787,356,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,31,-6,1541,North Texas,1171,1171,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,28.450000000000003,411165,NA,NA,0,North Texas,Rice,56
+2010-11,2010-11-23,1005787,359,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,34,-9,1582,Rice,1140,1140,31, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,3.55,458971,NA,NA,0,Rice,North Texas,57
+2010-11,2010-11-23,1005787,375,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,34,-9,1582,Rice,1116,1116,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,North Texas,58
+2010-11,2010-11-23,1005787,377,0,2,North Texas,Rice,Mean Green,Owls,4,4,25,34,-9,1582,Rice,1111,1111,5,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,59
+2010-11,2010-11-23,1005787,378,0,2,North Texas,Rice,Mean Green,Owls,4,4,26,34,-8,1541,North Texas,1111,1111,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,59
+2010-11,2010-11-23,1005787,379,0,2,North Texas,Rice,Mean Green,Owls,4,4,27,34,-7,1541,North Texas,1111,1111,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,59
+2010-11,2010-11-23,1005787,384,0,2,North Texas,Rice,Mean Green,Owls,4,4,27,34,-7,1582,Rice,1097,1097,14, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,11.25,339839,NA,NA,0,Rice,North Texas,60
+2010-11,2010-11-23,1005787,388,0,2,North Texas,Rice,Mean Green,Owls,4,4,27,34,-7,1541,North Texas,1083,1083,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,28.450000000000003,410784,NA,NA,0,North Texas,North Texas,61
+2010-11,2010-11-23,1005787,389,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,1079,1079,4, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.3,9.349999999999994,330052,NA,NA,0,North Texas,Rice,61
+2010-11,2010-11-23,1005787,390,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1060,1060,19, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,13.75,339839,NA,NA,0,Rice,North Texas,62
+2010-11,2010-11-23,1005787,391,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,1052,1052,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,28.450000000000003,411164,NA,NA,0,North Texas,North Texas,63
+2010-11,2010-11-23,1005787,392,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,1048,1048,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330052,NA,NA,0,North Texas,Rice,63
+2010-11,2010-11-23,1005787,393,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1044,1044,4, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,16.25,473209,NA,NA,0,Rice,Rice,64
+2010-11,2010-11-23,1005787,394,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1033,1033,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,North Texas,64
+2010-11,2010-11-23,1005787,395,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,1026,1026,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411164,NA,NA,0,North Texas,Rice,65
+2010-11,2010-11-23,1005787,397,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,1022,1022,4,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,66
+2010-11,2010-11-23,1005787,402,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1018,1018,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,403,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1018,1018,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,411,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,1004,1004,14, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,14.35,399613,NA,NA,0,Rice,North Texas,66
+2010-11,2010-11-23,1005787,416,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,979,979,25,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,67
+2010-11,2010-11-23,1005787,418,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,969,969,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,10.049999999999997,411165,NA,NA,0,North Texas,Rice,67
+2010-11,2010-11-23,1005787,419,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,961,961,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,North Texas,68
+2010-11,2010-11-23,1005787,424,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,NA,NA,959,959,2,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,425,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,959,959,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,427,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1541,North Texas,935,935,24, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.299999999999997,3.75,330052,NA,NA,0,North Texas,Rice,69
+2010-11,2010-11-23,1005787,429,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,901,901,34, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,15.55,506616,NA,NA,0,Rice,North Texas,70
+2010-11,2010-11-23,1005787,430,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,898,898,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,71
+2010-11,2010-11-23,1005787,431,0,2,North Texas,Rice,Mean Green,Owls,4,4,29,34,-5,1582,Rice,898,898,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,445,0,2,North Texas,Rice,Mean Green,Owls,4,4,32,34,-2,1541,North Texas,890,890,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,40.7,21.349999999999994,411165,NA,NA,0,North Texas,Rice,71
+2010-11,2010-11-23,1005787,473,0,2,North Texas,Rice,Mean Green,Owls,4,3,32,34,-2,1582,Rice,866,866,24,Owls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,475,0,2,North Texas,Rice,Mean Green,Owls,4,3,32,34,-2,1582,Rice,858,858,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,4.45,295357,NA,NA,0,Rice,North Texas,72
+2010-11,2010-11-23,1005787,476,0,2,North Texas,Rice,Mean Green,Owls,4,3,34,34,0,1541,North Texas,847,847,11, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,25,13.349999999999994,411165,NA,NA,0,North Texas,Rice,73
+2010-11,2010-11-23,1005787,477,0,2,North Texas,Rice,Mean Green,Owls,4,3,34,34,0,1582,Rice,818,818,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,3.75,506616,NA,NA,0,Rice,North Texas,74
+2010-11,2010-11-23,1005787,478,0,2,North Texas,Rice,Mean Green,Owls,4,3,37,34,3,1541,North Texas,797,797,21, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,6.799999999999997,16.049999999999997,411165,NA,NA,0,North Texas,Rice,75
+2010-11,2010-11-23,1005787,479,0,2,North Texas,Rice,Mean Green,Owls,4,3,37,36,1,1582,Rice,774,774,23, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,9.85,399613,NA,NA,0,Rice,North Texas,76
+2010-11,2010-11-23,1005787,480,0,2,North Texas,Rice,Mean Green,Owls,4,3,40,36,4,1541,North Texas,757,757,17, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,10.299999999999997,21.450000000000003,411165,NA,NA,0,North Texas,Rice,77
+2010-11,2010-11-23,1005787,483,0,2,North Texas,Rice,Mean Green,Owls,4,2,40,36,4,1582,Rice,751,751,6,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,484,0,2,North Texas,Rice,Mean Green,Owls,4,2,40,36,4,1541,North Texas,751,751,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,487,0,2,North Texas,Rice,Mean Green,Owls,4,2,40,36,4,1541,North Texas,739,739,12,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2010-11,2010-11-23,1005787,488,0,2,North Texas,Rice,Mean Green,Owls,4,2,40,36,4,1582,Rice,739,739,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,494,0,2,North Texas,Rice,Mean Green,Owls,4,2,40,38,2,1582,Rice,738,738,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,North Texas,78
+2010-11,2010-11-23,1005787,495,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,38,4,1541,North Texas,720,720,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330052,NA,NA,0,North Texas,Rice,79
+2010-11,2010-11-23,1005787,497,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,38,4,1541,North Texas,703,703,17,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,80
+2010-11,2010-11-23,1005787,506,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,38,4,NA,NA,695,695,8,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,508,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,38,4,1582,Rice,689,689,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,80
+2010-11,2010-11-23,1005787,509,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,40,2,1582,Rice,682,682,7, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,22.2,10.05,506616,NA,NA,0,Rice,North Texas,80
+2010-11,2010-11-23,1005787,514,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,40,2,1582,Rice,671,671,11,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,81
+2010-11,2010-11-23,1005787,516,0,2,North Texas,Rice,Mean Green,Owls,4,2,42,40,2,1541,North Texas,654,654,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.3,27.849999999999994,411165,NA,NA,0,North Texas,North Texas,81
+2010-11,2010-11-23,1005787,517,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,40,4,1541,North Texas,650,650,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.2,8.150000000000006,419844,NA,NA,0,North Texas,Rice,81
+2010-11,2010-11-23,1005787,518,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,43,1,1582,Rice,632,632,18, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,41.8,18.55,506616,NA,NA,0,Rice,North Texas,82
+2010-11,2010-11-23,1005787,520,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,43,1,1582,Rice,621,621,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,521,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,43,1,1541,North Texas,621,621,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,523,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,43,1,1582,Rice,617,617,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,North Texas,83
+2010-11,2010-11-23,1005787,527,0,2,North Texas,Rice,Mean Green,Owls,4,2,44,43,1,1582,Rice,599,599,18,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,84
+2010-11,2010-11-23,1005787,528,0,2,North Texas,Rice,Mean Green,Owls,4,2,45,43,2,1541,North Texas,599,599,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,84
+2010-11,2010-11-23,1005787,529,0,2,North Texas,Rice,Mean Green,Owls,4,2,46,43,3,1541,North Texas,599,599,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,84
+2010-11,2010-11-23,1005787,532,0,2,North Texas,Rice,Mean Green,Owls,4,2,46,45,1,1582,Rice,576,576,23, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,22.3,14.15,458971,NA,NA,0,Rice,North Texas,85
+2010-11,2010-11-23,1005787,535,0,2,North Texas,Rice,Mean Green,Owls,4,2,46,45,1,1541,North Texas,556,556,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,26.549999999999997,338724,NA,NA,0,North Texas,North Texas,86
+2010-11,2010-11-23,1005787,544,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,45,3,1541,North Texas,541,541,15, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,22.7,9.650000000000006,330052,NA,NA,0,North Texas,Rice,86
+2010-11,2010-11-23,1005787,545,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,48,0,1582,Rice,531,531,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,22.8,28.45,458971,NA,NA,0,Rice,North Texas,87
+2010-11,2010-11-23,1005787,548,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,48,0,1541,North Texas,504,504,27, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.700000000000003,9.650000000000006,523387,NA,NA,0,North Texas,Rice,88
+2010-11,2010-11-23,1005787,549,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,50,-2,1582,Rice,499,499,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Rice,89
+2010-11,2010-11-23,1005787,551,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,50,-2,1541,North Texas,496,496,3,Shooting foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,89
+2010-11,2010-11-23,1005787,552,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,50,-2,1582,Rice,496,496,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,553,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,51,-3,1582,Rice,496,496,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,89
+2010-11,2010-11-23,1005787,554,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,51,-3,1541,North Texas,496,496,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,560,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,51,-3,1582,Rice,484,484,12,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,90
+2010-11,2010-11-23,1005787,561,0,2,North Texas,Rice,Mean Green,Owls,4,2,48,51,-3,1541,North Texas,484,484,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,90
+2010-11,2010-11-23,1005787,567,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1541,North Texas,484,484,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,90
+2010-11,2010-11-23,1005787,573,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1582,Rice,475,475,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,91
+2010-11,2010-11-23,1005787,574,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1582,Rice,475,475,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,575,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1582,Rice,475,475,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,582,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1541,North Texas,456,456,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,411164,NA,NA,0,North Texas,Rice,91
+2010-11,2010-11-23,1005787,583.5,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,1541,North Texas,456,456,0,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,92
+2010-11,2010-11-23,1005787,590,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,51,-2,NA,NA,456,456,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,593,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,53,-4,1582,Rice,425,425,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339839,NA,NA,0,Rice,North Texas,92
+2010-11,2010-11-23,1005787,594,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,53,-4,1541,North Texas,410,410,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,9,19.549999999999997,411164,NA,NA,0,North Texas,Rice,93
+2010-11,2010-11-23,1005787,596,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,53,-4,1541,North Texas,395,395,15,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2010-11,2010-11-23,1005787,601,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,55,-6,1582,Rice,381,381,14, makes a hook shot from 4 feet out.,made,FALSE,FALSE,Hook Shot,22,8.55,399613,NA,NA,0,Rice,North Texas,94
+2010-11,2010-11-23,1005787,603,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,55,-6,1582,Rice,373,373,8,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,95
+2010-11,2010-11-23,1005787,604,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,55,-6,1582,Rice,373,373,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,605,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,55,-6,1582,Rice,373,373,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,606,0,2,North Texas,Rice,Mean Green,Owls,4,2,49,55,-6,1541,North Texas,373,373,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,607,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1541,North Texas,373,373,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,95
+2010-11,2010-11-23,1005787,608,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1541,North Texas,373,373,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,95
+2010-11,2010-11-23,1005787,610,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1582,Rice,344,344,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,4.45,339839,NA,NA,0,Rice,North Texas,96
+2010-11,2010-11-23,1005787,617,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1541,North Texas,329,329,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,28.450000000000003,411165,NA,NA,0,North Texas,Rice,97
+2010-11,2010-11-23,1005787,618,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1582,Rice,302,302,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,6.75,473209,NA,NA,0,Rice,North Texas,98
+2010-11,2010-11-23,1005787,619.5,0,2,North Texas,Rice,Mean Green,Owls,4,2,50,55,-5,1582,Rice,293,293,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,99
+2010-11,2010-11-23,1005787,628,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1541,North Texas,293,293,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,99
+2010-11,2010-11-23,1005787,629,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1582,Rice,293,293,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,630,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1541,North Texas,293,293,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,99
+2010-11,2010-11-23,1005787,633,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1541,North Texas,269,269,24,Personal foul committed by Mean Green.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2010-11,2010-11-23,1005787,634,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1582,Rice,269,269,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,635,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,55,-4,1541,North Texas,269,269,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,636,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,56,-5,1582,Rice,269,269,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,100
+2010-11,2010-11-23,1005787,637,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,56,-5,1582,Rice,269,269,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,North Texas,101
+2010-11,2010-11-23,1005787,640,0,2,North Texas,Rice,Mean Green,Owls,4,2,51,56,-5,1582,Rice,258,258,11,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,102
+2010-11,2010-11-23,1005787,641,0,2,North Texas,Rice,Mean Green,Owls,4,2,52,56,-4,1541,North Texas,258,258,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,102
+2010-11,2010-11-23,1005787,642,0,2,North Texas,Rice,Mean Green,Owls,4,2,52,56,-4,1582,Rice,258,258,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,643,0,2,North Texas,Rice,Mean Green,Owls,4,2,53,56,-3,1541,North Texas,258,258,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,103
+2010-11,2010-11-23,1005787,659,0,2,North Texas,Rice,Mean Green,Owls,4,2,53,59,-6,1582,Rice,243,243,15, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,12,24.25,473209,NA,NA,0,Rice,North Texas,104
+2010-11,2010-11-23,1005787,663,0,2,North Texas,Rice,Mean Green,Owls,4,2,53,59,-6,1582,Rice,224,224,19,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,105
+2010-11,2010-11-23,1005787,664,0,2,North Texas,Rice,Mean Green,Owls,4,2,53,59,-6,NA,NA,224,224,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,665,0,2,North Texas,Rice,Mean Green,Owls,4,2,53,59,-6,1582,Rice,224,224,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,666,0,2,North Texas,Rice,Mean Green,Owls,4,2,54,59,-5,1541,North Texas,224,224,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,105
+2010-11,2010-11-23,1005787,667,0,2,North Texas,Rice,Mean Green,Owls,4,2,55,59,-4,1541,North Texas,224,224,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,105
+2010-11,2010-11-23,1005787,675,0,2,North Texas,Rice,Mean Green,Owls,4,2,55,59,-4,1582,Rice,204,204,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,North Texas,106
+2010-11,2010-11-23,1005787,683,0,2,North Texas,Rice,Mean Green,Owls,4,2,57,59,-2,1541,North Texas,182,182,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,419844,NA,NA,0,North Texas,Rice,107
+2010-11,2010-11-23,1005787,684,0,2,North Texas,Rice,Mean Green,Owls,4,2,57,61,-4,1582,Rice,142,142,40, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,16.8,20.75,473209,NA,NA,0,Rice,North Texas,108
+2010-11,2010-11-23,1005787,685,0,2,North Texas,Rice,Mean Green,Owls,4,2,59,61,-2,1541,North Texas,124,124,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,419844,NA,NA,0,North Texas,Rice,109
+2010-11,2010-11-23,1005787,688,0,2,North Texas,Rice,Mean Green,Owls,4,2,59,61,-2,1582,Rice,117,117,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,110
+2010-11,2010-11-23,1005787,694,0,2,North Texas,Rice,Mean Green,Owls,4,2,60,61,-1,1541,North Texas,117,117,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,110
+2010-11,2010-11-23,1005787,695,0,2,North Texas,Rice,Mean Green,Owls,4,2,60,61,-1,1582,Rice,117,117,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,696,0,2,North Texas,Rice,Mean Green,Owls,4,2,60,61,-1,1541,North Texas,117,117,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,697,0,2,North Texas,Rice,Mean Green,Owls,4,2,61,61,0,1541,North Texas,117,117,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,110
+2010-11,2010-11-23,1005787,704,0,2,North Texas,Rice,Mean Green,Owls,4,2,61,61,0,1582,Rice,102,102,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,North Texas,111
+2010-11,2010-11-23,1005787,706,0,2,North Texas,Rice,Mean Green,Owls,4,2,61,61,0,1582,Rice,97,97,5,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,112
+2010-11,2010-11-23,1005787,707,0,2,North Texas,Rice,Mean Green,Owls,4,2,61,61,0,1541,North Texas,97,97,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,112
+2010-11,2010-11-23,1005787,708,0,2,North Texas,Rice,Mean Green,Owls,4,2,62,61,1,1541,North Texas,97,97,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,112
+2010-11,2010-11-23,1005787,711,0,2,North Texas,Rice,Mean Green,Owls,4,2,62,61,1,1541,North Texas,82,82,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,23.849999999999994,338724,NA,NA,0,North Texas,Rice,113
+2010-11,2010-11-23,1005787,713,0,2,North Texas,Rice,Mean Green,Owls,4,1,62,61,1,1582,Rice,76,76,6,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,716,0,2,North Texas,Rice,Mean Green,Owls,4,1,62,61,1,1582,Rice,76,76,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-23,1005787,718,0,2,North Texas,Rice,Mean Green,Owls,4,1,62,61,1,1582,Rice,70,70,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.7,28.25,295357,NA,NA,0,Rice,North Texas,114
+2010-11,2010-11-23,1005787,719,0,2,North Texas,Rice,Mean Green,Owls,4,1,64,61,3,1541,North Texas,34,34,36, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,23.2,12.950000000000003,419844,NA,NA,0,North Texas,Rice,115
+2010-11,2010-11-23,1005787,728,0,2,North Texas,Rice,Mean Green,Owls,4,0,64,61,3,1582,Rice,21,21,13,Owls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,742,0,2,North Texas,Rice,Mean Green,Owls,4,0,64,63,1,1582,Rice,19,19,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,North Texas,116
+2010-11,2010-11-23,1005787,748,0,2,North Texas,Rice,Mean Green,Owls,4,0,64,63,1,1582,Rice,19,19,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,117
+2010-11,2010-11-23,1005787,750,0,2,North Texas,Rice,Mean Green,Owls,4,0,65,63,2,1541,North Texas,18,18,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,117
+2010-11,2010-11-23,1005787,751,0,2,North Texas,Rice,Mean Green,Owls,4,0,66,63,3,1541,North Texas,18,18,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,117
+2010-11,2010-11-23,1005787,753,0,2,North Texas,Rice,Mean Green,Owls,4,0,66,65,1,1582,Rice,13,13,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,North Texas,118
+2010-11,2010-11-23,1005787,760,0,2,North Texas,Rice,Mean Green,Owls,4,0,66,65,1,1582,Rice,11,11,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,119
+2010-11,2010-11-23,1005787,761,0,2,North Texas,Rice,Mean Green,Owls,4,0,67,65,2,1541,North Texas,11,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,North Texas,119
+2010-11,2010-11-23,1005787,762,0,2,North Texas,Rice,Mean Green,Owls,4,0,68,65,3,1541,North Texas,11,11,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,North Texas,Rice,119
+2010-11,2010-11-23,1005787,764,0,2,North Texas,Rice,Mean Green,Owls,4,0,68,65,3,1582,Rice,5,5,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,20.55,506616,NA,NA,0,Rice,NA,120
+2010-11,2010-11-23,1005787,765,0,2,North Texas,Rice,Mean Green,Owls,4,0,68,65,3,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-23,1005787,766,0,2,North Texas,Rice,Mean Green,Owls,4,0,68,65,3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,NA

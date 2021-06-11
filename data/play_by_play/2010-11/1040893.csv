@@ -1,0 +1,269 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-11,1040893,1,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,NA
+2010-11,2011-03-11,1040893,6,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1652,Texas A&M,2370,1170,30,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2010-11,2011-03-11,1040893,7,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1651,Texas,2370,1170,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2010-11,2011-03-11,1040893,11,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1651,Texas,2370,1170,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2010-11,2011-03-11,1040893,12,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1652,Texas A&M,2370,1170,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,1
+2010-11,2011-03-11,1040893,14,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1652,Texas A&M,2351,1151,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,6.05,464339,NA,NA,0,Texas A&M,Texas A&M,2
+2010-11,2011-03-11,1040893,15,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,0,0,0,1651,Texas,2351,1151,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,2
+2010-11,2011-03-11,1040893,16,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,2,0,2,1651,Texas,2344,1144,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402371,NA,NA,0,Texas,Texas A&M,3
+2010-11,2011-03-11,1040893,17,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,2,0,2,1652,Texas A&M,2315,1115,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,4
+2010-11,2011-03-11,1040893,18,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,2,0,2,1651,Texas,2315,1115,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,4
+2010-11,2011-03-11,1040893,19.5,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,0,5,1651,Texas,2295,1095,20, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,19.25,513608,NA,NA,0,Texas,Texas A&M,5
+2010-11,2011-03-11,1040893,20,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,3,2,1652,Texas A&M,2267,1067,28, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.8,25.35,512053,NA,NA,0,Texas A&M,Texas,6
+2010-11,2011-03-11,1040893,24,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,3,2,1651,Texas,2224,1024,43, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,7
+2010-11,2011-03-11,1040893,25,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,3,2,1651,Texas,2224,1024,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,7
+2010-11,2011-03-11,1040893,28,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,5,0,1652,Texas A&M,2213,1013,11, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,29.3,9.35,464339,NA,NA,0,Texas A&M,Texas,7
+2010-11,2011-03-11,1040893,29,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,5,0,1651,Texas,2184,984,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552806,NA,NA,0,Texas,Texas,8
+2010-11,2011-03-11,1040893,30,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,5,0,1652,Texas A&M,2184,984,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,8
+2010-11,2011-03-11,1040893,33,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,7,-2,1652,Texas A&M,2179,979,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512053,NA,NA,0,Texas A&M,Texas,9
+2010-11,2011-03-11,1040893,35,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,7,-2,1651,Texas,2158,958,21,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,10
+2010-11,2011-03-11,1040893,36,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,7,-2,NA,NA,2158,958,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,44,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,7,-2,1652,Texas A&M,2128,928,30, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,13.7,18.75,464338,NA,NA,0,Texas A&M,Texas A&M,11
+2010-11,2011-03-11,1040893,45,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,5,7,-2,1651,Texas,2128,928,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,11
+2010-11,2011-03-11,1040893,46,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,7,0,1651,Texas,2113,913,15, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12.299999999999997,9.650000000000006,469830,NA,NA,0,Texas,Texas A&M,12
+2010-11,2011-03-11,1040893,50,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,7,0,1651,Texas,2089,889,24,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,13
+2010-11,2011-03-11,1040893,51,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,8,-1,1652,Texas A&M,2089,889,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,13
+2010-11,2011-03-11,1040893,52,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,9,-2,1652,Texas A&M,2089,889,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,13
+2010-11,2011-03-11,1040893,54,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,9,-2,1651,Texas,2060,860,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.200000000000003,26.75,400598,NA,NA,0,Texas,Texas,14
+2010-11,2011-03-11,1040893,55,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,9,-2,1651,Texas,2060,860,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,14
+2010-11,2011-03-11,1040893,56,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,11,-4,1652,Texas A&M,2038,838,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512055,NA,NA,0,Texas A&M,Texas,14
+2010-11,2011-03-11,1040893,58,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,11,-4,1652,Texas A&M,2022,822,16,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,15
+2010-11,2011-03-11,1040893,61,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,11,-4,1651,Texas,2016,816,6,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,15
+2010-11,2011-03-11,1040893,62,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,12,-5,1652,Texas A&M,2016,816,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,15
+2010-11,2011-03-11,1040893,63,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,13,-6,1652,Texas A&M,2016,816,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,15
+2010-11,2011-03-11,1040893,68,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,13,-6,1651,Texas,1994,794,22,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,16
+2010-11,2011-03-11,1040893,69,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,13,-6,1652,Texas A&M,1994,794,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,17
+2010-11,2011-03-11,1040893,73,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1652,Texas A&M,1994,794,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,17
+2010-11,2011-03-11,1040893,75,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1652,Texas A&M,1965,765,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.65,416051,NA,NA,0,Texas A&M,Texas A&M,18
+2010-11,2011-03-11,1040893,76,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1651,Texas,1965,765,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,18
+2010-11,2011-03-11,1040893,77,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1651,Texas,1939,739,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11,23.650000000000006,513608,NA,NA,0,Texas,Texas,19
+2010-11,2011-03-11,1040893,78,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1652,Texas A&M,1939,739,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,19
+2010-11,2011-03-11,1040893,82,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,1652,Texas A&M,1908,708,31,Offensive foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,20
+2010-11,2011-03-11,1040893,83,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,7,14,-7,NA,NA,1908,708,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,85,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1651,Texas,1893,693,15, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,37.2,18.049999999999997,552805,NA,NA,0,Texas,Texas A&M,21
+2010-11,2011-03-11,1040893,86,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1872,672,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.2,8.35,512053,NA,NA,0,Texas A&M,Texas A&M,22
+2010-11,2011-03-11,1040893,87,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1651,Texas,1872,672,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,22
+2010-11,2011-03-11,1040893,88,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1651,Texas,1866,666,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17.200000000000003,28.650000000000006,469830,NA,NA,0,Texas,Texas,23
+2010-11,2011-03-11,1040893,89,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1866,666,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,23
+2010-11,2011-03-11,1040893,91,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1866,666,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464338,NA,NA,0,Texas A&M,Texas A&M,24
+2010-11,2011-03-11,1040893,92,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1866,666,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,24
+2010-11,2011-03-11,1040893,93,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1855,655,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10,22.25,398146,NA,NA,0,Texas A&M,Texas,24
+2010-11,2011-03-11,1040893,101,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1652,Texas A&M,1844,644,11,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,25
+2010-11,2011-03-11,1040893,103,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1651,Texas,1836,636,8, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,20.349999999999994,513608,NA,NA,0,Texas,Texas,25
+2010-11,2011-03-11,1040893,104,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,9,14,-5,1651,Texas,1836,636,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,25
+2010-11,2011-03-11,1040893,105,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,11,14,-3,1651,Texas,1813,613,23, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,552806,NA,NA,0,Texas,Texas A&M,25
+2010-11,2011-03-11,1040893,106,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,11,14,-3,1652,Texas A&M,1782,582,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,26
+2010-11,2011-03-11,1040893,107,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,11,14,-3,1651,Texas,1782,582,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,26
+2010-11,2011-03-11,1040893,108,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,11,14,-3,1651,Texas,1772,572,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,6.25,552805,NA,NA,0,Texas,Texas,27
+2010-11,2011-03-11,1040893,109,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,11,14,-3,1651,Texas,1772,572,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,27
+2010-11,2011-03-11,1040893,110,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,14,-1,1651,Texas,1767,567,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552806,NA,NA,0,Texas,Texas A&M,27
+2010-11,2011-03-11,1040893,111,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1652,Texas A&M,1752,552,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398141,NA,NA,0,Texas A&M,Texas,28
+2010-11,2011-03-11,1040893,112,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1651,Texas,1720,520,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,29
+2010-11,2011-03-11,1040893,113,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1651,Texas,1720,520,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,29
+2010-11,2011-03-11,1040893,114,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1651,Texas,1716,516,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,29
+2010-11,2011-03-11,1040893,115,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1651,Texas,1716,516,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,29
+2010-11,2011-03-11,1040893,117,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,13,16,-3,1651,Texas,1713,513,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,12.450000000000003,469830,NA,NA,0,Texas,Texas,29
+2010-11,2011-03-11,1040893,122.5,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,15,16,-1,1651,Texas,1707,507,6, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26,18.25,513608,NA,NA,0,Texas,Texas A&M,29
+2010-11,2011-03-11,1040893,127,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,17,16,1,1651,Texas,1668,468,39, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,38,5.650000000000006,513608,NA,NA,0,Texas,Texas A&M,30
+2010-11,2011-03-11,1040893,128,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,17,16,1,1652,Texas A&M,1647,447,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512053,NA,NA,0,Texas A&M,Texas A&M,31
+2010-11,2011-03-11,1040893,129,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,17,16,1,1652,Texas A&M,1647,447,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,31
+2010-11,2011-03-11,1040893,131,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,19,16,3,1651,Texas,1636,436,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552805,NA,NA,0,Texas,Texas,31
+2010-11,2011-03-11,1040893,132,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,19,16,3,1652,Texas A&M,1636,436,0,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,31
+2010-11,2011-03-11,1040893,133,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,19,16,3,NA,NA,1636,436,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,136,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,16,4,1651,Texas,1636,436,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,31
+2010-11,2011-03-11,1040893,143,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,16,4,1651,Texas,1610,410,26,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,32
+2010-11,2011-03-11,1040893,144,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,17,3,1652,Texas A&M,1610,410,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,32
+2010-11,2011-03-11,1040893,145,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1652,Texas A&M,1610,410,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,32
+2010-11,2011-03-11,1040893,147,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1651,Texas,1593,393,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,30.5,18.450000000000003,402373,NA,NA,0,Texas,Texas,33
+2010-11,2011-03-11,1040893,148,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1652,Texas A&M,1593,393,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,33
+2010-11,2011-03-11,1040893,151,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1652,Texas A&M,1585,385,8, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.7,16.05,464339,NA,NA,0,Texas A&M,Texas A&M,34
+2010-11,2011-03-11,1040893,152,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1651,Texas,1585,385,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,34
+2010-11,2011-03-11,1040893,153,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1652,Texas A&M,1585,385,0,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2010-11,2011-03-11,1040893,156,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1651,Texas,1570,370,15, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,402373,NA,NA,0,Texas,Texas,35
+2010-11,2011-03-11,1040893,157,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1651,Texas,1570,370,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2010-11,2011-03-11,1040893,163,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,18,2,1651,Texas,1554,354,16,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2011-03-11,1040893,164,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,19,1,1652,Texas A&M,1554,354,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2011-03-11,1040893,165,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,19,1,1652,Texas A&M,1554,354,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2011-03-11,1040893,166,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,19,1,1651,Texas,1554,354,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,35
+2010-11,2011-03-11,1040893,171,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,19,1,1652,Texas A&M,1540,340,14,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,36
+2010-11,2011-03-11,1040893,172,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,19,1,1651,Texas,1540,340,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,36
+2010-11,2011-03-11,1040893,177,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1652,Texas A&M,1504,304,36, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46,9.65,398141,NA,NA,0,Texas A&M,Texas,37
+2010-11,2011-03-11,1040893,179,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1651,Texas,1480,280,24,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,38
+2010-11,2011-03-11,1040893,181,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1652,Texas A&M,1456,256,24, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,11.8,16.65,398146,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2011-03-11,1040893,182,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1651,Texas,1456,256,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,39
+2010-11,2011-03-11,1040893,183,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1651,Texas,1447,247,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5,18.75,469830,NA,NA,0,Texas,Texas,40
+2010-11,2011-03-11,1040893,184,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1652,Texas A&M,1447,247,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,40
+2010-11,2011-03-11,1040893,185,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1652,Texas A&M,1439,239,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512052,NA,NA,0,Texas A&M,Texas A&M,41
+2010-11,2011-03-11,1040893,186,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,20,22,-2,1651,Texas,1439,239,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,41
+2010-11,2011-03-11,1040893,187,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,22,22,0,1651,Texas,1426,226,13, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,19.8,13.950000000000003,552805,NA,NA,0,Texas,Texas A&M,42
+2010-11,2011-03-11,1040893,191,1,1,Texas,Texas A&M,Longhorns,Aggies,4,4,24,22,2,1651,Texas,1398,198,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513608,NA,NA,0,Texas,Texas A&M,43
+2010-11,2011-03-11,1040893,192,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,24,22,2,1652,Texas A&M,1398,198,0,Aggies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,201,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,24,22,2,NA,NA,1385,185,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,206,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,24,22,2,1652,Texas A&M,1375,175,10,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,44
+2010-11,2011-03-11,1040893,207,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1651,Texas,1375,175,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,44
+2010-11,2011-03-11,1040893,208,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1651,Texas,1375,175,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,44
+2010-11,2011-03-11,1040893,209,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1652,Texas A&M,1375,175,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,44
+2010-11,2011-03-11,1040893,214,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1651,Texas,1355,155,20,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,45
+2010-11,2011-03-11,1040893,215,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1652,Texas A&M,1355,155,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,45
+2010-11,2011-03-11,1040893,216,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1651,Texas,1355,155,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,45
+2010-11,2011-03-11,1040893,221,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,25,22,3,1652,Texas A&M,1340,140,15,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,46
+2010-11,2011-03-11,1040893,222,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,26,22,4,1651,Texas,1340,140,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,46
+2010-11,2011-03-11,1040893,223,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1651,Texas,1340,140,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,46
+2010-11,2011-03-11,1040893,225,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1321,121,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464338,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,226,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1321,121,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,227,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1316,116,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512055,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,228,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1316,116,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,232,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1309,109,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,28.25,398146,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,233,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1309,109,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,234,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1651,Texas,1309,109,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,235,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1309,109,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,236,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1309,109,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,47
+2010-11,2011-03-11,1040893,238,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1651,Texas,1302,102,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,47
+2010-11,2011-03-11,1040893,239,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,22,5,1652,Texas A&M,1302,102,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,47
+2010-11,2011-03-11,1040893,243,1,1,Texas,Texas A&M,Longhorns,Aggies,4,3,27,24,3,1652,Texas A&M,1290,90,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512053,NA,NA,0,Texas A&M,Texas,48
+2010-11,2011-03-11,1040893,244,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,27,24,3,1651,Texas,1290,90,0,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,247,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,27,24,3,1651,Texas,1279,79,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,20,22.25,513608,NA,NA,0,Texas,Texas,49
+2010-11,2011-03-11,1040893,247.5,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,27,24,3,1651,Texas,1279,79,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,49
+2010-11,2011-03-11,1040893,248,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1651,Texas,1271,71,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14.200000000000003,26.150000000000006,552805,NA,NA,0,Texas,Texas A&M,49
+2010-11,2011-03-11,1040893,249,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1652,Texas A&M,1252,52,19, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,18.8,20.95,464338,NA,NA,0,Texas A&M,Texas A&M,50
+2010-11,2011-03-11,1040893,250,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1652,Texas A&M,1252,52,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,50
+2010-11,2011-03-11,1040893,251,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1652,Texas A&M,1224,24,28, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.3,4.45,512053,NA,NA,0,Texas A&M,Texas A&M,50
+2010-11,2011-03-11,1040893,252,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1651,Texas,1224,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,50
+2010-11,2011-03-11,1040893,253,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1651,Texas,1211,11,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,29.849999999999994,513608,NA,NA,0,Texas,Texas,51
+2010-11,2011-03-11,1040893,254,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1652,Texas A&M,1211,11,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,51
+2010-11,2011-03-11,1040893,255,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1652,Texas A&M,1202,2,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,16.05,464338,NA,NA,0,Texas A&M,Texas A&M,52
+2010-11,2011-03-11,1040893,256,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,1651,Texas,1202,2,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,52
+2010-11,2011-03-11,1040893,257,1,1,Texas,Texas A&M,Longhorns,Aggies,3,3,30,24,6,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,262,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,24,6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,53
+2010-11,2011-03-11,1040893,264,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,24,6,1651,Texas,1183,1183,17, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,24.549999999999997,402373,NA,NA,0,Texas,Texas,54
+2010-11,2011-03-11,1040893,265,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,24,6,1652,Texas A&M,1183,1183,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,54
+2010-11,2011-03-11,1040893,269,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,24,6,1652,Texas A&M,1169,1169,14, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,10.05,464339,NA,NA,0,Texas A&M,Texas A&M,55
+2010-11,2011-03-11,1040893,270,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,24,6,1652,Texas A&M,1169,1169,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,55
+2010-11,2011-03-11,1040893,272,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1159,1159,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.5,21.45,512053,NA,NA,0,Texas A&M,Texas,55
+2010-11,2011-03-11,1040893,276,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1142,1142,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26,15.25,552805,NA,NA,0,Texas,Texas,56
+2010-11,2011-03-11,1040893,276.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1142,1142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,56
+2010-11,2011-03-11,1040893,277,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1142,1142,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,57
+2010-11,2011-03-11,1040893,283,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1127,1127,15, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42,4.25,512053,NA,NA,0,Texas A&M,Texas A&M,57
+2010-11,2011-03-11,1040893,283.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1127,1127,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,57
+2010-11,2011-03-11,1040893,284,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1127,1127,0,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,58
+2010-11,2011-03-11,1040893,291,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1101,1101,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26,29.25,513608,NA,NA,0,Texas,Texas,58
+2010-11,2011-03-11,1040893,291.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1101,1101,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,58
+2010-11,2011-03-11,1040893,292,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1087,1087,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552805,NA,NA,0,Texas,Texas,59
+2010-11,2011-03-11,1040893,293,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1087,1087,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,59
+2010-11,2011-03-11,1040893,297,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1066,1066,21,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,59
+2010-11,2011-03-11,1040893,307,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1049,1049,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2011-03-11,1040893,308,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1049,1049,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,60
+2010-11,2011-03-11,1040893,312,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1038,1038,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,18.95,398141,NA,NA,0,Texas A&M,Texas A&M,61
+2010-11,2011-03-11,1040893,313,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1652,Texas A&M,1038,1038,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,61
+2010-11,2011-03-11,1040893,316,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,27,3,1651,Texas,1036,1036,2,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,61
+2010-11,2011-03-11,1040893,317,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,28,2,1652,Texas A&M,1036,1036,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,61
+2010-11,2011-03-11,1040893,318,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,29,1,1652,Texas A&M,1036,1036,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,61
+2010-11,2011-03-11,1040893,320,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,30,31,-1,1652,Texas A&M,1021,1021,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,512053,NA,NA,0,Texas A&M,Texas,62
+2010-11,2011-03-11,1040893,321,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,32,31,1,1651,Texas,988,988,33, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.5,5.650000000000006,552806,NA,NA,0,Texas,Texas A&M,63
+2010-11,2011-03-11,1040893,322,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,32,33,-1,1652,Texas A&M,971,971,17, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,24.8,23.25,398141,NA,NA,0,Texas A&M,Texas,64
+2010-11,2011-03-11,1040893,323,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,33,1,1651,Texas,951,951,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513608,NA,NA,0,Texas,Texas A&M,65
+2010-11,2011-03-11,1040893,330,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,33,1,1652,Texas A&M,931,931,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,331,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,33,1,1652,Texas A&M,931,931,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,331.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,33,1,1652,Texas A&M,931,931,0, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,331.75,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,33,1,1652,Texas A&M,931,931,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,332,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,35,-1,1652,Texas A&M,928,928,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512053,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,333,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,35,-1,1651,Texas,928,928,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2011-03-11,1040893,334,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,35,-1,NA,NA,928,928,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,341,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,34,36,-2,1652,Texas A&M,928,928,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,66
+2010-11,2011-03-11,1040893,343.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,36,36,0,1651,Texas,913,913,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,552806,NA,NA,0,Texas,Texas A&M,67
+2010-11,2011-03-11,1040893,344,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,36,38,-2,1652,Texas A&M,890,890,23, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,24.2,9.65,512054,NA,NA,0,Texas A&M,Texas,68
+2010-11,2011-03-11,1040893,345.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,39,38,1,1651,Texas,877,877,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15,26.25,469830,NA,NA,0,Texas,Texas A&M,69
+2010-11,2011-03-11,1040893,346,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,39,38,1,1652,Texas A&M,852,852,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21,28.85,512053,NA,NA,0,Texas A&M,Texas A&M,70
+2010-11,2011-03-11,1040893,347,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,39,38,1,1651,Texas,852,852,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,70
+2010-11,2011-03-11,1040893,348,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,39,38,1,1651,Texas,826,826,26, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,23.650000000000006,400598,NA,NA,0,Texas,Texas,71
+2010-11,2011-03-11,1040893,349,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,39,38,1,1651,Texas,826,826,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,71
+2010-11,2011-03-11,1040893,350,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,38,3,1651,Texas,820,820,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552806,NA,NA,0,Texas,Texas A&M,71
+2010-11,2011-03-11,1040893,354,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,38,3,1651,Texas,798,798,22,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,72
+2010-11,2011-03-11,1040893,373,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,38,3,1652,Texas A&M,798,798,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,72
+2010-11,2011-03-11,1040893,377,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,39,2,1652,Texas A&M,798,798,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,72
+2010-11,2011-03-11,1040893,381,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,39,2,1652,Texas A&M,777,777,21,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,73
+2010-11,2011-03-11,1040893,383,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,39,2,1651,Texas,748,748,29, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.200000000000003,5.25,402373,NA,NA,0,Texas,Texas,73
+2010-11,2011-03-11,1040893,384,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,41,39,2,1651,Texas,748,748,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,73
+2010-11,2011-03-11,1040893,386,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,43,39,4,1651,Texas,743,743,5, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,36.3,5.650000000000006,552806,NA,NA,0,Texas,Texas A&M,73
+2010-11,2011-03-11,1040893,387,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,43,39,4,1651,Texas,743,743,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,74
+2010-11,2011-03-11,1040893,392,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,43,39,4,NA,NA,715,715,28,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,397,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,39,7,1651,Texas,692,692,23, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.5,13.150000000000006,469830,NA,NA,0,Texas,Texas A&M,74
+2010-11,2011-03-11,1040893,402,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,39,7,1651,Texas,678,678,14,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,75
+2010-11,2011-03-11,1040893,403,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,40,6,1652,Texas A&M,678,678,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,75
+2010-11,2011-03-11,1040893,404,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,41,5,1652,Texas A&M,678,678,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,75
+2010-11,2011-03-11,1040893,406,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,41,5,1651,Texas,643,643,35, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.3,27.349999999999994,400598,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,407,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,41,5,1651,Texas,643,643,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,412,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,46,41,5,1652,Texas A&M,614,614,29,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,414,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,49,41,8,1651,Texas,610,610,4, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.200000000000003,5.450000000000003,469830,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,416,1,2,Texas,Texas A&M,Longhorns,Aggies,4,4,49,41,8,1652,Texas A&M,606,606,4,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,417,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,49,41,8,1652,Texas A&M,606,606,0,Aggies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,418,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,50,41,9,1651,Texas,606,606,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,420.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,50,41,9,1651,Texas,606,606,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,421.25,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,50,41,9,1651,Texas,606,606,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,76
+2010-11,2011-03-11,1040893,422,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,41,11,1651,Texas,573,573,33, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,25.2,14.950000000000003,400598,NA,NA,0,Texas,Texas A&M,76
+2010-11,2011-03-11,1040893,426,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,43,9,1652,Texas A&M,555,555,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512053,NA,NA,0,Texas A&M,Texas A&M,77
+2010-11,2011-03-11,1040893,427,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,43,9,1651,Texas,555,555,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,77
+2010-11,2011-03-11,1040893,432,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,44,8,1652,Texas A&M,555,555,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,77
+2010-11,2011-03-11,1040893,434,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,44,8,1651,Texas,531,531,24, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,9.150000000000006,552806,NA,NA,0,Texas,Texas,78
+2010-11,2011-03-11,1040893,435,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,44,8,1652,Texas A&M,531,531,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,78
+2010-11,2011-03-11,1040893,439,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,44,8,1651,Texas,503,503,28,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,79
+2010-11,2011-03-11,1040893,440,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,45,7,1652,Texas A&M,503,503,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,79
+2010-11,2011-03-11,1040893,441,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,52,46,6,1652,Texas A&M,503,503,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,79
+2010-11,2011-03-11,1040893,443,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1651,Texas,491,491,12, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22.2,19.150000000000006,513608,NA,NA,0,Texas,Texas A&M,80
+2010-11,2011-03-11,1040893,446.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1651,Texas,422,422,69, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31,9.25,513608,NA,NA,0,Texas,Texas,81
+2010-11,2011-03-11,1040893,446.75,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1651,Texas,422,422,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,81
+2010-11,2011-03-11,1040893,447,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1652,Texas A&M,422,422,0,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,81
+2010-11,2011-03-11,1040893,448,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,NA,NA,422,422,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,458,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1652,Texas A&M,353,353,69, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398141,NA,NA,0,Texas A&M,Texas A&M,81
+2010-11,2011-03-11,1040893,459,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,46,8,1652,Texas A&M,353,353,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,81
+2010-11,2011-03-11,1040893,460,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,48,6,1652,Texas A&M,349,349,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,25.2,8.15,464339,NA,NA,0,Texas A&M,Texas,81
+2010-11,2011-03-11,1040893,465,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,48,6,1651,Texas,326,326,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34,27.25,400598,NA,NA,0,Texas,Texas,82
+2010-11,2011-03-11,1040893,466.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,48,6,1652,Texas A&M,326,326,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,82
+2010-11,2011-03-11,1040893,468,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,48,6,1651,Texas,304,304,22,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,83
+2010-11,2011-03-11,1040893,469,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,49,5,1652,Texas A&M,304,304,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,83
+2010-11,2011-03-11,1040893,474,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,54,50,4,1652,Texas A&M,304,304,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,83
+2010-11,2011-03-11,1040893,476,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,57,50,7,1651,Texas,286,286,18, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.700000000000003,22.25,513608,NA,NA,0,Texas,Texas A&M,84
+2010-11,2011-03-11,1040893,479,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,57,50,7,1652,Texas A&M,263,263,23, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,12.25,464339,NA,NA,0,Texas A&M,Texas A&M,85
+2010-11,2011-03-11,1040893,479.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,57,50,7,1651,Texas,263,263,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,85
+2010-11,2011-03-11,1040893,480,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,57,50,7,1652,Texas A&M,263,263,0,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2010-11,2011-03-11,1040893,482.75,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,59,50,9,1651,Texas,250,250,13, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24,15.25,552806,NA,NA,0,Texas,Texas A&M,86
+2010-11,2011-03-11,1040893,483.5,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,59,52,7,1652,Texas A&M,218,218,32, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,18.25,464339,NA,NA,0,Texas A&M,Texas,87
+2010-11,2011-03-11,1040893,484,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,59,52,7,1651,Texas,188,188,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,14.150000000000006,402373,NA,NA,0,Texas,Texas,88
+2010-11,2011-03-11,1040893,485,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,59,52,7,1651,Texas,188,188,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,88
+2010-11,2011-03-11,1040893,486,1,2,Texas,Texas A&M,Longhorns,Aggies,4,3,61,52,9,1651,Texas,183,183,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.2,7.549999999999997,469830,NA,NA,0,Texas,Texas A&M,88
+2010-11,2011-03-11,1040893,490,1,2,Texas,Texas A&M,Longhorns,Aggies,4,2,61,52,9,1652,Texas A&M,174,174,9,Aggies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,511,1,2,Texas,Texas A&M,Longhorns,Aggies,4,2,61,52,9,1652,Texas A&M,163,163,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,31,7.25,512053,NA,NA,0,Texas A&M,Texas A&M,89
+2010-11,2011-03-11,1040893,512,1,2,Texas,Texas A&M,Longhorns,Aggies,4,2,61,52,9,1651,Texas,163,163,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,89
+2010-11,2011-03-11,1040893,513,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,61,52,9,1651,Texas,159,159,4,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,522,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,61,52,9,1652,Texas A&M,136,136,23,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,90
+2010-11,2011-03-11,1040893,523,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,61,52,9,NA,NA,136,136,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,524,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1651,Texas,136,136,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,90
+2010-11,2011-03-11,1040893,525,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1651,Texas,136,136,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,90
+2010-11,2011-03-11,1040893,526,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1652,Texas A&M,136,136,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,90
+2010-11,2011-03-11,1040893,528,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1652,Texas A&M,122,122,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.8,27.35,512053,NA,NA,0,Texas A&M,Texas A&M,91
+2010-11,2011-03-11,1040893,529,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1651,Texas,122,122,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,91
+2010-11,2011-03-11,1040893,533,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,62,52,10,1652,Texas A&M,115,115,7,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,92
+2010-11,2011-03-11,1040893,534,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,63,52,11,1651,Texas,115,115,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,92
+2010-11,2011-03-11,1040893,535,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,64,52,12,1651,Texas,115,115,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,92
+2010-11,2011-03-11,1040893,539,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,64,54,10,1652,Texas A&M,94,94,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512052,NA,NA,0,Texas A&M,Texas A&M,93
+2010-11,2011-03-11,1040893,540,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,64,54,10,1651,Texas,94,94,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,93
+2010-11,2011-03-11,1040893,541,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,64,55,9,1652,Texas A&M,94,94,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,93
+2010-11,2011-03-11,1040893,545,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,64,55,9,1652,Texas A&M,93,93,1,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,94
+2010-11,2011-03-11,1040893,546,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,65,55,10,1651,Texas,93,93,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,94
+2010-11,2011-03-11,1040893,547,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,55,11,1651,Texas,93,93,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,94
+2010-11,2011-03-11,1040893,550,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,55,11,1652,Texas A&M,82,82,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398141,NA,NA,0,Texas A&M,Texas A&M,95
+2010-11,2011-03-11,1040893,551,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,55,11,1652,Texas A&M,82,82,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,95
+2010-11,2011-03-11,1040893,554,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,55,11,1651,Texas,81,81,1,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,95
+2010-11,2011-03-11,1040893,555,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,56,10,1652,Texas A&M,81,81,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,95
+2010-11,2011-03-11,1040893,556,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,56,10,1652,Texas A&M,81,81,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,95
+2010-11,2011-03-11,1040893,557,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,56,10,1651,Texas,81,81,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,95
+2010-11,2011-03-11,1040893,560,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,66,56,10,1652,Texas A&M,80,80,1,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,96
+2010-11,2011-03-11,1040893,561,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,67,56,11,1651,Texas,80,80,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,96
+2010-11,2011-03-11,1040893,562,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,68,56,12,1651,Texas,80,80,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas A&M,96
+2010-11,2011-03-11,1040893,564,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,68,56,12,1652,Texas A&M,64,64,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6,15.35,398146,NA,NA,0,Texas A&M,Texas A&M,97
+2010-11,2011-03-11,1040893,565,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,68,56,12,1651,Texas,64,64,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas,97
+2010-11,2011-03-11,1040893,566,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,70,56,14,1651,Texas,32,32,32, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,43.5,6.75,402373,NA,NA,0,Texas,Texas A&M,98
+2010-11,2011-03-11,1040893,567,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,70,58,12,1652,Texas A&M,19,19,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464338,NA,NA,0,Texas A&M,Texas,99
+2010-11,2011-03-11,1040893,570,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,70,58,12,NA,NA,0,0,19,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-11,1040893,571,1,2,Texas,Texas A&M,Longhorns,Aggies,3,2,70,58,12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,NA

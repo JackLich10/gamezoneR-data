@@ -1,0 +1,342 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-06,914037,1,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,NA
+2009-10,2010-02-06,914037,21,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1651,Texas,2383,1183,17, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,13.95,513607,NA,NA,0,Texas,Texas,1
+2009-10,2010-02-06,914037,22,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1651,Texas,2383,1183,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2009-10,2010-02-06,914037,26,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1651,Texas,2380,1180,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,1
+2009-10,2010-02-06,914037,27,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1558,Oklahoma,2380,1180,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,1
+2009-10,2010-02-06,914037,48,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1651,Texas,2360,1160,20,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,2
+2009-10,2010-02-06,914037,50,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,0,0,0,1558,Oklahoma,2359,1159,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,2
+2009-10,2010-02-06,914037,52,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,1,0,1,1558,Oklahoma,2359,1159,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,2
+2009-10,2010-02-06,914037,66,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,1,0,1,1558,Oklahoma,2346,1146,13,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2009-10,2010-02-06,914037,68,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,1,0,1,1651,Texas,2346,1146,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2009-10,2010-02-06,914037,70,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,1,0,1,1651,Texas,2346,1146,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2009-10,2010-02-06,914037,71,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,1,0,1,1651,Texas,2346,1146,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,3
+2009-10,2010-02-06,914037,94,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,0,4,1558,Oklahoma,2315,1115,31, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.299999999999997,19.549999999999997,399728,NA,NA,0,Oklahoma,Texas,3
+2009-10,2010-02-06,914037,112,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,2,2,1651,Texas,2289,1089,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329528,NA,NA,0,Texas,Oklahoma,4
+2009-10,2010-02-06,914037,114,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,2,2,1558,Oklahoma,2281,1081,8, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,23.650000000000006,399728,NA,NA,0,Oklahoma,Oklahoma,5
+2009-10,2010-02-06,914037,115,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,2,2,1651,Texas,2281,1081,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,5
+2009-10,2010-02-06,914037,122,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,2,2,1651,Texas,2265,1065,16, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,6.65,329527,NA,NA,0,Texas,Texas,6
+2009-10,2010-02-06,914037,123,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,4,2,2,1558,Oklahoma,2265,1065,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,6
+2009-10,2010-02-06,914037,124,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,2,4,1558,Oklahoma,2258,1058,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295433,NA,NA,0,Oklahoma,Texas,7
+2009-10,2010-02-06,914037,157,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,2,4,1558,Oklahoma,2224,1024,34,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,8
+2009-10,2010-02-06,914037,159,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,3,3,1651,Texas,2224,1024,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,8
+2009-10,2010-02-06,914037,160,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,3,3,1651,Texas,2224,1024,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,161,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,3,3,1651,Texas,2224,1024,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,8
+2009-10,2010-02-06,914037,162,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,6,3,3,1558,Oklahoma,2224,1024,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,8
+2009-10,2010-02-06,914037,165,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,9,3,6,1558,Oklahoma,2210,1010,14, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.2,28.450000000000003,511663,NA,NA,0,Oklahoma,Texas,9
+2009-10,2010-02-06,914037,166,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,9,3,6,1651,Texas,2193,993,17, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,20.95,513607,NA,NA,0,Texas,Texas,10
+2009-10,2010-02-06,914037,167,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,9,3,6,1558,Oklahoma,2193,993,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,10
+2009-10,2010-02-06,914037,168,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,3,8,1558,Oklahoma,2186,986,7, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,10.299999999999997,3.8499999999999943,511663,NA,NA,0,Oklahoma,Texas,11
+2009-10,2010-02-06,914037,172,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1651,Texas,2166,966,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Texas,12
+2009-10,2010-02-06,914037,173,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2166,966,0,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,12
+2009-10,2010-02-06,914037,174,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2166,966,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,175,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1651,Texas,2166,966,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,12
+2009-10,2010-02-06,914037,176,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2166,966,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,12
+2009-10,2010-02-06,914037,179,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2149,949,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,5.799999999999997,21.849999999999994,399728,NA,NA,0,Oklahoma,Oklahoma,13
+2009-10,2010-02-06,914037,180,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2149,949,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,13
+2009-10,2010-02-06,914037,181,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2143,943,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295433,NA,NA,0,Oklahoma,Oklahoma,13
+2009-10,2010-02-06,914037,182,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,11,5,6,1558,Oklahoma,2143,943,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,13
+2009-10,2010-02-06,914037,183,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,13,5,8,1558,Oklahoma,2138,938,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399728,NA,NA,0,Oklahoma,Texas,13
+2009-10,2010-02-06,914037,184,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,13,7,6,1651,Texas,2130,930,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Oklahoma,14
+2009-10,2010-02-06,914037,185,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,7,9,1558,Oklahoma,2120,920,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,41,24.25,511663,NA,NA,0,Oklahoma,Texas,15
+2009-10,2010-02-06,914037,186,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,7,9,1651,Texas,2104,904,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.2,25.35,469830,NA,NA,0,Texas,Texas,16
+2009-10,2010-02-06,914037,187,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,7,9,1558,Oklahoma,2104,904,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,16
+2009-10,2010-02-06,914037,188,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,7,9,1558,Oklahoma,2094,894,10, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,46,20.75,399728,NA,NA,0,Oklahoma,Oklahoma,17
+2009-10,2010-02-06,914037,189,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,7,9,1651,Texas,2094,894,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,17
+2009-10,2010-02-06,914037,190,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2072,872,22, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,33.2,17.85,513607,NA,NA,0,Texas,Oklahoma,18
+2009-10,2010-02-06,914037,191,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1558,Oklahoma,2049,849,23, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,33,7.75,295433,NA,NA,0,Oklahoma,Oklahoma,19
+2009-10,2010-02-06,914037,192,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2049,849,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,19
+2009-10,2010-02-06,914037,193,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2041,841,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513607,NA,NA,0,Texas,Texas,20
+2009-10,2010-02-06,914037,194,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2041,841,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,20
+2009-10,2010-02-06,914037,195,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2037,837,4, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,26.75,469830,NA,NA,0,Texas,Texas,20
+2009-10,2010-02-06,914037,196,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1558,Oklahoma,2037,837,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,20
+2009-10,2010-02-06,914037,197,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1558,Oklahoma,2024,824,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330365,NA,NA,0,Oklahoma,Oklahoma,21
+2009-10,2010-02-06,914037,198,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1558,Oklahoma,2024,824,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,21
+2009-10,2010-02-06,914037,201,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,1651,Texas,2018,818,6,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,21
+2009-10,2010-02-06,914037,202,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,16,9,7,NA,NA,2018,818,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,205,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,17,9,8,1558,Oklahoma,2018,818,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,21
+2009-10,2010-02-06,914037,206,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,18,9,9,1558,Oklahoma,2018,818,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,21
+2009-10,2010-02-06,914037,207,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,18,9,9,1651,Texas,2018,818,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,210,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,18,9,9,1651,Texas,2011,811,7, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,28.25,513608,NA,NA,0,Texas,Texas,22
+2009-10,2010-02-06,914037,211,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,18,9,9,1558,Oklahoma,2011,811,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,22
+2009-10,2010-02-06,914037,212,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,9,11,1558,Oklahoma,1983,783,28, makes a hook shot from 4 feet out.,made,FALSE,FALSE,Hook Shot,22,7.950000000000003,511661,NA,NA,0,Oklahoma,Texas,23
+2009-10,2010-02-06,914037,213,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,11,9,1651,Texas,1968,768,15, makes a hook shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25.2,9.65,329529,NA,NA,0,Texas,Oklahoma,24
+2009-10,2010-02-06,914037,214,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,11,9,1558,Oklahoma,1948,748,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511665,NA,NA,0,Oklahoma,Oklahoma,25
+2009-10,2010-02-06,914037,215,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,11,9,1651,Texas,1948,748,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,25
+2009-10,2010-02-06,914037,216,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,13,7,1651,Texas,1930,730,18, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,402373,NA,NA,0,Texas,Oklahoma,26
+2009-10,2010-02-06,914037,217,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,13,7,1558,Oklahoma,1903,703,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,18.450000000000003,511665,NA,NA,0,Oklahoma,Oklahoma,27
+2009-10,2010-02-06,914037,218,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,13,7,1651,Texas,1903,703,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,27
+2009-10,2010-02-06,914037,221,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,13,7,1558,Oklahoma,1887,687,16,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,28
+2009-10,2010-02-06,914037,222,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,13,7,NA,NA,1887,687,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,224,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,14,6,1651,Texas,1887,687,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,28
+2009-10,2010-02-06,914037,225,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,15,5,1651,Texas,1887,687,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,28
+2009-10,2010-02-06,914037,233,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,15,5,1558,Oklahoma,1870,670,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10,24.349999999999994,511663,NA,NA,0,Oklahoma,Texas,29
+2009-10,2010-02-06,914037,236,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,15,5,1651,Texas,1860,660,10, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,27.35,469830,NA,NA,0,Texas,Texas,30
+2009-10,2010-02-06,914037,237,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,15,5,1558,Oklahoma,1860,660,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,30
+2009-10,2010-02-06,914037,243,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,20,15,5,1651,Texas,1837,637,23,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,31
+2009-10,2010-02-06,914037,245,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,21,15,6,1558,Oklahoma,1837,637,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,31
+2009-10,2010-02-06,914037,246,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,15,7,1558,Oklahoma,1837,637,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,31
+2009-10,2010-02-06,914037,254,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,15,7,1558,Oklahoma,1798,598,39, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23.5,29.450000000000003,330365,NA,NA,0,Oklahoma,Oklahoma,32
+2009-10,2010-02-06,914037,255,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,15,7,1651,Texas,1798,598,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,32
+2009-10,2010-02-06,914037,256,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,18,4,1651,Texas,1785,585,13, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.7,21.65,513608,NA,NA,0,Texas,Oklahoma,33
+2009-10,2010-02-06,914037,257,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,18,4,1558,Oklahoma,1758,558,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,25.549999999999997,511661,NA,NA,0,Oklahoma,Oklahoma,34
+2009-10,2010-02-06,914037,258,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,18,4,1651,Texas,1758,558,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,34
+2009-10,2010-02-06,914037,264,0,1,Oklahoma,Texas,Sooners,Longhorns,4,4,22,20,2,1651,Texas,1745,545,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329528,NA,NA,0,Texas,Oklahoma,35
+2009-10,2010-02-06,914037,265,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,22,20,2,1558,Oklahoma,1745,545,0,Sooners take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,267,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,20,5,1558,Oklahoma,1733,533,12, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,11.200000000000003,25.950000000000003,511663,NA,NA,0,Oklahoma,Texas,36
+2009-10,2010-02-06,914037,268,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,20,5,1651,Texas,1711,511,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,37
+2009-10,2010-02-06,914037,269,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,20,5,1651,Texas,1711,511,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,37
+2009-10,2010-02-06,914037,270,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,22,3,1651,Texas,1705,505,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Oklahoma,37
+2009-10,2010-02-06,914037,285,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,22,3,1651,Texas,1661,461,44, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,21.15,513607,NA,NA,0,Texas,Texas,38
+2009-10,2010-02-06,914037,286,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,22,3,1651,Texas,1661,461,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,38
+2009-10,2010-02-06,914037,290,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,22,3,NA,NA,1656,456,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,298,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,25,22,3,1558,Oklahoma,1643,443,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330365,NA,NA,0,Oklahoma,Oklahoma,38
+2009-10,2010-02-06,914037,303,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,28,22,6,1558,Oklahoma,1642,442,1, makes a 3-point jump shot from 29 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40,30.35,511663,NA,NA,0,Oklahoma,Texas,38
+2009-10,2010-02-06,914037,304,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,28,22,6,1651,Texas,1635,435,7, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,10.45,513607,NA,NA,0,Texas,Texas,39
+2009-10,2010-02-06,914037,305,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,28,22,6,1558,Oklahoma,1635,435,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,39
+2009-10,2010-02-06,914037,319,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1558,Oklahoma,1616,416,19, makes a 3-point jump shot from 28 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.3,30.049999999999997,399728,NA,NA,0,Oklahoma,Texas,40
+2009-10,2010-02-06,914037,325,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1558,Oklahoma,1605,405,11,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,332,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1651,Texas,1594,394,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,333,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1651,Texas,1594,394,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,334,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1558,Oklahoma,1594,394,0,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,335,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1651,Texas,1594,394,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,337,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1651,Texas,1594,394,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-02-06,914037,338,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,31,22,9,1558,Oklahoma,1594,394,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,41
+2009-10,2010-02-06,914037,341,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,22,12,1558,Oklahoma,1587,387,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.5,8.150000000000006,399728,NA,NA,0,Oklahoma,Texas,42
+2009-10,2010-02-06,914037,342,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,24,10,1651,Texas,1572,372,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513607,NA,NA,0,Texas,Oklahoma,43
+2009-10,2010-02-06,914037,347,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,24,10,1558,Oklahoma,1547,347,25,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,350,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,27,7,1651,Texas,1538,338,9, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9,23.25,513607,NA,NA,0,Texas,Oklahoma,44
+2009-10,2010-02-06,914037,356,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,27,7,1558,Oklahoma,1515,315,23,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,45
+2009-10,2010-02-06,914037,357,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,28,6,1651,Texas,1515,315,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,45
+2009-10,2010-02-06,914037,358,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1515,315,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,45
+2009-10,2010-02-06,914037,361,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1558,Oklahoma,1507,307,8, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,32.35,399728,NA,NA,0,Oklahoma,Oklahoma,46
+2009-10,2010-02-06,914037,362,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1507,307,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,46
+2009-10,2010-02-06,914037,363,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1497,297,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,47
+2009-10,2010-02-06,914037,364,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1497,297,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2009-10,2010-02-06,914037,365,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1491,291,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,21.85,513608,NA,NA,0,Texas,Texas,47
+2009-10,2010-02-06,914037,366,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1558,Oklahoma,1491,291,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,47
+2009-10,2010-02-06,914037,367,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1558,Oklahoma,1480,280,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,5.650000000000006,511662,NA,NA,0,Oklahoma,Oklahoma,48
+2009-10,2010-02-06,914037,368,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1480,280,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,48
+2009-10,2010-02-06,914037,374,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1558,Oklahoma,1464,264,16,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,49
+2009-10,2010-02-06,914037,376,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1651,Texas,1464,264,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,49
+2009-10,2010-02-06,914037,377,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,34,29,5,1558,Oklahoma,1464,264,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,49
+2009-10,2010-02-06,914037,385,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,36,29,7,1558,Oklahoma,1449,249,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295433,NA,NA,0,Oklahoma,Texas,50
+2009-10,2010-02-06,914037,386,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,36,29,7,1651,Texas,1440,240,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402371,NA,NA,0,Texas,Texas,51
+2009-10,2010-02-06,914037,387,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,36,29,7,1558,Oklahoma,1440,240,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,51
+2009-10,2010-02-06,914037,388,0,1,Oklahoma,Texas,Sooners,Longhorns,3,4,38,29,9,1558,Oklahoma,1435,235,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399728,NA,NA,0,Oklahoma,Texas,52
+2009-10,2010-02-06,914037,391,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,38,29,9,1651,Texas,1430,230,5,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,393,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,38,29,9,1651,Texas,1419,219,11, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,17.05,329527,NA,NA,0,Texas,Texas,53
+2009-10,2010-02-06,914037,394,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,38,29,9,1558,Oklahoma,1419,219,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,53
+2009-10,2010-02-06,914037,395,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,41,29,12,1558,Oklahoma,1410,210,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,39.8,23.849999999999994,511661,NA,NA,0,Oklahoma,Texas,54
+2009-10,2010-02-06,914037,396,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,41,29,12,1651,Texas,1395,195,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402371,NA,NA,0,Texas,Texas,55
+2009-10,2010-02-06,914037,397,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,41,29,12,1558,Oklahoma,1395,195,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,55
+2009-10,2010-02-06,914037,398,0,1,Oklahoma,Texas,Sooners,Longhorns,3,3,44,29,15,1558,Oklahoma,1387,187,8, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.5,10.650000000000006,399728,NA,NA,0,Oklahoma,Texas,56
+2009-10,2010-02-06,914037,402,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1380,180,7,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,408,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1364,164,16,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,57
+2009-10,2010-02-06,914037,409,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,NA,NA,1364,164,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,410,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1364,164,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,57
+2009-10,2010-02-06,914037,412,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1364,164,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,57
+2009-10,2010-02-06,914037,413,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1364,164,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,57
+2009-10,2010-02-06,914037,415,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1345,145,19, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,16.049999999999997,511663,NA,NA,0,Oklahoma,Oklahoma,58
+2009-10,2010-02-06,914037,416,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1345,145,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,58
+2009-10,2010-02-06,914037,421,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1340,140,5,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,58
+2009-10,2010-02-06,914037,424,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1324,124,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511665,NA,NA,0,Oklahoma,Oklahoma,58
+2009-10,2010-02-06,914037,425,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1324,124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,58
+2009-10,2010-02-06,914037,426,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1651,Texas,1312,112,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,59
+2009-10,2010-02-06,914037,427,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,44,29,15,1558,Oklahoma,1312,112,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,59
+2009-10,2010-02-06,914037,428,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,46,29,17,1558,Oklahoma,1305,105,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511665,NA,NA,0,Oklahoma,Texas,60
+2009-10,2010-02-06,914037,434,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,46,29,17,1558,Oklahoma,1279,79,26,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,61
+2009-10,2010-02-06,914037,435,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,46,29,17,1651,Texas,1279,79,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,61
+2009-10,2010-02-06,914037,437,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,46,30,16,1651,Texas,1279,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,61
+2009-10,2010-02-06,914037,439,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,1558,Oklahoma,1266,66,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511665,NA,NA,0,Oklahoma,Texas,62
+2009-10,2010-02-06,914037,444,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,1651,Texas,1238,38,28,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,63
+2009-10,2010-02-06,914037,450,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,1651,Texas,1207,7,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,20.15,329528,NA,NA,0,Texas,Texas,63
+2009-10,2010-02-06,914037,451,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,1558,Oklahoma,1207,7,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,63
+2009-10,2010-02-06,914037,452,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,1558,Oklahoma,1200,0,7, misses a 3-point jump shot from 40 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,45.05,511665,NA,NA,0,Oklahoma,Texas,64
+2009-10,2010-02-06,914037,454,0,1,Oklahoma,Texas,Sooners,Longhorns,3,2,48,30,18,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,455,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,48,30,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,65
+2009-10,2010-02-06,914037,463,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,48,32,16,1651,Texas,1191,1191,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Oklahoma,66
+2009-10,2010-02-06,914037,464,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,50,32,18,1558,Oklahoma,1165,1165,26, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,25.3,10.849999999999994,295433,NA,NA,0,Oklahoma,Texas,67
+2009-10,2010-02-06,914037,465,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,50,34,16,1651,Texas,1150,1150,15, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18,5.45,329529,NA,NA,0,Texas,Oklahoma,68
+2009-10,2010-02-06,914037,469,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,50,34,16,1651,Texas,1132,1132,18,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,69
+2009-10,2010-02-06,914037,477,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,52,34,18,1558,Oklahoma,1104,1104,28, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511662,NA,NA,0,Oklahoma,Oklahoma,69
+2009-10,2010-02-06,914037,478,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,52,34,18,1651,Texas,1104,1104,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,69
+2009-10,2010-02-06,914037,479,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,52,34,18,1651,Texas,1104,1104,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,480,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,34,19,1558,Oklahoma,1104,1104,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,69
+2009-10,2010-02-06,914037,490,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1095,1095,9, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,19.7,15.55,513607,NA,NA,0,Texas,Oklahoma,70
+2009-10,2010-02-06,914037,497,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1558,Oklahoma,1061,1061,34, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.700000000000003,25.75,330365,NA,NA,0,Oklahoma,Oklahoma,71
+2009-10,2010-02-06,914037,498,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1061,1061,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,71
+2009-10,2010-02-06,914037,499,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1052,1052,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513607,NA,NA,0,Texas,Texas,72
+2009-10,2010-02-06,914037,500,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1558,Oklahoma,1052,1052,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,72
+2009-10,2010-02-06,914037,505,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1038,1038,14,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,73
+2009-10,2010-02-06,914037,507,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1020,1020,18, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,18.55,513607,NA,NA,0,Texas,Texas,73
+2009-10,2010-02-06,914037,508,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1558,Oklahoma,1020,1020,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,73
+2009-10,2010-02-06,914037,513,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1011,1011,9,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,74
+2009-10,2010-02-06,914037,514,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1558,Oklahoma,1011,1011,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,74
+2009-10,2010-02-06,914037,516,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1011,1011,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,517,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1558,Oklahoma,1011,1011,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,74
+2009-10,2010-02-06,914037,518,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1011,1011,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,74
+2009-10,2010-02-06,914037,522,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1006,1006,5, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,12,27.35,400598,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-06,914037,523,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,36,17,1651,Texas,1006,1006,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-06,914037,524,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,38,15,1651,Texas,999,999,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Oklahoma,75
+2009-10,2010-02-06,914037,530,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,38,15,1651,Texas,978,978,21,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,76
+2009-10,2010-02-06,914037,533,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,38,15,1558,Oklahoma,973,973,5, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,12.799999999999997,6.450000000000003,511663,NA,NA,0,Oklahoma,Oklahoma,76
+2009-10,2010-02-06,914037,534,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,53,38,15,1651,Texas,973,973,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,76
+2009-10,2010-02-06,914037,535,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,38,17,1558,Oklahoma,963,963,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330365,NA,NA,0,Oklahoma,Texas,77
+2009-10,2010-02-06,914037,540,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,38,17,1558,Oklahoma,949,949,14,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,78
+2009-10,2010-02-06,914037,541,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,38,17,NA,NA,949,949,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,542,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,39,16,1651,Texas,949,949,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,78
+2009-10,2010-02-06,914037,543,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,39,16,1651,Texas,949,949,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,78
+2009-10,2010-02-06,914037,544,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,39,16,1651,Texas,949,949,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,78
+2009-10,2010-02-06,914037,556,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,42,13,1651,Texas,938,938,11, makes a 3-point jump shot from 27 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,17,31.15,513607,NA,NA,0,Texas,Oklahoma,78
+2009-10,2010-02-06,914037,566,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1651,Texas,914,914,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513607,NA,NA,0,Texas,Oklahoma,79
+2009-10,2010-02-06,914037,578,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1558,Oklahoma,883,883,31, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,22.25,330365,NA,NA,0,Oklahoma,Oklahoma,80
+2009-10,2010-02-06,914037,579,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1651,Texas,883,883,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,80
+2009-10,2010-02-06,914037,582,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1651,Texas,873,873,10,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,81
+2009-10,2010-02-06,914037,584,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1558,Oklahoma,869,869,4, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,8.150000000000006,511663,NA,NA,0,Oklahoma,Oklahoma,82
+2009-10,2010-02-06,914037,585,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1651,Texas,869,869,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,82
+2009-10,2010-02-06,914037,590,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1558,Oklahoma,852,852,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399728,NA,NA,0,Oklahoma,Oklahoma,83
+2009-10,2010-02-06,914037,591,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,55,44,11,1558,Oklahoma,852,852,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,83
+2009-10,2010-02-06,914037,592,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1558,Oklahoma,846,846,6, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,23.3,6.450000000000003,295433,NA,NA,0,Oklahoma,Texas,83
+2009-10,2010-02-06,914037,596,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1558,Oklahoma,839,839,7,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2009-10,2010-02-06,914037,598,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1651,Texas,838,838,1, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,5.85,513607,NA,NA,0,Texas,Texas,84
+2009-10,2010-02-06,914037,599,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1558,Oklahoma,838,838,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,84
+2009-10,2010-02-06,914037,602,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1651,Texas,792,792,46, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,85
+2009-10,2010-02-06,914037,603,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,44,13,1651,Texas,792,792,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,85
+2009-10,2010-02-06,914037,604,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,46,11,1651,Texas,784,784,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Oklahoma,85
+2009-10,2010-02-06,914037,610,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,57,46,11,1651,Texas,776,776,8,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,86
+2009-10,2010-02-06,914037,613,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,58,46,12,1558,Oklahoma,776,776,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,86
+2009-10,2010-02-06,914037,614,0,2,Oklahoma,Texas,Sooners,Longhorns,4,4,59,46,13,1558,Oklahoma,776,776,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,87
+2009-10,2010-02-06,914037,615,0,2,Oklahoma,Texas,Sooners,Longhorns,3,4,59,46,13,1558,Oklahoma,776,776,0,Sooners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,618,0,2,Oklahoma,Texas,Sooners,Longhorns,3,4,59,46,13,1651,Texas,762,762,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,26.35,513608,NA,NA,0,Texas,Texas,88
+2009-10,2010-02-06,914037,619,0,2,Oklahoma,Texas,Sooners,Longhorns,3,4,59,46,13,1558,Oklahoma,762,762,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,88
+2009-10,2010-02-06,914037,620,0,2,Oklahoma,Texas,Sooners,Longhorns,3,4,59,48,11,1651,Texas,754,754,8, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,25.2,22.25,513607,NA,NA,0,Texas,Oklahoma,89
+2009-10,2010-02-06,914037,623,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1558,Oklahoma,745,745,9,Sooners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,625,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1558,Oklahoma,737,737,8, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,26.2,8.349999999999994,511665,NA,NA,0,Oklahoma,Oklahoma,90
+2009-10,2010-02-06,914037,626,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1651,Texas,737,737,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,90
+2009-10,2010-02-06,914037,627,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1651,Texas,728,728,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.8,28.85,329527,NA,NA,0,Texas,Texas,91
+2009-10,2010-02-06,914037,628,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1558,Oklahoma,728,728,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,91
+2009-10,2010-02-06,914037,629,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1558,Oklahoma,718,718,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,22.450000000000003,399728,NA,NA,0,Oklahoma,Oklahoma,92
+2009-10,2010-02-06,914037,630,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,48,11,1651,Texas,718,718,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,92
+2009-10,2010-02-06,914037,631,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,50,9,1651,Texas,706,706,12, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,19.7,18.95,513607,NA,NA,0,Texas,Oklahoma,93
+2009-10,2010-02-06,914037,635,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,50,9,1651,Texas,678,678,28,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,94
+2009-10,2010-02-06,914037,636,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,59,50,9,NA,NA,678,678,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,638,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,50,10,1558,Oklahoma,678,678,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,94
+2009-10,2010-02-06,914037,639,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,50,10,1558,Oklahoma,678,678,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,94
+2009-10,2010-02-06,914037,640,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,50,10,1558,Oklahoma,678,678,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,94
+2009-10,2010-02-06,914037,642,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,50,10,1558,Oklahoma,662,662,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399728,NA,NA,0,Oklahoma,Oklahoma,94
+2009-10,2010-02-06,914037,643,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,50,10,1651,Texas,662,662,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,94
+2009-10,2010-02-06,914037,644,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1651,Texas,647,647,15, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41.7,22.05,513607,NA,NA,0,Texas,Oklahoma,95
+2009-10,2010-02-06,914037,649,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1651,Texas,630,630,17,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,96
+2009-10,2010-02-06,914037,650,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1558,Oklahoma,630,630,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,96
+2009-10,2010-02-06,914037,651,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1651,Texas,630,630,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,96
+2009-10,2010-02-06,914037,659,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1651,Texas,622,622,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,97
+2009-10,2010-02-06,914037,668,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,53,7,1558,Oklahoma,617,617,5,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2009-10,2010-02-06,914037,669,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,54,6,1651,Texas,617,617,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2009-10,2010-02-06,914037,670,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,60,54,6,1651,Texas,617,617,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,97
+2009-10,2010-02-06,914037,677,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,62,54,8,1558,Oklahoma,612,612,5, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,20,5.650000000000006,330365,NA,NA,0,Oklahoma,Texas,98
+2009-10,2010-02-06,914037,683,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,62,54,8,1558,Oklahoma,597,597,15,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,99
+2009-10,2010-02-06,914037,686,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,62,54,8,1651,Texas,589,589,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,19.55,513608,NA,NA,0,Texas,Texas,99
+2009-10,2010-02-06,914037,687,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,62,54,8,1651,Texas,589,589,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,99
+2009-10,2010-02-06,914037,688,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,62,56,6,1651,Texas,582,582,7, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,25.2,7.95,329529,NA,NA,0,Texas,Oklahoma,99
+2009-10,2010-02-06,914037,689,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,561,561,21, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.799999999999997,24.950000000000003,511663,NA,NA,0,Oklahoma,Texas,100
+2009-10,2010-02-06,914037,693,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,552,552,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,696,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,538,538,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511661,NA,NA,0,Oklahoma,Oklahoma,101
+2009-10,2010-02-06,914037,697,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1651,Texas,538,538,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,101
+2009-10,2010-02-06,914037,704,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1651,Texas,528,528,10,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,102
+2009-10,2010-02-06,914037,711,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,517,517,11, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,34.8,29.25,511661,NA,NA,0,Oklahoma,Oklahoma,103
+2009-10,2010-02-06,914037,712,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1651,Texas,517,517,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,103
+2009-10,2010-02-06,914037,719,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1651,Texas,505,505,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329528,NA,NA,0,Texas,Oklahoma,104
+2009-10,2010-02-06,914037,721,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,505,505,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,724,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,492,492,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,20.75,399728,NA,NA,0,Oklahoma,Oklahoma,105
+2009-10,2010-02-06,914037,725,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1651,Texas,492,492,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,105
+2009-10,2010-02-06,914037,726,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,476,476,16, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,13.5,28.450000000000003,511663,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,727,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,476,476,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,728,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,469,469,7, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24,8.150000000000006,511662,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,729,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,469,469,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,731.5,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,452,452,17, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,25.2,6.75,295433,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,732.75,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,1558,Oklahoma,452,452,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,106
+2009-10,2010-02-06,914037,734,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,56,9,NA,NA,452,452,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,741,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,65,58,7,1651,Texas,442,442,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Oklahoma,106
+2009-10,2010-02-06,914037,742,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,67,58,9,1558,Oklahoma,407,407,35, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,23.2,11.049999999999997,295433,NA,NA,0,Oklahoma,Texas,107
+2009-10,2010-02-06,914037,743,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,67,60,7,1651,Texas,392,392,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513608,NA,NA,0,Texas,Oklahoma,108
+2009-10,2010-02-06,914037,749,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,67,60,7,1651,Texas,368,368,24,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,109
+2009-10,2010-02-06,914037,750,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1558,Oklahoma,368,368,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,109
+2009-10,2010-02-06,914037,751,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1558,Oklahoma,368,368,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,109
+2009-10,2010-02-06,914037,752,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1651,Texas,368,368,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,109
+2009-10,2010-02-06,914037,762,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1651,Texas,357,357,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12,24.35,400598,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,763,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1651,Texas,357,357,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,764,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1558,Oklahoma,357,357,0,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,768,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1558,Oklahoma,354,354,3,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,769,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1558,Oklahoma,354,354,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,770,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,60,8,1651,Texas,354,354,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,772,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,354,354,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,786,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,316,316,38,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,787,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,316,316,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,789,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,316,316,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,110
+2009-10,2010-02-06,914037,790,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,316,316,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,110
+2009-10,2010-02-06,914037,793,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,305,305,11, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,295433,NA,NA,0,Oklahoma,Oklahoma,111
+2009-10,2010-02-06,914037,794,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,305,305,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,111
+2009-10,2010-02-06,914037,795,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,298,298,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.3,27.650000000000006,399728,NA,NA,0,Oklahoma,Oklahoma,111
+2009-10,2010-02-06,914037,796,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,298,298,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,111
+2009-10,2010-02-06,914037,802,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,286,286,12, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,26.2,9.65,402373,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,803,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,286,286,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,804,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,286,286,0,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,805,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,286,286,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,806,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,286,286,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,817,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,275,275,11, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,29,5.85,513608,NA,NA,0,Texas,Texas,112
+2009-10,2010-02-06,914037,818,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,275,275,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,112
+2009-10,2010-02-06,914037,819,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1651,Texas,275,275,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,113
+2009-10,2010-02-06,914037,821,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,68,61,7,1558,Oklahoma,275,275,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,113
+2009-10,2010-02-06,914037,823,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,61,8,1558,Oklahoma,275,275,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,113
+2009-10,2010-02-06,914037,825,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,61,8,1651,Texas,256,256,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,14.95,513608,NA,NA,0,Texas,Texas,114
+2009-10,2010-02-06,914037,826,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,61,8,1651,Texas,256,256,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,114
+2009-10,2010-02-06,914037,827,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1651,Texas,251,251,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Oklahoma,114
+2009-10,2010-02-06,914037,828,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1558,Oklahoma,234,234,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,14.950000000000003,511661,NA,NA,0,Oklahoma,Oklahoma,115
+2009-10,2010-02-06,914037,829,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1558,Oklahoma,234,234,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,115
+2009-10,2010-02-06,914037,830,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1558,Oklahoma,215,215,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511663,NA,NA,0,Oklahoma,Oklahoma,115
+2009-10,2010-02-06,914037,831,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1651,Texas,215,215,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,115
+2009-10,2010-02-06,914037,836,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1558,Oklahoma,211,211,4,Personal foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,116
+2009-10,2010-02-06,914037,837,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,NA,NA,211,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,838,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1651,Texas,211,211,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,116
+2009-10,2010-02-06,914037,839,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1558,Oklahoma,211,211,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,116
+2009-10,2010-02-06,914037,848,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,69,63,6,1651,Texas,196,196,15,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,117
+2009-10,2010-02-06,914037,849,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,70,63,7,1558,Oklahoma,196,196,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,117
+2009-10,2010-02-06,914037,850,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,63,8,1558,Oklahoma,196,196,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,117
+2009-10,2010-02-06,914037,853,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,65,6,1651,Texas,188,188,8, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,36,5.85,513608,NA,NA,0,Texas,Oklahoma,118
+2009-10,2010-02-06,914037,854,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,65,6,1558,Oklahoma,150,150,38, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,18,10.849999999999994,399728,NA,NA,0,Oklahoma,Oklahoma,119
+2009-10,2010-02-06,914037,855,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,65,6,1651,Texas,150,150,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,119
+2009-10,2010-02-06,914037,856,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,65,6,1651,Texas,142,142,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,10.45,513608,NA,NA,0,Texas,Texas,120
+2009-10,2010-02-06,914037,857,0,2,Oklahoma,Texas,Sooners,Longhorns,2,4,71,65,6,1558,Oklahoma,142,142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,120
+2009-10,2010-02-06,914037,861,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,71,65,6,1558,Oklahoma,131,131,11,Sooners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,864,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,73,65,8,1558,Oklahoma,113,113,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464318,NA,NA,0,Oklahoma,Texas,121
+2009-10,2010-02-06,914037,870,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,73,65,8,1558,Oklahoma,96,96,17,Shooting foul committed by Sooners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,122
+2009-10,2010-02-06,914037,871,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,73,67,6,1651,Texas,96,96,0, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,25.7,6.75,402373,NA,NA,0,Texas,Oklahoma,122
+2009-10,2010-02-06,914037,872,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,73,67,6,1558,Oklahoma,96,96,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914037,873,0,2,Oklahoma,Texas,Sooners,Longhorns,1,4,73,68,5,1651,Texas,96,96,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,123
+2009-10,2010-02-06,914037,874,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,73,68,5,1651,Texas,96,96,0,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,884,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,73,68,5,1651,Texas,74,74,22, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,7.75,329527,NA,NA,0,Texas,Texas,124
+2009-10,2010-02-06,914037,885,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,73,68,5,1558,Oklahoma,74,74,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,124
+2009-10,2010-02-06,914037,886,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,73,68,5,1651,Texas,74,74,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,125
+2009-10,2010-02-06,914037,887,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,74,68,6,1558,Oklahoma,74,74,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,125
+2009-10,2010-02-06,914037,888,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1558,Oklahoma,74,74,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,125
+2009-10,2010-02-06,914037,890,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1651,Texas,68,68,6, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,10.85,400598,NA,NA,0,Texas,Texas,126
+2009-10,2010-02-06,914037,891,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1651,Texas,68,68,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,126
+2009-10,2010-02-06,914037,892,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1651,Texas,61,61,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,126
+2009-10,2010-02-06,914037,893,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1558,Oklahoma,61,61,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,126
+2009-10,2010-02-06,914037,896,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,75,68,7,1651,Texas,54,54,7,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,127
+2009-10,2010-02-06,914037,897,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,76,68,8,1558,Oklahoma,54,54,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,127
+2009-10,2010-02-06,914037,899,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,77,68,9,1558,Oklahoma,54,54,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,127
+2009-10,2010-02-06,914037,901,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,77,68,9,1651,Texas,50,50,4, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,11.2,28.25,513608,NA,NA,0,Texas,Texas,128
+2009-10,2010-02-06,914037,902,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,77,68,9,1558,Oklahoma,50,50,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,128
+2009-10,2010-02-06,914037,910,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,77,68,9,1651,Texas,30,30,20,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,129
+2009-10,2010-02-06,914037,911,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,77,68,9,1558,Oklahoma,30,30,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,129
+2009-10,2010-02-06,914037,913,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,78,68,10,1558,Oklahoma,30,30,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,129
+2009-10,2010-02-06,914037,915,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,78,68,10,1651,Texas,24,24,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,130
+2009-10,2010-02-06,914037,916,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,78,68,10,1558,Oklahoma,24,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Oklahoma,130
+2009-10,2010-02-06,914037,918,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,79,68,11,1558,Oklahoma,17,17,7, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,131
+2009-10,2010-02-06,914037,919,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,79,68,11,1651,Texas,17,17,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,131
+2009-10,2010-02-06,914037,920,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,80,68,12,1558,Oklahoma,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Texas,131
+2009-10,2010-02-06,914037,926,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,80,71,9,1651,Texas,10,10,7, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.699999999999999,22.25,400598,NA,NA,0,Texas,Oklahoma,132
+2009-10,2010-02-06,914037,932,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,80,71,9,NA,NA,0,0,10,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914037,933,0,2,Oklahoma,Texas,Sooners,Longhorns,1,3,80,71,9,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oklahoma,Oklahoma,NA

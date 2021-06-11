@@ -1,0 +1,334 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-19,1014975,1,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,NA
+2010-11,2010-11-19,1014975,2,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,0,0,0,1388,Duke,2400,1200,0, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,6,22.25,463135,NA,NA,0,Duke,Duke,1
+2010-11,2010-11-19,1014975,2.5,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,0,0,0,1359,Colgate,2400,1200,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,1
+2010-11,2010-11-19,1014975,3,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,2,0,2,1388,Duke,2390,1190,10, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22.5,9.849999999999994,510784,NA,NA,0,Duke,Colgate,2
+2010-11,2010-11-19,1014975,5,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,2,0,2,1359,Colgate,2380,1180,10,Offensive foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,3
+2010-11,2010-11-19,1014975,7,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,0,5,1388,Duke,2364,1164,16, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,14.799999999999997,28.049999999999997,551768,NA,NA,0,Duke,Colgate,4
+2010-11,2010-11-19,1014975,8,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1359,Colgate,2356,1156,8, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31,8.25,410086,NA,NA,0,Colgate,Duke,5
+2010-11,2010-11-19,1014975,10,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1388,Duke,2339,1139,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.700000000000003,22.450000000000003,398429,NA,NA,0,Duke,Duke,6
+2010-11,2010-11-19,1014975,11,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1388,Duke,2339,1139,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,6
+2010-11,2010-11-19,1014975,12,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1388,Duke,2339,1139,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,9.150000000000006,398428,NA,NA,0,Duke,Colgate,6
+2010-11,2010-11-19,1014975,16,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1359,Colgate,2307,1107,32, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15,12.45,521039,NA,NA,0,Colgate,Duke,7
+2010-11,2010-11-19,1014975,26,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,5,2,3,1388,Duke,2292,1092,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,25.549999999999997,398428,NA,NA,0,Duke,Duke,8
+2010-11,2010-11-19,1014975,30,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,2,5,1388,Duke,2287,1087,5, makes a jump shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26,7.25,510790,NA,NA,0,Duke,Colgate,8
+2010-11,2010-11-19,1014975,40,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,2,5,1359,Colgate,2253,1053,34, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,12.45,460671,NA,NA,0,Colgate,Colgate,9
+2010-11,2010-11-19,1014975,41,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,2,5,1359,Colgate,2253,1053,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,9
+2010-11,2010-11-19,1014975,42,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1359,Colgate,2250,1050,3, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,40.8,24.95,460671,NA,NA,0,Colgate,Duke,9
+2010-11,2010-11-19,1014975,44,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1388,Duke,2237,1037,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25,30.25,398429,NA,NA,0,Duke,Duke,10
+2010-11,2010-11-19,1014975,45,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1388,Duke,2237,1037,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,10
+2010-11,2010-11-19,1014975,46,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1359,Colgate,2237,1037,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,10
+2010-11,2010-11-19,1014975,52,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1359,Colgate,2201,1001,36, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,11.65,460671,NA,NA,0,Colgate,Colgate,10
+2010-11,2010-11-19,1014975,53,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1388,Duke,2201,1001,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,10
+2010-11,2010-11-19,1014975,54,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1388,Duke,2192,992,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,10.450000000000003,551768,NA,NA,0,Duke,Duke,11
+2010-11,2010-11-19,1014975,55,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,7,5,2,1388,Duke,2192,992,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,11
+2010-11,2010-11-19,1014975,56,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,9,5,4,1388,Duke,2189,989,3, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,24.7,7.950000000000003,398428,NA,NA,0,Duke,Colgate,11
+2010-11,2010-11-19,1014975,60,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,9,8,1,1359,Colgate,2157,957,32, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41,25.25,521040,NA,NA,0,Colgate,Duke,12
+2010-11,2010-11-19,1014975,61,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,12,8,4,1388,Duke,2143,943,14, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41.2,23.849999999999994,398429,NA,NA,0,Duke,Duke,13
+2010-11,2010-11-19,1014975,61.5,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,12,8,4,1359,Colgate,2119,919,24,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-11-19,1014975,72.25,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,12,8,4,NA,NA,2115,915,4,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,84,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,13,8,5,1388,Duke,2113,913,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-11-19,1014975,85,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,14,8,6,1388,Duke,2113,913,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,13
+2010-11,2010-11-19,1014975,93,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,14,8,6,1388,Duke,2108,908,5,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,14
+2010-11,2010-11-19,1014975,97,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,16,8,8,1388,Duke,2101,901,7, makes a jump shot from 1 foot out.,made,FALSE,FALSE,Jump Shot,24.8,6.25,518947,NA,NA,0,Duke,Colgate,14
+2010-11,2010-11-19,1014975,98,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,16,8,8,1359,Colgate,2078,878,23, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,8.35,460671,NA,NA,0,Colgate,Colgate,15
+2010-11,2010-11-19,1014975,99,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,16,8,8,1359,Colgate,2078,878,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,15
+2010-11,2010-11-19,1014975,100,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,16,10,6,1359,Colgate,2075,875,3, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,23.5,4.25,460669,NA,NA,0,Colgate,Duke,15
+2010-11,2010-11-19,1014975,101,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,18,10,8,1388,Duke,2064,864,11, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,26,6.25,398429,NA,NA,0,Duke,Colgate,16
+2010-11,2010-11-19,1014975,102,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,18,10,8,1359,Colgate,2046,846,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,11.05,567116,NA,NA,0,Colgate,Colgate,17
+2010-11,2010-11-19,1014975,103,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,18,10,8,1388,Duke,2046,846,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,17
+2010-11,2010-11-19,1014975,104,0,1,Duke,Colgate,Blue Devils,Raiders,4,4,21,10,11,1388,Duke,2035,835,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,48,6.25,518947,NA,NA,0,Duke,Colgate,18
+2010-11,2010-11-19,1014975,108,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,10,11,1359,Colgate,2033,833,2,Raiders take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,113,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,10,11,1359,Colgate,2016,816,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,17.05,460671,NA,NA,0,Colgate,Colgate,19
+2010-11,2010-11-19,1014975,120,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1996,796,20, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,48.2,7.75,410086,NA,NA,0,Colgate,Duke,19
+2010-11,2010-11-19,1014975,121,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1388,Duke,1978,778,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28,12.25,510790,NA,NA,0,Duke,Duke,20
+2010-11,2010-11-19,1014975,122,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1978,778,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,20
+2010-11,2010-11-19,1014975,124,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1947,747,31, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,9.65,460669,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,125,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1947,747,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,126,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1388,Duke,1947,747,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,129,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1943,743,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,48,10.25,410086,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,134,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1940,740,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,10.25,460671,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,135,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,13,8,1359,Colgate,1940,740,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,21
+2010-11,2010-11-19,1014975,136,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,21,15,6,1359,Colgate,1935,735,5, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,23.7,11.85,521040,NA,NA,0,Colgate,Duke,21
+2010-11,2010-11-19,1014975,137,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,24,15,9,1388,Duke,1932,732,3, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.700000000000003,22.25,551768,NA,NA,0,Duke,Colgate,22
+2010-11,2010-11-19,1014975,145,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,24,15,9,NA,NA,1911,711,21,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,150,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,24,15,9,1359,Colgate,1894,694,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,47,14.15,521040,NA,NA,0,Colgate,Colgate,23
+2010-11,2010-11-19,1014975,151,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,24,15,9,1388,Duke,1894,694,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,23
+2010-11,2010-11-19,1014975,152,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1886,686,8, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23,30.25,551768,NA,NA,0,Duke,Colgate,24
+2010-11,2010-11-19,1014975,154,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1872,672,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,34,28.05,521039,NA,NA,0,Colgate,Colgate,25
+2010-11,2010-11-19,1014975,155,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1872,672,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,25
+2010-11,2010-11-19,1014975,167,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1832,632,40, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4,17.25,518947,NA,NA,0,Duke,Duke,25
+2010-11,2010-11-19,1014975,173,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1832,632,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,25
+2010-11,2010-11-19,1014975,176,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1798,598,34, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,11,27.25,551768,NA,NA,0,Duke,Duke,26
+2010-11,2010-11-19,1014975,177.5,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1798,598,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,26
+2010-11,2010-11-19,1014975,178.25,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1798,598,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6,21.25,567115,NA,NA,0,Colgate,Colgate,27
+2010-11,2010-11-19,1014975,178.625,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1798,598,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,27
+2010-11,2010-11-19,1014975,179,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1788,588,10,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,182,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1785,585,3, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,4.049999999999997,398428,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,183.5,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1785,585,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,184,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1785,585,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,28
+2010-11,2010-11-19,1014975,198,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1388,Duke,1758,558,27, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,16.650000000000006,398428,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,202,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,27,15,12,1359,Colgate,1756,556,2,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,203,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,28,15,13,1388,Duke,1756,556,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,28
+2010-11,2010-11-19,1014975,204,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,29,15,14,1388,Duke,1756,556,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,28
+2010-11,2010-11-19,1014975,206,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,29,15,14,1359,Colgate,1738,538,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,7.95,410086,NA,NA,0,Colgate,Colgate,29
+2010-11,2010-11-19,1014975,207,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,29,15,14,1359,Colgate,1738,538,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,29
+2010-11,2010-11-19,1014975,208,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,29,17,12,1359,Colgate,1732,532,6, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,24.7,6.95,460671,NA,NA,0,Colgate,Duke,29
+2010-11,2010-11-19,1014975,209,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,31,17,14,1388,Duke,1711,511,21, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.7,7.549999999999997,551768,NA,NA,0,Duke,Colgate,30
+2010-11,2010-11-19,1014975,210,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,31,17,14,1359,Colgate,1689,489,22, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20,6.75,460671,NA,NA,0,Colgate,Colgate,31
+2010-11,2010-11-19,1014975,211,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,31,17,14,1388,Duke,1689,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,31
+2010-11,2010-11-19,1014975,213,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1388,Duke,1677,477,12, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,20.7,7.150000000000006,398428,NA,NA,0,Duke,Colgate,32
+2010-11,2010-11-19,1014975,215,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1359,Colgate,1677,477,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,33
+2010-11,2010-11-19,1014975,217,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,NA,NA,1677,477,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,230,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1388,Duke,1677,477,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,33
+2010-11,2010-11-19,1014975,231,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1388,Duke,1677,477,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,33
+2010-11,2010-11-19,1014975,235,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1388,Duke,1664,464,13, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,9.650000000000006,398428,NA,NA,0,Duke,Duke,33
+2010-11,2010-11-19,1014975,236,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,33,17,16,1359,Colgate,1664,464,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,33
+2010-11,2010-11-19,1014975,238,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1388,Duke,1650,450,14, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,26.3,7.150000000000006,510784,NA,NA,0,Duke,Duke,34
+2010-11,2010-11-19,1014975,239,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1650,450,0,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,34
+2010-11,2010-11-19,1014975,240,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1388,Duke,1650,450,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,34
+2010-11,2010-11-19,1014975,241,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1650,450,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,34
+2010-11,2010-11-19,1014975,248,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1610,410,40, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,6.95,567115,NA,NA,0,Colgate,Colgate,35
+2010-11,2010-11-19,1014975,249,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1388,Duke,1610,410,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,35
+2010-11,2010-11-19,1014975,250,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1388,Duke,1604,404,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,13.950000000000003,398429,NA,NA,0,Duke,Duke,36
+2010-11,2010-11-19,1014975,251,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1604,404,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,36
+2010-11,2010-11-19,1014975,252,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1595,395,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,10.85,460668,NA,NA,0,Colgate,Colgate,37
+2010-11,2010-11-19,1014975,253,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1388,Duke,1595,395,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,37
+2010-11,2010-11-19,1014975,255,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,35,17,18,1359,Colgate,1574,374,21,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2010-11,2010-11-19,1014975,256,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,36,17,19,1388,Duke,1574,374,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2010-11,2010-11-19,1014975,257,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,36,17,19,1388,Duke,1574,374,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2010-11,2010-11-19,1014975,258,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,36,17,19,1388,Duke,1574,374,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2010-11,2010-11-19,1014975,261,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,36,17,19,1388,Duke,1574,374,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,7.549999999999997,510784,NA,NA,0,Duke,Duke,38
+2010-11,2010-11-19,1014975,262,0,1,Duke,Colgate,Blue Devils,Raiders,4,3,36,17,19,1359,Colgate,1574,374,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,38
+2010-11,2010-11-19,1014975,272,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,36,17,19,1359,Colgate,1563,363,11,Raiders take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,281,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,36,19,17,1359,Colgate,1543,343,20, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.8,14.75,460671,NA,NA,0,Colgate,Duke,39
+2010-11,2010-11-19,1014975,285,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,36,19,17,1359,Colgate,1523,323,20,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,40
+2010-11,2010-11-19,1014975,286,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,37,19,18,1388,Duke,1523,323,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,40
+2010-11,2010-11-19,1014975,287,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,19,19,1388,Duke,1523,323,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,40
+2010-11,2010-11-19,1014975,291,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1499,299,24, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,6,4.25,410085,NA,NA,0,Colgate,Duke,41
+2010-11,2010-11-19,1014975,292,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1480,280,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28,10.05,460671,NA,NA,0,Colgate,Colgate,42
+2010-11,2010-11-19,1014975,293,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1480,280,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,42
+2010-11,2010-11-19,1014975,294,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1470,270,10, misses a jump shot from 2 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,6.45,460669,NA,NA,0,Colgate,Colgate,42
+2010-11,2010-11-19,1014975,295,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1470,270,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,42
+2010-11,2010-11-19,1014975,295.5,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1470,270,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44,17.25,410085,NA,NA,0,Colgate,Colgate,42
+2010-11,2010-11-19,1014975,295.75,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1388,Duke,1470,270,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,42
+2010-11,2010-11-19,1014975,299,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1388,Duke,1459,259,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,6.25,518947,NA,NA,0,Duke,Duke,43
+2010-11,2010-11-19,1014975,300,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1459,259,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,43
+2010-11,2010-11-19,1014975,301,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,NA,NA,1430,230,29,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,305,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1388,Duke,1417,217,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,19,10.849999999999994,398428,NA,NA,0,Duke,Duke,44
+2010-11,2010-11-19,1014975,306,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1417,217,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,44
+2010-11,2010-11-19,1014975,308,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1388,Duke,1395,195,22,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,45
+2010-11,2010-11-19,1014975,313,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,38,21,17,1359,Colgate,1380,180,15,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,45
+2010-11,2010-11-19,1014975,316,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,39,21,18,1388,Duke,1378,178,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,45
+2010-11,2010-11-19,1014975,317,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,21,19,1388,Duke,1378,178,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,45
+2010-11,2010-11-19,1014975,319,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,21,19,1359,Colgate,1343,143,35, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,18.75,567116,NA,NA,0,Colgate,Colgate,46
+2010-11,2010-11-19,1014975,320,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,21,19,1388,Duke,1343,143,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,46
+2010-11,2010-11-19,1014975,321,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,21,19,1388,Duke,1336,136,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,36,27.450000000000003,398429,NA,NA,0,Duke,Duke,47
+2010-11,2010-11-19,1014975,322,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,21,19,1359,Colgate,1336,136,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,47
+2010-11,2010-11-19,1014975,323,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,23,17,1359,Colgate,1316,116,20, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,29.5,17.65,521040,NA,NA,0,Colgate,Duke,48
+2010-11,2010-11-19,1014975,325,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,23,17,1388,Duke,1303,103,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,4.25,398428,NA,NA,0,Duke,Duke,49
+2010-11,2010-11-19,1014975,326,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,23,17,1388,Duke,1303,103,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,49
+2010-11,2010-11-19,1014975,327,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,40,23,17,1359,Colgate,1300,100,3,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,49
+2010-11,2010-11-19,1014975,328,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,41,23,18,1388,Duke,1300,100,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,49
+2010-11,2010-11-19,1014975,329,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,23,19,1388,Duke,1300,100,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,49
+2010-11,2010-11-19,1014975,332,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,23,19,1388,Duke,1277,77,23,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,50
+2010-11,2010-11-19,1014975,333,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,23,19,1359,Colgate,1277,77,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,50
+2010-11,2010-11-19,1014975,335,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,24,18,1359,Colgate,1277,77,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,50
+2010-11,2010-11-19,1014975,337,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,24,18,1388,Duke,1260,60,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,6.650000000000006,398428,NA,NA,0,Duke,Duke,51
+2010-11,2010-11-19,1014975,338,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,42,24,18,1388,Duke,1260,60,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,51
+2010-11,2010-11-19,1014975,339,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,24,20,1388,Duke,1255,55,5, makes a jump shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.7,7.349999999999994,398429,NA,NA,0,Duke,Colgate,51
+2010-11,2010-11-19,1014975,340,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,26,18,1359,Colgate,1240,40,15, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22,5.85,460669,NA,NA,0,Colgate,Duke,52
+2010-11,2010-11-19,1014975,343,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,26,18,1388,Duke,1200,0,40, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,34.3,29.650000000000006,398429,NA,NA,0,Duke,Duke,53
+2010-11,2010-11-19,1014975,344,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,26,18,1388,Duke,1200,0,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,53
+2010-11,2010-11-19,1014975,345,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,26,18,1388,Duke,1200,0,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5,18.75,551768,NA,NA,0,Duke,Duke,53
+2010-11,2010-11-19,1014975,347,0,1,Duke,Colgate,Blue Devils,Raiders,4,2,44,26,18,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,358,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,44,26,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,53
+2010-11,2010-11-19,1014975,360,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,47,26,21,1388,Duke,1194,1194,6, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.5,24.75,398428,NA,NA,0,Duke,Colgate,54
+2010-11,2010-11-19,1014975,362,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,47,28,19,1359,Colgate,1175,1175,19, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,26.2,7.15,460668,NA,NA,0,Colgate,Colgate,55
+2010-11,2010-11-19,1014975,363,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,47,28,19,1388,Duke,1175,1175,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,55
+2010-11,2010-11-19,1014975,364,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,47,29,18,1359,Colgate,1175,1175,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,55
+2010-11,2010-11-19,1014975,368,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1161,1161,14, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.2,11.049999999999997,398428,NA,NA,0,Duke,Colgate,56
+2010-11,2010-11-19,1014975,370,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1359,Colgate,1149,1149,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,17.65,457234,NA,NA,0,Colgate,Colgate,57
+2010-11,2010-11-19,1014975,371,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1149,1149,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,57
+2010-11,2010-11-19,1014975,373,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1359,Colgate,1149,1149,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,377,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1139,1139,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.799999999999997,5.650000000000006,398429,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,378,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1139,1139,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,379,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1359,Colgate,1136,1136,3,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,381,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1133,1133,3, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38,7.549999999999997,398428,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,382,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1133,1133,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,58
+2010-11,2010-11-19,1014975,383,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1359,Colgate,1124,1124,9, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,9.65,521039,NA,NA,0,Colgate,Colgate,58
+2010-11,2010-11-19,1014975,384,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,49,29,20,1388,Duke,1124,1124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,58
+2010-11,2010-11-19,1014975,385,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,51,29,22,1388,Duke,1118,1118,6, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24.5,8.549999999999997,510790,NA,NA,0,Duke,Colgate,59
+2010-11,2010-11-19,1014975,387,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,51,29,22,1388,Duke,1095,1095,23,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,60
+2010-11,2010-11-19,1014975,389,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,51,29,22,1359,Colgate,1092,1092,3, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,43.5,3.85,410086,NA,NA,0,Colgate,Colgate,60
+2010-11,2010-11-19,1014975,390,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,51,29,22,1388,Duke,1092,1092,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,60
+2010-11,2010-11-19,1014975,391,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,29,24,1388,Duke,1087,1087,5, makes a jump shot from 1 foot out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,6.25,398429,NA,NA,0,Duke,Colgate,61
+2010-11,2010-11-19,1014975,393,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,29,24,1359,Colgate,1067,1067,20, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,11.65,521039,NA,NA,0,Colgate,Colgate,62
+2010-11,2010-11-19,1014975,394,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,29,24,1359,Colgate,1067,1067,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,62
+2010-11,2010-11-19,1014975,395,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,29,24,1388,Duke,1067,1067,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,62
+2010-11,2010-11-19,1014975,396,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,30,23,1359,Colgate,1067,1067,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,62
+2010-11,2010-11-19,1014975,399,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,53,30,23,1359,Colgate,1067,1067,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,62
+2010-11,2010-11-19,1014975,409,0,2,Duke,Colgate,Blue Devils,Raiders,4,4,55,30,25,1388,Duke,1059,1059,8, makes a jump shot from 1 foot out.  with the assist.,made,FALSE,FALSE,Jump Shot,24.8,6.450000000000003,510790,NA,NA,0,Duke,Duke,63
+2010-11,2010-11-19,1014975,411,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,55,30,25,1359,Colgate,1053,1053,6,Raiders take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,414,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,55,30,25,1359,Colgate,1037,1037,16,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,63
+2010-11,2010-11-19,1014975,415,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,56,30,26,1388,Duke,1037,1037,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,63
+2010-11,2010-11-19,1014975,416,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,1037,1037,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,63
+2010-11,2010-11-19,1014975,419,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1019,1019,18, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,6.65,457234,NA,NA,0,Colgate,Colgate,64
+2010-11,2010-11-19,1014975,420,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1019,1019,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,64
+2010-11,2010-11-19,1014975,421,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,1019,1019,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,64
+2010-11,2010-11-19,1014975,424,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1015,1015,4, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,6.95,567116,NA,NA,0,Colgate,Colgate,64
+2010-11,2010-11-19,1014975,425,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,1015,1015,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,64
+2010-11,2010-11-19,1014975,426,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1015,1015,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,65
+2010-11,2010-11-19,1014975,429,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1009,1009,6,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,65
+2010-11,2010-11-19,1014975,432,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,1004,1004,5, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,6.75,398429,NA,NA,0,Duke,Duke,65
+2010-11,2010-11-19,1014975,433,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,1004,1004,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,65
+2010-11,2010-11-19,1014975,434,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,1004,1004,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,66
+2010-11,2010-11-19,1014975,442,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1359,Colgate,993,993,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,17.85,567115,NA,NA,0,Colgate,Colgate,66
+2010-11,2010-11-19,1014975,443,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,993,993,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,66
+2010-11,2010-11-19,1014975,444,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,985,985,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,29.049999999999997,398428,NA,NA,0,Duke,Duke,67
+2010-11,2010-11-19,1014975,445,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,57,30,27,1388,Duke,985,985,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,67
+2010-11,2010-11-19,1014975,446,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,59,30,29,1388,Duke,977,977,8, makes a jump shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24.2,6.650000000000006,467271,NA,NA,0,Duke,Colgate,67
+2010-11,2010-11-19,1014975,447,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,59,30,29,1359,Colgate,963,963,14, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,10.45,410085,NA,NA,0,Colgate,Colgate,68
+2010-11,2010-11-19,1014975,448,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,59,30,29,1388,Duke,963,963,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,68
+2010-11,2010-11-19,1014975,449,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,62,30,32,1388,Duke,956,956,7, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41,23.049999999999997,398429,NA,NA,0,Duke,Colgate,69
+2010-11,2010-11-19,1014975,450,0,2,Duke,Colgate,Blue Devils,Raiders,4,3,65,30,35,1388,Duke,929,929,27, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.200000000000003,19.75,518947,NA,NA,0,Duke,Colgate,70
+2010-11,2010-11-19,1014975,453,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,30,35,1359,Colgate,918,918,11,Raiders take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,457,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,30,35,NA,NA,901,901,17,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,460,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,30,35,1388,Duke,888,888,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,5.700000000000003,20.75,463135,NA,NA,0,Duke,Duke,71
+2010-11,2010-11-19,1014975,461,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,30,35,1359,Colgate,888,888,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,71
+2010-11,2010-11-19,1014975,462,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,32,33,1359,Colgate,879,879,9, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24,9.25,567116,NA,NA,0,Colgate,Duke,72
+2010-11,2010-11-19,1014975,464,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,32,33,1388,Duke,863,863,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,48.7,5.25,398428,NA,NA,0,Duke,Duke,73
+2010-11,2010-11-19,1014975,465,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,32,33,1388,Duke,863,863,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2010-11,2010-11-19,1014975,466,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,65,32,33,1359,Colgate,863,863,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2010-11,2010-11-19,1014975,469,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,67,32,35,1388,Duke,862,862,1, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,21.8,6.25,398428,NA,NA,0,Duke,Duke,73
+2010-11,2010-11-19,1014975,470,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,67,32,35,1359,Colgate,862,862,0,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2010-11,2010-11-19,1014975,471,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,68,32,36,1388,Duke,862,862,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,73
+2010-11,2010-11-19,1014975,474,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,68,32,36,1359,Colgate,842,842,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,5.25,567116,NA,NA,0,Colgate,Colgate,74
+2010-11,2010-11-19,1014975,475,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,68,32,36,1388,Duke,842,842,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,74
+2010-11,2010-11-19,1014975,476,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1388,Duke,835,835,7, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.7,21.450000000000003,463135,NA,NA,0,Duke,Colgate,75
+2010-11,2010-11-19,1014975,478,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1359,Colgate,816,816,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.8,26.35,410085,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,479,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1359,Colgate,816,816,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,480,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1388,Duke,816,816,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,483,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1359,Colgate,809,809,7, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,13.75,460671,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,484,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,32,39,1359,Colgate,809,809,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,485,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,34,37,1359,Colgate,809,809,0, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21.7,7.75,410085,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,486,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,34,37,1388,Duke,809,809,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,76
+2010-11,2010-11-19,1014975,489,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,35,36,1359,Colgate,809,809,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,76
+2010-11,2010-11-19,1014975,492,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,71,35,36,1359,Colgate,798,798,11,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2010-11,2010-11-19,1014975,493,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,72,35,37,1388,Duke,798,798,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2010-11,2010-11-19,1014975,494,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,72,35,37,1388,Duke,798,798,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2010-11,2010-11-19,1014975,498,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,72,35,37,1359,Colgate,798,798,0,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2010-11,2010-11-19,1014975,499,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,798,798,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,77
+2010-11,2010-11-19,1014975,500,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,798,798,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,78
+2010-11,2010-11-19,1014975,501,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1359,Colgate,798,798,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,78
+2010-11,2010-11-19,1014975,504,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,783,783,15,Personal Block Foul foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colgate,79
+2010-11,2010-11-19,1014975,505,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1359,Colgate,783,783,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,79
+2010-11,2010-11-19,1014975,520,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,773,773,10, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.799999999999997,12.049999999999997,518947,NA,NA,0,Duke,Duke,80
+2010-11,2010-11-19,1014975,521,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1359,Colgate,773,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,80
+2010-11,2010-11-19,1014975,528,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,769,769,4, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,21.450000000000003,463135,NA,NA,0,Duke,Duke,81
+2010-11,2010-11-19,1014975,529,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,769,769,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,81
+2010-11,2010-11-19,1014975,530,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1359,Colgate,766,766,3,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,81
+2010-11,2010-11-19,1014975,531,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,73,35,38,1388,Duke,766,766,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,81
+2010-11,2010-11-19,1014975,533,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,74,35,39,1388,Duke,766,766,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,81
+2010-11,2010-11-19,1014975,537,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,74,35,39,1359,Colgate,747,747,19, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,12.65,460671,NA,NA,0,Colgate,Colgate,82
+2010-11,2010-11-19,1014975,538,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,74,35,39,1388,Duke,747,747,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,82
+2010-11,2010-11-19,1014975,539,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,76,35,41,1388,Duke,739,739,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26.5,8.950000000000003,551769,NA,NA,0,Duke,Colgate,83
+2010-11,2010-11-19,1014975,540,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,76,37,39,1359,Colgate,721,721,18, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21,6.45,460671,NA,NA,0,Colgate,Duke,84
+2010-11,2010-11-19,1014975,541,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,79,37,42,1388,Duke,703,703,18, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.700000000000003,25.549999999999997,518947,NA,NA,0,Duke,Colgate,85
+2010-11,2010-11-19,1014975,542,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,79,37,42,1359,Colgate,684,684,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,15.65,460671,NA,NA,0,Colgate,Colgate,86
+2010-11,2010-11-19,1014975,543,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,79,37,42,1388,Duke,684,684,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,86
+2010-11,2010-11-19,1014975,545,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,79,37,42,1359,Colgate,680,680,4,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2010-11,2010-11-19,1014975,546,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,79,37,42,NA,NA,680,680,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,547,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,80,37,43,1388,Duke,680,680,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2010-11,2010-11-19,1014975,548,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,37,44,1388,Duke,680,680,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,87
+2010-11,2010-11-19,1014975,551,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,37,44,1359,Colgate,667,667,13, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,12.05,410085,NA,NA,0,Colgate,Colgate,88
+2010-11,2010-11-19,1014975,552,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,37,44,1359,Colgate,667,667,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,88
+2010-11,2010-11-19,1014975,554,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,37,44,1359,Colgate,651,651,16, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,27.35,410086,NA,NA,0,Colgate,Colgate,88
+2010-11,2010-11-19,1014975,555,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,37,44,1359,Colgate,651,651,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,88
+2010-11,2010-11-19,1014975,556,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,39,42,1359,Colgate,645,645,6, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,21,6.25,410085,NA,NA,0,Colgate,Duke,88
+2010-11,2010-11-19,1014975,560,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,39,42,1359,Colgate,628,628,17,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-19,1014975,561,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,81,39,42,1388,Duke,628,628,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-19,1014975,563,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,82,39,43,1388,Duke,628,628,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,89
+2010-11,2010-11-19,1014975,566,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,82,39,43,1359,Colgate,625,625,3,Offensive foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,90
+2010-11,2010-11-19,1014975,568,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,39,45,1388,Duke,613,613,12, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28.7,6.75,510790,NA,NA,0,Duke,Colgate,91
+2010-11,2010-11-19,1014975,570,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,39,45,1388,Duke,602,602,11,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,92
+2010-11,2010-11-19,1014975,571,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,40,44,1359,Colgate,602,602,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,92
+2010-11,2010-11-19,1014975,572,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,41,43,1359,Colgate,602,602,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,93
+2010-11,2010-11-19,1014975,574,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,41,43,1388,Duke,586,586,16, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,8.75,551768,NA,NA,0,Duke,Duke,94
+2010-11,2010-11-19,1014975,575,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,41,43,1359,Colgate,586,586,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,94
+2010-11,2010-11-19,1014975,577,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,84,41,43,1359,Colgate,567,567,19,Offensive foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,95
+2010-11,2010-11-19,1014975,583,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,85,41,44,1388,Duke,567,567,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,96
+2010-11,2010-11-19,1014975,584,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,86,41,45,1388,Duke,567,567,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,96
+2010-11,2010-11-19,1014975,594,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,86,41,45,1388,Duke,546,546,21, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,18.25,398429,NA,NA,0,Duke,Duke,97
+2010-11,2010-11-19,1014975,595,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,86,41,45,1388,Duke,546,546,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,97
+2010-11,2010-11-19,1014975,596,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,89,41,48,1388,Duke,539,539,7, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,15.349999999999994,551769,NA,NA,0,Duke,Colgate,97
+2010-11,2010-11-19,1014975,597,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,89,41,48,1359,Colgate,518,518,21, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,16.05,410086,NA,NA,0,Colgate,Colgate,98
+2010-11,2010-11-19,1014975,598,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,89,41,48,1388,Duke,518,518,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,98
+2010-11,2010-11-19,1014975,599,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,91,41,50,1388,Duke,511,511,7, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.5,7.950000000000003,551768,NA,NA,0,Duke,Colgate,99
+2010-11,2010-11-19,1014975,600,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,41,53,1388,Duke,491,491,20, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,17.200000000000003,29.049999999999997,510784,NA,NA,0,Duke,Colgate,100
+2010-11,2010-11-19,1014975,602,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,41,53,1388,Duke,481,481,10,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,101
+2010-11,2010-11-19,1014975,603,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,42,52,1359,Colgate,481,481,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,101
+2010-11,2010-11-19,1014975,604,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,1359,Colgate,481,481,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,101
+2010-11,2010-11-19,1014975,608,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,NA,NA,466,466,15,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,610,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,1359,Colgate,452,452,14, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,20.15,457234,NA,NA,0,Colgate,Colgate,102
+2010-11,2010-11-19,1014975,611,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,1388,Duke,452,452,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,102
+2010-11,2010-11-19,1014975,612,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,1388,Duke,440,440,12, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,7.950000000000003,467271,NA,NA,0,Duke,Duke,103
+2010-11,2010-11-19,1014975,613,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,43,51,1359,Colgate,440,440,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,103
+2010-11,2010-11-19,1014975,614,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,46,48,1359,Colgate,433,433,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2,5.25,410086,NA,NA,0,Colgate,Duke,104
+2010-11,2010-11-19,1014975,615,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,46,48,1388,Duke,422,422,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3,10.049999999999997,463135,NA,NA,0,Duke,Duke,105
+2010-11,2010-11-19,1014975,616,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,94,46,48,1359,Colgate,422,422,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,105
+2010-11,2010-11-19,1014975,617,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1388,Duke,411,411,11, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22.3,7.549999999999997,467271,NA,NA,0,Duke,Colgate,106
+2010-11,2010-11-19,1014975,618,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1359,Colgate,385,385,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3,13.35,567115,NA,NA,0,Colgate,Colgate,107
+2010-11,2010-11-19,1014975,619,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1359,Colgate,385,385,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,107
+2010-11,2010-11-19,1014975,620,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1359,Colgate,380,380,5, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,8.15,457234,NA,NA,0,Colgate,Colgate,107
+2010-11,2010-11-19,1014975,621,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1388,Duke,380,380,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,107
+2010-11,2010-11-19,1014975,622,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1388,Duke,369,369,11, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,17.849999999999994,551767,NA,NA,0,Duke,Duke,108
+2010-11,2010-11-19,1014975,623,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,96,46,50,1388,Duke,369,369,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,108
+2010-11,2010-11-19,1014975,624,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,46,52,1388,Duke,365,365,4, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,25.2,7.150000000000006,467271,NA,NA,0,Duke,Colgate,108
+2010-11,2010-11-19,1014975,629,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,46,52,1388,Duke,348,348,17,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,109
+2010-11,2010-11-19,1014975,630,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,47,51,1359,Colgate,348,348,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,109
+2010-11,2010-11-19,1014975,631,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,48,50,1359,Colgate,348,348,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,109
+2010-11,2010-11-19,1014975,637,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,48,50,1359,Colgate,309,309,39, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.1999999999999993,4.45,567115,NA,NA,0,Colgate,Colgate,110
+2010-11,2010-11-19,1014975,638,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,48,50,1388,Duke,309,309,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,110
+2010-11,2010-11-19,1014975,642,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,98,48,50,1388,Duke,297,297,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-19,1014975,644,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,100,48,52,1388,Duke,284,284,13, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.7,8.150000000000006,467271,NA,NA,0,Duke,Colgate,111
+2010-11,2010-11-19,1014975,645,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,100,48,52,1359,Colgate,277,277,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,24.25,521039,NA,NA,0,Colgate,Colgate,112
+2010-11,2010-11-19,1014975,646,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,100,48,52,1388,Duke,277,277,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,112
+2010-11,2010-11-19,1014975,648,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,100,48,52,1359,Colgate,260,260,17,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,113
+2010-11,2010-11-19,1014975,649,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,101,48,53,1388,Duke,260,260,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,113
+2010-11,2010-11-19,1014975,650,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,48,54,1388,Duke,260,260,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,113
+2010-11,2010-11-19,1014975,654,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,50,52,1359,Colgate,237,237,23, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.3,8.95,460669,NA,NA,0,Colgate,Duke,114
+2010-11,2010-11-19,1014975,656,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,50,52,1388,Duke,224,224,13,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,115
+2010-11,2010-11-19,1014975,657,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,50,52,NA,NA,224,224,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,661,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,50,52,1388,Duke,204,204,20, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,32,14.75,551767,NA,NA,0,Duke,Duke,116
+2010-11,2010-11-19,1014975,662,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,50,52,1359,Colgate,204,204,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,116
+2010-11,2010-11-19,1014975,663,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,102,52,50,1359,Colgate,197,197,7, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,25,14.95,567115,NA,NA,0,Colgate,Duke,117
+2010-11,2010-11-19,1014975,665,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1388,Duke,180,180,17, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.3,7.549999999999997,551767,NA,NA,0,Duke,Duke,118
+2010-11,2010-11-19,1014975,666,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,180,180,0,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,118
+2010-11,2010-11-19,1014975,667,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1388,Duke,180,180,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,118
+2010-11,2010-11-19,1014975,668,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,180,180,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,118
+2010-11,2010-11-19,1014975,671,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,171,171,9,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,119
+2010-11,2010-11-19,1014975,679,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1388,Duke,154,154,17, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,4.450000000000003,463135,NA,NA,0,Duke,Duke,119
+2010-11,2010-11-19,1014975,680,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,154,154,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,119
+2010-11,2010-11-19,1014975,682,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,123,123,31, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25,15.15,521042,NA,NA,0,Colgate,Colgate,120
+2010-11,2010-11-19,1014975,683,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1359,Colgate,123,123,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,120
+2010-11,2010-11-19,1014975,684,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,52,52,1388,Duke,123,123,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,120
+2010-11,2010-11-19,1014975,685,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,53,51,1359,Colgate,123,123,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,120
+2010-11,2010-11-19,1014975,686,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,54,50,1359,Colgate,123,123,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Duke,120
+2010-11,2010-11-19,1014975,688,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,54,50,1388,Duke,105,105,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,28.849999999999994,463135,NA,NA,0,Duke,Duke,121
+2010-11,2010-11-19,1014975,689,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,54,50,1359,Colgate,105,105,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,121
+2010-11,2010-11-19,1014975,690,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,56,48,1359,Colgate,96,96,9, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.7,7.75,460668,NA,NA,0,Colgate,Duke,122
+2010-11,2010-11-19,1014975,692,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,56,48,1359,Colgate,79,79,17,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,123
+2010-11,2010-11-19,1014975,693,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,104,56,48,1388,Duke,79,79,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,123
+2010-11,2010-11-19,1014975,695,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,105,56,49,1388,Duke,79,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,123
+2010-11,2010-11-19,1014975,698,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,105,56,49,1359,Colgate,55,55,24,Personal foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,124
+2010-11,2010-11-19,1014975,699,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,106,56,50,1388,Duke,55,55,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,124
+2010-11,2010-11-19,1014975,700,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,107,56,51,1388,Duke,55,55,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,124
+2010-11,2010-11-19,1014975,704,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,107,58,49,1359,Colgate,36,36,19, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8.3,6.05,521042,NA,NA,0,Colgate,Duke,125
+2010-11,2010-11-19,1014975,709,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,107,58,49,1359,Colgate,9,9,27,Shooting foul committed by Raiders.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,126
+2010-11,2010-11-19,1014975,710,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,108,58,50,1388,Duke,9,9,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,126
+2010-11,2010-11-19,1014975,712,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,109,58,51,1388,Duke,9,9,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,126
+2010-11,2010-11-19,1014975,713,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,110,58,52,1388,Duke,9,9,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Colgate,126
+2010-11,2010-11-19,1014975,715,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,110,58,52,1359,Colgate,0,0,9, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,27.7,31.15,410085,NA,NA,0,Colgate,NA,127
+2010-11,2010-11-19,1014975,717,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,110,58,52,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-19,1014975,718,0,2,Duke,Colgate,Blue Devils,Raiders,4,2,110,58,52,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colgate,Colgate,NA

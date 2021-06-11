@@ -1,0 +1,309 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-06,914038,1,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,NA
+2009-10,2010-02-06,914038,7,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,0,0,0,1527,Nebraska,2390,1190,10,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,1
+2009-10,2010-02-06,914038,8,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,1,0,1,1456,Kansas,2390,1190,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,1
+2009-10,2010-02-06,914038,9,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,2,0,2,1456,Kansas,2390,1190,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,1
+2009-10,2010-02-06,914038,13,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,2,3,-1,1527,Nebraska,2379,1179,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.8,23.45,329517,NA,NA,0,Nebraska,Kansas,2
+2009-10,2010-02-06,914038,14,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,5,3,2,1456,Kansas,2353,1153,26, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32.8,28.650000000000006,513058,NA,NA,0,Kansas,Nebraska,3
+2009-10,2010-02-06,914038,24,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,5,3,2,1456,Kansas,2301,1101,52,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,4
+2009-10,2010-02-06,914038,25,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,5,4,1,1527,Nebraska,2301,1101,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,4
+2009-10,2010-02-06,914038,26,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,5,5,0,1527,Nebraska,2301,1101,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,4
+2009-10,2010-02-06,914038,30,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,8,5,3,1456,Kansas,2286,1086,15, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.299999999999997,24.25,513058,NA,NA,0,Kansas,Nebraska,5
+2009-10,2010-02-06,914038,41,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,8,5,3,1527,Nebraska,2239,1039,47,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,6
+2009-10,2010-02-06,914038,45,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1456,Kansas,2228,1028,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.5,8.349999999999994,330350,NA,NA,0,Kansas,Nebraska,6
+2009-10,2010-02-06,914038,47,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1527,Nebraska,2212,1012,16, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,14.95,506120,NA,NA,0,Nebraska,Nebraska,7
+2009-10,2010-02-06,914038,55,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1527,Nebraska,2187,987,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.7,27.85,506130,NA,NA,0,Nebraska,Nebraska,7
+2009-10,2010-02-06,914038,56,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1527,Nebraska,2187,987,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,7
+2009-10,2010-02-06,914038,56.5,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1527,Nebraska,2177,977,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506130,NA,NA,0,Nebraska,Nebraska,7
+2009-10,2010-02-06,914038,56.75,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,5,6,1527,Nebraska,2177,977,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,7
+2009-10,2010-02-06,914038,57,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,7,4,1527,Nebraska,2177,977,0, makes a hook shot from 15 feet out.,made,FALSE,FALSE,Hook Shot,24.7,19.95,506122,NA,NA,0,Nebraska,Kansas,7
+2009-10,2010-02-06,914038,61,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,7,4,1527,Nebraska,2170,970,7,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,8
+2009-10,2010-02-06,914038,62,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,11,7,4,1456,Kansas,2170,970,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,64,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2167,967,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Nebraska,8
+2009-10,2010-02-06,914038,70,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2153,953,14, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,7.55,506122,NA,NA,0,Nebraska,Nebraska,9
+2009-10,2010-02-06,914038,71,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2153,953,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,9
+2009-10,2010-02-06,914038,72,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,NA,NA,2153,953,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,81,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2151,951,2,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,9
+2009-10,2010-02-06,914038,85,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2140,940,11, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32,8.75,329517,NA,NA,0,Nebraska,Nebraska,9
+2009-10,2010-02-06,914038,86,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2140,940,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,9
+2009-10,2010-02-06,914038,88,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2126,926,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.700000000000003,5.450000000000003,513058,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-06,914038,89,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2126,926,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-06,914038,90,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2124,924,2,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-06,914038,91,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2124,924,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-06,914038,93,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2124,924,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,94,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2124,924,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,95,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2124,924,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,96,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2124,924,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-06,914038,97,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2124,924,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,10
+2009-10,2010-02-06,914038,101,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2123,923,1,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,11
+2009-10,2010-02-06,914038,106,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2094,894,29,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,114,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2080,880,14,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,11
+2009-10,2010-02-06,914038,116,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2065,865,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,16.45,506130,NA,NA,0,Nebraska,Nebraska,12
+2009-10,2010-02-06,914038,117,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2065,865,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,12
+2009-10,2010-02-06,914038,119,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2057,857,8,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,13
+2009-10,2010-02-06,914038,120,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2057,857,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,121,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2057,857,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,123,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1456,Kansas,2043,843,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.700000000000003,18.25,330350,NA,NA,0,Kansas,Kansas,13
+2009-10,2010-02-06,914038,124,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2043,843,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,13
+2009-10,2010-02-06,914038,125,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2033,833,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506130,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,126,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,7,6,1527,Nebraska,2033,833,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,131,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1527,Nebraska,2031,831,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506131,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,133,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1456,Kansas,2031,831,0,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,134,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1527,Nebraska,2031,831,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,135,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1527,Nebraska,2031,831,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,14
+2009-10,2010-02-06,914038,140,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1456,Kansas,2011,811,20, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,6.950000000000003,469089,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-02-06,914038,141,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,13,9,4,1456,Kansas,2011,811,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-02-06,914038,142,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,15,9,6,1456,Kansas,2006,806,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513057,NA,NA,0,Kansas,Nebraska,14
+2009-10,2010-02-06,914038,143,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,15,11,4,1527,Nebraska,1998,798,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,15
+2009-10,2010-02-06,914038,145,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,15,11,4,1527,Nebraska,1985,785,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295419,NA,NA,0,Nebraska,Nebraska,16
+2009-10,2010-02-06,914038,146,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,15,11,4,1527,Nebraska,1985,785,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,16
+2009-10,2010-02-06,914038,147,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,15,13,2,1527,Nebraska,1985,785,0, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24.3,7.15,506130,NA,NA,0,Nebraska,Kansas,16
+2009-10,2010-02-06,914038,151,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,15,13,2,1456,Kansas,1983,783,2,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,152,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,15,13,2,1527,Nebraska,1983,783,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,157,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,18,13,5,1456,Kansas,1976,776,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.700000000000003,20.75,469083,NA,NA,0,Kansas,Nebraska,17
+2009-10,2010-02-06,914038,158,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,18,13,5,1527,Nebraska,1945,745,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403773,NA,NA,0,Nebraska,Nebraska,18
+2009-10,2010-02-06,914038,159,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,18,13,5,1456,Kansas,1945,745,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,18
+2009-10,2010-02-06,914038,160,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,20,13,7,1456,Kansas,1937,737,8, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15.5,4.25,398441,NA,NA,0,Kansas,Nebraska,19
+2009-10,2010-02-06,914038,164,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,20,13,7,NA,NA,1913,713,24,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,165,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,20,13,7,1527,Nebraska,1913,713,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,171,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1456,Kansas,1908,708,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Nebraska,20
+2009-10,2010-02-06,914038,173,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1527,Nebraska,1885,685,23,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,21
+2009-10,2010-02-06,914038,174,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1527,Nebraska,1885,685,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,177,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1456,Kansas,1875,675,10,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,22
+2009-10,2010-02-06,914038,179,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1527,Nebraska,1857,657,18, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,26.55,403773,NA,NA,0,Nebraska,Nebraska,23
+2009-10,2010-02-06,914038,180,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1456,Kansas,1857,657,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,23
+2009-10,2010-02-06,914038,182,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,13,9,1456,Kansas,1841,641,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,185,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,15,7,1527,Nebraska,1833,633,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506131,NA,NA,0,Nebraska,Nebraska,24
+2009-10,2010-02-06,914038,188,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,15,7,1456,Kansas,1832,632,1,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,24
+2009-10,2010-02-06,914038,189,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,16,6,1527,Nebraska,1832,632,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,24
+2009-10,2010-02-06,914038,190,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,22,16,6,1456,Kansas,1832,632,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,195,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,24,16,8,1456,Kansas,1813,613,19, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12,8.150000000000006,469089,NA,NA,0,Kansas,Nebraska,25
+2009-10,2010-02-06,914038,196,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,24,19,5,1527,Nebraska,1792,592,21, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,16.5,28.45,506131,NA,NA,0,Nebraska,Kansas,26
+2009-10,2010-02-06,914038,197,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,24,19,5,1456,Kansas,1776,576,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.2,27.650000000000006,513058,NA,NA,0,Kansas,Kansas,27
+2009-10,2010-02-06,914038,198,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,24,19,5,1456,Kansas,1776,576,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,27
+2009-10,2010-02-06,914038,205,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,24,21,3,1527,Nebraska,1767,567,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506130,NA,NA,0,Nebraska,Kansas,27
+2009-10,2010-02-06,914038,207,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,24,21,3,1456,Kansas,1764,564,3,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,221,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,24,21,3,1456,Kansas,1764,564,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,222,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,24,21,3,1456,Kansas,1764,564,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,240,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,26,21,5,1456,Kansas,1733,533,31, makes a jump shot from 22 feet out.,made,FALSE,FALSE,Jump Shot,31,26.150000000000006,330350,NA,NA,0,Kansas,Nebraska,28
+2009-10,2010-02-06,914038,246,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,26,21,5,1527,Nebraska,1705,505,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506131,NA,NA,0,Nebraska,Nebraska,29
+2009-10,2010-02-06,914038,256,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,26,21,5,1527,Nebraska,1685,485,20,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,29
+2009-10,2010-02-06,914038,262,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1456,Kansas,1657,457,28, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Nebraska,30
+2009-10,2010-02-06,914038,263,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1456,Kansas,1634,434,23, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,30.5,10.650000000000006,457334,NA,NA,0,Kansas,Kansas,31
+2009-10,2010-02-06,914038,264,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1527,Nebraska,1634,434,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,31
+2009-10,2010-02-06,914038,265,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1527,Nebraska,1620,420,14, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,18,12.05,506122,NA,NA,0,Nebraska,Nebraska,32
+2009-10,2010-02-06,914038,266,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1456,Kansas,1620,420,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,32
+2009-10,2010-02-06,914038,267,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1456,Kansas,1611,411,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,5.25,330353,NA,NA,0,Kansas,Kansas,33
+2009-10,2010-02-06,914038,268,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1527,Nebraska,1611,411,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,33
+2009-10,2010-02-06,914038,271,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1527,Nebraska,1605,405,6,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,34
+2009-10,2010-02-06,914038,272,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,NA,NA,1605,405,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,275,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,28,21,7,1527,Nebraska,1605,405,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,277.5,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,21,9,1456,Kansas,1594,394,11, makes a jump shot from 11 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15,8.950000000000003,457334,NA,NA,0,Kansas,Nebraska,35
+2009-10,2010-02-06,914038,282,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,21,9,1456,Kansas,1580,380,14,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,36
+2009-10,2010-02-06,914038,283,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,21,9,1527,Nebraska,1580,380,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,284,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,22,8,1527,Nebraska,1580,380,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,36
+2009-10,2010-02-06,914038,285,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1527,Nebraska,1580,380,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,37
+2009-10,2010-02-06,914038,293,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1456,Kansas,1547,347,33, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,21.450000000000003,330350,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-02-06,914038,294,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1527,Nebraska,1547,347,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,38
+2009-10,2010-02-06,914038,298,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1456,Kansas,1534,334,13,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,39
+2009-10,2010-02-06,914038,299,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1527,Nebraska,1534,334,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,301,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1527,Nebraska,1534,334,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,39
+2009-10,2010-02-06,914038,302,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1456,Kansas,1534,334,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,39
+2009-10,2010-02-06,914038,307,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1456,Kansas,1530,330,4, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,12.049999999999997,469089,NA,NA,0,Kansas,Kansas,40
+2009-10,2010-02-06,914038,308,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,23,7,1527,Nebraska,1530,330,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,40
+2009-10,2010-02-06,914038,317,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,30,26,4,1527,Nebraska,1488,288,42, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.699999999999999,13.15,506120,NA,NA,0,Nebraska,Kansas,41
+2009-10,2010-02-06,914038,318,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,26,7,1456,Kansas,1465,265,23, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.5,17.650000000000006,330350,NA,NA,0,Kansas,Nebraska,42
+2009-10,2010-02-06,914038,319,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1527,Nebraska,1451,251,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24,29.45,506120,NA,NA,0,Nebraska,Kansas,43
+2009-10,2010-02-06,914038,333.625,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1456,Kansas,1421,221,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,9.650000000000006,330350,NA,NA,0,Kansas,Kansas,44
+2009-10,2010-02-06,914038,340.9375,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1527,Nebraska,1421,221,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,44
+2009-10,2010-02-06,914038,358,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1527,Nebraska,1404,204,17, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,7.75,506120,NA,NA,0,Nebraska,Nebraska,45
+2009-10,2010-02-06,914038,359,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1456,Kansas,1404,204,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,45
+2009-10,2010-02-06,914038,362,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,1527,Nebraska,1393,193,11,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,46
+2009-10,2010-02-06,914038,363,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,33,29,4,NA,NA,1393,193,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,370,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,34,29,5,1456,Kansas,1393,193,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,46
+2009-10,2010-02-06,914038,371,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,29,6,1456,Kansas,1393,193,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,46
+2009-10,2010-02-06,914038,372,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,29,6,1456,Kansas,1393,193,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,374,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1527,Nebraska,1373,173,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,47
+2009-10,2010-02-06,914038,375,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1456,Kansas,1337,137,36, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,21.849999999999994,469089,NA,NA,0,Kansas,Kansas,48
+2009-10,2010-02-06,914038,376,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1527,Nebraska,1337,137,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,48
+2009-10,2010-02-06,914038,377,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1527,Nebraska,1313,113,24, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,9.85,403773,NA,NA,0,Nebraska,Nebraska,49
+2009-10,2010-02-06,914038,378,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1527,Nebraska,1313,113,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,49
+2009-10,2010-02-06,914038,384,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,31,4,1456,Kansas,1311,111,2,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,49
+2009-10,2010-02-06,914038,385,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1527,Nebraska,1311,111,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,49
+2009-10,2010-02-06,914038,386,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1311,111,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,387,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1527,Nebraska,1311,111,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,388,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1527,Nebraska,1311,111,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,49
+2009-10,2010-02-06,914038,389,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1311,111,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,49
+2009-10,2010-02-06,914038,393,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1283,83,28, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.200000000000003,4.650000000000006,330353,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,394,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1283,83,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,395.5,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1280,80,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469089,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,396.25,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1280,80,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,398,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1278,78,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,399,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1278,78,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,406,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1527,Nebraska,1276,76,2,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,407,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1276,76,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,409,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1276,76,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,410,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,35,32,3,1456,Kansas,1276,76,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-06,914038,412,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1275,75,1, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24.3,6.75,469089,NA,NA,0,Kansas,Nebraska,50
+2009-10,2010-02-06,914038,413,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1527,Nebraska,1265,65,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,15.85,481213,NA,NA,0,Nebraska,Nebraska,51
+2009-10,2010-02-06,914038,414,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1265,65,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,51
+2009-10,2010-02-06,914038,415,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1255,55,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330353,NA,NA,0,Kansas,Kansas,52
+2009-10,2010-02-06,914038,416,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1255,55,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,52
+2009-10,2010-02-06,914038,417,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1251,51,4, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,457334,NA,NA,0,Kansas,Kansas,52
+2009-10,2010-02-06,914038,418,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1527,Nebraska,1251,51,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,52
+2009-10,2010-02-06,914038,419,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1527,Nebraska,1245,45,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295419,NA,NA,0,Nebraska,Nebraska,53
+2009-10,2010-02-06,914038,420,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1245,45,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,53
+2009-10,2010-02-06,914038,421,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1237,37,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,17.049999999999997,330350,NA,NA,0,Kansas,Kansas,54
+2009-10,2010-02-06,914038,422,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,4,37,32,5,1456,Kansas,1237,37,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,54
+2009-10,2010-02-06,914038,424,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,32,5,1527,Nebraska,1219,19,18,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,425,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,32,5,1456,Kansas,1219,19,0,Technical foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,54
+2009-10,2010-02-06,914038,426,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,1527,Nebraska,1219,19,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,55
+2009-10,2010-02-06,914038,427,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,1527,Nebraska,1219,19,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,55
+2009-10,2010-02-06,914038,432,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,1456,Kansas,1219,19,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,435.5,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,1456,Kansas,1201,1,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,11.25,330350,NA,NA,0,Kansas,Kansas,56
+2009-10,2010-02-06,914038,437.25,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,1527,Nebraska,1201,1,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,56
+2009-10,2010-02-06,914038,442,0,1,Kansas,Nebraska,Jayhawks,Cornhuskers,2,3,37,33,4,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,452,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,37,33,4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,57
+2009-10,2010-02-06,914038,454,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,37,35,2,1527,Nebraska,1182,1182,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,58
+2009-10,2010-02-06,914038,461,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,37,35,2,1456,Kansas,1108,1108,74, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,10.049999999999997,513058,NA,NA,0,Kansas,Kansas,59
+2009-10,2010-02-06,914038,462,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,37,35,2,1527,Nebraska,1108,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,59
+2009-10,2010-02-06,914038,463,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,37,38,-1,1527,Nebraska,1076,1076,32, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,23.8,31.75,295419,NA,NA,0,Nebraska,Kansas,60
+2009-10,2010-02-06,914038,465,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1456,Kansas,1054,1054,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,61
+2009-10,2010-02-06,914038,468,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1527,Nebraska,1052,1052,2,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,61
+2009-10,2010-02-06,914038,469,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1456,Kansas,1052,1052,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,61
+2009-10,2010-02-06,914038,470,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1527,Nebraska,1052,1052,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,61
+2009-10,2010-02-06,914038,483,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1456,Kansas,1015,1015,37, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,27,22.650000000000006,398443,NA,NA,0,Kansas,Kansas,62
+2009-10,2010-02-06,914038,484,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,38,1,1527,Nebraska,1015,1015,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,62
+2009-10,2010-02-06,914038,485,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1527,Nebraska,1004,1004,11, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.2,30.05,329517,NA,NA,0,Nebraska,Kansas,63
+2009-10,2010-02-06,914038,487,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1456,Kansas,983,983,21,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,64
+2009-10,2010-02-06,914038,488,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1527,Nebraska,983,983,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,489,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1456,Kansas,983,983,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,495,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1527,Nebraska,970,970,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506122,NA,NA,0,Nebraska,Nebraska,65
+2009-10,2010-02-06,914038,496,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1456,Kansas,970,970,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,65
+2009-10,2010-02-06,914038,497,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1456,Kansas,956,956,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469089,NA,NA,0,Kansas,Kansas,66
+2009-10,2010-02-06,914038,498,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,41,-2,1527,Nebraska,956,956,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,66
+2009-10,2010-02-06,914038,499,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,4,4,39,43,-4,1527,Nebraska,948,948,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,67
+2009-10,2010-02-06,914038,502,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,39,43,-4,1456,Kansas,944,944,4,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,505,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,39,43,-4,1456,Kansas,944,944,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,509,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,42,43,-1,1456,Kansas,923,923,21, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12.799999999999997,26.549999999999997,330350,NA,NA,0,Kansas,Nebraska,68
+2009-10,2010-02-06,914038,512,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,42,43,-1,NA,NA,909,909,14,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,530,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,42,43,-1,1456,Kansas,874,874,35, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,5.650000000000006,398441,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-02-06,914038,531,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,42,43,-1,1456,Kansas,874,874,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-02-06,914038,532,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1456,Kansas,869,869,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398443,NA,NA,0,Kansas,Nebraska,69
+2009-10,2010-02-06,914038,543,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1527,Nebraska,839,839,30,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2010-02-06,914038,546,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1527,Nebraska,824,824,15,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2010-02-06,914038,547,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1527,Nebraska,824,824,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,548,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1456,Kansas,824,824,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2010-02-06,914038,550,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,44,43,1,1527,Nebraska,824,824,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,551,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,43,2,1456,Kansas,824,824,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,70
+2009-10,2010-02-06,914038,554,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,43,2,1527,Nebraska,809,809,15, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,18.25,329517,NA,NA,0,Nebraska,Nebraska,71
+2009-10,2010-02-06,914038,555,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,43,2,1527,Nebraska,809,809,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,71
+2009-10,2010-02-06,914038,558,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,43,2,1456,Kansas,806,806,3,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,71
+2009-10,2010-02-06,914038,559,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,43,2,1527,Nebraska,806,806,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,71
+2009-10,2010-02-06,914038,561,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,44,1,1527,Nebraska,806,806,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,71
+2009-10,2010-02-06,914038,565,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,45,44,1,1527,Nebraska,786,786,20,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,72
+2009-10,2010-02-06,914038,567,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,47,44,3,1456,Kansas,775,775,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398443,NA,NA,0,Kansas,Kansas,72
+2009-10,2010-02-06,914038,591,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,47,44,3,1527,Nebraska,772,772,3,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,72
+2009-10,2010-02-06,914038,592,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,48,44,4,1456,Kansas,772,772,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,72
+2009-10,2010-02-06,914038,601,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,48,44,4,1527,Nebraska,751,751,21, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,30.25,506131,NA,NA,0,Nebraska,Nebraska,73
+2009-10,2010-02-06,914038,602,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,48,44,4,1456,Kansas,751,751,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,73
+2009-10,2010-02-06,914038,603,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,4,50,44,6,1456,Kansas,737,737,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469085,NA,NA,0,Kansas,Nebraska,74
+2009-10,2010-02-06,914038,605,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1527,Nebraska,730,730,7,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,606,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1456,Kansas,730,730,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,607,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1456,Kansas,730,730,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,629,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,NA,NA,698,698,32,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,633,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1456,Kansas,689,689,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.8,30.25,469089,NA,NA,0,Kansas,Kansas,75
+2009-10,2010-02-06,914038,634,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1527,Nebraska,689,689,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,75
+2009-10,2010-02-06,914038,647,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1527,Nebraska,659,659,30, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,9.85,506130,NA,NA,0,Nebraska,Nebraska,76
+2009-10,2010-02-06,914038,648,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1527,Nebraska,659,659,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,76
+2009-10,2010-02-06,914038,649,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1527,Nebraska,653,653,6, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,6.45,506122,NA,NA,0,Nebraska,Nebraska,76
+2009-10,2010-02-06,914038,650,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,50,44,6,1456,Kansas,653,653,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,76
+2009-10,2010-02-06,914038,656,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,52,44,8,1456,Kansas,646,646,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,77
+2009-10,2010-02-06,914038,660,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,3,52,44,8,1527,Nebraska,643,643,3,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,77
+2009-10,2010-02-06,914038,661,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,643,643,0,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,662,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1456,Kansas,643,643,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,77
+2009-10,2010-02-06,914038,663,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,643,643,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,77
+2009-10,2010-02-06,914038,665,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,616,616,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,22.25,403773,NA,NA,0,Nebraska,Nebraska,78
+2009-10,2010-02-06,914038,666,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,616,616,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,78
+2009-10,2010-02-06,914038,668,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,595,595,21,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,78
+2009-10,2010-02-06,914038,669,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1527,Nebraska,595,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,670,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1456,Kansas,595,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,671,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1456,Kansas,595,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,672,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1456,Kansas,595,595,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,78
+2009-10,2010-02-06,914038,673,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,52,44,8,1456,Kansas,595,595,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,78
+2009-10,2010-02-06,914038,675,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,2,54,44,10,1456,Kansas,592,592,3, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,33.3,21.450000000000003,513058,NA,NA,0,Kansas,Nebraska,78
+2009-10,2010-02-06,914038,679,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,44,10,1527,Nebraska,580,580,12,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,692,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,44,10,1527,Nebraska,555,555,25, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,7.95,506122,NA,NA,0,Nebraska,Nebraska,79
+2009-10,2010-02-06,914038,693,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,44,10,1527,Nebraska,555,555,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,79
+2009-10,2010-02-06,914038,694,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1527,Nebraska,549,549,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,79
+2009-10,2010-02-06,914038,701,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1456,Kansas,531,531,18, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,10.849999999999994,398443,NA,NA,0,Kansas,Kansas,80
+2009-10,2010-02-06,914038,706,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1456,Kansas,522,522,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.8,7.349999999999994,513058,NA,NA,0,Kansas,Kansas,80
+2009-10,2010-02-06,914038,707,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1527,Nebraska,522,522,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,80
+2009-10,2010-02-06,914038,708,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1527,Nebraska,509,509,13, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,5.45,506122,NA,NA,0,Nebraska,Nebraska,81
+2009-10,2010-02-06,914038,709,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1456,Kansas,509,509,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,81
+2009-10,2010-02-06,914038,712,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1527,Nebraska,500,500,9,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,82
+2009-10,2010-02-06,914038,713,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1527,Nebraska,500,500,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,714,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,54,46,8,1456,Kansas,500,500,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914038,715,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,55,46,9,1456,Kansas,500,500,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,82
+2009-10,2010-02-06,914038,717,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1456,Kansas,500,500,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,83
+2009-10,2010-02-06,914038,724,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1527,Nebraska,465,465,35, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,31.35,506121,NA,NA,0,Nebraska,Kansas,84
+2009-10,2010-02-06,914038,726,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,NA,NA,465,465,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,732,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1527,Nebraska,457,457,8,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,85
+2009-10,2010-02-06,914038,733,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1456,Kansas,457,457,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,85
+2009-10,2010-02-06,914038,734,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1527,Nebraska,457,457,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,85
+2009-10,2010-02-06,914038,736,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1527,Nebraska,452,452,5, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,6.65,329517,NA,NA,0,Nebraska,Nebraska,86
+2009-10,2010-02-06,914038,737,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,46,10,1527,Nebraska,452,452,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,86
+2009-10,2010-02-06,914038,738,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,48,8,1527,Nebraska,448,448,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,Kansas,86
+2009-10,2010-02-06,914038,742,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,56,48,8,1527,Nebraska,429,429,19,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,87
+2009-10,2010-02-06,914038,743,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,57,48,9,1456,Kansas,429,429,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,87
+2009-10,2010-02-06,914038,744,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,58,48,10,1456,Kansas,429,429,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,87
+2009-10,2010-02-06,914038,748,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,1,61,48,13,1456,Kansas,402,402,27, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,23.7,30.25,469085,NA,NA,0,Kansas,Nebraska,88
+2009-10,2010-02-06,914038,750,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,61,48,13,1527,Nebraska,397,397,5,Cornhuskers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,750.75,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,61,48,13,1456,Kansas,397,397,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513058,NA,NA,0,Kansas,Kansas,89
+2009-10,2010-02-06,914038,751.5,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,61,48,13,1456,Kansas,397,397,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,89
+2009-10,2010-02-06,914038,753,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,63,48,15,1456,Kansas,394,394,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469085,NA,NA,0,Kansas,Nebraska,89
+2009-10,2010-02-06,914038,761,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,63,48,15,1456,Kansas,367,367,27,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,90
+2009-10,2010-02-06,914038,763,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,63,48,15,1527,Nebraska,348,348,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,25.35,329517,NA,NA,0,Nebraska,Nebraska,90
+2009-10,2010-02-06,914038,764,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,63,48,15,1456,Kansas,348,348,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,90
+2009-10,2010-02-06,914038,765,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,66,48,18,1456,Kansas,343,343,5, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,11.299999999999997,28.650000000000006,330350,NA,NA,0,Kansas,Nebraska,91
+2009-10,2010-02-06,914038,766,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,66,48,18,1527,Nebraska,328,328,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,19.75,295419,NA,NA,0,Nebraska,Nebraska,92
+2009-10,2010-02-06,914038,767,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,66,48,18,1456,Kansas,328,328,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,92
+2009-10,2010-02-06,914038,769,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,66,48,18,1527,Nebraska,313,313,15,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-06,914038,770,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,48,19,1456,Kansas,313,313,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-06,914038,771,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,48,19,1456,Kansas,313,313,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-06,914038,772,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,48,19,1527,Nebraska,313,313,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,93
+2009-10,2010-02-06,914038,779,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,51,16,1527,Nebraska,295,295,18, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,36.8,25.35,506130,NA,NA,0,Nebraska,Kansas,94
+2009-10,2010-02-06,914038,780,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,51,16,1527,Nebraska,277,277,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506122,NA,NA,0,Nebraska,Nebraska,95
+2009-10,2010-02-06,914038,781,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,51,16,1456,Kansas,277,277,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,95
+2009-10,2010-02-06,914038,782,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,3,0,67,54,13,1527,Nebraska,262,262,15, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,34.3,28.25,329517,NA,NA,0,Nebraska,Kansas,96
+2009-10,2010-02-06,914038,786,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,54,13,1456,Kansas,254,254,8,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,804,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,54,13,1456,Kansas,222,222,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,5.650000000000006,513058,NA,NA,0,Kansas,Kansas,97
+2009-10,2010-02-06,914038,805,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,54,13,1456,Kansas,222,222,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,97
+2009-10,2010-02-06,914038,806,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,54,13,1456,Kansas,216,216,6, misses a jump shot from 2 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,4.650000000000006,398443,NA,NA,0,Kansas,Kansas,97
+2009-10,2010-02-06,914038,807,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,54,13,1527,Nebraska,216,216,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,97
+2009-10,2010-02-06,914038,812,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,56,11,1527,Nebraska,200,200,16, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,32.2,3.55,506122,NA,NA,0,Nebraska,Kansas,98
+2009-10,2010-02-06,914038,813,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,56,11,1456,Kansas,183,183,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,11.450000000000003,469083,NA,NA,0,Kansas,Kansas,99
+2009-10,2010-02-06,914038,814,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,67,56,11,1456,Kansas,183,183,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2010-02-06,914038,815,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,69,56,13,1456,Kansas,178,178,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28.2,7.950000000000003,469089,NA,NA,0,Kansas,Nebraska,99
+2009-10,2010-02-06,914038,816,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,69,58,11,1527,Nebraska,153,153,25, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,31.7,9.55,506122,NA,NA,0,Nebraska,Kansas,100
+2009-10,2010-02-06,914038,817,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,71,58,13,1456,Kansas,125,125,28, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Nebraska,101
+2009-10,2010-02-06,914038,818,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,71,61,10,1527,Nebraska,104,104,21, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.3,27.45,295419,NA,NA,0,Nebraska,Kansas,102
+2009-10,2010-02-06,914038,822,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,2,0,71,61,10,1527,Nebraska,82,82,22,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,103
+2009-10,2010-02-06,914038,823,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,71,61,10,1456,Kansas,82,82,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,825,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1456,Kansas,82,82,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,103
+2009-10,2010-02-06,914038,826,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1456,Kansas,82,82,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,104
+2009-10,2010-02-06,914038,831,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1456,Kansas,64,64,18,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,105
+2009-10,2010-02-06,914038,832,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1527,Nebraska,64,64,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,105
+2009-10,2010-02-06,914038,834,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1527,Nebraska,64,64,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,105
+2009-10,2010-02-06,914038,835,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1456,Kansas,64,64,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,105
+2009-10,2010-02-06,914038,838,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1527,Nebraska,56,56,8,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,106
+2009-10,2010-02-06,914038,839,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,72,61,11,1456,Kansas,56,56,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,106
+2009-10,2010-02-06,914038,841,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,73,61,12,1456,Kansas,56,56,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,106
+2009-10,2010-02-06,914038,848,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,73,64,9,1527,Nebraska,47,47,9, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4.800000000000001,13.95,329517,NA,NA,0,Nebraska,Kansas,107
+2009-10,2010-02-06,914038,853,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,73,64,9,1527,Nebraska,45,45,2,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,108
+2009-10,2010-02-06,914038,854,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,74,64,10,1456,Kansas,45,45,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,108
+2009-10,2010-02-06,914038,855,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,75,64,11,1456,Kansas,45,45,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Nebraska,108
+2009-10,2010-02-06,914038,857,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,75,64,11,1527,Nebraska,32,32,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,6.65,506122,NA,NA,0,Nebraska,Nebraska,109
+2009-10,2010-02-06,914038,858,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,75,64,11,1456,Kansas,32,32,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Kansas,109
+2009-10,2010-02-06,914038,861,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,75,64,11,NA,NA,0,0,32,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914038,872,0,2,Kansas,Nebraska,Jayhawks,Cornhuskers,1,0,75,64,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

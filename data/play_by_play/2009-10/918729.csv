@@ -1,0 +1,297 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-01,918729,1,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,New Mexico,NA
+2009-10,2010-01-01,918729,5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,0,0,0,1379,Dayton,2378,1178,22,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,1
+2009-10,2010-01-01,918729,6,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1531,New Mexico,2378,1178,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,1
+2009-10,2010-01-01,918729,7,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1531,New Mexico,2378,1178,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,1
+2009-10,2010-01-01,918729,8,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1379,Dayton,2378,1178,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,1
+2009-10,2010-01-01,918729,13,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1531,New Mexico,2363,1163,15,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,2
+2009-10,2010-01-01,918729,15,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1379,Dayton,2336,1136,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,25.95,296944,NA,NA,0,Dayton,Dayton,2
+2009-10,2010-01-01,918729,16,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,1,0,1,1531,New Mexico,2336,1136,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,2
+2009-10,2010-01-01,918729,24,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,3,0,3,1531,New Mexico,2335,1135,1, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400688,NA,NA,0,New Mexico,New Mexico,3
+2009-10,2010-01-01,918729,24.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,3,0,3,1379,Dayton,2335,1135,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,3
+2009-10,2010-01-01,918729,25,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1531,New Mexico,2335,1135,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,3
+2009-10,2010-01-01,918729,27,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1379,Dayton,2308,1108,27, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,12.05,296944,NA,NA,0,Dayton,Dayton,4
+2009-10,2010-01-01,918729,28,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1531,New Mexico,2308,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,4
+2009-10,2010-01-01,918729,30,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1531,New Mexico,2301,1101,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,459736,NA,NA,0,New Mexico,New Mexico,5
+2009-10,2010-01-01,918729,31,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1379,Dayton,2301,1101,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,5
+2009-10,2010-01-01,918729,34.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,0,4,1531,New Mexico,2290,1090,11,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,6
+2009-10,2010-01-01,918729,38,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,1,3,1379,Dayton,2290,1090,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,6
+2009-10,2010-01-01,918729,39,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,1,3,1379,Dayton,2290,1090,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,6
+2009-10,2010-01-01,918729,40,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,1,3,1531,New Mexico,2290,1090,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,6
+2009-10,2010-01-01,918729,48,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,4,1,3,1379,Dayton,2271,1071,19,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,7
+2009-10,2010-01-01,918729,49,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1531,New Mexico,2271,1071,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,7
+2009-10,2010-01-01,918729,50,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1531,New Mexico,2271,1071,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,7
+2009-10,2010-01-01,918729,51,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1379,Dayton,2271,1071,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,7
+2009-10,2010-01-01,918729,72,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1531,New Mexico,2239,1039,32, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,20.150000000000006,400683,NA,NA,0,New Mexico,New Mexico,8
+2009-10,2010-01-01,918729,73,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1379,Dayton,2239,1039,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,8
+2009-10,2010-01-01,918729,80,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1379,Dayton,2222,1022,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,23.65,462744,NA,NA,0,Dayton,New Mexico,9
+2009-10,2010-01-01,918729,102,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1531,New Mexico,2185,985,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330434,NA,NA,0,New Mexico,New Mexico,10
+2009-10,2010-01-01,918729,103,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,1,4,1379,Dayton,2185,985,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,10
+2009-10,2010-01-01,918729,104,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,3,2,1379,Dayton,2185,985,0, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,12,17.45,329395,NA,NA,0,Dayton,New Mexico,11
+2009-10,2010-01-01,918729,135,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,5,3,2,1379,Dayton,2152,952,33,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,12
+2009-10,2010-01-01,918729,147,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,7,3,4,1531,New Mexico,2139,939,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400688,NA,NA,0,New Mexico,New Mexico,12
+2009-10,2010-01-01,918729,148,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,7,3,4,1379,Dayton,2139,939,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,12
+2009-10,2010-01-01,918729,149,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,7,3,4,NA,NA,2139,939,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,151,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,8,3,5,1531,New Mexico,2139,939,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,12
+2009-10,2010-01-01,918729,164,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,8,3,5,1379,Dayton,2112,912,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15,15.65,462745,NA,NA,0,Dayton,Dayton,13
+2009-10,2010-01-01,918729,165,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,8,3,5,1379,Dayton,2112,912,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,13
+2009-10,2010-01-01,918729,181,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1531,New Mexico,2069,869,43, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38,25.75,330434,NA,NA,0,New Mexico,Dayton,13
+2009-10,2010-01-01,918729,211,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1379,Dayton,2049,849,20,Offensive foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,14
+2009-10,2010-01-01,918729,219,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1379,Dayton,2042,842,7,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,15
+2009-10,2010-01-01,918729,220,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1531,New Mexico,2042,842,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,15
+2009-10,2010-01-01,918729,222,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1531,New Mexico,2042,842,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,15
+2009-10,2010-01-01,918729,223,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1379,Dayton,2042,842,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,15
+2009-10,2010-01-01,918729,229.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1379,Dayton,2019,819,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.8,24.55,462744,NA,NA,0,Dayton,Dayton,16
+2009-10,2010-01-01,918729,232.75,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1379,Dayton,2019,819,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,16
+2009-10,2010-01-01,918729,243,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,3,8,1531,New Mexico,2018,818,1,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,16
+2009-10,2010-01-01,918729,248,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,4,7,1379,Dayton,2018,818,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,16
+2009-10,2010-01-01,918729,249,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,11,5,6,1379,Dayton,2018,818,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,16
+2009-10,2010-01-01,918729,259,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,2003,803,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400683,NA,NA,0,New Mexico,Dayton,17
+2009-10,2010-01-01,918729,264,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1986,786,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462751,NA,NA,0,Dayton,Dayton,18
+2009-10,2010-01-01,918729,265,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1986,786,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,18
+2009-10,2010-01-01,918729,267,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1977,777,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.200000000000003,26.150000000000006,459734,NA,NA,0,New Mexico,New Mexico,19
+2009-10,2010-01-01,918729,268,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1977,777,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,19
+2009-10,2010-01-01,918729,274,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1962,762,15,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,20
+2009-10,2010-01-01,918729,303,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1931,731,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330434,NA,NA,0,New Mexico,New Mexico,20
+2009-10,2010-01-01,918729,304,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1931,731,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,20
+2009-10,2010-01-01,918729,307,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1929,729,2,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,20
+2009-10,2010-01-01,918729,308,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1929,729,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,20
+2009-10,2010-01-01,918729,310,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1929,729,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,20
+2009-10,2010-01-01,918729,311,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1929,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,20
+2009-10,2010-01-01,918729,319,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1906,706,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,6.45,462747,NA,NA,0,Dayton,Dayton,21
+2009-10,2010-01-01,918729,320,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1906,706,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,21
+2009-10,2010-01-01,918729,323,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1898,698,8,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,22
+2009-10,2010-01-01,918729,325,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,NA,NA,1897,697,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,326,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1897,697,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,22
+2009-10,2010-01-01,918729,327,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1897,697,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,22
+2009-10,2010-01-01,918729,333,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1379,Dayton,1871,671,26,Offensive foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,23
+2009-10,2010-01-01,918729,343,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,5,8,1531,New Mexico,1844,644,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,508962,NA,NA,0,New Mexico,Dayton,24
+2009-10,2010-01-01,918729,351,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,7,6,1379,Dayton,1824,624,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329396,NA,NA,0,Dayton,Dayton,25
+2009-10,2010-01-01,918729,355,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,7,6,1531,New Mexico,1808,608,16,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,25
+2009-10,2010-01-01,918729,356,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,7,6,1379,Dayton,1808,608,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,25
+2009-10,2010-01-01,918729,358,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,8,5,1379,Dayton,1808,608,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,25
+2009-10,2010-01-01,918729,369,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,8,5,1531,New Mexico,1782,582,26,Offensive foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,26
+2009-10,2010-01-01,918729,373,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,8,5,1379,Dayton,1743,543,39, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,22.65,462745,NA,NA,0,Dayton,Dayton,27
+2009-10,2010-01-01,918729,374,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,13,8,5,1531,New Mexico,1743,543,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,27
+2009-10,2010-01-01,918729,375,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,8,7,1531,New Mexico,1737,537,6, makes a jump shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.7,6.950000000000003,508958,NA,NA,0,New Mexico,Dayton,28
+2009-10,2010-01-01,918729,391,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,8,7,1379,Dayton,1723,523,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4,11.65,462745,NA,NA,0,Dayton,New Mexico,29
+2009-10,2010-01-01,918729,397,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,8,7,1531,New Mexico,1713,513,10,Offensive foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,30
+2009-10,2010-01-01,918729,411,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,8,7,1379,Dayton,1674,474,39, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,7.75,296944,NA,NA,0,Dayton,Dayton,31
+2009-10,2010-01-01,918729,412,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,8,7,1379,Dayton,1674,474,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,31
+2009-10,2010-01-01,918729,413,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1669,469,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,462751,NA,NA,0,Dayton,New Mexico,31
+2009-10,2010-01-01,918729,416,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1531,New Mexico,1639,439,30, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,14,18.25,459731,NA,NA,0,New Mexico,New Mexico,32
+2009-10,2010-01-01,918729,417,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1531,New Mexico,1639,439,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,32
+2009-10,2010-01-01,918729,418,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1531,New Mexico,1635,435,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,459736,NA,NA,0,New Mexico,New Mexico,32
+2009-10,2010-01-01,918729,419,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1635,435,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,32
+2009-10,2010-01-01,918729,420,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1615,415,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462751,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,421,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1615,415,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,422,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1614,414,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462751,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,422.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1614,414,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,423.75,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1612,412,2, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,20.15,462744,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,424.375,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,1379,Dayton,1612,412,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,33
+2009-10,2010-01-01,918729,431,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,10,5,NA,NA,1611,411,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,464,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,12,3,1379,Dayton,1588,388,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462747,NA,NA,0,Dayton,New Mexico,33
+2009-10,2010-01-01,918729,474,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,15,12,3,1379,Dayton,1579,379,9,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,34
+2009-10,2010-01-01,918729,475,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,16,12,4,1531,New Mexico,1579,379,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,34
+2009-10,2010-01-01,918729,476,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,12,5,1531,New Mexico,1579,379,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,34
+2009-10,2010-01-01,918729,478,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,12,5,1379,Dayton,1557,357,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395656,NA,NA,0,Dayton,Dayton,35
+2009-10,2010-01-01,918729,479,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,12,5,1531,New Mexico,1557,357,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,35
+2009-10,2010-01-01,918729,480,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,12,5,1531,New Mexico,1546,346,11, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,23.650000000000006,400683,NA,NA,0,New Mexico,New Mexico,36
+2009-10,2010-01-01,918729,481,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,12,5,1379,Dayton,1546,346,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,36
+2009-10,2010-01-01,918729,482,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,14,3,1379,Dayton,1541,341,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462745,NA,NA,0,Dayton,New Mexico,37
+2009-10,2010-01-01,918729,483,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,14,3,1531,New Mexico,1527,327,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,459734,NA,NA,0,New Mexico,New Mexico,38
+2009-10,2010-01-01,918729,484,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,17,14,3,1531,New Mexico,1527,327,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,38
+2009-10,2010-01-01,918729,485,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,14,5,1531,New Mexico,1516,316,11, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,25.5,6.25,330434,NA,NA,0,New Mexico,Dayton,38
+2009-10,2010-01-01,918729,486,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1508,308,8, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13.5,25.35,462745,NA,NA,0,Dayton,New Mexico,39
+2009-10,2010-01-01,918729,487,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1531,New Mexico,1492,292,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,25.150000000000006,330434,NA,NA,0,New Mexico,New Mexico,40
+2009-10,2010-01-01,918729,488,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1492,292,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,40
+2009-10,2010-01-01,918729,489,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1482,282,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.25,462744,NA,NA,0,Dayton,Dayton,41
+2009-10,2010-01-01,918729,490,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1482,282,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,41
+2009-10,2010-01-01,918729,491,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1478,278,4, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,395656,NA,NA,0,Dayton,Dayton,41
+2009-10,2010-01-01,918729,492,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1531,New Mexico,1478,278,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,41
+2009-10,2010-01-01,918729,494,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1531,New Mexico,1473,273,5,Offensive foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,42
+2009-10,2010-01-01,918729,503.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1428,228,45, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.2,24.05,296944,NA,NA,0,Dayton,New Mexico,43
+2009-10,2010-01-01,918729,517,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,NA,NA,1426,226,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,523,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,19,17,2,1379,Dayton,1395,195,31,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,44
+2009-10,2010-01-01,918729,524,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,20,17,3,1531,New Mexico,1395,195,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,44
+2009-10,2010-01-01,918729,525,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1531,New Mexico,1395,195,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,44
+2009-10,2010-01-01,918729,527,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1379,Dayton,1381,181,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12.8,26.75,462744,NA,NA,0,Dayton,Dayton,45
+2009-10,2010-01-01,918729,528,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1379,Dayton,1381,181,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,45
+2009-10,2010-01-01,918729,532,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1379,Dayton,1370,170,11, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,25.2,6.75,329396,NA,NA,0,Dayton,Dayton,45
+2009-10,2010-01-01,918729,533,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1531,New Mexico,1370,170,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,45
+2009-10,2010-01-01,918729,542,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1531,New Mexico,1360,160,10, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.700000000000003,9.150000000000006,400683,NA,NA,0,New Mexico,Dayton,46
+2009-10,2010-01-01,918729,547,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,17,4,1531,New Mexico,1347,147,13,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-01-01,918729,548,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,18,3,1379,Dayton,1347,147,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-01-01,918729,549,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,19,2,1379,Dayton,1347,147,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-01-01,918729,589,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,19,2,1531,New Mexico,1318,118,29,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-01-01,918729,590,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,20,1,1379,Dayton,1318,118,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-01-01,918729,591,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,21,21,0,1379,Dayton,1318,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,47
+2009-10,2010-01-01,918729,605,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,24,21,3,1531,New Mexico,1285,85,33, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.7,23.450000000000003,400683,NA,NA,0,New Mexico,Dayton,48
+2009-10,2010-01-01,918729,606,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,24,21,3,1379,Dayton,1278,78,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.85,462745,NA,NA,0,Dayton,Dayton,49
+2009-10,2010-01-01,918729,606.5,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,24,21,3,1531,New Mexico,1278,78,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,49
+2009-10,2010-01-01,918729,611,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,24,21,3,1379,Dayton,1265,65,13,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,50
+2009-10,2010-01-01,918729,613,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,25,21,4,1531,New Mexico,1265,65,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,50
+2009-10,2010-01-01,918729,614,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,26,21,5,1531,New Mexico,1265,65,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,50
+2009-10,2010-01-01,918729,619,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,26,23,3,1379,Dayton,1253,53,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395656,NA,NA,0,Dayton,New Mexico,51
+2009-10,2010-01-01,918729,624,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,26,23,3,1531,New Mexico,1250,50,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400683,NA,NA,0,New Mexico,New Mexico,52
+2009-10,2010-01-01,918729,625,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,26,23,3,1379,Dayton,1250,50,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,52
+2009-10,2010-01-01,918729,643,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,28,23,5,1531,New Mexico,1225,25,25, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,459731,NA,NA,0,New Mexico,Dayton,53
+2009-10,2010-01-01,918729,648,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,28,23,5,1379,Dayton,1203,3,22, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,21.3,31.55,395656,NA,NA,0,Dayton,Dayton,54
+2009-10,2010-01-01,918729,649,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,28,23,5,1531,New Mexico,1203,3,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,54
+2009-10,2010-01-01,918729,666,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,28,23,5,1379,Dayton,1201,1,2,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,55
+2009-10,2010-01-01,918729,667,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,28,23,5,1531,New Mexico,1201,1,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,55
+2009-10,2010-01-01,918729,669,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,29,23,6,1531,New Mexico,1201,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,55
+2009-10,2010-01-01,918729,673,0,1,New Mexico,Dayton,Lobos,Flyers,4,4,29,23,6,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,674,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,29,23,6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Dayton,56
+2009-10,2010-01-01,918729,694,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,29,23,6,1379,Dayton,1171,1171,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,6.25,462747,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-01-01,918729,695,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,29,23,6,1379,Dayton,1171,1171,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-01-01,918729,703,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,31,23,8,1531,New Mexico,1157,1157,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,459737,NA,NA,0,New Mexico,Dayton,57
+2009-10,2010-01-01,918729,718,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,31,25,6,1379,Dayton,1114,1114,43, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329389,NA,NA,0,Dayton,New Mexico,58
+2009-10,2010-01-01,918729,719,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,31,27,4,1379,Dayton,1082,1082,32, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,18.2,20.55,462747,NA,NA,0,Dayton,New Mexico,59
+2009-10,2010-01-01,918729,733,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,31,27,4,1379,Dayton,1066,1066,16,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,60
+2009-10,2010-01-01,918729,742,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,33,27,6,1531,New Mexico,1058,1058,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330434,NA,NA,0,New Mexico,New Mexico,60
+2009-10,2010-01-01,918729,743,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,33,27,6,1379,Dayton,1058,1058,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,60
+2009-10,2010-01-01,918729,744,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,27,7,1531,New Mexico,1058,1058,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,60
+2009-10,2010-01-01,918729,748,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,30,4,1379,Dayton,1038,1038,20, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.8,24.75,296944,NA,NA,0,Dayton,New Mexico,61
+2009-10,2010-01-01,918729,752,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,30,4,1379,Dayton,998,998,40, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462751,NA,NA,0,Dayton,Dayton,62
+2009-10,2010-01-01,918729,755,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1379,Dayton,983,983,15, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13.8,28.25,329395,NA,NA,0,Dayton,New Mexico,62
+2009-10,2010-01-01,918729,756,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1531,New Mexico,969,969,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400683,NA,NA,0,New Mexico,New Mexico,63
+2009-10,2010-01-01,918729,759,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1379,Dayton,960,960,9,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,63
+2009-10,2010-01-01,918729,762,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1531,New Mexico,957,957,3, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,5.650000000000006,330434,NA,NA,0,New Mexico,New Mexico,63
+2009-10,2010-01-01,918729,763,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1379,Dayton,957,957,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,63
+2009-10,2010-01-01,918729,769,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1531,New Mexico,952,952,5,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,64
+2009-10,2010-01-01,918729,770,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,NA,NA,952,952,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,774,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1379,Dayton,913,913,39, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,14.2,29.25,462745,NA,NA,0,Dayton,Dayton,64
+2009-10,2010-01-01,918729,775,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,34,33,1,1531,New Mexico,913,913,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,64
+2009-10,2010-01-01,918729,776,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,33,3,1531,New Mexico,891,891,22, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,23.2,13.349999999999994,400683,NA,NA,0,New Mexico,Dayton,65
+2009-10,2010-01-01,918729,780,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,33,3,1379,Dayton,874,874,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,28.45,462744,NA,NA,0,Dayton,New Mexico,66
+2009-10,2010-01-01,918729,782,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,33,3,1379,Dayton,874,874,0,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,67
+2009-10,2010-01-01,918729,807,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,35,1,1379,Dayton,848,848,26, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329389,NA,NA,0,Dayton,New Mexico,67
+2009-10,2010-01-01,918729,814,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,35,1,1379,Dayton,839,839,9,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,68
+2009-10,2010-01-01,918729,816,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,37,-1,1379,Dayton,833,833,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329389,NA,NA,0,Dayton,New Mexico,68
+2009-10,2010-01-01,918729,824,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,37,-1,1531,New Mexico,782,782,51, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,459734,NA,NA,0,New Mexico,New Mexico,69
+2009-10,2010-01-01,918729,825,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,37,-1,1379,Dayton,782,782,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,69
+2009-10,2010-01-01,918729,831,0,2,New Mexico,Dayton,Lobos,Flyers,4,4,36,39,-3,1379,Dayton,775,775,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395656,NA,NA,0,Dayton,New Mexico,70
+2009-10,2010-01-01,918729,832,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,36,39,-3,1531,New Mexico,775,775,0,Lobos take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,852,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1531,New Mexico,750,750,25, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.299999999999997,7.349999999999994,330434,NA,NA,0,New Mexico,Dayton,71
+2009-10,2010-01-01,918729,861,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1379,Dayton,731,731,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462744,NA,NA,0,Dayton,Dayton,72
+2009-10,2010-01-01,918729,862,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1379,Dayton,731,731,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,72
+2009-10,2010-01-01,918729,865,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1531,New Mexico,729,729,2,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,72
+2009-10,2010-01-01,918729,865.75,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1379,Dayton,720,720,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.3,23.85,462747,NA,NA,0,Dayton,Dayton,72
+2009-10,2010-01-01,918729,866.125,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,39,39,0,1531,New Mexico,720,720,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,72
+2009-10,2010-01-01,918729,867,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,39,3,1531,New Mexico,717,717,3, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.3,23.450000000000003,330434,NA,NA,0,New Mexico,Dayton,73
+2009-10,2010-01-01,918729,885,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,39,3,1531,New Mexico,692,692,25,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,74
+2009-10,2010-01-01,918729,891,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,39,3,NA,NA,692,692,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,903,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,39,3,1531,New Mexico,668,668,24,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,74
+2009-10,2010-01-01,918729,904,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,39,3,1379,Dayton,668,668,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,74
+2009-10,2010-01-01,918729,906,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,42,40,2,1379,Dayton,668,668,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,74
+2009-10,2010-01-01,918729,908,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1531,New Mexico,650,650,18, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,17.5,6.450000000000003,459736,NA,NA,0,New Mexico,Dayton,75
+2009-10,2010-01-01,918729,909,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1379,Dayton,637,637,13, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,27.15,329395,NA,NA,0,Dayton,Dayton,76
+2009-10,2010-01-01,918729,910,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1531,New Mexico,637,637,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,76
+2009-10,2010-01-01,918729,912,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1531,New Mexico,616,616,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,15.849999999999994,330434,NA,NA,0,New Mexico,New Mexico,77
+2009-10,2010-01-01,918729,913,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1379,Dayton,616,616,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,77
+2009-10,2010-01-01,918729,921,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,40,4,1531,New Mexico,608,608,8,Offensive foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,78
+2009-10,2010-01-01,918729,939,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,42,2,1379,Dayton,590,590,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,296944,NA,NA,0,Dayton,New Mexico,79
+2009-10,2010-01-01,918729,948,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,42,2,1379,Dayton,568,568,22,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,80
+2009-10,2010-01-01,918729,959,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,42,2,1531,New Mexico,556,556,12,Offensive foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,80
+2009-10,2010-01-01,918729,966,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,42,2,1531,New Mexico,539,539,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400683,NA,NA,0,New Mexico,New Mexico,81
+2009-10,2010-01-01,918729,967,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,44,42,2,1379,Dayton,539,539,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,81
+2009-10,2010-01-01,918729,974,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,42,4,1531,New Mexico,511,511,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400683,NA,NA,0,New Mexico,New Mexico,82
+2009-10,2010-01-01,918729,975,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,42,4,1379,Dayton,511,511,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,82
+2009-10,2010-01-01,918729,976,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,42,4,1531,New Mexico,511,511,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,82
+2009-10,2010-01-01,918729,981,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,42,4,1531,New Mexico,510,510,1,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,83
+2009-10,2010-01-01,918729,982,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,43,3,1379,Dayton,510,510,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,83
+2009-10,2010-01-01,918729,983,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,43,3,1379,Dayton,510,510,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,83
+2009-10,2010-01-01,918729,984,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,46,43,3,1531,New Mexico,510,510,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,83
+2009-10,2010-01-01,918729,994,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,48,43,5,1531,New Mexico,485,485,25, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,41,6.25,400683,NA,NA,0,New Mexico,Dayton,84
+2009-10,2010-01-01,918729,996,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,48,43,5,1379,Dayton,469,469,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24,22.05,395656,NA,NA,0,Dayton,Dayton,85
+2009-10,2010-01-01,918729,997,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,48,43,5,1531,New Mexico,469,469,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,85
+2009-10,2010-01-01,918729,1016,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,48,43,5,1379,Dayton,449,449,20,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,86
+2009-10,2010-01-01,918729,1017,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,48,43,5,NA,NA,449,449,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1018,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,49,43,6,1531,New Mexico,449,449,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,86
+2009-10,2010-01-01,918729,1019,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,50,43,7,1531,New Mexico,449,449,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,86
+2009-10,2010-01-01,918729,1021,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,50,46,4,1379,Dayton,437,437,12, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9,22.65,462747,NA,NA,0,Dayton,New Mexico,87
+2009-10,2010-01-01,918729,1022,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,50,46,4,1531,New Mexico,416,416,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400683,NA,NA,0,New Mexico,New Mexico,88
+2009-10,2010-01-01,918729,1023,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,50,46,4,1531,New Mexico,416,416,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,88
+2009-10,2010-01-01,918729,1026,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,52,46,6,1531,New Mexico,402,402,14, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,21.2,21.849999999999994,400688,NA,NA,0,New Mexico,New Mexico,88
+2009-10,2010-01-01,918729,1027,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,52,46,6,1379,Dayton,402,402,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,88
+2009-10,2010-01-01,918729,1028,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,46,7,1531,New Mexico,402,402,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,88
+2009-10,2010-01-01,918729,1041,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,46,7,1531,New Mexico,393,393,9,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,89
+2009-10,2010-01-01,918729,1042,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,47,6,1379,Dayton,393,393,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,89
+2009-10,2010-01-01,918729,1043,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1379,Dayton,393,393,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,89
+2009-10,2010-01-01,918729,1045,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1531,New Mexico,373,373,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,21.349999999999994,508962,NA,NA,0,New Mexico,New Mexico,90
+2009-10,2010-01-01,918729,1046,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1379,Dayton,373,373,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,90
+2009-10,2010-01-01,918729,1046.75,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1379,Dayton,361,361,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,11.8,26.15,296944,NA,NA,0,Dayton,New Mexico,91
+2009-10,2010-01-01,918729,1048,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1379,Dayton,359,359,2,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,92
+2009-10,2010-01-01,918729,1053,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,53,48,5,1531,New Mexico,359,359,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,92
+2009-10,2010-01-01,918729,1055,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,54,48,6,1531,New Mexico,359,359,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,92
+2009-10,2010-01-01,918729,1060,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,54,48,6,1379,Dayton,340,340,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,22.85,329395,NA,NA,0,Dayton,Dayton,93
+2009-10,2010-01-01,918729,1061,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,54,48,6,1379,Dayton,340,340,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,93
+2009-10,2010-01-01,918729,1066,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,54,48,6,1379,Dayton,327,327,13,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,93
+2009-10,2010-01-01,918729,1067,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,48,7,1531,New Mexico,327,327,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,93
+2009-10,2010-01-01,918729,1068,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,48,7,1531,New Mexico,327,327,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,93
+2009-10,2010-01-01,918729,1069,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,48,7,1379,Dayton,327,327,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,93
+2009-10,2010-01-01,918729,1074,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,48,7,1531,New Mexico,321,321,6,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,94
+2009-10,2010-01-01,918729,1075,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,49,6,1379,Dayton,321,321,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,94
+2009-10,2010-01-01,918729,1076,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,55,50,5,1379,Dayton,321,321,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,94
+2009-10,2010-01-01,918729,1084,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1531,New Mexico,298,298,23, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24.7,14.349999999999994,459736,NA,NA,0,New Mexico,New Mexico,95
+2009-10,2010-01-01,918729,1085,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1379,Dayton,298,298,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,95
+2009-10,2010-01-01,918729,1087,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1531,New Mexico,298,298,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,95
+2009-10,2010-01-01,918729,1088,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1379,Dayton,298,298,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,95
+2009-10,2010-01-01,918729,1103,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1531,New Mexico,275,275,23,Shooting foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,96
+2009-10,2010-01-01,918729,1104,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,50,7,1379,Dayton,275,275,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,96
+2009-10,2010-01-01,918729,1106,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,57,51,6,1379,Dayton,275,275,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,96
+2009-10,2010-01-01,918729,1108,0,2,New Mexico,Dayton,Lobos,Flyers,3,4,59,51,8,1531,New Mexico,245,245,30, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,459736,NA,NA,0,New Mexico,Dayton,97
+2009-10,2010-01-01,918729,1116,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1379,Dayton,236,236,9,Flyers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1120,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1379,Dayton,219,219,17, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,39,19.15,462747,NA,NA,0,Dayton,Dayton,98
+2009-10,2010-01-01,918729,1121,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1379,Dayton,219,219,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,98
+2009-10,2010-01-01,918729,1123,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1531,New Mexico,192,192,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400683,NA,NA,0,New Mexico,New Mexico,98
+2009-10,2010-01-01,918729,1124,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1379,Dayton,192,192,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,98
+2009-10,2010-01-01,918729,1129,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1531,New Mexico,166,166,26,Personal foul committed by Lobos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,99
+2009-10,2010-01-01,918729,1130,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,NA,NA,166,166,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1134,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,51,8,1379,Dayton,166,166,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,99
+2009-10,2010-01-01,918729,1136,0,2,New Mexico,Dayton,Lobos,Flyers,3,3,59,52,7,1379,Dayton,166,166,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,99
+2009-10,2010-01-01,918729,1145,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,59,52,7,1531,New Mexico,147,147,19,Lobos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1151,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,59,55,4,1379,Dayton,140,140,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,36,25.55,462745,NA,NA,0,Dayton,New Mexico,100
+2009-10,2010-01-01,918729,1174,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,59,55,4,1379,Dayton,113,113,27,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,101
+2009-10,2010-01-01,918729,1175,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,60,55,5,1531,New Mexico,113,113,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,101
+2009-10,2010-01-01,918729,1176,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1531,New Mexico,113,113,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,101
+2009-10,2010-01-01,918729,1187,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1379,Dayton,94,94,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395656,NA,NA,0,Dayton,Dayton,102
+2009-10,2010-01-01,918729,1188,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1531,New Mexico,94,94,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,102
+2009-10,2010-01-01,918729,1189,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1531,New Mexico,76,76,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400688,NA,NA,0,New Mexico,New Mexico,103
+2009-10,2010-01-01,918729,1190,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1531,New Mexico,76,76,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,103
+2009-10,2010-01-01,918729,1192,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1379,Dayton,70,70,6,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,103
+2009-10,2010-01-01,918729,1193,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,61,55,6,1531,New Mexico,70,70,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,103
+2009-10,2010-01-01,918729,1195,0,2,New Mexico,Dayton,Lobos,Flyers,2,3,62,55,7,1531,New Mexico,70,70,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,103
+2009-10,2010-01-01,918729,1200,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,62,55,7,1379,Dayton,64,64,6,Flyers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1214,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,62,58,4,1379,Dayton,53,53,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.2,20.55,462745,NA,NA,0,Dayton,New Mexico,104
+2009-10,2010-01-01,918729,1224,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,62,58,4,1379,Dayton,51,51,2,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,105
+2009-10,2010-01-01,918729,1225,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,62,58,4,1531,New Mexico,51,51,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,105
+2009-10,2010-01-01,918729,1227,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,63,58,5,1531,New Mexico,51,51,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,105
+2009-10,2010-01-01,918729,1231,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,63,58,5,1379,Dayton,47,47,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.3,28.85,462747,NA,NA,0,Dayton,Dayton,106
+2009-10,2010-01-01,918729,1232,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,63,58,5,1531,New Mexico,47,47,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,New Mexico,106
+2009-10,2010-01-01,918729,1241,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,63,58,5,1379,Dayton,37,37,10,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,107
+2009-10,2010-01-01,918729,1242,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,64,58,6,1531,New Mexico,37,37,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,107
+2009-10,2010-01-01,918729,1243,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,64,58,6,1531,New Mexico,37,37,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,107
+2009-10,2010-01-01,918729,1244,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,64,58,6,1379,Dayton,37,37,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,107
+2009-10,2010-01-01,918729,1261,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,64,58,6,1379,Dayton,27,27,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.8,23.25,462744,NA,NA,0,Dayton,New Mexico,108
+2009-10,2010-01-01,918729,1268,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,64,58,6,1379,Dayton,27,27,0,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,109
+2009-10,2010-01-01,918729,1269,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,65,58,7,1531,New Mexico,27,27,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,109
+2009-10,2010-01-01,918729,1270,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,65,58,7,1531,New Mexico,27,27,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,109
+2009-10,2010-01-01,918729,1271,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,65,58,7,1379,Dayton,27,27,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,109
+2009-10,2010-01-01,918729,1284,0,2,New Mexico,Dayton,Lobos,Flyers,2,2,65,61,4,1379,Dayton,17,17,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,18.55,462745,NA,NA,0,Dayton,New Mexico,110
+2009-10,2010-01-01,918729,1285,0,2,New Mexico,Dayton,Lobos,Flyers,2,1,65,61,4,1379,Dayton,17,17,0,Flyers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1286,0,2,New Mexico,Dayton,Lobos,Flyers,2,1,65,61,4,1379,Dayton,17,17,0,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,111
+2009-10,2010-01-01,918729,1287,0,2,New Mexico,Dayton,Lobos,Flyers,2,1,66,61,5,1531,New Mexico,17,17,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,111
+2009-10,2010-01-01,918729,1288,0,2,New Mexico,Dayton,Lobos,Flyers,2,1,67,61,6,1531,New Mexico,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,111
+2009-10,2010-01-01,918729,1289,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,67,61,6,1531,New Mexico,17,17,0,Lobos take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1292,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,67,61,6,1379,Dayton,10,10,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,21.65,462744,NA,NA,0,Dayton,Dayton,112
+2009-10,2010-01-01,918729,1293,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,67,61,6,1379,Dayton,10,10,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,112
+2009-10,2010-01-01,918729,1295,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,67,63,4,1379,Dayton,8,8,2, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,34.5,13.75,462745,NA,NA,0,Dayton,New Mexico,112
+2009-10,2010-01-01,918729,1300,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,67,63,4,1379,Dayton,6,6,2,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,113
+2009-10,2010-01-01,918729,1301,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,63,5,1531,New Mexico,6,6,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,113
+2009-10,2010-01-01,918729,1302,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,63,5,1531,New Mexico,6,6,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,113
+2009-10,2010-01-01,918729,1303,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,63,5,1379,Dayton,6,6,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,Dayton,113
+2009-10,2010-01-01,918729,1306,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,66,2,1379,Dayton,1,1,5, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,39,23.05,462745,NA,NA,0,Dayton,New Mexico,114
+2009-10,2010-01-01,918729,1308,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,66,2,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-01,918729,1309,0,2,New Mexico,Dayton,Lobos,Flyers,1,1,68,66,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,New Mexico,New Mexico,NA

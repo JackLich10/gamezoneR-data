@@ -1,0 +1,340 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-10,1040987,1,1,1,UAB,East Carolina,Blazers,Pirates,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,East Carolina,NA
+2010-11,2011-03-10,1040987,3,1,1,UAB,East Carolina,Blazers,Pirates,4,4,0,0,0,1391,East Carolina,2373,1173,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,14.95,399801,NA,NA,0,East Carolina,UAB,1
+2010-11,2011-03-10,1040987,4,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,0,3,1303,UAB,2348,1148,25, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,32.8,27.650000000000006,413779,NA,NA,0,UAB,East Carolina,2
+2010-11,2011-03-10,1040987,7,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,2,1,1391,East Carolina,2315,1115,33, makes a hook shot from 10 feet out.,made,FALSE,FALSE,Hook Shot,24.8,15.35,458967,NA,NA,0,East Carolina,UAB,3
+2010-11,2011-03-10,1040987,9,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,2,1,1391,East Carolina,2292,1092,23,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,4
+2010-11,2011-03-10,1040987,10,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,2,1,1303,UAB,2292,1092,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,4
+2010-11,2011-03-10,1040987,11,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,2,1,1303,UAB,2292,1092,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,4
+2010-11,2011-03-10,1040987,14,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,2,1,1391,East Carolina,2282,1082,10, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,16.45,399804,NA,NA,0,East Carolina,East Carolina,5
+2010-11,2011-03-10,1040987,22,1,1,UAB,East Carolina,Blazers,Pirates,4,4,3,5,-2,1391,East Carolina,2261,1061,21, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.7,30.35,506590,NA,NA,0,East Carolina,UAB,5
+2010-11,2011-03-10,1040987,23,1,1,UAB,East Carolina,Blazers,Pirates,4,4,5,5,0,1303,UAB,2231,1031,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,6
+2010-11,2011-03-10,1040987,31,1,1,UAB,East Carolina,Blazers,Pirates,4,4,5,5,0,1303,UAB,2199,999,32, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,6.75,413779,NA,NA,0,UAB,UAB,7
+2010-11,2011-03-10,1040987,32,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,5,2,1303,UAB,2196,996,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512138,NA,NA,0,UAB,East Carolina,7
+2010-11,2011-03-10,1040987,39,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,1391,East Carolina,2171,971,25, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,11.2,7.15,399801,NA,NA,0,East Carolina,UAB,8
+2010-11,2011-03-10,1040987,40,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,1303,UAB,2143,943,28, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,15.849999999999994,513462,NA,NA,0,UAB,East Carolina,9
+2010-11,2011-03-10,1040987,42,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,1303,UAB,2127,927,16,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,10
+2010-11,2011-03-10,1040987,43,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,NA,NA,2127,927,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,44,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,1391,East Carolina,2127,927,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,10
+2010-11,2011-03-10,1040987,45,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,7,0,1391,East Carolina,2127,927,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,46,1,1,UAB,East Carolina,Blazers,Pirates,4,4,7,8,-1,1391,East Carolina,2127,927,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,10
+2010-11,2011-03-10,1040987,49,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,8,2,1303,UAB,2108,908,19, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,23.8,31.15,512140,NA,NA,0,UAB,East Carolina,11
+2010-11,2011-03-10,1040987,51,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,8,2,1391,East Carolina,2086,886,22,Offensive foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,12
+2010-11,2011-03-10,1040987,60,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,8,2,1303,UAB,2062,862,24, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29.7,8.150000000000006,399809,NA,NA,0,UAB,East Carolina,13
+2010-11,2011-03-10,1040987,61,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,8,2,1391,East Carolina,2055,855,7, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,8.35,506590,NA,NA,0,East Carolina,East Carolina,14
+2010-11,2011-03-10,1040987,67,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1391,East Carolina,2024,824,31, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,24.5,12.05,458967,NA,NA,0,East Carolina,UAB,14
+2010-11,2011-03-10,1040987,69,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1391,East Carolina,2020,820,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,77,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1391,East Carolina,2008,808,12,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,15
+2010-11,2011-03-10,1040987,78,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1303,UAB,2008,808,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,81,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1391,East Carolina,1984,784,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399805,NA,NA,0,East Carolina,East Carolina,15
+2010-11,2011-03-10,1040987,83,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,10,0,1303,UAB,1983,783,1,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,15
+2010-11,2011-03-10,1040987,84,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,11,-1,1391,East Carolina,1983,783,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,15
+2010-11,2011-03-10,1040987,85,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,11,-1,1391,East Carolina,1983,783,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,15
+2010-11,2011-03-10,1040987,88,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,11,-1,1391,East Carolina,1982,782,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,94,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,11,-1,1391,East Carolina,1962,762,20, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,10.45,458967,NA,NA,0,East Carolina,East Carolina,15
+2010-11,2011-03-10,1040987,97,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,13,-3,1391,East Carolina,1958,758,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552359,NA,NA,0,East Carolina,UAB,15
+2010-11,2011-03-10,1040987,98,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,13,-3,1303,UAB,1940,740,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513462,NA,NA,0,UAB,East Carolina,16
+2010-11,2011-03-10,1040987,99,1,1,UAB,East Carolina,Blazers,Pirates,4,4,10,13,-3,1391,East Carolina,1925,725,15, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,25,12.05,458967,NA,NA,0,East Carolina,UAB,17
+2010-11,2011-03-10,1040987,100,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1303,UAB,1918,718,7, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,28.7,29.650000000000006,413779,NA,NA,0,UAB,UAB,18
+2010-11,2011-03-10,1040987,105,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1391,East Carolina,1889,689,29,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,18
+2010-11,2011-03-10,1040987,106,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,NA,NA,1889,689,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,107,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1303,UAB,1889,689,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,18
+2010-11,2011-03-10,1040987,108,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1391,East Carolina,1889,689,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,109,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1303,UAB,1889,689,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,18
+2010-11,2011-03-10,1040987,113,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,13,0,1391,East Carolina,1861,661,28,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,115,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1391,East Carolina,1860,660,1, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,22.3,21.35,399804,NA,NA,0,East Carolina,UAB,19
+2010-11,2011-03-10,1040987,119,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1840,640,20,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,124,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1825,625,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,126,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1824,624,1, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,8.950000000000003,551808,NA,NA,0,UAB,East Carolina,20
+2010-11,2011-03-10,1040987,127,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1391,East Carolina,1814,614,10, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,13.5,29.25,399805,NA,NA,0,East Carolina,East Carolina,21
+2010-11,2011-03-10,1040987,130,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1801,601,13,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,21
+2010-11,2011-03-10,1040987,131,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1801,601,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,132,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1303,UAB,1801,601,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,135,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1391,East Carolina,1795,595,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,137,1,1,UAB,East Carolina,Blazers,Pirates,4,4,13,15,-2,1391,East Carolina,1794,594,1, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,13.75,399801,NA,NA,0,East Carolina,UAB,21
+2010-11,2011-03-10,1040987,141,1,1,UAB,East Carolina,Blazers,Pirates,4,4,15,15,0,1303,UAB,1788,588,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,UAB,22
+2010-11,2011-03-10,1040987,142,1,1,UAB,East Carolina,Blazers,Pirates,4,4,15,15,0,1391,East Carolina,1788,588,0,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,22
+2010-11,2011-03-10,1040987,143,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,15,1,1303,UAB,1788,588,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,22
+2010-11,2011-03-10,1040987,147,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,15,1,1391,East Carolina,1770,570,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,151,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,15,1,1303,UAB,1756,556,14,Offensive foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,23
+2010-11,2011-03-10,1040987,155,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,15,1,1303,UAB,1734,534,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.299999999999997,27.650000000000006,483133,NA,NA,0,UAB,East Carolina,24
+2010-11,2011-03-10,1040987,157,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,15,1,1303,UAB,1722,522,12,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,25
+2010-11,2011-03-10,1040987,158,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,16,0,1391,East Carolina,1722,522,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,25
+2010-11,2011-03-10,1040987,159,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,16,0,1303,UAB,1722,522,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,160,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,16,0,1303,UAB,1722,522,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,161,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,1391,East Carolina,1722,522,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,25
+2010-11,2011-03-10,1040987,166,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,1391,East Carolina,1700,500,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.45,399804,NA,NA,0,East Carolina,East Carolina,26
+2010-11,2011-03-10,1040987,168,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,1391,East Carolina,1691,491,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,177,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,1391,East Carolina,1681,481,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399805,NA,NA,0,East Carolina,UAB,26
+2010-11,2011-03-10,1040987,179,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,1303,UAB,1673,473,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,35.3,29.450000000000003,413779,NA,NA,0,UAB,East Carolina,27
+2010-11,2011-03-10,1040987,182,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,17,-1,NA,NA,1670,470,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,184,1,1,UAB,East Carolina,Blazers,Pirates,4,4,16,19,-3,1391,East Carolina,1657,457,13, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,17.2,23.05,399804,NA,NA,0,East Carolina,UAB,28
+2010-11,2011-03-10,1040987,185,1,1,UAB,East Carolina,Blazers,Pirates,4,4,18,19,-1,1303,UAB,1633,433,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,413779,NA,NA,0,UAB,East Carolina,29
+2010-11,2011-03-10,1040987,186,1,1,UAB,East Carolina,Blazers,Pirates,4,4,18,19,-1,1391,East Carolina,1618,418,15, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,19.55,399801,NA,NA,0,East Carolina,UAB,30
+2010-11,2011-03-10,1040987,206,1,1,UAB,East Carolina,Blazers,Pirates,4,4,18,19,-1,1303,UAB,1540,340,78,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,210,1,1,UAB,East Carolina,Blazers,Pirates,4,4,18,19,-1,1303,UAB,1531,331,9, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,18,11.849999999999994,399809,NA,NA,0,UAB,East Carolina,31
+2010-11,2011-03-10,1040987,211,1,1,UAB,East Carolina,Blazers,Pirates,4,4,18,22,-4,1391,East Carolina,1505,305,26, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,43,24.55,399804,NA,NA,0,East Carolina,UAB,32
+2010-11,2011-03-10,1040987,215,1,1,UAB,East Carolina,Blazers,Pirates,3,4,18,22,-4,1303,UAB,1492,292,13,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,217,1,1,UAB,East Carolina,Blazers,Pirates,3,4,18,22,-4,1303,UAB,1482,282,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,24.950000000000003,551808,NA,NA,0,UAB,East Carolina,33
+2010-11,2011-03-10,1040987,218,1,1,UAB,East Carolina,Blazers,Pirates,3,4,18,25,-7,1391,East Carolina,1470,270,12, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.8,5.85,399804,NA,NA,0,East Carolina,UAB,34
+2010-11,2011-03-10,1040987,221,1,1,UAB,East Carolina,Blazers,Pirates,3,4,18,25,-7,1391,East Carolina,1453,253,17,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,35
+2010-11,2011-03-10,1040987,222,1,1,UAB,East Carolina,Blazers,Pirates,3,4,19,25,-6,1303,UAB,1453,253,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,35
+2010-11,2011-03-10,1040987,223,1,1,UAB,East Carolina,Blazers,Pirates,3,4,19,25,-6,1303,UAB,1453,253,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,224,1,1,UAB,East Carolina,Blazers,Pirates,3,4,19,25,-6,1303,UAB,1453,253,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,225,1,1,UAB,East Carolina,Blazers,Pirates,3,4,20,25,-5,1303,UAB,1453,253,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,35
+2010-11,2011-03-10,1040987,229,1,1,UAB,East Carolina,Blazers,Pirates,3,4,20,25,-5,1303,UAB,1436,236,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513462,NA,NA,0,UAB,East Carolina,36
+2010-11,2011-03-10,1040987,230,1,1,UAB,East Carolina,Blazers,Pirates,3,4,20,28,-8,1391,East Carolina,1426,226,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,46.7,13.95,399804,NA,NA,0,East Carolina,UAB,37
+2010-11,2011-03-10,1040987,233,1,1,UAB,East Carolina,Blazers,Pirates,3,4,20,28,-8,1391,East Carolina,1408,208,18,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,38
+2010-11,2011-03-10,1040987,234,1,1,UAB,East Carolina,Blazers,Pirates,3,4,20,28,-8,NA,NA,1408,208,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,235,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1408,208,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,38
+2010-11,2011-03-10,1040987,236,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1408,208,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,237,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1408,208,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,39
+2010-11,2011-03-10,1040987,240,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1382,182,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,UAB,39
+2010-11,2011-03-10,1040987,243,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1376,176,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,17.849999999999994,399809,NA,NA,0,UAB,East Carolina,39
+2010-11,2011-03-10,1040987,244,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1359,159,17, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.5,11.45,458967,NA,NA,0,East Carolina,UAB,40
+2010-11,2011-03-10,1040987,246,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1352,152,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,7.549999999999997,512140,NA,NA,0,UAB,East Carolina,41
+2010-11,2011-03-10,1040987,249,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1349,149,3,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,42
+2010-11,2011-03-10,1040987,250,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1349,149,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,252,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1329,129,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506590,NA,NA,0,East Carolina,UAB,42
+2010-11,2011-03-10,1040987,255,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1307,107,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,UAB,43
+2010-11,2011-03-10,1040987,256,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1306,106,1, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25.8,7.75,401030,NA,NA,0,UAB,East Carolina,43
+2010-11,2011-03-10,1040987,259,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1300,100,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,18.75,506594,NA,NA,0,East Carolina,UAB,44
+2010-11,2011-03-10,1040987,262,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1298,98,2,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,45
+2010-11,2011-03-10,1040987,263,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1391,East Carolina,1298,98,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,264,1,1,UAB,East Carolina,Blazers,Pirates,3,4,21,28,-7,1303,UAB,1298,98,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,45
+2010-11,2011-03-10,1040987,267,1,1,UAB,East Carolina,Blazers,Pirates,2,4,21,28,-7,1303,UAB,1295,95,3,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,270,1,1,UAB,East Carolina,Blazers,Pirates,2,4,21,28,-7,1391,East Carolina,1292,92,3,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,45
+2010-11,2011-03-10,1040987,271,1,1,UAB,East Carolina,Blazers,Pirates,2,4,22,28,-6,1303,UAB,1292,92,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,45
+2010-11,2011-03-10,1040987,272,1,1,UAB,East Carolina,Blazers,Pirates,2,4,23,28,-5,1303,UAB,1292,92,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,46
+2010-11,2011-03-10,1040987,279,1,1,UAB,East Carolina,Blazers,Pirates,2,4,23,28,-5,1303,UAB,1282,82,10,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,47
+2010-11,2011-03-10,1040987,280,1,1,UAB,East Carolina,Blazers,Pirates,2,4,23,29,-6,1391,East Carolina,1282,82,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,47
+2010-11,2011-03-10,1040987,283,1,1,UAB,East Carolina,Blazers,Pirates,2,4,23,29,-6,1391,East Carolina,1282,82,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,48
+2010-11,2011-03-10,1040987,286,1,1,UAB,East Carolina,Blazers,Pirates,2,4,23,29,-6,1391,East Carolina,1281,81,1,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,49
+2010-11,2011-03-10,1040987,287,1,1,UAB,East Carolina,Blazers,Pirates,2,4,24,29,-5,1303,UAB,1281,81,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,49
+2010-11,2011-03-10,1040987,288,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1303,UAB,1281,81,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,49
+2010-11,2011-03-10,1040987,291,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1391,East Carolina,1253,53,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458967,NA,NA,0,East Carolina,East Carolina,50
+2010-11,2011-03-10,1040987,294,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1391,East Carolina,1253,53,0, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25.3,8.55,458967,NA,NA,0,East Carolina,East Carolina,50
+2010-11,2011-03-10,1040987,296,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1391,East Carolina,1251,51,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458967,NA,NA,0,East Carolina,UAB,50
+2010-11,2011-03-10,1040987,303,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1303,UAB,1232,32,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,29.849999999999994,399809,NA,NA,0,UAB,UAB,51
+2010-11,2011-03-10,1040987,305,1,1,UAB,East Carolina,Blazers,Pirates,2,4,25,29,-4,1303,UAB,1221,21,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44,15.549999999999997,413779,NA,NA,0,UAB,UAB,51
+2010-11,2011-03-10,1040987,307,1,1,UAB,East Carolina,Blazers,Pirates,2,3,25,29,-4,1391,East Carolina,1218,18,3,Pirates take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,308,1,1,UAB,East Carolina,Blazers,Pirates,2,3,25,29,-4,1391,East Carolina,1218,18,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,319,1,1,UAB,East Carolina,Blazers,Pirates,2,3,25,29,-4,NA,NA,1200,0,18,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,320,1,2,UAB,East Carolina,Blazers,Pirates,4,4,25,29,-4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UAB,51
+2010-11,2011-03-10,1040987,325,1,2,UAB,East Carolina,Blazers,Pirates,4,4,25,29,-4,1303,UAB,1170,1170,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,11.650000000000006,512140,NA,NA,0,UAB,UAB,52
+2010-11,2011-03-10,1040987,327,1,2,UAB,East Carolina,Blazers,Pirates,4,4,25,29,-4,1391,East Carolina,1166,1166,4,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,52
+2010-11,2011-03-10,1040987,328,1,2,UAB,East Carolina,Blazers,Pirates,4,4,26,29,-3,1303,UAB,1166,1166,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,52
+2010-11,2011-03-10,1040987,329,1,2,UAB,East Carolina,Blazers,Pirates,4,4,27,29,-2,1303,UAB,1166,1166,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,52
+2010-11,2011-03-10,1040987,331,1,2,UAB,East Carolina,Blazers,Pirates,4,4,27,29,-2,1391,East Carolina,1136,1136,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,29.25,399804,NA,NA,0,East Carolina,UAB,53
+2010-11,2011-03-10,1040987,332,1,2,UAB,East Carolina,Blazers,Pirates,4,4,27,29,-2,1303,UAB,1128,1128,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,14.299999999999997,28.650000000000006,512140,NA,NA,0,UAB,East Carolina,54
+2010-11,2011-03-10,1040987,333,1,2,UAB,East Carolina,Blazers,Pirates,4,4,27,32,-5,1391,East Carolina,1115,1115,13, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,16,29.25,506590,NA,NA,0,East Carolina,UAB,55
+2010-11,2011-03-10,1040987,334,1,2,UAB,East Carolina,Blazers,Pirates,4,4,30,32,-2,1303,UAB,1090,1090,25, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,44.7,13.950000000000003,413779,NA,NA,0,UAB,East Carolina,56
+2010-11,2011-03-10,1040987,338,1,2,UAB,East Carolina,Blazers,Pirates,4,4,30,32,-2,1391,East Carolina,1074,1074,16, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,10.25,506590,NA,NA,0,East Carolina,UAB,57
+2010-11,2011-03-10,1040987,341,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1303,UAB,1051,1051,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,58
+2010-11,2011-03-10,1040987,344,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1391,East Carolina,1032,1032,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,347,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1391,East Carolina,1028,1028,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17,28.05,506594,NA,NA,0,East Carolina,East Carolina,59
+2010-11,2011-03-10,1040987,354,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1391,East Carolina,980,980,48, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,28.7,6.45,458967,NA,NA,0,East Carolina,UAB,59
+2010-11,2011-03-10,1040987,355,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1303,UAB,973,973,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,UAB,60
+2010-11,2011-03-10,1040987,356,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1303,UAB,967,967,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,7.75,399809,NA,NA,0,UAB,UAB,60
+2010-11,2011-03-10,1040987,357,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1303,UAB,932,932,35, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,14.75,413779,NA,NA,0,UAB,East Carolina,60
+2010-11,2011-03-10,1040987,358,1,2,UAB,East Carolina,Blazers,Pirates,4,4,32,32,0,1391,East Carolina,917,917,15, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,16.05,399805,NA,NA,0,East Carolina,UAB,61
+2010-11,2011-03-10,1040987,360,1,2,UAB,East Carolina,Blazers,Pirates,4,4,34,32,2,1303,UAB,897,897,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,UAB,62
+2010-11,2011-03-10,1040987,361,1,2,UAB,East Carolina,Blazers,Pirates,4,4,34,32,2,1391,East Carolina,897,897,0,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,62
+2010-11,2011-03-10,1040987,362,1,2,UAB,East Carolina,Blazers,Pirates,4,4,34,32,2,NA,NA,897,897,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,363,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1303,UAB,897,897,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,62
+2010-11,2011-03-10,1040987,365,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1391,East Carolina,882,882,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7,16.85,399804,NA,NA,0,East Carolina,East Carolina,63
+2010-11,2011-03-10,1040987,368,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1303,UAB,876,876,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,369,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1303,UAB,876,876,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,63
+2010-11,2011-03-10,1040987,370,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1303,UAB,876,876,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,374,1,2,UAB,East Carolina,Blazers,Pirates,4,4,35,32,3,1391,East Carolina,861,861,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,8.15,399805,NA,NA,0,East Carolina,UAB,63
+2010-11,2011-03-10,1040987,375,1,2,UAB,East Carolina,Blazers,Pirates,4,4,37,32,5,1303,UAB,854,854,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,64
+2010-11,2011-03-10,1040987,377,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1391,East Carolina,850,850,4,Pirates take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,380,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,841,841,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,383,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1391,East Carolina,840,840,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,390,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,821,821,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,22.849999999999994,551808,NA,NA,0,UAB,East Carolina,65
+2010-11,2011-03-10,1040987,391,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1391,East Carolina,810,810,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,8.15,506590,NA,NA,0,East Carolina,UAB,66
+2010-11,2011-03-10,1040987,393,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,781,781,29, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,33.3,8.950000000000003,483133,NA,NA,0,UAB,UAB,67
+2010-11,2011-03-10,1040987,397,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,777,777,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45,12.75,399809,NA,NA,0,UAB,East Carolina,67
+2010-11,2011-03-10,1040987,398,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,775,775,2,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,68
+2010-11,2011-03-10,1040987,401,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1303,UAB,773,773,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,409,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,32,5,1391,East Carolina,749,749,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,8.75,399801,NA,NA,0,East Carolina,East Carolina,68
+2010-11,2011-03-10,1040987,410,1,2,UAB,East Carolina,Blazers,Pirates,4,3,37,34,3,1391,East Carolina,745,745,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458967,NA,NA,0,East Carolina,UAB,68
+2010-11,2011-03-10,1040987,418,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,34,5,1303,UAB,714,714,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,69
+2010-11,2011-03-10,1040987,421,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,34,5,1303,UAB,701,701,13,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,70
+2010-11,2011-03-10,1040987,422,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,34,5,NA,NA,701,701,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,423,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,35,4,1391,East Carolina,701,701,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,70
+2010-11,2011-03-10,1040987,424,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,35,4,1303,UAB,701,701,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,425,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,35,4,1303,UAB,701,701,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,426,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,701,701,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,70
+2010-11,2011-03-10,1040987,429,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,679,679,22,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,71
+2010-11,2011-03-10,1040987,431,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1303,UAB,678,678,1, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,7.950000000000003,413779,NA,NA,0,UAB,East Carolina,71
+2010-11,2011-03-10,1040987,433,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,NA,NA,661,661,17,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,436,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,640,640,21, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,23.25,506590,NA,NA,0,East Carolina,UAB,72
+2010-11,2011-03-10,1040987,438,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,637,637,3,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,73
+2010-11,2011-03-10,1040987,452,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,608,608,29,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,73
+2010-11,2011-03-10,1040987,453,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,608,608,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,455,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1303,UAB,606,606,2, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,27.650000000000006,512140,NA,NA,0,UAB,East Carolina,73
+2010-11,2011-03-10,1040987,460,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1303,UAB,572,572,34,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,74
+2010-11,2011-03-10,1040987,464,1,2,UAB,East Carolina,Blazers,Pirates,4,3,39,36,3,1391,East Carolina,565,565,7,Offensive foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,74
+2010-11,2011-03-10,1040987,470,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,36,5,1303,UAB,561,561,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,75
+2010-11,2011-03-10,1040987,478,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,36,5,1303,UAB,540,540,21,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,76
+2010-11,2011-03-10,1040987,479,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1391,East Carolina,540,540,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,76
+2010-11,2011-03-10,1040987,480,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,540,540,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,481,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1391,East Carolina,540,540,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,76
+2010-11,2011-03-10,1040987,487,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,NA,NA,506,506,34,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,488,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1391,East Carolina,506,506,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,491,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,491,491,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,12.450000000000003,413779,NA,NA,0,UAB,East Carolina,77
+2010-11,2011-03-10,1040987,494,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,488,488,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,499,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1391,East Carolina,464,464,24, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,34.8,28.05,552359,NA,NA,0,East Carolina,UAB,78
+2010-11,2011-03-10,1040987,502,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1391,East Carolina,456,456,8,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,79
+2010-11,2011-03-10,1040987,503,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,NA,NA,456,456,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,504,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,456,456,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,79
+2010-11,2011-03-10,1040987,507,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,455,455,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,80
+2010-11,2011-03-10,1040987,508,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,455,455,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,511,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,447,447,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,515,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,37,4,1303,UAB,437,437,10,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,80
+2010-11,2011-03-10,1040987,516,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,38,3,1391,East Carolina,437,437,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,80
+2010-11,2011-03-10,1040987,517,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,39,2,1391,East Carolina,437,437,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,81
+2010-11,2011-03-10,1040987,519,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,39,2,1303,UAB,415,415,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,12.25,551807,NA,NA,0,UAB,UAB,82
+2010-11,2011-03-10,1040987,522,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,39,2,1391,East Carolina,399,399,16,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,82
+2010-11,2011-03-10,1040987,523,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,39,2,1303,UAB,399,399,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,82
+2010-11,2011-03-10,1040987,526,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,39,2,1303,UAB,389,389,10,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,83
+2010-11,2011-03-10,1040987,527,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,40,1,1391,East Carolina,389,389,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,83
+2010-11,2011-03-10,1040987,528,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,40,1,1303,UAB,389,389,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,529,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,40,1,1391,East Carolina,389,389,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,83
+2010-11,2011-03-10,1040987,531,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,42,-1,1391,East Carolina,387,387,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506594,NA,NA,0,East Carolina,UAB,83
+2010-11,2011-03-10,1040987,535,1,2,UAB,East Carolina,Blazers,Pirates,4,3,41,42,-1,1391,East Carolina,363,363,24,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,84
+2010-11,2011-03-10,1040987,536,1,2,UAB,East Carolina,Blazers,Pirates,4,3,42,42,0,1303,UAB,363,363,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,84
+2010-11,2011-03-10,1040987,537,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,42,1,1303,UAB,363,363,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,84
+2010-11,2011-03-10,1040987,541,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,42,1,1391,East Carolina,352,352,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.3000000000000007,9.55,399801,NA,NA,0,East Carolina,UAB,85
+2010-11,2011-03-10,1040987,543,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,42,1,1303,UAB,345,345,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551807,NA,NA,0,UAB,East Carolina,86
+2010-11,2011-03-10,1040987,553,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,42,1,1391,East Carolina,336,336,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,561,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,42,1,1303,UAB,329,329,7,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,87
+2010-11,2011-03-10,1040987,562,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,43,0,1391,East Carolina,329,329,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,87
+2010-11,2011-03-10,1040987,563,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,43,0,1303,UAB,329,329,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,564,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1391,East Carolina,329,329,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,87
+2010-11,2011-03-10,1040987,565,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1391,East Carolina,329,329,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,570,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1303,UAB,316,316,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,29.25,413779,NA,NA,0,UAB,East Carolina,88
+2010-11,2011-03-10,1040987,572,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1303,UAB,312,312,4,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,89
+2010-11,2011-03-10,1040987,573,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1391,East Carolina,312,312,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,89
+2010-11,2011-03-10,1040987,574,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1303,UAB,312,312,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,575,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,44,-1,1303,UAB,312,312,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,576,1,2,UAB,East Carolina,Blazers,Pirates,4,3,43,45,-2,1391,East Carolina,312,312,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,89
+2010-11,2011-03-10,1040987,578,1,2,UAB,East Carolina,Blazers,Pirates,4,3,45,45,0,1303,UAB,306,306,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,90
+2010-11,2011-03-10,1040987,581,1,2,UAB,East Carolina,Blazers,Pirates,4,3,45,45,0,1303,UAB,288,288,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,6.950000000000003,513462,NA,NA,0,UAB,East Carolina,91
+2010-11,2011-03-10,1040987,597,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,45,0,1391,East Carolina,258,258,30,Pirates take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,598,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,45,0,1391,East Carolina,258,258,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,600,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,48,-3,1391,East Carolina,246,246,12, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,27.3,31.95,399804,NA,NA,0,East Carolina,UAB,92
+2010-11,2011-03-10,1040987,602,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,48,-3,1303,UAB,232,232,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,11.849999999999994,413779,NA,NA,0,UAB,UAB,93
+2010-11,2011-03-10,1040987,603,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,48,-3,NA,NA,230,230,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,604,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,48,-3,1391,East Carolina,230,230,0,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2010-11,2011-03-10,1040987,605,1,2,UAB,East Carolina,Blazers,Pirates,4,2,45,48,-3,1391,East Carolina,230,230,0,Technical foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2010-11,2011-03-10,1040987,606,1,2,UAB,East Carolina,Blazers,Pirates,4,2,46,48,-2,1303,UAB,230,230,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2010-11,2011-03-10,1040987,607,1,2,UAB,East Carolina,Blazers,Pirates,4,2,47,48,-1,1303,UAB,230,230,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,93
+2010-11,2011-03-10,1040987,610,1,2,UAB,East Carolina,Blazers,Pirates,4,2,49,48,1,1303,UAB,229,229,1, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,20.8,10.849999999999994,483133,NA,NA,0,UAB,East Carolina,94
+2010-11,2011-03-10,1040987,620,1,2,UAB,East Carolina,Blazers,Pirates,4,2,49,50,-1,1391,East Carolina,207,207,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458967,NA,NA,0,East Carolina,UAB,95
+2010-11,2011-03-10,1040987,622,1,2,UAB,East Carolina,Blazers,Pirates,4,2,49,50,-1,1303,UAB,184,184,23,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,626,1,2,UAB,East Carolina,Blazers,Pirates,4,2,49,50,-1,1303,UAB,173,173,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,7.150000000000006,399809,NA,NA,0,UAB,East Carolina,96
+2010-11,2011-03-10,1040987,631,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,50,-1,1391,East Carolina,165,165,8,Pirates take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,633,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,50,-1,1391,East Carolina,155,155,10, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.5,6.95,458967,NA,NA,0,East Carolina,UAB,97
+2010-11,2011-03-10,1040987,634,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,50,-1,1303,UAB,148,148,7, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25,11.049999999999997,399809,NA,NA,0,UAB,East Carolina,98
+2010-11,2011-03-10,1040987,635,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,52,-3,1391,East Carolina,133,133,15, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,27.7,21.65,399804,NA,NA,0,East Carolina,UAB,99
+2010-11,2011-03-10,1040987,638,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,52,-3,1303,UAB,105,105,28,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,100
+2010-11,2011-03-10,1040987,639,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,52,-3,1303,UAB,105,105,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,640,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,53,-4,1391,East Carolina,105,105,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,100
+2010-11,2011-03-10,1040987,641,1,2,UAB,East Carolina,Blazers,Pirates,4,1,49,53,-4,1391,East Carolina,105,105,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,100
+2010-11,2011-03-10,1040987,645,1,2,UAB,East Carolina,Blazers,Pirates,4,1,52,53,-1,1303,UAB,86,86,19, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7.299999999999997,18.549999999999997,413779,NA,NA,0,UAB,East Carolina,101
+2010-11,2011-03-10,1040987,647,1,2,UAB,East Carolina,Blazers,Pirates,3,1,52,53,-1,1303,UAB,85,85,1,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,652,1,2,UAB,East Carolina,Blazers,Pirates,3,1,52,53,-1,1303,UAB,61,61,24,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,102
+2010-11,2011-03-10,1040987,653,1,2,UAB,East Carolina,Blazers,Pirates,3,1,52,54,-2,1391,East Carolina,61,61,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,102
+2010-11,2011-03-10,1040987,654,1,2,UAB,East Carolina,Blazers,Pirates,3,1,52,55,-3,1391,East Carolina,61,61,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,102
+2010-11,2011-03-10,1040987,658,1,2,UAB,East Carolina,Blazers,Pirates,3,1,52,55,-3,1391,East Carolina,55,55,6,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,103
+2010-11,2011-03-10,1040987,659,1,2,UAB,East Carolina,Blazers,Pirates,3,1,53,55,-2,1303,UAB,55,55,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,103
+2010-11,2011-03-10,1040987,660,1,2,UAB,East Carolina,Blazers,Pirates,3,1,54,55,-1,1303,UAB,55,55,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,103
+2010-11,2011-03-10,1040987,664,1,2,UAB,East Carolina,Blazers,Pirates,3,1,54,57,-3,1391,East Carolina,27,27,28, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,22.8,12.45,399804,NA,NA,0,East Carolina,UAB,104
+2010-11,2011-03-10,1040987,669,1,2,UAB,East Carolina,Blazers,Pirates,3,1,54,57,-3,1303,UAB,16,16,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,11.450000000000003,483133,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,671,1,2,UAB,East Carolina,Blazers,Pirates,3,1,54,57,-3,1391,East Carolina,14,14,2,Shooting foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,672,1,2,UAB,East Carolina,Blazers,Pirates,3,1,54,57,-3,1391,East Carolina,14,14,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,673,1,2,UAB,East Carolina,Blazers,Pirates,3,1,55,57,-2,1303,UAB,14,14,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,674,1,2,UAB,East Carolina,Blazers,Pirates,3,1,55,57,-2,1303,UAB,14,14,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,678,1,2,UAB,East Carolina,Blazers,Pirates,3,1,55,57,-2,1391,East Carolina,13,13,1,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,679,1,2,UAB,East Carolina,Blazers,Pirates,3,1,56,57,-1,1303,UAB,13,13,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-03-10,1040987,680,1,2,UAB,East Carolina,Blazers,Pirates,3,1,56,57,-1,1303,UAB,13,13,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,681,1,2,UAB,East Carolina,Blazers,Pirates,3,1,57,57,0,1303,UAB,13,13,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,105
+2010-11,2011-03-10,1040987,686,1,2,UAB,East Carolina,Blazers,Pirates,3,1,57,57,0,1391,East Carolina,2,2,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,6.75,552359,NA,NA,0,East Carolina,UAB,106
+2010-11,2011-03-10,1040987,689,1,2,UAB,East Carolina,Blazers,Pirates,3,1,57,57,0,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,690,1,3,UAB,East Carolina,Blazers,Pirates,4,2,57,57,0,NA,NA,300,300,-300,Start of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UAB,107
+2010-11,2011-03-10,1040987,698,1,3,UAB,East Carolina,Blazers,Pirates,4,2,57,57,0,1303,UAB,282,282,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,413779,NA,NA,0,UAB,East Carolina,108
+2010-11,2011-03-10,1040987,702,1,3,UAB,East Carolina,Blazers,Pirates,4,2,57,57,0,1391,East Carolina,261,261,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13,26.55,506590,NA,NA,0,East Carolina,UAB,109
+2010-11,2011-03-10,1040987,705,1,3,UAB,East Carolina,Blazers,Pirates,4,2,57,57,0,1391,East Carolina,258,258,3,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,110
+2010-11,2011-03-10,1040987,706,1,3,UAB,East Carolina,Blazers,Pirates,4,2,57,57,0,1303,UAB,258,258,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,110
+2010-11,2011-03-10,1040987,707,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,57,1,1303,UAB,258,258,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,110
+2010-11,2011-03-10,1040987,709,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,59,-1,1391,East Carolina,242,242,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458967,NA,NA,0,East Carolina,UAB,111
+2010-11,2011-03-10,1040987,713,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,59,-1,1303,UAB,219,219,23,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,112
+2010-11,2011-03-10,1040987,714,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,60,-2,1391,East Carolina,219,219,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,112
+2010-11,2011-03-10,1040987,715,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,61,-3,1391,East Carolina,219,219,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,112
+2010-11,2011-03-10,1040987,719,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,61,-3,1303,UAB,211,211,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,6.650000000000006,512140,NA,NA,0,UAB,UAB,113
+2010-11,2011-03-10,1040987,721,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,61,-3,1303,UAB,184,184,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,18.3,29.049999999999997,551807,NA,NA,0,UAB,East Carolina,113
+2010-11,2011-03-10,1040987,723,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,61,-3,1303,UAB,180,180,4,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,114
+2010-11,2011-03-10,1040987,724,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,62,-4,1391,East Carolina,180,180,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,114
+2010-11,2011-03-10,1040987,725,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,62,-4,1303,UAB,180,180,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,726,1,3,UAB,East Carolina,Blazers,Pirates,4,2,58,63,-5,1391,East Carolina,180,180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,114
+2010-11,2011-03-10,1040987,731,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,63,-5,1391,East Carolina,168,168,12,Pirates take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,734,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,63,-5,1303,UAB,160,160,8,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,115
+2010-11,2011-03-10,1040987,735,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1391,East Carolina,160,160,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,115
+2010-11,2011-03-10,1040987,736,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1391,East Carolina,160,160,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,115
+2010-11,2011-03-10,1040987,741,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,149,149,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,746,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,139,139,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512138,NA,NA,0,UAB,East Carolina,116
+2010-11,2011-03-10,1040987,749,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,136,136,3,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,117
+2010-11,2011-03-10,1040987,750,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1391,East Carolina,136,136,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,117
+2010-11,2011-03-10,1040987,751,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,136,136,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,752,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1391,East Carolina,136,136,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,117
+2010-11,2011-03-10,1040987,758,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,124,124,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551807,NA,NA,0,UAB,UAB,118
+2010-11,2011-03-10,1040987,760,1,3,UAB,East Carolina,Blazers,Pirates,4,1,58,64,-6,1303,UAB,122,122,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,762,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,64,-4,1303,UAB,117,117,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,118
+2010-11,2011-03-10,1040987,764,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,64,-4,1303,UAB,95,95,22,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,119
+2010-11,2011-03-10,1040987,765,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,65,-5,1391,East Carolina,95,95,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,119
+2010-11,2011-03-10,1040987,766,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,66,-6,1391,East Carolina,95,95,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,119
+2010-11,2011-03-10,1040987,771,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,66,-6,1303,UAB,85,85,10,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,120
+2010-11,2011-03-10,1040987,772,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,67,-7,1391,East Carolina,85,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,120
+2010-11,2011-03-10,1040987,773,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,67,-7,1391,East Carolina,85,85,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,120
+2010-11,2011-03-10,1040987,776,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,67,-7,1303,UAB,80,80,5, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,28.25,413779,NA,NA,0,UAB,UAB,121
+2010-11,2011-03-10,1040987,777,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,67,-7,1303,UAB,78,78,2, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24.8,9.349999999999994,483133,NA,NA,0,UAB,East Carolina,121
+2010-11,2011-03-10,1040987,786,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,67,-7,1303,UAB,51,51,27,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,122
+2010-11,2011-03-10,1040987,787,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,68,-8,1391,East Carolina,51,51,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,122
+2010-11,2011-03-10,1040987,788,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,69,-9,1391,East Carolina,51,51,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,122
+2010-11,2011-03-10,1040987,789,1,3,UAB,East Carolina,Blazers,Pirates,4,1,60,69,-9,1303,UAB,51,51,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,793,1,3,UAB,East Carolina,Blazers,Pirates,4,1,62,69,-7,1303,UAB,47,47,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,123
+2010-11,2011-03-10,1040987,794,1,3,UAB,East Carolina,Blazers,Pirates,3,1,62,69,-7,1303,UAB,47,47,0,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,798,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,69,-7,1391,East Carolina,42,42,5,Pirates take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,800,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,69,-7,1303,UAB,41,41,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,801,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,69,-7,1303,UAB,41,41,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,124
+2010-11,2011-03-10,1040987,802,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,69,-7,1303,UAB,41,41,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,803,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,70,-8,1391,East Carolina,41,41,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,124
+2010-11,2011-03-10,1040987,804,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,71,-9,1391,East Carolina,41,41,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,124
+2010-11,2011-03-10,1040987,808,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,71,-9,1303,UAB,36,36,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,809,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,71,-9,1303,UAB,36,36,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,125
+2010-11,2011-03-10,1040987,810,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,71,-9,1303,UAB,36,36,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,811,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,72,-10,1391,East Carolina,36,36,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,125
+2010-11,2011-03-10,1040987,812,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,73,-11,1391,East Carolina,36,36,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,125
+2010-11,2011-03-10,1040987,815,1,3,UAB,East Carolina,Blazers,Pirates,3,0,62,73,-11,1303,UAB,30,30,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21,28.650000000000006,413779,NA,NA,0,UAB,UAB,126
+2010-11,2011-03-10,1040987,819,1,3,UAB,East Carolina,Blazers,Pirates,3,0,64,73,-9,1303,UAB,22,22,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551808,NA,NA,0,UAB,East Carolina,126
+2010-11,2011-03-10,1040987,820,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,73,-9,1303,UAB,22,22,0,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,821,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,73,-9,1303,UAB,22,22,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,822,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,73,-9,1303,UAB,22,22,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,127
+2010-11,2011-03-10,1040987,823,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,74,-10,1391,East Carolina,22,22,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,127
+2010-11,2011-03-10,1040987,824,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,74,-10,1303,UAB,22,22,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040987,825,1,3,UAB,East Carolina,Blazers,Pirates,2,0,64,74,-10,1391,East Carolina,22,22,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,127
+2010-11,2011-03-10,1040987,828,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1303,UAB,16,16,6, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,34.7,25.349999999999994,399809,NA,NA,0,UAB,East Carolina,128
+2010-11,2011-03-10,1040987,829,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1303,UAB,15,15,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,129
+2010-11,2011-03-10,1040987,830,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1391,East Carolina,15,15,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,129
+2010-11,2011-03-10,1040987,831,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1391,East Carolina,15,15,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,129
+2010-11,2011-03-10,1040987,835,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1391,East Carolina,10,10,5,Personal foul committed by Pirates.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,130
+2010-11,2011-03-10,1040987,836,1,3,UAB,East Carolina,Blazers,Pirates,2,0,67,74,-7,1303,UAB,10,10,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,130
+2010-11,2011-03-10,1040987,841,1,3,UAB,East Carolina,Blazers,Pirates,2,0,68,74,-6,1303,UAB,10,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,East Carolina,130
+2010-11,2011-03-10,1040987,843,1,3,UAB,East Carolina,Blazers,Pirates,2,0,68,74,-6,1303,UAB,6,6,4,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,131
+2010-11,2011-03-10,1040987,844,1,3,UAB,East Carolina,Blazers,Pirates,2,0,68,75,-7,1391,East Carolina,6,6,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,131
+2010-11,2011-03-10,1040987,845,1,3,UAB,East Carolina,Blazers,Pirates,2,0,68,75,-7,1391,East Carolina,6,6,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,UAB,131
+2010-11,2011-03-10,1040987,849,1,3,UAB,East Carolina,Blazers,Pirates,2,0,70,75,-5,1303,UAB,1,1,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,East Carolina,132
+2010-11,2011-03-10,1040987,851,1,3,UAB,East Carolina,Blazers,Pirates,2,0,70,75,-5,NA,NA,0,0,1,End of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040987,852,1,3,UAB,East Carolina,Blazers,Pirates,2,0,70,75,-5,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,East Carolina,East Carolina,NA

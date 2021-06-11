@@ -1,0 +1,244 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-31,914588,1,0,1,USC,Arizona,Trojans,Wildcats,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,NA
+2009-10,2009-12-31,914588,3,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,0,2,1669,USC,2376,1176,24, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.3,11.049999999999997,329673,NA,NA,0,USC,Arizona,1
+2009-10,2009-12-31,914588,4,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,0,2,1291,Arizona,2341,1141,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,2
+2009-10,2009-12-31,914588,9,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,0,2,1291,Arizona,2319,1119,22, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,6.95,509168,NA,NA,0,Arizona,Arizona,2
+2009-10,2009-12-31,914588,12,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,0,2,1669,USC,2298,1098,21,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,2
+2009-10,2009-12-31,914588,14,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,0,2,1291,Arizona,2295,1095,3, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.7,6.45,329709,NA,NA,0,Arizona,Arizona,2
+2009-10,2009-12-31,914588,17,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,3,-1,1291,Arizona,2279,1079,16, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.8,10.45,395394,NA,NA,0,Arizona,USC,2
+2009-10,2009-12-31,914588,20,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,3,-1,1291,Arizona,2257,1057,22,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,3
+2009-10,2009-12-31,914588,21,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,3,-1,1669,USC,2257,1057,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,3
+2009-10,2009-12-31,914588,22,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,3,-1,1669,USC,2257,1057,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,3
+2009-10,2009-12-31,914588,24,0,1,USC,Arizona,Trojans,Wildcats,4,4,2,3,-1,1291,Arizona,2249,1049,8, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,24.95,329709,NA,NA,0,Arizona,USC,4
+2009-10,2009-12-31,914588,25,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,3,1,1669,USC,2234,1034,15, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,25.2,24.25,330059,NA,NA,0,USC,Arizona,5
+2009-10,2009-12-31,914588,28,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,3,1,1669,USC,2212,1012,22,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,6
+2009-10,2009-12-31,914588,29,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,4,0,1291,Arizona,2212,1012,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,6
+2009-10,2009-12-31,914588,30,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,5,-1,1291,Arizona,2212,1012,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,6
+2009-10,2009-12-31,914588,32,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,5,-1,1669,USC,2194,994,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,USC,7
+2009-10,2009-12-31,914588,33,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,5,-1,1669,USC,2184,984,10, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,9.549999999999997,297612,NA,NA,0,USC,USC,7
+2009-10,2009-12-31,914588,34,0,1,USC,Arizona,Trojans,Wildcats,4,4,4,5,-1,1669,USC,2181,981,3, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,25.7,9.150000000000006,329673,NA,NA,0,USC,USC,7
+2009-10,2009-12-31,914588,35,0,1,USC,Arizona,Trojans,Wildcats,4,4,6,5,1,1669,USC,2178,978,3, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.5,8.150000000000006,329673,NA,NA,0,USC,Arizona,7
+2009-10,2009-12-31,914588,37,0,1,USC,Arizona,Trojans,Wildcats,4,4,6,5,1,1291,Arizona,2169,969,9, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,17.65,457338,NA,NA,0,Arizona,Arizona,8
+2009-10,2009-12-31,914588,38,0,1,USC,Arizona,Trojans,Wildcats,4,4,6,5,1,1291,Arizona,2165,965,4,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,8
+2009-10,2009-12-31,914588,48,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1669,USC,2153,953,12, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,25,19.75,295796,NA,NA,0,USC,Arizona,9
+2009-10,2009-12-31,914588,50,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1291,Arizona,2146,946,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,57,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,NA,NA,2133,933,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,58,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1291,Arizona,2133,933,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,63,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1669,USC,2107,907,26, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,11.849999999999994,330059,NA,NA,0,USC,Arizona,10
+2009-10,2009-12-31,914588,66,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1291,Arizona,2093,893,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,71,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1291,Arizona,2078,878,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,USC,11
+2009-10,2009-12-31,914588,77,0,1,USC,Arizona,Trojans,Wildcats,4,4,8,5,3,1291,Arizona,2058,858,20,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2009-10,2009-12-31,914588,78,0,1,USC,Arizona,Trojans,Wildcats,4,4,9,5,4,1669,USC,2058,858,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,12
+2009-10,2009-12-31,914588,79,0,1,USC,Arizona,Trojans,Wildcats,4,4,10,5,5,1669,USC,2058,858,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,12
+2009-10,2009-12-31,914588,81,0,1,USC,Arizona,Trojans,Wildcats,4,4,10,5,5,1291,Arizona,2048,848,10, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,6.75,509166,NA,NA,0,Arizona,USC,13
+2009-10,2009-12-31,914588,82,0,1,USC,Arizona,Trojans,Wildcats,4,4,12,5,7,1669,USC,2041,841,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,295796,NA,NA,0,USC,Arizona,14
+2009-10,2009-12-31,914588,84,0,1,USC,Arizona,Trojans,Wildcats,4,4,12,5,7,1291,Arizona,2011,811,30, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,10.05,509167,NA,NA,0,Arizona,Arizona,15
+2009-10,2009-12-31,914588,86,0,1,USC,Arizona,Trojans,Wildcats,4,4,12,5,7,1291,Arizona,2009,809,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,90,0,1,USC,Arizona,Trojans,Wildcats,4,4,12,5,7,1291,Arizona,1996,796,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,92,0,1,USC,Arizona,Trojans,Wildcats,4,4,12,5,7,1291,Arizona,1977,777,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,USC,15
+2009-10,2009-12-31,914588,93,0,1,USC,Arizona,Trojans,Wildcats,4,4,14,5,9,1669,USC,1961,761,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,297612,NA,NA,0,USC,Arizona,16
+2009-10,2009-12-31,914588,94,0,1,USC,Arizona,Trojans,Wildcats,4,4,14,8,6,1291,Arizona,1928,728,33, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,8.35,509169,NA,NA,0,Arizona,USC,17
+2009-10,2009-12-31,914588,97,0,1,USC,Arizona,Trojans,Wildcats,4,4,14,8,6,1291,Arizona,1912,712,16,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2009-10,2009-12-31,914588,98,0,1,USC,Arizona,Trojans,Wildcats,4,4,14,8,6,NA,NA,1912,712,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,101,0,1,USC,Arizona,Trojans,Wildcats,4,4,14,8,6,1669,USC,1906,706,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,107,0,1,USC,Arizona,Trojans,Wildcats,4,4,16,8,8,1669,USC,1898,698,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,USC,18
+2009-10,2009-12-31,914588,108,0,1,USC,Arizona,Trojans,Wildcats,4,4,16,8,8,1291,Arizona,1898,698,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2009-10,2009-12-31,914588,109,0,1,USC,Arizona,Trojans,Wildcats,4,4,16,8,8,1291,Arizona,1898,698,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,110,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1669,USC,1898,698,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,18
+2009-10,2009-12-31,914588,111,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1291,Arizona,1898,698,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,118,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1291,Arizona,1876,676,22,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,19
+2009-10,2009-12-31,914588,123,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1669,USC,1871,671,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,125,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1669,USC,1861,661,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,13.950000000000003,330059,NA,NA,0,USC,Arizona,20
+2009-10,2009-12-31,914588,126,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1291,Arizona,1848,648,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,8.35,457338,NA,NA,0,Arizona,USC,21
+2009-10,2009-12-31,914588,128,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1291,Arizona,1841,641,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,129,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1669,USC,1841,641,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,132,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1291,Arizona,1840,640,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,143,0,1,USC,Arizona,Trojans,Wildcats,4,4,17,8,9,1669,USC,1822,622,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,USC,22
+2009-10,2009-12-31,914588,144,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,8,11,1669,USC,1819,619,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Arizona,22
+2009-10,2009-12-31,914588,147,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,8,11,1669,USC,1809,609,10,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,23
+2009-10,2009-12-31,914588,148,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,9,10,1291,Arizona,1809,609,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,23
+2009-10,2009-12-31,914588,149,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,9,10,1669,USC,1809,609,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,150,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,10,9,1291,Arizona,1809,609,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,23
+2009-10,2009-12-31,914588,152,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,10,9,1669,USC,1780,580,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457600,NA,NA,0,USC,Arizona,24
+2009-10,2009-12-31,914588,156,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,10,9,1291,Arizona,1773,573,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,157,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,10,9,1669,USC,1773,573,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,159,0,1,USC,Arizona,Trojans,Wildcats,4,4,19,10,9,1291,Arizona,1751,551,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,7.35,395394,NA,NA,0,Arizona,USC,25
+2009-10,2009-12-31,914588,160,0,1,USC,Arizona,Trojans,Wildcats,4,4,21,10,11,1669,USC,1737,537,14, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,36.3,16.849999999999994,330059,NA,NA,0,USC,Arizona,26
+2009-10,2009-12-31,914588,162,0,1,USC,Arizona,Trojans,Wildcats,4,4,21,10,11,1291,Arizona,1717,517,20, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,23,11.45,509165,NA,NA,0,Arizona,USC,27
+2009-10,2009-12-31,914588,164,0,1,USC,Arizona,Trojans,Wildcats,4,4,21,10,11,1291,Arizona,1714,514,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,165,0,1,USC,Arizona,Trojans,Wildcats,4,3,21,10,11,1291,Arizona,1714,514,0,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,168,0,1,USC,Arizona,Trojans,Wildcats,4,3,21,10,11,1291,Arizona,1707,507,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,174,0,1,USC,Arizona,Trojans,Wildcats,4,3,21,10,11,1669,USC,1686,486,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330059,NA,NA,0,USC,Arizona,28
+2009-10,2009-12-31,914588,175,0,1,USC,Arizona,Trojans,Wildcats,4,3,21,10,11,1291,Arizona,1676,476,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,21.15,395394,NA,NA,0,Arizona,USC,29
+2009-10,2009-12-31,914588,176,0,1,USC,Arizona,Trojans,Wildcats,4,3,23,10,13,1669,USC,1655,455,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457600,NA,NA,0,USC,Arizona,30
+2009-10,2009-12-31,914588,179,0,1,USC,Arizona,Trojans,Wildcats,4,3,23,10,13,1291,Arizona,1628,428,27,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,31
+2009-10,2009-12-31,914588,180,0,1,USC,Arizona,Trojans,Wildcats,4,3,23,10,13,NA,NA,1628,428,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,181,0,1,USC,Arizona,Trojans,Wildcats,4,3,24,10,14,1669,USC,1628,428,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,31
+2009-10,2009-12-31,914588,182,0,1,USC,Arizona,Trojans,Wildcats,4,3,25,10,15,1669,USC,1628,428,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2009-10,2009-12-31,914588,187,0,1,USC,Arizona,Trojans,Wildcats,4,3,25,10,15,1291,Arizona,1616,416,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,192,0,1,USC,Arizona,Trojans,Wildcats,4,3,25,10,15,1291,Arizona,1604,404,12,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2009-10,2009-12-31,914588,193,0,1,USC,Arizona,Trojans,Wildcats,4,3,26,10,16,1669,USC,1604,404,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2009-10,2009-12-31,914588,194,0,1,USC,Arizona,Trojans,Wildcats,4,3,26,10,16,1291,Arizona,1604,404,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,195,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,10,17,1669,USC,1604,404,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,32
+2009-10,2009-12-31,914588,198,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,10,17,1291,Arizona,1585,385,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Arizona,33
+2009-10,2009-12-31,914588,201,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1291,Arizona,1560,360,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,USC,33
+2009-10,2009-12-31,914588,202,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1524,324,36, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.299999999999997,7.349999999999994,395373,NA,NA,0,USC,USC,34
+2009-10,2009-12-31,914588,204,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1517,317,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457600,NA,NA,0,USC,USC,34
+2009-10,2009-12-31,914588,205,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1515,315,2, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,18.950000000000003,330059,NA,NA,0,USC,USC,34
+2009-10,2009-12-31,914588,207,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1514,314,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,210,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1291,Arizona,1502,302,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,212,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1489,289,13, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,13.700000000000003,22.450000000000003,457600,NA,NA,0,USC,Arizona,34
+2009-10,2009-12-31,914588,214,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1291,Arizona,1480,280,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,Arizona,35
+2009-10,2009-12-31,914588,215,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1291,Arizona,1480,280,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,219,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,12,15,1669,USC,1473,273,7,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,35
+2009-10,2009-12-31,914588,221,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,14,13,1291,Arizona,1468,268,5, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,19.7,6.45,509167,NA,NA,0,Arizona,USC,35
+2009-10,2009-12-31,914588,222,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,14,13,1669,USC,1450,250,18, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,22.849999999999994,295796,NA,NA,0,USC,Arizona,36
+2009-10,2009-12-31,914588,223,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,14,13,1291,Arizona,1441,241,9, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,9.55,509169,NA,NA,0,Arizona,Arizona,37
+2009-10,2009-12-31,914588,224,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,14,13,1291,Arizona,1428,228,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,7.35,509167,NA,NA,0,Arizona,Arizona,37
+2009-10,2009-12-31,914588,226,0,1,USC,Arizona,Trojans,Wildcats,4,3,27,17,10,1291,Arizona,1422,222,6, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,28.8,29.65,395394,NA,NA,0,Arizona,USC,37
+2009-10,2009-12-31,914588,229,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,17,10,1669,USC,1419,219,3,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,232,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,17,10,NA,NA,1399,199,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,238,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,17,10,1291,Arizona,1366,166,33,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,241,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,17,10,1291,Arizona,1363,163,3, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.2,26.75,509165,NA,NA,0,Arizona,USC,38
+2009-10,2009-12-31,914588,245,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,17,10,1669,USC,1346,146,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330059,NA,NA,0,USC,Arizona,39
+2009-10,2009-12-31,914588,246,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1339,139,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509165,NA,NA,0,Arizona,USC,40
+2009-10,2009-12-31,914588,247,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1669,USC,1306,106,33, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,10.200000000000003,26.950000000000003,297612,NA,NA,0,USC,Arizona,41
+2009-10,2009-12-31,914588,250,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1669,USC,1299,99,7,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,42
+2009-10,2009-12-31,914588,251,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1299,99,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,252,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1299,99,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,253,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1669,USC,1299,99,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,257,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1298,98,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,262,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1669,USC,1271,71,27, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.7,18.549999999999997,330059,NA,NA,0,USC,Arizona,42
+2009-10,2009-12-31,914588,264,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1260,60,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,10.65,329709,NA,NA,0,Arizona,USC,43
+2009-10,2009-12-31,914588,266,0,1,USC,Arizona,Trojans,Wildcats,3,3,27,19,8,1291,Arizona,1258,58,2,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2009-10,2009-12-31,914588,267,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,19,9,1669,USC,1258,58,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,44
+2009-10,2009-12-31,914588,268,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,19,9,1669,USC,1258,58,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,44
+2009-10,2009-12-31,914588,271,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,19,9,1291,Arizona,1254,54,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,276,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,19,9,1291,Arizona,1240,40,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,278,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,19,9,1291,Arizona,1239,39,1, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.8,27.65,509169,NA,NA,0,Arizona,Arizona,45
+2009-10,2009-12-31,914588,283,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,21,7,1291,Arizona,1203,3,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457338,NA,NA,0,Arizona,USC,45
+2009-10,2009-12-31,914588,286,0,1,USC,Arizona,Trojans,Wildcats,3,3,28,21,7,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,287,0,2,USC,Arizona,Trojans,Wildcats,4,4,28,21,7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,46
+2009-10,2009-12-31,914588,296,0,2,USC,Arizona,Trojans,Wildcats,4,4,28,21,7,1669,USC,1169,1169,31, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,22.849999999999994,457598,NA,NA,0,USC,Arizona,47
+2009-10,2009-12-31,914588,297,0,2,USC,Arizona,Trojans,Wildcats,4,4,28,23,5,1291,Arizona,1152,1152,17, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,21.8,23.05,509168,NA,NA,0,Arizona,USC,48
+2009-10,2009-12-31,914588,298,0,2,USC,Arizona,Trojans,Wildcats,4,4,31,23,8,1669,USC,1114,1114,38, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.799999999999997,10.25,295796,NA,NA,0,USC,Arizona,49
+2009-10,2009-12-31,914588,299,0,2,USC,Arizona,Trojans,Wildcats,4,4,31,23,8,1291,Arizona,1101,1101,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,23.65,395394,NA,NA,0,Arizona,Arizona,50
+2009-10,2009-12-31,914588,302,0,2,USC,Arizona,Trojans,Wildcats,4,4,31,25,6,1291,Arizona,1074,1074,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,USC,50
+2009-10,2009-12-31,914588,303,0,2,USC,Arizona,Trojans,Wildcats,4,4,31,25,6,1669,USC,1056,1056,18, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23,10.650000000000006,297612,NA,NA,0,USC,Arizona,51
+2009-10,2009-12-31,914588,304,0,2,USC,Arizona,Trojans,Wildcats,4,4,31,25,6,1291,Arizona,1048,1048,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,USC,52
+2009-10,2009-12-31,914588,305,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1669,USC,1026,1026,22, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28,10.650000000000006,457598,NA,NA,0,USC,Arizona,53
+2009-10,2009-12-31,914588,307,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1669,USC,1010,1010,16,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,54
+2009-10,2009-12-31,914588,310,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1669,USC,1003,1003,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,15.650000000000006,330059,NA,NA,0,USC,USC,54
+2009-10,2009-12-31,914588,312,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1291,Arizona,1000,1000,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,315,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1291,Arizona,985,985,15,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,54
+2009-10,2009-12-31,914588,316,0,2,USC,Arizona,Trojans,Wildcats,4,4,33,25,8,1291,Arizona,985,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,318,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,25,10,1669,USC,979,979,6, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,18.7,17.049999999999997,295796,NA,NA,0,USC,Arizona,54
+2009-10,2009-12-31,914588,319,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,955,955,24, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,25.3,18.75,457338,NA,NA,0,Arizona,USC,55
+2009-10,2009-12-31,914588,322,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,NA,NA,938,938,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,332,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,919,919,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,334,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,917,917,2, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39,5.85,509168,NA,NA,0,Arizona,Arizona,56
+2009-10,2009-12-31,914588,344,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,878,878,39,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,354,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1669,USC,867,867,11,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,56
+2009-10,2009-12-31,914588,355,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,867,867,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,356,0,2,USC,Arizona,Trojans,Wildcats,4,4,35,27,8,1291,Arizona,867,867,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,371,0,2,USC,Arizona,Trojans,Wildcats,4,4,37,27,10,1669,USC,826,826,41, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,33.2,24.049999999999997,330059,NA,NA,0,USC,Arizona,56
+2009-10,2009-12-31,914588,378,0,2,USC,Arizona,Trojans,Wildcats,4,4,37,27,10,1291,Arizona,793,793,33,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,383,0,2,USC,Arizona,Trojans,Wildcats,4,4,37,29,8,1291,Arizona,786,786,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,USC,57
+2009-10,2009-12-31,914588,384,0,2,USC,Arizona,Trojans,Wildcats,4,4,37,29,8,1669,USC,763,763,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,5.450000000000003,295796,NA,NA,0,USC,Arizona,58
+2009-10,2009-12-31,914588,386,0,2,USC,Arizona,Trojans,Wildcats,4,4,37,32,5,1291,Arizona,754,754,9, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4.699999999999999,12.65,395394,NA,NA,0,Arizona,USC,59
+2009-10,2009-12-31,914588,398,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1669,USC,743,743,11,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,399,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1291,Arizona,743,743,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,402,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1669,USC,735,735,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,407,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1669,USC,720,720,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34,8.75,457598,NA,NA,0,USC,Arizona,60
+2009-10,2009-12-31,914588,409,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1291,Arizona,714,714,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,413,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1291,Arizona,695,695,19, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,21.85,395394,NA,NA,0,Arizona,USC,61
+2009-10,2009-12-31,914588,416,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,NA,NA,693,693,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,420,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1291,Arizona,655,655,38,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,425,0,2,USC,Arizona,Trojans,Wildcats,3,4,37,32,5,1291,Arizona,640,640,15,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,62
+2009-10,2009-12-31,914588,428,0,2,USC,Arizona,Trojans,Wildcats,3,4,39,32,7,1669,USC,635,635,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Arizona,62
+2009-10,2009-12-31,914588,430,0,2,USC,Arizona,Trojans,Wildcats,3,4,39,32,7,1291,Arizona,629,629,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,438,0,2,USC,Arizona,Trojans,Wildcats,3,4,39,32,7,1291,Arizona,617,617,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395394,NA,NA,0,Arizona,USC,63
+2009-10,2009-12-31,914588,440,0,2,USC,Arizona,Trojans,Wildcats,3,4,39,32,7,1291,Arizona,615,615,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,444,0,2,USC,Arizona,Trojans,Wildcats,3,4,41,32,9,1669,USC,600,600,15, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,295796,NA,NA,0,USC,Arizona,64
+2009-10,2009-12-31,914588,447,0,2,USC,Arizona,Trojans,Wildcats,3,3,41,32,9,1291,Arizona,592,592,8,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,451,0,2,USC,Arizona,Trojans,Wildcats,3,3,41,32,9,1291,Arizona,575,575,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457337,NA,NA,0,Arizona,USC,65
+2009-10,2009-12-31,914588,454,0,2,USC,Arizona,Trojans,Wildcats,3,3,41,32,9,1291,Arizona,554,554,21,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,66
+2009-10,2009-12-31,914588,455,0,2,USC,Arizona,Trojans,Wildcats,3,3,41,32,9,1291,Arizona,554,554,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,458,0,2,USC,Arizona,Trojans,Wildcats,3,3,43,32,11,1669,USC,553,553,1, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,20.8,7.75,457600,NA,NA,0,USC,USC,66
+2009-10,2009-12-31,914588,459,0,2,USC,Arizona,Trojans,Wildcats,3,3,43,32,11,1291,Arizona,553,553,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,66
+2009-10,2009-12-31,914588,460,0,2,USC,Arizona,Trojans,Wildcats,3,3,44,32,12,1669,USC,553,553,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,66
+2009-10,2009-12-31,914588,466,0,2,USC,Arizona,Trojans,Wildcats,3,3,44,32,12,1669,USC,528,528,25,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,67
+2009-10,2009-12-31,914588,470,0,2,USC,Arizona,Trojans,Wildcats,3,3,44,32,12,1669,USC,486,486,42, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,Arizona,67
+2009-10,2009-12-31,914588,473,0,2,USC,Arizona,Trojans,Wildcats,3,3,44,32,12,NA,NA,477,477,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,475,0,2,USC,Arizona,Trojans,Wildcats,3,3,44,32,12,1291,Arizona,474,474,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,10.25,457338,NA,NA,0,Arizona,USC,68
+2009-10,2009-12-31,914588,478,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,32,14,1669,USC,458,458,16, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,22.8,23.450000000000003,330059,NA,NA,0,USC,Arizona,69
+2009-10,2009-12-31,914588,481,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,32,14,1669,USC,440,440,18,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2009-10,2009-12-31,914588,484,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,32,14,1669,USC,435,435,5,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2009-10,2009-12-31,914588,485,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,33,13,1291,Arizona,435,435,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2009-10,2009-12-31,914588,486,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,33,13,1669,USC,435,435,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,487,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,34,12,1291,Arizona,435,435,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,70
+2009-10,2009-12-31,914588,489,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,34,12,1669,USC,414,414,21, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,7.349999999999994,329673,NA,NA,0,USC,Arizona,71
+2009-10,2009-12-31,914588,492,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,34,12,1669,USC,401,401,13,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,72
+2009-10,2009-12-31,914588,493,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,35,11,1291,Arizona,401,401,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,72
+2009-10,2009-12-31,914588,494,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,35,11,1291,Arizona,401,401,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,495,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,35,11,1291,Arizona,401,401,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,496,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,36,10,1291,Arizona,401,401,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,72
+2009-10,2009-12-31,914588,499,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,36,10,1291,Arizona,368,368,33,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,73
+2009-10,2009-12-31,914588,500,0,2,USC,Arizona,Trojans,Wildcats,3,3,46,36,10,1669,USC,368,368,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,73
+2009-10,2009-12-31,914588,501,0,2,USC,Arizona,Trojans,Wildcats,3,3,47,36,11,1669,USC,368,368,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,73
+2009-10,2009-12-31,914588,504,0,2,USC,Arizona,Trojans,Wildcats,3,3,47,36,11,1669,USC,357,357,11,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,74
+2009-10,2009-12-31,914588,505,0,2,USC,Arizona,Trojans,Wildcats,3,3,47,36,11,1291,Arizona,357,357,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,74
+2009-10,2009-12-31,914588,506,0,2,USC,Arizona,Trojans,Wildcats,3,3,47,36,11,1669,USC,357,357,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,507,0,2,USC,Arizona,Trojans,Wildcats,3,3,47,37,10,1291,Arizona,357,357,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,74
+2009-10,2009-12-31,914588,511,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,37,12,1669,USC,345,345,12, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25,11.25,457598,NA,NA,0,USC,USC,75
+2009-10,2009-12-31,914588,512,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,37,12,1291,Arizona,345,345,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,75
+2009-10,2009-12-31,914588,513,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,37,12,1669,USC,345,345,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,75
+2009-10,2009-12-31,914588,516,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,37,12,1291,Arizona,339,339,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,521,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,37,12,1291,Arizona,332,332,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457338,NA,NA,0,Arizona,Arizona,76
+2009-10,2009-12-31,914588,524,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,39,10,1291,Arizona,306,306,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457338,NA,NA,0,Arizona,USC,76
+2009-10,2009-12-31,914588,526,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,39,10,1669,USC,286,286,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.2,27.450000000000003,297612,NA,NA,0,USC,Arizona,77
+2009-10,2009-12-31,914588,531,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,39,10,1669,USC,270,270,16,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,78
+2009-10,2009-12-31,914588,532,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,40,9,1291,Arizona,270,270,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,78
+2009-10,2009-12-31,914588,533,0,2,USC,Arizona,Trojans,Wildcats,3,3,49,41,8,1291,Arizona,270,270,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,78
+2009-10,2009-12-31,914588,535,0,2,USC,Arizona,Trojans,Wildcats,3,3,51,41,10,1669,USC,248,248,22, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,27.2,17.049999999999997,330059,NA,NA,0,USC,Arizona,79
+2009-10,2009-12-31,914588,537,0,2,USC,Arizona,Trojans,Wildcats,3,3,51,41,10,1291,Arizona,238,238,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,538,0,2,USC,Arizona,Trojans,Wildcats,3,3,51,41,10,1291,Arizona,238,238,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.7,29.85,509169,NA,NA,0,Arizona,Arizona,80
+2009-10,2009-12-31,914588,541,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,41,10,1291,Arizona,236,236,2,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,546,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,41,10,1291,Arizona,226,226,10, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,9.65,329709,NA,NA,0,Arizona,Arizona,80
+2009-10,2009-12-31,914588,549,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,41,10,1669,USC,221,221,5,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,80
+2009-10,2009-12-31,914588,550,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,41,10,NA,NA,221,221,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,551,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,42,9,1291,Arizona,221,221,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,80
+2009-10,2009-12-31,914588,552,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,43,8,1291,Arizona,221,221,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,80
+2009-10,2009-12-31,914588,554,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,43,8,1669,USC,191,191,30, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,7.75,295796,NA,NA,0,USC,Arizona,81
+2009-10,2009-12-31,914588,556,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,43,8,1291,Arizona,181,181,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,82
+2009-10,2009-12-31,914588,558,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,43,8,1669,USC,175,175,6,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,82
+2009-10,2009-12-31,914588,559,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,44,7,1291,Arizona,175,175,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,82
+2009-10,2009-12-31,914588,560,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,44,7,1291,Arizona,175,175,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,561,0,2,USC,Arizona,Trojans,Wildcats,3,2,51,45,6,1291,Arizona,175,175,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,USC,82
+2009-10,2009-12-31,914588,563,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,45,8,1669,USC,156,156,19, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8,9.349999999999994,330059,NA,NA,0,USC,Arizona,83
+2009-10,2009-12-31,914588,564,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,45,8,1291,Arizona,139,139,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,8.95,395394,NA,NA,0,Arizona,USC,84
+2009-10,2009-12-31,914588,566,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,45,8,1669,USC,102,102,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,29.650000000000006,330059,NA,NA,0,USC,USC,85
+2009-10,2009-12-31,914588,567,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,45,8,1669,USC,100,100,2, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25.5,8.349999999999994,295796,NA,NA,0,USC,Arizona,85
+2009-10,2009-12-31,914588,569,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,45,8,1669,USC,99,99,1,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,86
+2009-10,2009-12-31,914588,570,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,46,7,1291,Arizona,99,99,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,86
+2009-10,2009-12-31,914588,571,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,46,7,1291,Arizona,99,99,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,86
+2009-10,2009-12-31,914588,574,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,48,5,1291,Arizona,98,98,1, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.8,8.55,395394,NA,NA,0,Arizona,USC,86
+2009-10,2009-12-31,914588,583,0,2,USC,Arizona,Trojans,Wildcats,3,2,53,48,5,1669,USC,62,62,36, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33,21.849999999999994,330059,NA,NA,0,USC,Arizona,87
+2009-10,2009-12-31,914588,586,0,2,USC,Arizona,Trojans,Wildcats,3,1,53,48,5,1291,Arizona,52,52,10,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,589,0,2,USC,Arizona,Trojans,Wildcats,3,1,53,48,5,1291,Arizona,41,41,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457338,NA,NA,0,Arizona,USC,88
+2009-10,2009-12-31,914588,591,0,2,USC,Arizona,Trojans,Wildcats,3,1,53,48,5,1291,Arizona,37,37,4,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2009-10,2009-12-31,914588,592,0,2,USC,Arizona,Trojans,Wildcats,3,1,53,48,5,1291,Arizona,37,37,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-31,914588,593,0,2,USC,Arizona,Trojans,Wildcats,3,1,54,48,6,1669,USC,37,37,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,89
+2009-10,2009-12-31,914588,594,0,2,USC,Arizona,Trojans,Wildcats,3,1,55,48,7,1669,USC,37,37,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,90
+2009-10,2009-12-31,914588,597,0,2,USC,Arizona,Trojans,Wildcats,3,1,55,48,7,1291,Arizona,25,25,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,Arizona,91
+2009-10,2009-12-31,914588,599,0,2,USC,Arizona,Trojans,Wildcats,3,1,55,50,5,1291,Arizona,24,24,1, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26,7.75,395394,NA,NA,0,Arizona,USC,91
+2009-10,2009-12-31,914588,601,0,2,USC,Arizona,Trojans,Wildcats,3,1,55,50,5,1291,Arizona,24,24,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2009-10,2009-12-31,914588,602,0,2,USC,Arizona,Trojans,Wildcats,3,1,56,50,6,1669,USC,24,24,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,92
+2009-10,2009-12-31,914588,603,0,2,USC,Arizona,Trojans,Wildcats,3,1,56,50,6,1669,USC,24,24,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,93
+2009-10,2009-12-31,914588,608,0,2,USC,Arizona,Trojans,Wildcats,3,1,56,50,6,1291,Arizona,18,18,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,USC,94
+2009-10,2009-12-31,914588,609,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,1291,Arizona,17,17,1,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,613,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,1291,Arizona,10,10,7,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,95
+2009-10,2009-12-31,914588,614,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,1669,USC,10,10,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Arizona,95
+2009-10,2009-12-31,914588,618,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,1291,Arizona,5,5,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,12.75,509166,NA,NA,0,Arizona,NA,96
+2009-10,2009-12-31,914588,619,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-31,914588,620,0,2,USC,Arizona,Trojans,Wildcats,3,0,56,50,6,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,NA

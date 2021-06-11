@@ -1,0 +1,230 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-12,994522,1,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,NA
+2010-11,2011-02-12,994522,6,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,0,0,0,1668,UCLA,2380,1180,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.799999999999997,18.450000000000003,457569,NA,NA,0,UCLA,Oregon State,1
+2010-11,2011-02-12,994522,7,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,0,2,-2,1563,Oregon State,2349,1149,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395381,NA,NA,0,Oregon State,UCLA,2
+2010-11,2011-02-12,994522,8,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1668,UCLA,2312,1112,37, makes a 3-point jump shot from 20 feet out.,made,FALSE,TRUE,Jump Shot,5.5,10.049999999999997,457569,NA,NA,0,UCLA,Oregon State,3
+2010-11,2011-02-12,994522,9,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1563,Oregon State,2279,1079,33, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,12.05,553543,NA,NA,0,Oregon State,Oregon State,4
+2010-11,2011-02-12,994522,10,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1563,Oregon State,2263,1063,16, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,20.2,6.75,513337,NA,NA,0,Oregon State,UCLA,4
+2010-11,2011-02-12,994522,20,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1668,UCLA,2214,1014,49, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,19.549999999999997,457569,NA,NA,0,UCLA,Oregon State,5
+2010-11,2011-02-12,994522,22,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1563,Oregon State,2202,1002,12, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,23.05,553540,NA,NA,0,Oregon State,Oregon State,6
+2010-11,2011-02-12,994522,23,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1668,UCLA,2202,1002,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,6
+2010-11,2011-02-12,994522,26,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,3,2,1,1563,Oregon State,2182,982,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395381,NA,NA,0,Oregon State,UCLA,6
+2010-11,2011-02-12,994522,27,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,6,2,4,1668,UCLA,2170,970,12, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,37.2,25.549999999999997,513492,NA,NA,0,UCLA,Oregon State,7
+2010-11,2011-02-12,994522,32,0,1,UCLA,Oregon State,Bruins,Beavers,4,4,8,2,6,1668,UCLA,2144,944,26, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Oregon State,8
+2010-11,2011-02-12,994522,34,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,2,6,1563,Oregon State,2142,942,2,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,36,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,2,6,1563,Oregon State,2134,934,8, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,12.45,553540,NA,NA,0,Oregon State,Oregon State,9
+2010-11,2011-02-12,994522,40,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,2,6,1668,UCLA,2122,922,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,9
+2010-11,2011-02-12,994522,41,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,2,6,NA,NA,2122,922,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,42,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,3,5,1563,Oregon State,2122,922,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,9
+2010-11,2011-02-12,994522,43,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,4,4,1563,Oregon State,2122,922,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,9
+2010-11,2011-02-12,994522,45,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,4,4,1563,Oregon State,2075,875,47, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,7.15,513337,NA,NA,0,Oregon State,UCLA,10
+2010-11,2011-02-12,994522,47,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,4,4,1668,UCLA,2060,860,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,6.650000000000006,513482,NA,NA,0,UCLA,Oregon State,11
+2010-11,2011-02-12,994522,59,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,6,2,1563,Oregon State,2038,838,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553543,NA,NA,0,Oregon State,Oregon State,12
+2010-11,2011-02-12,994522,61,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,6,2,1668,UCLA,2038,838,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,12
+2010-11,2011-02-12,994522,62,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,6,2,1563,Oregon State,2038,838,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,12
+2010-11,2011-02-12,994522,64,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,8,6,2,1668,UCLA,2020,820,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,14.349999999999994,513492,NA,NA,0,UCLA,UCLA,13
+2010-11,2011-02-12,994522,73,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1668,UCLA,1998,798,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513490,NA,NA,0,UCLA,Oregon State,13
+2010-11,2011-02-12,994522,75,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1563,Oregon State,1980,780,18, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,20.75,513339,NA,NA,0,Oregon State,Oregon State,14
+2010-11,2011-02-12,994522,79,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1563,Oregon State,1971,771,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329973,NA,NA,0,Oregon State,UCLA,14
+2010-11,2011-02-12,994522,80,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1563,Oregon State,1968,768,3,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,15
+2010-11,2011-02-12,994522,87,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1668,UCLA,1938,738,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,15
+2010-11,2011-02-12,994522,90,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,10,6,4,1563,Oregon State,1936,736,2,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,15
+2010-11,2011-02-12,994522,91,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,11,6,5,1668,UCLA,1936,736,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,15
+2010-11,2011-02-12,994522,92,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,12,6,6,1668,UCLA,1936,736,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,15
+2010-11,2011-02-12,994522,95,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,12,6,6,1668,UCLA,1934,734,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,Oregon State,16
+2010-11,2011-02-12,994522,97,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,12,6,6,1563,Oregon State,1924,724,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20,8.75,395380,NA,NA,0,Oregon State,UCLA,17
+2010-11,2011-02-12,994522,98,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,12,6,6,1668,UCLA,1904,704,20, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,17.650000000000006,457571,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-02-12,994522,100,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,12,6,6,1668,UCLA,1897,697,7, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5,7.950000000000003,513490,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-02-12,994522,102,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,14,6,8,1668,UCLA,1896,696,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513492,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-02-12,994522,103,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,14,6,8,1563,Oregon State,1896,696,0,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-02-12,994522,104,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,14,6,8,NA,NA,1896,696,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,105,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,15,6,9,1668,UCLA,1896,696,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,18
+2010-11,2011-02-12,994522,107,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,17,6,11,1668,UCLA,1874,674,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513490,NA,NA,0,UCLA,Oregon State,19
+2010-11,2011-02-12,994522,110,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,17,6,11,1563,Oregon State,1849,649,25, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,8.75,329973,NA,NA,0,Oregon State,Oregon State,20
+2010-11,2011-02-12,994522,112,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,17,6,11,1563,Oregon State,1848,648,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553543,NA,NA,0,Oregon State,UCLA,20
+2010-11,2011-02-12,994522,114,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,17,6,11,1563,Oregon State,1847,647,1,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2010-11,2011-02-12,994522,118,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,17,6,11,1563,Oregon State,1821,621,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553543,NA,NA,0,Oregon State,UCLA,21
+2010-11,2011-02-12,994522,119,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,19,6,13,1668,UCLA,1813,613,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Oregon State,22
+2010-11,2011-02-12,994522,125,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,19,6,13,1668,UCLA,1751,551,62, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,23
+2010-11,2011-02-12,994522,126,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,21,6,15,1668,UCLA,1747,547,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Oregon State,23
+2010-11,2011-02-12,994522,127,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,21,6,15,1563,Oregon State,1732,532,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,15.8,25.95,513339,NA,NA,0,Oregon State,UCLA,24
+2010-11,2011-02-12,994522,129,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,21,6,15,1668,UCLA,1723,523,9,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,25
+2010-11,2011-02-12,994522,136,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,23,6,17,1668,UCLA,1687,487,36, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551822,NA,NA,0,UCLA,UCLA,26
+2010-11,2011-02-12,994522,137,0,1,UCLA,Oregon State,Bruins,Beavers,4,3,23,6,17,1563,Oregon State,1687,487,0,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,26
+2010-11,2011-02-12,994522,138,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,23,6,17,1563,Oregon State,1687,487,0,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,139,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,6,18,1668,UCLA,1687,487,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,26
+2010-11,2011-02-12,994522,143,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,6,18,1563,Oregon State,1667,467,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21,9.15,513339,NA,NA,0,Oregon State,Oregon State,27
+2010-11,2011-02-12,994522,144,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,6,18,1563,Oregon State,1662,462,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457356,NA,NA,0,Oregon State,Oregon State,27
+2010-11,2011-02-12,994522,145,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,8,16,1563,Oregon State,1658,458,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,553543,NA,NA,0,Oregon State,UCLA,27
+2010-11,2011-02-12,994522,151,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,8,16,NA,NA,1641,441,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,154,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,10,14,1563,Oregon State,1626,426,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457356,NA,NA,0,Oregon State,UCLA,28
+2010-11,2011-02-12,994522,161,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,10,14,1563,Oregon State,1595,395,31, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,8.55,553540,NA,NA,0,Oregon State,Oregon State,29
+2010-11,2011-02-12,994522,163,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,10,14,1563,Oregon State,1594,394,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553543,NA,NA,0,Oregon State,Oregon State,29
+2010-11,2011-02-12,994522,165,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,24,13,11,1563,Oregon State,1586,386,8, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,20.3,30.95,553540,NA,NA,0,Oregon State,UCLA,29
+2010-11,2011-02-12,994522,169,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,26,13,13,1668,UCLA,1559,359,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Oregon State,30
+2010-11,2011-02-12,994522,170,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,26,15,11,1563,Oregon State,1547,347,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513339,NA,NA,0,Oregon State,UCLA,31
+2010-11,2011-02-12,994522,172,0,1,UCLA,Oregon State,Bruins,Beavers,4,2,26,17,9,1563,Oregon State,1535,335,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513339,NA,NA,0,Oregon State,UCLA,32
+2010-11,2011-02-12,994522,175,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1668,UCLA,1533,333,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,191,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1563,Oregon State,1479,279,54, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,7.55,513339,NA,NA,0,Oregon State,UCLA,33
+2010-11,2011-02-12,994522,193,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1563,Oregon State,1472,272,7,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,34
+2010-11,2011-02-12,994522,194,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1668,UCLA,1472,272,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,34
+2010-11,2011-02-12,994522,195,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1668,UCLA,1472,272,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,34
+2010-11,2011-02-12,994522,199,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1563,Oregon State,1460,260,12, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,12.95,553540,NA,NA,0,Oregon State,UCLA,35
+2010-11,2011-02-12,994522,203,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1668,UCLA,1438,238,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,20.5,29.450000000000003,513492,NA,NA,0,UCLA,Oregon State,36
+2010-11,2011-02-12,994522,205,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1563,Oregon State,1426,226,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553540,NA,NA,0,Oregon State,Oregon State,37
+2010-11,2011-02-12,994522,207,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,NA,NA,1425,225,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,208,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,17,9,1668,UCLA,1425,225,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,37
+2010-11,2011-02-12,994522,210,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,19,7,1563,Oregon State,1415,215,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513337,NA,NA,0,Oregon State,UCLA,37
+2010-11,2011-02-12,994522,223,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,19,7,1668,UCLA,1382,182,33, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,20.349999999999994,457569,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-02-12,994522,224,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,26,19,7,1563,Oregon State,1379,179,3,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-02-12,994522,225,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,27,19,8,1668,UCLA,1379,179,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-02-12,994522,226,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,19,9,1668,UCLA,1379,179,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,38
+2010-11,2011-02-12,994522,231,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,19,9,1563,Oregon State,1365,165,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513339,NA,NA,0,Oregon State,Oregon State,39
+2010-11,2011-02-12,994522,232,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,19,9,1563,Oregon State,1359,159,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553543,NA,NA,0,Oregon State,Oregon State,39
+2010-11,2011-02-12,994522,233,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,21,7,1563,Oregon State,1359,159,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553543,NA,NA,0,Oregon State,Oregon State,39
+2010-11,2011-02-12,994522,234,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,21,7,1668,UCLA,1359,159,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,39
+2010-11,2011-02-12,994522,235,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,22,6,1563,Oregon State,1359,159,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,39
+2010-11,2011-02-12,994522,241,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,22,6,1563,Oregon State,1315,115,44, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,24.35,395380,NA,NA,0,Oregon State,UCLA,40
+2010-11,2011-02-12,994522,244,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,28,22,6,1563,Oregon State,1308,108,7,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2010-11,2011-02-12,994522,245,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,29,22,7,1668,UCLA,1308,108,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2010-11,2011-02-12,994522,246,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,29,22,7,1668,UCLA,1308,108,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,41
+2010-11,2011-02-12,994522,249,0,1,UCLA,Oregon State,Bruins,Beavers,3,2,29,22,7,1563,Oregon State,1299,99,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513339,NA,NA,0,Oregon State,Oregon State,42
+2010-11,2011-02-12,994522,252,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,22,7,1563,Oregon State,1290,90,9,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,254,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,22,7,1563,Oregon State,1288,88,2, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,8.35,513342,NA,NA,0,Oregon State,Oregon State,42
+2010-11,2011-02-12,994522,255,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,24,5,1563,Oregon State,1277,77,11, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28.2,7.95,513337,NA,NA,0,Oregon State,UCLA,42
+2010-11,2011-02-12,994522,261,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,24,5,1668,UCLA,1205,5,72,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,43
+2010-11,2011-02-12,994522,263,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,24,5,1563,Oregon State,1201,1,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513339,NA,NA,0,Oregon State,Oregon State,44
+2010-11,2011-02-12,994522,264,0,1,UCLA,Oregon State,Bruins,Beavers,3,1,29,24,5,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,265,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,24,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Oregon State,44
+2010-11,2011-02-12,994522,269,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,24,5,1668,UCLA,1188,1188,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,45
+2010-11,2011-02-12,994522,270,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,24,5,1563,Oregon State,1188,1188,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,45
+2010-11,2011-02-12,994522,271,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,25,4,1563,Oregon State,1188,1188,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,45
+2010-11,2011-02-12,994522,273,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,25,4,1668,UCLA,1170,1170,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,23.049999999999997,457571,NA,NA,0,UCLA,Oregon State,46
+2010-11,2011-02-12,994522,275,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,29,25,4,1563,Oregon State,1137,1137,33, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,18,21.65,553540,NA,NA,0,Oregon State,UCLA,47
+2010-11,2011-02-12,994522,276,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,31,25,6,1668,UCLA,1132,1132,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,UCLA,48
+2010-11,2011-02-12,994522,284,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,31,25,6,1563,Oregon State,1094,1094,38,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,48
+2010-11,2011-02-12,994522,285,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,32,25,7,1668,UCLA,1094,1094,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,48
+2010-11,2011-02-12,994522,286,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,32,25,7,1668,UCLA,1094,1094,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,48
+2010-11,2011-02-12,994522,290,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,32,25,7,1563,Oregon State,1076,1076,18, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,7.55,553543,NA,NA,0,Oregon State,UCLA,49
+2010-11,2011-02-12,994522,291,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,34,25,9,1668,UCLA,1071,1071,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Oregon State,50
+2010-11,2011-02-12,994522,293,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,34,27,7,1563,Oregon State,1036,1036,35, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25.2,11.05,553543,NA,NA,0,Oregon State,UCLA,51
+2010-11,2011-02-12,994522,295,0,2,UCLA,Oregon State,Bruins,Beavers,4,4,36,27,9,1668,UCLA,1001,1001,35, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Oregon State,52
+2010-11,2011-02-12,994522,297,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1563,Oregon State,996,996,5,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,308,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1668,UCLA,965,965,31,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,53
+2010-11,2011-02-12,994522,312,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1563,Oregon State,945,945,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,10.65,513339,NA,NA,0,Oregon State,UCLA,54
+2010-11,2011-02-12,994522,313,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1563,Oregon State,943,943,2,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2010-11,2011-02-12,994522,314,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,NA,NA,943,943,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,328,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1563,Oregon State,926,926,17,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2010-11,2011-02-12,994522,330,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1668,UCLA,909,909,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9,20.950000000000003,513492,NA,NA,0,UCLA,UCLA,55
+2010-11,2011-02-12,994522,331,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1668,UCLA,903,903,6, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21,12.25,513492,NA,NA,0,UCLA,Oregon State,55
+2010-11,2011-02-12,994522,333,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1668,UCLA,878,878,25,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,56
+2010-11,2011-02-12,994522,337,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,27,9,1563,Oregon State,875,875,3,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,56
+2010-11,2011-02-12,994522,342,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,29,7,1563,Oregon State,839,839,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513337,NA,NA,0,Oregon State,UCLA,56
+2010-11,2011-02-12,994522,343,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,29,7,1668,UCLA,814,814,25, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5,7.950000000000003,457571,NA,NA,0,UCLA,Oregon State,57
+2010-11,2011-02-12,994522,345,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,29,7,1563,Oregon State,808,808,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,10.25,395380,NA,NA,0,Oregon State,UCLA,58
+2010-11,2011-02-12,994522,350,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,29,7,1563,Oregon State,784,784,24,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2010-11,2011-02-12,994522,358,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,36,29,7,1563,Oregon State,765,765,19,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2010-11,2011-02-12,994522,360,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,38,29,9,1668,UCLA,763,763,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457569,NA,NA,0,UCLA,Oregon State,59
+2010-11,2011-02-12,994522,366,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,38,29,9,1563,Oregon State,739,739,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,22,27.85,513342,NA,NA,0,Oregon State,UCLA,60
+2010-11,2011-02-12,994522,367,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,29,12,1668,UCLA,722,722,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,40.7,19.349999999999994,551819,NA,NA,0,UCLA,Oregon State,61
+2010-11,2011-02-12,994522,369,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,29,12,1563,Oregon State,706,706,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513342,NA,NA,0,Oregon State,Oregon State,62
+2010-11,2011-02-12,994522,371,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,29,12,1668,UCLA,704,704,2,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,62
+2010-11,2011-02-12,994522,372,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,29,12,NA,NA,704,704,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,373,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,29,12,1563,Oregon State,704,704,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,62
+2010-11,2011-02-12,994522,374,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,30,11,1563,Oregon State,704,704,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,62
+2010-11,2011-02-12,994522,381,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,41,30,11,1668,UCLA,679,679,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,19.549999999999997,551818,NA,NA,0,UCLA,UCLA,63
+2010-11,2011-02-12,994522,382,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,44,30,14,1668,UCLA,661,661,18, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.799999999999997,23.650000000000006,551818,NA,NA,0,UCLA,Oregon State,63
+2010-11,2011-02-12,994522,383,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,44,33,11,1563,Oregon State,641,641,20, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,21.3,27.15,395380,NA,NA,0,Oregon State,UCLA,64
+2010-11,2011-02-12,994522,386,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,44,33,11,1563,Oregon State,625,625,16,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2010-11,2011-02-12,994522,387,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,44,33,11,1668,UCLA,625,625,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2010-11,2011-02-12,994522,388,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,45,33,12,1668,UCLA,625,625,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,65
+2010-11,2011-02-12,994522,393,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,45,33,12,1563,Oregon State,612,612,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,19.95,395380,NA,NA,0,Oregon State,UCLA,66
+2010-11,2011-02-12,994522,394,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,45,33,12,1563,Oregon State,611,611,1,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,67
+2010-11,2011-02-12,994522,395,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,45,33,12,1563,Oregon State,611,611,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,994522,396,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,33,13,1668,UCLA,611,611,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,67
+2010-11,2011-02-12,994522,397,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,33,13,1668,UCLA,611,611,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,68
+2010-11,2011-02-12,994522,399,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,33,13,1668,UCLA,590,590,21, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,19.349999999999994,457571,NA,NA,0,UCLA,Oregon State,68
+2010-11,2011-02-12,994522,401,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,33,13,1668,UCLA,582,582,8,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,69
+2010-11,2011-02-12,994522,402,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,34,12,1563,Oregon State,582,582,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,69
+2010-11,2011-02-12,994522,403,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,34,12,1563,Oregon State,582,582,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,69
+2010-11,2011-02-12,994522,406,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,46,34,12,1563,Oregon State,567,567,15,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2010-11,2011-02-12,994522,407,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,47,34,13,1668,UCLA,567,567,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2010-11,2011-02-12,994522,408,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,48,34,14,1668,UCLA,567,567,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,70
+2010-11,2011-02-12,994522,413,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,48,34,14,1563,Oregon State,551,551,16, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,6.95,329973,NA,NA,0,Oregon State,UCLA,71
+2010-11,2011-02-12,994522,421,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,50,34,16,1668,UCLA,520,520,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,UCLA,72
+2010-11,2011-02-12,994522,422,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,50,34,16,1563,Oregon State,520,520,0,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,72
+2010-11,2011-02-12,994522,423,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,51,34,17,1668,UCLA,520,520,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,72
+2010-11,2011-02-12,994522,425,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,51,34,17,1563,Oregon State,503,503,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457356,NA,NA,0,Oregon State,Oregon State,73
+2010-11,2011-02-12,994522,426,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,51,34,17,1563,Oregon State,475,475,28, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,8.75,553540,NA,NA,0,Oregon State,UCLA,73
+2010-11,2011-02-12,994522,428,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,51,34,17,1668,UCLA,468,468,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,UCLA,74
+2010-11,2011-02-12,994522,430,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,51,34,17,NA,NA,467,467,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,433,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,53,34,19,1668,UCLA,459,459,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513492,NA,NA,0,UCLA,Oregon State,74
+2010-11,2011-02-12,994522,435,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,53,34,19,1668,UCLA,442,442,17,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,75
+2010-11,2011-02-12,994522,438,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,53,34,19,1563,Oregon State,434,434,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,35.3,18.25,513339,NA,NA,0,Oregon State,UCLA,75
+2010-11,2011-02-12,994522,440,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,53,34,19,1563,Oregon State,433,433,1,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,76
+2010-11,2011-02-12,994522,441,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,54,34,20,1668,UCLA,433,433,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,76
+2010-11,2011-02-12,994522,442,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,54,34,20,1668,UCLA,433,433,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,77
+2010-11,2011-02-12,994522,448,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,54,34,20,1563,Oregon State,416,416,17,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,77
+2010-11,2011-02-12,994522,449,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,55,34,21,1668,UCLA,416,416,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,77
+2010-11,2011-02-12,994522,450,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,56,34,22,1668,UCLA,416,416,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,77
+2010-11,2011-02-12,994522,454,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,56,34,22,1563,Oregon State,399,399,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,5.85,513342,NA,NA,0,Oregon State,Oregon State,78
+2010-11,2011-02-12,994522,456,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,56,37,19,1563,Oregon State,390,390,9, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,32.5,29.85,513342,NA,NA,0,Oregon State,UCLA,78
+2010-11,2011-02-12,994522,459,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,56,39,17,1563,Oregon State,372,372,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513339,NA,NA,0,Oregon State,Oregon State,79
+2010-11,2011-02-12,994522,460,0,2,UCLA,Oregon State,Bruins,Beavers,4,3,56,39,17,1668,UCLA,372,372,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,79
+2010-11,2011-02-12,994522,462,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,56,39,17,1668,UCLA,372,372,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,463,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,56,39,17,1563,Oregon State,372,372,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,79
+2010-11,2011-02-12,994522,468,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,56,39,17,1563,Oregon State,366,366,6,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,80
+2010-11,2011-02-12,994522,469,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,57,39,18,1668,UCLA,366,366,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,80
+2010-11,2011-02-12,994522,470,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,58,39,19,1668,UCLA,366,366,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,80
+2010-11,2011-02-12,994522,472,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,58,41,17,1563,Oregon State,358,358,8, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,14.7,14.95,553540,NA,NA,0,Oregon State,UCLA,81
+2010-11,2011-02-12,994522,476,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,58,41,17,1563,Oregon State,344,344,14,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-02-12,994522,477,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,59,41,18,1668,UCLA,344,344,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-02-12,994522,478,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,60,41,19,1668,UCLA,344,344,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,82
+2010-11,2011-02-12,994522,483,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,60,41,19,1668,UCLA,332,332,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,83
+2010-11,2011-02-12,994522,484,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,60,41,19,1563,Oregon State,332,332,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,83
+2010-11,2011-02-12,994522,485,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,60,42,18,1563,Oregon State,332,332,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,83
+2010-11,2011-02-12,994522,488,0,2,UCLA,Oregon State,Bruins,Beavers,3,3,60,44,16,1563,Oregon State,324,324,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513339,NA,NA,0,Oregon State,UCLA,84
+2010-11,2011-02-12,994522,490,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,44,16,1563,Oregon State,322,322,2,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,497,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,44,16,1668,UCLA,290,290,32, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,18.8,7.150000000000006,551819,NA,NA,0,UCLA,Oregon State,85
+2010-11,2011-02-12,994522,500,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,44,16,1563,Oregon State,280,280,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553540,NA,NA,0,Oregon State,Oregon State,86
+2010-11,2011-02-12,994522,501,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,44,16,1668,UCLA,280,280,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,86
+2010-11,2011-02-12,994522,502,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,45,15,1563,Oregon State,280,280,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,86
+2010-11,2011-02-12,994522,503,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,46,14,1563,Oregon State,280,280,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,86
+2010-11,2011-02-12,994522,507,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,46,14,1563,Oregon State,265,265,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553541,NA,NA,0,Oregon State,Oregon State,87
+2010-11,2011-02-12,994522,511,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,46,14,1563,Oregon State,263,263,2,Offensive foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,87
+2010-11,2011-02-12,994522,513,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,48,12,1563,Oregon State,255,255,8, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,29,9.55,553541,NA,NA,0,Oregon State,UCLA,88
+2010-11,2011-02-12,994522,515,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,48,12,1668,UCLA,235,235,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,89
+2010-11,2011-02-12,994522,518,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,48,12,1563,Oregon State,219,219,16,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2010-11,2011-02-12,994522,519,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,48,12,NA,NA,219,219,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,521,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,60,48,12,1668,UCLA,219,219,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2010-11,2011-02-12,994522,522,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1668,UCLA,219,219,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,89
+2010-11,2011-02-12,994522,526,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1563,Oregon State,212,212,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553540,NA,NA,0,Oregon State,Oregon State,90
+2010-11,2011-02-12,994522,528,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1563,Oregon State,209,209,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,10.45,513342,NA,NA,0,Oregon State,Oregon State,90
+2010-11,2011-02-12,994522,535,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1563,Oregon State,198,198,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,7.95,513339,NA,NA,0,Oregon State,Oregon State,90
+2010-11,2011-02-12,994522,537,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1563,Oregon State,194,194,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,11.05,395380,NA,NA,0,Oregon State,UCLA,90
+2010-11,2011-02-12,994522,541,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1563,Oregon State,170,170,24,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,91
+2010-11,2011-02-12,994522,542,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,61,48,13,1668,UCLA,170,170,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,91
+2010-11,2011-02-12,994522,543,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,62,48,14,1668,UCLA,170,170,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,91
+2010-11,2011-02-12,994522,545,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,62,50,12,1563,Oregon State,165,165,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,553541,NA,NA,0,Oregon State,UCLA,92
+2010-11,2011-02-12,994522,550,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,64,50,14,1668,UCLA,130,130,35, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Oregon State,93
+2010-11,2011-02-12,994522,552,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,64,50,14,1563,Oregon State,121,121,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8,19.15,513339,NA,NA,0,Oregon State,UCLA,94
+2010-11,2011-02-12,994522,558,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,64,50,14,1563,Oregon State,108,108,13,Shooting foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2011-02-12,994522,559,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,65,50,15,1668,UCLA,108,108,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2011-02-12,994522,560,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,66,50,16,1668,UCLA,108,108,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,95
+2010-11,2011-02-12,994522,567,0,2,UCLA,Oregon State,Bruins,Beavers,3,2,66,52,14,1563,Oregon State,99,99,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513342,NA,NA,0,Oregon State,UCLA,96
+2010-11,2011-02-12,994522,568,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,66,52,14,1563,Oregon State,97,97,2,Beavers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,571,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,66,52,14,1563,Oregon State,87,87,10,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,97
+2010-11,2011-02-12,994522,572,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,67,52,15,1668,UCLA,87,87,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,97
+2010-11,2011-02-12,994522,573,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,52,16,1668,UCLA,87,87,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,97
+2010-11,2011-02-12,994522,578,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,52,16,1563,Oregon State,66,66,21, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,7.55,513342,NA,NA,0,Oregon State,Oregon State,98
+2010-11,2011-02-12,994522,581,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,54,14,1563,Oregon State,58,58,8, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,24.5,10.85,513342,NA,NA,0,Oregon State,UCLA,98
+2010-11,2011-02-12,994522,583,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,56,12,1563,Oregon State,51,51,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395380,NA,NA,0,Oregon State,Oregon State,99
+2010-11,2011-02-12,994522,591,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,56,12,1668,UCLA,43,43,8,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,99
+2010-11,2011-02-12,994522,592,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,57,11,1563,Oregon State,43,43,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,Oregon State,99
+2010-11,2011-02-12,994522,593,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,58,10,1563,Oregon State,43,43,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon State,UCLA,99
+2010-11,2011-02-12,994522,599,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,68,58,10,1563,Oregon State,31,31,12,Personal foul committed by Beavers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2010-11,2011-02-12,994522,600,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,69,58,11,1668,UCLA,31,31,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2010-11,2011-02-12,994522,601,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,69,58,11,1668,UCLA,31,31,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Oregon State,100
+2010-11,2011-02-12,994522,604,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,69,61,8,1563,Oregon State,23,23,8, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,41.8,25.35,513342,NA,NA,0,Oregon State,UCLA,101
+2010-11,2011-02-12,994522,613,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,69,61,8,NA,NA,0,0,23,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,994522,614,0,2,UCLA,Oregon State,Bruins,Beavers,3,1,69,61,8,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

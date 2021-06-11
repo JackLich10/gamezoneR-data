@@ -1,0 +1,281 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-27,918173,1,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Butler,NA
+2009-10,2009-11-27,918173,4,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,0,0,0,1668,UCLA,2379,1179,21,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,1
+2009-10,2009-11-27,918173,5,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,1,0,1,1324,Butler,2379,1179,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,1
+2009-10,2009-11-27,918173,6,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,2,0,2,1324,Butler,2379,1179,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,1
+2009-10,2009-11-27,918173,9,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,2,0,2,1668,UCLA,2357,1157,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.2,24.75,329828,NA,NA,0,UCLA,UCLA,2
+2009-10,2009-11-27,918173,10,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,2,0,2,1324,Butler,2357,1157,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,2
+2009-10,2009-11-27,918173,12,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,2,0,2,1324,Butler,2345,1145,12, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,12.25,477669,NA,NA,0,Butler,Butler,3
+2009-10,2009-11-27,918173,13,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,2,0,2,1324,Butler,2345,1145,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,3
+2009-10,2009-11-27,918173,14,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,3,0,3,1324,Butler,2345,1145,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,3
+2009-10,2009-11-27,918173,14.5,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,3,0,3,1668,UCLA,2345,1145,0, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7,16.05,513490,NA,NA,0,UCLA,UCLA,3
+2009-10,2009-11-27,918173,14.75,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,3,0,3,1324,Butler,2345,1145,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,3
+2009-10,2009-11-27,918173,15,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,0,4,1324,Butler,2345,1145,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,4
+2009-10,2009-11-27,918173,16,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,0,4,1668,UCLA,2345,1145,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,4
+2009-10,2009-11-27,918173,27,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1668,UCLA,2293,1093,52, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457568,NA,NA,0,UCLA,Butler,4
+2009-10,2009-11-27,918173,28,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1324,Butler,2267,1067,26, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,8.349999999999994,477667,NA,NA,0,Butler,Butler,5
+2009-10,2009-11-27,918173,29,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1324,Butler,2267,1067,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,5
+2009-10,2009-11-27,918173,35,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1668,UCLA,2222,1022,45, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,7.35,457568,NA,NA,0,UCLA,UCLA,5
+2009-10,2009-11-27,918173,36,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1668,UCLA,2222,1022,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2009-10,2009-11-27,918173,37,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1668,UCLA,2219,1019,3, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,8.35,329828,NA,NA,0,UCLA,UCLA,5
+2009-10,2009-11-27,918173,38,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1324,Butler,2219,1019,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,5
+2009-10,2009-11-27,918173,40,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1324,Butler,2210,1010,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12.799999999999997,27.150000000000006,477667,NA,NA,0,Butler,Butler,6
+2009-10,2009-11-27,918173,41,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1668,UCLA,2210,1010,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,6
+2009-10,2009-11-27,918173,42,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,2,2,1324,Butler,2210,1010,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,7
+2009-10,2009-11-27,918173,44,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,4,4,0,1668,UCLA,2207,1007,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295435,NA,NA,0,UCLA,Butler,7
+2009-10,2009-11-27,918173,47,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,6,4,2,1324,Butler,2192,992,15, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,7.299999999999997,10.650000000000006,477670,NA,NA,0,Butler,UCLA,8
+2009-10,2009-11-27,918173,48,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,6,6,0,1668,UCLA,2177,977,15, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,31.5,5.65,457568,NA,NA,0,UCLA,Butler,9
+2009-10,2009-11-27,918173,50,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,6,6,0,1324,Butler,2148,948,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.200000000000003,13.950000000000003,477670,NA,NA,0,Butler,Butler,10
+2009-10,2009-11-27,918173,53,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,6,6,0,NA,NA,2147,947,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,55,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1324,Butler,2140,940,7, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,34.2,28.450000000000003,401057,NA,NA,0,Butler,UCLA,10
+2009-10,2009-11-27,918173,62,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2116,916,24,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-11-27,918173,63,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1324,Butler,2116,916,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,11
+2009-10,2009-11-27,918173,65,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2105,905,11, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,12.45,295435,NA,NA,0,UCLA,UCLA,11
+2009-10,2009-11-27,918173,66,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1324,Butler,2105,905,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,11
+2009-10,2009-11-27,918173,70,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1324,Butler,2093,893,12,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,12
+2009-10,2009-11-27,918173,73,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2085,885,8, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,23.45,295435,NA,NA,0,UCLA,UCLA,13
+2009-10,2009-11-27,918173,74,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2085,885,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,13
+2009-10,2009-11-27,918173,77,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2075,875,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,25.95,457569,NA,NA,0,UCLA,UCLA,13
+2009-10,2009-11-27,918173,78,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,6,3,1668,UCLA,2075,875,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,13
+2009-10,2009-11-27,918173,97,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,9,8,1,1668,UCLA,2027,827,48, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Butler,13
+2009-10,2009-11-27,918173,99,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,11,8,3,1324,Butler,2007,807,20, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,29.3,22.849999999999994,477669,NA,NA,0,Butler,UCLA,14
+2009-10,2009-11-27,918173,102,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,8,6,1324,Butler,1969,769,38, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26.8,28.849999999999994,330417,NA,NA,0,Butler,UCLA,15
+2009-10,2009-11-27,918173,105,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,8,6,1324,Butler,1949,749,20,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,16
+2009-10,2009-11-27,918173,107,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,8,6,1668,UCLA,1949,749,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,16
+2009-10,2009-11-27,918173,110,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,9,5,1668,UCLA,1949,749,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,16
+2009-10,2009-11-27,918173,113,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,9,5,1324,Butler,1929,729,20,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,17
+2009-10,2009-11-27,918173,118,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,14,11,3,1668,UCLA,1919,719,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,350583,NA,NA,0,UCLA,Butler,18
+2009-10,2009-11-27,918173,119,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,16,11,5,1324,Butler,1893,693,26, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.8,9.849999999999994,401057,NA,NA,0,Butler,UCLA,19
+2009-10,2009-11-27,918173,122,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,16,11,5,1668,UCLA,1875,675,18,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,20
+2009-10,2009-11-27,918173,123,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,16,11,5,NA,NA,1875,675,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,125,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1324,Butler,1855,655,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.799999999999997,9.549999999999997,477667,NA,NA,0,Butler,UCLA,21
+2009-10,2009-11-27,918173,126,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1837,637,18, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,20.5,10.45,457568,NA,NA,0,UCLA,UCLA,22
+2009-10,2009-11-27,918173,127,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1324,Butler,1837,637,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,22
+2009-10,2009-11-27,918173,129,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1800,600,37, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,9.35,457568,NA,NA,0,UCLA,UCLA,23
+2009-10,2009-11-27,918173,130,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1324,Butler,1800,600,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,23
+2009-10,2009-11-27,918173,131,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1787,587,13,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,24
+2009-10,2009-11-27,918173,133,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1324,Butler,1784,584,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,24
+2009-10,2009-11-27,918173,134,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1784,584,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,24
+2009-10,2009-11-27,918173,135,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1778,578,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457568,NA,NA,0,UCLA,UCLA,25
+2009-10,2009-11-27,918173,136,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1778,578,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2009-10,2009-11-27,918173,138,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1761,561,17, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21,12.25,513482,NA,NA,0,UCLA,UCLA,25
+2009-10,2009-11-27,918173,139,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1324,Butler,1761,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,25
+2009-10,2009-11-27,918173,144,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,19,11,8,1668,UCLA,1754,554,7,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,26
+2009-10,2009-11-27,918173,145,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,20,11,9,1324,Butler,1754,554,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,26
+2009-10,2009-11-27,918173,146,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,21,11,10,1324,Butler,1754,554,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,26
+2009-10,2009-11-27,918173,148,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,21,14,7,1668,UCLA,1740,540,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.2,21.45,350583,NA,NA,0,UCLA,Butler,27
+2009-10,2009-11-27,918173,150,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,23,14,9,1324,Butler,1722,522,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Butler,28
+2009-10,2009-11-27,918173,151,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,23,14,9,1668,UCLA,1722,522,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,28
+2009-10,2009-11-27,918173,152,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,24,14,10,1324,Butler,1722,522,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,28
+2009-10,2009-11-27,918173,155,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,24,16,8,1668,UCLA,1711,511,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8.5,8.35,350583,NA,NA,0,UCLA,Butler,29
+2009-10,2009-11-27,918173,156,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,27,16,11,1324,Butler,1699,499,12, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,39.8,23.849999999999994,477669,NA,NA,0,Butler,UCLA,30
+2009-10,2009-11-27,918173,160,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,27,16,11,1668,UCLA,1673,473,26, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,9.35,513482,NA,NA,0,UCLA,UCLA,31
+2009-10,2009-11-27,918173,161,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,27,16,11,1324,Butler,1673,473,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,31
+2009-10,2009-11-27,918173,163,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,27,16,11,1324,Butler,1660,460,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36,25.75,477667,NA,NA,0,Butler,Butler,32
+2009-10,2009-11-27,918173,164,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,27,16,11,1324,Butler,1660,460,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,32
+2009-10,2009-11-27,918173,165,1,1,Butler,UCLA,Bulldogs,Bruins,4,4,30,16,14,1324,Butler,1656,456,4, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,23.5,28.849999999999994,477669,NA,NA,0,Butler,UCLA,32
+2009-10,2009-11-27,918173,167,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,16,14,1668,UCLA,1655,455,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,173,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,16,14,1324,Butler,1641,441,14,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2009-10,2009-11-27,918173,174,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,16,14,NA,NA,1641,441,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,176,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,16,14,1668,UCLA,1641,441,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2009-10,2009-11-27,918173,179,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,17,13,1668,UCLA,1641,441,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,33
+2009-10,2009-11-27,918173,182,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,20,10,1668,UCLA,1616,416,25, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.2,30.35,457569,NA,NA,0,UCLA,Butler,34
+2009-10,2009-11-27,918173,183,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,20,10,1324,Butler,1579,379,37, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,8.150000000000006,339496,NA,NA,0,Butler,Butler,35
+2009-10,2009-11-27,918173,184,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,20,10,1668,UCLA,1579,379,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,35
+2009-10,2009-11-27,918173,186,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,20,10,1668,UCLA,1571,371,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,UCLA,36
+2009-10,2009-11-27,918173,187,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,20,10,1668,UCLA,1571,371,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2009-10,2009-11-27,918173,188,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,22,8,1668,UCLA,1571,371,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457568,NA,NA,0,UCLA,UCLA,36
+2009-10,2009-11-27,918173,189,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,22,8,1324,Butler,1571,371,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2009-10,2009-11-27,918173,190,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,22,8,1668,UCLA,1571,371,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2009-10,2009-11-27,918173,191,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,22,8,1324,Butler,1571,371,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,36
+2009-10,2009-11-27,918173,199,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,30,22,8,1668,UCLA,1546,346,25,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,37
+2009-10,2009-11-27,918173,201,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,31,22,9,1324,Butler,1546,346,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,37
+2009-10,2009-11-27,918173,202,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1324,Butler,1546,346,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,38
+2009-10,2009-11-27,918173,206,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1324,Butler,1537,337,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-27,918173,209,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1668,UCLA,1534,334,3,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,39
+2009-10,2009-11-27,918173,215,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1324,Butler,1507,307,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.849999999999994,339496,NA,NA,0,Butler,Butler,40
+2009-10,2009-11-27,918173,216,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1668,UCLA,1507,307,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,40
+2009-10,2009-11-27,918173,218,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1668,UCLA,1499,299,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,29.25,457569,NA,NA,0,UCLA,UCLA,41
+2009-10,2009-11-27,918173,219,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,22,10,1668,UCLA,1499,299,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2009-10,2009-11-27,918173,220,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,24,8,1668,UCLA,1494,294,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513490,NA,NA,0,UCLA,UCLA,41
+2009-10,2009-11-27,918173,221,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,24,8,1324,Butler,1494,294,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,41
+2009-10,2009-11-27,918173,222,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,25,7,1668,UCLA,1494,294,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,41
+2009-10,2009-11-27,918173,229,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,25,7,1324,Butler,1465,265,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,14.549999999999997,513025,NA,NA,0,Butler,Butler,42
+2009-10,2009-11-27,918173,230,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,25,7,1668,UCLA,1465,265,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,42
+2009-10,2009-11-27,918173,231,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,32,28,4,1668,UCLA,1460,260,5, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22,28.85,513490,NA,NA,0,UCLA,Butler,43
+2009-10,2009-11-27,918173,232,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,34,28,6,1324,Butler,1437,237,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,UCLA,44
+2009-10,2009-11-27,918173,234,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,34,28,6,1668,UCLA,1415,215,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.5,24.55,513478,NA,NA,0,UCLA,UCLA,45
+2009-10,2009-11-27,918173,235,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,34,28,6,1324,Butler,1415,215,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,45
+2009-10,2009-11-27,918173,236,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,37,28,9,1324,Butler,1401,201,14, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,5.299999999999997,17.049999999999997,477667,NA,NA,0,Butler,UCLA,46
+2009-10,2009-11-27,918173,239,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,37,28,9,1324,Butler,1370,170,31, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,21.849999999999994,477667,NA,NA,0,Butler,Butler,47
+2009-10,2009-11-27,918173,240,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,37,28,9,1668,UCLA,1370,170,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,47
+2009-10,2009-11-27,918173,241,1,1,Butler,UCLA,Bulldogs,Bruins,4,3,37,31,6,1668,UCLA,1352,152,18, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26,28.05,513478,NA,NA,0,UCLA,Butler,48
+2009-10,2009-11-27,918173,243,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,37,31,6,1324,Butler,1344,144,8,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,246,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,37,31,6,1324,Butler,1330,130,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,7.950000000000003,477667,NA,NA,0,Butler,Butler,49
+2009-10,2009-11-27,918173,247,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,37,31,6,1324,Butler,1330,130,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,49
+2009-10,2009-11-27,918173,248,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,39,31,8,1324,Butler,1325,125,5, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,24.5,6.450000000000003,339496,NA,NA,0,Butler,UCLA,49
+2009-10,2009-11-27,918173,249,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,39,33,6,1668,UCLA,1307,107,18, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.2,8.35,457569,NA,NA,0,UCLA,Butler,50
+2009-10,2009-11-27,918173,252,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,39,33,6,1668,UCLA,1276,76,31,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,51
+2009-10,2009-11-27,918173,253,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,39,33,6,NA,NA,1276,76,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,256,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,40,33,7,1324,Butler,1276,76,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,51
+2009-10,2009-11-27,918173,257,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,41,33,8,1324,Butler,1276,76,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,51
+2009-10,2009-11-27,918173,262,1,1,Butler,UCLA,Bulldogs,Bruins,3,3,41,35,6,1668,UCLA,1237,37,39, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,457569,NA,NA,0,UCLA,Butler,52
+2009-10,2009-11-27,918173,266,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,41,35,6,1324,Butler,1207,7,30,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,273,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,41,35,6,1668,UCLA,1207,7,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,53
+2009-10,2009-11-27,918173,274,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,42,35,7,1324,Butler,1207,7,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,53
+2009-10,2009-11-27,918173,275,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,42,35,7,1324,Butler,1207,7,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,53
+2009-10,2009-11-27,918173,276,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,42,35,7,1668,UCLA,1207,7,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,53
+2009-10,2009-11-27,918173,278,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,42,35,7,1668,UCLA,1204,4,3, misses a 3-point jump shot from 31 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,30.95,457569,NA,NA,0,UCLA,UCLA,54
+2009-10,2009-11-27,918173,280,1,1,Butler,UCLA,Bulldogs,Bruins,2,3,42,35,7,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,288,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,54
+2009-10,2009-11-27,918173,299,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,1324,Butler,1194,1194,6,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2009-10,2009-11-27,918173,302,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,1668,UCLA,1187,1187,7, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,11.05,457569,NA,NA,0,UCLA,UCLA,55
+2009-10,2009-11-27,918173,303,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,1668,UCLA,1187,1187,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2009-10,2009-11-27,918173,304,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,1324,Butler,1187,1187,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2009-10,2009-11-27,918173,305,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,35,7,1668,UCLA,1187,1187,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2009-10,2009-11-27,918173,308,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,36,6,1668,UCLA,1187,1187,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,55
+2009-10,2009-11-27,918173,311,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,36,6,1324,Butler,1170,1170,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,8.349999999999994,477670,NA,NA,0,Butler,Butler,56
+2009-10,2009-11-27,918173,312,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,36,6,1668,UCLA,1170,1170,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,56
+2009-10,2009-11-27,918173,313,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,38,4,1668,UCLA,1162,1162,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,Butler,57
+2009-10,2009-11-27,918173,314,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,38,4,1324,Butler,1131,1131,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.700000000000003,25.150000000000006,477669,NA,NA,0,Butler,Butler,58
+2009-10,2009-11-27,918173,315,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,42,38,4,1324,Butler,1131,1131,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,58
+2009-10,2009-11-27,918173,316,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,45,38,7,1324,Butler,1123,1123,8, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.700000000000003,21.349999999999994,477667,NA,NA,0,Butler,UCLA,58
+2009-10,2009-11-27,918173,317,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,45,40,5,1668,UCLA,1109,1109,14, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,457568,NA,NA,0,UCLA,Butler,59
+2009-10,2009-11-27,918173,319,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,45,40,5,1668,UCLA,1093,1093,16,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,60
+2009-10,2009-11-27,918173,321,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,45,40,5,1668,UCLA,1093,1093,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,60
+2009-10,2009-11-27,918173,325,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,45,40,5,1324,Butler,1087,1087,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,8.150000000000006,477667,NA,NA,0,Butler,Butler,60
+2009-10,2009-11-27,918173,335,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,1044,1044,43, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,UCLA,60
+2009-10,2009-11-27,918173,336,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,1009,1009,35, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.2,20.55,350583,NA,NA,0,UCLA,UCLA,61
+2009-10,2009-11-27,918173,337,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,1009,1009,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,61
+2009-10,2009-11-27,918173,339,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,974,974,35, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5,8.950000000000003,477667,NA,NA,0,Butler,UCLA,62
+2009-10,2009-11-27,918173,342,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,973,973,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-27,918173,346,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,940,940,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,19.35,457571,NA,NA,0,UCLA,UCLA,63
+2009-10,2009-11-27,918173,347,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,940,940,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,63
+2009-10,2009-11-27,918173,348,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,917,917,23, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,25.15,457569,NA,NA,0,UCLA,UCLA,63
+2009-10,2009-11-27,918173,349,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,917,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,63
+2009-10,2009-11-27,918173,350,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,897,897,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,8.950000000000003,477667,NA,NA,0,Butler,Butler,64
+2009-10,2009-11-27,918173,351,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,897,897,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,64
+2009-10,2009-11-27,918173,354,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1324,Butler,886,886,11,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2009-10,2009-11-27,918173,355,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,NA,NA,886,886,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,361,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,40,7,1668,UCLA,872,872,14, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2009-10,2009-11-27,918173,364,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,41,6,1668,UCLA,872,872,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,65
+2009-10,2009-11-27,918173,366,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,870,870,2, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,19.7,28.45,295435,NA,NA,0,UCLA,Butler,66
+2009-10,2009-11-27,918173,379,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,841,841,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339496,NA,NA,0,Butler,Butler,67
+2009-10,2009-11-27,918173,380,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,841,841,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,67
+2009-10,2009-11-27,918173,381,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,829,829,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,15.549999999999997,339496,NA,NA,0,Butler,Butler,67
+2009-10,2009-11-27,918173,382,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,829,829,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,67
+2009-10,2009-11-27,918173,383,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,821,821,8, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,7.950000000000003,401057,NA,NA,0,Butler,Butler,68
+2009-10,2009-11-27,918173,384,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,821,821,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,68
+2009-10,2009-11-27,918173,385,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,802,802,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,19.15,295435,NA,NA,0,UCLA,UCLA,69
+2009-10,2009-11-27,918173,386,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,802,802,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,69
+2009-10,2009-11-27,918173,389,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,779,779,23,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,70
+2009-10,2009-11-27,918173,392,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,773,773,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,35.7,24.25,401057,NA,NA,0,Butler,Butler,70
+2009-10,2009-11-27,918173,393,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,773,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,70
+2009-10,2009-11-27,918173,394,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,756,756,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,71
+2009-10,2009-11-27,918173,395,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,756,756,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,71
+2009-10,2009-11-27,918173,396,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1668,UCLA,748,748,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.7,29.05,295435,NA,NA,0,UCLA,UCLA,72
+2009-10,2009-11-27,918173,397,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,47,44,3,1324,Butler,748,748,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,72
+2009-10,2009-11-27,918173,398,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,49,44,5,1324,Butler,730,730,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,401058,NA,NA,0,Butler,UCLA,73
+2009-10,2009-11-27,918173,400,1,2,Butler,UCLA,Bulldogs,Bruins,4,4,51,44,7,1324,Butler,701,701,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477670,NA,NA,0,Butler,UCLA,74
+2009-10,2009-11-27,918173,401,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,699,699,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,405,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,682,682,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,11.45,457571,NA,NA,0,UCLA,UCLA,75
+2009-10,2009-11-27,918173,406,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,682,682,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,75
+2009-10,2009-11-27,918173,408,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,662,662,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,22.849999999999994,401059,NA,NA,0,Butler,Butler,76
+2009-10,2009-11-27,918173,411,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,661,661,1,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,76
+2009-10,2009-11-27,918173,412,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,NA,NA,661,661,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,415,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,644,644,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,76
+2009-10,2009-11-27,918173,416,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,644,644,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,76
+2009-10,2009-11-27,918173,419,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,644,644,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,76
+2009-10,2009-11-27,918173,420,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,644,644,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,76
+2009-10,2009-11-27,918173,429,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1668,UCLA,611,611,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,19.35,457569,NA,NA,0,UCLA,UCLA,77
+2009-10,2009-11-27,918173,430,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,611,611,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,77
+2009-10,2009-11-27,918173,434,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,599,599,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,39,21.450000000000003,477669,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,435,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,51,44,7,1324,Butler,599,599,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,436,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1324,Butler,599,599,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401059,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,437,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1668,UCLA,599,599,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,438,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1324,Butler,599,599,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,439,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1324,Butler,599,599,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,78
+2009-10,2009-11-27,918173,442,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1324,Butler,596,596,3, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.650000000000006,401057,NA,NA,0,Butler,UCLA,78
+2009-10,2009-11-27,918173,455,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1668,UCLA,563,563,33, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.3,7.75,350583,NA,NA,0,UCLA,UCLA,79
+2009-10,2009-11-27,918173,456,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,44,9,1668,UCLA,563,563,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,79
+2009-10,2009-11-27,918173,458,1,2,Butler,UCLA,Bulldogs,Bruins,4,3,53,46,7,1668,UCLA,558,558,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Butler,79
+2009-10,2009-11-27,918173,460,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,46,7,1324,Butler,555,555,3,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,462,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,46,7,1324,Butler,542,542,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,12.450000000000003,339496,NA,NA,0,Butler,Butler,80
+2009-10,2009-11-27,918173,463,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,46,7,1324,Butler,542,542,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,80
+2009-10,2009-11-27,918173,466,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,46,7,1324,Butler,531,531,11,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,80
+2009-10,2009-11-27,918173,472,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,46,7,1324,Butler,521,521,10,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2009-10,2009-11-27,918173,475,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,507,507,14, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Butler,81
+2009-10,2009-11-27,918173,477,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1324,Butler,478,478,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,14.549999999999997,477667,NA,NA,0,Butler,Butler,82
+2009-10,2009-11-27,918173,479,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,NA,NA,478,478,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,484,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,469,469,9,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-11-27,918173,485,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1324,Butler,469,469,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-11-27,918173,488,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1324,Butler,469,469,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-11-27,918173,489,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,469,469,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,82
+2009-10,2009-11-27,918173,492,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,453,453,16, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,12.65,513482,NA,NA,0,UCLA,UCLA,83
+2009-10,2009-11-27,918173,493,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,453,453,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,83
+2009-10,2009-11-27,918173,497,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1324,Butler,450,450,3,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,83
+2009-10,2009-11-27,918173,498,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,53,48,5,1668,UCLA,450,450,0,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,83
+2009-10,2009-11-27,918173,501,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1324,Butler,436,436,14, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,33.8,4.849999999999994,477669,NA,NA,0,Butler,UCLA,84
+2009-10,2009-11-27,918173,502,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1668,UCLA,416,416,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,18.75,295435,NA,NA,0,UCLA,UCLA,85
+2009-10,2009-11-27,918173,503,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1668,UCLA,416,416,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,85
+2009-10,2009-11-27,918173,505,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1668,UCLA,404,404,12,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,85
+2009-10,2009-11-27,918173,520,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1324,Butler,376,376,28,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,86
+2009-10,2009-11-27,918173,521,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,48,7,1324,Butler,376,376,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-27,918173,523,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,50,5,1668,UCLA,370,370,6, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,35.5,20.55,295435,NA,NA,0,UCLA,Butler,87
+2009-10,2009-11-27,918173,526,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,55,50,5,1668,UCLA,353,353,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,88
+2009-10,2009-11-27,918173,528,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,56,50,6,1324,Butler,353,353,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,88
+2009-10,2009-11-27,918173,529,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1324,Butler,353,353,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,88
+2009-10,2009-11-27,918173,542,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1324,Butler,334,334,19,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2009-10,2009-11-27,918173,543,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1668,UCLA,334,334,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2009-10,2009-11-27,918173,544,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1324,Butler,334,334,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,89
+2009-10,2009-11-27,918173,550,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1668,UCLA,310,310,24,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,90
+2009-10,2009-11-27,918173,551,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,57,50,7,1324,Butler,310,310,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,90
+2009-10,2009-11-27,918173,554,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,58,50,8,1324,Butler,310,310,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,90
+2009-10,2009-11-27,918173,555,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,58,50,8,1324,Butler,310,310,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,90
+2009-10,2009-11-27,918173,556,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,58,50,8,1668,UCLA,310,310,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,90
+2009-10,2009-11-27,918173,561,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,58,52,6,1668,UCLA,295,295,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Butler,91
+2009-10,2009-11-27,918173,562,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,52,8,1324,Butler,275,275,20, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,25.3,6.75,401059,NA,NA,0,Butler,UCLA,92
+2009-10,2009-11-27,918173,563,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,55,5,1668,UCLA,246,246,29, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,24.7,30.75,350583,NA,NA,0,UCLA,UCLA,93
+2009-10,2009-11-27,918173,569,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,55,5,1324,Butler,239,239,7,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2009-10,2009-11-27,918173,570,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,55,5,NA,NA,239,239,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,571,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,56,4,1668,UCLA,239,239,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2009-10,2009-11-27,918173,572,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,57,3,1668,UCLA,239,239,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,93
+2009-10,2009-11-27,918173,575,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,57,3,1324,Butler,217,217,22, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,16.849999999999994,477669,NA,NA,0,Butler,UCLA,94
+2009-10,2009-11-27,918173,581,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,57,3,1668,UCLA,193,193,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,25.35,350583,NA,NA,0,UCLA,UCLA,95
+2009-10,2009-11-27,918173,582,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,57,3,1324,Butler,193,193,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,95
+2009-10,2009-11-27,918173,583,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,60,57,3,1668,UCLA,193,193,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,96
+2009-10,2009-11-27,918173,584,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,61,57,4,1324,Butler,193,193,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,96
+2009-10,2009-11-27,918173,585,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,57,5,1324,Butler,193,193,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,96
+2009-10,2009-11-27,918173,591,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,57,5,1324,Butler,149,149,44, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,19.549999999999997,339496,NA,NA,0,Butler,UCLA,97
+2009-10,2009-11-27,918173,594,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,57,5,1324,Butler,148,148,1,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2009-10,2009-11-27,918173,597,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,57,5,1668,UCLA,148,148,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2009-10,2009-11-27,918173,600,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,58,4,1668,UCLA,148,148,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,98
+2009-10,2009-11-27,918173,603,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,58,4,1324,Butler,118,118,30,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,99
+2009-10,2009-11-27,918173,612,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,58,4,1324,Butler,100,100,18,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2009-10,2009-11-27,918173,613,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,59,3,1668,UCLA,100,100,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2009-10,2009-11-27,918173,614,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,60,2,1668,UCLA,100,100,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,100
+2009-10,2009-11-27,918173,619,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,62,60,2,1668,UCLA,83,83,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,101
+2009-10,2009-11-27,918173,620,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,63,60,3,1324,Butler,83,83,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,101
+2009-10,2009-11-27,918173,621,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,64,60,4,1324,Butler,83,83,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,101
+2009-10,2009-11-27,918173,626,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,64,60,4,1668,UCLA,77,77,6,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Butler,102
+2009-10,2009-11-27,918173,628,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,64,60,4,1324,Butler,41,41,36, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17.700000000000003,11.049999999999997,477670,NA,NA,0,Butler,Butler,103
+2009-10,2009-11-27,918173,629,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,64,60,4,1668,UCLA,41,41,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,103
+2009-10,2009-11-27,918173,631,1,2,Butler,UCLA,Bulldogs,Bruins,3,3,64,62,2,1668,UCLA,27,27,14, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,25.3,9.65,457569,NA,NA,0,UCLA,Butler,104
+2009-10,2009-11-27,918173,642,1,2,Butler,UCLA,Bulldogs,Bruins,3,2,64,62,2,1668,UCLA,27,27,0,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,643,1,2,Butler,UCLA,Bulldogs,Bruins,2,2,64,62,2,1324,Butler,27,27,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,644,1,2,Butler,UCLA,Bulldogs,Bruins,2,2,64,62,2,1324,Butler,27,27,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,105
+2009-10,2009-11-27,918173,653,1,2,Butler,UCLA,Bulldogs,Bruins,2,2,64,62,2,1668,UCLA,19,19,8,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,105
+2009-10,2009-11-27,918173,655,1,2,Butler,UCLA,Bulldogs,Bruins,2,2,65,62,3,1324,Butler,19,19,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,105
+2009-10,2009-11-27,918173,656,1,2,Butler,UCLA,Bulldogs,Bruins,2,1,65,62,3,1668,UCLA,19,19,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,658,1,2,Butler,UCLA,Bulldogs,Bruins,2,1,66,62,4,1324,Butler,19,19,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,105
+2009-10,2009-11-27,918173,670,1,2,Butler,UCLA,Bulldogs,Bruins,2,1,66,64,2,1668,UCLA,15,15,4, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.8,7.95,457571,NA,NA,0,UCLA,Butler,106
+2009-10,2009-11-27,918173,679,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,66,64,2,1668,UCLA,14,14,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,685,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,66,64,2,1668,UCLA,12,12,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,107
+2009-10,2009-11-27,918173,686,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,66,64,2,1324,Butler,12,12,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,107
+2009-10,2009-11-27,918173,689,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,67,64,3,1324,Butler,12,12,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,107
+2009-10,2009-11-27,918173,692,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,67,67,0,1668,UCLA,9,9,3, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.8,30.55,457571,NA,NA,0,UCLA,Butler,108
+2009-10,2009-11-27,918173,711,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,67,67,0,1668,UCLA,1,1,8,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,109
+2009-10,2009-11-27,918173,712,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,68,67,1,1324,Butler,1,1,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,109
+2009-10,2009-11-27,918173,713,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,69,67,2,1324,Butler,1,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,UCLA,109
+2009-10,2009-11-27,918173,715,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,69,67,2,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-27,918173,716,1,2,Butler,UCLA,Bulldogs,Bruins,2,0,69,67,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

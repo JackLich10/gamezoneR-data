@@ -1,0 +1,294 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-27,929026,1,0,1,Charlotte,Temple,49ers,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Charlotte,NA
+2009-10,2010-01-27,929026,5,0,1,Charlotte,Temple,49ers,Owls,4,4,0,0,0,1523,Charlotte,2387,1187,13, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,19.75,395650,NA,NA,0,Charlotte,Charlotte,1
+2009-10,2010-01-27,929026,6,0,1,Charlotte,Temple,49ers,Owls,4,4,0,0,0,1644,Temple,2387,1187,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,1
+2009-10,2010-01-27,929026,7,0,1,Charlotte,Temple,49ers,Owls,4,4,0,3,-3,1644,Temple,2357,1157,30, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.7,23.25,353101,NA,NA,0,Temple,Charlotte,2
+2009-10,2010-01-27,929026,8,0,1,Charlotte,Temple,49ers,Owls,4,4,0,3,-3,1523,Charlotte,2343,1143,14, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,11.25,329686,NA,NA,0,Charlotte,Charlotte,3
+2009-10,2010-01-27,929026,9,0,1,Charlotte,Temple,49ers,Owls,4,4,0,3,-3,1644,Temple,2343,1143,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,3
+2009-10,2010-01-27,929026,10.5,0,1,Charlotte,Temple,49ers,Owls,4,4,0,5,-5,1644,Temple,2330,1130,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402986,NA,NA,0,Temple,Charlotte,4
+2009-10,2010-01-27,929026,17,0,1,Charlotte,Temple,49ers,Owls,4,4,0,5,-5,1523,Charlotte,2308,1108,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,19.549999999999997,511002,NA,NA,0,Charlotte,Charlotte,5
+2009-10,2010-01-27,929026,18,0,1,Charlotte,Temple,49ers,Owls,4,4,0,5,-5,1644,Temple,2308,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,5
+2009-10,2010-01-27,929026,19,0,1,Charlotte,Temple,49ers,Owls,4,4,0,5,-5,1644,Temple,2286,1086,22, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.3,8.75,402986,NA,NA,0,Temple,Temple,6
+2009-10,2010-01-27,929026,20,0,1,Charlotte,Temple,49ers,Owls,4,4,0,5,-5,1644,Temple,2286,1086,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,6
+2009-10,2010-01-27,929026,44,0,1,Charlotte,Temple,49ers,Owls,4,4,0,7,-7,1644,Temple,2286,1086,0, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,26,6.05,402984,NA,NA,0,Temple,Charlotte,6
+2009-10,2010-01-27,929026,45,0,1,Charlotte,Temple,49ers,Owls,3,4,0,7,-7,1523,Charlotte,2286,1086,0,49ers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,52,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2269,1069,17, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,35.7,25.950000000000003,411397,NA,NA,0,Charlotte,Temple,7
+2009-10,2010-01-27,929026,59,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2230,1030,39, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,26.75,411397,NA,NA,0,Charlotte,Charlotte,8
+2009-10,2010-01-27,929026,60,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1644,Temple,2230,1030,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,8
+2009-10,2010-01-27,929026,61,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2230,1030,0,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,9
+2009-10,2010-01-27,929026,67,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1644,Temple,2213,1013,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.7,27.35,489569,NA,NA,0,Temple,Temple,9
+2009-10,2010-01-27,929026,71,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1644,Temple,2199,999,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402986,NA,NA,0,Temple,Temple,9
+2009-10,2010-01-27,929026,72,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2199,999,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,9
+2009-10,2010-01-27,929026,82,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2191,991,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,29.049999999999997,395649,NA,NA,0,Charlotte,Charlotte,10
+2009-10,2010-01-27,929026,83,0,1,Charlotte,Temple,49ers,Owls,3,4,3,7,-4,1523,Charlotte,2191,991,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,10
+2009-10,2010-01-27,929026,84,0,1,Charlotte,Temple,49ers,Owls,3,4,5,7,-2,1523,Charlotte,2182,982,9, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.950000000000003,395650,NA,NA,0,Charlotte,Temple,10
+2009-10,2010-01-27,929026,85,0,1,Charlotte,Temple,49ers,Owls,3,4,5,10,-5,1644,Temple,2168,968,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,16.2,27.85,353101,NA,NA,0,Temple,Charlotte,11
+2009-10,2010-01-27,929026,86,0,1,Charlotte,Temple,49ers,Owls,3,4,7,10,-3,1523,Charlotte,2153,953,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Temple,12
+2009-10,2010-01-27,929026,95,0,1,Charlotte,Temple,49ers,Owls,3,4,7,10,-3,1644,Temple,2130,930,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402984,NA,NA,0,Temple,Temple,13
+2009-10,2010-01-27,929026,96,0,1,Charlotte,Temple,49ers,Owls,3,4,7,10,-3,1523,Charlotte,2130,930,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,13
+2009-10,2010-01-27,929026,97,0,1,Charlotte,Temple,49ers,Owls,3,4,7,10,-3,1644,Temple,2130,930,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,14
+2009-10,2010-01-27,929026,98,0,1,Charlotte,Temple,49ers,Owls,3,4,7,10,-3,NA,NA,2130,930,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,102,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2130,930,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,14
+2009-10,2010-01-27,929026,103,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2130,930,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,14
+2009-10,2010-01-27,929026,104,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1644,Temple,2130,930,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,14
+2009-10,2010-01-27,929026,113,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1644,Temple,2115,915,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,17.7,19.15,332875,NA,NA,0,Temple,Temple,15
+2009-10,2010-01-27,929026,114,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2115,915,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,15
+2009-10,2010-01-27,929026,115,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2104,904,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.8,27.849999999999994,411397,NA,NA,0,Charlotte,Charlotte,16
+2009-10,2010-01-27,929026,116,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2104,904,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,16
+2009-10,2010-01-27,929026,124,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1644,Temple,2080,880,24, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,24.75,353101,NA,NA,0,Temple,Temple,16
+2009-10,2010-01-27,929026,125,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2080,880,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,16
+2009-10,2010-01-27,929026,162,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1644,Temple,2061,861,19,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,17
+2009-10,2010-01-27,929026,163,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2061,861,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,349787,NA,NA,0,Charlotte,Temple,17
+2009-10,2010-01-27,929026,182,0,1,Charlotte,Temple,49ers,Owls,3,4,8,10,-2,1523,Charlotte,2030,830,31,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,18
+2009-10,2010-01-27,929026,183,0,1,Charlotte,Temple,49ers,Owls,3,4,8,11,-3,1644,Temple,2030,830,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,18
+2009-10,2010-01-27,929026,184,0,1,Charlotte,Temple,49ers,Owls,3,4,8,12,-4,1644,Temple,2030,830,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,18
+2009-10,2010-01-27,929026,186,0,1,Charlotte,Temple,49ers,Owls,3,4,8,12,-4,1644,Temple,1980,780,50, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.5,24.75,402985,NA,NA,0,Temple,Temple,19
+2009-10,2010-01-27,929026,187,0,1,Charlotte,Temple,49ers,Owls,3,4,8,12,-4,1644,Temple,1980,780,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,19
+2009-10,2010-01-27,929026,188,0,1,Charlotte,Temple,49ers,Owls,3,4,8,15,-7,1644,Temple,1965,765,15, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10,21.65,353101,NA,NA,0,Temple,Charlotte,19
+2009-10,2010-01-27,929026,189,0,1,Charlotte,Temple,49ers,Owls,3,4,8,15,-7,1523,Charlotte,1949,749,16, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,18.950000000000003,411397,NA,NA,0,Charlotte,Charlotte,20
+2009-10,2010-01-27,929026,190,0,1,Charlotte,Temple,49ers,Owls,3,4,8,15,-7,1644,Temple,1949,749,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,20
+2009-10,2010-01-27,929026,211,0,1,Charlotte,Temple,49ers,Owls,3,4,8,15,-7,1644,Temple,1939,739,10,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,21
+2009-10,2010-01-27,929026,225,0,1,Charlotte,Temple,49ers,Owls,3,4,10,15,-5,1523,Charlotte,1912,712,27, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.3,10.25,329686,NA,NA,0,Charlotte,Temple,22
+2009-10,2010-01-27,929026,229.375,0,1,Charlotte,Temple,49ers,Owls,3,4,10,15,-5,1644,Temple,1899,699,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,22.65,353101,NA,NA,0,Temple,Temple,23
+2009-10,2010-01-27,929026,229.6875,0,1,Charlotte,Temple,49ers,Owls,3,4,10,15,-5,1523,Charlotte,1899,699,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,23
+2009-10,2010-01-27,929026,229.84375,0,1,Charlotte,Temple,49ers,Owls,3,4,10,15,-5,1523,Charlotte,1887,687,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,25.549999999999997,332681,NA,NA,0,Charlotte,Charlotte,24
+2009-10,2010-01-27,929026,229.921875,0,1,Charlotte,Temple,49ers,Owls,3,4,10,15,-5,1523,Charlotte,1887,687,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,24
+2009-10,2010-01-27,929026,230,0,1,Charlotte,Temple,49ers,Owls,3,4,12,15,-3,1523,Charlotte,1887,687,0, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,34.5,12.450000000000003,332681,NA,NA,0,Charlotte,Temple,24
+2009-10,2010-01-27,929026,231,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1644,Temple,1859,659,28, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15.7,8.35,416798,NA,NA,0,Temple,Charlotte,25
+2009-10,2010-01-27,929026,232,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1523,Charlotte,1832,632,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329686,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2010-01-27,929026,233,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1523,Charlotte,1832,632,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2010-01-27,929026,234,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1523,Charlotte,1826,626,6, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,25.5,9.549999999999997,329686,NA,NA,0,Charlotte,Charlotte,26
+2009-10,2010-01-27,929026,235,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1644,Temple,1826,626,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,26
+2009-10,2010-01-27,929026,236,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1644,Temple,1817,617,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416798,NA,NA,0,Temple,Temple,27
+2009-10,2010-01-27,929026,237,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1523,Charlotte,1817,617,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,27
+2009-10,2010-01-27,929026,238,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1523,Charlotte,1809,609,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395649,NA,NA,0,Charlotte,Charlotte,28
+2009-10,2010-01-27,929026,239,0,1,Charlotte,Temple,49ers,Owls,3,4,12,17,-5,1644,Temple,1809,609,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,28
+2009-10,2010-01-27,929026,240,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1799,599,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,416798,NA,NA,0,Temple,Charlotte,29
+2009-10,2010-01-27,929026,241,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1790,590,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,24.25,332687,NA,NA,0,Charlotte,Charlotte,30
+2009-10,2010-01-27,929026,242,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1790,590,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,30
+2009-10,2010-01-27,929026,258,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1783,583,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,353101,NA,NA,0,Temple,Temple,31
+2009-10,2010-01-27,929026,259,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1783,583,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,31
+2009-10,2010-01-27,929026,260,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1775,575,8, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,11.450000000000003,349787,NA,NA,0,Charlotte,Charlotte,32
+2009-10,2010-01-27,929026,261,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1775,575,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,32
+2009-10,2010-01-27,929026,262,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1761,561,14, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,10.45,402984,NA,NA,0,Temple,Temple,33
+2009-10,2010-01-27,929026,263,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1761,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,33
+2009-10,2010-01-27,929026,264,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1742,542,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,22.849999999999994,332681,NA,NA,0,Charlotte,Charlotte,34
+2009-10,2010-01-27,929026,265,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1742,542,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,34
+2009-10,2010-01-27,929026,267,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1729,529,13,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,34
+2009-10,2010-01-27,929026,268,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,NA,NA,1729,529,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,272,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1644,Temple,1726,526,3,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,34
+2009-10,2010-01-27,929026,273,0,1,Charlotte,Temple,49ers,Owls,3,4,12,19,-7,1523,Charlotte,1726,526,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,34
+2009-10,2010-01-27,929026,275,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1523,Charlotte,1726,526,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,34
+2009-10,2010-01-27,929026,285,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1644,Temple,1705,505,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.3,27.15,416798,NA,NA,0,Temple,Temple,35
+2009-10,2010-01-27,929026,286,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1523,Charlotte,1705,505,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,35
+2009-10,2010-01-27,929026,308,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1523,Charlotte,1669,469,36, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,18.25,329686,NA,NA,0,Charlotte,Charlotte,36
+2009-10,2010-01-27,929026,309,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1644,Temple,1669,469,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,36
+2009-10,2010-01-27,929026,334,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1644,Temple,1633,433,36, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15,26.75,402985,NA,NA,0,Temple,Temple,37
+2009-10,2010-01-27,929026,335,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1523,Charlotte,1633,433,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,37
+2009-10,2010-01-27,929026,345,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,1523,Charlotte,1606,406,27,Offensive foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,38
+2009-10,2010-01-27,929026,346,0,1,Charlotte,Temple,49ers,Owls,3,4,13,19,-6,NA,NA,1606,406,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,348,0,1,Charlotte,Temple,49ers,Owls,3,4,13,22,-9,1644,Temple,1594,394,12, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,11.7,25.95,353101,NA,NA,0,Temple,Charlotte,39
+2009-10,2010-01-27,929026,349,0,1,Charlotte,Temple,49ers,Owls,3,4,15,22,-7,1523,Charlotte,1576,376,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411397,NA,NA,0,Charlotte,Temple,40
+2009-10,2010-01-27,929026,350,0,1,Charlotte,Temple,49ers,Owls,3,4,15,25,-10,1644,Temple,1558,358,18, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,17.45,514899,NA,NA,0,Temple,Charlotte,41
+2009-10,2010-01-27,929026,351,0,1,Charlotte,Temple,49ers,Owls,3,4,18,25,-7,1523,Charlotte,1537,337,21, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,33.5,27.650000000000006,411397,NA,NA,0,Charlotte,Temple,42
+2009-10,2010-01-27,929026,365,0,1,Charlotte,Temple,49ers,Owls,3,4,18,25,-7,1644,Temple,1512,312,25,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,43
+2009-10,2010-01-27,929026,367,0,1,Charlotte,Temple,49ers,Owls,3,4,18,25,-7,1523,Charlotte,1505,305,7, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,13.349999999999994,511002,NA,NA,0,Charlotte,Charlotte,44
+2009-10,2010-01-27,929026,368,0,1,Charlotte,Temple,49ers,Owls,3,4,18,25,-7,1644,Temple,1505,305,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,44
+2009-10,2010-01-27,929026,369,0,1,Charlotte,Temple,49ers,Owls,3,4,18,28,-10,1644,Temple,1482,282,23, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.2,22.85,514899,NA,NA,0,Temple,Charlotte,45
+2009-10,2010-01-27,929026,377,0,1,Charlotte,Temple,49ers,Owls,3,4,18,28,-10,1523,Charlotte,1460,260,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,31.5,27.450000000000003,411397,NA,NA,0,Charlotte,Charlotte,46
+2009-10,2010-01-27,929026,378,0,1,Charlotte,Temple,49ers,Owls,3,4,18,28,-10,1644,Temple,1460,260,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,46
+2009-10,2010-01-27,929026,389,0,1,Charlotte,Temple,49ers,Owls,3,4,18,28,-10,1644,Temple,1444,244,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.2,25.35,332875,NA,NA,0,Temple,Temple,47
+2009-10,2010-01-27,929026,390,0,1,Charlotte,Temple,49ers,Owls,3,4,18,28,-10,1523,Charlotte,1444,244,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,47
+2009-10,2010-01-27,929026,391,0,1,Charlotte,Temple,49ers,Owls,3,4,20,28,-8,1523,Charlotte,1417,217,27, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Temple,48
+2009-10,2010-01-27,929026,395,0,1,Charlotte,Temple,49ers,Owls,3,4,20,28,-8,1644,Temple,1381,181,36, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,25.75,469335,NA,NA,0,Temple,Temple,49
+2009-10,2010-01-27,929026,396,0,1,Charlotte,Temple,49ers,Owls,3,4,20,28,-8,1523,Charlotte,1381,181,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,49
+2009-10,2010-01-27,929026,397.5,0,1,Charlotte,Temple,49ers,Owls,3,4,20,28,-8,1644,Temple,1380,180,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,50
+2009-10,2010-01-27,929026,398.25,0,1,Charlotte,Temple,49ers,Owls,3,4,20,28,-8,NA,NA,1380,180,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,402,0,1,Charlotte,Temple,49ers,Owls,3,4,21,28,-7,1523,Charlotte,1380,180,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,50
+2009-10,2010-01-27,929026,444,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1523,Charlotte,1380,180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,50
+2009-10,2010-01-27,929026,462,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1359,159,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,514899,NA,NA,0,Temple,Temple,51
+2009-10,2010-01-27,929026,463,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1359,159,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,51
+2009-10,2010-01-27,929026,487,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1354,154,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402986,NA,NA,0,Temple,Temple,51
+2009-10,2010-01-27,929026,488,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1354,154,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,51
+2009-10,2010-01-27,929026,494,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1349,149,5, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,26.55,353101,NA,NA,0,Temple,Charlotte,51
+2009-10,2010-01-27,929026,516,0,1,Charlotte,Temple,49ers,Owls,3,4,22,28,-6,1644,Temple,1329,129,20,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,52
+2009-10,2010-01-27,929026,517,0,1,Charlotte,Temple,49ers,Owls,3,4,23,28,-5,1523,Charlotte,1329,129,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,52
+2009-10,2010-01-27,929026,518,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1329,129,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,52
+2009-10,2010-01-27,929026,537,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1644,Temple,1307,107,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,21.45,514899,NA,NA,0,Temple,Temple,53
+2009-10,2010-01-27,929026,538,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1307,107,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,53
+2009-10,2010-01-27,929026,542,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1294,94,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395649,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,543,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1294,94,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,549,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1644,Temple,1292,92,2,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,550,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1292,92,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,552,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1292,92,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,553,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1523,Charlotte,1292,92,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,556,0,1,Charlotte,Temple,49ers,Owls,3,4,24,28,-4,1644,Temple,1291,91,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,54
+2009-10,2010-01-27,929026,557,0,1,Charlotte,Temple,49ers,Owls,3,4,25,28,-3,1523,Charlotte,1291,91,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,54
+2009-10,2010-01-27,929026,558,0,1,Charlotte,Temple,49ers,Owls,3,4,26,28,-2,1523,Charlotte,1291,91,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,55
+2009-10,2010-01-27,929026,566,0,1,Charlotte,Temple,49ers,Owls,3,4,26,28,-2,1644,Temple,1278,78,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.2,27.85,514899,NA,NA,0,Temple,Temple,56
+2009-10,2010-01-27,929026,567,0,1,Charlotte,Temple,49ers,Owls,3,4,26,28,-2,1644,Temple,1278,78,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,56
+2009-10,2010-01-27,929026,569,0,1,Charlotte,Temple,49ers,Owls,3,4,26,28,-2,1523,Charlotte,1270,70,8,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,56
+2009-10,2010-01-27,929026,570,0,1,Charlotte,Temple,49ers,Owls,3,4,26,28,-2,1644,Temple,1270,70,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,56
+2009-10,2010-01-27,929026,572,0,1,Charlotte,Temple,49ers,Owls,3,4,26,29,-3,1644,Temple,1270,70,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,56
+2009-10,2010-01-27,929026,588,0,1,Charlotte,Temple,49ers,Owls,3,4,28,29,-1,1523,Charlotte,1246,46,24, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26.5,10.849999999999994,411397,NA,NA,0,Charlotte,Temple,57
+2009-10,2010-01-27,929026,589,0,1,Charlotte,Temple,49ers,Owls,3,4,28,29,-1,1644,Temple,1233,33,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.2,25.35,402985,NA,NA,0,Temple,Temple,58
+2009-10,2010-01-27,929026,590,0,1,Charlotte,Temple,49ers,Owls,3,4,28,29,-1,1523,Charlotte,1233,33,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,58
+2009-10,2010-01-27,929026,591,0,1,Charlotte,Temple,49ers,Owls,3,4,28,29,-1,1523,Charlotte,1206,6,27,Offensive foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,59
+2009-10,2010-01-27,929026,636,0,1,Charlotte,Temple,49ers,Owls,3,3,28,29,-1,1644,Temple,1206,6,0,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,637,0,1,Charlotte,Temple,49ers,Owls,3,3,28,29,-1,1523,Charlotte,1206,6,0,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,60
+2009-10,2010-01-27,929026,638,0,1,Charlotte,Temple,49ers,Owls,3,3,28,32,-4,1644,Temple,1203,3,3, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,10.3,24.05,332875,NA,NA,0,Temple,Charlotte,60
+2009-10,2010-01-27,929026,640,0,1,Charlotte,Temple,49ers,Owls,3,3,28,32,-4,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,652,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Charlotte,61
+2009-10,2010-01-27,929026,654,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1523,Charlotte,1191,1191,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,10.049999999999997,329686,NA,NA,0,Charlotte,Charlotte,62
+2009-10,2010-01-27,929026,655,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1191,1191,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,62
+2009-10,2010-01-27,929026,656,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1171,1171,20, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,9.15,402986,NA,NA,0,Temple,Temple,63
+2009-10,2010-01-27,929026,657,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1523,Charlotte,1171,1171,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,63
+2009-10,2010-01-27,929026,659,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1165,1165,6,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,64
+2009-10,2010-01-27,929026,661,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1523,Charlotte,1161,1161,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.8,25.549999999999997,411397,NA,NA,0,Charlotte,Charlotte,64
+2009-10,2010-01-27,929026,662,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1161,1161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,64
+2009-10,2010-01-27,929026,663,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1153,1153,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,14.55,402984,NA,NA,0,Temple,Temple,65
+2009-10,2010-01-27,929026,664,0,2,Charlotte,Temple,49ers,Owls,4,4,28,32,-4,1644,Temple,1153,1153,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,65
+2009-10,2010-01-27,929026,665,0,2,Charlotte,Temple,49ers,Owls,4,4,28,34,-6,1644,Temple,1144,1144,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402984,NA,NA,0,Temple,Charlotte,65
+2009-10,2010-01-27,929026,679,0,2,Charlotte,Temple,49ers,Owls,4,4,30,34,-4,1523,Charlotte,1132,1132,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Temple,66
+2009-10,2010-01-27,929026,684,0,2,Charlotte,Temple,49ers,Owls,4,4,30,36,-6,1644,Temple,1109,1109,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402984,NA,NA,0,Temple,Charlotte,67
+2009-10,2010-01-27,929026,693,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1523,Charlotte,1087,1087,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Temple,68
+2009-10,2010-01-27,929026,694,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1644,Temple,1072,1072,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402986,NA,NA,0,Temple,Temple,69
+2009-10,2010-01-27,929026,695,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1523,Charlotte,1072,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,69
+2009-10,2010-01-27,929026,702,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1523,Charlotte,1054,1054,18, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,12.75,329686,NA,NA,0,Charlotte,Charlotte,70
+2009-10,2010-01-27,929026,703,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1644,Temple,1054,1054,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,70
+2009-10,2010-01-27,929026,704,0,2,Charlotte,Temple,49ers,Owls,4,4,32,36,-4,1644,Temple,1030,1030,24,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,71
+2009-10,2010-01-27,929026,714,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1644,Temple,1006,1006,24, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,19.15,332875,NA,NA,0,Temple,Charlotte,72
+2009-10,2010-01-27,929026,727,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1523,Charlotte,976,976,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,15.849999999999994,329686,NA,NA,0,Charlotte,Charlotte,73
+2009-10,2010-01-27,929026,728,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1644,Temple,976,976,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,73
+2009-10,2010-01-27,929026,728.75,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1523,Charlotte,960,960,16,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,74
+2009-10,2010-01-27,929026,729,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1644,Temple,957,957,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,489569,NA,NA,0,Temple,Temple,74
+2009-10,2010-01-27,929026,730,0,2,Charlotte,Temple,49ers,Owls,4,4,32,39,-7,1523,Charlotte,957,957,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,74
+2009-10,2010-01-27,929026,739,0,2,Charlotte,Temple,49ers,Owls,4,4,34,39,-5,1523,Charlotte,939,939,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329686,NA,NA,0,Charlotte,Temple,75
+2009-10,2010-01-27,929026,746,0,2,Charlotte,Temple,49ers,Owls,4,4,34,39,-5,1523,Charlotte,927,927,12,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,76
+2009-10,2010-01-27,929026,747,0,2,Charlotte,Temple,49ers,Owls,4,4,34,39,-5,NA,NA,927,927,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,761.25,0,2,Charlotte,Temple,49ers,Owls,4,4,34,39,-5,1523,Charlotte,907,907,20,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,76
+2009-10,2010-01-27,929026,766,0,2,Charlotte,Temple,49ers,Owls,4,4,34,41,-7,1644,Temple,898,898,9, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,35.5,18.05,332875,NA,NA,0,Temple,Charlotte,76
+2009-10,2010-01-27,929026,776,0,2,Charlotte,Temple,49ers,Owls,4,4,34,41,-7,1523,Charlotte,868,868,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42,19.950000000000003,329686,NA,NA,0,Charlotte,Charlotte,77
+2009-10,2010-01-27,929026,777,0,2,Charlotte,Temple,49ers,Owls,4,4,34,41,-7,1644,Temple,868,868,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,77
+2009-10,2010-01-27,929026,787,0,2,Charlotte,Temple,49ers,Owls,4,4,34,41,-7,1523,Charlotte,844,844,24,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,78
+2009-10,2010-01-27,929026,789,0,2,Charlotte,Temple,49ers,Owls,4,4,34,42,-8,1644,Temple,844,844,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,78
+2009-10,2010-01-27,929026,790,0,2,Charlotte,Temple,49ers,Owls,4,4,34,42,-8,1644,Temple,844,844,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,78
+2009-10,2010-01-27,929026,791,0,2,Charlotte,Temple,49ers,Owls,4,4,34,42,-8,1523,Charlotte,844,844,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,78
+2009-10,2010-01-27,929026,816,0,2,Charlotte,Temple,49ers,Owls,4,4,36,42,-6,1523,Charlotte,830,830,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411397,NA,NA,0,Charlotte,Charlotte,79
+2009-10,2010-01-27,929026,817,0,2,Charlotte,Temple,49ers,Owls,4,4,36,42,-6,1644,Temple,830,830,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,79
+2009-10,2010-01-27,929026,818,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1523,Charlotte,830,830,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,79
+2009-10,2010-01-27,929026,835,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1644,Temple,809,809,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,17.85,353101,NA,NA,0,Temple,Temple,80
+2009-10,2010-01-27,929026,836,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1523,Charlotte,809,809,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,80
+2009-10,2010-01-27,929026,837,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1644,Temple,782,782,27, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,10.05,514899,NA,NA,0,Temple,Temple,81
+2009-10,2010-01-27,929026,838,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1523,Charlotte,782,782,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,81
+2009-10,2010-01-27,929026,839,0,2,Charlotte,Temple,49ers,Owls,4,4,37,42,-5,1644,Temple,772,772,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,82
+2009-10,2010-01-27,929026,844,0,2,Charlotte,Temple,49ers,Owls,4,4,38,42,-4,1523,Charlotte,769,769,3, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,82
+2009-10,2010-01-27,929026,872,0,2,Charlotte,Temple,49ers,Owls,4,4,39,42,-3,1523,Charlotte,769,769,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,82
+2009-10,2010-01-27,929026,897,0,2,Charlotte,Temple,49ers,Owls,4,4,39,45,-6,1644,Temple,724,724,45, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.800000000000001,21.15,332875,NA,NA,0,Temple,Charlotte,83
+2009-10,2010-01-27,929026,910,0,2,Charlotte,Temple,49ers,Owls,4,4,39,45,-6,1523,Charlotte,695,695,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,12.049999999999997,349787,NA,NA,0,Charlotte,Charlotte,84
+2009-10,2010-01-27,929026,911,0,2,Charlotte,Temple,49ers,Owls,4,4,39,45,-6,1523,Charlotte,695,695,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,84
+2009-10,2010-01-27,929026,912,0,2,Charlotte,Temple,49ers,Owls,4,4,39,45,-6,1644,Temple,695,695,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,84
+2009-10,2010-01-27,929026,913,0,2,Charlotte,Temple,49ers,Owls,4,4,39,45,-6,NA,NA,695,695,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,916,0,2,Charlotte,Temple,49ers,Owls,4,4,41,45,-4,1523,Charlotte,692,692,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Temple,84
+2009-10,2010-01-27,929026,917,0,2,Charlotte,Temple,49ers,Owls,4,4,41,47,-6,1644,Temple,668,668,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,514899,NA,NA,0,Temple,Charlotte,85
+2009-10,2010-01-27,929026,923,0,2,Charlotte,Temple,49ers,Owls,4,4,43,47,-4,1523,Charlotte,650,650,18, makes a jump shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.8,13.150000000000006,349787,NA,NA,0,Charlotte,Temple,86
+2009-10,2010-01-27,929026,936,0,2,Charlotte,Temple,49ers,Owls,4,4,43,47,-4,1644,Temple,618,618,32, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.05,402985,NA,NA,0,Temple,Temple,87
+2009-10,2010-01-27,929026,937,0,2,Charlotte,Temple,49ers,Owls,4,4,43,47,-4,1523,Charlotte,618,618,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,87
+2009-10,2010-01-27,929026,938,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1523,Charlotte,592,592,26, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,41,9.549999999999997,349787,NA,NA,0,Charlotte,Temple,88
+2009-10,2010-01-27,929026,939,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1644,Temple,575,575,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,5.45,402985,NA,NA,0,Temple,Temple,89
+2009-10,2010-01-27,929026,940,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1523,Charlotte,575,575,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,89
+2009-10,2010-01-27,929026,941,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1523,Charlotte,565,565,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,14.150000000000006,349787,NA,NA,0,Charlotte,Charlotte,90
+2009-10,2010-01-27,929026,941.5,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1644,Temple,565,565,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,90
+2009-10,2010-01-27,929026,942.75,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1523,Charlotte,565,565,0,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,91
+2009-10,2010-01-27,929026,956,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1523,Charlotte,534,534,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.3,24.950000000000003,411397,NA,NA,0,Charlotte,Charlotte,91
+2009-10,2010-01-27,929026,957,0,2,Charlotte,Temple,49ers,Owls,4,4,45,47,-2,1644,Temple,534,534,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,91
+2009-10,2010-01-27,929026,968,0,2,Charlotte,Temple,49ers,Owls,4,4,45,49,-4,1644,Temple,505,505,29, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24.3,20.15,353101,NA,NA,0,Temple,Charlotte,92
+2009-10,2010-01-27,929026,969,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,1523,Charlotte,493,493,12, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,27.2,30.25,411397,NA,NA,0,Charlotte,Temple,93
+2009-10,2010-01-27,929026,979,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,1644,Temple,459,459,34, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,25.35,416798,NA,NA,0,Temple,Temple,94
+2009-10,2010-01-27,929026,980,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,1523,Charlotte,459,459,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,94
+2009-10,2010-01-27,929026,982,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,1644,Temple,437,437,22,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,95
+2009-10,2010-01-27,929026,985,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,NA,NA,435,435,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,988,0,2,Charlotte,Temple,49ers,Owls,4,4,48,49,-1,1523,Charlotte,431,431,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329686,NA,NA,0,Charlotte,Charlotte,95
+2009-10,2010-01-27,929026,993,0,2,Charlotte,Temple,49ers,Owls,4,4,50,49,1,1523,Charlotte,423,423,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411397,NA,NA,0,Charlotte,Temple,95
+2009-10,2010-01-27,929026,994,0,2,Charlotte,Temple,49ers,Owls,4,4,50,51,-1,1644,Temple,407,407,16, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,18.2,16.45,353101,NA,NA,0,Temple,Charlotte,96
+2009-10,2010-01-27,929026,1001,0,2,Charlotte,Temple,49ers,Owls,4,4,52,51,1,1523,Charlotte,389,389,18, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,36,15.349999999999994,349787,NA,NA,0,Charlotte,Temple,97
+2009-10,2010-01-27,929026,1016,0,2,Charlotte,Temple,49ers,Owls,4,4,52,51,1,1644,Temple,360,360,29,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,98
+2009-10,2010-01-27,929026,1018,0,2,Charlotte,Temple,49ers,Owls,4,4,54,51,3,1523,Charlotte,330,330,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Temple,99
+2009-10,2010-01-27,929026,1036,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1644,Temple,325,325,5,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1052,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1644,Temple,309,309,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,11.65,332875,NA,NA,0,Temple,Temple,100
+2009-10,2010-01-27,929026,1053,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1644,Temple,309,309,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,100
+2009-10,2010-01-27,929026,1054,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1644,Temple,301,301,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.8,23.45,353101,NA,NA,0,Temple,Temple,100
+2009-10,2010-01-27,929026,1055,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1523,Charlotte,301,301,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,100
+2009-10,2010-01-27,929026,1057,0,2,Charlotte,Temple,49ers,Owls,4,3,54,51,3,1644,Temple,293,293,8,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,101
+2009-10,2010-01-27,929026,1058,0,2,Charlotte,Temple,49ers,Owls,4,3,55,51,4,1523,Charlotte,293,293,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,101
+2009-10,2010-01-27,929026,1059,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1523,Charlotte,293,293,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,102
+2009-10,2010-01-27,929026,1066,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1523,Charlotte,281,281,12,Personal foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,103
+2009-10,2010-01-27,929026,1068,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1523,Charlotte,243,243,38, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511002,NA,NA,0,Charlotte,Charlotte,103
+2009-10,2010-01-27,929026,1069,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1644,Temple,243,243,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,103
+2009-10,2010-01-27,929026,1070,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1644,Temple,232,232,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,29.65,402985,NA,NA,0,Temple,Temple,104
+2009-10,2010-01-27,929026,1071,0,2,Charlotte,Temple,49ers,Owls,4,3,56,51,5,1523,Charlotte,232,232,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,104
+2009-10,2010-01-27,929026,1072,0,2,Charlotte,Temple,49ers,Owls,4,3,58,51,7,1523,Charlotte,209,209,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511002,NA,NA,0,Charlotte,Temple,105
+2009-10,2010-01-27,929026,1078,0,2,Charlotte,Temple,49ers,Owls,4,2,58,51,7,1644,Temple,208,208,1,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1081,0,2,Charlotte,Temple,49ers,Owls,4,2,58,51,7,1644,Temple,205,205,3, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,20.55,332875,NA,NA,0,Temple,Temple,106
+2009-10,2010-01-27,929026,1082,0,2,Charlotte,Temple,49ers,Owls,4,2,58,51,7,1644,Temple,205,205,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,106
+2009-10,2010-01-27,929026,1083,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,1644,Temple,200,200,5, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.8,7.15,402984,NA,NA,0,Temple,Temple,106
+2009-10,2010-01-27,929026,1087,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,1523,Charlotte,198,198,2,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,106
+2009-10,2010-01-27,929026,1088,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,NA,NA,198,198,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1093,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,1644,Temple,198,198,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,106
+2009-10,2010-01-27,929026,1094,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,1523,Charlotte,198,198,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,106
+2009-10,2010-01-27,929026,1097,0,2,Charlotte,Temple,49ers,Owls,4,2,58,53,5,1644,Temple,197,197,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,107
+2009-10,2010-01-27,929026,1098,0,2,Charlotte,Temple,49ers,Owls,4,2,59,53,6,1523,Charlotte,197,197,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,107
+2009-10,2010-01-27,929026,1099,0,2,Charlotte,Temple,49ers,Owls,4,2,60,53,7,1523,Charlotte,197,197,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,108
+2009-10,2010-01-27,929026,1101,0,2,Charlotte,Temple,49ers,Owls,4,2,60,53,7,1644,Temple,178,178,19, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,20.95,332875,NA,NA,0,Temple,Temple,109
+2009-10,2010-01-27,929026,1102,0,2,Charlotte,Temple,49ers,Owls,4,2,60,53,7,1644,Temple,178,178,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,109
+2009-10,2010-01-27,929026,1103,0,2,Charlotte,Temple,49ers,Owls,4,2,60,53,7,1644,Temple,173,173,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,514899,NA,NA,0,Temple,Temple,109
+2009-10,2010-01-27,929026,1104,0,2,Charlotte,Temple,49ers,Owls,4,2,60,53,7,1644,Temple,173,173,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,109
+2009-10,2010-01-27,929026,1115,0,2,Charlotte,Temple,49ers,Owls,4,2,60,56,4,1644,Temple,154,154,19, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14,26.35,489569,NA,NA,0,Temple,Charlotte,109
+2009-10,2010-01-27,929026,1122,0,2,Charlotte,Temple,49ers,Owls,3,2,60,56,4,1523,Charlotte,142,142,12,49ers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1125,0,2,Charlotte,Temple,49ers,Owls,3,2,63,56,7,1523,Charlotte,127,127,15, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,35.3,27.349999999999994,411397,NA,NA,0,Charlotte,Temple,110
+2009-10,2010-01-27,929026,1140,0,2,Charlotte,Temple,49ers,Owls,3,2,63,56,7,1644,Temple,105,105,22, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,26.15,353101,NA,NA,0,Temple,Temple,111
+2009-10,2010-01-27,929026,1141,0,2,Charlotte,Temple,49ers,Owls,3,2,63,56,7,1523,Charlotte,105,105,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,111
+2009-10,2010-01-27,929026,1148,0,2,Charlotte,Temple,49ers,Owls,3,2,63,56,7,1644,Temple,103,103,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,112
+2009-10,2010-01-27,929026,1150,0,2,Charlotte,Temple,49ers,Owls,3,2,63,56,7,1523,Charlotte,103,103,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,112
+2009-10,2010-01-27,929026,1152,0,2,Charlotte,Temple,49ers,Owls,3,2,64,56,8,1523,Charlotte,103,103,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,112
+2009-10,2010-01-27,929026,1155,0,2,Charlotte,Temple,49ers,Owls,3,1,64,56,8,1644,Temple,95,95,8,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1166,0,2,Charlotte,Temple,49ers,Owls,3,1,64,56,8,1644,Temple,81,81,14,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,113
+2009-10,2010-01-27,929026,1167,0,2,Charlotte,Temple,49ers,Owls,3,1,65,56,9,1523,Charlotte,81,81,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,113
+2009-10,2010-01-27,929026,1168,0,2,Charlotte,Temple,49ers,Owls,3,1,66,56,10,1523,Charlotte,81,81,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,113
+2009-10,2010-01-27,929026,1171,0,2,Charlotte,Temple,49ers,Owls,3,1,66,56,10,1523,Charlotte,75,75,6,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,114
+2009-10,2010-01-27,929026,1174,0,2,Charlotte,Temple,49ers,Owls,3,1,66,57,9,1644,Temple,73,73,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,114
+2009-10,2010-01-27,929026,1175,0,2,Charlotte,Temple,49ers,Owls,3,1,66,57,9,1644,Temple,73,73,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,114
+2009-10,2010-01-27,929026,1176,0,2,Charlotte,Temple,49ers,Owls,3,1,66,57,9,1523,Charlotte,73,73,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,114
+2009-10,2010-01-27,929026,1179,0,2,Charlotte,Temple,49ers,Owls,3,1,66,57,9,1644,Temple,72,72,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,115
+2009-10,2010-01-27,929026,1180,0,2,Charlotte,Temple,49ers,Owls,3,1,67,57,10,1523,Charlotte,72,72,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,115
+2009-10,2010-01-27,929026,1181,0,2,Charlotte,Temple,49ers,Owls,3,1,68,57,11,1523,Charlotte,72,72,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,115
+2009-10,2010-01-27,929026,1183,0,2,Charlotte,Temple,49ers,Owls,3,1,68,57,11,1644,Temple,68,68,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332875,NA,NA,0,Temple,Temple,116
+2009-10,2010-01-27,929026,1187,0,2,Charlotte,Temple,49ers,Owls,3,1,68,60,8,1644,Temple,58,58,10, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26.3,30.55,353101,NA,NA,0,Temple,Charlotte,116
+2009-10,2010-01-27,929026,1196,0,2,Charlotte,Temple,49ers,Owls,3,0,68,60,8,1644,Temple,58,58,0,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1198,0,2,Charlotte,Temple,49ers,Owls,3,0,68,60,8,1644,Temple,58,58,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,117
+2009-10,2010-01-27,929026,1199,0,2,Charlotte,Temple,49ers,Owls,3,0,69,60,9,1523,Charlotte,58,58,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,117
+2009-10,2010-01-27,929026,1201,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1523,Charlotte,58,58,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,117
+2009-10,2010-01-27,929026,1210,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1644,Temple,55,55,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10.2,21.35,489569,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1211,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1644,Temple,55,55,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1212,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1644,Temple,55,55,0, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24.5,9.55,332875,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1213,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1644,Temple,55,55,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1214,0,2,Charlotte,Temple,49ers,Owls,3,0,70,60,10,1523,Charlotte,55,55,0,Shooting foul committed by 49ers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1215,0,2,Charlotte,Temple,49ers,Owls,3,0,70,61,9,1644,Temple,55,55,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,118
+2009-10,2010-01-27,929026,1216,0,2,Charlotte,Temple,49ers,Owls,3,0,70,62,8,1644,Temple,55,55,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Charlotte,118
+2009-10,2010-01-27,929026,1224,0,2,Charlotte,Temple,49ers,Owls,3,0,70,62,8,1644,Temple,44,44,11,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,119
+2009-10,2010-01-27,929026,1225,0,2,Charlotte,Temple,49ers,Owls,3,0,70,62,8,1523,Charlotte,44,44,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,119
+2009-10,2010-01-27,929026,1227,0,2,Charlotte,Temple,49ers,Owls,3,0,71,62,9,1523,Charlotte,44,44,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,119
+2009-10,2010-01-27,929026,1229,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1523,Charlotte,33,33,11, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,411397,NA,NA,0,Charlotte,Temple,120
+2009-10,2010-01-27,929026,1230,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,20,20,13, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,25.35,353101,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1231,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,20,20,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1232,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,15,15,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.2,6.05,402984,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1233,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,15,15,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1234,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,8,8,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.199999999999999,21.35,353101,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1235,0,2,Charlotte,Temple,49ers,Owls,3,0,73,62,11,1644,Temple,8,8,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,121
+2009-10,2010-01-27,929026,1244,0,2,Charlotte,Temple,49ers,Owls,3,0,73,64,9,1644,Temple,7,7,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332875,NA,NA,0,Temple,Charlotte,121
+2009-10,2010-01-27,929026,1249,0,2,Charlotte,Temple,49ers,Owls,3,0,73,64,9,1644,Temple,4,4,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,122
+2009-10,2010-01-27,929026,1250,0,2,Charlotte,Temple,49ers,Owls,3,0,74,64,10,1523,Charlotte,4,4,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,122
+2009-10,2010-01-27,929026,1251,0,2,Charlotte,Temple,49ers,Owls,3,0,74,64,10,1523,Charlotte,4,4,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Charlotte,122
+2009-10,2010-01-27,929026,1252,0,2,Charlotte,Temple,49ers,Owls,3,0,74,64,10,1644,Temple,4,4,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Charlotte,Temple,122
+2009-10,2010-01-27,929026,1254,0,2,Charlotte,Temple,49ers,Owls,3,0,74,64,10,NA,NA,0,0,4,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-27,929026,1255,0,2,Charlotte,Temple,49ers,Owls,3,0,74,64,10,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,NA

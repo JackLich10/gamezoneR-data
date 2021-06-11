@@ -1,0 +1,184 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-17,933447,1,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,NA
+2009-10,2009-11-17,933447,3,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,0,0,0,1449,Iowa,2387,1187,13, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,28.2,9.549999999999997,469227,NA,NA,0,Iowa,Duquesne,1
+2009-10,2009-11-17,933447,4,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,0,2,-2,1389,Duquesne,2367,1167,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Iowa,2
+2009-10,2009-11-17,933447,5,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,0,2,-2,1449,Iowa,2331,1131,36, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46,14.950000000000003,506031,NA,NA,0,Iowa,Duquesne,3
+2009-10,2009-11-17,933447,6,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,0,2,-2,1389,Duquesne,2290,1090,41, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,22.85,398417,NA,NA,0,Duquesne,Iowa,4
+2009-10,2009-11-17,933447,7,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,2,0,1449,Iowa,2286,1086,4, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,30.3,11.049999999999997,469227,NA,NA,0,Iowa,Duquesne,5
+2009-10,2009-11-17,933447,9,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,2,0,1449,Iowa,2268,1068,18,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,6
+2009-10,2009-11-17,933447,12,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,2,0,1449,Iowa,2179,979,89, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41,20.950000000000003,506036,NA,NA,0,Iowa,Duquesne,6
+2009-10,2009-11-17,933447,13,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,2,0,1449,Iowa,2179,979,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,7
+2009-10,2009-11-17,933447,14,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,2,0,1389,Duquesne,2179,979,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,7
+2009-10,2009-11-17,933447,15,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,3,-1,1389,Duquesne,2179,979,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,7
+2009-10,2009-11-17,933447,18,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,5,-3,1389,Duquesne,2178,978,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469239,NA,NA,0,Duquesne,Iowa,8
+2009-10,2009-11-17,933447,19,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,2,5,-3,1449,Iowa,2178,978,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,18.049999999999997,506036,NA,NA,0,Iowa,Iowa,9
+2009-10,2009-11-17,933447,21,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,5,5,0,1449,Iowa,2178,978,0, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,41.2,23.049999999999997,469224,NA,NA,0,Iowa,Duquesne,9
+2009-10,2009-11-17,933447,22,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,5,7,-2,1389,Duquesne,2174,974,4, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,19.5,12.65,469237,NA,NA,0,Duquesne,Iowa,10
+2009-10,2009-11-17,933447,24,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,5,7,-2,1389,Duquesne,2170,970,4,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,25,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,6,7,-1,1449,Iowa,2170,970,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,26,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,6,7,-1,1449,Iowa,2170,970,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,30,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,6,7,-1,NA,NA,2157,957,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,32,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,6,7,-1,1449,Iowa,2149,949,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,25.75,506045,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,34,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,7,1,1449,Iowa,2128,928,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506036,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,35,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,7,1,1389,Duquesne,2126,926,2,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,11
+2009-10,2009-11-17,933447,36,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,7,1,1449,Iowa,2126,926,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,11
+2009-10,2009-11-17,933447,38,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,7,1,1389,Duquesne,2125,925,1, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.2,11.65,353273,NA,NA,0,Duquesne,Duquesne,12
+2009-10,2009-11-17,933447,53,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1389,Duquesne,2093,893,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469239,NA,NA,0,Duquesne,Iowa,12
+2009-10,2009-11-17,933447,56,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1449,Iowa,2056,856,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469224,NA,NA,0,Iowa,Duquesne,13
+2009-10,2009-11-17,933447,57,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1389,Duquesne,2048,848,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398417,NA,NA,0,Duquesne,Duquesne,14
+2009-10,2009-11-17,933447,59,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1449,Iowa,2040,840,8,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,14
+2009-10,2009-11-17,933447,62,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1389,Duquesne,2033,833,7,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,14
+2009-10,2009-11-17,933447,67,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1449,Iowa,2027,827,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,23.049999999999997,469223,NA,NA,0,Iowa,Iowa,15
+2009-10,2009-11-17,933447,70,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,9,-1,1449,Iowa,1991,791,36, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,16.650000000000006,506036,NA,NA,0,Iowa,Duquesne,15
+2009-10,2009-11-17,933447,71,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,8,12,-4,1389,Duquesne,1984,784,7, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,20.8,28.45,416197,NA,NA,0,Duquesne,Iowa,16
+2009-10,2009-11-17,933447,78,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,12,-2,1449,Iowa,1962,762,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469223,NA,NA,0,Iowa,Duquesne,17
+2009-10,2009-11-17,933447,79,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,12,-2,1389,Duquesne,1947,747,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,5.25,398417,NA,NA,0,Duquesne,Duquesne,18
+2009-10,2009-11-17,933447,82,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,12,-2,1389,Duquesne,1928,728,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.6999999999999993,6.65,469239,NA,NA,0,Duquesne,Iowa,18
+2009-10,2009-11-17,933447,83,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,12,-2,1449,Iowa,1914,714,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,7.150000000000006,329845,NA,NA,0,Iowa,Duquesne,19
+2009-10,2009-11-17,933447,84,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,14,-4,1389,Duquesne,1909,709,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,20
+2009-10,2009-11-17,933447,90,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,14,-4,1449,Iowa,1887,687,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,26.150000000000006,469224,NA,NA,0,Iowa,Duquesne,21
+2009-10,2009-11-17,933447,91,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,10,14,-4,1389,Duquesne,1861,661,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.8,20.95,469237,NA,NA,0,Duquesne,Iowa,22
+2009-10,2009-11-17,933447,121,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,14,-2,1449,Iowa,1837,637,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506031,NA,NA,0,Iowa,Iowa,23
+2009-10,2009-11-17,933447,122,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,14,-2,1389,Duquesne,1837,637,0,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,23
+2009-10,2009-11-17,933447,125,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,14,-2,1449,Iowa,1836,636,1, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,23
+2009-10,2009-11-17,933447,141,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,14,-2,1389,Duquesne,1795,595,41, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,11.85,398417,NA,NA,0,Duquesne,Duquesne,24
+2009-10,2009-11-17,933447,143,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,16,-4,1389,Duquesne,1783,583,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Iowa,24
+2009-10,2009-11-17,933447,145,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,12,16,-4,1449,Iowa,1753,553,30, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,14.950000000000003,469224,NA,NA,0,Iowa,Iowa,25
+2009-10,2009-11-17,933447,156,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,1449,Iowa,1733,533,20, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,43.5,21.849999999999994,469223,NA,NA,0,Iowa,Duquesne,25
+2009-10,2009-11-17,933447,166,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,1449,Iowa,1712,512,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.299999999999997,24.25,469223,NA,NA,0,Iowa,Duquesne,26
+2009-10,2009-11-17,933447,167,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,1389,Duquesne,1687,487,25, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,22.85,469241,NA,NA,0,Duquesne,Duquesne,27
+2009-10,2009-11-17,933447,169,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,1389,Duquesne,1672,472,15,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,27
+2009-10,2009-11-17,933447,184,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,NA,NA,1667,467,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,186,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,15,16,-1,1389,Duquesne,1664,464,3, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,11.3,29.45,353273,NA,NA,0,Duquesne,Iowa,28
+2009-10,2009-11-17,933447,187,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,17,16,1,1449,Iowa,1658,458,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469223,NA,NA,0,Iowa,Duquesne,29
+2009-10,2009-11-17,933447,191,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,17,16,1,1389,Duquesne,1625,425,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469241,NA,NA,0,Duquesne,Iowa,30
+2009-10,2009-11-17,933447,201,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,16,3,1449,Iowa,1574,374,51, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,16.299999999999997,9.349999999999994,402413,NA,NA,0,Iowa,Duquesne,31
+2009-10,2009-11-17,933447,202,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,16,3,1389,Duquesne,1551,351,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398417,NA,NA,0,Duquesne,Duquesne,32
+2009-10,2009-11-17,933447,205,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,18,1,1389,Duquesne,1498,298,53, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,32
+2009-10,2009-11-17,933447,206,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,18,1,1449,Iowa,1473,273,25, misses a tip shot from 6 feet out.,missed,FALSE,FALSE,Tip Shot,29,9.549999999999997,506036,NA,NA,0,Iowa,Duquesne,33
+2009-10,2009-11-17,933447,210,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,18,1,1449,Iowa,1461,261,12,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,34
+2009-10,2009-11-17,933447,217,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,21,-2,1389,Duquesne,1451,251,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,16.85,416197,NA,NA,0,Duquesne,Iowa,34
+2009-10,2009-11-17,933447,218,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,21,-2,1449,Iowa,1432,232,19, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,26.75,329845,NA,NA,0,Iowa,Duquesne,35
+2009-10,2009-11-17,933447,219,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,21,-2,1389,Duquesne,1425,225,7, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,18.45,469237,NA,NA,0,Duquesne,Iowa,36
+2009-10,2009-11-17,933447,220,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,21,-2,1449,Iowa,1416,216,9, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,29,15.150000000000006,469224,NA,NA,0,Iowa,Duquesne,37
+2009-10,2009-11-17,933447,222,0,1,Iowa,Duquesne,Hawkeyes,Dukes,4,4,19,23,-4,1389,Duquesne,1403,203,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,38
+2009-10,2009-11-17,933447,223,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,19,23,-4,1449,Iowa,1402,202,1,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,234,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,23,-1,1449,Iowa,1387,187,15, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,8,23.049999999999997,329845,NA,NA,0,Iowa,Duquesne,39
+2009-10,2009-11-17,933447,235,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,1389,Duquesne,1371,171,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,40
+2009-10,2009-11-17,933447,241,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,1389,Duquesne,1353,153,18,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,41
+2009-10,2009-11-17,933447,255,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,NA,NA,1340,140,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,256,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,1449,Iowa,1340,140,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,41
+2009-10,2009-11-17,933447,258,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,1389,Duquesne,1325,125,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21,30.35,398417,NA,NA,0,Duquesne,Iowa,42
+2009-10,2009-11-17,933447,259,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,25,-3,1449,Iowa,1311,111,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,30.549999999999997,402413,NA,NA,0,Iowa,Duquesne,43
+2009-10,2009-11-17,933447,260,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,28,-6,1389,Duquesne,1301,101,10, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,9.3,20.95,469237,NA,NA,0,Duquesne,Iowa,44
+2009-10,2009-11-17,933447,261,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,30,-8,1389,Duquesne,1281,81,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Iowa,45
+2009-10,2009-11-17,933447,263,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,30,-8,1449,Iowa,1258,58,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Duquesne,46
+2009-10,2009-11-17,933447,268,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,4,22,33,-11,1389,Duquesne,1230,30,28, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,24.7,31.35,398417,NA,NA,0,Duquesne,Iowa,47
+2009-10,2009-11-17,933447,270,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,22,33,-11,1389,Duquesne,1227,27,3,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,286,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,22,33,-11,1389,Duquesne,1202,2,25,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,48
+2009-10,2009-11-17,933447,287,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,23,33,-10,1449,Iowa,1202,2,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,48
+2009-10,2009-11-17,933447,288,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,24,33,-9,1449,Iowa,1202,2,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,48
+2009-10,2009-11-17,933447,289,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,25,33,-8,1449,Iowa,1202,2,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,48
+2009-10,2009-11-17,933447,291,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,25,33,-8,1389,Duquesne,1202,2,0, misses a 3-point jump shot from 44 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,44.55,353273,NA,NA,0,Duquesne,Duquesne,49
+2009-10,2009-11-17,933447,292,0,1,Iowa,Duquesne,Hawkeyes,Dukes,3,3,25,33,-8,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,293,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,25,33,-8,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duquesne,49
+2009-10,2009-11-17,933447,309,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,25,36,-11,1389,Duquesne,1182,1182,18, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,6.800000000000001,20.55,398417,NA,NA,0,Duquesne,Iowa,50
+2009-10,2009-11-17,933447,310,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1449,Iowa,1165,1165,17, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,17,30.549999999999997,469223,NA,NA,0,Iowa,Duquesne,51
+2009-10,2009-11-17,933447,311,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1389,Duquesne,1159,1159,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469239,NA,NA,0,Duquesne,Iowa,52
+2009-10,2009-11-17,933447,314,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1389,Duquesne,1135,1135,24,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,53
+2009-10,2009-11-17,933447,316,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1449,Iowa,1132,1132,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Duquesne,53
+2009-10,2009-11-17,933447,317,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1389,Duquesne,1096,1096,36, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.6999999999999993,6.25,398417,NA,NA,0,Duquesne,Duquesne,54
+2009-10,2009-11-17,933447,320,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1389,Duquesne,1053,1053,43, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,19.35,469237,NA,NA,0,Duquesne,Iowa,54
+2009-10,2009-11-17,933447,321,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,28,36,-8,1449,Iowa,1036,1036,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,10.849999999999994,469227,NA,NA,0,Iowa,Iowa,55
+2009-10,2009-11-17,933447,322,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,36,-6,1449,Iowa,1030,1030,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469227,NA,NA,0,Iowa,Duquesne,55
+2009-10,2009-11-17,933447,323,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,36,-6,1389,Duquesne,1007,1007,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398417,NA,NA,0,Duquesne,Duquesne,56
+2009-10,2009-11-17,933447,344,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1389,Duquesne,1001,1001,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469239,NA,NA,0,Duquesne,Iowa,56
+2009-10,2009-11-17,933447,346,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1389,Duquesne,985,985,16,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,57
+2009-10,2009-11-17,933447,349,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1389,Duquesne,982,982,3,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,57
+2009-10,2009-11-17,933447,352,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1449,Iowa,980,980,2, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,6.049999999999997,469227,NA,NA,0,Iowa,Iowa,57
+2009-10,2009-11-17,933447,353,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1449,Iowa,963,963,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,8.150000000000006,469227,NA,NA,0,Iowa,Duquesne,57
+2009-10,2009-11-17,933447,354,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1389,Duquesne,957,957,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.699999999999999,14.75,469237,NA,NA,0,Duquesne,Iowa,58
+2009-10,2009-11-17,933447,355,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,38,-8,1449,Iowa,948,948,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,12.75,469223,NA,NA,0,Iowa,Duquesne,59
+2009-10,2009-11-17,933447,358,0,2,Iowa,Duquesne,Hawkeyes,Dukes,4,4,30,41,-11,1389,Duquesne,940,940,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,2.6999999999999993,4.85,398417,NA,NA,0,Duquesne,Iowa,60
+2009-10,2009-11-17,933447,367,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,30,41,-11,1449,Iowa,932,932,8,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,379,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,32,41,-9,1449,Iowa,917,917,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506045,NA,NA,0,Iowa,Iowa,61
+2009-10,2009-11-17,933447,380,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,32,41,-9,1389,Duquesne,917,917,0,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,61
+2009-10,2009-11-17,933447,381,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,32,41,-9,NA,NA,917,917,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,382,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,33,41,-8,1449,Iowa,917,917,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,61
+2009-10,2009-11-17,933447,391,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,33,41,-8,1449,Iowa,907,907,10,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,62
+2009-10,2009-11-17,933447,393,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,33,41,-8,1389,Duquesne,906,906,1, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,13.5,28.05,398417,NA,NA,0,Duquesne,Duquesne,62
+2009-10,2009-11-17,933447,403,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,33,41,-8,1449,Iowa,877,877,29,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,62
+2009-10,2009-11-17,933447,405,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,4,33,41,-8,1389,Duquesne,861,861,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416197,NA,NA,0,Duquesne,Duquesne,62
+2009-10,2009-11-17,933447,407,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,33,41,-8,1389,Duquesne,851,851,10,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,409,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,33,41,-8,1389,Duquesne,841,841,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511018,NA,NA,0,Duquesne,Iowa,62
+2009-10,2009-11-17,933447,424,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,41,-5,1449,Iowa,811,811,30, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,44.2,19.150000000000006,469223,NA,NA,0,Iowa,Duquesne,63
+2009-10,2009-11-17,933447,425,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,41,-5,1389,Duquesne,791,791,20, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,6.199999999999999,7.75,511018,NA,NA,0,Duquesne,Iowa,64
+2009-10,2009-11-17,933447,426,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,41,-5,1449,Iowa,775,775,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.700000000000003,9.549999999999997,506045,NA,NA,0,Iowa,Iowa,65
+2009-10,2009-11-17,933447,429,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,41,-5,1449,Iowa,720,720,55, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.7,30.25,469223,NA,NA,0,Iowa,Duquesne,65
+2009-10,2009-11-17,933447,433,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,41,-5,1449,Iowa,703,703,17,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,66
+2009-10,2009-11-17,933447,434,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,42,-6,1389,Duquesne,703,703,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,66
+2009-10,2009-11-17,933447,435,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,42,-6,1389,Duquesne,703,703,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,66
+2009-10,2009-11-17,933447,448,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,42,-6,1449,Iowa,683,683,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.5,26.150000000000006,506031,NA,NA,0,Iowa,Duquesne,67
+2009-10,2009-11-17,933447,449,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,674,674,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469237,NA,NA,0,Duquesne,Iowa,68
+2009-10,2009-11-17,933447,478,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,658,658,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.2,9.85,416197,NA,NA,0,Duquesne,Duquesne,69
+2009-10,2009-11-17,933447,480,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,NA,NA,653,653,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,482,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,639,639,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416197,NA,NA,0,Duquesne,Iowa,69
+2009-10,2009-11-17,933447,484,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1449,Iowa,593,593,46,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,70
+2009-10,2009-11-17,933447,494,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1449,Iowa,557,557,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506036,NA,NA,0,Iowa,Duquesne,71
+2009-10,2009-11-17,933447,495,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,548,548,9, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,15.65,511018,NA,NA,0,Duquesne,Duquesne,72
+2009-10,2009-11-17,933447,498,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1449,Iowa,537,537,11,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,72
+2009-10,2009-11-17,933447,499,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,537,537,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,72
+2009-10,2009-11-17,933447,500,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,537,537,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,72
+2009-10,2009-11-17,933447,515,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,36,44,-8,1389,Duquesne,535,535,2,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,73
+2009-10,2009-11-17,933447,516,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,37,44,-7,1449,Iowa,535,535,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,73
+2009-10,2009-11-17,933447,517,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,38,44,-6,1449,Iowa,535,535,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,73
+2009-10,2009-11-17,933447,517.5,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,39,44,-5,1449,Iowa,535,535,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,74
+2009-10,2009-11-17,933447,518,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,39,44,-5,1389,Duquesne,535,535,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4,13.95,398417,NA,NA,0,Duquesne,Duquesne,75
+2009-10,2009-11-17,933447,520,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,39,44,-5,1389,Duquesne,535,535,0, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,75
+2009-10,2009-11-17,933447,524,0,2,Iowa,Duquesne,Hawkeyes,Dukes,3,3,39,44,-5,1389,Duquesne,519,519,16,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,76
+2009-10,2009-11-17,933447,527,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1449,Iowa,519,519,0,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,529,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1449,Iowa,509,509,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,23.450000000000003,506031,NA,NA,0,Iowa,Duquesne,76
+2009-10,2009-11-17,933447,532,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1449,Iowa,467,467,42,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,77
+2009-10,2009-11-17,933447,542,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,NA,NA,467,467,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,543,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1389,Duquesne,467,467,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,77
+2009-10,2009-11-17,933447,544,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1389,Duquesne,467,467,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,77
+2009-10,2009-11-17,933447,552,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1449,Iowa,455,455,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.799999999999997,22.25,329845,NA,NA,0,Iowa,Duquesne,78
+2009-10,2009-11-17,933447,553,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1389,Duquesne,442,442,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,29.25,398417,NA,NA,0,Duquesne,Iowa,79
+2009-10,2009-11-17,933447,554,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,39,44,-5,1449,Iowa,427,427,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,25.349999999999994,469223,NA,NA,0,Iowa,Iowa,80
+2009-10,2009-11-17,933447,555,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1449,Iowa,422,422,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506045,NA,NA,0,Iowa,Duquesne,80
+2009-10,2009-11-17,933447,556,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1389,Duquesne,386,386,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469237,NA,NA,0,Duquesne,Duquesne,81
+2009-10,2009-11-17,933447,557,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1389,Duquesne,382,382,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469237,NA,NA,0,Duquesne,Iowa,81
+2009-10,2009-11-17,933447,563,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1389,Duquesne,356,356,26,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,82
+2009-10,2009-11-17,933447,564,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1449,Iowa,356,356,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,82
+2009-10,2009-11-17,933447,565,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1449,Iowa,356,356,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,82
+2009-10,2009-11-17,933447,573,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,44,-3,1389,Duquesne,332,332,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469237,NA,NA,0,Duquesne,Duquesne,83
+2009-10,2009-11-17,933447,576,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,46,-5,1389,Duquesne,328,328,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416197,NA,NA,0,Duquesne,Iowa,83
+2009-10,2009-11-17,933447,580,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,46,-5,1449,Iowa,309,309,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.8,24.049999999999997,329845,NA,NA,0,Iowa,Iowa,84
+2009-10,2009-11-17,933447,581,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,46,-5,1389,Duquesne,306,306,3,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,84
+2009-10,2009-11-17,933447,582,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,41,46,-5,1449,Iowa,306,306,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,84
+2009-10,2009-11-17,933447,587,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,42,46,-4,1449,Iowa,306,306,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,84
+2009-10,2009-11-17,933447,590,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,42,46,-4,1389,Duquesne,277,277,29,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,85
+2009-10,2009-11-17,933447,592,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,44,46,-2,1449,Iowa,254,254,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Duquesne,86
+2009-10,2009-11-17,933447,594,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,44,46,-2,1389,Duquesne,215,215,39, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.300000000000001,22.25,469237,NA,NA,0,Duquesne,Iowa,87
+2009-10,2009-11-17,933447,604,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,44,46,-2,NA,NA,204,204,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,606,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,3,47,46,1,1449,Iowa,179,179,25, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,46.7,14.150000000000006,469224,NA,NA,0,Iowa,Duquesne,88
+2009-10,2009-11-17,933447,608,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,2,47,46,1,1389,Duquesne,165,165,14,Dukes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,613,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,2,47,46,1,1389,Duquesne,134,134,31,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Iowa,89
+2009-10,2009-11-17,933447,626,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,2,47,46,1,1449,Iowa,121,121,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,12.25,469223,NA,NA,0,Iowa,Duquesne,90
+2009-10,2009-11-17,933447,628,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,1,47,46,1,1389,Duquesne,110,110,11,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,636,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,1,47,49,-2,1389,Duquesne,101,101,9, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.199999999999999,4.85,353273,NA,NA,0,Duquesne,Duquesne,91
+2009-10,2009-11-17,933447,638,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,1,47,49,-2,1449,Iowa,72,72,29,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,91
+2009-10,2009-11-17,933447,639,0,2,Iowa,Duquesne,Hawkeyes,Dukes,2,1,47,49,-2,1389,Duquesne,72,72,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,91
+2009-10,2009-11-17,933447,642,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,47,49,-2,1449,Iowa,62,62,10,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,649,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,47,49,-2,1449,Iowa,44,44,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469224,NA,NA,0,Iowa,Iowa,91
+2009-10,2009-11-17,933447,650,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,49,49,0,1449,Iowa,42,42,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506045,NA,NA,0,Iowa,Iowa,91
+2009-10,2009-11-17,933447,651,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,49,49,0,1389,Duquesne,42,42,0,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2009-10,2009-11-17,933447,652,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,49,49,0,1389,Duquesne,42,42,0,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2009-10,2009-11-17,933447,653,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,1,50,49,1,1449,Iowa,42,42,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Duquesne,91
+2009-10,2009-11-17,933447,654,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,0,50,49,1,1389,Duquesne,42,42,0,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,675,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,0,50,52,-2,1389,Duquesne,18,18,24, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,6.800000000000001,21.45,398417,NA,NA,0,Duquesne,Iowa,92
+2009-10,2009-11-17,933447,677,0,2,Iowa,Duquesne,Hawkeyes,Dukes,1,0,50,52,-2,1449,Iowa,13,13,5, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,6.25,469223,NA,NA,0,Iowa,Iowa,93
+2009-10,2009-11-17,933447,690,0,2,Iowa,Duquesne,Hawkeyes,Dukes,0,0,50,52,-2,1449,Iowa,1,1,12,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,691,0,2,Iowa,Duquesne,Hawkeyes,Dukes,0,0,50,52,-2,1449,Iowa,0,0,1, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,19.950000000000003,506036,NA,NA,0,Iowa,NA,93
+2009-10,2009-11-17,933447,692,0,2,Iowa,Duquesne,Hawkeyes,Dukes,0,0,50,52,-2,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,933447,694,0,2,Iowa,Duquesne,Hawkeyes,Dukes,0,0,50,52,-2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,NA

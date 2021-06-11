@@ -1,0 +1,207 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-17,928566,1,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulane,NA
+2009-10,2010-02-17,928566,3,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,2,0,2,1661,Tulane,2385,1185,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,1
+2009-10,2010-02-17,928566,4,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,2,0,2,1493,Memphis,2352,1152,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39,21.85,467272,NA,NA,0,Memphis,Memphis,2
+2009-10,2010-02-17,928566,10,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,2,2,0,1493,Memphis,2321,1121,31, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,18.3,16.05,464840,NA,NA,0,Memphis,Tulane,2
+2009-10,2010-02-17,928566,20,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,2,2,0,1661,Tulane,2238,1038,83, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,16.25,458974,NA,NA,0,Tulane,Tulane,3
+2009-10,2010-02-17,928566,21,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,4,2,2,1661,Tulane,2232,1032,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,Memphis,3
+2009-10,2010-02-17,928566,39,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,4,2,2,1493,Memphis,2206,1006,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,48.3,3.15,329995,NA,NA,0,Memphis,Tulane,4
+2009-10,2010-02-17,928566,40,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,4,2,2,1661,Tulane,2179,979,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Memphis,5
+2009-10,2010-02-17,928566,43,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,4,5,-1,1493,Memphis,2161,961,18, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,22,30.55,329519,NA,NA,0,Memphis,Tulane,6
+2009-10,2010-02-17,928566,44,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,5,2,1661,Tulane,2142,942,19, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,39.7,20.950000000000003,330029,NA,NA,0,Tulane,Memphis,7
+2009-10,2010-02-17,928566,66,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,5,2,NA,NA,2113,913,29,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,68,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,5,2,1661,Tulane,2089,889,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,301792,NA,NA,0,Tulane,Memphis,8
+2009-10,2010-02-17,928566,70,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,5,2,1661,Tulane,2057,857,32,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2010-02-17,928566,71,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,5,2,1493,Memphis,2057,857,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2010-02-17,928566,72,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,6,1,1493,Memphis,2057,857,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2010-02-17,928566,73,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,7,0,1493,Memphis,2057,857,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,9
+2009-10,2010-02-17,928566,76,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,7,7,0,1493,Memphis,2024,824,33,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-02-17,928566,77,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,8,7,1,1661,Tulane,2024,824,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,10
+2009-10,2010-02-17,928566,78,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,8,7,1,1661,Tulane,2024,824,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,10
+2009-10,2010-02-17,928566,80,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,8,7,1,1493,Memphis,1997,797,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329995,NA,NA,0,Memphis,Tulane,11
+2009-10,2010-02-17,928566,86,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,7,3,1661,Tulane,1964,764,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,12
+2009-10,2010-02-17,928566,88,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,7,3,1661,Tulane,1941,741,23,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,13
+2009-10,2010-02-17,928566,89,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,7,3,1493,Memphis,1941,741,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,13
+2009-10,2010-02-17,928566,90,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,7,3,1493,Memphis,1941,741,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,13
+2009-10,2010-02-17,928566,92,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,7,3,1661,Tulane,1931,731,10, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27,10.25,525093,NA,NA,0,Tulane,Memphis,14
+2009-10,2010-02-17,928566,93,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,10,0,1493,Memphis,1920,720,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47.2,5.05,329519,NA,NA,0,Memphis,Tulane,15
+2009-10,2010-02-17,928566,94,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,12,-2,1493,Memphis,1897,697,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467272,NA,NA,0,Memphis,Tulane,16
+2009-10,2010-02-17,928566,95,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,12,-2,1661,Tulane,1878,678,19, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,16.450000000000003,525093,NA,NA,0,Tulane,Memphis,17
+2009-10,2010-02-17,928566,96,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,10,15,-5,1493,Memphis,1848,648,30, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.5,6.25,329519,NA,NA,0,Memphis,Tulane,18
+2009-10,2010-02-17,928566,98,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,12,15,-3,1661,Tulane,1824,624,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,Memphis,19
+2009-10,2010-02-17,928566,99,0,1,Tulane,Memphis,Green Wave,Tigers,4,4,12,17,-5,1493,Memphis,1812,612,12, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,35.3,17.05,467272,NA,NA,0,Memphis,Tulane,20
+2009-10,2010-02-17,928566,103,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,12,17,-5,1661,Tulane,1809,609,3,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,106,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,12,17,-5,1493,Memphis,1804,604,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,21
+2009-10,2010-02-17,928566,112,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,12,17,-5,NA,NA,1799,599,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,113,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,12,17,-5,1661,Tulane,1799,599,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,21
+2009-10,2010-02-17,928566,114,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,13,17,-4,1661,Tulane,1799,599,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,21
+2009-10,2010-02-17,928566,122,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,13,19,-6,1493,Memphis,1784,584,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506598,NA,NA,0,Memphis,Tulane,22
+2009-10,2010-02-17,928566,124,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,13,19,-6,1493,Memphis,1769,569,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,23
+2009-10,2010-02-17,928566,126,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,13,19,-6,1661,Tulane,1755,555,14, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,25.7,10.650000000000006,330028,NA,NA,0,Tulane,Memphis,23
+2009-10,2010-02-17,928566,127,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,13,21,-8,1493,Memphis,1749,549,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Tulane,24
+2009-10,2010-02-17,928566,131,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,21,-6,1661,Tulane,1726,526,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330029,NA,NA,0,Tulane,Memphis,25
+2009-10,2010-02-17,928566,133,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,21,-6,1493,Memphis,1721,521,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,26
+2009-10,2010-02-17,928566,135,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,21,-6,1661,Tulane,1721,521,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,26
+2009-10,2010-02-17,928566,137,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,23,-8,1493,Memphis,1718,518,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467272,NA,NA,0,Memphis,Tulane,27
+2009-10,2010-02-17,928566,139,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,23,-8,1661,Tulane,1714,514,4,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,28
+2009-10,2010-02-17,928566,140,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,24,-9,1493,Memphis,1714,514,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,28
+2009-10,2010-02-17,928566,144,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,15,24,-9,1493,Memphis,1706,506,8,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,29
+2009-10,2010-02-17,928566,150,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,16,24,-8,1661,Tulane,1701,501,5, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,29
+2009-10,2010-02-17,928566,151,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,17,24,-7,1661,Tulane,1701,501,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,29
+2009-10,2010-02-17,928566,153,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,17,24,-7,1493,Memphis,1694,494,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,30.55,467272,NA,NA,0,Memphis,Tulane,30
+2009-10,2010-02-17,928566,154,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,17,24,-7,1661,Tulane,1668,468,26, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,25.150000000000006,329843,NA,NA,0,Tulane,Tulane,31
+2009-10,2010-02-17,928566,156,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,17,24,-7,1493,Memphis,1661,461,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,31
+2009-10,2010-02-17,928566,157,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,17,24,-7,NA,NA,1661,461,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,158,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,18,24,-6,1661,Tulane,1661,461,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,31
+2009-10,2010-02-17,928566,159,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,18,24,-6,1661,Tulane,1661,461,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,31
+2009-10,2010-02-17,928566,164,0,1,Tulane,Memphis,Green Wave,Tigers,3,4,18,24,-6,1493,Memphis,1642,442,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329519,NA,NA,0,Memphis,Tulane,32
+2009-10,2010-02-17,928566,167,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,18,24,-6,1661,Tulane,1641,441,1,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,173,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,18,24,-6,1493,Memphis,1601,401,40,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,33
+2009-10,2010-02-17,928566,179,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,18,24,-6,1661,Tulane,1601,401,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Memphis,33
+2009-10,2010-02-17,928566,180,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,18,27,-9,1493,Memphis,1590,390,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.5,25.15,329519,NA,NA,0,Memphis,Tulane,34
+2009-10,2010-02-17,928566,181,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,20,27,-7,1661,Tulane,1576,376,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,35
+2009-10,2010-02-17,928566,182,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,20,27,-7,1493,Memphis,1566,366,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.3000000000000007,5.05,329519,NA,NA,0,Memphis,Tulane,36
+2009-10,2010-02-17,928566,183,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,27,-5,1661,Tulane,1558,358,8, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,18.2,18.049999999999997,330029,NA,NA,0,Tulane,Memphis,37
+2009-10,2010-02-17,928566,184,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,27,-5,1493,Memphis,1544,344,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.2,26.55,464842,NA,NA,0,Memphis,Memphis,38
+2009-10,2010-02-17,928566,186,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,27,-5,1661,Tulane,1529,329,15,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,38
+2009-10,2010-02-17,928566,187,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,27,-5,1493,Memphis,1529,329,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,38
+2009-10,2010-02-17,928566,188,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,28,-6,1493,Memphis,1529,329,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,38
+2009-10,2010-02-17,928566,190,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,22,28,-6,1661,Tulane,1504,304,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,301792,NA,NA,0,Tulane,Tulane,39
+2009-10,2010-02-17,928566,193,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,24,28,-4,1661,Tulane,1499,299,5, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,24.2,10.25,330028,NA,NA,0,Tulane,Memphis,39
+2009-10,2010-02-17,928566,202,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,26,28,-2,1661,Tulane,1491,291,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,301792,NA,NA,0,Tulane,Memphis,40
+2009-10,2010-02-17,928566,203,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,26,31,-5,1493,Memphis,1476,276,15, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47.7,5.05,329995,NA,NA,0,Memphis,Tulane,41
+2009-10,2010-02-17,928566,208,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,26,31,-5,1661,Tulane,1459,259,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,18.950000000000003,301792,NA,NA,0,Tulane,Memphis,42
+2009-10,2010-02-17,928566,211,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,26,31,-5,1493,Memphis,1443,243,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Tulane,43
+2009-10,2010-02-17,928566,212,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,31,-3,1661,Tulane,1431,231,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,44
+2009-10,2010-02-17,928566,213,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,33,-5,1493,Memphis,1418,218,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506598,NA,NA,0,Memphis,Tulane,45
+2009-10,2010-02-17,928566,214,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,33,-5,1661,Tulane,1385,185,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,17.650000000000006,330028,NA,NA,0,Tulane,Memphis,46
+2009-10,2010-02-17,928566,219,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,33,-5,NA,NA,1381,181,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,222,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,33,-5,1493,Memphis,1376,176,5, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,14.55,329519,NA,NA,0,Memphis,Tulane,47
+2009-10,2010-02-17,928566,224,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,28,33,-5,1493,Memphis,1369,169,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,48
+2009-10,2010-02-17,928566,225,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,29,33,-4,1661,Tulane,1369,169,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,48
+2009-10,2010-02-17,928566,226,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,29,33,-4,1661,Tulane,1369,169,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,49
+2009-10,2010-02-17,928566,228,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,33,-2,1661,Tulane,1351,151,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330029,NA,NA,0,Tulane,Memphis,49
+2009-10,2010-02-17,928566,229,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,35,-4,1493,Memphis,1333,133,18, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,20.5,12.45,464840,NA,NA,0,Memphis,Tulane,50
+2009-10,2010-02-17,928566,230,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,35,-4,1661,Tulane,1308,108,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,21.349999999999994,329843,NA,NA,0,Tulane,Memphis,51
+2009-10,2010-02-17,928566,231,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,35,-4,1493,Memphis,1300,100,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.7,25.15,329519,NA,NA,0,Memphis,Tulane,52
+2009-10,2010-02-17,928566,236,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,35,-4,1661,Tulane,1286,86,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329843,NA,NA,0,Tulane,Memphis,53
+2009-10,2010-02-17,928566,237,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,1493,Memphis,1276,76,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.7,23.45,329996,NA,NA,0,Memphis,Tulane,54
+2009-10,2010-02-17,928566,239,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,1661,Tulane,1247,47,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Tulane,55
+2009-10,2010-02-17,928566,240,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,1661,Tulane,1238,38,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329843,NA,NA,0,Tulane,Memphis,55
+2009-10,2010-02-17,928566,243,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,1493,Memphis,1232,32,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,12.3,23.25,464840,NA,NA,0,Memphis,Tulane,56
+2009-10,2010-02-17,928566,244,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,1661,Tulane,1211,11,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Tulane,57
+2009-10,2010-02-17,928566,245,0,1,Tulane,Memphis,Green Wave,Tigers,2,4,31,38,-7,NA,NA,1200,0,11,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,260,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,31,38,-7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulane,57
+2009-10,2010-02-17,928566,262,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,38,-5,1661,Tulane,1187,1187,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,58
+2009-10,2010-02-17,928566,263,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,38,-5,1493,Memphis,1175,1175,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464840,NA,NA,0,Memphis,Tulane,59
+2009-10,2010-02-17,928566,264,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,38,-5,1661,Tulane,1160,1160,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41,8.150000000000006,329843,NA,NA,0,Tulane,Memphis,60
+2009-10,2010-02-17,928566,265,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,40,-7,1493,Memphis,1153,1153,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,Tulane,61
+2009-10,2010-02-17,928566,267,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,40,-7,1661,Tulane,1129,1129,24,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,62
+2009-10,2010-02-17,928566,274,0,2,Tulane,Memphis,Green Wave,Tigers,4,4,33,42,-9,1493,Memphis,1122,1122,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,Tulane,62
+2009-10,2010-02-17,928566,280,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,33,42,-9,1661,Tulane,1120,1120,2,Green Wave take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,282,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,35,42,-7,1661,Tulane,1112,1112,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330028,NA,NA,0,Tulane,Memphis,63
+2009-10,2010-02-17,928566,298,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,35,42,-7,1493,Memphis,1078,1078,34,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,64
+2009-10,2010-02-17,928566,300,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,37,42,-5,1661,Tulane,1076,1076,2, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,25.3,11.450000000000003,330028,NA,NA,0,Tulane,Memphis,65
+2009-10,2010-02-17,928566,302,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,37,42,-5,1661,Tulane,1063,1063,13,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,66
+2009-10,2010-02-17,928566,303,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,37,43,-6,1493,Memphis,1063,1063,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,66
+2009-10,2010-02-17,928566,304,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,37,44,-7,1493,Memphis,1063,1063,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,66
+2009-10,2010-02-17,928566,306,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,39,44,-5,1661,Tulane,1052,1052,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,26,21.849999999999994,330029,NA,NA,0,Tulane,Memphis,67
+2009-10,2010-02-17,928566,307,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,39,46,-7,1493,Memphis,1028,1028,24, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,22.2,12.75,329995,NA,NA,0,Memphis,Tulane,68
+2009-10,2010-02-17,928566,310,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,39,48,-9,1493,Memphis,998,998,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Tulane,69
+2009-10,2010-02-17,928566,311,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,42,48,-6,1661,Tulane,980,980,18, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,42,21.849999999999994,330027,NA,NA,0,Tulane,Memphis,70
+2009-10,2010-02-17,928566,312,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,42,51,-9,1493,Memphis,958,958,22, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.5,22.25,464840,NA,NA,0,Memphis,Tulane,71
+2009-10,2010-02-17,928566,335,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,42,51,-9,1493,Memphis,923,923,35,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,72
+2009-10,2010-02-17,928566,337,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,42,51,-9,NA,NA,922,922,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,339,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,44,51,-7,1661,Tulane,916,916,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,72
+2009-10,2010-02-17,928566,340,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,44,51,-7,1493,Memphis,885,885,31, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,4.65,329996,NA,NA,0,Memphis,Memphis,73
+2009-10,2010-02-17,928566,364,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,44,53,-9,1493,Memphis,824,824,61, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467272,NA,NA,0,Memphis,Tulane,73
+2009-10,2010-02-17,928566,365,0,2,Tulane,Memphis,Green Wave,Tigers,3,4,44,55,-11,1493,Memphis,801,801,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329519,NA,NA,0,Memphis,Tulane,74
+2009-10,2010-02-17,928566,367,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,44,55,-11,1661,Tulane,795,795,6,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,370,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,44,55,-11,1493,Memphis,790,790,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,75
+2009-10,2010-02-17,928566,375,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,44,55,-11,1661,Tulane,785,785,5,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,75
+2009-10,2010-02-17,928566,376,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,44,56,-12,1493,Memphis,785,785,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,75
+2009-10,2010-02-17,928566,377,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,44,57,-13,1493,Memphis,785,785,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,75
+2009-10,2010-02-17,928566,379,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1661,Tulane,767,767,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330028,NA,NA,0,Tulane,Memphis,76
+2009-10,2010-02-17,928566,383,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1661,Tulane,754,754,13,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,77
+2009-10,2010-02-17,928566,421,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1661,Tulane,702,702,52,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,77
+2009-10,2010-02-17,928566,426,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,NA,NA,698,698,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,428,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1493,Memphis,696,696,2, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,16.65,329995,NA,NA,0,Memphis,Memphis,77
+2009-10,2010-02-17,928566,435,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1493,Memphis,664,664,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329995,NA,NA,0,Memphis,Tulane,77
+2009-10,2010-02-17,928566,436,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1661,Tulane,656,656,8, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,11.049999999999997,329843,NA,NA,0,Tulane,Tulane,78
+2009-10,2010-02-17,928566,437,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1661,Tulane,643,643,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,22.049999999999997,301792,NA,NA,0,Tulane,Tulane,78
+2009-10,2010-02-17,928566,439,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,46,57,-11,1493,Memphis,638,638,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,78
+2009-10,2010-02-17,928566,441,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,48,57,-9,1661,Tulane,637,637,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Memphis,78
+2009-10,2010-02-17,928566,450,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,48,57,-9,1493,Memphis,618,618,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14,27.45,464840,NA,NA,0,Memphis,Tulane,79
+2009-10,2010-02-17,928566,452,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,48,57,-9,1493,Memphis,599,599,19,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,80
+2009-10,2010-02-17,928566,467,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,49,57,-8,1661,Tulane,599,599,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,80
+2009-10,2010-02-17,928566,468,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,57,-7,1661,Tulane,599,599,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,80
+2009-10,2010-02-17,928566,471,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,57,-7,1661,Tulane,592,592,7,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,81
+2009-10,2010-02-17,928566,473,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,57,-7,1493,Memphis,579,579,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,13.35,329996,NA,NA,0,Memphis,Memphis,81
+2009-10,2010-02-17,928566,475,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,57,-7,1661,Tulane,572,572,7,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,81
+2009-10,2010-02-17,928566,476,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,58,-8,1493,Memphis,572,572,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,81
+2009-10,2010-02-17,928566,477,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,58,-8,1493,Memphis,572,572,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,82
+2009-10,2010-02-17,928566,488,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,50,58,-8,1661,Tulane,537,537,35, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.049999999999997,330028,NA,NA,0,Tulane,Tulane,83
+2009-10,2010-02-17,928566,489,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,52,58,-6,1661,Tulane,531,531,6, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26,7.549999999999997,458974,NA,NA,0,Tulane,Memphis,83
+2009-10,2010-02-17,928566,491,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,52,58,-6,1661,Tulane,503,503,28,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,84
+2009-10,2010-02-17,928566,492,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,52,59,-7,1493,Memphis,503,503,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,84
+2009-10,2010-02-17,928566,493,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,52,59,-7,1493,Memphis,503,503,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,84
+2009-10,2010-02-17,928566,497,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,54,59,-5,1661,Tulane,501,501,2, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,24.2,14.150000000000006,458974,NA,NA,0,Tulane,Memphis,85
+2009-10,2010-02-17,928566,513,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,54,59,-5,NA,NA,468,468,33,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,515,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,54,59,-5,1661,Tulane,463,463,5, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,10.650000000000006,330028,NA,NA,0,Tulane,Tulane,86
+2009-10,2010-02-17,928566,517,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,54,59,-5,1493,Memphis,459,459,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,86
+2009-10,2010-02-17,928566,520,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,54,59,-5,1493,Memphis,448,448,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,86
+2009-10,2010-02-17,928566,521,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,59,-4,1661,Tulane,448,448,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,86
+2009-10,2010-02-17,928566,522,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,59,-4,1661,Tulane,448,448,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,86
+2009-10,2010-02-17,928566,524,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,61,-6,1493,Memphis,418,418,30, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,Tulane,87
+2009-10,2010-02-17,928566,526,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,61,-6,1661,Tulane,414,414,4,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,88
+2009-10,2010-02-17,928566,527,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,62,-7,1493,Memphis,414,414,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,88
+2009-10,2010-02-17,928566,539,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,62,-7,1661,Tulane,379,379,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330029,NA,NA,0,Tulane,Tulane,89
+2009-10,2010-02-17,928566,541,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,55,62,-7,1493,Memphis,361,361,18,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,89
+2009-10,2010-02-17,928566,542,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,56,62,-6,1661,Tulane,361,361,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,89
+2009-10,2010-02-17,928566,543,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,57,62,-5,1661,Tulane,361,361,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,89
+2009-10,2010-02-17,928566,546,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,57,62,-5,1493,Memphis,347,347,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,21.65,329519,NA,NA,0,Memphis,Memphis,90
+2009-10,2010-02-17,928566,547,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,57,62,-5,1493,Memphis,331,331,16, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,17.45,329995,NA,NA,0,Memphis,Tulane,90
+2009-10,2010-02-17,928566,548,0,2,Tulane,Memphis,Green Wave,Tigers,2,4,57,62,-5,1661,Tulane,323,323,8, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,13.75,329843,NA,NA,0,Tulane,Memphis,91
+2009-10,2010-02-17,928566,550,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,62,-5,1493,Memphis,318,318,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,553,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,64,-7,1493,Memphis,294,294,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329519,NA,NA,0,Memphis,Tulane,92
+2009-10,2010-02-17,928566,554,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,64,-7,1661,Tulane,273,273,21, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,9.650000000000006,330028,NA,NA,0,Tulane,Memphis,93
+2009-10,2010-02-17,928566,562,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,66,-9,1493,Memphis,243,243,30, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,23.2,10.05,506598,NA,NA,0,Memphis,Tulane,94
+2009-10,2010-02-17,928566,564,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,66,-9,1661,Tulane,239,239,4,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,95
+2009-10,2010-02-17,928566,565,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,67,-10,1493,Memphis,239,239,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,95
+2009-10,2010-02-17,928566,567,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,67,-10,1661,Tulane,234,234,5, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,9.150000000000006,330029,NA,NA,0,Tulane,Memphis,96
+2009-10,2010-02-17,928566,569,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,67,-10,1661,Tulane,211,211,23,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,97
+2009-10,2010-02-17,928566,573,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,67,-10,NA,NA,208,208,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,575,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,68,-11,1493,Memphis,208,208,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,97
+2009-10,2010-02-17,928566,576,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,69,-12,1493,Memphis,208,208,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,97
+2009-10,2010-02-17,928566,579,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,69,-12,1493,Memphis,192,192,16,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,98
+2009-10,2010-02-17,928566,580,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,57,69,-12,1661,Tulane,192,192,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,98
+2009-10,2010-02-17,928566,581,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,69,-11,1661,Tulane,192,192,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,98
+2009-10,2010-02-17,928566,586,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,69,-11,1661,Tulane,177,177,15,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,99
+2009-10,2010-02-17,928566,587,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,69,-11,1493,Memphis,177,177,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,99
+2009-10,2010-02-17,928566,588,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,70,-12,1493,Memphis,177,177,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,99
+2009-10,2010-02-17,928566,594,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,70,-12,1661,Tulane,164,164,13, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,12.75,330029,NA,NA,0,Tulane,Memphis,100
+2009-10,2010-02-17,928566,597,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,58,73,-15,1493,Memphis,107,107,57, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9,22.05,329996,NA,NA,0,Memphis,Tulane,101
+2009-10,2010-02-17,928566,598,0,2,Tulane,Memphis,Green Wave,Tigers,2,3,61,73,-12,1661,Tulane,101,101,6, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40.8,23.650000000000006,301792,NA,NA,0,Tulane,Memphis,102
+2009-10,2010-02-17,928566,622,0,2,Tulane,Memphis,Green Wave,Tigers,1,3,61,73,-12,1661,Tulane,101,101,0,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,625,0,2,Tulane,Memphis,Green Wave,Tigers,1,3,61,73,-12,1661,Tulane,95,95,6,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,103
+2009-10,2010-02-17,928566,626,0,2,Tulane,Memphis,Green Wave,Tigers,1,3,61,74,-13,1493,Memphis,95,95,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,103
+2009-10,2010-02-17,928566,627,0,2,Tulane,Memphis,Green Wave,Tigers,1,3,61,75,-14,1493,Memphis,95,95,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,103
+2009-10,2010-02-17,928566,629,0,2,Tulane,Memphis,Green Wave,Tigers,1,3,61,75,-14,1661,Tulane,88,88,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,301792,NA,NA,0,Tulane,Memphis,104
+2009-10,2010-02-17,928566,631,0,2,Tulane,Memphis,Green Wave,Tigers,1,2,61,75,-14,1493,Memphis,80,80,8,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,634,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,75,-14,1493,Memphis,77,77,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,637,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,75,-14,1661,Tulane,73,73,4,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,105
+2009-10,2010-02-17,928566,643,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,75,-14,1493,Memphis,70,70,3, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,105
+2009-10,2010-02-17,928566,644,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,76,-15,1493,Memphis,70,70,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,105
+2009-10,2010-02-17,928566,646,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,76,-15,1661,Tulane,58,58,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,26.75,301792,NA,NA,0,Tulane,Tulane,106
+2009-10,2010-02-17,928566,647,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,61,76,-15,1661,Tulane,45,45,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,25.950000000000003,330029,NA,NA,0,Tulane,Tulane,106
+2009-10,2010-02-17,928566,648,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,63,76,-13,1661,Tulane,40,40,5, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.2,7.549999999999997,458974,NA,NA,0,Tulane,Memphis,106
+2009-10,2010-02-17,928566,650,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,63,76,-13,1493,Memphis,35,35,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,107
+2009-10,2010-02-17,928566,651,0,2,Tulane,Memphis,Green Wave,Tigers,1,1,64,76,-12,1661,Tulane,35,35,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Memphis,107
+2009-10,2010-02-17,928566,653,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,76,-12,1661,Tulane,35,35,0,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,655,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,76,-12,1661,Tulane,33,33,2, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,23.25,330029,NA,NA,0,Tulane,Memphis,108
+2009-10,2010-02-17,928566,657,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,76,-12,1661,Tulane,27,27,6,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,109
+2009-10,2010-02-17,928566,658,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,77,-13,1493,Memphis,27,27,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,109
+2009-10,2010-02-17,928566,659,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,77,-13,1493,Memphis,27,27,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Tulane,109
+2009-10,2010-02-17,928566,661,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,77,-13,1661,Tulane,22,22,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,15.849999999999994,512092,NA,NA,0,Tulane,NA,110
+2009-10,2010-02-17,928566,664,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,77,-13,NA,NA,0,0,22,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-17,928566,665,0,2,Tulane,Memphis,Green Wave,Tigers,0,1,64,77,-13,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,NA

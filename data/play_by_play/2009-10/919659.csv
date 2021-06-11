@@ -1,0 +1,252 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-17,919659,1,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Clemson,NA
+2009-10,2009-11-17,919659,3,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,0,0,1355,Clemson,2384,1184,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467268,NA,NA,0,Clemson,Clemson,1
+2009-10,2009-11-17,919659,4,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,0,0,1467,Liberty,2384,1184,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,1
+2009-10,2009-11-17,919659,5,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,3,-3,1355,Clemson,2351,1151,33, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.3,20.75,330455,NA,NA,0,Clemson,Liberty,2
+2009-10,2009-11-17,919659,11,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,3,-3,1467,Liberty,2332,1132,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,15.150000000000006,410457,NA,NA,0,Liberty,Liberty,3
+2009-10,2009-11-17,919659,15,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,3,-3,1467,Liberty,2320,1120,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,25.150000000000006,340719,NA,NA,0,Liberty,Clemson,3
+2009-10,2009-11-17,919659,21,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2288,1088,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Liberty,4
+2009-10,2009-11-17,919659,23,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2279,1079,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,5
+2009-10,2009-11-17,919659,30,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2252,1052,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399630,NA,NA,0,Clemson,Clemson,5
+2009-10,2009-11-17,919659,31,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1467,Liberty,2252,1052,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,5
+2009-10,2009-11-17,919659,32,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1467,Liberty,2248,1048,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340719,NA,NA,0,Liberty,Liberty,6
+2009-10,2009-11-17,919659,33,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2248,1048,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,6
+2009-10,2009-11-17,919659,34,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1467,Liberty,2230,1030,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.8,24.75,410457,NA,NA,0,Liberty,Liberty,7
+2009-10,2009-11-17,919659,35,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2230,1030,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,7
+2009-10,2009-11-17,919659,42,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1467,Liberty,2193,993,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505896,NA,NA,0,Liberty,Liberty,8
+2009-10,2009-11-17,919659,43,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2193,993,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,8
+2009-10,2009-11-17,919659,44,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2170,970,23, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,22.45,467269,NA,NA,0,Clemson,Clemson,9
+2009-10,2009-11-17,919659,45,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2170,970,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,9
+2009-10,2009-11-17,919659,48,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1467,Liberty,2158,958,12,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,9
+2009-10,2009-11-17,919659,49,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,NA,NA,2158,958,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,51,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,5,-5,1355,Clemson,2158,958,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,9
+2009-10,2009-11-17,919659,53,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1355,Clemson,2158,958,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,9
+2009-10,2009-11-17,919659,68,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1467,Liberty,2138,938,20, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,11.650000000000006,340719,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,69,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1467,Liberty,2138,938,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,69.5,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1467,Liberty,2138,938,0, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25.7,7.950000000000003,303372,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,69.75,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1467,Liberty,2138,938,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,70,0,1,Liberty,Clemson,Flames,Tigers,4,4,0,6,-6,1355,Clemson,2137,937,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,71,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,6,-5,1467,Liberty,2137,937,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,72,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,6,-5,1467,Liberty,2137,937,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,10
+2009-10,2009-11-17,919659,73,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,6,-5,1355,Clemson,2137,937,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,10
+2009-10,2009-11-17,919659,87,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,6,-5,1355,Clemson,2104,904,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,2.75,467269,NA,NA,0,Clemson,Clemson,11
+2009-10,2009-11-17,919659,89,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,6,-5,1467,Liberty,2102,902,2,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,11
+2009-10,2009-11-17,919659,91,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,9,-8,1355,Clemson,2099,899,3, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,25.3,30.25,399630,NA,NA,0,Clemson,Liberty,11
+2009-10,2009-11-17,919659,93,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,11,-10,1355,Clemson,2073,873,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467269,NA,NA,0,Clemson,Liberty,12
+2009-10,2009-11-17,919659,98,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,11,-10,1467,Liberty,2048,848,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340719,NA,NA,0,Liberty,Liberty,13
+2009-10,2009-11-17,919659,99,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,11,-10,1355,Clemson,2048,848,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,13
+2009-10,2009-11-17,919659,100,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,14,-13,1355,Clemson,2041,841,7, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.8,19.35,330455,NA,NA,0,Clemson,Liberty,14
+2009-10,2009-11-17,919659,102,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,14,-13,1355,Clemson,2013,813,28,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,15
+2009-10,2009-11-17,919659,104,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,14,-13,1467,Liberty,2002,802,11, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,22.849999999999994,340719,NA,NA,0,Liberty,Liberty,15
+2009-10,2009-11-17,919659,105,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,14,-13,1355,Clemson,2002,802,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,15
+2009-10,2009-11-17,919659,107,0,1,Liberty,Clemson,Flames,Tigers,4,4,1,17,-16,1355,Clemson,1994,794,8, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12.5,24.35,330455,NA,NA,0,Clemson,Liberty,16
+2009-10,2009-11-17,919659,108,0,1,Liberty,Clemson,Flames,Tigers,3,4,1,17,-16,1467,Liberty,1992,792,2,Flames take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,110,0,1,Liberty,Clemson,Flames,Tigers,3,4,3,17,-14,1467,Liberty,1982,782,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,463140,NA,NA,0,Liberty,Clemson,17
+2009-10,2009-11-17,919659,111,0,1,Liberty,Clemson,Flames,Tigers,3,4,3,19,-16,1355,Clemson,1955,755,27, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330453,NA,NA,0,Clemson,Liberty,18
+2009-10,2009-11-17,919659,115,0,1,Liberty,Clemson,Flames,Tigers,3,4,3,19,-16,1355,Clemson,1937,737,18,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,19
+2009-10,2009-11-17,919659,116,0,1,Liberty,Clemson,Flames,Tigers,3,4,4,19,-15,1467,Liberty,1937,737,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,19
+2009-10,2009-11-17,919659,117,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,19,-14,1467,Liberty,1937,737,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,19
+2009-10,2009-11-17,919659,121,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,1355,Clemson,1923,723,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,36.5,25.35,330455,NA,NA,0,Clemson,Liberty,20
+2009-10,2009-11-17,919659,125,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,NA,NA,1896,696,27,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,130,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,1355,Clemson,1875,675,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.2,25.15,330455,NA,NA,0,Clemson,Clemson,21
+2009-10,2009-11-17,919659,131,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,1355,Clemson,1875,675,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,21
+2009-10,2009-11-17,919659,132,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,1355,Clemson,1860,660,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467267,NA,NA,0,Clemson,Clemson,21
+2009-10,2009-11-17,919659,133,0,1,Liberty,Clemson,Flames,Tigers,3,4,5,22,-17,1467,Liberty,1860,660,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,21
+2009-10,2009-11-17,919659,133.5,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1467,Liberty,1860,660,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,505895,NA,NA,0,Liberty,Liberty,22
+2009-10,2009-11-17,919659,134,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1860,660,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,22
+2009-10,2009-11-17,919659,135,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1467,Liberty,1860,660,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,22
+2009-10,2009-11-17,919659,136,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1860,660,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,22
+2009-10,2009-11-17,919659,143,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1859,659,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,23
+2009-10,2009-11-17,919659,144,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1467,Liberty,1859,659,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,23
+2009-10,2009-11-17,919659,147,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1467,Liberty,1859,659,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,23
+2009-10,2009-11-17,919659,148,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1859,659,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,23
+2009-10,2009-11-17,919659,150,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1823,623,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467267,NA,NA,0,Clemson,Clemson,24
+2009-10,2009-11-17,919659,151,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1823,623,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,24
+2009-10,2009-11-17,919659,153,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1817,617,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,22.05,510769,NA,NA,0,Clemson,Clemson,24
+2009-10,2009-11-17,919659,154,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1467,Liberty,1817,617,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,24
+2009-10,2009-11-17,919659,155,0,1,Liberty,Clemson,Flames,Tigers,3,4,7,22,-15,1355,Clemson,1816,616,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,25
+2009-10,2009-11-17,919659,156,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,22,-14,1467,Liberty,1816,616,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,25
+2009-10,2009-11-17,919659,157,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,22,-14,1467,Liberty,1816,616,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,26
+2009-10,2009-11-17,919659,158,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,22,-14,1355,Clemson,1816,616,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,26
+2009-10,2009-11-17,919659,160,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,22,-14,1355,Clemson,1802,602,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,29.45,510768,NA,NA,0,Clemson,Clemson,27
+2009-10,2009-11-17,919659,161,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,22,-14,1355,Clemson,1802,602,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,27
+2009-10,2009-11-17,919659,162,0,1,Liberty,Clemson,Flames,Tigers,3,4,8,24,-16,1355,Clemson,1793,593,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,510768,NA,NA,0,Clemson,Liberty,27
+2009-10,2009-11-17,919659,163,0,1,Liberty,Clemson,Flames,Tigers,3,4,10,24,-14,1467,Liberty,1780,580,13, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,463138,NA,NA,0,Liberty,Clemson,28
+2009-10,2009-11-17,919659,164,0,1,Liberty,Clemson,Flames,Tigers,3,4,10,24,-14,1355,Clemson,1768,568,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,13.7,24.05,510769,NA,NA,0,Clemson,Clemson,29
+2009-10,2009-11-17,919659,165,0,1,Liberty,Clemson,Flames,Tigers,3,4,10,24,-14,1467,Liberty,1768,568,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,29
+2009-10,2009-11-17,919659,175,0,1,Liberty,Clemson,Flames,Tigers,3,4,10,27,-17,1355,Clemson,1740,540,28, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,33.2,26.35,467269,NA,NA,0,Clemson,Liberty,30
+2009-10,2009-11-17,919659,176,0,1,Liberty,Clemson,Flames,Tigers,3,4,10,27,-17,1355,Clemson,1723,523,17,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,31
+2009-10,2009-11-17,919659,178,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1467,Liberty,1723,523,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,31
+2009-10,2009-11-17,919659,179,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1467,Liberty,1723,523,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,32
+2009-10,2009-11-17,919659,180,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1355,Clemson,1723,523,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,32
+2009-10,2009-11-17,919659,182,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1355,Clemson,1690,490,33, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,7.15,467269,NA,NA,0,Clemson,Clemson,33
+2009-10,2009-11-17,919659,183,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1355,Clemson,1690,490,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,33
+2009-10,2009-11-17,919659,184,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1355,Clemson,1682,482,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,28.65,399630,NA,NA,0,Clemson,Clemson,33
+2009-10,2009-11-17,919659,185,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,27,-16,1467,Liberty,1682,482,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,33
+2009-10,2009-11-17,919659,187,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,29,-18,1355,Clemson,1669,469,13, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,330453,NA,NA,0,Clemson,Liberty,34
+2009-10,2009-11-17,919659,190,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,29,-18,1467,Liberty,1666,466,3,Offensive foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,35
+2009-10,2009-11-17,919659,191,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,29,-18,NA,NA,1666,466,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,194,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,29,-18,1355,Clemson,1648,448,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.2,26.75,510768,NA,NA,0,Clemson,Clemson,36
+2009-10,2009-11-17,919659,195,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,29,-18,1355,Clemson,1648,448,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,36
+2009-10,2009-11-17,919659,196,0,1,Liberty,Clemson,Flames,Tigers,3,4,11,32,-21,1355,Clemson,1638,438,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26.3,29.05,467269,NA,NA,0,Clemson,Liberty,36
+2009-10,2009-11-17,919659,204,0,1,Liberty,Clemson,Flames,Tigers,3,4,13,32,-19,1467,Liberty,1585,385,53, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,40,5.450000000000003,409937,NA,NA,0,Liberty,Clemson,37
+2009-10,2009-11-17,919659,207,0,1,Liberty,Clemson,Flames,Tigers,3,4,13,32,-19,1355,Clemson,1561,361,24,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,38
+2009-10,2009-11-17,919659,209,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,32,-17,1467,Liberty,1543,343,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,463140,NA,NA,0,Liberty,Clemson,39
+2009-10,2009-11-17,919659,210,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,34,-19,1355,Clemson,1534,334,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467267,NA,NA,0,Clemson,Liberty,40
+2009-10,2009-11-17,919659,211,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,36,-21,1355,Clemson,1505,305,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467268,NA,NA,0,Clemson,Liberty,41
+2009-10,2009-11-17,919659,217,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,36,-21,1467,Liberty,1499,299,6,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,42
+2009-10,2009-11-17,919659,223,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,36,-21,1467,Liberty,1478,278,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,36.3,24.549999999999997,340719,NA,NA,0,Liberty,Liberty,42
+2009-10,2009-11-17,919659,224,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,36,-21,1355,Clemson,1478,278,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,42
+2009-10,2009-11-17,919659,225,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1470,270,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14,26.55,467268,NA,NA,0,Clemson,Liberty,43
+2009-10,2009-11-17,919659,227,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1467,Liberty,1438,238,32, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.799999999999997,11.450000000000003,505896,NA,NA,0,Liberty,Liberty,44
+2009-10,2009-11-17,919659,228,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1438,238,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,44
+2009-10,2009-11-17,919659,229,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1426,226,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.3,23.45,467267,NA,NA,0,Clemson,Clemson,45
+2009-10,2009-11-17,919659,230,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1426,226,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,45
+2009-10,2009-11-17,919659,231,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1467,Liberty,1414,214,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,19.950000000000003,410457,NA,NA,0,Liberty,Liberty,45
+2009-10,2009-11-17,919659,232,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1414,214,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,45
+2009-10,2009-11-17,919659,236,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,NA,NA,1405,205,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,239,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1401,201,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,6.05,510769,NA,NA,0,Clemson,Clemson,46
+2009-10,2009-11-17,919659,240,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1467,Liberty,1401,201,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,46
+2009-10,2009-11-17,919659,241,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1467,Liberty,1382,182,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,463140,NA,NA,0,Liberty,Liberty,47
+2009-10,2009-11-17,919659,242,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1382,182,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,47
+2009-10,2009-11-17,919659,247,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1467,Liberty,1347,147,35, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15.799999999999997,15.349999999999994,303372,NA,NA,0,Liberty,Liberty,48
+2009-10,2009-11-17,919659,248,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,39,-24,1355,Clemson,1347,147,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,48
+2009-10,2009-11-17,919659,249,0,1,Liberty,Clemson,Flames,Tigers,3,4,15,41,-26,1355,Clemson,1332,132,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Liberty,49
+2009-10,2009-11-17,919659,250,0,1,Liberty,Clemson,Flames,Tigers,3,4,17,41,-24,1467,Liberty,1299,99,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410457,NA,NA,0,Liberty,Clemson,50
+2009-10,2009-11-17,919659,251,0,1,Liberty,Clemson,Flames,Tigers,3,4,17,41,-24,1355,Clemson,1279,79,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330453,NA,NA,0,Clemson,Clemson,51
+2009-10,2009-11-17,919659,252,0,1,Liberty,Clemson,Flames,Tigers,3,4,17,41,-24,1467,Liberty,1279,79,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,51
+2009-10,2009-11-17,919659,253,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,41,-22,1467,Liberty,1267,67,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,505896,NA,NA,0,Liberty,Clemson,52
+2009-10,2009-11-17,919659,256,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,41,-22,1355,Clemson,1254,54,13, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,5.65,510769,NA,NA,0,Clemson,Clemson,53
+2009-10,2009-11-17,919659,257,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,41,-22,1355,Clemson,1254,54,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,53
+2009-10,2009-11-17,919659,258,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,41,-22,1467,Liberty,1245,45,9,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,53
+2009-10,2009-11-17,919659,259,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1355,Clemson,1245,45,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,53
+2009-10,2009-11-17,919659,261,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1355,Clemson,1245,45,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,53
+2009-10,2009-11-17,919659,262,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1467,Liberty,1245,45,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,53
+2009-10,2009-11-17,919659,265,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1467,Liberty,1240,40,5, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.299999999999997,5.450000000000003,505896,NA,NA,0,Liberty,Liberty,54
+2009-10,2009-11-17,919659,266,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1355,Clemson,1240,40,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,54
+2009-10,2009-11-17,919659,269,0,1,Liberty,Clemson,Flames,Tigers,3,4,19,42,-23,1467,Liberty,1237,37,3,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,55
+2009-10,2009-11-17,919659,270,0,1,Liberty,Clemson,Flames,Tigers,3,3,19,42,-23,1355,Clemson,1237,37,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,278,0,1,Liberty,Clemson,Flames,Tigers,3,3,19,42,-23,1467,Liberty,1201,1,36, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.3,28.049999999999997,410457,NA,NA,0,Liberty,Liberty,55
+2009-10,2009-11-17,919659,280,0,1,Liberty,Clemson,Flames,Tigers,3,3,19,42,-23,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,282,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Liberty,55
+2009-10,2009-11-17,919659,286,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1467,Liberty,1182,1182,18, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,10.849999999999994,303372,NA,NA,0,Liberty,Liberty,56
+2009-10,2009-11-17,919659,287,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1355,Clemson,1182,1182,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,56
+2009-10,2009-11-17,919659,288,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1355,Clemson,1159,1159,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399620,NA,NA,0,Clemson,Clemson,57
+2009-10,2009-11-17,919659,289,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1467,Liberty,1159,1159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,57
+2009-10,2009-11-17,919659,290,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1355,Clemson,1122,1122,37, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,3.35,467268,NA,NA,0,Clemson,Clemson,58
+2009-10,2009-11-17,919659,291,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,42,-23,1355,Clemson,1122,1122,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,58
+2009-10,2009-11-17,919659,292,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,44,-25,1355,Clemson,1112,1112,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467268,NA,NA,0,Clemson,Liberty,58
+2009-10,2009-11-17,919659,293,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,44,-25,1467,Liberty,1094,1094,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43,16.650000000000006,410457,NA,NA,0,Liberty,Liberty,59
+2009-10,2009-11-17,919659,294,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,44,-25,1355,Clemson,1094,1094,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,59
+2009-10,2009-11-17,919659,295,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,46,-27,1355,Clemson,1084,1084,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330453,NA,NA,0,Clemson,Liberty,60
+2009-10,2009-11-17,919659,296,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,46,-27,1467,Liberty,1063,1063,21, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,10.25,505896,NA,NA,0,Liberty,Liberty,61
+2009-10,2009-11-17,919659,297,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,46,-27,1355,Clemson,1063,1063,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,61
+2009-10,2009-11-17,919659,298,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,48,-29,1355,Clemson,1053,1053,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467268,NA,NA,0,Clemson,Liberty,62
+2009-10,2009-11-17,919659,300,0,2,Liberty,Clemson,Flames,Tigers,4,4,19,48,-29,1355,Clemson,1031,1031,22,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,63
+2009-10,2009-11-17,919659,302,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,48,-26,1467,Liberty,1021,1021,10, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26,31.35,303372,NA,NA,0,Liberty,Clemson,63
+2009-10,2009-11-17,919659,304,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,48,-26,1467,Liberty,1003,1003,18,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,64
+2009-10,2009-11-17,919659,306,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,51,-29,1355,Clemson,994,994,9, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12.3,26.15,330453,NA,NA,0,Clemson,Liberty,64
+2009-10,2009-11-17,919659,307,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,51,-29,1467,Liberty,977,977,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410457,NA,NA,0,Liberty,Liberty,65
+2009-10,2009-11-17,919659,308,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,51,-29,1355,Clemson,977,977,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,65
+2009-10,2009-11-17,919659,309,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,53,-31,1355,Clemson,965,965,12, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,13.8,21.45,330453,NA,NA,0,Clemson,Liberty,66
+2009-10,2009-11-17,919659,313,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,53,-31,1355,Clemson,951,951,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,67
+2009-10,2009-11-17,919659,314,0,2,Liberty,Clemson,Flames,Tigers,4,4,22,53,-31,NA,NA,951,951,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,315,0,2,Liberty,Clemson,Flames,Tigers,4,4,23,53,-30,1467,Liberty,951,951,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,67
+2009-10,2009-11-17,919659,316,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,951,951,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,67
+2009-10,2009-11-17,919659,320,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,928,928,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,14.8,25.15,467268,NA,NA,0,Clemson,Clemson,68
+2009-10,2009-11-17,919659,321,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,928,928,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,68
+2009-10,2009-11-17,919659,324,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,910,910,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,10.85,467269,NA,NA,0,Clemson,Clemson,69
+2009-10,2009-11-17,919659,325,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,910,910,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,69
+2009-10,2009-11-17,919659,327,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,902,902,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,7.95,467269,NA,NA,0,Clemson,Clemson,69
+2009-10,2009-11-17,919659,328,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,902,902,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,69
+2009-10,2009-11-17,919659,330,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,875,875,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,23.650000000000006,505894,NA,NA,0,Liberty,Liberty,69
+2009-10,2009-11-17,919659,331,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,875,875,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,69
+2009-10,2009-11-17,919659,332,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,868,868,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467268,NA,NA,0,Clemson,Clemson,70
+2009-10,2009-11-17,919659,333,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,868,868,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,70
+2009-10,2009-11-17,919659,335,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,848,848,20, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,25.7,12.95,510769,NA,NA,0,Clemson,Clemson,71
+2009-10,2009-11-17,919659,336,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,848,848,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,71
+2009-10,2009-11-17,919659,337,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,839,839,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,72
+2009-10,2009-11-17,919659,339,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,830,830,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,28.450000000000003,463138,NA,NA,0,Liberty,Liberty,72
+2009-10,2009-11-17,919659,340,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,830,830,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,72
+2009-10,2009-11-17,919659,342,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,814,814,16, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,11,19.75,510767,NA,NA,0,Clemson,Clemson,73
+2009-10,2009-11-17,919659,343,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,814,814,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,73
+2009-10,2009-11-17,919659,344,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,805,805,9, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25,7.95,330453,NA,NA,0,Clemson,Clemson,73
+2009-10,2009-11-17,919659,345,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,805,805,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,73
+2009-10,2009-11-17,919659,347,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,805,805,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,74
+2009-10,2009-11-17,919659,354,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,790,790,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340719,NA,NA,0,Liberty,Liberty,74
+2009-10,2009-11-17,919659,355,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,790,790,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,74
+2009-10,2009-11-17,919659,356,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1355,Clemson,765,765,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40,22.05,330453,NA,NA,0,Clemson,Clemson,75
+2009-10,2009-11-17,919659,357,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,53,-29,1467,Liberty,765,765,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,75
+2009-10,2009-11-17,919659,358,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,56,-32,1355,Clemson,736,736,29, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,25.7,29.45,330455,NA,NA,0,Clemson,Liberty,76
+2009-10,2009-11-17,919659,359,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,56,-32,1467,Liberty,726,726,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,340719,NA,NA,0,Liberty,Liberty,77
+2009-10,2009-11-17,919659,360,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,56,-32,1355,Clemson,726,726,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,77
+2009-10,2009-11-17,919659,364,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,56,-32,1467,Liberty,710,710,16,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,78
+2009-10,2009-11-17,919659,365,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,56,-32,NA,NA,710,710,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,366,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,57,-33,1355,Clemson,710,710,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,78
+2009-10,2009-11-17,919659,368,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,57,-33,1355,Clemson,710,710,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,78
+2009-10,2009-11-17,919659,369,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,57,-33,1467,Liberty,710,710,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,78
+2009-10,2009-11-17,919659,370,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,57,-33,1355,Clemson,705,705,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467269,NA,NA,0,Clemson,Clemson,79
+2009-10,2009-11-17,919659,371,0,2,Liberty,Clemson,Flames,Tigers,4,4,24,57,-33,1467,Liberty,705,705,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,79
+2009-10,2009-11-17,919659,374,0,2,Liberty,Clemson,Flames,Tigers,4,4,26,57,-31,1467,Liberty,673,673,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,409937,NA,NA,0,Liberty,Liberty,80
+2009-10,2009-11-17,919659,375,0,2,Liberty,Clemson,Flames,Tigers,4,4,26,57,-31,1355,Clemson,673,673,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,80
+2009-10,2009-11-17,919659,376,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,57,-30,1467,Liberty,673,673,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,80
+2009-10,2009-11-17,919659,378,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,59,-32,1355,Clemson,647,647,26, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,38.3,4.25,510767,NA,NA,0,Clemson,Liberty,81
+2009-10,2009-11-17,919659,379,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,59,-32,1467,Liberty,629,629,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,3.75,409938,NA,NA,0,Liberty,Liberty,82
+2009-10,2009-11-17,919659,380,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,59,-32,1355,Clemson,629,629,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,82
+2009-10,2009-11-17,919659,382,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,59,-32,1355,Clemson,620,620,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510766,NA,NA,0,Clemson,Clemson,83
+2009-10,2009-11-17,919659,385,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1355,Clemson,606,606,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330455,NA,NA,0,Clemson,Liberty,83
+2009-10,2009-11-17,919659,386,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1467,Liberty,570,570,36, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,8.549999999999997,409938,NA,NA,0,Liberty,Liberty,84
+2009-10,2009-11-17,919659,387,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1355,Clemson,570,570,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,84
+2009-10,2009-11-17,919659,388,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1355,Clemson,557,557,13, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29,9.55,510766,NA,NA,0,Clemson,Clemson,85
+2009-10,2009-11-17,919659,389,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1467,Liberty,557,557,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,85
+2009-10,2009-11-17,919659,393,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1355,Clemson,547,547,10,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,86
+2009-10,2009-11-17,919659,396,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1467,Liberty,531,531,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505895,NA,NA,0,Liberty,Clemson,86
+2009-10,2009-11-17,919659,422,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1355,Clemson,464,464,67, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510766,NA,NA,0,Clemson,Clemson,87
+2009-10,2009-11-17,919659,423,0,2,Liberty,Clemson,Flames,Tigers,4,4,27,61,-34,1467,Liberty,464,464,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,87
+2009-10,2009-11-17,919659,424,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,61,-32,1467,Liberty,457,457,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,463140,NA,NA,0,Liberty,Clemson,88
+2009-10,2009-11-17,919659,425,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,63,-34,1355,Clemson,446,446,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Liberty,89
+2009-10,2009-11-17,919659,426,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,65,-36,1355,Clemson,438,438,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510766,NA,NA,0,Clemson,Liberty,90
+2009-10,2009-11-17,919659,428,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,65,-36,NA,NA,418,418,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,432,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,65,-36,1467,Liberty,413,413,5,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,91
+2009-10,2009-11-17,919659,437,0,2,Liberty,Clemson,Flames,Tigers,4,4,29,67,-38,1355,Clemson,388,388,25, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,8.5,5.05,510769,NA,NA,0,Clemson,Liberty,91
+2009-10,2009-11-17,919659,441,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,67,-36,1467,Liberty,342,342,46, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340719,NA,NA,0,Liberty,Clemson,92
+2009-10,2009-11-17,919659,445,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,67,-36,1467,Liberty,329,329,13,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,93
+2009-10,2009-11-17,919659,450,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,67,-36,1467,Liberty,322,322,7,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,93
+2009-10,2009-11-17,919659,451,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1355,Clemson,322,322,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,93
+2009-10,2009-11-17,919659,452,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1355,Clemson,322,322,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,93
+2009-10,2009-11-17,919659,453,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1467,Liberty,322,322,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,93
+2009-10,2009-11-17,919659,455,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1467,Liberty,319,319,3, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,14.950000000000003,410457,NA,NA,0,Liberty,Liberty,94
+2009-10,2009-11-17,919659,456,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1355,Clemson,319,319,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,94
+2009-10,2009-11-17,919659,475,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1355,Clemson,279,279,40, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12,23.85,510769,NA,NA,0,Clemson,Clemson,95
+2009-10,2009-11-17,919659,476,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1467,Liberty,279,279,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,95
+2009-10,2009-11-17,919659,478,0,2,Liberty,Clemson,Flames,Tigers,4,4,31,68,-37,1467,Liberty,266,266,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,463140,NA,NA,0,Liberty,Liberty,96
+2009-10,2009-11-17,919659,495,0,2,Liberty,Clemson,Flames,Tigers,4,4,33,68,-35,1467,Liberty,222,222,44, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,303372,NA,NA,0,Liberty,Clemson,96
+2009-10,2009-11-17,919659,496,0,2,Liberty,Clemson,Flames,Tigers,4,4,33,70,-37,1355,Clemson,205,205,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330454,NA,NA,0,Clemson,Liberty,97
+2009-10,2009-11-17,919659,497,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,70,-34,1467,Liberty,190,190,15, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.799999999999997,6.75,505896,NA,NA,0,Liberty,Clemson,98
+2009-10,2009-11-17,919659,498,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,1355,Clemson,173,173,17, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,15.8,5.65,510769,NA,NA,0,Clemson,Liberty,99
+2009-10,2009-11-17,919659,499,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,1467,Liberty,159,159,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,303372,NA,NA,0,Liberty,Liberty,100
+2009-10,2009-11-17,919659,500,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,1355,Clemson,159,159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,100
+2009-10,2009-11-17,919659,506,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,1467,Liberty,137,137,22,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,101
+2009-10,2009-11-17,919659,507,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,NA,NA,137,137,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,512,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,72,-36,1467,Liberty,115,115,22,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,101
+2009-10,2009-11-17,919659,513,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,115,115,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,101
+2009-10,2009-11-17,919659,514,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,115,115,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,101
+2009-10,2009-11-17,919659,515,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,115,115,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,101
+2009-10,2009-11-17,919659,518,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,114,114,1, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24.7,8.75,510767,NA,NA,0,Clemson,Liberty,101
+2009-10,2009-11-17,919659,523,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1467,Liberty,93,93,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,409937,NA,NA,0,Liberty,Liberty,102
+2009-10,2009-11-17,919659,524,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,93,93,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,102
+2009-10,2009-11-17,919659,526,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1467,Liberty,91,91,2,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,103
+2009-10,2009-11-17,919659,527,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1355,Clemson,91,91,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,103
+2009-10,2009-11-17,919659,528,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,73,-37,1467,Liberty,91,91,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Liberty,103
+2009-10,2009-11-17,919659,545,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,75,-39,1355,Clemson,50,50,41, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510767,NA,NA,0,Clemson,Liberty,104
+2009-10,2009-11-17,919659,548,0,2,Liberty,Clemson,Flames,Tigers,4,4,36,75,-39,1355,Clemson,40,40,10,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,105
+2009-10,2009-11-17,919659,549,0,2,Liberty,Clemson,Flames,Tigers,4,4,37,75,-38,1467,Liberty,40,40,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Clemson,105
+2009-10,2009-11-17,919659,551,0,2,Liberty,Clemson,Flames,Tigers,4,4,37,75,-38,1467,Liberty,40,40,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,106
+2009-10,2009-11-17,919659,552,0,2,Liberty,Clemson,Flames,Tigers,4,4,37,75,-38,1467,Liberty,40,40,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,106
+2009-10,2009-11-17,919659,553,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,75,-36,1467,Liberty,36,36,4, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.8,12.950000000000003,463144,NA,NA,0,Liberty,Clemson,106
+2009-10,2009-11-17,919659,557,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,77,-38,1355,Clemson,21,21,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,420063,NA,NA,0,Clemson,Liberty,107
+2009-10,2009-11-17,919659,558,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,77,-38,1355,Clemson,12,12,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,420063,NA,NA,0,Clemson,Clemson,108
+2009-10,2009-11-17,919659,559,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,77,-38,1355,Clemson,12,12,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,108
+2009-10,2009-11-17,919659,560,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,79,-40,1355,Clemson,9,9,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,510767,NA,NA,0,Clemson,Liberty,108
+2009-10,2009-11-17,919659,570,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,79,-40,NA,NA,0,0,9,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-17,919659,571,0,2,Liberty,Clemson,Flames,Tigers,4,4,39,79,-40,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Liberty,Liberty,NA

@@ -1,0 +1,221 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-22,994517,1,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,NA
+2010-11,2011-01-22,994517,3,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,3,-3,1627,Stanford,2387,1187,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.3,23.85,552309,NA,NA,0,Stanford,UCLA,1
+2010-11,2011-01-22,994517,4,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,3,-3,1668,UCLA,2367,1167,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,6.650000000000006,513482,NA,NA,0,UCLA,Stanford,2
+2010-11,2011-01-22,994517,5,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,3,-3,1627,Stanford,2344,1144,23, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17,5.25,395377,NA,NA,0,Stanford,Stanford,3
+2010-11,2011-01-22,994517,6,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,5,-5,1627,Stanford,2334,1134,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,UCLA,3
+2010-11,2011-01-22,994517,13,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,5,-5,1627,Stanford,2307,1107,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,20.55,457561,NA,NA,0,Stanford,Stanford,4
+2010-11,2011-01-22,994517,15,0,1,UCLA,Stanford,Bruins,Cardinal,4,4,0,8,-8,1627,Stanford,2303,1103,4, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,25.5,30.35,457561,NA,NA,0,Stanford,UCLA,4
+2010-11,2011-01-22,994517,16,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,0,8,-8,1668,UCLA,2303,1103,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,18,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,8,-6,1668,UCLA,2295,1095,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513492,NA,NA,0,UCLA,Stanford,5
+2010-11,2011-01-22,994517,22,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,8,-6,1627,Stanford,2281,1081,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,Stanford,6
+2010-11,2011-01-22,994517,23,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,8,-6,1627,Stanford,2278,1078,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,UCLA,6
+2010-11,2011-01-22,994517,24,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,8,-6,1668,UCLA,2272,1072,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551819,NA,NA,0,UCLA,UCLA,7
+2010-11,2011-01-22,994517,25,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,8,-6,1668,UCLA,2268,1068,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513484,NA,NA,0,UCLA,Stanford,7
+2010-11,2011-01-22,994517,27,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,10,-8,1627,Stanford,2258,1058,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457562,NA,NA,0,Stanford,UCLA,8
+2010-11,2011-01-22,994517,30,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,10,-8,1627,Stanford,2237,1037,21,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,9
+2010-11,2011-01-22,994517,32,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,10,-8,1668,UCLA,2229,1029,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.799999999999997,18.75,513492,NA,NA,0,UCLA,Stanford,9
+2010-11,2011-01-22,994517,33,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,2,10,-8,1627,Stanford,2213,1013,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,23.45,552304,NA,NA,0,Stanford,UCLA,10
+2010-11,2011-01-22,994517,36,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,4,10,-6,1668,UCLA,2185,985,28, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,23.8,10.650000000000006,457569,NA,NA,0,UCLA,UCLA,11
+2010-11,2011-01-22,994517,37,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,4,10,-6,1627,Stanford,2185,985,0,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,11
+2010-11,2011-01-22,994517,38,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,10,-5,1668,UCLA,2185,985,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,11
+2010-11,2011-01-22,994517,42,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,10,-5,1627,Stanford,2167,967,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,Stanford,12
+2010-11,2011-01-22,994517,44,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,10,-5,1668,UCLA,2166,966,1,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,12
+2010-11,2011-01-22,994517,45,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,10,-5,1627,Stanford,2166,966,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,12
+2010-11,2011-01-22,994517,47,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,11,-6,1627,Stanford,2166,966,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,12
+2010-11,2011-01-22,994517,49,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,11,-6,1668,UCLA,2130,930,36, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19.5,29.450000000000003,551819,NA,NA,0,UCLA,Stanford,13
+2010-11,2011-01-22,994517,50,0,1,UCLA,Stanford,Bruins,Cardinal,3,4,5,13,-8,1627,Stanford,2122,922,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457562,NA,NA,0,Stanford,UCLA,14
+2010-11,2011-01-22,994517,54,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,13,-8,1668,UCLA,2121,921,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,59,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,13,-8,NA,NA,2099,899,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,65,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,15,-10,1627,Stanford,2082,882,17, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,32.7,6.45,395377,NA,NA,0,Stanford,UCLA,15
+2010-11,2011-01-22,994517,66,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,15,-10,1668,UCLA,2068,868,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,Stanford,16
+2010-11,2011-01-22,994517,70,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,15,-10,1668,UCLA,2066,866,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,17
+2010-11,2011-01-22,994517,74,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,15,-10,1627,Stanford,2052,852,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,UCLA,17
+2010-11,2011-01-22,994517,89,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,5,15,-10,1627,Stanford,1985,785,67,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-01-22,994517,90,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,6,15,-9,1668,UCLA,1985,785,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2010-11,2011-01-22,994517,91,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,15,-8,1668,UCLA,1985,785,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,18
+2010-11,2011-01-22,994517,93,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,15,-8,1668,UCLA,1962,762,23, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,12.049999999999997,513492,NA,NA,0,UCLA,Stanford,19
+2010-11,2011-01-22,994517,94,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,15,-8,1627,Stanford,1938,738,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457563,NA,NA,0,Stanford,Stanford,20
+2010-11,2011-01-22,994517,95,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,17,-10,1627,Stanford,1935,735,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,UCLA,20
+2010-11,2011-01-22,994517,98,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,17,-10,1627,Stanford,1919,719,16,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2010-11,2011-01-22,994517,99,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,17,-10,NA,NA,1919,719,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,100,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,7,17,-10,1668,UCLA,1919,719,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2010-11,2011-01-22,994517,101,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,17,-9,1668,UCLA,1919,719,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,21
+2010-11,2011-01-22,994517,106,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,17,-9,1668,UCLA,1907,707,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,22
+2010-11,2011-01-22,994517,107,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,17,-9,1627,Stanford,1907,707,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,22
+2010-11,2011-01-22,994517,108,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1627,Stanford,1907,707,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,22
+2010-11,2011-01-22,994517,112,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1668,UCLA,1887,687,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,15.349999999999994,457571,NA,NA,0,UCLA,UCLA,23
+2010-11,2011-01-22,994517,114,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1627,Stanford,1886,686,1,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2010-11,2011-01-22,994517,115,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1668,UCLA,1886,686,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2010-11,2011-01-22,994517,116,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1668,UCLA,1886,686,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,23
+2010-11,2011-01-22,994517,124,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,18,-10,1668,UCLA,1867,667,19,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,24
+2010-11,2011-01-22,994517,126,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,19,-11,1627,Stanford,1867,667,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,24
+2010-11,2011-01-22,994517,127,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,20,-12,1627,Stanford,1867,667,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,24
+2010-11,2011-01-22,994517,133,0,1,UCLA,Stanford,Bruins,Cardinal,2,4,8,22,-14,1627,Stanford,1825,625,42, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,36,17.05,552305,NA,NA,0,Stanford,UCLA,25
+2010-11,2011-01-22,994517,141,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1668,UCLA,1824,624,1,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,148,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1791,591,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,7.35,552304,NA,NA,0,Stanford,UCLA,26
+2010-11,2011-01-22,994517,151,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1668,UCLA,1778,578,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,29.849999999999994,513490,NA,NA,0,UCLA,Stanford,27
+2010-11,2011-01-22,994517,155,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1766,566,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,18.95,552305,NA,NA,0,Stanford,Stanford,28
+2010-11,2011-01-22,994517,157,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1765,565,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552307,NA,NA,0,Stanford,Stanford,28
+2010-11,2011-01-22,994517,164,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1739,539,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457563,NA,NA,0,Stanford,Stanford,28
+2010-11,2011-01-22,994517,167,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1737,537,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457563,NA,NA,0,Stanford,Stanford,28
+2010-11,2011-01-22,994517,171,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1668,UCLA,1734,534,3,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,28
+2010-11,2011-01-22,994517,173,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1706,506,28, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,12.45,457561,NA,NA,0,Stanford,UCLA,28
+2010-11,2011-01-22,994517,174,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1668,UCLA,1700,500,6, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,11.650000000000006,457569,NA,NA,0,UCLA,Stanford,29
+2010-11,2011-01-22,994517,175,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,8,22,-14,1627,Stanford,1690,490,10, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36,5.25,457561,NA,NA,0,Stanford,UCLA,30
+2010-11,2011-01-22,994517,178,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,10,22,-12,1668,UCLA,1687,487,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,UCLA,31
+2010-11,2011-01-22,994517,179,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,10,22,-12,1627,Stanford,1687,487,0,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,31
+2010-11,2011-01-22,994517,180,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,11,22,-11,1668,UCLA,1687,487,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,31
+2010-11,2011-01-22,994517,182,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,11,24,-13,1627,Stanford,1675,475,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457562,NA,NA,0,Stanford,UCLA,32
+2010-11,2011-01-22,994517,183,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1668,UCLA,1651,451,24, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.5,29.650000000000006,457569,NA,NA,0,UCLA,Stanford,33
+2010-11,2011-01-22,994517,185,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,NA,NA,1623,423,28,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,187,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1668,UCLA,1607,407,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,13.549999999999997,513492,NA,NA,0,UCLA,Stanford,34
+2010-11,2011-01-22,994517,188,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1627,Stanford,1578,378,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,14.55,457561,NA,NA,0,Stanford,UCLA,35
+2010-11,2011-01-22,994517,189,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1668,UCLA,1565,365,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551818,NA,NA,0,UCLA,Stanford,36
+2010-11,2011-01-22,994517,190,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1627,Stanford,1532,332,33, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27,30.55,512693,NA,NA,0,Stanford,UCLA,37
+2010-11,2011-01-22,994517,194,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1668,UCLA,1526,326,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457571,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-01-22,994517,197,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,14,24,-10,1627,Stanford,1524,324,2,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-01-22,994517,198,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,15,24,-9,1668,UCLA,1524,324,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,38
+2010-11,2011-01-22,994517,199,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,15,24,-9,1668,UCLA,1524,324,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,39
+2010-11,2011-01-22,994517,201,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,15,24,-9,1627,Stanford,1489,289,35, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,7.15,457563,NA,NA,0,Stanford,UCLA,40
+2010-11,2011-01-22,994517,202,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,17,24,-7,1668,UCLA,1456,256,33, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,27.2,23.25,513492,NA,NA,0,UCLA,Stanford,41
+2010-11,2011-01-22,994517,204,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,17,24,-7,1627,Stanford,1422,222,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,13.35,552304,NA,NA,0,Stanford,UCLA,42
+2010-11,2011-01-22,994517,209,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,17,24,-7,NA,NA,1420,220,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,213,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,17,24,-7,1627,Stanford,1412,212,8,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2010-11,2011-01-22,994517,214,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,18,24,-6,1668,UCLA,1412,212,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2010-11,2011-01-22,994517,215,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,19,24,-5,1668,UCLA,1412,212,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,43
+2010-11,2011-01-22,994517,220,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,19,24,-5,1627,Stanford,1400,200,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Stanford,44
+2010-11,2011-01-22,994517,222,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,19,24,-5,1627,Stanford,1391,191,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,22.45,411256,NA,NA,0,Stanford,UCLA,44
+2010-11,2011-01-22,994517,223,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,21,24,-3,1668,UCLA,1356,156,35, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,38.7,15.549999999999997,457569,NA,NA,0,UCLA,Stanford,45
+2010-11,2011-01-22,994517,229,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,21,24,-3,1627,Stanford,1328,128,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,Stanford,46
+2010-11,2011-01-22,994517,232,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,21,24,-3,1627,Stanford,1326,126,2, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,27,23.05,552305,NA,NA,0,Stanford,UCLA,46
+2010-11,2011-01-22,994517,234,0,1,UCLA,Stanford,Bruins,Cardinal,1,4,24,24,0,1668,UCLA,1315,115,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.700000000000003,8.150000000000006,513492,NA,NA,0,UCLA,Stanford,47
+2010-11,2011-01-22,994517,237,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,24,24,0,1627,Stanford,1311,111,4,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,240,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,24,27,-3,1627,Stanford,1298,98,13, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47,8.95,552305,NA,NA,0,Stanford,UCLA,48
+2010-11,2011-01-22,994517,241,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,24,27,-3,1668,UCLA,1277,77,21, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,24.950000000000003,513492,NA,NA,0,UCLA,Stanford,49
+2010-11,2011-01-22,994517,243,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,24,27,-3,1627,Stanford,1267,67,10,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,50
+2010-11,2011-01-22,994517,250,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,26,27,-1,1668,UCLA,1248,48,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513484,NA,NA,0,UCLA,Stanford,51
+2010-11,2011-01-22,994517,264,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,26,27,-1,1668,UCLA,1201,1,47, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,18.7,33.15,457569,NA,NA,0,UCLA,Stanford,52
+2010-11,2011-01-22,994517,265,0,1,UCLA,Stanford,Bruins,Cardinal,1,3,26,27,-1,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,266,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,27,-1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,53
+2010-11,2011-01-22,994517,270,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,27,-1,1668,UCLA,1190,1190,10,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,54
+2010-11,2011-01-22,994517,271,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1627,Stanford,1190,1190,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,54
+2010-11,2011-01-22,994517,272,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1627,Stanford,1190,1190,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,54
+2010-11,2011-01-22,994517,278,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1668,UCLA,1160,1160,30, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13,6.75,513492,NA,NA,0,UCLA,UCLA,55
+2010-11,2011-01-22,994517,281,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1668,UCLA,1151,1151,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,16.650000000000006,551819,NA,NA,0,UCLA,Stanford,55
+2010-11,2011-01-22,994517,282,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1627,Stanford,1140,1140,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,UCLA,56
+2010-11,2011-01-22,994517,283,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1668,UCLA,1135,1135,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.299999999999997,19.75,513492,NA,NA,0,UCLA,UCLA,57
+2010-11,2011-01-22,994517,286,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,26,28,-2,1627,Stanford,1120,1120,15,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,57
+2010-11,2011-01-22,994517,287,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,27,28,-1,1668,UCLA,1120,1120,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,57
+2010-11,2011-01-22,994517,288,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1668,UCLA,1120,1120,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,57
+2010-11,2011-01-22,994517,292,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1627,Stanford,1105,1105,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,26.35,552304,NA,NA,0,Stanford,UCLA,58
+2010-11,2011-01-22,994517,296,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1627,Stanford,1096,1096,9,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2010-11,2011-01-22,994517,303,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1668,UCLA,1076,1076,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,Stanford,59
+2010-11,2011-01-22,994517,305,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1668,UCLA,1070,1070,6,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,60
+2010-11,2011-01-22,994517,307,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,28,28,0,1627,Stanford,1048,1048,22, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,21.15,552305,NA,NA,0,Stanford,UCLA,60
+2010-11,2011-01-22,994517,308,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,30,28,2,1668,UCLA,1038,1038,10, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.200000000000003,4.25,457569,NA,NA,0,UCLA,Stanford,61
+2010-11,2011-01-22,994517,309,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,30,31,-1,1627,Stanford,1023,1023,15, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,33,28.85,552304,NA,NA,0,Stanford,UCLA,62
+2010-11,2011-01-22,994517,310,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,32,31,1,1668,UCLA,1004,1004,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Stanford,63
+2010-11,2011-01-22,994517,313,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,32,31,1,1627,Stanford,969,969,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,6.65,457561,NA,NA,0,Stanford,UCLA,64
+2010-11,2011-01-22,994517,317,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,32,31,1,1627,Stanford,965,965,4,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2010-11,2011-01-22,994517,318,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,33,31,2,1668,UCLA,965,965,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,65
+2010-11,2011-01-22,994517,319,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,34,31,3,1668,UCLA,965,965,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,65
+2010-11,2011-01-22,994517,321,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,34,33,1,1627,Stanford,948,948,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457561,NA,NA,0,Stanford,UCLA,66
+2010-11,2011-01-22,994517,322,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,37,33,4,1668,UCLA,928,928,20, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.2,21.849999999999994,551819,NA,NA,0,UCLA,Stanford,67
+2010-11,2011-01-22,994517,323,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,37,33,4,1627,Stanford,914,914,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,11.45,552309,NA,NA,0,Stanford,Stanford,68
+2010-11,2011-01-22,994517,324,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,37,36,1,1627,Stanford,893,893,21, makes a 3-point jump shot from 28 feet out.,made,FALSE,TRUE,Jump Shot,40.7,29.05,457561,NA,NA,0,Stanford,UCLA,68
+2010-11,2011-01-22,994517,326,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,37,36,1,1668,UCLA,857,857,36, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,36.3,19.549999999999997,551819,NA,NA,0,UCLA,UCLA,69
+2010-11,2011-01-22,994517,327,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,37,36,1,NA,NA,857,857,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,329,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,36,3,1668,UCLA,855,855,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513484,NA,NA,0,UCLA,Stanford,69
+2010-11,2011-01-22,994517,330,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,36,3,1627,Stanford,836,836,19, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,12.95,552309,NA,NA,0,Stanford,Stanford,70
+2010-11,2011-01-22,994517,331,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1627,Stanford,833,833,3, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21.8,8.15,395377,NA,NA,0,Stanford,UCLA,70
+2010-11,2011-01-22,994517,332,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1668,UCLA,812,812,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,71
+2010-11,2011-01-22,994517,336,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1668,UCLA,800,800,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551819,NA,NA,0,UCLA,UCLA,71
+2010-11,2011-01-22,994517,339,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1627,Stanford,798,798,2,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,71
+2010-11,2011-01-22,994517,340,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1668,UCLA,798,798,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,71
+2010-11,2011-01-22,994517,341,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1668,UCLA,798,798,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,71
+2010-11,2011-01-22,994517,345,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1627,Stanford,761,761,37, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,13.95,457562,NA,NA,0,Stanford,UCLA,72
+2010-11,2011-01-22,994517,346,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,39,38,1,1668,UCLA,755,755,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,UCLA,73
+2010-11,2011-01-22,994517,347,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,38,3,1668,UCLA,744,744,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551819,NA,NA,0,UCLA,Stanford,73
+2010-11,2011-01-22,994517,350,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,38,3,1668,UCLA,731,731,13,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,74
+2010-11,2011-01-22,994517,353,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,40,1,1627,Stanford,715,715,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552309,NA,NA,0,Stanford,Stanford,74
+2010-11,2011-01-22,994517,354,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,40,1,1668,UCLA,715,715,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,74
+2010-11,2011-01-22,994517,355,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,40,1,NA,NA,715,715,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,356,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,41,41,0,1627,Stanford,715,715,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,74
+2010-11,2011-01-22,994517,358,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,44,41,3,1668,UCLA,682,682,33, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47,5.849999999999994,457569,NA,NA,0,UCLA,Stanford,75
+2010-11,2011-01-22,994517,359,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,44,43,1,1627,Stanford,659,659,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552309,NA,NA,0,Stanford,UCLA,76
+2010-11,2011-01-22,994517,360,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,46,43,3,1668,UCLA,628,628,31, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,5.700000000000003,7.75,513492,NA,NA,0,UCLA,Stanford,77
+2010-11,2011-01-22,994517,376,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,46,43,3,1668,UCLA,579,579,49, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,24.349999999999994,551819,NA,NA,0,UCLA,Stanford,78
+2010-11,2011-01-22,994517,377,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,46,46,0,1627,Stanford,554,554,25, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,40.2,25.95,552304,NA,NA,0,Stanford,UCLA,79
+2010-11,2011-01-22,994517,378,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,46,46,0,1668,UCLA,531,531,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,80
+2010-11,2011-01-22,994517,379,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1668,UCLA,527,527,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Stanford,80
+2010-11,2011-01-22,994517,380,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1627,Stanford,510,510,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,14.15,552309,NA,NA,0,Stanford,Stanford,81
+2010-11,2011-01-22,994517,381,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1627,Stanford,501,501,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.5,30.25,552305,NA,NA,0,Stanford,UCLA,81
+2010-11,2011-01-22,994517,382,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1668,UCLA,477,477,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,5.650000000000006,457569,NA,NA,0,UCLA,Stanford,82
+2010-11,2011-01-22,994517,383,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1627,Stanford,471,471,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457562,NA,NA,0,Stanford,UCLA,83
+2010-11,2011-01-22,994517,386,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1627,Stanford,467,467,4,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2010-11,2011-01-22,994517,387,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,NA,NA,467,467,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,391,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,48,46,2,1627,Stanford,450,450,17,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2010-11,2011-01-22,994517,394,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,51,46,5,1668,UCLA,437,437,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47,13.349999999999994,513492,NA,NA,0,UCLA,Stanford,84
+2010-11,2011-01-22,994517,396,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,51,46,5,1668,UCLA,423,423,14,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,85
+2010-11,2011-01-22,994517,397,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,51,47,4,1627,Stanford,423,423,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,85
+2010-11,2011-01-22,994517,398,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,51,48,3,1627,Stanford,423,423,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,85
+2010-11,2011-01-22,994517,405,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,51,48,3,1627,Stanford,399,399,24,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2010-11,2011-01-22,994517,406,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,52,48,4,1668,UCLA,399,399,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2010-11,2011-01-22,994517,407,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,53,48,5,1668,UCLA,399,399,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,86
+2010-11,2011-01-22,994517,409,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,53,48,5,1627,Stanford,387,387,12, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,19.75,457561,NA,NA,0,Stanford,Stanford,87
+2010-11,2011-01-22,994517,414,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,53,48,5,1627,Stanford,350,350,37, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,8.55,552304,NA,NA,0,Stanford,UCLA,87
+2010-11,2011-01-22,994517,416,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,53,48,5,1627,Stanford,338,338,12,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,88
+2010-11,2011-01-22,994517,417,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,54,48,6,1668,UCLA,338,338,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,88
+2010-11,2011-01-22,994517,418,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,55,48,7,1668,UCLA,338,338,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,89
+2010-11,2011-01-22,994517,421,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,55,48,7,1668,UCLA,317,317,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.049999999999997,551819,NA,NA,0,UCLA,Stanford,90
+2010-11,2011-01-22,994517,422,0,2,UCLA,Stanford,Bruins,Cardinal,4,4,55,50,5,1627,Stanford,307,307,10, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,23.8,12.45,457561,NA,NA,0,Stanford,UCLA,91
+2010-11,2011-01-22,994517,426,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,55,50,5,1627,Stanford,306,306,1,Cardinal take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,429,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,55,50,5,1668,UCLA,283,283,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,Stanford,92
+2010-11,2011-01-22,994517,434,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,55,50,5,1627,Stanford,271,271,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Stanford,93
+2010-11,2011-01-22,994517,436,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,55,50,5,1668,UCLA,270,270,1,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,93
+2010-11,2011-01-22,994517,440,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,57,50,7,1668,UCLA,231,231,39, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551819,NA,NA,0,UCLA,UCLA,93
+2010-11,2011-01-22,994517,441,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,57,50,7,1627,Stanford,231,231,0,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2010-11,2011-01-22,994517,442,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,57,50,7,NA,NA,231,231,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,443,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,58,50,8,1668,UCLA,231,231,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,93
+2010-11,2011-01-22,994517,445,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,58,50,8,1627,Stanford,221,221,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457561,NA,NA,0,Stanford,UCLA,94
+2010-11,2011-01-22,994517,446,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,50,10,1668,UCLA,202,202,19, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,6.799999999999997,8.150000000000006,513492,NA,NA,0,UCLA,Stanford,95
+2010-11,2011-01-22,994517,450,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,50,10,1627,Stanford,187,187,15, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,26,11.25,395377,NA,NA,0,Stanford,Stanford,96
+2010-11,2011-01-22,994517,454,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,50,10,1668,UCLA,185,185,2,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,96
+2010-11,2011-01-22,994517,456,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,51,9,1627,Stanford,185,185,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,96
+2010-11,2011-01-22,994517,457,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,52,8,1627,Stanford,185,185,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,96
+2010-11,2011-01-22,994517,460,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,52,8,1668,UCLA,154,154,31, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,5.650000000000006,457569,NA,NA,0,UCLA,Stanford,97
+2010-11,2011-01-22,994517,461,0,2,UCLA,Stanford,Bruins,Cardinal,4,3,60,52,8,1627,Stanford,144,144,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,10.85,552305,NA,NA,0,Stanford,UCLA,98
+2010-11,2011-01-22,994517,463,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1668,UCLA,136,136,8,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,465,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1668,UCLA,122,122,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4,13.950000000000003,513492,NA,NA,0,UCLA,UCLA,99
+2010-11,2011-01-22,994517,469,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1668,UCLA,96,96,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,Stanford,99
+2010-11,2011-01-22,994517,476,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1668,UCLA,90,90,6,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,100
+2010-11,2011-01-22,994517,477,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1627,Stanford,90,90,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,100
+2010-11,2011-01-22,994517,478,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1627,Stanford,90,90,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,100
+2010-11,2011-01-22,994517,483,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,60,52,8,1627,Stanford,70,70,20,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,101
+2010-11,2011-01-22,994517,484,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,61,52,9,1668,UCLA,70,70,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,101
+2010-11,2011-01-22,994517,485,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,61,52,9,1668,UCLA,70,70,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,101
+2010-11,2011-01-22,994517,487,0,2,UCLA,Stanford,Bruins,Cardinal,3,3,61,52,9,1627,Stanford,61,61,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.7,30.55,457561,NA,NA,0,Stanford,Stanford,102
+2010-11,2011-01-22,994517,495,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,61,52,9,1627,Stanford,58,58,3,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,499,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,61,52,9,1627,Stanford,53,53,5, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33,18.95,457561,NA,NA,0,Stanford,Stanford,102
+2010-11,2011-01-22,994517,507,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,61,52,9,1627,Stanford,49,49,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,11.05,457561,NA,NA,0,Stanford,Stanford,102
+2010-11,2011-01-22,994517,514,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,61,54,7,1627,Stanford,47,47,2, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,33.3,20.75,552305,NA,NA,0,Stanford,UCLA,102
+2010-11,2011-01-22,994517,518,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,61,54,7,1627,Stanford,47,47,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2011-01-22,994517,519,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,62,54,8,1668,UCLA,47,47,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2011-01-22,994517,520,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,63,54,9,1668,UCLA,47,47,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,103
+2010-11,2011-01-22,994517,531,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,63,54,9,1627,Stanford,35,35,12,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2010-11,2011-01-22,994517,532,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,64,54,10,1668,UCLA,35,35,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2010-11,2011-01-22,994517,533,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,64,54,10,1668,UCLA,35,35,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,104
+2010-11,2011-01-22,994517,537,0,2,UCLA,Stanford,Bruins,Cardinal,3,2,64,57,7,1627,Stanford,28,28,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.1999999999999993,9.55,552305,NA,NA,0,Stanford,UCLA,105
+2010-11,2011-01-22,994517,538,0,2,UCLA,Stanford,Bruins,Cardinal,3,1,64,57,7,1627,Stanford,28,28,0,Cardinal take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,539,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,64,57,7,1668,UCLA,28,28,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,545,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,64,57,7,1627,Stanford,28,28,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,106
+2010-11,2011-01-22,994517,546,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,65,57,8,1668,UCLA,28,28,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,106
+2010-11,2011-01-22,994517,547,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,66,57,9,1668,UCLA,28,28,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,106
+2010-11,2011-01-22,994517,552,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,66,57,9,1627,Stanford,15,15,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,18.75,457561,NA,NA,0,Stanford,Stanford,107
+2010-11,2011-01-22,994517,554,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,66,57,9,1627,Stanford,10,10,5, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,10.85,552309,NA,NA,0,Stanford,UCLA,107
+2010-11,2011-01-22,994517,558,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,67,57,10,1668,UCLA,8,8,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2010-11,2011-01-22,994517,559,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,68,57,11,1668,UCLA,8,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,108
+2010-11,2011-01-22,994517,563,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,68,57,11,1627,Stanford,1,1,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,25.95,457562,NA,NA,0,Stanford,NA,109
+2010-11,2011-01-22,994517,564,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,68,57,11,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,994517,565,0,2,UCLA,Stanford,Bruins,Cardinal,2,1,68,57,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,NA

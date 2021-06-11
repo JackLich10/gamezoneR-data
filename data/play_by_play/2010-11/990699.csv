@@ -1,0 +1,301 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-05,990699,1,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,NA
+2010-11,2011-01-05,990699,5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,2,0,2,1456,Kansas,2381,1181,19, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9.700000000000003,6.049999999999997,398441,NA,NA,0,Kansas,UMKC,1
+2010-11,2011-01-05,990699,9,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,2,0,2,1508,UMKC,2373,1173,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,4.25,552631,NA,NA,0,UMKC,UMKC,2
+2010-11,2011-01-05,990699,11.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,2,0,2,1456,Kansas,2373,1173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,2
+2010-11,2011-01-05,990699,19,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,2,0,2,1508,UMKC,2367,1167,6,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,3
+2010-11,2011-01-05,990699,20,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,3,0,3,1456,Kansas,2367,1167,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,3
+2010-11,2011-01-05,990699,21,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,4,0,4,1456,Kansas,2367,1167,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,3
+2010-11,2011-01-05,990699,23,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,6,0,6,1456,Kansas,2351,1151,16, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469085,NA,NA,0,Kansas,UMKC,4
+2010-11,2011-01-05,990699,27,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,6,0,6,1456,Kansas,2336,1136,15,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,5
+2010-11,2011-01-05,990699,32,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,6,0,6,1508,UMKC,2309,1109,27,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,5
+2010-11,2011-01-05,990699,33,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,7,0,7,1456,Kansas,2309,1109,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,5
+2010-11,2011-01-05,990699,34,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,8,0,8,1456,Kansas,2309,1109,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,5
+2010-11,2011-01-05,990699,37,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,8,0,8,1508,UMKC,2299,1099,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.7,3.55,410566,NA,NA,0,UMKC,Kansas,6
+2010-11,2011-01-05,990699,49,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,8,0,8,1456,Kansas,2271,1071,28,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,7
+2010-11,2011-01-05,990699,50,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,8,0,8,1456,Kansas,2271,1071,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-05,990699,58,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2247,1047,24, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,UMKC,8
+2010-11,2011-01-05,990699,62,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2233,1033,14,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,9
+2010-11,2011-01-05,990699,65,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2230,1030,3,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,9
+2010-11,2011-01-05,990699,67,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2225,1025,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,14.549999999999997,553138,NA,NA,0,Kansas,Kansas,9
+2010-11,2011-01-05,990699,68,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2225,1025,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,9
+2010-11,2011-01-05,990699,69,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2219,1019,6, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26,9.25,469096,NA,NA,0,Kansas,Kansas,9
+2010-11,2011-01-05,990699,70,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2219,1019,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,9
+2010-11,2011-01-05,990699,71,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2192,992,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17,29.25,470270,NA,NA,0,UMKC,UMKC,10
+2010-11,2011-01-05,990699,72,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2192,992,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,10
+2010-11,2011-01-05,990699,81,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2177,977,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553138,NA,NA,0,Kansas,Kansas,11
+2010-11,2011-01-05,990699,82,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2177,977,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,11
+2010-11,2011-01-05,990699,83,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2146,946,31, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16,4.05,470270,NA,NA,0,UMKC,UMKC,12
+2010-11,2011-01-05,990699,84,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2146,946,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,12
+2010-11,2011-01-05,990699,87,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,NA,NA,2139,939,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,96,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2131,931,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,16,28.45,340742,NA,NA,0,UMKC,Kansas,13
+2010-11,2011-01-05,990699,100,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1456,Kansas,2117,917,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,14
+2010-11,2011-01-05,990699,101,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2117,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,14
+2010-11,2011-01-05,990699,104,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,10,0,10,1508,UMKC,2112,912,5,Offensive foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,15
+2010-11,2011-01-05,990699,106,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,13,0,13,1456,Kansas,2094,894,18, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.3,5.049999999999997,398441,NA,NA,0,Kansas,UMKC,16
+2010-11,2011-01-05,990699,107,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,13,0,13,1508,UMKC,2073,873,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552631,NA,NA,0,UMKC,UMKC,17
+2010-11,2011-01-05,990699,108,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,13,0,13,1456,Kansas,2073,873,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,17
+2010-11,2011-01-05,990699,110,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,4,15,0,15,1456,Kansas,2066,866,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469096,NA,NA,0,Kansas,UMKC,18
+2010-11,2011-01-05,990699,114,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,0,15,1508,UMKC,2066,866,0,Kangaroos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,118,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,0,15,1456,Kansas,2053,853,13,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,19
+2010-11,2011-01-05,990699,119,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,0,15,1508,UMKC,2053,853,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,19
+2010-11,2011-01-05,990699,122,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,1,14,1508,UMKC,2053,853,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,19
+2010-11,2011-01-05,990699,124,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,1,14,1456,Kansas,2028,828,25, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14,27.25,513059,NA,NA,0,Kansas,Kansas,20
+2010-11,2011-01-05,990699,125,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,1,14,1508,UMKC,2028,828,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,20
+2010-11,2011-01-05,990699,129,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,1,14,1456,Kansas,2017,817,11,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,21
+2010-11,2011-01-05,990699,130,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,2,13,1508,UMKC,2017,817,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,21
+2010-11,2011-01-05,990699,131,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,3,12,1508,UMKC,2017,817,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,21
+2010-11,2011-01-05,990699,132,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,15,6,9,1508,UMKC,2017,817,0, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,30,29.25,470270,NA,NA,0,UMKC,Kansas,22
+2010-11,2011-01-05,990699,146.25,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,17,6,11,1456,Kansas,1977,777,40, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513059,NA,NA,0,Kansas,UMKC,23
+2010-11,2011-01-05,990699,160.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1456,Kansas,1964,764,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,UMKC,24
+2010-11,2011-01-05,990699,188,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1939,739,25,Offensive foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,25
+2010-11,2011-01-05,990699,202,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1456,Kansas,1921,721,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8,24.25,330353,NA,NA,0,Kansas,Kansas,26
+2010-11,2011-01-05,990699,203,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1921,721,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,26
+2010-11,2011-01-05,990699,204,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1910,710,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,21.25,410940,NA,NA,0,UMKC,UMKC,27
+2010-11,2011-01-05,990699,205,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1456,Kansas,1910,710,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,27
+2010-11,2011-01-05,990699,206,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1892,692,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45,11.65,340742,NA,NA,0,UMKC,UMKC,28
+2010-11,2011-01-05,990699,207,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1456,Kansas,1892,692,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,28
+2010-11,2011-01-05,990699,211,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1876,676,16,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,29
+2010-11,2011-01-05,990699,212,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,NA,NA,1876,676,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,241,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,19,6,13,1508,UMKC,1859,659,17,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,29
+2010-11,2011-01-05,990699,242,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,20,6,14,1456,Kansas,1859,659,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,29
+2010-11,2011-01-05,990699,243,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1456,Kansas,1859,659,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,29
+2010-11,2011-01-05,990699,245,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1456,Kansas,1859,659,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10,25.25,469083,NA,NA,0,Kansas,Kansas,30
+2010-11,2011-01-05,990699,246,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1508,UMKC,1859,659,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,30
+2010-11,2011-01-05,990699,248,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1508,UMKC,1851,651,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410940,NA,NA,0,UMKC,UMKC,31
+2010-11,2011-01-05,990699,249,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1456,Kansas,1851,651,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,31
+2010-11,2011-01-05,990699,257.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1508,UMKC,1840,640,11,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,32
+2010-11,2011-01-05,990699,266,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1456,Kansas,1824,624,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,32
+2010-11,2011-01-05,990699,267,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,21,6,15,1456,Kansas,1824,624,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,32
+2010-11,2011-01-05,990699,268,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,23,6,17,1456,Kansas,1820,620,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24.3,7.349999999999994,469083,NA,NA,0,Kansas,UMKC,32
+2010-11,2011-01-05,990699,269,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,23,8,15,1508,UMKC,1789,589,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410940,NA,NA,0,UMKC,Kansas,33
+2010-11,2011-01-05,990699,272,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,23,8,15,1508,UMKC,1746,546,43, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.2,28.65,470270,NA,NA,0,UMKC,UMKC,34
+2010-11,2011-01-05,990699,273,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,23,8,15,1456,Kansas,1746,546,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,34
+2010-11,2011-01-05,990699,275,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,3,25,8,17,1456,Kansas,1739,539,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513059,NA,NA,0,Kansas,UMKC,35
+2010-11,2011-01-05,990699,281,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,25,8,17,1508,UMKC,1733,533,6,Kangaroos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,299,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1456,Kansas,1707,507,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469085,NA,NA,0,Kansas,UMKC,36
+2010-11,2011-01-05,990699,305,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1508,UMKC,1670,470,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33,28.25,410940,NA,NA,0,UMKC,UMKC,37
+2010-11,2011-01-05,990699,306,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1456,Kansas,1670,470,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,37
+2010-11,2011-01-05,990699,307,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1508,UMKC,1670,470,0,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,38
+2010-11,2011-01-05,990699,308,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,NA,NA,1670,470,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,317,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1456,Kansas,1670,470,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,38
+2010-11,2011-01-05,990699,318,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1508,UMKC,1670,470,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,38
+2010-11,2011-01-05,990699,324,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1456,Kansas,1656,456,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469096,NA,NA,0,Kansas,UMKC,39
+2010-11,2011-01-05,990699,331,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,8,19,1456,Kansas,1641,441,15,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,40
+2010-11,2011-01-05,990699,333,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,27,10,17,1508,UMKC,1635,435,6, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,36.5,16.45,552631,NA,NA,0,UMKC,Kansas,40
+2010-11,2011-01-05,990699,336,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,30,10,20,1456,Kansas,1611,411,24, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.8,19.75,513059,NA,NA,0,Kansas,UMKC,41
+2010-11,2011-01-05,990699,341,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,30,10,20,1456,Kansas,1605,405,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,42
+2010-11,2011-01-05,990699,342,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,30,10,20,1508,UMKC,1605,405,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,42
+2010-11,2011-01-05,990699,344,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,30,10,20,1508,UMKC,1605,405,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,42
+2010-11,2011-01-05,990699,345,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,30,10,20,1456,Kansas,1605,405,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,42
+2010-11,2011-01-05,990699,348,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,32,10,22,1456,Kansas,1595,395,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457334,NA,NA,0,Kansas,UMKC,43
+2010-11,2011-01-05,990699,351,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,2,35,10,25,1456,Kansas,1587,387,8, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,15.25,513059,NA,NA,0,Kansas,UMKC,44
+2010-11,2011-01-05,990699,358,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,35,10,25,1508,UMKC,1585,385,2,Kangaroos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,367,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,35,10,25,1508,UMKC,1564,364,21, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,19.55,410940,NA,NA,0,UMKC,UMKC,45
+2010-11,2011-01-05,990699,368,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,35,10,25,1456,Kansas,1564,364,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,45
+2010-11,2011-01-05,990699,369,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,35,10,25,1508,UMKC,1563,363,1,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,46
+2010-11,2011-01-05,990699,370,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,36,10,26,1456,Kansas,1563,363,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,46
+2010-11,2011-01-05,990699,371,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,10,27,1456,Kansas,1563,363,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,46
+2010-11,2011-01-05,990699,376,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,10,27,1456,Kansas,1537,337,26,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,47
+2010-11,2011-01-05,990699,377,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,11,26,1508,UMKC,1537,337,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,47
+2010-11,2011-01-05,990699,378,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,12,25,1508,UMKC,1537,337,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,47
+2010-11,2011-01-05,990699,381,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,12,25,1456,Kansas,1522,322,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,3.8499999999999943,469096,NA,NA,0,Kansas,Kansas,48
+2010-11,2011-01-05,990699,382,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,12,25,1508,UMKC,1522,322,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,48
+2010-11,2011-01-05,990699,383.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,14,23,1508,UMKC,1519,319,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410940,NA,NA,0,UMKC,UMKC,49
+2010-11,2011-01-05,990699,385,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,14,23,1456,Kansas,1517,317,2,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,49
+2010-11,2011-01-05,990699,386,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,14,23,1456,Kansas,1517,317,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-05,990699,387,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,15,22,1508,UMKC,1517,317,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,49
+2010-11,2011-01-05,990699,398,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,15,22,1456,Kansas,1499,299,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,29,30.75,398441,NA,NA,0,Kansas,Kansas,50
+2010-11,2011-01-05,990699,399,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,15,22,1508,UMKC,1499,299,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,50
+2010-11,2011-01-05,990699,400,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,15,22,1508,UMKC,1487,287,12, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,5.45,410566,NA,NA,0,UMKC,UMKC,51
+2010-11,2011-01-05,990699,401,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,37,15,22,1456,Kansas,1487,287,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,51
+2010-11,2011-01-05,990699,402,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,1,40,15,25,1456,Kansas,1479,279,8, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3,5.25,398441,NA,NA,0,Kansas,UMKC,52
+2010-11,2011-01-05,990699,406,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,40,15,25,1508,UMKC,1467,267,12,Kangaroos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,419,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,40,15,25,1508,UMKC,1446,246,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,8.75,410566,NA,NA,0,UMKC,UMKC,53
+2010-11,2011-01-05,990699,420,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,40,15,25,1456,Kansas,1446,246,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,53
+2010-11,2011-01-05,990699,421,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,42,15,27,1456,Kansas,1427,227,19, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16.700000000000003,10.450000000000003,469089,NA,NA,0,Kansas,UMKC,54
+2010-11,2011-01-05,990699,422,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,42,15,27,1508,UMKC,1404,204,23, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,34,29.25,410940,NA,NA,0,UMKC,UMKC,55
+2010-11,2011-01-05,990699,423,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,42,15,27,1456,Kansas,1404,204,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,55
+2010-11,2011-01-05,990699,424,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,15,29,1456,Kansas,1392,192,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,UMKC,56
+2010-11,2011-01-05,990699,425,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,17,27,1508,UMKC,1379,179,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,410566,NA,NA,0,UMKC,UMKC,57
+2010-11,2011-01-05,990699,429,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,17,27,1456,Kansas,1362,162,17,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,57
+2010-11,2011-01-05,990699,430,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,17,27,NA,NA,1362,162,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,442.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,18,26,1508,UMKC,1362,162,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,57
+2010-11,2011-01-05,990699,455,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,18,26,1508,UMKC,1362,162,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,57
+2010-11,2011-01-05,990699,456,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,44,18,26,1456,Kansas,1362,162,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,57
+2010-11,2011-01-05,990699,458,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,47,18,29,1456,Kansas,1347,147,15, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.7,3.3499999999999943,469083,NA,NA,0,Kansas,UMKC,58
+2010-11,2011-01-05,990699,463,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,18,31,1456,Kansas,1314,114,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,UMKC,59
+2010-11,2011-01-05,990699,472,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,18,31,1456,Kansas,1279,79,35,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,60
+2010-11,2011-01-05,990699,473,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,19,30,1508,UMKC,1279,79,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,60
+2010-11,2011-01-05,990699,474,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,20,29,1508,UMKC,1279,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,60
+2010-11,2011-01-05,990699,476,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,20,29,1456,Kansas,1263,63,16, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,8.349999999999994,469083,NA,NA,0,Kansas,Kansas,61
+2010-11,2011-01-05,990699,477,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,20,29,1508,UMKC,1263,63,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,61
+2010-11,2011-01-05,990699,478,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,20,29,1508,UMKC,1257,57,6, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28,7.25,410940,NA,NA,0,UMKC,UMKC,62
+2010-11,2011-01-05,990699,478.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,20,29,1508,UMKC,1257,57,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,62
+2010-11,2011-01-05,990699,479,0,1,Kansas,UMKC,Jayhawks,Kangaroos,4,0,49,22,27,1508,UMKC,1254,54,3, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,340742,NA,NA,0,UMKC,Kansas,62
+2010-11,2011-01-05,990699,486,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,49,22,27,1456,Kansas,1251,51,3,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,492.5,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,49,22,27,1456,Kansas,1238,38,13, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,8.25,469089,NA,NA,0,Kansas,Kansas,63
+2010-11,2011-01-05,990699,492.75,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,49,22,27,1456,Kansas,1238,38,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,63
+2010-11,2011-01-05,990699,493,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,52,22,30,1456,Kansas,1229,29,9, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,37,27.25,553138,NA,NA,0,Kansas,UMKC,63
+2010-11,2011-01-05,990699,495,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,52,22,30,1508,UMKC,1206,6,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,461679,NA,NA,0,UMKC,UMKC,64
+2010-11,2011-01-05,990699,502,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,52,24,28,1508,UMKC,1200,0,6, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,36.8,6.05,340742,NA,NA,0,UMKC,Kansas,64
+2010-11,2011-01-05,990699,515,0,1,Kansas,UMKC,Jayhawks,Kangaroos,3,0,52,24,28,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,533,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,65
+2010-11,2011-01-05,990699,535,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,1456,Kansas,1193,1193,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469089,NA,NA,0,Kansas,Kansas,66
+2010-11,2011-01-05,990699,536,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,1508,UMKC,1193,1193,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,66
+2010-11,2011-01-05,990699,537,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,1508,UMKC,1166,1166,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,13,15.25,470270,NA,NA,0,UMKC,UMKC,67
+2010-11,2011-01-05,990699,538,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,1508,UMKC,1166,1166,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,67
+2010-11,2011-01-05,990699,542,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,52,24,28,1508,UMKC,1155,1155,11,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,67
+2010-11,2011-01-05,990699,543,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,53,24,29,1456,Kansas,1155,1155,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,67
+2010-11,2011-01-05,990699,544,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,54,24,30,1456,Kansas,1155,1155,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,67
+2010-11,2011-01-05,990699,556,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,54,26,28,1508,UMKC,1138,1138,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552631,NA,NA,0,UMKC,Kansas,68
+2010-11,2011-01-05,990699,557,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,57,26,31,1456,Kansas,1129,1129,9, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.2,8.150000000000006,553138,NA,NA,0,Kansas,Kansas,69
+2010-11,2011-01-05,990699,571,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,57,26,31,1508,UMKC,1096,1096,33,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2010-11,2011-01-05,990699,572,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,58,26,32,1456,Kansas,1096,1096,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2010-11,2011-01-05,990699,573,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,59,26,33,1456,Kansas,1096,1096,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2010-11,2011-01-05,990699,575,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1456,Kansas,1096,1096,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,69
+2010-11,2011-01-05,990699,579,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1508,UMKC,1069,1069,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40,24.25,410566,NA,NA,0,UMKC,UMKC,70
+2010-11,2011-01-05,990699,580,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1456,Kansas,1069,1069,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,70
+2010-11,2011-01-05,990699,585,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1456,Kansas,1048,1048,21, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,9.650000000000006,469085,NA,NA,0,Kansas,Kansas,71
+2010-11,2011-01-05,990699,586,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1508,UMKC,1048,1048,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,71
+2010-11,2011-01-05,990699,587,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1508,UMKC,1041,1041,7, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,10.25,552631,NA,NA,0,UMKC,UMKC,72
+2010-11,2011-01-05,990699,588,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,60,26,34,1456,Kansas,1041,1041,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,72
+2010-11,2011-01-05,990699,591,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1456,Kansas,1040,1040,1, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,UMKC,73
+2010-11,2011-01-05,990699,593,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,1026,1026,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,21.35,552631,NA,NA,0,UMKC,UMKC,74
+2010-11,2011-01-05,990699,594,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,1026,1026,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,74
+2010-11,2011-01-05,990699,595,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1456,Kansas,1014,1014,12, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,14,29.25,553138,NA,NA,0,Kansas,Kansas,74
+2010-11,2011-01-05,990699,596,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,1014,1014,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,74
+2010-11,2011-01-05,990699,597,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,990,990,24, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,16.85,470270,NA,NA,0,UMKC,UMKC,75
+2010-11,2011-01-05,990699,598,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,990,990,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,75
+2010-11,2011-01-05,990699,603,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1508,UMKC,981,981,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,10.65,552633,NA,NA,0,UMKC,UMKC,75
+2010-11,2011-01-05,990699,604,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,62,26,36,1456,Kansas,981,981,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,75
+2010-11,2011-01-05,990699,607,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,26,38,1456,Kansas,972,972,9, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,25,21.849999999999994,553138,NA,NA,0,Kansas,UMKC,76
+2010-11,2011-01-05,990699,611,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,26,38,1508,UMKC,962,962,10,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,77
+2010-11,2011-01-05,990699,612,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,26,38,1456,Kansas,962,962,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,77
+2010-11,2011-01-05,990699,613,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,26,38,1456,Kansas,962,962,0,Technical foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,77
+2010-11,2011-01-05,990699,614,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,26,38,1508,UMKC,962,962,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,77
+2010-11,2011-01-05,990699,616,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,27,37,1508,UMKC,962,962,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,77
+2010-11,2011-01-05,990699,624,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,27,37,1456,Kansas,947,947,15, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,25.75,330353,NA,NA,0,Kansas,Kansas,78
+2010-11,2011-01-05,990699,625,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,27,37,1508,UMKC,947,947,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,78
+2010-11,2011-01-05,990699,628,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,64,29,35,1508,UMKC,940,940,7, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,25.5,24.55,410940,NA,NA,0,UMKC,Kansas,79
+2010-11,2011-01-05,990699,633,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,66,29,37,1456,Kansas,928,928,12, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28,7.150000000000006,553138,NA,NA,0,Kansas,Kansas,80
+2010-11,2011-01-05,990699,634,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,66,29,37,1508,UMKC,928,928,0,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,80
+2010-11,2011-01-05,990699,635,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,66,29,37,NA,NA,928,928,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,638,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,29,38,1456,Kansas,928,928,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,80
+2010-11,2011-01-05,990699,652,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,29,38,1508,UMKC,902,902,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,5.85,410940,NA,NA,0,UMKC,UMKC,81
+2010-11,2011-01-05,990699,653,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,29,38,1508,UMKC,902,902,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,81
+2010-11,2011-01-05,990699,655,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,29,38,1456,Kansas,897,897,5,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,81
+2010-11,2011-01-05,990699,659,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,32,35,1508,UMKC,889,889,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.7,23.45,470270,NA,NA,0,UMKC,Kansas,81
+2010-11,2011-01-05,990699,660,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,32,35,1456,Kansas,879,879,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330353,NA,NA,0,Kansas,Kansas,82
+2010-11,2011-01-05,990699,661,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,32,35,1508,UMKC,879,879,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,82
+2010-11,2011-01-05,990699,675,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,32,35,1508,UMKC,870,870,9,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,83
+2010-11,2011-01-05,990699,676,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,67,32,35,1456,Kansas,870,870,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,83
+2010-11,2011-01-05,990699,678,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1456,Kansas,870,870,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,83
+2010-11,2011-01-05,990699,682,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1508,UMKC,863,863,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,24.25,470270,NA,NA,0,UMKC,UMKC,84
+2010-11,2011-01-05,990699,683,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1508,UMKC,863,863,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,84
+2010-11,2011-01-05,990699,686,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1456,Kansas,858,858,5,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,84
+2010-11,2011-01-05,990699,687,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1508,UMKC,858,858,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,84
+2010-11,2011-01-05,990699,701,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1508,UMKC,858,858,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,84
+2010-11,2011-01-05,990699,702,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,68,32,36,1456,Kansas,858,858,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,84
+2010-11,2011-01-05,990699,711,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,70,32,38,1456,Kansas,843,843,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,85
+2010-11,2011-01-05,990699,712,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,70,32,38,1508,UMKC,843,843,0,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,85
+2010-11,2011-01-05,990699,713,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,71,32,39,1456,Kansas,843,843,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,85
+2010-11,2011-01-05,990699,722,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,32,41,1456,Kansas,831,831,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,UMKC,86
+2010-11,2011-01-05,990699,738,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,32,41,1508,UMKC,799,799,32, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,340742,NA,NA,0,UMKC,UMKC,87
+2010-11,2011-01-05,990699,739,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,32,41,1456,Kansas,799,799,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,87
+2010-11,2011-01-05,990699,744,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,34,39,1508,UMKC,781,781,18, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,24.2,11.05,340742,NA,NA,0,UMKC,Kansas,88
+2010-11,2011-01-05,990699,752,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,34,39,1456,Kansas,759,759,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469089,NA,NA,0,Kansas,Kansas,89
+2010-11,2011-01-05,990699,753,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,34,39,1508,UMKC,759,759,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,89
+2010-11,2011-01-05,990699,756,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,34,39,1456,Kansas,752,752,7,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,90
+2010-11,2011-01-05,990699,757,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,35,38,1508,UMKC,752,752,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,90
+2010-11,2011-01-05,990699,758,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,35,38,1508,UMKC,752,752,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,90
+2010-11,2011-01-05,990699,759,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,73,35,38,1456,Kansas,752,752,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,90
+2010-11,2011-01-05,990699,761,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,35,40,1456,Kansas,743,743,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,UMKC,91
+2010-11,2011-01-05,990699,762,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,38,37,1508,UMKC,720,720,23, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,33,28.85,410940,NA,NA,0,UMKC,Kansas,92
+2010-11,2011-01-05,990699,764,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,38,37,1456,Kansas,706,706,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.5,29.049999999999997,513059,NA,NA,0,Kansas,UMKC,93
+2010-11,2011-01-05,990699,768,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,38,37,1456,Kansas,705,705,1,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,94
+2010-11,2011-01-05,990699,769,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,38,37,NA,NA,705,705,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,781,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,40,35,1508,UMKC,681,681,24, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,27.5,12.95,523969,NA,NA,0,UMKC,Kansas,94
+2010-11,2011-01-05,990699,784,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,40,35,1456,Kansas,664,664,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17,10.650000000000006,469083,NA,NA,0,Kansas,Kansas,95
+2010-11,2011-01-05,990699,785,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,40,35,1508,UMKC,664,664,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,95
+2010-11,2011-01-05,990699,787,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,40,35,1456,Kansas,658,658,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,96
+2010-11,2011-01-05,990699,788,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,41,34,1508,UMKC,658,658,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,96
+2010-11,2011-01-05,990699,789,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,75,42,33,1508,UMKC,658,658,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,96
+2010-11,2011-01-05,990699,793,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1456,Kansas,641,641,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457334,NA,NA,0,Kansas,UMKC,97
+2010-11,2011-01-05,990699,796,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,590,590,51, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,8.15,340742,NA,NA,0,UMKC,UMKC,98
+2010-11,2011-01-05,990699,797,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,590,590,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,98
+2010-11,2011-01-05,990699,799,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1456,Kansas,569,569,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.2,29.849999999999994,330353,NA,NA,0,Kansas,Kansas,98
+2010-11,2011-01-05,990699,800,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,569,569,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,98
+2010-11,2011-01-05,990699,803,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,560,560,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552631,NA,NA,0,UMKC,UMKC,99
+2010-11,2011-01-05,990699,804,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,560,560,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,99
+2010-11,2011-01-05,990699,807,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,554,554,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,5.45,340742,NA,NA,0,UMKC,UMKC,99
+2010-11,2011-01-05,990699,808,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1456,Kansas,554,554,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,99
+2010-11,2011-01-05,990699,812,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1456,Kansas,544,544,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,6.950000000000003,513059,NA,NA,0,Kansas,Kansas,100
+2010-11,2011-01-05,990699,813,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,544,544,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,100
+2010-11,2011-01-05,990699,814,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1508,UMKC,527,527,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,13.55,410566,NA,NA,0,UMKC,UMKC,101
+2010-11,2011-01-05,990699,815,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,77,42,35,1456,Kansas,527,527,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,101
+2010-11,2011-01-05,990699,816,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,80,42,38,1456,Kansas,515,515,12, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.200000000000003,6.450000000000003,398441,NA,NA,0,Kansas,UMKC,102
+2010-11,2011-01-05,990699,819,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,82,42,40,1456,Kansas,492,492,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,UMKC,103
+2010-11,2011-01-05,990699,822,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,82,42,40,1456,Kansas,487,487,5,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,104
+2010-11,2011-01-05,990699,823,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,82,42,40,1508,UMKC,487,487,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,104
+2010-11,2011-01-05,990699,825,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,82,42,40,1508,UMKC,487,487,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,104
+2010-11,2011-01-05,990699,826,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,82,42,40,1456,Kansas,487,487,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,104
+2010-11,2011-01-05,990699,828,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1456,Kansas,473,473,14, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.799999999999997,10.450000000000003,469096,NA,NA,0,Kansas,UMKC,105
+2010-11,2011-01-05,990699,830,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1508,UMKC,445,445,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,12.45,340742,NA,NA,0,UMKC,UMKC,106
+2010-11,2011-01-05,990699,831,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1508,UMKC,445,445,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,106
+2010-11,2011-01-05,990699,834,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1456,Kansas,443,443,2,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,106
+2010-11,2011-01-05,990699,835,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,NA,NA,443,443,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,839,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1508,UMKC,443,443,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,106
+2010-11,2011-01-05,990699,841,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1456,Kansas,443,443,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,106
+2010-11,2011-01-05,990699,843,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1456,Kansas,432,432,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12,26.25,513059,NA,NA,0,Kansas,Kansas,107
+2010-11,2011-01-05,990699,844,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1508,UMKC,432,432,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,107
+2010-11,2011-01-05,990699,866,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,42,43,1456,Kansas,387,387,45,Flagrant foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,108
+2010-11,2011-01-05,990699,867,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,43,42,1508,UMKC,387,387,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,108
+2010-11,2011-01-05,990699,868,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,43,42,1508,UMKC,387,387,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,108
+2010-11,2011-01-05,990699,883,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,4,85,43,42,1508,UMKC,369,369,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,30.05,410940,NA,NA,0,UMKC,Kansas,108
+2010-11,2011-01-05,990699,887,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,85,43,42,1508,UMKC,367,367,2,Kangaroos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,902,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,87,43,44,1456,Kansas,355,355,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457334,NA,NA,0,Kansas,Kansas,109
+2010-11,2011-01-05,990699,905,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,87,43,44,1508,UMKC,352,352,3,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,109
+2010-11,2011-01-05,990699,906,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,88,43,45,1456,Kansas,352,352,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,109
+2010-11,2011-01-05,990699,909,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,88,43,45,1508,UMKC,333,333,19, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,16.85,523978,NA,NA,0,UMKC,UMKC,110
+2010-11,2011-01-05,990699,910,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,88,43,45,1508,UMKC,333,333,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,110
+2010-11,2011-01-05,990699,915,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,88,43,45,1508,UMKC,329,329,4,Offensive foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,110
+2010-11,2011-01-05,990699,917,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,90,43,47,1456,Kansas,306,306,23, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469096,NA,NA,0,Kansas,UMKC,111
+2010-11,2011-01-05,990699,946,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,90,43,47,1456,Kansas,272,272,34,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,112
+2010-11,2011-01-05,990699,947,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,90,43,47,1508,UMKC,272,272,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,112
+2010-11,2011-01-05,990699,949.5,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,90,44,46,1508,UMKC,272,272,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,112
+2010-11,2011-01-05,990699,951,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,93,44,49,1456,Kansas,257,257,15, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.7,11.450000000000003,469096,NA,NA,0,Kansas,UMKC,113
+2010-11,2011-01-05,990699,960,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,93,44,49,1456,Kansas,234,234,23,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,114
+2010-11,2011-01-05,990699,961,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,93,44,49,NA,NA,234,234,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,967,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,93,44,49,1508,UMKC,234,234,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,114
+2010-11,2011-01-05,990699,969,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,93,45,48,1508,UMKC,234,234,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,114
+2010-11,2011-01-05,990699,973,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,45,51,1456,Kansas,225,225,9, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.2,25.950000000000003,513059,NA,NA,0,Kansas,UMKC,115
+2010-11,2011-01-05,990699,986,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1508,UMKC,193,193,32, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,32.5,8.75,410940,NA,NA,0,UMKC,Kansas,116
+2010-11,2011-01-05,990699,989.5,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1508,UMKC,178,178,15,Personal foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,117
+2010-11,2011-01-05,990699,993,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1456,Kansas,176,176,2,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,117
+2010-11,2011-01-05,990699,997,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1508,UMKC,161,161,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22,29.25,410940,NA,NA,0,UMKC,UMKC,118
+2010-11,2011-01-05,990699,998,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1456,Kansas,161,161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,118
+2010-11,2011-01-05,990699,1002,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1508,UMKC,147,147,14, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,29.8,32.15,410940,NA,NA,0,UMKC,UMKC,119
+2010-11,2011-01-05,990699,1003,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1456,Kansas,147,147,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,119
+2010-11,2011-01-05,990699,1007,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1508,UMKC,136,136,11,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,120
+2010-11,2011-01-05,990699,1008,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,96,47,49,1456,Kansas,136,136,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,120
+2010-11,2011-01-05,990699,1010,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,97,47,50,1456,Kansas,136,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,120
+2010-11,2011-01-05,990699,1012,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,97,47,50,1508,UMKC,125,125,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30,29.45,523969,NA,NA,0,UMKC,UMKC,121
+2010-11,2011-01-05,990699,1013,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,97,47,50,1456,Kansas,125,125,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,121
+2010-11,2011-01-05,990699,1018,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,97,47,50,1456,Kansas,110,110,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,486797,NA,NA,0,Kansas,Kansas,122
+2010-11,2011-01-05,990699,1022,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,97,47,50,1508,UMKC,109,109,1,Shooting foul committed by Kangaroos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2010-11,2011-01-05,990699,1023,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,98,47,51,1456,Kansas,109,109,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2010-11,2011-01-05,990699,1024,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,47,52,1456,Kansas,109,109,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,122
+2010-11,2011-01-05,990699,1034,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,47,52,1456,Kansas,91,91,18,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,123
+2010-11,2011-01-05,990699,1036,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1508,UMKC,72,72,19, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28,7.75,552631,NA,NA,0,UMKC,Kansas,124
+2010-11,2011-01-05,990699,1057,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1508,UMKC,45,45,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,15,13.25,523969,NA,NA,0,UMKC,UMKC,125
+2010-11,2011-01-05,990699,1067.5,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1456,Kansas,45,45,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,125
+2010-11,2011-01-05,990699,1078,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1456,Kansas,16,16,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12,26.25,553137,NA,NA,0,Kansas,Kansas,126
+2010-11,2011-01-05,990699,1079,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1456,Kansas,16,16,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,126
+2010-11,2011-01-05,990699,1082,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1456,Kansas,14,14,2, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,513059,NA,NA,0,Kansas,Kansas,126
+2010-11,2011-01-05,990699,1083,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,49,50,1508,UMKC,14,14,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,UMKC,126
+2010-11,2011-01-05,990699,1086.5,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,51,48,1508,UMKC,3,3,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,340742,NA,NA,0,UMKC,UMKC,127
+2010-11,2011-01-05,990699,1090,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,51,48,1456,Kansas,1,1,2,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,UMKC,127
+2010-11,2011-01-05,990699,1093,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,52,47,1508,UMKC,1,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UMKC,Kansas,127
+2010-11,2011-01-05,990699,1095,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,52,47,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-05,990699,1119,0,2,Kansas,UMKC,Jayhawks,Kangaroos,4,3,99,52,47,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

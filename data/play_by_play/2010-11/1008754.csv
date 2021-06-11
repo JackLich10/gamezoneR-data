@@ -1,0 +1,308 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-05,1008754,1,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,2,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,1291,Arizona,2400,1200,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,3,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,1562,Oregon,2400,1200,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,5,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,1562,Oregon,2378,1178,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,4.45,509248,NA,NA,0,Oregon,Oregon,1
+2010-11,2011-03-05,1008754,6,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,1291,Arizona,2378,1178,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,1
+2010-11,2011-03-05,1008754,9,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,0,3,1291,Arizona,2352,1152,26, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42,19.25,457338,NA,NA,0,Arizona,Oregon,2
+2010-11,2011-03-05,1008754,11,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,0,3,1562,Oregon,2338,1138,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,34,5.25,330063,NA,NA,0,Oregon,Arizona,3
+2010-11,2011-03-05,1008754,14,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,6,0,6,1291,Arizona,2319,1119,19, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.200000000000003,20.349999999999994,457338,NA,NA,0,Arizona,Oregon,4
+2010-11,2011-03-05,1008754,15,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,6,3,3,1562,Oregon,2291,1091,28, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.800000000000001,18.95,483475,NA,NA,0,Oregon,Arizona,5
+2010-11,2011-03-05,1008754,17,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,6,3,3,1291,Arizona,2272,1072,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,17.049999999999997,509169,NA,NA,0,Arizona,Arizona,6
+2010-11,2011-03-05,1008754,20,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1291,Arizona,2261,1061,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9,21.25,457338,NA,NA,0,Arizona,Oregon,6
+2010-11,2011-03-05,1008754,22,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1562,Oregon,2246,1046,15,Offensive foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,7
+2010-11,2011-03-05,1008754,35,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1291,Arizona,2232,1032,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,29.450000000000003,509167,NA,NA,0,Arizona,Arizona,8
+2010-11,2011-03-05,1008754,36,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1562,Oregon,2232,1032,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,8
+2010-11,2011-03-05,1008754,38,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1562,Oregon,2223,1023,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10,23.25,483475,NA,NA,0,Oregon,Oregon,9
+2010-11,2011-03-05,1008754,39,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,3,6,1291,Arizona,2223,1023,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,9
+2010-11,2011-03-05,1008754,42,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,3,8,1291,Arizona,2202,1002,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,10
+2010-11,2011-03-05,1008754,44,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,3,8,1291,Arizona,2179,979,23,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,11
+2010-11,2011-03-05,1008754,47,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,3,8,1562,Oregon,2179,979,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,11
+2010-11,2011-03-05,1008754,49,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,4,7,1562,Oregon,2179,979,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,11
+2010-11,2011-03-05,1008754,50,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,4,7,1562,Oregon,2179,979,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,51,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,11,4,7,1562,Oregon,2179,979,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,60,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,4,9,1291,Arizona,2169,969,10, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27,22.25,395394,NA,NA,0,Arizona,Oregon,12
+2010-11,2011-03-05,1008754,61,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1562,Oregon,2145,945,24, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,28.8,14.95,509248,NA,NA,0,Oregon,Arizona,13
+2010-11,2011-03-05,1008754,63,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1291,Arizona,2117,917,28, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,21.849999999999994,395394,NA,NA,0,Arizona,Arizona,14
+2010-11,2011-03-05,1008754,64,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1562,Oregon,2117,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,14
+2010-11,2011-03-05,1008754,65,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1562,Oregon,2104,904,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,20.95,329521,NA,NA,0,Oregon,Oregon,15
+2010-11,2011-03-05,1008754,66,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1291,Arizona,2104,904,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,15
+2010-11,2011-03-05,1008754,73,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1291,Arizona,2079,879,25,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,16
+2010-11,2011-03-05,1008754,74,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,NA,NA,2079,879,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,78,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,6,7,1562,Oregon,2079,879,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,79,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,7,6,1562,Oregon,2079,879,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,16
+2010-11,2011-03-05,1008754,80,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,13,8,5,1562,Oregon,2079,879,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,16
+2010-11,2011-03-05,1008754,82,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,8,7,1291,Arizona,2060,860,19, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,551766,NA,NA,0,Arizona,Oregon,17
+2010-11,2011-03-05,1008754,83,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1562,Oregon,2035,835,25, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,29.8,17.45,509248,NA,NA,0,Oregon,Arizona,18
+2010-11,2011-03-05,1008754,85,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1562,Oregon,2021,821,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,86,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1291,Arizona,2021,821,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,87,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1291,Arizona,2021,821,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,94,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1291,Arizona,2001,801,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,5.650000000000006,457338,NA,NA,0,Arizona,Arizona,19
+2010-11,2011-03-05,1008754,95,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,10,5,1291,Arizona,2001,801,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,19
+2010-11,2011-03-05,1008754,96,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,10,7,1291,Arizona,1996,796,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,19
+2010-11,2011-03-05,1008754,97,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,10,7,1562,Oregon,1980,780,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329521,NA,NA,0,Oregon,Oregon,20
+2010-11,2011-03-05,1008754,98,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,10,7,1291,Arizona,1980,780,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,20
+2010-11,2011-03-05,1008754,99,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,10,7,1291,Arizona,1973,773,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Arizona,21
+2010-11,2011-03-05,1008754,100,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,10,7,1562,Oregon,1973,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,21
+2010-11,2011-03-05,1008754,101,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,12,5,1562,Oregon,1965,765,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,483475,NA,NA,0,Oregon,Arizona,22
+2010-11,2011-03-05,1008754,102,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,20,12,8,1291,Arizona,1943,743,22, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,19.25,509166,NA,NA,0,Arizona,Oregon,23
+2010-11,2011-03-05,1008754,104,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,20,15,5,1562,Oregon,1913,713,30, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22,29.25,330063,NA,NA,0,Oregon,Arizona,24
+2010-11,2011-03-05,1008754,105,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,15,8,1291,Arizona,1896,696,17, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.3,19.75,509166,NA,NA,0,Arizona,Oregon,25
+2010-11,2011-03-05,1008754,107,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,15,8,1562,Oregon,1875,675,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509249,NA,NA,0,Oregon,Oregon,26
+2010-11,2011-03-05,1008754,108,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,15,8,1291,Arizona,1875,675,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,26
+2010-11,2011-03-05,1008754,115,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,15,8,1291,Arizona,1875,675,0,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,27
+2010-11,2011-03-05,1008754,116,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,15,8,NA,NA,1875,675,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,118,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,23,18,5,1562,Oregon,1864,664,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24,28.25,330063,NA,NA,0,Oregon,Arizona,28
+2010-11,2011-03-05,1008754,119,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,26,18,8,1291,Arizona,1839,639,25, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.700000000000003,22.25,457337,NA,NA,0,Arizona,Oregon,29
+2010-11,2011-03-05,1008754,121,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,26,18,8,1562,Oregon,1807,607,32, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,10.45,330063,NA,NA,0,Oregon,Oregon,30
+2010-11,2011-03-05,1008754,122,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,26,18,8,1291,Arizona,1807,607,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,30
+2010-11,2011-03-05,1008754,123,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,26,18,8,1291,Arizona,1791,591,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.049999999999997,457337,NA,NA,0,Arizona,Arizona,31
+2010-11,2011-03-05,1008754,124,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,26,18,8,1291,Arizona,1791,591,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,31
+2010-11,2011-03-05,1008754,125,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,18,10,1291,Arizona,1781,581,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509165,NA,NA,0,Arizona,Oregon,31
+2010-11,2011-03-05,1008754,127,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,18,10,1291,Arizona,1765,565,16,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,32
+2010-11,2011-03-05,1008754,128,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,18,10,1562,Oregon,1765,565,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,129,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,18,10,1291,Arizona,1765,565,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,131,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1749,549,16, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,19.8,9.15,330063,NA,NA,0,Oregon,Arizona,32
+2010-11,2011-03-05,1008754,132,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1729,529,20, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35,12.25,483475,NA,NA,0,Oregon,Oregon,33
+2010-11,2011-03-05,1008754,133,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1291,Arizona,1729,529,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,33
+2010-11,2011-03-05,1008754,141,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1715,515,14,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,34
+2010-11,2011-03-05,1008754,142,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1715,515,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,146,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1699,499,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,39.2,14.55,329521,NA,NA,0,Oregon,Oregon,34
+2010-11,2011-03-05,1008754,147,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1291,Arizona,1699,499,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,34
+2010-11,2011-03-05,1008754,148,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1562,Oregon,1677,477,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.8,25.75,483475,NA,NA,0,Oregon,Oregon,35
+2010-11,2011-03-05,1008754,149,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,28,20,8,1291,Arizona,1677,477,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,35
+2010-11,2011-03-05,1008754,150,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1291,Arizona,1667,467,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,36
+2010-11,2011-03-05,1008754,151,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1562,Oregon,1658,458,9, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,23.65,509248,NA,NA,0,Oregon,Oregon,37
+2010-11,2011-03-05,1008754,152,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1291,Arizona,1658,458,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,37
+2010-11,2011-03-05,1008754,156,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,NA,NA,1624,424,34,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,158,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1562,Oregon,1612,412,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.3,20.95,329521,NA,NA,0,Oregon,Oregon,38
+2010-11,2011-03-05,1008754,159,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1291,Arizona,1612,412,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,38
+2010-11,2011-03-05,1008754,160,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1291,Arizona,1599,399,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26,29.25,509169,NA,NA,0,Arizona,Arizona,39
+2010-11,2011-03-05,1008754,161,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,20,10,1562,Oregon,1599,399,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,39
+2010-11,2011-03-05,1008754,162,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,23,7,1562,Oregon,1589,389,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15.2,26.75,457355,NA,NA,0,Oregon,Arizona,40
+2010-11,2011-03-05,1008754,166,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,30,23,7,1562,Oregon,1576,376,13,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,41
+2010-11,2011-03-05,1008754,167,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,31,23,8,1291,Arizona,1576,376,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,41
+2010-11,2011-03-05,1008754,168,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,23,9,1291,Arizona,1576,376,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,41
+2010-11,2011-03-05,1008754,170,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,25,7,1562,Oregon,1564,364,12, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12,19.25,330063,NA,NA,0,Oregon,Arizona,42
+2010-11,2011-03-05,1008754,171,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,25,7,1291,Arizona,1538,338,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,27.450000000000003,509167,NA,NA,0,Arizona,Arizona,43
+2010-11,2011-03-05,1008754,172,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,25,7,1562,Oregon,1538,338,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,43
+2010-11,2011-03-05,1008754,175,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,25,7,1291,Arizona,1517,317,21,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,44
+2010-11,2011-03-05,1008754,176,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,25,7,1562,Oregon,1517,317,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,177,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1562,Oregon,1517,317,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,44
+2010-11,2011-03-05,1008754,178,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1562,Oregon,1517,317,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,44
+2010-11,2011-03-05,1008754,179,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1291,Arizona,1517,317,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,44
+2010-11,2011-03-05,1008754,181,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1291,Arizona,1503,303,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.799999999999997,21.450000000000003,509166,NA,NA,0,Arizona,Arizona,45
+2010-11,2011-03-05,1008754,182,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1562,Oregon,1503,303,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,45
+2010-11,2011-03-05,1008754,188,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1562,Oregon,1473,273,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.7,26.95,509249,NA,NA,0,Oregon,Oregon,46
+2010-11,2011-03-05,1008754,189,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1562,Oregon,1473,273,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,46
+2010-11,2011-03-05,1008754,190,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,26,6,1291,Arizona,1470,270,3,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,46
+2010-11,2011-03-05,1008754,191,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,27,5,1562,Oregon,1470,270,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,46
+2010-11,2011-03-05,1008754,192,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,27,5,1291,Arizona,1470,270,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,193,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,27,5,1562,Oregon,1470,270,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,46
+2010-11,2011-03-05,1008754,194,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,32,27,5,1291,Arizona,1470,270,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,46
+2010-11,2011-03-05,1008754,199,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1291,Arizona,1452,252,18, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9,4.25,509165,NA,NA,0,Arizona,Oregon,47
+2010-11,2011-03-05,1008754,200,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1562,Oregon,1430,230,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509249,NA,NA,0,Oregon,Oregon,48
+2010-11,2011-03-05,1008754,200.5,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1291,Arizona,1430,230,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,48
+2010-11,2011-03-05,1008754,201,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1291,Arizona,1417,217,13, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,12.25,551766,NA,NA,0,Arizona,Arizona,49
+2010-11,2011-03-05,1008754,202,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1562,Oregon,1417,217,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,49
+2010-11,2011-03-05,1008754,204,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1562,Oregon,1399,199,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,3.75,416605,NA,NA,0,Oregon,Oregon,50
+2010-11,2011-03-05,1008754,205,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,34,27,7,1291,Arizona,1399,199,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,50
+2010-11,2011-03-05,1008754,209,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,34,27,7,1291,Arizona,1397,197,2,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,214,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,34,27,7,1291,Arizona,1397,197,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,220,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,34,27,7,1291,Arizona,1387,187,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,225,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,27,10,1291,Arizona,1372,172,15, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.2,18.450000000000003,551765,NA,NA,0,Arizona,Oregon,51
+2010-11,2011-03-05,1008754,226,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1562,Oregon,1358,158,14, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24,30.25,457355,NA,NA,0,Oregon,Oregon,52
+2010-11,2011-03-05,1008754,230,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1291,Arizona,1340,140,18,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,52
+2010-11,2011-03-05,1008754,231,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,NA,NA,1340,140,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,233,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1291,Arizona,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,234,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1562,Oregon,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,235,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1562,Oregon,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,236,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,30,7,1562,Oregon,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,237,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,31,6,1562,Oregon,1340,140,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,52
+2010-11,2011-03-05,1008754,238,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,31,6,1291,Arizona,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,239,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,31,6,1291,Arizona,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,240,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,32,5,1562,Oregon,1340,140,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,52
+2010-11,2011-03-05,1008754,241,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,32,5,1562,Oregon,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,242,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,37,32,5,1562,Oregon,1340,140,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,251,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1291,Arizona,1312,112,28, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,25.7,11.049999999999997,509169,NA,NA,0,Arizona,Oregon,53
+2010-11,2011-03-05,1008754,262,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1562,Oregon,1262,62,50,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,54
+2010-11,2011-03-05,1008754,263,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1562,Oregon,1262,62,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,265,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1291,Arizona,1255,55,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,6.049999999999997,395394,NA,NA,0,Arizona,Arizona,54
+2010-11,2011-03-05,1008754,266,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1562,Oregon,1255,55,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,54
+2010-11,2011-03-05,1008754,267,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1562,Oregon,1247,47,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.3,28.05,483475,NA,NA,0,Oregon,Oregon,55
+2010-11,2011-03-05,1008754,268,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,39,32,7,1291,Arizona,1247,47,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,55
+2010-11,2011-03-05,1008754,269,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,41,32,9,1291,Arizona,1213,13,34, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,15.200000000000003,18.549999999999997,509167,NA,NA,0,Arizona,Oregon,56
+2010-11,2011-03-05,1008754,270,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,41,32,9,1562,Oregon,1204,4,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20,29.25,509248,NA,NA,0,Oregon,Oregon,57
+2010-11,2011-03-05,1008754,272,0,1,Arizona,Oregon,Wildcats,Ducks,3,4,41,32,9,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,275,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Oregon,57
+2010-11,2011-03-05,1008754,278,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1291,Arizona,1185,1185,15,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,58
+2010-11,2011-03-05,1008754,279,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1562,Oregon,1185,1185,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,58
+2010-11,2011-03-05,1008754,281,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1562,Oregon,1185,1185,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,58
+2010-11,2011-03-05,1008754,282,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1291,Arizona,1185,1185,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,58
+2010-11,2011-03-05,1008754,289,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1291,Arizona,1168,1168,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.8,28.450000000000003,509169,NA,NA,0,Arizona,Arizona,59
+2010-11,2011-03-05,1008754,290,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1562,Oregon,1168,1168,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,59
+2010-11,2011-03-05,1008754,291,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1562,Oregon,1153,1153,15, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,34,22.45,330063,NA,NA,0,Oregon,Oregon,60
+2010-11,2011-03-05,1008754,292,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,41,32,9,1291,Arizona,1153,1153,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,60
+2010-11,2011-03-05,1008754,293,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,44,32,12,1291,Arizona,1130,1130,23, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,16,26.549999999999997,395394,NA,NA,0,Arizona,Oregon,61
+2010-11,2011-03-05,1008754,294,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,44,34,10,1562,Oregon,1112,1112,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509248,NA,NA,0,Oregon,Arizona,62
+2010-11,2011-03-05,1008754,298,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,46,34,12,1291,Arizona,1084,1084,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,63
+2010-11,2011-03-05,1008754,299,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,46,34,12,1562,Oregon,1084,1084,0,Ducks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,306,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,46,36,10,1562,Oregon,1076,1076,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509249,NA,NA,0,Oregon,Arizona,64
+2010-11,2011-03-05,1008754,308,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,46,36,10,1562,Oregon,1053,1053,23,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,65
+2010-11,2011-03-05,1008754,309,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,47,36,11,1291,Arizona,1053,1053,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,65
+2010-11,2011-03-05,1008754,310,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,48,36,12,1291,Arizona,1053,1053,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,65
+2010-11,2011-03-05,1008754,312,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,48,36,12,1562,Oregon,1031,1031,22, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36,17.25,509248,NA,NA,0,Oregon,Oregon,66
+2010-11,2011-03-05,1008754,313,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,48,36,12,1291,Arizona,1031,1031,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,66
+2010-11,2011-03-05,1008754,314,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,51,36,15,1291,Arizona,1020,1020,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,31.7,27.450000000000003,509168,NA,NA,0,Arizona,Oregon,67
+2010-11,2011-03-05,1008754,331,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,51,36,15,1562,Oregon,1009,1009,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,332,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,51,36,15,1562,Oregon,1009,1009,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,336,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,51,36,15,1291,Arizona,998,998,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,14.950000000000003,509167,NA,NA,0,Arizona,Arizona,68
+2010-11,2011-03-05,1008754,337,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,51,36,15,1562,Oregon,998,998,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,68
+2010-11,2011-03-05,1008754,338,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,36,17,1291,Arizona,977,977,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,Oregon,69
+2010-11,2011-03-05,1008754,341,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,36,17,1291,Arizona,958,958,19,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,70
+2010-11,2011-03-05,1008754,342,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,36,17,NA,NA,958,958,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,343,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,36,17,1291,Arizona,958,958,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,346,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,39,14,1562,Oregon,942,942,16, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.5,14.55,330063,NA,NA,0,Oregon,Arizona,70
+2010-11,2011-03-05,1008754,349,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,39,14,1291,Arizona,919,919,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,22.849999999999994,457338,NA,NA,0,Arizona,Arizona,71
+2010-11,2011-03-05,1008754,350,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,39,14,1562,Oregon,919,919,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,71
+2010-11,2011-03-05,1008754,351,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,53,41,12,1562,Oregon,912,912,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Arizona,72
+2010-11,2011-03-05,1008754,352,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,41,14,1291,Arizona,887,887,25, makes a jump shot from 11 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15,9.25,509169,NA,NA,0,Arizona,Oregon,73
+2010-11,2011-03-05,1008754,356,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,41,14,1291,Arizona,870,870,17,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,74
+2010-11,2011-03-05,1008754,357,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,42,13,1562,Oregon,870,870,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,74
+2010-11,2011-03-05,1008754,359,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1562,Oregon,870,870,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,74
+2010-11,2011-03-05,1008754,360,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,870,870,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,361,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,870,870,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,368,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1562,Oregon,850,850,20,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,372,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,838,838,12, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8,5.25,551766,NA,NA,0,Arizona,Oregon,75
+2010-11,2011-03-05,1008754,376,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1562,Oregon,834,834,4, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.7,9.65,329521,NA,NA,0,Oregon,Oregon,76
+2010-11,2011-03-05,1008754,377,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,834,834,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,76
+2010-11,2011-03-05,1008754,378,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,822,822,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,28.049999999999997,509168,NA,NA,0,Arizona,Arizona,77
+2010-11,2011-03-05,1008754,379,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1291,Arizona,822,822,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,77
+2010-11,2011-03-05,1008754,381,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,55,43,12,1562,Oregon,817,817,5,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,77
+2010-11,2011-03-05,1008754,382,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,43,13,1291,Arizona,817,817,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,77
+2010-11,2011-03-05,1008754,383,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,43,13,1291,Arizona,817,817,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,77
+2010-11,2011-03-05,1008754,384,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,43,13,1562,Oregon,817,817,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,77
+2010-11,2011-03-05,1008754,386,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,45,11,1562,Oregon,814,814,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,483475,NA,NA,0,Oregon,Arizona,78
+2010-11,2011-03-05,1008754,387,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,45,11,1291,Arizona,797,797,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551765,NA,NA,0,Arizona,Arizona,79
+2010-11,2011-03-05,1008754,388,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,45,11,1562,Oregon,797,797,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,79
+2010-11,2011-03-05,1008754,390,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,45,11,1291,Arizona,790,790,7,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,80
+2010-11,2011-03-05,1008754,391,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,46,10,1562,Oregon,790,790,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,80
+2010-11,2011-03-05,1008754,392,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,46,10,1291,Arizona,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,393,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,47,9,1562,Oregon,790,790,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,80
+2010-11,2011-03-05,1008754,396,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,47,9,1291,Arizona,759,759,31, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,13.150000000000006,509166,NA,NA,0,Arizona,Arizona,81
+2010-11,2011-03-05,1008754,397,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,47,9,1562,Oregon,759,759,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,81
+2010-11,2011-03-05,1008754,398,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,49,7,1562,Oregon,754,754,5, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,551791,NA,NA,0,Oregon,Arizona,82
+2010-11,2011-03-05,1008754,400,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,56,49,7,1291,Arizona,746,746,8,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,410,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,56,49,7,1562,Oregon,740,740,6,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,83
+2010-11,2011-03-05,1008754,411,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,56,49,7,1562,Oregon,740,740,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,413,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,49,9,1291,Arizona,730,730,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,83
+2010-11,2011-03-05,1008754,414,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,51,7,1562,Oregon,704,704,26, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,35.5,7.15,457355,NA,NA,0,Oregon,Arizona,84
+2010-11,2011-03-05,1008754,422,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,51,7,1562,Oregon,670,670,34,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,85
+2010-11,2011-03-05,1008754,423,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,51,7,NA,NA,670,670,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,424,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,51,7,1291,Arizona,670,670,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,425,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,51,7,1291,Arizona,670,670,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,426,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,59,51,8,1291,Arizona,670,670,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,85
+2010-11,2011-03-05,1008754,427,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,51,9,1291,Arizona,670,670,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,85
+2010-11,2011-03-05,1008754,429,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1562,Oregon,659,659,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,551791,NA,NA,0,Oregon,Arizona,86
+2010-11,2011-03-05,1008754,430,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1291,Arizona,626,626,33, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,28.650000000000006,509167,NA,NA,0,Arizona,Arizona,87
+2010-11,2011-03-05,1008754,431,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1562,Oregon,626,626,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,87
+2010-11,2011-03-05,1008754,432,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1562,Oregon,609,609,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,30.3,28.05,330063,NA,NA,0,Oregon,Oregon,88
+2010-11,2011-03-05,1008754,433,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1562,Oregon,609,609,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,88
+2010-11,2011-03-05,1008754,434,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1562,Oregon,604,604,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,15.3,25.95,551790,NA,NA,0,Oregon,Oregon,88
+2010-11,2011-03-05,1008754,435,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,53,7,1291,Arizona,604,604,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,88
+2010-11,2011-03-05,1008754,436,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,53,10,1291,Arizona,586,586,18, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.2,16.25,395394,NA,NA,0,Arizona,Oregon,89
+2010-11,2011-03-05,1008754,438,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,53,10,1291,Arizona,572,572,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,439,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,53,10,1291,Arizona,572,572,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,444,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,53,10,1291,Arizona,536,536,36,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,90
+2010-11,2011-03-05,1008754,446,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,55,8,1562,Oregon,530,530,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Arizona,91
+2010-11,2011-03-05,1008754,453,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,55,8,1291,Arizona,495,495,35,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,454,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,63,55,8,1291,Arizona,495,495,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,456,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,65,55,10,1291,Arizona,488,488,7, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,39.7,16.049999999999997,509167,NA,NA,0,Arizona,Oregon,92
+2010-11,2011-03-05,1008754,457,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,65,57,8,1562,Oregon,473,473,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551790,NA,NA,0,Oregon,Arizona,93
+2010-11,2011-03-05,1008754,458,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,57,11,1291,Arizona,445,445,28, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.2,20.549999999999997,457338,NA,NA,0,Arizona,Oregon,94
+2010-11,2011-03-05,1008754,459,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,57,11,1562,Oregon,430,430,15, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24,11.45,329521,NA,NA,0,Oregon,Oregon,95
+2010-11,2011-03-05,1008754,460,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,57,11,1562,Oregon,430,430,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,95
+2010-11,2011-03-05,1008754,461,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,59,9,1562,Oregon,424,424,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551790,NA,NA,0,Oregon,Arizona,95
+2010-11,2011-03-05,1008754,464,0,2,Arizona,Oregon,Wildcats,Ducks,3,2,68,59,9,1562,Oregon,419,419,5,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,465,0,2,Arizona,Oregon,Wildcats,Ducks,3,2,68,59,9,1291,Arizona,419,419,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,474,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1291,Arizona,419,419,0,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,477,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,NA,NA,413,413,6,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,478,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1562,Oregon,413,413,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,480,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1291,Arizona,390,390,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,4.650000000000006,551765,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,481,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1291,Arizona,390,390,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,483,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1291,Arizona,384,384,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,484,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1291,Arizona,384,384,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,485,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,68,59,9,1562,Oregon,384,384,0,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,486,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,69,59,10,1291,Arizona,384,384,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2010-11,2011-03-05,1008754,487,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,59,11,1291,Arizona,384,384,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,96
+2010-11,2011-03-05,1008754,488,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,59,11,1291,Arizona,384,384,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,491,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,59,11,1291,Arizona,377,377,7,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2010-11,2011-03-05,1008754,492,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,60,10,1562,Oregon,377,377,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2010-11,2011-03-05,1008754,493,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,61,9,1562,Oregon,377,377,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,97
+2010-11,2011-03-05,1008754,495,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,61,9,1291,Arizona,364,364,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,19.75,457338,NA,NA,0,Arizona,Arizona,98
+2010-11,2011-03-05,1008754,496,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,61,9,1562,Oregon,364,364,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,98
+2010-11,2011-03-05,1008754,497,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,70,64,6,1562,Oregon,342,342,22, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.3,24.25,330063,NA,NA,0,Oregon,Arizona,99
+2010-11,2011-03-05,1008754,502,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1291,Arizona,309,309,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,100
+2010-11,2011-03-05,1008754,503,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1562,Oregon,287,287,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,29.05,330063,NA,NA,0,Oregon,Oregon,101
+2010-11,2011-03-05,1008754,504,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1291,Arizona,287,287,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,101
+2010-11,2011-03-05,1008754,511,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1562,Oregon,270,270,17,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,102
+2010-11,2011-03-05,1008754,512,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1291,Arizona,270,270,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,513,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,72,64,8,1291,Arizona,270,270,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,514,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,73,64,9,1291,Arizona,270,270,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,102
+2010-11,2011-03-05,1008754,515,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1291,Arizona,270,270,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,102
+2010-11,2011-03-05,1008754,522,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1562,Oregon,256,256,14, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,7.75,330063,NA,NA,0,Oregon,Oregon,103
+2010-11,2011-03-05,1008754,523,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1291,Arizona,256,256,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,103
+2010-11,2011-03-05,1008754,525,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1562,Oregon,252,252,4,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,104
+2010-11,2011-03-05,1008754,526,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1291,Arizona,252,252,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,104
+2010-11,2011-03-05,1008754,528,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1291,Arizona,252,252,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,104
+2010-11,2011-03-05,1008754,529,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,64,10,1562,Oregon,252,252,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,104
+2010-11,2011-03-05,1008754,538,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,66,8,1562,Oregon,237,237,15, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22,11.25,330063,NA,NA,0,Oregon,Arizona,105
+2010-11,2011-03-05,1008754,540,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,66,8,1562,Oregon,217,217,20,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,106
+2010-11,2011-03-05,1008754,543,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,66,8,NA,NA,215,215,2,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,547,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,74,66,8,1291,Arizona,215,215,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,548,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,75,66,9,1291,Arizona,215,215,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,106
+2010-11,2011-03-05,1008754,549,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,76,66,10,1291,Arizona,215,215,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,106
+2010-11,2011-03-05,1008754,552,0,2,Arizona,Oregon,Wildcats,Ducks,2,2,76,68,8,1562,Oregon,200,200,15, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,24.5,11.25,483475,NA,NA,0,Oregon,Arizona,107
+2010-11,2011-03-05,1008754,553,0,2,Arizona,Oregon,Wildcats,Ducks,2,1,76,68,8,1562,Oregon,198,198,2,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,554,0,2,Arizona,Oregon,Wildcats,Ducks,2,1,76,68,8,1291,Arizona,198,198,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,558,0,2,Arizona,Oregon,Wildcats,Ducks,2,1,78,68,10,1291,Arizona,179,179,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,108
+2010-11,2011-03-05,1008754,564,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,78,68,10,1562,Oregon,168,168,11,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,565,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,78,68,10,1562,Oregon,168,168,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,571,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,78,70,8,1562,Oregon,139,139,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329521,NA,NA,0,Oregon,Arizona,109
+2010-11,2011-03-05,1008754,572,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,80,70,10,1291,Arizona,127,127,12, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,110
+2010-11,2011-03-05,1008754,574,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,80,70,10,1562,Oregon,106,106,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7,19.25,483475,NA,NA,0,Oregon,Oregon,111
+2010-11,2011-03-05,1008754,575,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,80,70,10,1291,Arizona,106,106,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,111
+2010-11,2011-03-05,1008754,576,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,80,70,10,1562,Oregon,103,103,3,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,112
+2010-11,2011-03-05,1008754,578,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,81,70,11,1291,Arizona,103,103,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,112
+2010-11,2011-03-05,1008754,581,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,82,70,12,1291,Arizona,103,103,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,112
+2010-11,2011-03-05,1008754,582,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,82,70,12,1562,Oregon,103,103,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,584,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,82,72,10,1562,Oregon,100,100,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509248,NA,NA,0,Oregon,Arizona,113
+2010-11,2011-03-05,1008754,586,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,82,72,10,1562,Oregon,87,87,13,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,114
+2010-11,2011-03-05,1008754,587,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,82,72,10,1562,Oregon,87,87,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,588,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,72,11,1291,Arizona,87,87,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,114
+2010-11,2011-03-05,1008754,589,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,72,11,1291,Arizona,87,87,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,114
+2010-11,2011-03-05,1008754,590,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,72,11,1562,Oregon,87,87,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,114
+2010-11,2011-03-05,1008754,593,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,74,9,1562,Oregon,78,78,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509248,NA,NA,0,Oregon,Arizona,115
+2010-11,2011-03-05,1008754,595,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,74,9,1562,Oregon,68,68,10,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,116
+2010-11,2011-03-05,1008754,596,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,83,74,9,1291,Arizona,68,68,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,116
+2010-11,2011-03-05,1008754,598,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,84,74,10,1291,Arizona,68,68,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,116
+2010-11,2011-03-05,1008754,603,0,2,Arizona,Oregon,Wildcats,Ducks,2,0,84,77,7,1562,Oregon,61,61,7, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.5,17.25,483475,NA,NA,0,Oregon,Arizona,117
+2010-11,2011-03-05,1008754,604,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,84,77,7,1562,Oregon,61,61,0,Ducks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,606,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,84,77,7,1291,Arizona,60,60,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-05,1008754,609,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,84,77,7,1562,Oregon,58,58,2,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,118
+2010-11,2011-03-05,1008754,610,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,85,77,8,1291,Arizona,58,58,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,118
+2010-11,2011-03-05,1008754,611,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,86,77,9,1291,Arizona,58,58,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,118
+2010-11,2011-03-05,1008754,613,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,86,77,9,1562,Oregon,52,52,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.199999999999999,18.55,509248,NA,NA,0,Oregon,Oregon,119
+2010-11,2011-03-05,1008754,614,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,86,77,9,1562,Oregon,52,52,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,119
+2010-11,2011-03-05,1008754,616,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,86,79,7,1562,Oregon,45,45,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483475,NA,NA,0,Oregon,Arizona,119
+2010-11,2011-03-05,1008754,619,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,86,79,7,1562,Oregon,39,39,6,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,120
+2010-11,2011-03-05,1008754,620,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,87,79,8,1291,Arizona,39,39,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,120
+2010-11,2011-03-05,1008754,621,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,88,79,9,1291,Arizona,39,39,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,120
+2010-11,2011-03-05,1008754,625,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,88,79,9,1562,Oregon,32,32,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.8,26.15,329521,NA,NA,0,Oregon,Oregon,121
+2010-11,2011-03-05,1008754,626,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,88,79,9,1291,Arizona,32,32,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,121
+2010-11,2011-03-05,1008754,627,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,88,79,9,1562,Oregon,30,30,2,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,122
+2010-11,2011-03-05,1008754,628,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,89,79,10,1291,Arizona,30,30,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,122
+2010-11,2011-03-05,1008754,629,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,90,79,11,1291,Arizona,30,30,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,122
+2010-11,2011-03-05,1008754,635,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,90,82,8,1562,Oregon,25,25,5, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,17.5,27.85,329521,NA,NA,0,Oregon,Arizona,123
+2010-11,2011-03-05,1008754,637,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,90,82,8,NA,NA,0,0,25,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008754,638,0,2,Arizona,Oregon,Wildcats,Ducks,2,-1,90,82,8,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,NA

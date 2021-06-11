@@ -1,0 +1,338 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-13,908044,1,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Hofstra,NA
+2009-10,2009-11-13,908044,3,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,0,2,-2,1434,Hofstra,2380,1180,20, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,31.3,19.95,475532,NA,NA,0,Hofstra,Kansas,1
+2009-10,2009-11-13,908044,4,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,3,2,1,1456,Kansas,2361,1161,19, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40,20.549999999999997,513058,NA,NA,0,Kansas,Hofstra,2
+2009-10,2009-11-13,908044,5,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,3,2,1,1434,Hofstra,2346,1146,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,16.65,331234,NA,NA,0,Hofstra,Hofstra,3
+2009-10,2009-11-13,908044,6,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,3,2,1,1456,Kansas,2346,1146,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,3
+2009-10,2009-11-13,908044,11,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,5,2,3,1456,Kansas,2340,1140,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398443,NA,NA,0,Kansas,Kansas,4
+2009-10,2009-11-13,908044,12,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,5,2,3,1434,Hofstra,2340,1140,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,4
+2009-10,2009-11-13,908044,13,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,6,2,4,1456,Kansas,2340,1140,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,4
+2009-10,2009-11-13,908044,21,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,6,2,4,1434,Hofstra,2325,1125,15,Offensive foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,5
+2009-10,2009-11-13,908044,25,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,6,2,4,1434,Hofstra,2300,1100,25,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,6
+2009-10,2009-11-13,908044,26,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,7,2,5,1456,Kansas,2300,1100,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,6
+2009-10,2009-11-13,908044,27,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,8,2,6,1456,Kansas,2300,1100,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,6
+2009-10,2009-11-13,908044,29,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,8,4,4,1434,Hofstra,2293,1093,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,521998,NA,NA,0,Hofstra,Kansas,7
+2009-10,2009-11-13,908044,30,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,8,4,4,1456,Kansas,2274,1074,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,11.049999999999997,469085,NA,NA,0,Kansas,Kansas,8
+2009-10,2009-11-13,908044,31,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,8,4,4,1456,Kansas,2274,1074,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,8
+2009-10,2009-11-13,908044,45,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,10,4,6,1456,Kansas,2274,1074,0, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513058,NA,NA,0,Kansas,Kansas,8
+2009-10,2009-11-13,908044,46,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,10,4,6,1434,Hofstra,2274,1074,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,8
+2009-10,2009-11-13,908044,47,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,4,7,1456,Kansas,2274,1074,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,8
+2009-10,2009-11-13,908044,51,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,4,7,1456,Kansas,2239,1039,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,11.049999999999997,330350,NA,NA,0,Kansas,Kansas,9
+2009-10,2009-11-13,908044,52,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,4,7,1456,Kansas,2239,1039,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,9
+2009-10,2009-11-13,908044,53,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,4,7,1434,Hofstra,2229,1029,10, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,15.85,521998,NA,NA,0,Hofstra,Hofstra,9
+2009-10,2009-11-13,908044,54,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,4,7,1434,Hofstra,2229,1029,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,9
+2009-10,2009-11-13,908044,56,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,11,7,4,1434,Hofstra,2222,1022,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,27.3,28.25,331234,NA,NA,0,Hofstra,Kansas,9
+2009-10,2009-11-13,908044,58,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2207,1007,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469085,NA,NA,0,Kansas,Hofstra,10
+2009-10,2009-11-13,908044,61,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1434,Hofstra,2186,986,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,4.45,409961,NA,NA,0,Hofstra,Hofstra,11
+2009-10,2009-11-13,908044,62,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2186,986,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,11
+2009-10,2009-11-13,908044,63,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2176,976,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.5,29.049999999999997,469083,NA,NA,0,Kansas,Kansas,12
+2009-10,2009-11-13,908044,64,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1434,Hofstra,2176,976,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,12
+2009-10,2009-11-13,908044,65,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1434,Hofstra,2166,966,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,40.5,11.05,475535,NA,NA,0,Hofstra,Hofstra,13
+2009-10,2009-11-13,908044,66,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2166,966,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,13
+2009-10,2009-11-13,908044,72,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2149,949,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,29.849999999999994,330350,NA,NA,0,Kansas,Kansas,14
+2009-10,2009-11-13,908044,73,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2149,949,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2009-11-13,908044,74,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1434,Hofstra,2149,949,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2009-11-13,908044,75,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,NA,NA,2149,949,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,76,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,13,7,6,1456,Kansas,2149,949,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,77,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1456,Kansas,2149,949,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2009-11-13,908044,78,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1456,Kansas,2149,949,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2009-11-13,908044,79,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1434,Hofstra,2149,949,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,14
+2009-10,2009-11-13,908044,85,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1434,Hofstra,2115,915,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331234,NA,NA,0,Hofstra,Hofstra,15
+2009-10,2009-11-13,908044,86,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1456,Kansas,2115,915,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,15
+2009-10,2009-11-13,908044,88,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,14,7,7,1434,Hofstra,2105,905,10,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,16
+2009-10,2009-11-13,908044,89,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,15,7,8,1456,Kansas,2105,905,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,16
+2009-10,2009-11-13,908044,90,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,15,7,8,1456,Kansas,2105,905,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,91,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,15,7,8,1456,Kansas,2105,905,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,92,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,16,7,9,1456,Kansas,2105,905,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,16
+2009-10,2009-11-13,908044,94,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,16,7,9,1434,Hofstra,2076,876,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,14.15,521998,NA,NA,0,Hofstra,Hofstra,17
+2009-10,2009-11-13,908044,95,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,16,7,9,1456,Kansas,2076,876,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,17
+2009-10,2009-11-13,908044,96,0,1,Kansas,Hofstra,Jayhawks,Pride,4,4,19,7,12,1456,Kansas,2069,869,7, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.299999999999997,20.549999999999997,330350,NA,NA,0,Kansas,Hofstra,18
+2009-10,2009-11-13,908044,103,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1434,Hofstra,2067,867,2,Pride take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,105,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1434,Hofstra,2046,846,21, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,39,14.15,409961,NA,NA,0,Hofstra,Hofstra,19
+2009-10,2009-11-13,908044,106,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1456,Kansas,2046,846,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,19
+2009-10,2009-11-13,908044,108,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1456,Kansas,2030,830,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.2,29.25,330350,NA,NA,0,Kansas,Kansas,20
+2009-10,2009-11-13,908044,109,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1434,Hofstra,2030,830,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,20
+2009-10,2009-11-13,908044,114,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1434,Hofstra,2024,824,6, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,19.35,521998,NA,NA,0,Hofstra,Kansas,21
+2009-10,2009-11-13,908044,116,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,19,7,12,1456,Kansas,2024,824,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,118,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,21,7,14,1456,Kansas,2008,808,16, makes a jump shot from 22 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,36.2,23.650000000000006,513059,NA,NA,0,Kansas,Hofstra,22
+2009-10,2009-11-13,908044,119,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,21,7,14,1434,Hofstra,1994,794,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,12.25,331234,NA,NA,0,Hofstra,Hofstra,23
+2009-10,2009-11-13,908044,120,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,21,7,14,1456,Kansas,1994,794,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,23
+2009-10,2009-11-13,908044,130,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,7,16,1456,Kansas,1953,753,41, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513059,NA,NA,0,Kansas,Hofstra,24
+2009-10,2009-11-13,908044,132,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,7,16,1434,Hofstra,1936,736,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,16.65,331237,NA,NA,0,Hofstra,Hofstra,25
+2009-10,2009-11-13,908044,133,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,7,16,1434,Hofstra,1936,736,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,25
+2009-10,2009-11-13,908044,134,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,7,16,1456,Kansas,1936,736,0,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,25
+2009-10,2009-11-13,908044,135,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,7,16,1434,Hofstra,1936,736,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,25
+2009-10,2009-11-13,908044,137,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,8,15,1434,Hofstra,1936,736,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,25
+2009-10,2009-11-13,908044,142,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,23,10,13,1434,Hofstra,1922,722,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,409961,NA,NA,0,Hofstra,Kansas,26
+2009-10,2009-11-13,908044,143,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,10,15,1456,Kansas,1911,711,11, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15.299999999999997,5.650000000000006,469089,NA,NA,0,Kansas,Hofstra,27
+2009-10,2009-11-13,908044,148,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,10,15,NA,NA,1891,691,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,154,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,10,15,1456,Kansas,1860,660,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.200000000000003,27.349999999999994,398441,NA,NA,0,Kansas,Kansas,28
+2009-10,2009-11-13,908044,155,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,10,15,1434,Hofstra,1860,660,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,28
+2009-10,2009-11-13,908044,158,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,12,13,1434,Hofstra,1843,643,17, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,37.3,14.95,475532,NA,NA,0,Hofstra,Kansas,29
+2009-10,2009-11-13,908044,160,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,12,13,1434,Hofstra,1834,634,9,Offensive foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,30
+2009-10,2009-11-13,908044,163,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,25,12,13,1434,Hofstra,1826,626,8,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,31
+2009-10,2009-11-13,908044,165,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1456,Kansas,1826,626,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,31
+2009-10,2009-11-13,908044,166,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1456,Kansas,1826,626,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,31
+2009-10,2009-11-13,908044,167,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1434,Hofstra,1826,626,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,31
+2009-10,2009-11-13,908044,169,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1434,Hofstra,1811,611,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,29.5,27.85,331234,NA,NA,0,Hofstra,Hofstra,32
+2009-10,2009-11-13,908044,170,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1456,Kansas,1811,611,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,32
+2009-10,2009-11-13,908044,175,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1434,Hofstra,1789,589,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331234,NA,NA,0,Hofstra,Hofstra,33
+2009-10,2009-11-13,908044,176,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1434,Hofstra,1789,589,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,33
+2009-10,2009-11-13,908044,184,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,26,12,14,1434,Hofstra,1770,570,19,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,33
+2009-10,2009-11-13,908044,185,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,27,12,15,1456,Kansas,1770,570,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,33
+2009-10,2009-11-13,908044,186,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1456,Kansas,1770,570,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,34
+2009-10,2009-11-13,908044,187,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1456,Kansas,1770,570,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,190,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1456,Kansas,1759,559,11,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,35
+2009-10,2009-11-13,908044,194,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1456,Kansas,1753,553,6,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,35
+2009-10,2009-11-13,908044,197,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1456,Kansas,1750,550,3,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,35
+2009-10,2009-11-13,908044,199,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1434,Hofstra,1739,539,11, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,8.55,409961,NA,NA,0,Hofstra,Hofstra,35
+2009-10,2009-11-13,908044,200,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,12,16,1434,Hofstra,1739,539,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,35
+2009-10,2009-11-13,908044,201,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,28,14,14,1434,Hofstra,1733,533,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475532,NA,NA,0,Hofstra,Kansas,35
+2009-10,2009-11-13,908044,202,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,30,14,16,1456,Kansas,1726,526,7, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16.700000000000003,22.25,330350,NA,NA,0,Kansas,Kansas,36
+2009-10,2009-11-13,908044,207,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,30,14,16,1434,Hofstra,1704,504,22,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,36
+2009-10,2009-11-13,908044,208,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,30,14,16,1456,Kansas,1704,504,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,36
+2009-10,2009-11-13,908044,210,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,30,14,16,1434,Hofstra,1704,504,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,211,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,14,17,1456,Kansas,1704,504,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,36
+2009-10,2009-11-13,908044,213,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,14,17,1434,Hofstra,1689,489,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,15.55,521998,NA,NA,0,Hofstra,Hofstra,37
+2009-10,2009-11-13,908044,214,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,14,17,1456,Kansas,1689,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,37
+2009-10,2009-11-13,908044,215,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,14,17,1456,Kansas,1680,480,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,38
+2009-10,2009-11-13,908044,216,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,14,17,1434,Hofstra,1680,480,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,38
+2009-10,2009-11-13,908044,217,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1673,473,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,409961,NA,NA,0,Hofstra,Kansas,39
+2009-10,2009-11-13,908044,218,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1646,446,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521998,NA,NA,0,Hofstra,Hofstra,40
+2009-10,2009-11-13,908044,219,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1456,Kansas,1646,446,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,40
+2009-10,2009-11-13,908044,220,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1456,Kansas,1637,437,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,35,24.75,513058,NA,NA,0,Kansas,Kansas,41
+2009-10,2009-11-13,908044,221,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1637,437,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,41
+2009-10,2009-11-13,908044,222,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1625,425,12, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,11.05,522001,NA,NA,0,Hofstra,Hofstra,42
+2009-10,2009-11-13,908044,223,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1625,425,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,42
+2009-10,2009-11-13,908044,224,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1617,417,8, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,10.85,331234,NA,NA,0,Hofstra,Hofstra,42
+2009-10,2009-11-13,908044,225,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,16,15,1434,Hofstra,1617,417,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,42
+2009-10,2009-11-13,908044,234,0,1,Kansas,Hofstra,Jayhawks,Pride,4,3,31,18,13,1434,Hofstra,1616,416,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,522001,NA,NA,0,Hofstra,Kansas,42
+2009-10,2009-11-13,908044,235,0,1,Kansas,Hofstra,Jayhawks,Pride,3,3,31,18,13,1456,Kansas,1616,416,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,240,0,1,Kansas,Hofstra,Jayhawks,Pride,3,3,31,20,11,1434,Hofstra,1590,390,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,522001,NA,NA,0,Hofstra,Kansas,43
+2009-10,2009-11-13,908044,241,0,1,Kansas,Hofstra,Jayhawks,Pride,3,3,31,20,11,1434,Hofstra,1562,362,28, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,5.45,475535,NA,NA,0,Hofstra,Hofstra,44
+2009-10,2009-11-13,908044,242,0,1,Kansas,Hofstra,Jayhawks,Pride,3,3,31,20,11,1434,Hofstra,1562,362,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,44
+2009-10,2009-11-13,908044,246,0,1,Kansas,Hofstra,Jayhawks,Pride,3,3,31,22,9,1434,Hofstra,1557,357,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331234,NA,NA,0,Hofstra,Kansas,44
+2009-10,2009-11-13,908044,247,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,1456,Kansas,1557,357,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,248,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,1456,Kansas,1557,357,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,251,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,1456,Kansas,1553,353,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,256,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,1434,Hofstra,1546,346,7,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,45
+2009-10,2009-11-13,908044,257,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,NA,NA,1546,346,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,258,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,31,22,9,1456,Kansas,1546,346,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,45
+2009-10,2009-11-13,908044,260,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,32,22,10,1456,Kansas,1546,346,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,45
+2009-10,2009-11-13,908044,264,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,32,22,10,1434,Hofstra,1526,326,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,522001,NA,NA,0,Hofstra,Hofstra,46
+2009-10,2009-11-13,908044,265,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,32,22,10,1456,Kansas,1526,326,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,46
+2009-10,2009-11-13,908044,266,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1456,Kansas,1510,310,16, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.8,13.549999999999997,469089,NA,NA,0,Kansas,Hofstra,47
+2009-10,2009-11-13,908044,267,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1434,Hofstra,1489,289,21, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,30.8,30.25,521998,NA,NA,0,Hofstra,Hofstra,48
+2009-10,2009-11-13,908044,268,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1434,Hofstra,1489,289,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,48
+2009-10,2009-11-13,908044,269,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1434,Hofstra,1481,281,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.8,7.55,331234,NA,NA,0,Hofstra,Hofstra,48
+2009-10,2009-11-13,908044,270,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1456,Kansas,1481,281,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,48
+2009-10,2009-11-13,908044,271,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1456,Kansas,1471,271,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16,27.450000000000003,398441,NA,NA,0,Kansas,Kansas,49
+2009-10,2009-11-13,908044,272,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,34,22,12,1456,Kansas,1471,271,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,49
+2009-10,2009-11-13,908044,280,0,1,Kansas,Hofstra,Jayhawks,Pride,2,3,36,22,14,1456,Kansas,1465,265,6, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.3,9.349999999999994,398443,NA,NA,0,Kansas,Hofstra,49
+2009-10,2009-11-13,908044,281,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1434,Hofstra,1465,265,0,Pride take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,288,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1434,Hofstra,1446,246,19,Offensive foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,50
+2009-10,2009-11-13,908044,293,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1456,Kansas,1422,222,24, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,11.849999999999994,330350,NA,NA,0,Kansas,Kansas,51
+2009-10,2009-11-13,908044,294,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1456,Kansas,1422,222,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,51
+2009-10,2009-11-13,908044,295,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1434,Hofstra,1422,222,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,51
+2009-10,2009-11-13,908044,296,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,NA,NA,1422,222,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,298,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,36,22,14,1456,Kansas,1422,222,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,51
+2009-10,2009-11-13,908044,300,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,37,22,15,1456,Kansas,1422,222,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,51
+2009-10,2009-11-13,908044,302,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,39,22,17,1456,Kansas,1395,195,27, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513058,NA,NA,0,Kansas,Kansas,52
+2009-10,2009-11-13,908044,306,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,39,22,17,1434,Hofstra,1372,172,23,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,52
+2009-10,2009-11-13,908044,307,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,40,22,18,1456,Kansas,1372,172,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,52
+2009-10,2009-11-13,908044,308,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,41,22,19,1456,Kansas,1372,172,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,52
+2009-10,2009-11-13,908044,309,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,41,22,19,1456,Kansas,1372,172,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,311,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,41,24,17,1434,Hofstra,1353,153,19, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.2,20.95,331237,NA,NA,0,Hofstra,Kansas,53
+2009-10,2009-11-13,908044,312,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,41,24,17,1456,Kansas,1329,129,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,9.200000000000003,19.349999999999994,330350,NA,NA,0,Kansas,Kansas,54
+2009-10,2009-11-13,908044,313,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,41,24,17,1434,Hofstra,1329,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,54
+2009-10,2009-11-13,908044,314,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,43,24,19,1456,Kansas,1314,114,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330350,NA,NA,0,Kansas,Kansas,55
+2009-10,2009-11-13,908044,323,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,43,24,19,1434,Hofstra,1279,79,35,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,55
+2009-10,2009-11-13,908044,324,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,43,24,19,1456,Kansas,1279,79,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,55
+2009-10,2009-11-13,908044,326,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,44,24,20,1456,Kansas,1279,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,55
+2009-10,2009-11-13,908044,331,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,44,24,20,1456,Kansas,1269,69,10,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,56
+2009-10,2009-11-13,908044,333,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,44,27,17,1434,Hofstra,1260,60,9, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.800000000000001,8.95,522001,NA,NA,0,Hofstra,Kansas,56
+2009-10,2009-11-13,908044,335,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,44,27,17,1434,Hofstra,1253,53,7,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,57
+2009-10,2009-11-13,908044,336,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,45,27,18,1456,Kansas,1253,53,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,57
+2009-10,2009-11-13,908044,337,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,45,27,18,1456,Kansas,1253,53,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,57
+2009-10,2009-11-13,908044,338,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,45,27,18,1434,Hofstra,1253,53,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,57
+2009-10,2009-11-13,908044,340,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,45,27,18,1434,Hofstra,1242,42,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,38,14.15,522001,NA,NA,0,Hofstra,Hofstra,58
+2009-10,2009-11-13,908044,341,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,45,27,18,1456,Kansas,1242,42,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,58
+2009-10,2009-11-13,908044,347,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1456,Kansas,1228,28,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398443,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,348,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1434,Hofstra,1228,28,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,349,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1456,Kansas,1228,28,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,350,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1456,Kansas,1228,28,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,359,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1434,Hofstra,1210,10,18,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,360,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,47,27,20,1456,Kansas,1210,10,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-11-13,908044,362,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,48,27,21,1456,Kansas,1210,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,59
+2009-10,2009-11-13,908044,366,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,48,27,21,1434,Hofstra,1204,4,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29,10.85,521999,NA,NA,0,Hofstra,Hofstra,60
+2009-10,2009-11-13,908044,369,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,48,27,21,1434,Hofstra,1200,0,4, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,40,12.25,522001,NA,NA,0,Hofstra,Hofstra,60
+2009-10,2009-11-13,908044,371,0,1,Kansas,Hofstra,Jayhawks,Pride,2,2,48,27,21,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,374,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Hofstra,60
+2009-10,2009-11-13,908044,376,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1434,Hofstra,1185,1185,15, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,13.35,475535,NA,NA,0,Hofstra,Hofstra,61
+2009-10,2009-11-13,908044,377,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1456,Kansas,1185,1185,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,61
+2009-10,2009-11-13,908044,378,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1456,Kansas,1162,1162,23, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,18.049999999999997,398443,NA,NA,0,Kansas,Kansas,62
+2009-10,2009-11-13,908044,379,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1456,Kansas,1162,1162,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,62
+2009-10,2009-11-13,908044,380,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1456,Kansas,1154,1154,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.8,26.950000000000003,330350,NA,NA,0,Kansas,Kansas,62
+2009-10,2009-11-13,908044,381,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1434,Hofstra,1154,1154,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,62
+2009-10,2009-11-13,908044,382,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1434,Hofstra,1140,1140,14, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.2,19.35,475532,NA,NA,0,Hofstra,Hofstra,63
+2009-10,2009-11-13,908044,383,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1456,Kansas,1140,1140,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,63
+2009-10,2009-11-13,908044,386,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,48,27,21,1434,Hofstra,1124,1124,16,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,64
+2009-10,2009-11-13,908044,387,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,49,27,22,1456,Kansas,1124,1124,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,64
+2009-10,2009-11-13,908044,388,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,49,27,22,1434,Hofstra,1124,1124,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,389,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,50,27,23,1456,Kansas,1124,1124,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,64
+2009-10,2009-11-13,908044,392,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,50,27,23,1456,Kansas,1112,1112,12,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,65
+2009-10,2009-11-13,908044,393,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,50,27,23,1434,Hofstra,1112,1112,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,395,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,50,29,21,1434,Hofstra,1104,1104,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,475532,NA,NA,0,Hofstra,Kansas,65
+2009-10,2009-11-13,908044,398,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,50,29,21,1434,Hofstra,1082,1082,22,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-11-13,908044,399,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,51,29,22,1456,Kansas,1082,1082,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-11-13,908044,400,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,52,29,23,1456,Kansas,1082,1082,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-11-13,908044,401,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,53,29,24,1456,Kansas,1082,1082,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,66
+2009-10,2009-11-13,908044,403,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,53,31,22,1434,Hofstra,1069,1069,13, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,28.8,15.65,331234,NA,NA,0,Hofstra,Kansas,67
+2009-10,2009-11-13,908044,404,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,56,31,25,1456,Kansas,1058,1058,11, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.2,17.650000000000006,513058,NA,NA,0,Kansas,Hofstra,68
+2009-10,2009-11-13,908044,405,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,56,31,25,1434,Hofstra,1041,1041,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,27,17.85,331234,NA,NA,0,Hofstra,Hofstra,69
+2009-10,2009-11-13,908044,406,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,56,31,25,1434,Hofstra,1041,1041,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,69
+2009-10,2009-11-13,908044,407,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,31,27,1456,Kansas,1034,1034,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513058,NA,NA,0,Kansas,Hofstra,69
+2009-10,2009-11-13,908044,412,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,31,27,1456,Kansas,1020,1020,14,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,70
+2009-10,2009-11-13,908044,413,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1434,Hofstra,1020,1020,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,70
+2009-10,2009-11-13,908044,414,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1434,Hofstra,1020,1020,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,70
+2009-10,2009-11-13,908044,415,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1456,Kansas,1020,1020,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,70
+2009-10,2009-11-13,908044,420,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1456,Kansas,1000,1000,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,8.700000000000003,19.150000000000006,469083,NA,NA,0,Kansas,Kansas,71
+2009-10,2009-11-13,908044,421,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1456,Kansas,1000,1000,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,71
+2009-10,2009-11-13,908044,422,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1456,Kansas,991,991,9, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.8,6.450000000000003,513058,NA,NA,0,Kansas,Kansas,71
+2009-10,2009-11-13,908044,423,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1434,Hofstra,991,991,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,71
+2009-10,2009-11-13,908044,426,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,32,26,1456,Kansas,985,985,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,72
+2009-10,2009-11-13,908044,427,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,33,25,1434,Hofstra,985,985,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,72
+2009-10,2009-11-13,908044,428,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,33,25,1456,Kansas,985,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,429,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,33,25,1456,Kansas,985,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,430,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,58,34,24,1434,Hofstra,985,985,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,72
+2009-10,2009-11-13,908044,434,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,61,34,27,1456,Kansas,971,971,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.799999999999997,25.150000000000006,513058,NA,NA,0,Kansas,Hofstra,73
+2009-10,2009-11-13,908044,436,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,61,36,25,1434,Hofstra,958,958,13, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,19.5,17.45,331234,NA,NA,0,Hofstra,Kansas,74
+2009-10,2009-11-13,908044,439,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,61,36,25,1434,Hofstra,948,948,10,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-11-13,908044,440,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,61,36,25,NA,NA,948,948,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,441,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1456,Kansas,948,948,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-11-13,908044,442,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1456,Kansas,948,948,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-11-13,908044,443,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1434,Hofstra,948,948,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,75
+2009-10,2009-11-13,908044,445,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1434,Hofstra,934,934,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,18.45,331234,NA,NA,0,Hofstra,Hofstra,76
+2009-10,2009-11-13,908044,446,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1456,Kansas,934,934,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,76
+2009-10,2009-11-13,908044,448,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1456,Kansas,903,903,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513057,NA,NA,0,Kansas,Kansas,77
+2009-10,2009-11-13,908044,449,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1434,Hofstra,903,903,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,77
+2009-10,2009-11-13,908044,450,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1434,Hofstra,903,903,0, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,5.65,521998,NA,NA,0,Hofstra,Hofstra,78
+2009-10,2009-11-13,908044,451,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,62,36,26,1456,Kansas,903,903,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,78
+2009-10,2009-11-13,908044,460,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,65,36,29,1456,Kansas,895,895,8, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.799999999999997,24.25,513058,NA,NA,0,Kansas,Hofstra,79
+2009-10,2009-11-13,908044,464,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,65,36,29,1434,Hofstra,886,886,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475532,NA,NA,0,Hofstra,Hofstra,80
+2009-10,2009-11-13,908044,467,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,65,38,27,1434,Hofstra,883,883,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331234,NA,NA,0,Hofstra,Kansas,80
+2009-10,2009-11-13,908044,468,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,65,38,27,1456,Kansas,860,860,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,4.650000000000006,513058,NA,NA,0,Kansas,Kansas,81
+2009-10,2009-11-13,908044,469,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,65,38,27,1456,Kansas,860,860,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,81
+2009-10,2009-11-13,908044,473,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,68,38,30,1456,Kansas,850,850,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22.2,28.650000000000006,330350,NA,NA,0,Kansas,Hofstra,81
+2009-10,2009-11-13,908044,478,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,818,818,32, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22.3,28.049999999999997,330350,NA,NA,0,Kansas,Hofstra,82
+2009-10,2009-11-13,908044,481,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,801,801,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21,9.85,522001,NA,NA,0,Hofstra,Kansas,83
+2009-10,2009-11-13,908044,484,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,793,793,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,21.849999999999994,513058,NA,NA,0,Kansas,Kansas,84
+2009-10,2009-11-13,908044,485,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,793,793,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,84
+2009-10,2009-11-13,908044,493,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,773,773,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14,16.25,331234,NA,NA,0,Hofstra,Hofstra,85
+2009-10,2009-11-13,908044,494,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,773,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,85
+2009-10,2009-11-13,908044,495,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,773,773,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,496,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,773,773,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,498,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,769,769,4, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,16.450000000000003,469089,NA,NA,0,Kansas,Kansas,86
+2009-10,2009-11-13,908044,499,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,769,769,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,86
+2009-10,2009-11-13,908044,500,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,761,761,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,23.25,475535,NA,NA,0,Hofstra,Hofstra,87
+2009-10,2009-11-13,908044,501,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1434,Hofstra,761,761,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,87
+2009-10,2009-11-13,908044,510,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,38,33,1456,Kansas,739,739,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398441,NA,NA,0,Kansas,Hofstra,87
+2009-10,2009-11-13,908044,513,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1434,Hofstra,720,720,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331234,NA,NA,0,Hofstra,Kansas,88
+2009-10,2009-11-13,908044,514,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1434,Hofstra,698,698,22, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,7.15,522002,NA,NA,0,Hofstra,Hofstra,89
+2009-10,2009-11-13,908044,515,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1456,Kansas,698,698,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,89
+2009-10,2009-11-13,908044,517,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1434,Hofstra,685,685,13,Personal foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,90
+2009-10,2009-11-13,908044,518,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,NA,NA,685,685,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,525,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1456,Kansas,666,666,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,527,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1456,Kansas,662,662,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.200000000000003,20.349999999999994,330350,NA,NA,0,Kansas,Kansas,90
+2009-10,2009-11-13,908044,528,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,71,40,31,1456,Kansas,662,662,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,90
+2009-10,2009-11-13,908044,529,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,73,40,33,1456,Kansas,652,652,10, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,28,12.950000000000003,398443,NA,NA,0,Kansas,Hofstra,90
+2009-10,2009-11-13,908044,530,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,73,42,31,1434,Hofstra,635,635,17, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12.3,7.75,331237,NA,NA,0,Hofstra,Kansas,91
+2009-10,2009-11-13,908044,531,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,75,42,33,1456,Kansas,618,618,17, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,32.2,14.349999999999994,469085,NA,NA,0,Kansas,Hofstra,92
+2009-10,2009-11-13,908044,533,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,75,42,33,1434,Hofstra,596,596,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,19.55,522001,NA,NA,0,Hofstra,Hofstra,93
+2009-10,2009-11-13,908044,536,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,75,44,31,1434,Hofstra,587,587,9, makes a hook shot from 11 feet out.,made,FALSE,FALSE,Hook Shot,25.5,15.85,522001,NA,NA,0,Hofstra,Kansas,93
+2009-10,2009-11-13,908044,543,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,75,44,31,1456,Kansas,565,565,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,545,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1456,Kansas,558,558,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,Hofstra,94
+2009-10,2009-11-13,908044,546,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1434,Hofstra,550,550,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,14.35,331234,NA,NA,0,Hofstra,Hofstra,95
+2009-10,2009-11-13,908044,547,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1456,Kansas,550,550,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,95
+2009-10,2009-11-13,908044,560,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1434,Hofstra,526,526,24, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,8.35,331234,NA,NA,0,Hofstra,Hofstra,96
+2009-10,2009-11-13,908044,565,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1434,Hofstra,513,513,13, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,10.45,331234,NA,NA,0,Hofstra,Hofstra,96
+2009-10,2009-11-13,908044,566,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,77,44,33,1456,Kansas,513,513,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,96
+2009-10,2009-11-13,908044,567,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,44,35,1456,Kansas,505,505,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330350,NA,NA,0,Kansas,Hofstra,97
+2009-10,2009-11-13,908044,570,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,44,35,1456,Kansas,495,495,10,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,98
+2009-10,2009-11-13,908044,571,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,44,35,1456,Kansas,495,495,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,575,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,44,35,1456,Kansas,486,486,9,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,98
+2009-10,2009-11-13,908044,576,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,44,35,1434,Hofstra,486,486,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,98
+2009-10,2009-11-13,908044,578,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,79,45,34,1434,Hofstra,486,486,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,98
+2009-10,2009-11-13,908044,580,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,82,45,37,1456,Kansas,462,462,24, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,41.3,18.549999999999997,330350,NA,NA,0,Kansas,Hofstra,99
+2009-10,2009-11-13,908044,582,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,82,45,37,1434,Hofstra,443,443,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.2,29.45,331234,NA,NA,0,Hofstra,Kansas,100
+2009-10,2009-11-13,908044,584,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,82,45,37,1434,Hofstra,443,443,0,Personal foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,101
+2009-10,2009-11-13,908044,585,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,82,45,37,NA,NA,443,443,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,587,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1456,Kansas,429,429,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,Hofstra,101
+2009-10,2009-11-13,908044,588,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1434,Hofstra,416,416,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,14.35,521998,NA,NA,0,Hofstra,Hofstra,102
+2009-10,2009-11-13,908044,589,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1434,Hofstra,416,416,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,102
+2009-10,2009-11-13,908044,591,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1434,Hofstra,403,403,13, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,11.05,522001,NA,NA,0,Hofstra,Hofstra,102
+2009-10,2009-11-13,908044,592,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1456,Kansas,403,403,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,102
+2009-10,2009-11-13,908044,593,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1456,Kansas,403,403,0, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,5.25,469089,NA,NA,0,Kansas,Kansas,103
+2009-10,2009-11-13,908044,594,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1434,Hofstra,403,403,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,103
+2009-10,2009-11-13,908044,601,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,45,39,1456,Kansas,397,397,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,104
+2009-10,2009-11-13,908044,602,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,46,38,1434,Hofstra,397,397,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,104
+2009-10,2009-11-13,908044,603,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,46,38,1434,Hofstra,397,397,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,104
+2009-10,2009-11-13,908044,604,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,84,46,38,1456,Kansas,397,397,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,104
+2009-10,2009-11-13,908044,606,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,87,46,41,1456,Kansas,389,389,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.2,29.049999999999997,469083,NA,NA,0,Kansas,Hofstra,105
+2009-10,2009-11-13,908044,607,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,87,46,41,1434,Hofstra,371,371,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,20.15,475535,NA,NA,0,Hofstra,Hofstra,106
+2009-10,2009-11-13,908044,608,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,87,46,41,1434,Hofstra,371,371,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,106
+2009-10,2009-11-13,908044,609,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,87,48,39,1434,Hofstra,364,364,7, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,15.8,18.95,475535,NA,NA,0,Hofstra,Kansas,106
+2009-10,2009-11-13,908044,611,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,48,42,1456,Kansas,350,350,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,25,27.849999999999994,513058,NA,NA,0,Kansas,Hofstra,107
+2009-10,2009-11-13,908044,618,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,48,42,1456,Kansas,335,335,15,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,108
+2009-10,2009-11-13,908044,619,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,49,41,1434,Hofstra,335,335,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,108
+2009-10,2009-11-13,908044,620,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1434,Hofstra,335,335,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,108
+2009-10,2009-11-13,908044,625,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1434,Hofstra,326,326,9,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,109
+2009-10,2009-11-13,908044,626,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1456,Kansas,326,326,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,109
+2009-10,2009-11-13,908044,628,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1456,Kansas,326,326,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,109
+2009-10,2009-11-13,908044,629,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1434,Hofstra,326,326,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,109
+2009-10,2009-11-13,908044,631,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1434,Hofstra,320,320,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.7,24.75,409961,NA,NA,0,Hofstra,Hofstra,110
+2009-10,2009-11-13,908044,632,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1456,Kansas,320,320,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,110
+2009-10,2009-11-13,908044,643,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1456,Kansas,303,303,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,645,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1434,Hofstra,290,290,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,22.85,409961,NA,NA,0,Hofstra,Hofstra,111
+2009-10,2009-11-13,908044,646,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,90,50,40,1456,Kansas,290,290,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,111
+2009-10,2009-11-13,908044,647,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,93,50,43,1456,Kansas,273,273,17, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.200000000000003,5.849999999999994,398440,NA,NA,0,Kansas,Hofstra,112
+2009-10,2009-11-13,908044,648,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,93,52,41,1434,Hofstra,254,254,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331234,NA,NA,0,Hofstra,Kansas,113
+2009-10,2009-11-13,908044,650,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,93,52,41,1456,Kansas,247,247,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,652,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,52,43,1456,Kansas,238,238,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513059,NA,NA,0,Kansas,Hofstra,114
+2009-10,2009-11-13,908044,653,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1434,Hofstra,225,225,13, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,25,29.85,521998,NA,NA,0,Hofstra,Kansas,115
+2009-10,2009-11-13,908044,654,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1456,Kansas,212,212,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,17.450000000000003,398440,NA,NA,0,Kansas,Kansas,116
+2009-10,2009-11-13,908044,655,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1456,Kansas,212,212,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,116
+2009-10,2009-11-13,908044,661,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1456,Kansas,208,208,4, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,17.049999999999997,398441,NA,NA,0,Kansas,Kansas,116
+2009-10,2009-11-13,908044,663,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,NA,NA,208,208,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,664,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1456,Kansas,208,208,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,666,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1456,Kansas,194,194,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398440,NA,NA,0,Kansas,Kansas,116
+2009-10,2009-11-13,908044,667,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,95,55,40,1434,Hofstra,194,194,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,116
+2009-10,2009-11-13,908044,669,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,55,42,1456,Kansas,183,183,11, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27,9.549999999999997,513057,NA,NA,0,Kansas,Hofstra,117
+2009-10,2009-11-13,908044,682,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,55,42,1434,Hofstra,161,161,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,409961,NA,NA,0,Hofstra,Hofstra,118
+2009-10,2009-11-13,908044,685,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,58,39,1434,Hofstra,155,155,6, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.5,19.55,522001,NA,NA,0,Hofstra,Kansas,118
+2009-10,2009-11-13,908044,686,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,58,39,1456,Kansas,136,136,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,11.450000000000003,513057,NA,NA,0,Kansas,Kansas,119
+2009-10,2009-11-13,908044,687,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,58,39,1456,Kansas,136,136,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,119
+2009-10,2009-11-13,908044,688,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,58,39,1434,Hofstra,117,117,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,39,21.35,475535,NA,NA,0,Hofstra,Hofstra,119
+2009-10,2009-11-13,908044,689,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,97,58,39,1456,Kansas,117,117,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,119
+2009-10,2009-11-13,908044,690,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,58,41,1456,Kansas,107,107,10, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,37.5,18.549999999999997,513059,NA,NA,0,Kansas,Hofstra,120
+2009-10,2009-11-13,908044,691,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,61,38,1434,Hofstra,88,88,19, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,18.3,27.85,331234,NA,NA,0,Hofstra,Kansas,121
+2009-10,2009-11-13,908044,694,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,61,38,1456,Kansas,68,68,20, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,24.25,486797,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,695,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,61,38,1456,Kansas,68,68,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,696,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,61,38,1434,Hofstra,68,68,0,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,697,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,99,61,38,1434,Hofstra,68,68,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-13,908044,698,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,61,39,1456,Kansas,68,68,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,699,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,61,39,1456,Kansas,68,68,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,700,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,61,39,1456,Kansas,68,68,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,122
+2009-10,2009-11-13,908044,705,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,61,39,1456,Kansas,64,64,4, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,7.349999999999994,513057,NA,NA,0,Kansas,Hofstra,122
+2009-10,2009-11-13,908044,708,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1434,Hofstra,56,56,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331234,NA,NA,0,Hofstra,Kansas,123
+2009-10,2009-11-13,908044,710,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1456,Kansas,47,47,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,8.950000000000003,398440,NA,NA,0,Kansas,Hofstra,124
+2009-10,2009-11-13,908044,712,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1456,Kansas,47,47,0,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,125
+2009-10,2009-11-13,908044,713,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1434,Hofstra,47,47,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Hofstra,125
+2009-10,2009-11-13,908044,714,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1456,Kansas,47,47,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Hofstra,Kansas,125
+2009-10,2009-11-13,908044,743,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,100,63,37,1434,Hofstra,36,36,11,Shooting foul committed by Pride.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,126
+2009-10,2009-11-13,908044,744,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,63,38,1456,Kansas,36,36,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,126
+2009-10,2009-11-13,908044,745,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,63,38,1456,Kansas,36,36,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,126
+2009-10,2009-11-13,908044,746,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,63,38,1434,Hofstra,36,36,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Hofstra,126
+2009-10,2009-11-13,908044,751,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,65,36,1434,Hofstra,23,23,13, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.5,9.15,521998,NA,NA,0,Hofstra,Kansas,127
+2009-10,2009-11-13,908044,753,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,65,36,NA,NA,0,0,23,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-13,908044,754,0,2,Kansas,Hofstra,Jayhawks,Pride,4,4,101,65,36,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

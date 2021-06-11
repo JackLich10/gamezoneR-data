@@ -1,0 +1,282 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-25,926585,1,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulsa,NA
+2009-10,2010-02-25,926585,3,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2377,1177,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5,15.85,329513,NA,NA,0,Tulsa,Tulsa,1
+2009-10,2010-02-25,926585,4,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1388,Duke,2377,1177,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,1
+2009-10,2010-02-25,926585,5,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1388,Duke,2353,1153,24, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.200000000000003,8.950000000000003,398428,NA,NA,0,Duke,Duke,2
+2009-10,2010-02-25,926585,25,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2338,1138,15,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,2
+2009-10,2010-02-25,926585,27,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1388,Duke,2338,1138,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,2
+2009-10,2010-02-25,926585,29,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1388,Duke,2338,1138,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,2
+2009-10,2010-02-25,926585,30,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2338,1138,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,2
+2009-10,2010-02-25,926585,32,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2323,1123,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,11.25,329511,NA,NA,0,Tulsa,Tulsa,3
+2009-10,2010-02-25,926585,33,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1388,Duke,2323,1123,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,3
+2009-10,2010-02-25,926585,43,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2280,1080,43, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,15.55,399813,NA,NA,0,Tulsa,Tulsa,4
+2009-10,2010-02-25,926585,44,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,0,0,1662,Tulsa,2280,1080,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,4
+2009-10,2010-02-25,926585,45,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,2,-2,1662,Tulsa,2274,1074,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464850,NA,NA,0,Tulsa,Duke,4
+2009-10,2010-02-25,926585,46,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,2,-2,1388,Duke,2258,1058,16, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,7.950000000000003,329889,NA,NA,0,Duke,Duke,5
+2009-10,2010-02-25,926585,47,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,0,2,-2,1388,Duke,2258,1058,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,5
+2009-10,2010-02-25,926585,48,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,2,2,0,1388,Duke,2253,1053,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329889,NA,NA,0,Duke,Tulsa,5
+2009-10,2010-02-25,926585,49,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1388,Duke,2243,1043,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,398429,NA,NA,0,Duke,Tulsa,6
+2009-10,2010-02-25,926585,51,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1662,Tulsa,2223,1023,20,Offensive foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,7
+2009-10,2010-02-25,926585,58,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1388,Duke,2208,1008,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,8
+2009-10,2010-02-25,926585,59,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1662,Tulsa,2208,1008,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,8
+2009-10,2010-02-25,926585,63,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1388,Duke,2177,977,31, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,8.950000000000003,398428,NA,NA,0,Duke,Duke,9
+2009-10,2010-02-25,926585,64,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1662,Tulsa,2177,977,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,9
+2009-10,2010-02-25,926585,65,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1388,Duke,2177,977,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,67,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1662,Tulsa,2160,960,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329513,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,68,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,2,2,1662,Tulsa,2160,960,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,70,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,4,0,1662,Tulsa,2151,951,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399814,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,71,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,4,0,NA,NA,2151,951,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,72,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,4,0,1388,Duke,2151,951,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,73,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,4,0,1662,Tulsa,2151,951,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,10
+2009-10,2010-02-25,926585,74,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,4,4,0,1388,Duke,2151,951,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,10
+2009-10,2010-02-25,926585,76,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,7,4,3,1388,Duke,2136,936,15, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14,26.75,398429,NA,NA,0,Duke,Tulsa,11
+2009-10,2010-02-25,926585,79,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1388,Duke,2117,917,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467271,NA,NA,0,Duke,Tulsa,12
+2009-10,2010-02-25,926585,80,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1662,Tulsa,2093,893,24, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,12,10.45,297331,NA,NA,0,Tulsa,Tulsa,13
+2009-10,2010-02-25,926585,81,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1388,Duke,2093,893,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,13
+2009-10,2010-02-25,926585,82,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1388,Duke,2082,882,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,21.5,27.650000000000006,329889,NA,NA,0,Duke,Duke,14
+2009-10,2010-02-25,926585,83,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1662,Tulsa,2082,882,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,14
+2009-10,2010-02-25,926585,86,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1662,Tulsa,2052,852,30, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,8.55,329511,NA,NA,0,Tulsa,Tulsa,15
+2009-10,2010-02-25,926585,87,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1662,Tulsa,2052,852,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,15
+2009-10,2010-02-25,926585,88,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1662,Tulsa,2045,845,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,17.85,329513,NA,NA,0,Tulsa,Tulsa,15
+2009-10,2010-02-25,926585,89,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,9,4,5,1388,Duke,2045,845,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,15
+2009-10,2010-02-25,926585,90,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,12,4,8,1388,Duke,2031,831,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13.799999999999997,25.75,329889,NA,NA,0,Duke,Tulsa,16
+2009-10,2010-02-25,926585,91,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,12,4,8,1662,Tulsa,2013,813,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22,11.65,464850,NA,NA,0,Tulsa,Tulsa,17
+2009-10,2010-02-25,926585,92,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,12,4,8,1388,Duke,2013,813,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,17
+2009-10,2010-02-25,926585,94,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,12,4,8,1388,Duke,2003,803,10, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,9.849999999999994,329889,NA,NA,0,Duke,Duke,18
+2009-10,2010-02-25,926585,96,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,14,4,10,1388,Duke,2003,803,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329891,NA,NA,0,Duke,Tulsa,18
+2009-10,2010-02-25,926585,102,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,4,10,1662,Tulsa,2000,800,3,Golden Hurricane take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,108,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,6,8,1662,Tulsa,1992,792,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329511,NA,NA,0,Tulsa,Tulsa,19
+2009-10,2010-02-25,926585,109,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,6,8,1388,Duke,1992,792,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,19
+2009-10,2010-02-25,926585,110,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,7,7,1662,Tulsa,1992,792,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,19
+2009-10,2010-02-25,926585,113,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,7,7,1388,Duke,1976,776,16, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,11.450000000000003,510790,NA,NA,0,Duke,Duke,20
+2009-10,2010-02-25,926585,114,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,14,7,7,1388,Duke,1976,776,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2010-02-25,926585,115,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,16,7,9,1388,Duke,1976,776,0, makes a jump shot from 1 foot out.,made,FALSE,FALSE,Jump Shot,24.5,6.650000000000006,398428,NA,NA,0,Duke,Duke,20
+2009-10,2010-02-25,926585,116,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,16,7,9,1662,Tulsa,1976,776,0,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,20
+2009-10,2010-02-25,926585,117,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,7,10,1388,Duke,1976,776,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,20
+2009-10,2010-02-25,926585,123,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,10,7,1662,Tulsa,1968,768,8, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,44,18.25,399813,NA,NA,0,Tulsa,Duke,21
+2009-10,2010-02-25,926585,125,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,10,7,1388,Duke,1953,753,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,34.2,25.950000000000003,398428,NA,NA,0,Duke,Duke,22
+2009-10,2010-02-25,926585,126,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,10,7,1388,Duke,1953,753,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,22
+2009-10,2010-02-25,926585,128,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,10,7,1388,Duke,1942,742,11, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,14.349999999999994,518947,NA,NA,0,Duke,Tulsa,22
+2009-10,2010-02-25,926585,131,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1662,Tulsa,1930,730,12, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22.5,9.55,329511,NA,NA,0,Tulsa,Duke,23
+2009-10,2010-02-25,926585,132,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1909,709,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,133,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1909,709,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,134,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1900,700,9, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27,8.950000000000003,329890,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,135,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1900,700,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,155,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1662,Tulsa,1900,700,0,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,156,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,NA,NA,1900,700,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,158,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1882,682,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.2,29.650000000000006,398429,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,159,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,17,12,5,1388,Duke,1882,682,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,24
+2009-10,2010-02-25,926585,160,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,19,12,7,1388,Duke,1874,674,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Tulsa,24
+2009-10,2010-02-25,926585,163,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,19,12,7,1662,Tulsa,1838,638,36, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,28.8,30.95,329513,NA,NA,0,Tulsa,Tulsa,25
+2009-10,2010-02-25,926585,164,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,19,12,7,1388,Duke,1838,638,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,25
+2009-10,2010-02-25,926585,165,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,19,14,5,1662,Tulsa,1805,605,33, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,27.3,17.65,329513,NA,NA,0,Tulsa,Duke,26
+2009-10,2010-02-25,926585,166,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,14,7,1388,Duke,1788,588,17, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,6.799999999999997,11.650000000000006,329890,NA,NA,0,Duke,Tulsa,27
+2009-10,2010-02-25,926585,168,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,14,7,1662,Tulsa,1756,556,32,Offensive foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,28
+2009-10,2010-02-25,926585,170,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,14,7,1662,Tulsa,1745,545,11, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,9.65,329513,NA,NA,0,Tulsa,Tulsa,29
+2009-10,2010-02-25,926585,171,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,14,7,1662,Tulsa,1745,545,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,29
+2009-10,2010-02-25,926585,172,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1662,Tulsa,1740,540,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399814,NA,NA,0,Tulsa,Duke,29
+2009-10,2010-02-25,926585,173,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1388,Duke,1721,521,19, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Duke,30
+2009-10,2010-02-25,926585,174,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1662,Tulsa,1721,521,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,30
+2009-10,2010-02-25,926585,176,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1662,Tulsa,1706,506,15, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,8.35,329513,NA,NA,0,Tulsa,Tulsa,31
+2009-10,2010-02-25,926585,177,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1388,Duke,1706,506,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,31
+2009-10,2010-02-25,926585,182,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,21,16,5,1662,Tulsa,1699,499,7,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,32
+2009-10,2010-02-25,926585,183,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,22,16,6,1388,Duke,1699,499,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,32
+2009-10,2010-02-25,926585,184,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,23,16,7,1388,Duke,1699,499,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,32
+2009-10,2010-02-25,926585,187,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,23,16,7,1662,Tulsa,1682,482,17, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,12.45,399813,NA,NA,0,Tulsa,Duke,33
+2009-10,2010-02-25,926585,192,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,23,16,7,NA,NA,1671,471,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,194,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,16,9,1388,Duke,1666,466,5, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,31,8.349999999999994,398428,NA,NA,0,Duke,Tulsa,34
+2009-10,2010-02-25,926585,195,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,18,7,1662,Tulsa,1640,440,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,464850,NA,NA,0,Tulsa,Duke,35
+2009-10,2010-02-25,926585,197,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,18,7,1388,Duke,1619,419,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Tulsa,36
+2009-10,2010-02-25,926585,200,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,20,5,1662,Tulsa,1602,402,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,297331,NA,NA,0,Tulsa,Duke,37
+2009-10,2010-02-25,926585,206,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,20,5,1662,Tulsa,1582,382,20,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2009-10,2010-02-25,926585,207,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,25,20,5,1388,Duke,1582,382,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2009-10,2010-02-25,926585,209,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,26,20,6,1388,Duke,1582,382,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,38
+2009-10,2010-02-25,926585,211,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,26,22,4,1662,Tulsa,1567,367,15, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,36.5,18.45,399813,NA,NA,0,Tulsa,Duke,39
+2009-10,2010-02-25,926585,212,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,22,6,1388,Duke,1546,346,21, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,29.2,9.650000000000006,329891,NA,NA,0,Duke,Tulsa,40
+2009-10,2010-02-25,926585,214,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,24,4,1662,Tulsa,1527,327,19, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,19.7,16.85,329513,NA,NA,0,Tulsa,Tulsa,41
+2009-10,2010-02-25,926585,215,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,24,4,1388,Duke,1527,327,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,41
+2009-10,2010-02-25,926585,216,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1527,327,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,41
+2009-10,2010-02-25,926585,218,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1388,Duke,1513,313,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,6.450000000000003,398429,NA,NA,0,Duke,Duke,42
+2009-10,2010-02-25,926585,219,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1513,313,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,42
+2009-10,2010-02-25,926585,220,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1506,306,7, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,10.85,329513,NA,NA,0,Tulsa,Tulsa,43
+2009-10,2010-02-25,926585,221,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1388,Duke,1506,306,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,43
+2009-10,2010-02-25,926585,222,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1388,Duke,1500,300,6, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27,7.75,398429,NA,NA,0,Duke,Duke,44
+2009-10,2010-02-25,926585,223,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1500,300,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,44
+2009-10,2010-02-25,926585,224,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1478,278,22, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,8.75,399814,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-02-25,926585,225,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,25,3,1662,Tulsa,1478,278,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-02-25,926585,237,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1662,Tulsa,1478,278,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-02-25,926585,238,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1662,Tulsa,1478,278,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-02-25,926585,239,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1478,278,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,45
+2009-10,2010-02-25,926585,242,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1472,272,6,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,46
+2009-10,2010-02-25,926585,244,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1471,271,1, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,3.75,329889,NA,NA,0,Duke,Duke,46
+2009-10,2010-02-25,926585,245,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1471,271,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,46
+2009-10,2010-02-25,926585,247,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1462,262,9, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,8.549999999999997,398429,NA,NA,0,Duke,Tulsa,46
+2009-10,2010-02-25,926585,252,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1662,Tulsa,1430,230,32, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.05,399814,NA,NA,0,Tulsa,Tulsa,47
+2009-10,2010-02-25,926585,253,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1430,230,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,47
+2009-10,2010-02-25,926585,254,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1388,Duke,1417,217,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,14.75,398429,NA,NA,0,Duke,Duke,48
+2009-10,2010-02-25,926585,255,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,26,2,1662,Tulsa,1417,217,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,48
+2009-10,2010-02-25,926585,257,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,28,0,1662,Tulsa,1394,194,23, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.3,12.65,513458,NA,NA,0,Tulsa,Tulsa,49
+2009-10,2010-02-25,926585,262,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,28,0,NA,NA,1390,190,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,263,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,28,0,1388,Duke,1390,190,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,49
+2009-10,2010-02-25,926585,264,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,28,0,1662,Tulsa,1390,190,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,49
+2009-10,2010-02-25,926585,265,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,28,28,0,1388,Duke,1390,190,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,49
+2009-10,2010-02-25,926585,267,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1388,Duke,1377,177,13, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,36.8,19.349999999999994,329889,NA,NA,0,Duke,Tulsa,50
+2009-10,2010-02-25,926585,269,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1357,157,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,27.15,399813,NA,NA,0,Tulsa,Tulsa,51
+2009-10,2010-02-25,926585,272,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1351,151,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17.2,27.85,513458,NA,NA,0,Tulsa,Tulsa,51
+2009-10,2010-02-25,926585,273,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1351,151,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,51
+2009-10,2010-02-25,926585,274,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1336,136,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,6.25,399814,NA,NA,0,Tulsa,Tulsa,51
+2009-10,2010-02-25,926585,275,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1336,136,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,51
+2009-10,2010-02-25,926585,277,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,30,28,2,1662,Tulsa,1316,116,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,11.25,513458,NA,NA,0,Tulsa,Duke,51
+2009-10,2010-02-25,926585,279,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,30,28,2,1388,Duke,1316,116,0,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,285,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,30,28,2,1388,Duke,1298,98,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,22,17.650000000000006,329889,NA,NA,0,Duke,Duke,52
+2009-10,2010-02-25,926585,286,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,30,28,2,1388,Duke,1298,98,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2009-10,2010-02-25,926585,289,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,30,28,2,1662,Tulsa,1296,96,2,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2009-10,2010-02-25,926585,290,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,31,28,3,1388,Duke,1296,96,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2009-10,2010-02-25,926585,291,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,28,4,1388,Duke,1296,96,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,52
+2009-10,2010-02-25,926585,293,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1662,Tulsa,1282,82,14, makes a jump shot from 20 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,42.5,14.15,399813,NA,NA,0,Tulsa,Duke,53
+2009-10,2010-02-25,926585,297,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1388,Duke,1248,48,34, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,19.349999999999994,398428,NA,NA,0,Duke,Duke,54
+2009-10,2010-02-25,926585,298,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1662,Tulsa,1248,48,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,54
+2009-10,2010-02-25,926585,300,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1662,Tulsa,1222,22,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,297331,NA,NA,0,Tulsa,Tulsa,55
+2009-10,2010-02-25,926585,301,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1388,Duke,1222,22,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,55
+2009-10,2010-02-25,926585,302,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,32,30,2,1662,Tulsa,1222,22,0,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,56
+2009-10,2010-02-25,926585,303,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,33,30,3,1388,Duke,1222,22,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,56
+2009-10,2010-02-25,926585,304,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,34,30,4,1388,Duke,1222,22,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,57
+2009-10,2010-02-25,926585,306,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,34,30,4,1388,Duke,1200,0,22, misses a 3-point jump shot from 31 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,30.549999999999997,398428,NA,NA,0,Duke,Tulsa,58
+2009-10,2010-02-25,926585,308,0,1,Duke,Tulsa,Blue Devils,Golden Hurricane,3,3,34,30,4,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,320,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,30,4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulsa,59
+2009-10,2010-02-25,926585,326,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,32,2,1662,Tulsa,1184,1184,16, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329511,NA,NA,0,Tulsa,Duke,60
+2009-10,2010-02-25,926585,329,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,32,2,1388,Duke,1161,1161,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,61
+2009-10,2010-02-25,926585,330,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,32,2,1662,Tulsa,1161,1161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,61
+2009-10,2010-02-25,926585,332,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,32,2,1388,Duke,1160,1160,1,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,62
+2009-10,2010-02-25,926585,333,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,33,1,1662,Tulsa,1160,1160,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,62
+2009-10,2010-02-25,926585,334,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,34,34,0,1662,Tulsa,1160,1160,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,62
+2009-10,2010-02-25,926585,338,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,36,34,2,1388,Duke,1146,1146,14, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.7,7.549999999999997,329891,NA,NA,0,Duke,Duke,63
+2009-10,2010-02-25,926585,339,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,36,34,2,1662,Tulsa,1145,1145,1,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,63
+2009-10,2010-02-25,926585,340,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,36,34,2,1388,Duke,1145,1145,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,63
+2009-10,2010-02-25,926585,341,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,36,34,2,1662,Tulsa,1145,1145,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,63
+2009-10,2010-02-25,926585,343,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,38,34,4,1388,Duke,1121,1121,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Tulsa,64
+2009-10,2010-02-25,926585,344,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,38,34,4,1662,Tulsa,1110,1110,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,6.25,399813,NA,NA,0,Tulsa,Duke,65
+2009-10,2010-02-25,926585,355,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,38,34,4,1662,Tulsa,1084,1084,26,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,66
+2009-10,2010-02-25,926585,356,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,39,34,5,1388,Duke,1084,1084,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,66
+2009-10,2010-02-25,926585,357,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1388,Duke,1084,1084,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,67
+2009-10,2010-02-25,926585,360,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1662,Tulsa,1076,1076,8, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.300000000000001,7.75,399813,NA,NA,0,Tulsa,Tulsa,68
+2009-10,2010-02-25,926585,361,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1388,Duke,1076,1076,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,68
+2009-10,2010-02-25,926585,362,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1388,Duke,1061,1061,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,32,17.849999999999994,329889,NA,NA,0,Duke,Duke,69
+2009-10,2010-02-25,926585,363,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1388,Duke,1061,1061,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,69
+2009-10,2010-02-25,926585,369,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1662,Tulsa,1060,1060,1,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,69
+2009-10,2010-02-25,926585,371,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1662,Tulsa,1032,1032,28, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,7.95,399814,NA,NA,0,Tulsa,Duke,69
+2009-10,2010-02-25,926585,374,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,40,34,6,1662,Tulsa,1026,1026,6,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,70
+2009-10,2010-02-25,926585,376,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,42,34,8,1388,Duke,1020,1020,6, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,24.3,22.25,398429,NA,NA,0,Duke,Tulsa,70
+2009-10,2010-02-25,926585,379,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,4,45,34,11,1388,Duke,966,966,54, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.5,19.950000000000003,329889,NA,NA,0,Duke,Tulsa,71
+2009-10,2010-02-25,926585,380,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,45,34,11,1662,Tulsa,961,961,5,Golden Hurricane take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,382,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,45,36,9,1662,Tulsa,933,933,28, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,38.2,8.95,329513,NA,NA,0,Tulsa,Duke,72
+2009-10,2010-02-25,926585,387,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,45,36,9,1662,Tulsa,926,926,7,Technical foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2009-10,2010-02-25,926585,388,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,45,36,9,NA,NA,926,926,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,389,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,46,36,10,1388,Duke,926,926,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2009-10,2010-02-25,926585,390,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1388,Duke,926,926,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,73
+2009-10,2010-02-25,926585,394,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,920,920,6,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,74
+2009-10,2010-02-25,926585,396,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1388,Duke,902,902,18, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,8.950000000000003,398429,NA,NA,0,Duke,Duke,74
+2009-10,2010-02-25,926585,397,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,902,902,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,74
+2009-10,2010-02-25,926585,402,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,874,874,28, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7.300000000000001,16.45,329513,NA,NA,0,Tulsa,Tulsa,75
+2009-10,2010-02-25,926585,403,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1388,Duke,874,874,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,75
+2009-10,2010-02-25,926585,404,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,874,874,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329513,NA,NA,0,Tulsa,Tulsa,76
+2009-10,2010-02-25,926585,407,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,868,868,6, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,7.95,329513,NA,NA,0,Tulsa,Tulsa,76
+2009-10,2010-02-25,926585,408,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,868,868,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,76
+2009-10,2010-02-25,926585,416,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1388,Duke,867,867,1,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,76
+2009-10,2010-02-25,926585,417,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,36,11,1662,Tulsa,867,867,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,76
+2009-10,2010-02-25,926585,419,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,47,37,10,1662,Tulsa,867,867,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,76
+2009-10,2010-02-25,926585,421,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,50,37,13,1388,Duke,856,856,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.5,22.049999999999997,329889,NA,NA,0,Duke,Tulsa,77
+2009-10,2010-02-25,926585,422,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,37,15,1388,Duke,811,811,45, makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,25.2,13.75,467271,NA,NA,0,Duke,Tulsa,78
+2009-10,2010-02-25,926585,423,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,37,15,1662,Tulsa,797,797,14, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,16.65,513459,NA,NA,0,Tulsa,Tulsa,79
+2009-10,2010-02-25,926585,424,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,37,15,1388,Duke,797,797,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,79
+2009-10,2010-02-25,926585,426,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,37,15,1388,Duke,772,772,25, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,7.950000000000003,329889,NA,NA,0,Duke,Tulsa,80
+2009-10,2010-02-25,926585,434,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,37,15,1662,Tulsa,748,748,24, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40,6.75,399813,NA,NA,0,Tulsa,Tulsa,81
+2009-10,2010-02-25,926585,439.5,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,39,13,1662,Tulsa,732,732,16, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28.7,10.25,329511,NA,NA,0,Tulsa,Duke,81
+2009-10,2010-02-25,926585,449,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,1662,Tulsa,732,732,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,82
+2009-10,2010-02-25,926585,450,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,1388,Duke,732,732,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,82
+2009-10,2010-02-25,926585,454,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,1388,Duke,712,712,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,18.25,398428,NA,NA,0,Duke,Duke,82
+2009-10,2010-02-25,926585,455,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,1662,Tulsa,712,712,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,82
+2009-10,2010-02-25,926585,458,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,NA,NA,705,705,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,459,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,52,40,12,1662,Tulsa,705,705,0,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,83
+2009-10,2010-02-25,926585,469,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1388,Duke,705,705,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,83
+2009-10,2010-02-25,926585,470,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1388,Duke,705,705,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,83
+2009-10,2010-02-25,926585,482,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1662,Tulsa,683,683,22, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,8.75,297331,NA,NA,0,Tulsa,Duke,84
+2009-10,2010-02-25,926585,485,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1388,Duke,683,683,0, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,13.349999999999994,398428,NA,NA,0,Duke,Duke,85
+2009-10,2010-02-25,926585,488,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1662,Tulsa,677,677,6,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,85
+2009-10,2010-02-25,926585,489,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,53,40,13,1388,Duke,677,677,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,85
+2009-10,2010-02-25,926585,491,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,54,40,14,1388,Duke,677,677,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,85
+2009-10,2010-02-25,926585,493,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,54,40,14,1662,Tulsa,659,659,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26,29.45,399813,NA,NA,0,Tulsa,Tulsa,86
+2009-10,2010-02-25,926585,494,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,54,40,14,1388,Duke,659,659,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,86
+2009-10,2010-02-25,926585,496,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,54,40,14,1388,Duke,636,636,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,87
+2009-10,2010-02-25,926585,497,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,54,40,14,1388,Duke,636,636,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2009-10,2010-02-25,926585,498,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,55,40,15,1388,Duke,636,636,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2009-10,2010-02-25,926585,499,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,56,40,16,1388,Duke,636,636,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2009-10,2010-02-25,926585,500,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,56,40,16,1662,Tulsa,636,636,0,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2009-10,2010-02-25,926585,536,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,56,40,16,1662,Tulsa,579,579,57, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464850,NA,NA,0,Tulsa,Tulsa,87
+2009-10,2010-02-25,926585,537,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,56,40,16,1388,Duke,579,579,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,87
+2009-10,2010-02-25,926585,538,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1388,Duke,569,569,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Tulsa,88
+2009-10,2010-02-25,926585,539,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1662,Tulsa,560,560,9, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,9.65,329511,NA,NA,0,Tulsa,Tulsa,89
+2009-10,2010-02-25,926585,540,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1388,Duke,560,560,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,89
+2009-10,2010-02-25,926585,541,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1388,Duke,547,547,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,5.849999999999994,518947,NA,NA,0,Duke,Duke,90
+2009-10,2010-02-25,926585,542,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1388,Duke,547,547,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,90
+2009-10,2010-02-25,926585,548,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,58,40,18,1662,Tulsa,541,541,6,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,90
+2009-10,2010-02-25,926585,549,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,59,40,19,1388,Duke,541,541,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,90
+2009-10,2010-02-25,926585,550,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,40,20,1388,Duke,541,541,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,90
+2009-10,2010-02-25,926585,563,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,40,20,1388,Duke,517,517,24, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16.299999999999997,11.25,398429,NA,NA,0,Duke,Tulsa,91
+2009-10,2010-02-25,926585,566,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,40,20,1388,Duke,510,510,7,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,92
+2009-10,2010-02-25,926585,568,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,42,18,1662,Tulsa,494,494,16, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,24.5,8.95,329511,NA,NA,0,Tulsa,Duke,92
+2009-10,2010-02-25,926585,569,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,42,18,1388,Duke,473,473,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510790,NA,NA,0,Duke,Duke,93
+2009-10,2010-02-25,926585,570,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,42,18,1662,Tulsa,473,473,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,93
+2009-10,2010-02-25,926585,575,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,42,18,1388,Duke,463,463,10,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,94
+2009-10,2010-02-25,926585,576,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,42,18,NA,NA,463,463,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,577,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,43,17,1662,Tulsa,463,463,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,94
+2009-10,2010-02-25,926585,578,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,60,44,16,1662,Tulsa,463,463,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,94
+2009-10,2010-02-25,926585,580,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,441,441,22, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.8,11.450000000000003,329891,NA,NA,0,Duke,Tulsa,95
+2009-10,2010-02-25,926585,581,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1662,Tulsa,411,411,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513458,NA,NA,0,Tulsa,Tulsa,96
+2009-10,2010-02-25,926585,582,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,411,411,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,96
+2009-10,2010-02-25,926585,583,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,376,376,35, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,20,19.549999999999997,329889,NA,NA,0,Duke,Duke,97
+2009-10,2010-02-25,926585,584,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1662,Tulsa,376,376,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,97
+2009-10,2010-02-25,926585,585,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1662,Tulsa,369,369,7, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25,16.65,329513,NA,NA,0,Tulsa,Tulsa,98
+2009-10,2010-02-25,926585,586,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,369,369,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,98
+2009-10,2010-02-25,926585,588,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,332,332,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,99
+2009-10,2010-02-25,926585,589,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,3,62,44,18,1388,Duke,332,332,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,99
+2009-10,2010-02-25,926585,590,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,44,18,1662,Tulsa,332,332,0,Golden Hurricane take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,594,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,44,18,1388,Duke,317,317,15,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,99
+2009-10,2010-02-25,926585,595,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,45,17,1662,Tulsa,317,317,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,99
+2009-10,2010-02-25,926585,596,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1662,Tulsa,317,317,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,99
+2009-10,2010-02-25,926585,598,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1388,Duke,300,300,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.299999999999997,4.650000000000006,398429,NA,NA,0,Duke,Duke,100
+2009-10,2010-02-25,926585,599,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1388,Duke,300,300,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,100
+2009-10,2010-02-25,926585,600,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1388,Duke,273,273,27, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,24.950000000000003,398428,NA,NA,0,Duke,Duke,100
+2009-10,2010-02-25,926585,601,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1662,Tulsa,273,273,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,100
+2009-10,2010-02-25,926585,602,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1662,Tulsa,258,258,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,11.05,399814,NA,NA,0,Tulsa,Tulsa,101
+2009-10,2010-02-25,926585,603,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,62,46,16,1388,Duke,258,258,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,101
+2009-10,2010-02-25,926585,604,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,4,2,64,46,18,1388,Duke,246,246,12, makes a jump shot from 21 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16,23.849999999999994,398428,NA,NA,0,Duke,Tulsa,102
+2009-10,2010-02-25,926585,606,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,46,18,1388,Duke,241,241,5,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,609,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,46,18,1662,Tulsa,227,227,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,10.85,329511,NA,NA,0,Tulsa,Tulsa,103
+2009-10,2010-02-25,926585,610,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,46,18,1388,Duke,227,227,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,103
+2009-10,2010-02-25,926585,611,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,46,18,1388,Duke,204,204,23, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,11.25,510790,NA,NA,0,Duke,Duke,104
+2009-10,2010-02-25,926585,612,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,46,18,1662,Tulsa,204,204,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,104
+2009-10,2010-02-25,926585,615,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,1662,Tulsa,195,195,9, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,24.3,7.95,513459,NA,NA,0,Tulsa,Tulsa,105
+2009-10,2010-02-25,926585,616,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,1388,Duke,195,195,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,105
+2009-10,2010-02-25,926585,617,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,NA,NA,195,195,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,619,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,1662,Tulsa,195,195,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,105
+2009-10,2010-02-25,926585,620,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,1388,Duke,195,195,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,105
+2009-10,2010-02-25,926585,627,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,64,48,16,1662,Tulsa,167,167,28,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,106
+2009-10,2010-02-25,926585,628,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,65,48,17,1388,Duke,167,167,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,106
+2009-10,2010-02-25,926585,629,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,3,2,66,48,18,1388,Duke,167,167,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,106
+2009-10,2010-02-25,926585,640,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,66,48,18,1388,Duke,117,117,50,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,642,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,68,48,20,1388,Duke,117,117,0, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,19.8,16.650000000000006,398429,NA,NA,0,Duke,Tulsa,107
+2009-10,2010-02-25,926585,644,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,69,48,21,1388,Duke,112,112,5, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,108
+2009-10,2010-02-25,926585,647,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,69,50,19,1662,Tulsa,105,105,7, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,23,9.35,399814,NA,NA,0,Tulsa,Duke,109
+2009-10,2010-02-25,926585,650,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,69,50,19,1662,Tulsa,101,101,4,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,110
+2009-10,2010-02-25,926585,662,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,69,50,19,1662,Tulsa,75,75,26,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,110
+2009-10,2010-02-25,926585,663,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,69,50,19,1388,Duke,75,75,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,110
+2009-10,2010-02-25,926585,665,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,50,20,1388,Duke,75,75,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Tulsa,110
+2009-10,2010-02-25,926585,670,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,50,20,1388,Duke,69,69,6,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,111
+2009-10,2010-02-25,926585,671,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,51,19,1662,Tulsa,69,69,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,111
+2009-10,2010-02-25,926585,672,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,1662,Tulsa,69,69,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,112
+2009-10,2010-02-25,926585,675,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,1388,Duke,40,40,29, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,10.25,518947,NA,NA,0,Duke,Tulsa,113
+2009-10,2010-02-25,926585,679,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,1662,Tulsa,25,25,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,20.35,464846,NA,NA,0,Tulsa,Tulsa,114
+2009-10,2010-02-25,926585,680,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,1388,Duke,25,25,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Duke,114
+2009-10,2010-02-25,926585,681,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,NA,NA,0,0,25,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-25,926585,682,0,2,Duke,Tulsa,Blue Devils,Golden Hurricane,2,2,70,52,18,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,NA

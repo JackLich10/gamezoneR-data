@@ -1,0 +1,295 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-30,1006575,1,0,1,Syracuse,Cornell,Orange,Big Red,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Syracuse,NA
+2010-11,2010-11-30,1006575,4,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,0,2,1633,Syracuse,2388,1188,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552006,NA,NA,0,Syracuse,Cornell,1
+2010-11,2010-11-30,1006575,5,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,2,0,1365,Cornell,2370,1170,18, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,507787,NA,NA,0,Cornell,Syracuse,2
+2010-11,2010-11-30,1006575,7,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,2,0,1633,Syracuse,2355,1155,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,463070,NA,NA,0,Syracuse,Syracuse,3
+2010-11,2010-11-30,1006575,8,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,2,0,1633,Syracuse,2355,1155,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,3
+2010-11,2010-11-30,1006575,11,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,2,0,1365,Cornell,2352,1152,3,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,3
+2010-11,2010-11-30,1006575,12,0,1,Syracuse,Cornell,Orange,Big Red,4,4,2,2,0,1633,Syracuse,2352,1152,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,3
+2010-11,2010-11-30,1006575,15,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2352,1152,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,3
+2010-11,2010-11-30,1006575,18,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1365,Cornell,2341,1141,11, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,18.05,507787,NA,NA,0,Cornell,Cornell,4
+2010-11,2010-11-30,1006575,19,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2341,1141,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,4
+2010-11,2010-11-30,1006575,20,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1365,Cornell,2341,1141,0,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,5
+2010-11,2010-11-30,1006575,23,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2326,1126,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,18.950000000000003,513430,NA,NA,0,Syracuse,Syracuse,5
+2010-11,2010-11-30,1006575,24,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2326,1126,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,5
+2010-11,2010-11-30,1006575,29,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2321,1121,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402383,NA,NA,0,Syracuse,Syracuse,5
+2010-11,2010-11-30,1006575,30,0,1,Syracuse,Cornell,Orange,Big Red,4,4,3,2,1,1633,Syracuse,2321,1121,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,5
+2010-11,2010-11-30,1006575,32,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,2,3,1633,Syracuse,2319,1119,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402383,NA,NA,0,Syracuse,Cornell,5
+2010-11,2010-11-30,1006575,55,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,2,3,1633,Syracuse,2305,1105,14,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,6
+2010-11,2010-11-30,1006575,56,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,3,2,1365,Cornell,2305,1105,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,6
+2010-11,2010-11-30,1006575,57,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,3,2,1365,Cornell,2305,1105,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,6
+2010-11,2010-11-30,1006575,58,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,3,2,1365,Cornell,2305,1105,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,6
+2010-11,2010-11-30,1006575,73,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,3,2,1365,Cornell,2282,1082,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45,12.75,458991,NA,NA,0,Cornell,Cornell,6
+2010-11,2010-11-30,1006575,74,0,1,Syracuse,Cornell,Orange,Big Red,4,4,5,3,2,1633,Syracuse,2282,1082,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,6
+2010-11,2010-11-30,1006575,75,0,1,Syracuse,Cornell,Orange,Big Red,4,4,7,3,4,1633,Syracuse,2275,1075,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,463070,NA,NA,0,Syracuse,Cornell,7
+2010-11,2010-11-30,1006575,83,0,1,Syracuse,Cornell,Orange,Big Red,4,4,7,3,4,1365,Cornell,2248,1048,27,Offensive foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,8
+2010-11,2010-11-30,1006575,86,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2245,1045,3, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.2,30.049999999999997,463070,NA,NA,0,Syracuse,Cornell,9
+2010-11,2010-11-30,1006575,87,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2206,1006,39, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,6.25,458991,NA,NA,0,Cornell,Cornell,10
+2010-11,2010-11-30,1006575,88,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2206,1006,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,10
+2010-11,2010-11-30,1006575,89,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2201,1001,5, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,26.5,6.95,349863,NA,NA,0,Cornell,Cornell,10
+2010-11,2010-11-30,1006575,90,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2201,1001,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,10
+2010-11,2010-11-30,1006575,92,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2179,979,22, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,18,16.450000000000003,552007,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,93,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2179,979,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,98,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2175,975,4,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,99,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2175,975,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,104,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1365,Cornell,2170,970,5,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,115,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2152,952,18, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,5.799999999999997,7.75,463070,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,116,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2152,952,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,117,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,NA,NA,2152,952,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,119,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2149,949,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552006,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,120,0,1,Syracuse,Cornell,Orange,Big Red,4,4,10,3,7,1633,Syracuse,2149,949,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,11
+2010-11,2010-11-30,1006575,121,0,1,Syracuse,Cornell,Orange,Big Red,4,4,12,3,9,1633,Syracuse,2136,936,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402383,NA,NA,0,Syracuse,Cornell,11
+2010-11,2010-11-30,1006575,123,0,1,Syracuse,Cornell,Orange,Big Red,4,4,12,3,9,1365,Cornell,2113,913,23, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.7,18.75,465071,NA,NA,0,Cornell,Cornell,12
+2010-11,2010-11-30,1006575,124,0,1,Syracuse,Cornell,Orange,Big Red,4,4,12,3,9,1365,Cornell,2113,913,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,12
+2010-11,2010-11-30,1006575,126,0,1,Syracuse,Cornell,Orange,Big Red,4,4,12,3,9,1365,Cornell,2090,890,23, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,17.7,16.25,397624,NA,NA,0,Cornell,Syracuse,12
+2010-11,2010-11-30,1006575,128,0,1,Syracuse,Cornell,Orange,Big Red,4,4,15,3,12,1633,Syracuse,2073,873,17, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.700000000000003,22.849999999999994,552007,NA,NA,0,Syracuse,Cornell,13
+2010-11,2010-11-30,1006575,129,0,1,Syracuse,Cornell,Orange,Big Red,4,4,15,5,10,1365,Cornell,2058,858,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,349863,NA,NA,0,Cornell,Syracuse,14
+2010-11,2010-11-30,1006575,142,0,1,Syracuse,Cornell,Orange,Big Red,4,4,15,5,10,1633,Syracuse,2038,838,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,14.549999999999997,402384,NA,NA,0,Syracuse,Syracuse,15
+2010-11,2010-11-30,1006575,143,0,1,Syracuse,Cornell,Orange,Big Red,4,4,15,5,10,1365,Cornell,2038,838,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,15
+2010-11,2010-11-30,1006575,154,0,1,Syracuse,Cornell,Orange,Big Red,4,4,15,7,8,1365,Cornell,2009,809,29, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9.3,6.45,465071,NA,NA,0,Cornell,Syracuse,16
+2010-11,2010-11-30,1006575,155,0,1,Syracuse,Cornell,Orange,Big Red,4,4,17,7,10,1633,Syracuse,1992,792,17, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,552006,NA,NA,0,Syracuse,Cornell,17
+2010-11,2010-11-30,1006575,171,0,1,Syracuse,Cornell,Orange,Big Red,4,4,17,7,10,1633,Syracuse,1958,758,34,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,173,0,1,Syracuse,Cornell,Orange,Big Red,4,4,17,7,10,1365,Cornell,1943,743,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,22.05,397624,NA,NA,0,Cornell,Cornell,18
+2010-11,2010-11-30,1006575,174,0,1,Syracuse,Cornell,Orange,Big Red,4,4,17,7,10,1633,Syracuse,1943,743,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,18
+2010-11,2010-11-30,1006575,175,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1633,Syracuse,1936,736,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,463070,NA,NA,0,Syracuse,Cornell,19
+2010-11,2010-11-30,1006575,181,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1365,Cornell,1898,698,38, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,16,20.75,349863,NA,NA,0,Cornell,Cornell,20
+2010-11,2010-11-30,1006575,182,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1633,Syracuse,1898,698,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,20
+2010-11,2010-11-30,1006575,183,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1365,Cornell,1898,698,0,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,21
+2010-11,2010-11-30,1006575,184,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,NA,NA,1898,698,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,185,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1365,Cornell,1898,698,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,187,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1633,Syracuse,1890,690,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,7.75,402384,NA,NA,0,Syracuse,Syracuse,21
+2010-11,2010-11-30,1006575,188,0,1,Syracuse,Cornell,Orange,Big Red,4,4,19,7,12,1365,Cornell,1890,690,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,21
+2010-11,2010-11-30,1006575,189,0,1,Syracuse,Cornell,Orange,Big Red,4,4,21,7,14,1633,Syracuse,1866,666,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402383,NA,NA,0,Syracuse,Cornell,22
+2010-11,2010-11-30,1006575,190,0,1,Syracuse,Cornell,Orange,Big Red,4,4,21,7,14,1365,Cornell,1833,633,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458991,NA,NA,0,Cornell,Cornell,23
+2010-11,2010-11-30,1006575,191,0,1,Syracuse,Cornell,Orange,Big Red,4,4,21,7,14,1633,Syracuse,1833,633,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,23
+2010-11,2010-11-30,1006575,202,0,1,Syracuse,Cornell,Orange,Big Red,4,4,23,7,16,1633,Syracuse,1816,616,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,463070,NA,NA,0,Syracuse,Cornell,24
+2010-11,2010-11-30,1006575,203,0,1,Syracuse,Cornell,Orange,Big Red,4,3,23,7,16,1365,Cornell,1816,616,0,Big Red take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,205,0,1,Syracuse,Cornell,Orange,Big Red,4,3,26,7,19,1633,Syracuse,1782,582,34, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.299999999999997,10.650000000000006,463068,NA,NA,0,Syracuse,Cornell,25
+2010-11,2010-11-30,1006575,212,0,1,Syracuse,Cornell,Orange,Big Red,4,3,26,7,19,1365,Cornell,1749,549,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,12.65,458991,NA,NA,0,Cornell,Cornell,26
+2010-11,2010-11-30,1006575,213,0,1,Syracuse,Cornell,Orange,Big Red,4,3,26,7,19,1633,Syracuse,1749,549,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,26
+2010-11,2010-11-30,1006575,217,0,1,Syracuse,Cornell,Orange,Big Red,4,3,28,7,21,1633,Syracuse,1741,541,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513430,NA,NA,0,Syracuse,Cornell,27
+2010-11,2010-11-30,1006575,219,0,1,Syracuse,Cornell,Orange,Big Red,4,3,28,7,21,1365,Cornell,1739,539,2,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,28
+2010-11,2010-11-30,1006575,220,0,1,Syracuse,Cornell,Orange,Big Red,4,3,28,7,21,1633,Syracuse,1739,539,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,28
+2010-11,2010-11-30,1006575,222,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1739,539,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,28
+2010-11,2010-11-30,1006575,224,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1365,Cornell,1719,519,20, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,18.95,507782,NA,NA,0,Cornell,Cornell,29
+2010-11,2010-11-30,1006575,225,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1719,519,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,29
+2010-11,2010-11-30,1006575,230,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1365,Cornell,1708,508,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,232,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1365,Cornell,1666,466,42, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,22.2,32.35,397624,NA,NA,0,Cornell,Cornell,30
+2010-11,2010-11-30,1006575,233,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1666,466,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,30
+2010-11,2010-11-30,1006575,234,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1655,455,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552005,NA,NA,0,Syracuse,Syracuse,31
+2010-11,2010-11-30,1006575,235,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1365,Cornell,1655,455,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,31
+2010-11,2010-11-30,1006575,242,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1643,443,12,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,32
+2010-11,2010-11-30,1006575,243,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,NA,NA,1643,443,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,260,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,7,22,1633,Syracuse,1643,443,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,261,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,8,21,1365,Cornell,1643,443,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,32
+2010-11,2010-11-30,1006575,262,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,9,20,1365,Cornell,1643,443,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,32
+2010-11,2010-11-30,1006575,264,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,9,20,1633,Syracuse,1619,419,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42,20.25,463068,NA,NA,0,Syracuse,Syracuse,33
+2010-11,2010-11-30,1006575,265,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,9,20,1633,Syracuse,1619,419,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,33
+2010-11,2010-11-30,1006575,267,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,9,20,1633,Syracuse,1610,410,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,12.25,513429,NA,NA,0,Syracuse,Cornell,33
+2010-11,2010-11-30,1006575,273,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,9,20,1633,Syracuse,1608,408,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,275,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1365,Cornell,1595,395,13, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,14.8,6.65,507787,NA,NA,0,Cornell,Syracuse,34
+2010-11,2010-11-30,1006575,308,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1544,344,51, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24,16.049999999999997,552005,NA,NA,0,Syracuse,Syracuse,35
+2010-11,2010-11-30,1006575,310,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1365,Cornell,1536,336,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,312,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1533,333,3, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,26.75,513430,NA,NA,0,Syracuse,Syracuse,35
+2010-11,2010-11-30,1006575,313,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1533,333,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,35
+2010-11,2010-11-30,1006575,315,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1517,317,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,22.25,463068,NA,NA,0,Syracuse,Syracuse,35
+2010-11,2010-11-30,1006575,316,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1365,Cornell,1517,317,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,35
+2010-11,2010-11-30,1006575,318,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1515,315,2,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,36
+2010-11,2010-11-30,1006575,319,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1365,Cornell,1515,315,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,36
+2010-11,2010-11-30,1006575,321,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,11,18,1633,Syracuse,1515,315,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,322,0,1,Syracuse,Cornell,Orange,Big Red,4,3,29,12,17,1365,Cornell,1515,315,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,36
+2010-11,2010-11-30,1006575,324,0,1,Syracuse,Cornell,Orange,Big Red,4,3,32,12,20,1633,Syracuse,1502,302,13, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.5,19.549999999999997,552007,NA,NA,0,Syracuse,Cornell,37
+2010-11,2010-11-30,1006575,326,0,1,Syracuse,Cornell,Orange,Big Red,4,3,32,12,20,1365,Cornell,1475,275,27,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,339,0,1,Syracuse,Cornell,Orange,Big Red,4,3,32,12,20,1633,Syracuse,1461,261,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,341,0,1,Syracuse,Cornell,Orange,Big Red,4,3,32,15,17,1365,Cornell,1454,254,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,48,4.25,507787,NA,NA,0,Cornell,Syracuse,38
+2010-11,2010-11-30,1006575,355,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1633,Syracuse,1449,249,5,Orange take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,359,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1633,Syracuse,1448,248,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,361,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1365,Cornell,1425,225,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,13.3,26.95,507774,NA,NA,0,Cornell,Cornell,39
+2010-11,2010-11-30,1006575,362,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1633,Syracuse,1425,225,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,39
+2010-11,2010-11-30,1006575,363,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1633,Syracuse,1411,211,14, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,28.2,11.849999999999994,402383,NA,NA,0,Syracuse,Syracuse,40
+2010-11,2010-11-30,1006575,364,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1365,Cornell,1411,211,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,40
+2010-11,2010-11-30,1006575,365,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1365,Cornell,1401,201,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,16.85,507785,NA,NA,0,Cornell,Cornell,41
+2010-11,2010-11-30,1006575,366,0,1,Syracuse,Cornell,Orange,Big Red,3,3,32,15,17,1633,Syracuse,1401,201,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,41
+2010-11,2010-11-30,1006575,368,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1633,Syracuse,1380,180,21, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,35,13.549999999999997,402383,NA,NA,0,Syracuse,Cornell,42
+2010-11,2010-11-30,1006575,377,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1633,Syracuse,1371,171,9,Personal foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,43
+2010-11,2010-11-30,1006575,378,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,NA,NA,1371,171,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,379,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1365,Cornell,1371,171,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,380,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1633,Syracuse,1371,171,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,382,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1365,Cornell,1346,146,25, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,24.55,507774,NA,NA,0,Cornell,Cornell,43
+2010-11,2010-11-30,1006575,383,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1633,Syracuse,1346,146,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,43
+2010-11,2010-11-30,1006575,389,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1365,Cornell,1322,122,24,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,44
+2010-11,2010-11-30,1006575,390,0,1,Syracuse,Cornell,Orange,Big Red,3,3,34,15,19,1365,Cornell,1322,122,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,391,0,1,Syracuse,Cornell,Orange,Big Red,3,3,35,15,20,1633,Syracuse,1322,122,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,44
+2010-11,2010-11-30,1006575,392,0,1,Syracuse,Cornell,Orange,Big Red,3,3,36,15,21,1633,Syracuse,1322,122,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,44
+2010-11,2010-11-30,1006575,394,0,1,Syracuse,Cornell,Orange,Big Red,3,3,36,15,21,1365,Cornell,1304,104,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,21.65,465071,NA,NA,0,Cornell,Cornell,45
+2010-11,2010-11-30,1006575,395,0,1,Syracuse,Cornell,Orange,Big Red,3,3,36,15,21,1365,Cornell,1304,104,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,45
+2010-11,2010-11-30,1006575,396,0,1,Syracuse,Cornell,Orange,Big Red,3,3,36,15,21,1365,Cornell,1294,94,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,22.8,30.25,465071,NA,NA,0,Cornell,Cornell,45
+2010-11,2010-11-30,1006575,397,0,1,Syracuse,Cornell,Orange,Big Red,3,3,36,15,21,1633,Syracuse,1294,94,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,45
+2010-11,2010-11-30,1006575,398,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,15,23,1633,Syracuse,1284,84,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,463070,NA,NA,0,Syracuse,Cornell,46
+2010-11,2010-11-30,1006575,399,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,15,23,1365,Cornell,1274,74,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.800000000000001,6.75,349863,NA,NA,0,Cornell,Cornell,47
+2010-11,2010-11-30,1006575,400,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,15,23,1633,Syracuse,1274,74,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,47
+2010-11,2010-11-30,1006575,405,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,15,23,1633,Syracuse,1265,65,9,Offensive foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,48
+2010-11,2010-11-30,1006575,408,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,15,23,1633,Syracuse,1260,60,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,410,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1365,Cornell,1253,53,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,507787,NA,NA,0,Cornell,Syracuse,49
+2010-11,2010-11-30,1006575,411,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1633,Syracuse,1224,24,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,10.650000000000006,463070,NA,NA,0,Syracuse,Syracuse,50
+2010-11,2010-11-30,1006575,412,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1365,Cornell,1224,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,50
+2010-11,2010-11-30,1006575,419,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1633,Syracuse,1205,5,19,Personal foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,51
+2010-11,2010-11-30,1006575,420,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1633,Syracuse,1205,5,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,422,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1365,Cornell,1203,3,2, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,16.2,20.55,507782,NA,NA,0,Cornell,Cornell,51
+2010-11,2010-11-30,1006575,423,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,1633,Syracuse,1203,3,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,51
+2010-11,2010-11-30,1006575,424,0,1,Syracuse,Cornell,Orange,Big Red,3,3,38,17,21,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,425,0,2,Syracuse,Cornell,Orange,Big Red,4,4,38,17,21,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Cornell,52
+2010-11,2010-11-30,1006575,427,0,2,Syracuse,Cornell,Orange,Big Red,4,4,38,17,21,1365,Cornell,1182,1182,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,507787,NA,NA,0,Cornell,Cornell,53
+2010-11,2010-11-30,1006575,428,0,2,Syracuse,Cornell,Orange,Big Red,4,4,38,17,21,1633,Syracuse,1182,1182,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,53
+2010-11,2010-11-30,1006575,429,0,2,Syracuse,Cornell,Orange,Big Red,4,4,38,20,18,1365,Cornell,1158,1158,24, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46,19.25,458991,NA,NA,0,Cornell,Syracuse,54
+2010-11,2010-11-30,1006575,430,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1633,Syracuse,1142,1142,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402383,NA,NA,0,Syracuse,Cornell,55
+2010-11,2010-11-30,1006575,433,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1633,Syracuse,1126,1126,16, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,10.700000000000003,7.349999999999994,513430,NA,NA,0,Syracuse,Syracuse,56
+2010-11,2010-11-30,1006575,434,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1365,Cornell,1126,1126,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,56
+2010-11,2010-11-30,1006575,436,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1365,Cornell,1123,1123,3, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,20.75,349863,NA,NA,0,Cornell,Cornell,57
+2010-11,2010-11-30,1006575,437,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1633,Syracuse,1123,1123,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,57
+2010-11,2010-11-30,1006575,439,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1365,Cornell,1118,1118,5,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,58
+2010-11,2010-11-30,1006575,443,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1633,Syracuse,1090,1090,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28,11.049999999999997,463070,NA,NA,0,Syracuse,Syracuse,58
+2010-11,2010-11-30,1006575,444,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,20,20,1365,Cornell,1090,1090,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,58
+2010-11,2010-11-30,1006575,445,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,23,17,1365,Cornell,1084,1084,6, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.5,6.75,458991,NA,NA,0,Cornell,Syracuse,59
+2010-11,2010-11-30,1006575,446,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,23,17,1633,Syracuse,1072,1072,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,6.950000000000003,513430,NA,NA,0,Syracuse,Syracuse,60
+2010-11,2010-11-30,1006575,447,0,2,Syracuse,Cornell,Orange,Big Red,4,4,40,23,17,1633,Syracuse,1072,1072,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,60
+2010-11,2010-11-30,1006575,448,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1633,Syracuse,1065,1065,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552006,NA,NA,0,Syracuse,Cornell,60
+2010-11,2010-11-30,1006575,449,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1365,Cornell,1052,1052,13, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,27,31.95,458991,NA,NA,0,Cornell,Cornell,61
+2010-11,2010-11-30,1006575,450,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1633,Syracuse,1052,1052,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,61
+2010-11,2010-11-30,1006575,451,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1365,Cornell,1032,1032,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,19.75,465071,NA,NA,0,Cornell,Cornell,62
+2010-11,2010-11-30,1006575,452,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1365,Cornell,1032,1032,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,62
+2010-11,2010-11-30,1006575,454,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1365,Cornell,1022,1022,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,21.35,458991,NA,NA,0,Cornell,Cornell,62
+2010-11,2010-11-30,1006575,455,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1633,Syracuse,1022,1022,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,62
+2010-11,2010-11-30,1006575,464,0,2,Syracuse,Cornell,Orange,Big Red,4,4,42,23,19,1365,Cornell,1013,1013,9,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,63
+2010-11,2010-11-30,1006575,465,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,23,20,1633,Syracuse,1013,1013,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,63
+2010-11,2010-11-30,1006575,466,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,23,20,1633,Syracuse,1013,1013,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,63
+2010-11,2010-11-30,1006575,467,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,23,20,1365,Cornell,1013,1013,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,63
+2010-11,2010-11-30,1006575,471,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,23,20,1633,Syracuse,999,999,14,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,64
+2010-11,2010-11-30,1006575,472,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,24,19,1365,Cornell,999,999,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,64
+2010-11,2010-11-30,1006575,473,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,25,18,1365,Cornell,999,999,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,64
+2010-11,2010-11-30,1006575,474,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,25,18,1365,Cornell,999,999,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,476,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,25,18,1633,Syracuse,994,994,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402383,NA,NA,0,Syracuse,Syracuse,65
+2010-11,2010-11-30,1006575,477,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,25,18,1365,Cornell,994,994,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,65
+2010-11,2010-11-30,1006575,479,0,2,Syracuse,Cornell,Orange,Big Red,4,4,43,27,16,1365,Cornell,972,972,22, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,14.2,14.95,465071,NA,NA,0,Cornell,Syracuse,66
+2010-11,2010-11-30,1006575,486,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,27,16,1633,Syracuse,962,962,10,Orange take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,487,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,27,16,1633,Syracuse,962,962,0,Technical foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,67
+2010-11,2010-11-30,1006575,488,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,28,15,1365,Cornell,962,962,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,68
+2010-11,2010-11-30,1006575,489,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,29,14,1365,Cornell,962,962,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,69
+2010-11,2010-11-30,1006575,498,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,29,14,NA,NA,947,947,15,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,505,0,2,Syracuse,Cornell,Orange,Big Red,3,4,43,31,12,1365,Cornell,914,914,33, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,411285,NA,NA,0,Cornell,Syracuse,70
+2010-11,2010-11-30,1006575,507,0,2,Syracuse,Cornell,Orange,Big Red,3,4,46,31,15,1633,Syracuse,900,900,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.5,13.549999999999997,463070,NA,NA,0,Syracuse,Cornell,71
+2010-11,2010-11-30,1006575,508,0,2,Syracuse,Cornell,Orange,Big Red,3,4,46,33,13,1365,Cornell,880,880,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,349863,NA,NA,0,Cornell,Syracuse,72
+2010-11,2010-11-30,1006575,509,0,2,Syracuse,Cornell,Orange,Big Red,3,4,46,33,13,1633,Syracuse,857,857,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.7,29.049999999999997,463070,NA,NA,0,Syracuse,Syracuse,73
+2010-11,2010-11-30,1006575,510,0,2,Syracuse,Cornell,Orange,Big Red,3,4,46,33,13,1365,Cornell,857,857,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,73
+2010-11,2010-11-30,1006575,524,0,2,Syracuse,Cornell,Orange,Big Red,3,4,46,35,11,1365,Cornell,835,835,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,507787,NA,NA,0,Cornell,Syracuse,74
+2010-11,2010-11-30,1006575,525,0,2,Syracuse,Cornell,Orange,Big Red,2,4,46,35,11,1633,Syracuse,835,835,0,Orange take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,531,0,2,Syracuse,Cornell,Orange,Big Red,2,4,48,35,13,1633,Syracuse,822,822,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402383,NA,NA,0,Syracuse,Syracuse,75
+2010-11,2010-11-30,1006575,532,0,2,Syracuse,Cornell,Orange,Big Red,2,4,48,35,13,1365,Cornell,822,822,0,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,75
+2010-11,2010-11-30,1006575,533,0,2,Syracuse,Cornell,Orange,Big Red,2,4,49,35,14,1633,Syracuse,822,822,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,75
+2010-11,2010-11-30,1006575,534,0,2,Syracuse,Cornell,Orange,Big Red,2,4,49,35,14,1365,Cornell,822,822,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,536,0,2,Syracuse,Cornell,Orange,Big Red,2,4,49,38,11,1365,Cornell,807,807,15, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.5,25.35,458991,NA,NA,0,Cornell,Syracuse,76
+2010-11,2010-11-30,1006575,538,0,2,Syracuse,Cornell,Orange,Big Red,2,4,51,38,13,1633,Syracuse,783,783,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552004,NA,NA,0,Syracuse,Syracuse,77
+2010-11,2010-11-30,1006575,545,0,2,Syracuse,Cornell,Orange,Big Red,2,4,51,38,13,1365,Cornell,777,777,6,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,77
+2010-11,2010-11-30,1006575,546,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,38,14,1633,Syracuse,777,777,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,77
+2010-11,2010-11-30,1006575,548,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1365,Cornell,755,755,22, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,42.2,7.35,410547,NA,NA,0,Cornell,Syracuse,78
+2010-11,2010-11-30,1006575,549,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1633,Syracuse,742,742,13, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,31.950000000000003,402384,NA,NA,0,Syracuse,Syracuse,79
+2010-11,2010-11-30,1006575,550,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1633,Syracuse,742,742,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,79
+2010-11,2010-11-30,1006575,551,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1633,Syracuse,734,734,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402384,NA,NA,0,Syracuse,Syracuse,79
+2010-11,2010-11-30,1006575,552,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1365,Cornell,734,734,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,79
+2010-11,2010-11-30,1006575,561,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1365,Cornell,721,721,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,563,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1365,Cornell,719,719,2, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,22,15.35,410547,NA,NA,0,Cornell,Cornell,80
+2010-11,2010-11-30,1006575,564,0,2,Syracuse,Cornell,Orange,Big Red,2,4,52,40,12,1633,Syracuse,719,719,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,80
+2010-11,2010-11-30,1006575,565,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,40,15,1633,Syracuse,703,703,16, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.5,19.349999999999994,552007,NA,NA,0,Syracuse,Cornell,81
+2010-11,2010-11-30,1006575,569,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,40,15,1633,Syracuse,670,670,33,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,82
+2010-11,2010-11-30,1006575,570,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,40,15,NA,NA,670,670,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,571,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,41,14,1365,Cornell,670,670,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,82
+2010-11,2010-11-30,1006575,572,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,42,13,1365,Cornell,670,670,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,82
+2010-11,2010-11-30,1006575,578,0,2,Syracuse,Cornell,Orange,Big Red,2,4,55,42,13,1365,Cornell,656,656,14,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,83
+2010-11,2010-11-30,1006575,579,0,2,Syracuse,Cornell,Orange,Big Red,2,4,56,42,14,1633,Syracuse,656,656,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,83
+2010-11,2010-11-30,1006575,580,0,2,Syracuse,Cornell,Orange,Big Red,2,4,56,42,14,1633,Syracuse,656,656,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,83
+2010-11,2010-11-30,1006575,581,0,2,Syracuse,Cornell,Orange,Big Red,2,4,56,42,14,1633,Syracuse,656,656,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,83
+2010-11,2010-11-30,1006575,583,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,655,655,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,463070,NA,NA,0,Syracuse,Cornell,83
+2010-11,2010-11-30,1006575,592,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,641,641,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,597,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,631,631,10, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,6.65,507782,NA,NA,0,Cornell,Syracuse,84
+2010-11,2010-11-30,1006575,600,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,620,620,11, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,24.75,552007,NA,NA,0,Syracuse,Syracuse,85
+2010-11,2010-11-30,1006575,601,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,620,620,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,85
+2010-11,2010-11-30,1006575,607,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,603,603,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,19.15,507787,NA,NA,0,Cornell,Cornell,86
+2010-11,2010-11-30,1006575,608,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,603,603,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,86
+2010-11,2010-11-30,1006575,615,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,590,590,13,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,87
+2010-11,2010-11-30,1006575,616,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,590,590,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,87
+2010-11,2010-11-30,1006575,618,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,590,590,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,87
+2010-11,2010-11-30,1006575,619,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,590,590,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,87
+2010-11,2010-11-30,1006575,621,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,570,570,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,9.849999999999994,402384,NA,NA,0,Syracuse,Syracuse,88
+2010-11,2010-11-30,1006575,622,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,570,570,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,88
+2010-11,2010-11-30,1006575,623,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,553,553,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,19.95,507787,NA,NA,0,Cornell,Cornell,89
+2010-11,2010-11-30,1006575,624,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,553,553,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,89
+2010-11,2010-11-30,1006575,631,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,505,505,48, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44,22.25,465071,NA,NA,0,Cornell,Cornell,90
+2010-11,2010-11-30,1006575,632,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,505,505,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,90
+2010-11,2010-11-30,1006575,633,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,484,484,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,507782,NA,NA,0,Cornell,Cornell,91
+2010-11,2010-11-30,1006575,634,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1633,Syracuse,484,484,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,91
+2010-11,2010-11-30,1006575,641,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,1365,Cornell,472,472,12,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,92
+2010-11,2010-11-30,1006575,642,0,2,Syracuse,Cornell,Orange,Big Red,2,4,58,42,16,NA,NA,472,472,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,646,0,2,Syracuse,Cornell,Orange,Big Red,2,4,60,42,18,1633,Syracuse,458,458,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513430,NA,NA,0,Syracuse,Cornell,92
+2010-11,2010-11-30,1006575,649,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1633,Syracuse,422,422,36, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,552005,NA,NA,0,Syracuse,Syracuse,93
+2010-11,2010-11-30,1006575,650,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,422,422,0,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,93
+2010-11,2010-11-30,1006575,651,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1633,Syracuse,422,422,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,93
+2010-11,2010-11-30,1006575,652,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,422,422,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,93
+2010-11,2010-11-30,1006575,655,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,405,405,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,21.65,458991,NA,NA,0,Cornell,Syracuse,94
+2010-11,2010-11-30,1006575,662,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,397,397,8,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,95
+2010-11,2010-11-30,1006575,663,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1633,Syracuse,397,397,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,95
+2010-11,2010-11-30,1006575,664,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,397,397,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,95
+2010-11,2010-11-30,1006575,666,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,371,371,26, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,21.35,458991,NA,NA,0,Cornell,Cornell,96
+2010-11,2010-11-30,1006575,667,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,371,371,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,96
+2010-11,2010-11-30,1006575,668,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1365,Cornell,356,356,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.8,19.95,465071,NA,NA,0,Cornell,Cornell,96
+2010-11,2010-11-30,1006575,669,0,2,Syracuse,Cornell,Orange,Big Red,2,4,62,42,20,1633,Syracuse,356,356,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,96
+2010-11,2010-11-30,1006575,671,0,2,Syracuse,Cornell,Orange,Big Red,2,4,64,42,22,1633,Syracuse,345,345,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,402383,NA,NA,0,Syracuse,Cornell,97
+2010-11,2010-11-30,1006575,674,0,2,Syracuse,Cornell,Orange,Big Red,2,4,64,42,22,1365,Cornell,335,335,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7,20.75,397624,NA,NA,0,Cornell,Cornell,98
+2010-11,2010-11-30,1006575,675,0,2,Syracuse,Cornell,Orange,Big Red,2,4,64,42,22,1633,Syracuse,335,335,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,98
+2010-11,2010-11-30,1006575,681,0,2,Syracuse,Cornell,Orange,Big Red,2,4,64,42,22,1365,Cornell,325,325,10,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,99
+2010-11,2010-11-30,1006575,682,0,2,Syracuse,Cornell,Orange,Big Red,2,4,65,42,23,1633,Syracuse,325,325,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,99
+2010-11,2010-11-30,1006575,683,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1633,Syracuse,325,325,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,99
+2010-11,2010-11-30,1006575,684,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1365,Cornell,325,325,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,685,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1633,Syracuse,325,325,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,686,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1633,Syracuse,325,325,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,689,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1365,Cornell,313,313,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,507774,NA,NA,0,Cornell,Cornell,100
+2010-11,2010-11-30,1006575,690,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,42,24,1365,Cornell,313,313,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,100
+2010-11,2010-11-30,1006575,692,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,44,22,1365,Cornell,312,312,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,349863,NA,NA,0,Cornell,Cornell,100
+2010-11,2010-11-30,1006575,693,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,44,22,1633,Syracuse,312,312,0,Shooting foul committed by Orange.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,100
+2010-11,2010-11-30,1006575,694,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,45,21,1365,Cornell,312,312,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,100
+2010-11,2010-11-30,1006575,705,0,2,Syracuse,Cornell,Orange,Big Red,2,4,66,45,21,1633,Syracuse,293,293,19, misses a 3-point jump shot from 62 feet out.,missed,FALSE,TRUE,Jump Shot,13,27.75,513429,NA,NA,0,Syracuse,Syracuse,101
+2010-11,2010-11-30,1006575,711,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,45,23,1633,Syracuse,274,274,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513429,NA,NA,0,Syracuse,Cornell,101
+2010-11,2010-11-30,1006575,727,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,48,20,1365,Cornell,256,256,18, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.2,18.45,397624,NA,NA,0,Cornell,Syracuse,102
+2010-11,2010-11-30,1006575,728,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,48,20,1633,Syracuse,256,256,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14.299999999999997,27.849999999999994,463068,NA,NA,0,Syracuse,Syracuse,103
+2010-11,2010-11-30,1006575,729,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,48,20,1365,Cornell,256,256,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,103
+2010-11,2010-11-30,1006575,749,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,48,20,1365,Cornell,237,237,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.7,25.95,397624,NA,NA,0,Cornell,Cornell,104
+2010-11,2010-11-30,1006575,750,0,2,Syracuse,Cornell,Orange,Big Red,2,4,68,48,20,1633,Syracuse,237,237,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,104
+2010-11,2010-11-30,1006575,761,0,2,Syracuse,Cornell,Orange,Big Red,2,4,70,48,22,1633,Syracuse,227,227,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513430,NA,NA,0,Syracuse,Syracuse,105
+2010-11,2010-11-30,1006575,762,0,2,Syracuse,Cornell,Orange,Big Red,2,4,70,48,22,1365,Cornell,227,227,0,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,105
+2010-11,2010-11-30,1006575,763,0,2,Syracuse,Cornell,Orange,Big Red,2,4,70,48,22,NA,NA,227,227,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,764,0,2,Syracuse,Cornell,Orange,Big Red,2,4,71,48,23,1633,Syracuse,227,227,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,105
+2010-11,2010-11-30,1006575,766,0,2,Syracuse,Cornell,Orange,Big Red,2,4,71,48,23,1365,Cornell,214,214,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,8.15,411285,NA,NA,0,Cornell,Cornell,106
+2010-11,2010-11-30,1006575,767,0,2,Syracuse,Cornell,Orange,Big Red,2,4,71,48,23,1633,Syracuse,214,214,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,106
+2010-11,2010-11-30,1006575,768,0,2,Syracuse,Cornell,Orange,Big Red,2,4,73,48,25,1633,Syracuse,202,202,12, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,26.2,9.849999999999994,513430,NA,NA,0,Syracuse,Cornell,107
+2010-11,2010-11-30,1006575,776,0,2,Syracuse,Cornell,Orange,Big Red,2,4,73,48,25,1365,Cornell,166,166,36,Personal foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,108
+2010-11,2010-11-30,1006575,777,0,2,Syracuse,Cornell,Orange,Big Red,2,4,74,48,26,1633,Syracuse,166,166,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,108
+2010-11,2010-11-30,1006575,778,0,2,Syracuse,Cornell,Orange,Big Red,2,4,74,48,26,1633,Syracuse,166,166,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,108
+2010-11,2010-11-30,1006575,779,0,2,Syracuse,Cornell,Orange,Big Red,2,4,74,48,26,1365,Cornell,166,166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,108
+2010-11,2010-11-30,1006575,781,0,2,Syracuse,Cornell,Orange,Big Red,2,4,74,51,23,1365,Cornell,164,164,2, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37,26.95,397624,NA,NA,0,Cornell,Syracuse,109
+2010-11,2010-11-30,1006575,810,0,2,Syracuse,Cornell,Orange,Big Red,2,4,74,51,23,1365,Cornell,114,114,50,Shooting foul committed by Big Red.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,110
+2010-11,2010-11-30,1006575,811,0,2,Syracuse,Cornell,Orange,Big Red,2,4,75,51,24,1633,Syracuse,114,114,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,110
+2010-11,2010-11-30,1006575,812,0,2,Syracuse,Cornell,Orange,Big Red,2,4,76,51,25,1633,Syracuse,114,114,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,110
+2010-11,2010-11-30,1006575,814,0,2,Syracuse,Cornell,Orange,Big Red,2,4,76,51,25,1365,Cornell,90,90,24, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25,13.15,507782,NA,NA,0,Cornell,Cornell,111
+2010-11,2010-11-30,1006575,815,0,2,Syracuse,Cornell,Orange,Big Red,2,4,76,51,25,1633,Syracuse,90,90,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Syracuse,111
+2010-11,2010-11-30,1006575,816,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,51,27,1633,Syracuse,77,77,13, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.5,14.349999999999994,513429,NA,NA,0,Syracuse,Cornell,112
+2010-11,2010-11-30,1006575,817,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,54,24,1365,Cornell,69,69,8, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,6.699999999999999,23.65,536845,NA,NA,0,Cornell,Syracuse,113
+2010-11,2010-11-30,1006575,818,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1365,Cornell,49,49,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,397624,NA,NA,0,Cornell,Syracuse,114
+2010-11,2010-11-30,1006575,826,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1633,Syracuse,43,43,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,827,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1633,Syracuse,43,43,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-30,1006575,830,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1633,Syracuse,34,34,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,525039,NA,NA,0,Syracuse,Syracuse,115
+2010-11,2010-11-30,1006575,833,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1633,Syracuse,22,22,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,6.25,463068,NA,NA,0,Syracuse,Syracuse,115
+2010-11,2010-11-30,1006575,834,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1365,Cornell,22,22,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Cornell,115
+2010-11,2010-11-30,1006575,835,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1365,Cornell,13,13,9, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37,6.65,567120,NA,NA,0,Cornell,Cornell,116
+2010-11,2010-11-30,1006575,836,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,56,22,1365,Cornell,13,13,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Cornell,Cornell,116
+2010-11,2010-11-30,1006575,837,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,58,20,1365,Cornell,0,0,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,507776,NA,NA,0,Cornell,Syracuse,116
+2010-11,2010-11-30,1006575,840,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,58,20,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-30,1006575,841,0,2,Syracuse,Cornell,Orange,Big Red,2,4,78,58,20,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Syracuse,Syracuse,NA

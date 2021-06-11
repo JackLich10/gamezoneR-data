@@ -1,0 +1,223 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-16,918765,1,0,1,South Florida,UCF,Bulls,Knights,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,South Florida,NA
+2009-10,2009-12-16,918765,3,0,1,South Florida,UCF,Bulls,Knights,4,4,3,0,3,1612,South Florida,2372,1172,28, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.7,23.450000000000003,297856,NA,NA,0,South Florida,UCF,1
+2009-10,2009-12-16,918765,4,0,1,South Florida,UCF,Bulls,Knights,4,4,3,2,1,1344,UCF,2346,1146,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,South Florida,2
+2009-10,2009-12-16,918765,6,0,1,South Florida,UCF,Bulls,Knights,4,4,3,2,1,1344,UCF,2308,1108,38,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,3
+2009-10,2009-12-16,918765,7,0,1,South Florida,UCF,Bulls,Knights,4,4,4,2,2,1612,South Florida,2308,1108,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,3
+2009-10,2009-12-16,918765,8,0,1,South Florida,UCF,Bulls,Knights,4,4,5,2,3,1612,South Florida,2308,1108,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,3
+2009-10,2009-12-16,918765,10,0,1,South Florida,UCF,Bulls,Knights,4,4,5,4,1,1344,UCF,2283,1083,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458975,NA,NA,0,UCF,South Florida,4
+2009-10,2009-12-16,918765,11,0,1,South Florida,UCF,Bulls,Knights,4,4,7,4,3,1612,South Florida,2258,1058,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399661,NA,NA,0,South Florida,UCF,5
+2009-10,2009-12-16,918765,12,0,1,South Florida,UCF,Bulls,Knights,4,4,7,4,3,1612,South Florida,2240,1040,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,399661,NA,NA,0,South Florida,South Florida,6
+2009-10,2009-12-16,918765,13,0,1,South Florida,UCF,Bulls,Knights,4,4,9,4,5,1612,South Florida,2234,1034,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295396,NA,NA,0,South Florida,UCF,6
+2009-10,2009-12-16,918765,14,0,1,South Florida,UCF,Bulls,Knights,4,4,9,4,5,1344,UCF,2213,1013,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,UCF,7
+2009-10,2009-12-16,918765,15,0,1,South Florida,UCF,Bulls,Knights,4,4,9,4,5,1344,UCF,2206,1006,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458977,NA,NA,0,UCF,UCF,7
+2009-10,2009-12-16,918765,21,0,1,South Florida,UCF,Bulls,Knights,4,4,9,6,3,1344,UCF,2196,996,10, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,30.8,6.75,512166,NA,NA,0,UCF,South Florida,7
+2009-10,2009-12-16,918765,22,0,1,South Florida,UCF,Bulls,Knights,4,4,9,6,3,1344,UCF,2156,956,40, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30.7,30.05,512166,NA,NA,0,UCF,South Florida,8
+2009-10,2009-12-16,918765,23,0,1,South Florida,UCF,Bulls,Knights,4,4,9,6,3,1612,South Florida,2149,949,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,18.450000000000003,399661,NA,NA,0,South Florida,UCF,9
+2009-10,2009-12-16,918765,24,0,1,South Florida,UCF,Bulls,Knights,4,4,9,8,1,1344,UCF,2143,943,6, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.3,7.35,512166,NA,NA,0,UCF,South Florida,10
+2009-10,2009-12-16,918765,25,0,1,South Florida,UCF,Bulls,Knights,4,4,11,8,3,1612,South Florida,2135,935,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399661,NA,NA,0,South Florida,UCF,11
+2009-10,2009-12-16,918765,26,0,1,South Florida,UCF,Bulls,Knights,4,4,11,8,3,1344,UCF,2120,920,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,South Florida,12
+2009-10,2009-12-16,918765,28,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1612,South Florida,2115,915,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,505056,NA,NA,0,South Florida,South Florida,13
+2009-10,2009-12-16,918765,29,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2115,915,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,13
+2009-10,2009-12-16,918765,30,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,NA,NA,2115,915,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,32,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1612,South Florida,2115,915,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,13
+2009-10,2009-12-16,918765,34,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2107,907,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.8,24.75,458975,NA,NA,0,UCF,South Florida,14
+2009-10,2009-12-16,918765,36,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2088,888,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,37,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2088,888,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,38,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2088,888,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,39,0,1,South Florida,UCF,Bulls,Knights,4,4,13,8,5,1344,UCF,2088,888,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,41,0,1,South Florida,UCF,Bulls,Knights,4,4,15,8,7,1612,South Florida,2079,879,9, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,25,12.75,505056,NA,NA,0,South Florida,UCF,15
+2009-10,2009-12-16,918765,42,0,1,South Florida,UCF,Bulls,Knights,4,4,15,11,4,1344,UCF,2048,848,31, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40.8,23.05,512157,NA,NA,0,UCF,South Florida,16
+2009-10,2009-12-16,918765,44,0,1,South Florida,UCF,Bulls,Knights,4,4,15,11,4,1612,South Florida,2024,824,24,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,46,0,1,South Florida,UCF,Bulls,Knights,4,4,15,11,4,1612,South Florida,2023,823,1, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,5.849999999999994,297856,NA,NA,0,South Florida,South Florida,17
+2009-10,2009-12-16,918765,48,0,1,South Florida,UCF,Bulls,Knights,4,4,15,11,4,1344,UCF,2018,818,5,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,17
+2009-10,2009-12-16,918765,53,0,1,South Florida,UCF,Bulls,Knights,4,4,16,11,5,1612,South Florida,1978,778,40, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,17
+2009-10,2009-12-16,918765,54,0,1,South Florida,UCF,Bulls,Knights,4,4,17,11,6,1612,South Florida,1978,778,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,17
+2009-10,2009-12-16,918765,55,0,1,South Florida,UCF,Bulls,Knights,4,4,17,11,6,1344,UCF,1978,778,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,17
+2009-10,2009-12-16,918765,59,0,1,South Florida,UCF,Bulls,Knights,4,4,17,13,4,1344,UCF,1969,769,9, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,19.5,16.85,458978,NA,NA,0,UCF,South Florida,17
+2009-10,2009-12-16,918765,60,0,1,South Florida,UCF,Bulls,Knights,4,4,17,13,4,1612,South Florida,1953,753,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.7,26.349999999999994,399661,NA,NA,0,South Florida,South Florida,18
+2009-10,2009-12-16,918765,61,0,1,South Florida,UCF,Bulls,Knights,4,4,17,13,4,1612,South Florida,1948,748,5, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27,7.150000000000006,505056,NA,NA,0,South Florida,South Florida,18
+2009-10,2009-12-16,918765,62,0,1,South Florida,UCF,Bulls,Knights,4,4,17,13,4,1612,South Florida,1938,738,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505059,NA,NA,0,South Florida,South Florida,18
+2009-10,2009-12-16,918765,65,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1612,South Florida,1932,732,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,297856,NA,NA,0,South Florida,UCF,18
+2009-10,2009-12-16,918765,66,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1927,727,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329495,NA,NA,0,UCF,South Florida,19
+2009-10,2009-12-16,918765,68,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1913,713,14,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,20
+2009-10,2009-12-16,918765,69,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,NA,NA,1913,713,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,70,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1612,South Florida,1913,713,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,20
+2009-10,2009-12-16,918765,71,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1612,South Florida,1913,713,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,20
+2009-10,2009-12-16,918765,74,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1612,South Florida,1906,706,7,Personal foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,21
+2009-10,2009-12-16,918765,76,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1899,699,7, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,9.85,512157,NA,NA,0,UCF,South Florida,21
+2009-10,2009-12-16,918765,78,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1894,694,5,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,22
+2009-10,2009-12-16,918765,80,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1870,670,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458977,NA,NA,0,UCF,UCF,22
+2009-10,2009-12-16,918765,81,0,1,South Florida,UCF,Bulls,Knights,4,4,19,13,6,1344,UCF,1839,639,31, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,13.55,458977,NA,NA,0,UCF,UCF,22
+2009-10,2009-12-16,918765,83,0,1,South Florida,UCF,Bulls,Knights,4,4,19,15,4,1344,UCF,1830,630,9, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,31.2,7.75,512157,NA,NA,0,UCF,UCF,22
+2009-10,2009-12-16,918765,84,0,1,South Florida,UCF,Bulls,Knights,4,4,19,15,4,1612,South Florida,1830,630,0,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,22
+2009-10,2009-12-16,918765,85,0,1,South Florida,UCF,Bulls,Knights,4,4,19,16,3,1344,UCF,1830,630,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,22
+2009-10,2009-12-16,918765,88,0,1,South Florida,UCF,Bulls,Knights,4,4,19,16,3,1344,UCF,1829,629,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,90,0,1,South Florida,UCF,Bulls,Knights,4,4,19,16,3,1612,South Florida,1811,611,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295396,NA,NA,0,South Florida,UCF,23
+2009-10,2009-12-16,918765,91,0,1,South Florida,UCF,Bulls,Knights,4,4,19,18,1,1344,UCF,1795,595,16, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,29,7.35,330456,NA,NA,0,UCF,South Florida,24
+2009-10,2009-12-16,918765,92,0,1,South Florida,UCF,Bulls,Knights,4,4,19,18,1,1344,UCF,1771,571,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483160,NA,NA,0,UCF,South Florida,25
+2009-10,2009-12-16,918765,93,0,1,South Florida,UCF,Bulls,Knights,4,4,19,18,1,1612,South Florida,1734,534,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23,29.450000000000003,505059,NA,NA,0,South Florida,UCF,26
+2009-10,2009-12-16,918765,97,0,1,South Florida,UCF,Bulls,Knights,4,4,19,18,1,1344,UCF,1709,509,25, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,14.35,330456,NA,NA,0,UCF,South Florida,27
+2009-10,2009-12-16,918765,99,0,1,South Florida,UCF,Bulls,Knights,4,4,21,18,3,1612,South Florida,1694,494,15, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,20.2,11.450000000000003,399661,NA,NA,0,South Florida,South Florida,28
+2009-10,2009-12-16,918765,100,0,1,South Florida,UCF,Bulls,Knights,4,4,21,18,3,1344,UCF,1694,494,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,28
+2009-10,2009-12-16,918765,101,0,1,South Florida,UCF,Bulls,Knights,4,4,21,18,3,1612,South Florida,1694,494,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,102,0,1,South Florida,UCF,Bulls,Knights,4,4,22,18,4,1612,South Florida,1694,494,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,28
+2009-10,2009-12-16,918765,104,0,1,South Florida,UCF,Bulls,Knights,4,4,22,18,4,1344,UCF,1676,476,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.1999999999999993,6.05,458977,NA,NA,0,UCF,South Florida,29
+2009-10,2009-12-16,918765,107,0,1,South Florida,UCF,Bulls,Knights,4,4,22,18,4,NA,NA,1672,472,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,109,0,1,South Florida,UCF,Bulls,Knights,4,4,25,18,7,1612,South Florida,1661,461,11, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.200000000000003,22.25,399661,NA,NA,0,South Florida,UCF,30
+2009-10,2009-12-16,918765,113,0,1,South Florida,UCF,Bulls,Knights,4,4,25,18,7,1612,South Florida,1599,399,62, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17.299999999999997,29.25,505054,NA,NA,0,South Florida,UCF,31
+2009-10,2009-12-16,918765,116,0,1,South Florida,UCF,Bulls,Knights,4,4,25,18,7,1344,UCF,1582,382,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,14.55,458975,NA,NA,0,UCF,UCF,32
+2009-10,2009-12-16,918765,119,0,1,South Florida,UCF,Bulls,Knights,4,4,25,19,6,1344,UCF,1580,380,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,32
+2009-10,2009-12-16,918765,120,0,1,South Florida,UCF,Bulls,Knights,4,4,25,20,5,1344,UCF,1580,380,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,32
+2009-10,2009-12-16,918765,121,0,1,South Florida,UCF,Bulls,Knights,4,4,25,20,5,1612,South Florida,1580,380,0,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,32
+2009-10,2009-12-16,918765,123,0,1,South Florida,UCF,Bulls,Knights,4,4,25,20,5,1612,South Florida,1570,370,10, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,23.049999999999997,295396,NA,NA,0,South Florida,South Florida,32
+2009-10,2009-12-16,918765,125,0,1,South Florida,UCF,Bulls,Knights,4,4,25,20,5,1344,UCF,1562,362,8,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,32
+2009-10,2009-12-16,918765,126,0,1,South Florida,UCF,Bulls,Knights,4,4,26,20,6,1612,South Florida,1562,362,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,32
+2009-10,2009-12-16,918765,127,0,1,South Florida,UCF,Bulls,Knights,4,4,27,20,7,1612,South Florida,1562,362,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,33
+2009-10,2009-12-16,918765,130,0,1,South Florida,UCF,Bulls,Knights,4,4,27,20,7,1612,South Florida,1542,342,20,Personal foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,34
+2009-10,2009-12-16,918765,133,0,1,South Florida,UCF,Bulls,Knights,4,4,27,20,7,1612,South Florida,1528,328,14, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,10.450000000000003,505056,NA,NA,0,South Florida,South Florida,34
+2009-10,2009-12-16,918765,136,0,1,South Florida,UCF,Bulls,Knights,4,4,28,20,8,1612,South Florida,1522,322,6, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,34
+2009-10,2009-12-16,918765,137,0,1,South Florida,UCF,Bulls,Knights,4,4,29,20,9,1612,South Florida,1522,322,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,34
+2009-10,2009-12-16,918765,138,0,1,South Florida,UCF,Bulls,Knights,4,4,29,20,9,1344,UCF,1522,322,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,34
+2009-10,2009-12-16,918765,140,0,1,South Florida,UCF,Bulls,Knights,4,4,29,20,9,1612,South Florida,1515,315,7, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,505056,NA,NA,0,South Florida,UCF,34
+2009-10,2009-12-16,918765,146,0,1,South Florida,UCF,Bulls,Knights,4,4,29,20,9,1344,UCF,1496,296,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,147,0,1,South Florida,UCF,Bulls,Knights,4,3,29,20,9,1344,UCF,1496,296,0,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,150,0,1,South Florida,UCF,Bulls,Knights,4,3,29,20,9,1612,South Florida,1491,291,5,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2009-10,2009-12-16,918765,151,0,1,South Florida,UCF,Bulls,Knights,4,3,29,20,9,1344,UCF,1491,291,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,35
+2009-10,2009-12-16,918765,152,0,1,South Florida,UCF,Bulls,Knights,4,3,29,20,9,1612,South Florida,1491,291,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,153,0,1,South Florida,UCF,Bulls,Knights,4,3,29,21,8,1344,UCF,1491,291,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,35
+2009-10,2009-12-16,918765,155,0,1,South Florida,UCF,Bulls,Knights,4,3,29,21,8,1344,UCF,1463,263,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512157,NA,NA,0,UCF,South Florida,36
+2009-10,2009-12-16,918765,156,0,1,South Florida,UCF,Bulls,Knights,4,3,32,21,11,1612,South Florida,1450,250,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,39.5,23.049999999999997,297856,NA,NA,0,South Florida,UCF,37
+2009-10,2009-12-16,918765,157,0,1,South Florida,UCF,Bulls,Knights,4,3,32,21,11,1344,UCF,1423,223,27, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,7.75,512166,NA,NA,0,UCF,South Florida,38
+2009-10,2009-12-16,918765,158,0,1,South Florida,UCF,Bulls,Knights,4,3,34,21,13,1612,South Florida,1417,217,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,505056,NA,NA,0,South Florida,UCF,39
+2009-10,2009-12-16,918765,159,0,1,South Florida,UCF,Bulls,Knights,4,3,34,24,10,1344,UCF,1405,205,12, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46,13.15,458977,NA,NA,0,UCF,South Florida,40
+2009-10,2009-12-16,918765,161,0,1,South Florida,UCF,Bulls,Knights,4,3,34,24,10,1612,South Florida,1375,175,30,Offensive foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,41
+2009-10,2009-12-16,918765,162,0,1,South Florida,UCF,Bulls,Knights,4,3,34,24,10,NA,NA,1375,175,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,168,0,1,South Florida,UCF,Bulls,Knights,4,3,34,27,7,1344,UCF,1326,126,49, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.2,4.85,458977,NA,NA,0,UCF,South Florida,42
+2009-10,2009-12-16,918765,171,0,1,South Florida,UCF,Bulls,Knights,4,3,34,27,7,1344,UCF,1274,74,52, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,24.25,458977,NA,NA,0,UCF,South Florida,43
+2009-10,2009-12-16,918765,172,0,1,South Florida,UCF,Bulls,Knights,4,3,34,27,7,1612,South Florida,1261,61,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,25.75,295396,NA,NA,0,South Florida,UCF,44
+2009-10,2009-12-16,918765,173,0,1,South Florida,UCF,Bulls,Knights,4,3,34,27,7,1344,UCF,1254,54,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329495,NA,NA,0,UCF,South Florida,45
+2009-10,2009-12-16,918765,175,0,1,South Florida,UCF,Bulls,Knights,3,3,34,27,7,1612,South Florida,1229,29,25,Bulls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,177,0,1,South Florida,UCF,Bulls,Knights,3,3,34,27,7,1612,South Florida,1229,29,0, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,34,11.450000000000003,399661,NA,NA,0,South Florida,UCF,46
+2009-10,2009-12-16,918765,180,0,1,South Florida,UCF,Bulls,Knights,3,3,34,27,7,1344,UCF,1200,0,29, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,13.95,329495,NA,NA,0,UCF,South Florida,47
+2009-10,2009-12-16,918765,181,0,1,South Florida,UCF,Bulls,Knights,3,3,34,27,7,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,182,0,2,South Florida,UCF,Bulls,Knights,4,4,34,27,7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,South Florida,48
+2009-10,2009-12-16,918765,186,0,2,South Florida,UCF,Bulls,Knights,4,4,34,27,7,1612,South Florida,1198,1198,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505056,NA,NA,0,South Florida,UCF,49
+2009-10,2009-12-16,918765,189,0,2,South Florida,UCF,Bulls,Knights,4,4,34,27,7,1612,South Florida,1188,1188,10,Personal foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,50
+2009-10,2009-12-16,918765,191,0,2,South Florida,UCF,Bulls,Knights,4,4,34,27,7,1344,UCF,1160,1160,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.2,24.35,330456,NA,NA,0,UCF,UCF,50
+2009-10,2009-12-16,918765,192,0,2,South Florida,UCF,Bulls,Knights,4,4,34,29,5,1344,UCF,1148,1148,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512166,NA,NA,0,UCF,South Florida,50
+2009-10,2009-12-16,918765,193,0,2,South Florida,UCF,Bulls,Knights,4,4,34,29,5,1612,South Florida,1143,1143,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505056,NA,NA,0,South Florida,South Florida,51
+2009-10,2009-12-16,918765,195,0,2,South Florida,UCF,Bulls,Knights,4,4,34,29,5,1612,South Florida,1120,1120,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,24.950000000000003,297856,NA,NA,0,South Florida,South Florida,51
+2009-10,2009-12-16,918765,198,0,2,South Florida,UCF,Bulls,Knights,4,4,36,29,7,1612,South Florida,1115,1115,5, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.8,9.549999999999997,295396,NA,NA,0,South Florida,South Florida,51
+2009-10,2009-12-16,918765,199,0,2,South Florida,UCF,Bulls,Knights,4,4,36,29,7,1344,UCF,1113,1113,2,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,51
+2009-10,2009-12-16,918765,200,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,1113,1113,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,51
+2009-10,2009-12-16,918765,202,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,1096,1096,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,South Florida,52
+2009-10,2009-12-16,918765,205,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,1084,1084,12, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,8.349999999999994,505059,NA,NA,0,South Florida,UCF,53
+2009-10,2009-12-16,918765,206,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,1057,1057,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.8,24.95,458977,NA,NA,0,UCF,South Florida,54
+2009-10,2009-12-16,918765,207,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,1037,1037,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,11.049999999999997,295396,NA,NA,0,South Florida,UCF,55
+2009-10,2009-12-16,918765,213,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,1004,1004,33,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,56
+2009-10,2009-12-16,918765,214,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,1004,1004,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,56
+2009-10,2009-12-16,918765,215,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,1004,1004,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,56
+2009-10,2009-12-16,918765,217,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,980,980,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505056,NA,NA,0,South Florida,South Florida,57
+2009-10,2009-12-16,918765,218,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1612,South Florida,974,974,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,297856,NA,NA,0,South Florida,UCF,57
+2009-10,2009-12-16,918765,220,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,967,967,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483160,NA,NA,0,UCF,South Florida,58
+2009-10,2009-12-16,918765,223,0,2,South Florida,UCF,Bulls,Knights,4,4,37,29,8,1344,UCF,966,966,1,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,59
+2009-10,2009-12-16,918765,224,0,2,South Florida,UCF,Bulls,Knights,4,4,38,29,9,1612,South Florida,966,966,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,59
+2009-10,2009-12-16,918765,225,0,2,South Florida,UCF,Bulls,Knights,4,4,38,29,9,1344,UCF,966,966,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,226,0,2,South Florida,UCF,Bulls,Knights,4,4,38,29,9,1344,UCF,966,966,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,227,0,2,South Florida,UCF,Bulls,Knights,4,4,39,29,10,1612,South Florida,966,966,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,59
+2009-10,2009-12-16,918765,228,0,2,South Florida,UCF,Bulls,Knights,4,4,39,29,10,1612,South Florida,966,966,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,230,0,2,South Florida,UCF,Bulls,Knights,4,4,39,32,7,1344,UCF,955,955,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,4.800000000000001,18.55,512157,NA,NA,0,UCF,South Florida,60
+2009-10,2009-12-16,918765,231,0,2,South Florida,UCF,Bulls,Knights,4,4,42,32,10,1612,South Florida,918,918,37, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,1.2999999999999972,7.349999999999994,487629,NA,NA,0,South Florida,UCF,61
+2009-10,2009-12-16,918765,234,0,2,South Florida,UCF,Bulls,Knights,4,4,42,32,10,1612,South Florida,910,910,8,Personal foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,62
+2009-10,2009-12-16,918765,235,0,2,South Florida,UCF,Bulls,Knights,4,4,42,32,10,NA,NA,910,910,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,239,0,2,South Florida,UCF,Bulls,Knights,4,4,42,32,10,1612,South Florida,863,863,47, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,20.950000000000003,399661,NA,NA,0,South Florida,UCF,62
+2009-10,2009-12-16,918765,242,0,2,South Florida,UCF,Bulls,Knights,4,4,42,34,8,1344,UCF,845,845,18, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,23.3,18.75,330456,NA,NA,0,UCF,South Florida,63
+2009-10,2009-12-16,918765,243,0,2,South Florida,UCF,Bulls,Knights,4,4,42,34,8,1612,South Florida,818,818,27, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.8,5.049999999999997,487629,NA,NA,0,South Florida,UCF,64
+2009-10,2009-12-16,918765,244,0,2,South Florida,UCF,Bulls,Knights,4,4,42,36,6,1344,UCF,808,808,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458978,NA,NA,0,UCF,South Florida,65
+2009-10,2009-12-16,918765,245,0,2,South Florida,UCF,Bulls,Knights,4,4,45,36,9,1612,South Florida,782,782,26, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,26.7,29.650000000000006,399661,NA,NA,0,South Florida,UCF,66
+2009-10,2009-12-16,918765,246,0,2,South Florida,UCF,Bulls,Knights,4,4,45,38,7,1344,UCF,773,773,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458975,NA,NA,0,UCF,South Florida,67
+2009-10,2009-12-16,918765,247,0,2,South Florida,UCF,Bulls,Knights,4,4,47,38,9,1612,South Florida,749,749,24, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.5,14.75,399661,NA,NA,0,South Florida,UCF,68
+2009-10,2009-12-16,918765,248,0,2,South Florida,UCF,Bulls,Knights,4,4,47,40,7,1344,UCF,743,743,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330456,NA,NA,0,UCF,South Florida,69
+2009-10,2009-12-16,918765,249,0,2,South Florida,UCF,Bulls,Knights,4,4,49,40,9,1612,South Florida,721,721,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399661,NA,NA,0,South Florida,UCF,70
+2009-10,2009-12-16,918765,253,0,2,South Florida,UCF,Bulls,Knights,4,4,49,40,9,NA,NA,681,681,40,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,255,0,2,South Florida,UCF,Bulls,Knights,4,4,49,40,9,1612,South Florida,635,635,46, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,505059,NA,NA,0,South Florida,South Florida,71
+2009-10,2009-12-16,918765,257,0,2,South Florida,UCF,Bulls,Knights,4,4,49,40,9,1612,South Florida,629,629,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,29,30.25,399661,NA,NA,0,South Florida,South Florida,71
+2009-10,2009-12-16,918765,258,0,2,South Florida,UCF,Bulls,Knights,4,4,49,40,9,1344,UCF,629,629,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,71
+2009-10,2009-12-16,918765,261,0,2,South Florida,UCF,Bulls,Knights,4,4,50,40,10,1612,South Florida,628,628,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,71
+2009-10,2009-12-16,918765,262,0,2,South Florida,UCF,Bulls,Knights,4,4,51,40,11,1612,South Florida,628,628,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,71
+2009-10,2009-12-16,918765,264,0,2,South Florida,UCF,Bulls,Knights,4,4,51,42,9,1344,UCF,621,621,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512157,NA,NA,0,UCF,South Florida,72
+2009-10,2009-12-16,918765,265,0,2,South Florida,UCF,Bulls,Knights,4,4,53,42,11,1612,South Florida,594,594,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295396,NA,NA,0,South Florida,UCF,73
+2009-10,2009-12-16,918765,267,0,2,South Florida,UCF,Bulls,Knights,4,4,53,42,11,1612,South Florida,570,570,24,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-12-16,918765,268,0,2,South Florida,UCF,Bulls,Knights,4,4,53,43,10,1344,UCF,570,570,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,74
+2009-10,2009-12-16,918765,269,0,2,South Florida,UCF,Bulls,Knights,4,4,53,44,9,1344,UCF,570,570,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,74
+2009-10,2009-12-16,918765,271,0,2,South Florida,UCF,Bulls,Knights,4,4,53,44,9,1612,South Florida,545,545,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.2,26.150000000000006,399661,NA,NA,0,South Florida,UCF,75
+2009-10,2009-12-16,918765,272,0,2,South Florida,UCF,Bulls,Knights,4,4,53,44,9,1344,UCF,525,525,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330456,NA,NA,0,UCF,South Florida,76
+2009-10,2009-12-16,918765,273,0,2,South Florida,UCF,Bulls,Knights,4,4,56,44,12,1612,South Florida,515,515,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.200000000000003,23.450000000000003,399661,NA,NA,0,South Florida,UCF,77
+2009-10,2009-12-16,918765,277,0,2,South Florida,UCF,Bulls,Knights,4,4,56,44,12,NA,NA,505,505,10,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,280,0,2,South Florida,UCF,Bulls,Knights,4,4,56,46,10,1344,UCF,480,480,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330456,NA,NA,0,UCF,UCF,78
+2009-10,2009-12-16,918765,281,0,2,South Florida,UCF,Bulls,Knights,4,4,56,46,10,1612,South Florida,480,480,0,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,78
+2009-10,2009-12-16,918765,282,0,2,South Florida,UCF,Bulls,Knights,4,4,56,46,10,1612,South Florida,480,480,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,283,0,2,South Florida,UCF,Bulls,Knights,4,4,56,46,10,1344,UCF,480,480,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,78
+2009-10,2009-12-16,918765,285,0,2,South Florida,UCF,Bulls,Knights,4,4,56,46,10,1612,South Florida,446,446,34, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,25.549999999999997,297856,NA,NA,0,South Florida,UCF,79
+2009-10,2009-12-16,918765,286,0,2,South Florida,UCF,Bulls,Knights,4,4,56,49,7,1344,UCF,436,436,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.3,6.45,329495,NA,NA,0,UCF,South Florida,80
+2009-10,2009-12-16,918765,288,0,2,South Florida,UCF,Bulls,Knights,4,4,56,49,7,1344,UCF,416,416,20,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,81
+2009-10,2009-12-16,918765,289,0,2,South Florida,UCF,Bulls,Knights,4,4,56,49,7,NA,NA,416,416,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,290,0,2,South Florida,UCF,Bulls,Knights,4,4,57,49,8,1612,South Florida,416,416,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,81
+2009-10,2009-12-16,918765,291,0,2,South Florida,UCF,Bulls,Knights,4,4,58,49,9,1612,South Florida,416,416,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,81
+2009-10,2009-12-16,918765,293,0,2,South Florida,UCF,Bulls,Knights,4,4,58,49,9,1344,UCF,393,393,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512157,NA,NA,0,UCF,UCF,82
+2009-10,2009-12-16,918765,294,0,2,South Florida,UCF,Bulls,Knights,4,4,58,51,7,1344,UCF,389,389,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483160,NA,NA,0,UCF,South Florida,82
+2009-10,2009-12-16,918765,298,0,2,South Florida,UCF,Bulls,Knights,4,4,58,51,7,1344,UCF,383,383,6,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,83
+2009-10,2009-12-16,918765,300,0,2,South Florida,UCF,Bulls,Knights,4,4,58,51,7,1612,South Florida,362,362,21, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,17.299999999999997,21.349999999999994,399661,NA,NA,0,South Florida,South Florida,83
+2009-10,2009-12-16,918765,302,0,2,South Florida,UCF,Bulls,Knights,4,4,60,51,9,1612,South Florida,326,326,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,297856,NA,NA,0,South Florida,South Florida,83
+2009-10,2009-12-16,918765,303,0,2,South Florida,UCF,Bulls,Knights,4,4,60,51,9,1344,UCF,326,326,0,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,83
+2009-10,2009-12-16,918765,304,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1612,South Florida,326,326,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,83
+2009-10,2009-12-16,918765,306,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1344,UCF,307,307,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512166,NA,NA,0,UCF,South Florida,84
+2009-10,2009-12-16,918765,307,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1612,South Florida,299,299,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,297856,NA,NA,0,South Florida,South Florida,85
+2009-10,2009-12-16,918765,309,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1344,UCF,269,269,30,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,85
+2009-10,2009-12-16,918765,310,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1612,South Florida,269,269,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,85
+2009-10,2009-12-16,918765,311,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1344,UCF,269,269,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,312,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1344,UCF,269,269,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,313,0,2,South Florida,UCF,Bulls,Knights,4,4,61,51,10,1344,UCF,269,269,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-16,918765,314,0,2,South Florida,UCF,Bulls,Knights,4,4,62,51,11,1612,South Florida,269,269,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,85
+2009-10,2009-12-16,918765,317,0,2,South Florida,UCF,Bulls,Knights,4,4,62,51,11,1612,South Florida,261,261,8,Personal foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,86
+2009-10,2009-12-16,918765,319,0,2,South Florida,UCF,Bulls,Knights,4,4,62,51,11,1344,UCF,255,255,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458977,NA,NA,0,UCF,South Florida,86
+2009-10,2009-12-16,918765,320,0,2,South Florida,UCF,Bulls,Knights,4,4,62,51,11,1612,South Florida,221,221,34, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,6.950000000000003,295396,NA,NA,0,South Florida,UCF,87
+2009-10,2009-12-16,918765,322,0,2,South Florida,UCF,Bulls,Knights,4,4,62,51,11,NA,NA,215,215,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,324,0,2,South Florida,UCF,Bulls,Knights,4,4,62,54,8,1344,UCF,201,201,14, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,9,23.65,458977,NA,NA,0,UCF,South Florida,88
+2009-10,2009-12-16,918765,325,0,2,South Florida,UCF,Bulls,Knights,4,4,62,54,8,1612,South Florida,163,163,38, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,5.25,505056,NA,NA,0,South Florida,South Florida,89
+2009-10,2009-12-16,918765,328,0,2,South Florida,UCF,Bulls,Knights,4,4,62,54,8,1344,UCF,148,148,15,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,89
+2009-10,2009-12-16,918765,329,0,2,South Florida,UCF,Bulls,Knights,4,4,63,54,9,1612,South Florida,147,147,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,89
+2009-10,2009-12-16,918765,330,0,2,South Florida,UCF,Bulls,Knights,4,4,64,54,10,1612,South Florida,147,147,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,89
+2009-10,2009-12-16,918765,333,0,2,South Florida,UCF,Bulls,Knights,4,4,64,54,10,1612,South Florida,141,141,6,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,90
+2009-10,2009-12-16,918765,334,0,2,South Florida,UCF,Bulls,Knights,4,4,64,55,9,1344,UCF,141,141,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,90
+2009-10,2009-12-16,918765,335,0,2,South Florida,UCF,Bulls,Knights,4,4,64,56,8,1344,UCF,141,141,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,91
+2009-10,2009-12-16,918765,340,0,2,South Florida,UCF,Bulls,Knights,4,3,64,56,8,1344,UCF,119,119,22,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,343,0,2,South Florida,UCF,Bulls,Knights,4,3,64,56,8,1612,South Florida,112,112,7,Shooting foul committed by Bulls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,UCF,91
+2009-10,2009-12-16,918765,344,0,2,South Florida,UCF,Bulls,Knights,4,3,64,57,7,1344,UCF,112,112,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,91
+2009-10,2009-12-16,918765,345,0,2,South Florida,UCF,Bulls,Knights,4,3,64,57,7,1344,UCF,112,112,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCF,South Florida,92
+2009-10,2009-12-16,918765,350,0,2,South Florida,UCF,Bulls,Knights,4,3,64,57,7,1344,UCF,101,101,11,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,93
+2009-10,2009-12-16,918765,351,0,2,South Florida,UCF,Bulls,Knights,4,3,64,57,7,1612,South Florida,101,101,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,93
+2009-10,2009-12-16,918765,356,0,2,South Florida,UCF,Bulls,Knights,4,2,64,57,7,1344,UCF,81,81,20,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,358,0,2,South Florida,UCF,Bulls,Knights,4,2,64,57,7,1344,UCF,79,79,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329495,NA,NA,0,UCF,South Florida,93
+2009-10,2009-12-16,918765,362,0,2,South Florida,UCF,Bulls,Knights,4,2,64,57,7,1344,UCF,57,57,22,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,94
+2009-10,2009-12-16,918765,363,0,2,South Florida,UCF,Bulls,Knights,4,2,64,57,7,1612,South Florida,57,57,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,94
+2009-10,2009-12-16,918765,364,0,2,South Florida,UCF,Bulls,Knights,4,2,65,57,8,1612,South Florida,57,57,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,94
+2009-10,2009-12-16,918765,367,0,2,South Florida,UCF,Bulls,Knights,4,2,65,59,6,1344,UCF,51,51,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458975,NA,NA,0,UCF,South Florida,95
+2009-10,2009-12-16,918765,368,0,2,South Florida,UCF,Bulls,Knights,4,1,65,59,6,1344,UCF,50,50,1,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,371,0,2,South Florida,UCF,Bulls,Knights,4,1,65,59,6,1344,UCF,38,38,12,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,96
+2009-10,2009-12-16,918765,372,0,2,South Florida,UCF,Bulls,Knights,4,1,65,59,6,1612,South Florida,38,38,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,96
+2009-10,2009-12-16,918765,373,0,2,South Florida,UCF,Bulls,Knights,4,1,66,59,7,1612,South Florida,38,38,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,96
+2009-10,2009-12-16,918765,377,0,2,South Florida,UCF,Bulls,Knights,4,1,66,59,7,1344,UCF,28,28,10, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18,14.35,329495,NA,NA,0,UCF,South Florida,97
+2009-10,2009-12-16,918765,379,0,2,South Florida,UCF,Bulls,Knights,4,1,66,59,7,1344,UCF,24,24,4,Personal foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,98
+2009-10,2009-12-16,918765,380,0,2,South Florida,UCF,Bulls,Knights,4,1,66,59,7,1612,South Florida,24,24,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,98
+2009-10,2009-12-16,918765,381,0,2,South Florida,UCF,Bulls,Knights,4,1,67,59,8,1612,South Florida,24,24,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,98
+2009-10,2009-12-16,918765,384,0,2,South Florida,UCF,Bulls,Knights,4,1,67,62,5,1344,UCF,15,15,9, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,7.800000000000001,23.05,329495,NA,NA,0,UCF,South Florida,99
+2009-10,2009-12-16,918765,385,0,2,South Florida,UCF,Bulls,Knights,4,0,67,62,5,1344,UCF,15,15,0,Knights take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,388,0,2,South Florida,UCF,Bulls,Knights,4,0,67,62,5,1344,UCF,8,8,7,Shooting foul committed by Knights.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,100
+2009-10,2009-12-16,918765,389,0,2,South Florida,UCF,Bulls,Knights,4,0,68,62,6,1612,South Florida,8,8,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,100
+2009-10,2009-12-16,918765,390,0,2,South Florida,UCF,Bulls,Knights,4,0,69,62,7,1612,South Florida,8,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,UCF,100
+2009-10,2009-12-16,918765,393,0,2,South Florida,UCF,Bulls,Knights,4,0,69,62,7,1344,UCF,6,6,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458975,NA,NA,0,UCF,UCF,101
+2009-10,2009-12-16,918765,395,0,2,South Florida,UCF,Bulls,Knights,4,0,69,65,4,1344,UCF,6,6,0, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2,5.25,458977,NA,NA,0,UCF,South Florida,101
+2009-10,2009-12-16,918765,396,0,2,South Florida,UCF,Bulls,Knights,4,0,69,65,4,NA,NA,0,0,6,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-16,918765,397,0,2,South Florida,UCF,Bulls,Knights,4,0,69,65,4,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,South Florida,South Florida,NA

@@ -1,0 +1,434 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-26,899485,1,0,1,Washington,Seattle,Huskies,Redhawks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Seattle,NA
+2009-10,2010-01-26,899485,7,0,1,Washington,Seattle,Huskies,Redhawks,4,4,0,0,0,1598,Seattle,2393,1193,7,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,1
+2009-10,2010-01-26,899485,10,0,1,Washington,Seattle,Huskies,Redhawks,4,4,2,0,2,1685,Washington,2381,1181,12, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,24.2,23.650000000000006,329825,NA,NA,0,Washington,Seattle,2
+2009-10,2010-01-26,899485,11,0,1,Washington,Seattle,Huskies,Redhawks,4,4,2,0,2,1598,Seattle,2353,1153,28, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,6.25,523749,NA,NA,0,Seattle,Seattle,3
+2009-10,2010-01-26,899485,14,0,1,Washington,Seattle,Huskies,Redhawks,4,4,2,0,2,1598,Seattle,2336,1136,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483544,NA,NA,0,Seattle,Seattle,3
+2009-10,2010-01-26,899485,15,0,1,Washington,Seattle,Huskies,Redhawks,4,4,2,0,2,1598,Seattle,2330,1130,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,7.15,523765,NA,NA,0,Seattle,Washington,3
+2009-10,2010-01-26,899485,16,0,1,Washington,Seattle,Huskies,Redhawks,4,4,4,0,4,1685,Washington,2325,1125,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395366,NA,NA,0,Washington,Washington,4
+2009-10,2010-01-26,899485,22,0,1,Washington,Seattle,Huskies,Redhawks,4,3,4,0,4,1598,Seattle,2323,1123,2,Redhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,27,0,1,Washington,Seattle,Huskies,Redhawks,4,3,4,0,4,1598,Seattle,2308,1108,15,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,4
+2009-10,2010-01-26,899485,28,0,1,Washington,Seattle,Huskies,Redhawks,4,3,5,0,5,1685,Washington,2308,1108,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,4
+2009-10,2010-01-26,899485,29,0,1,Washington,Seattle,Huskies,Redhawks,4,3,5,0,5,1685,Washington,2308,1108,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,4
+2009-10,2010-01-26,899485,32,0,1,Washington,Seattle,Huskies,Redhawks,4,3,5,0,5,1685,Washington,2294,1094,14,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,5
+2009-10,2010-01-26,899485,33,0,1,Washington,Seattle,Huskies,Redhawks,4,3,5,0,5,1598,Seattle,2294,1094,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,5
+2009-10,2010-01-26,899485,34,0,1,Washington,Seattle,Huskies,Redhawks,4,3,5,0,5,1598,Seattle,2294,1094,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,5
+2009-10,2010-01-26,899485,36,0,1,Washington,Seattle,Huskies,Redhawks,4,3,7,0,7,1685,Washington,2275,1075,19, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395365,NA,NA,0,Washington,Seattle,6
+2009-10,2010-01-26,899485,38,0,1,Washington,Seattle,Huskies,Redhawks,4,3,7,0,7,1598,Seattle,2265,1065,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523749,NA,NA,0,Seattle,Seattle,7
+2009-10,2010-01-26,899485,39,0,1,Washington,Seattle,Huskies,Redhawks,4,3,7,0,7,1685,Washington,2264,1064,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,7
+2009-10,2010-01-26,899485,40,0,1,Washington,Seattle,Huskies,Redhawks,4,3,7,0,7,1685,Washington,2264,1064,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,45,0,1,Washington,Seattle,Huskies,Redhawks,4,3,7,0,7,1598,Seattle,2253,1053,11, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,9.15,523749,NA,NA,0,Seattle,Washington,7
+2009-10,2010-01-26,899485,46,0,1,Washington,Seattle,Huskies,Redhawks,4,3,10,0,10,1685,Washington,2242,1042,11, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,20.7,29.450000000000003,329825,NA,NA,0,Washington,Seattle,8
+2009-10,2010-01-26,899485,48,0,1,Washington,Seattle,Huskies,Redhawks,4,3,12,0,12,1685,Washington,2220,1020,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329825,NA,NA,0,Washington,Seattle,9
+2009-10,2010-01-26,899485,50,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2217,1017,3,Redhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,57,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1685,Washington,2193,993,24,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,10
+2009-10,2010-01-26,899485,58,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2193,993,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,59,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2193,993,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,62,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2182,982,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25,11.05,483547,NA,NA,0,Seattle,Seattle,10
+2009-10,2010-01-26,899485,63,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2180,980,2, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,24.8,6.75,523768,NA,NA,0,Seattle,Washington,10
+2009-10,2010-01-26,899485,65,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2179,979,1,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,11
+2009-10,2010-01-26,899485,66,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2179,979,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,72,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1685,Washington,2164,964,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,74,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1685,Washington,2160,960,4, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,11.299999999999997,18.049999999999997,509348,NA,NA,0,Washington,Seattle,11
+2009-10,2010-01-26,899485,75,0,1,Washington,Seattle,Huskies,Redhawks,4,2,12,0,12,1598,Seattle,2151,951,9, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,17.25,483547,NA,NA,0,Seattle,Washington,12
+2009-10,2010-01-26,899485,76,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1685,Washington,2139,939,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,5,11.25,509348,NA,NA,0,Washington,Seattle,13
+2009-10,2010-01-26,899485,79,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2129,929,10,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,14
+2009-10,2010-01-26,899485,80,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,NA,NA,2129,929,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,81,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2129,929,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,82,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2129,929,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,87,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2112,912,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,89,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1685,Washington,2111,911,1,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,15
+2009-10,2010-01-26,899485,90,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2111,911,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,15
+2009-10,2010-01-26,899485,91,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1685,Washington,2111,911,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,92,0,1,Washington,Seattle,Huskies,Redhawks,4,2,15,0,15,1598,Seattle,2111,911,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,15
+2009-10,2010-01-26,899485,94,0,1,Washington,Seattle,Huskies,Redhawks,4,2,18,0,18,1685,Washington,2103,903,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,34.2,27.450000000000003,457607,NA,NA,0,Washington,Seattle,16
+2009-10,2010-01-26,899485,95,0,1,Washington,Seattle,Huskies,Redhawks,4,2,18,2,16,1598,Seattle,2088,888,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523749,NA,NA,0,Seattle,Washington,17
+2009-10,2010-01-26,899485,96,0,1,Washington,Seattle,Huskies,Redhawks,4,2,18,2,16,1685,Washington,2070,870,18, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,31.7,7.75,395366,NA,NA,0,Washington,Washington,18
+2009-10,2010-01-26,899485,97,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1685,Washington,2066,866,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329825,NA,NA,0,Washington,Seattle,18
+2009-10,2010-01-26,899485,99,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1598,Seattle,2056,856,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,101,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1598,Seattle,2041,841,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.7,28.25,523767,NA,NA,0,Seattle,Washington,19
+2009-10,2010-01-26,899485,103,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1598,Seattle,2026,826,15,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,20
+2009-10,2010-01-26,899485,104,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1598,Seattle,2026,826,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,107,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1685,Washington,2017,817,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,8.75,457606,NA,NA,0,Washington,Washington,20
+2009-10,2010-01-26,899485,109,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1598,Seattle,2007,807,10,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,20
+2009-10,2010-01-26,899485,110,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1685,Washington,2007,807,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,111,0,1,Washington,Seattle,Huskies,Redhawks,4,2,20,2,18,1685,Washington,2007,807,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,20
+2009-10,2010-01-26,899485,112,0,1,Washington,Seattle,Huskies,Redhawks,4,2,21,2,19,1685,Washington,2007,807,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,20
+2009-10,2010-01-26,899485,113,0,1,Washington,Seattle,Huskies,Redhawks,4,2,21,2,19,1598,Seattle,2007,807,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,117,0,1,Washington,Seattle,Huskies,Redhawks,4,2,21,2,19,1685,Washington,2003,803,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,119,0,1,Washington,Seattle,Huskies,Redhawks,4,2,21,2,19,1685,Washington,1990,790,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457608,NA,NA,0,Washington,Seattle,21
+2009-10,2010-01-26,899485,120,0,1,Washington,Seattle,Huskies,Redhawks,4,2,21,2,19,1598,Seattle,1981,781,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,7.55,483544,NA,NA,0,Seattle,Washington,22
+2009-10,2010-01-26,899485,121,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1963,763,18, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,11.200000000000003,13.75,395365,NA,NA,0,Washington,Seattle,23
+2009-10,2010-01-26,899485,126,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1952,752,11,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,24
+2009-10,2010-01-26,899485,127,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1598,Seattle,1952,752,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,128,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1598,Seattle,1952,752,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,133,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1935,735,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,13.950000000000003,457606,NA,NA,0,Washington,Washington,24
+2009-10,2010-01-26,899485,134,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1934,734,1, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,26,8.150000000000006,457608,NA,NA,0,Washington,Seattle,24
+2009-10,2010-01-26,899485,136,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1933,733,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,25
+2009-10,2010-01-26,899485,137,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1933,733,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,140,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1910,710,23,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,25
+2009-10,2010-01-26,899485,141,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,NA,NA,1910,710,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,142,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1910,710,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,143,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,2,21,1685,Washington,1910,710,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,144,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,3,20,1598,Seattle,1910,710,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,25
+2009-10,2010-01-26,899485,145,0,1,Washington,Seattle,Huskies,Redhawks,4,2,23,3,20,1598,Seattle,1910,710,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,26
+2009-10,2010-01-26,899485,149,0,1,Washington,Seattle,Huskies,Redhawks,4,2,26,3,23,1685,Washington,1890,690,20, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.700000000000003,7.150000000000006,457607,NA,NA,0,Washington,Seattle,27
+2009-10,2010-01-26,899485,151,0,1,Washington,Seattle,Huskies,Redhawks,4,2,26,3,23,1598,Seattle,1884,684,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,158,0,1,Washington,Seattle,Huskies,Redhawks,4,2,26,3,23,1598,Seattle,1871,671,13, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,22.05,523765,NA,NA,0,Seattle,Washington,28
+2009-10,2010-01-26,899485,164,0,1,Washington,Seattle,Huskies,Redhawks,4,2,26,3,23,1685,Washington,1854,654,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,166,0,1,Washington,Seattle,Huskies,Redhawks,4,2,29,3,26,1685,Washington,1850,650,4, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,6.5,16.450000000000003,329825,NA,NA,0,Washington,Washington,29
+2009-10,2010-01-26,899485,171,0,1,Washington,Seattle,Huskies,Redhawks,4,2,29,3,26,1598,Seattle,1837,637,13,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,29
+2009-10,2010-01-26,899485,172,0,1,Washington,Seattle,Huskies,Redhawks,4,2,29,3,26,1685,Washington,1837,637,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,29
+2009-10,2010-01-26,899485,173,0,1,Washington,Seattle,Huskies,Redhawks,4,2,29,3,26,1598,Seattle,1837,637,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,174,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,3,27,1685,Washington,1837,637,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,29
+2009-10,2010-01-26,899485,179,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,3,27,1685,Washington,1822,622,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,182,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,3,27,1598,Seattle,1818,618,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,184,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,5,25,1598,Seattle,1815,615,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523749,NA,NA,0,Seattle,Washington,30
+2009-10,2010-01-26,899485,189,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,5,25,1685,Washington,1798,598,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,193,0,1,Washington,Seattle,Huskies,Redhawks,4,2,30,5,25,1598,Seattle,1795,595,3,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,31
+2009-10,2010-01-26,899485,194,0,1,Washington,Seattle,Huskies,Redhawks,4,2,31,5,26,1685,Washington,1795,595,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,31
+2009-10,2010-01-26,899485,195,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1795,595,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,32
+2009-10,2010-01-26,899485,196,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1598,Seattle,1795,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,197,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1795,595,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,202,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1598,Seattle,1790,590,5,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,33
+2009-10,2010-01-26,899485,204,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1769,569,21, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30,8.150000000000006,395362,NA,NA,0,Washington,Washington,34
+2009-10,2010-01-26,899485,205,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1760,560,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395362,NA,NA,0,Washington,Washington,34
+2009-10,2010-01-26,899485,207,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1758,558,2, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.2,8.349999999999994,329825,NA,NA,0,Washington,Washington,34
+2009-10,2010-01-26,899485,211,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1685,Washington,1755,555,3,Offensive foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,34
+2009-10,2010-01-26,899485,214,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1598,Seattle,1753,553,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,220,0,1,Washington,Seattle,Huskies,Redhawks,4,2,32,5,27,1598,Seattle,1742,542,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,224,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,5,27,1598,Seattle,1740,540,2,Redhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,225,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,5,27,1598,Seattle,1740,540,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,227,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,5,27,1598,Seattle,1730,530,10, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,17.7,22.65,523765,NA,NA,0,Seattle,Seattle,35
+2009-10,2010-01-26,899485,228,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,7,25,1598,Seattle,1723,523,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483545,NA,NA,0,Seattle,Washington,35
+2009-10,2010-01-26,899485,230,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,7,25,1598,Seattle,1710,510,13,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,36
+2009-10,2010-01-26,899485,235,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,7,25,1685,Washington,1693,493,17, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,16.049999999999997,395365,NA,NA,0,Washington,Seattle,37
+2009-10,2010-01-26,899485,236,0,1,Washington,Seattle,Huskies,Redhawks,4,1,32,7,25,1598,Seattle,1684,484,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,6.65,523768,NA,NA,0,Seattle,Washington,38
+2009-10,2010-01-26,899485,237,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,7,27,1685,Washington,1677,477,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395365,NA,NA,0,Washington,Seattle,39
+2009-10,2010-01-26,899485,239,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,7,27,1598,Seattle,1665,465,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,246,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,7,27,NA,NA,1658,458,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,249,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,7,27,1598,Seattle,1646,446,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,250,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,7,27,1685,Washington,1646,446,0,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,40
+2009-10,2010-01-26,899485,251,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,8,26,1598,Seattle,1646,446,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,40
+2009-10,2010-01-26,899485,252,0,1,Washington,Seattle,Huskies,Redhawks,4,1,34,8,26,1598,Seattle,1646,446,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,40
+2009-10,2010-01-26,899485,254,0,1,Washington,Seattle,Huskies,Redhawks,4,1,36,8,28,1685,Washington,1632,432,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329825,NA,NA,0,Washington,Seattle,41
+2009-10,2010-01-26,899485,255,0,1,Washington,Seattle,Huskies,Redhawks,4,1,36,8,28,1598,Seattle,1617,417,15, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,24.05,523765,NA,NA,0,Seattle,Seattle,42
+2009-10,2010-01-26,899485,257,0,1,Washington,Seattle,Huskies,Redhawks,4,1,36,8,28,1598,Seattle,1613,413,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483544,NA,NA,0,Seattle,Washington,42
+2009-10,2010-01-26,899485,261,0,1,Washington,Seattle,Huskies,Redhawks,4,1,36,8,28,1598,Seattle,1611,411,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,268,0,1,Washington,Seattle,Huskies,Redhawks,4,1,36,8,28,1598,Seattle,1599,399,12,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,43
+2009-10,2010-01-26,899485,269,0,1,Washington,Seattle,Huskies,Redhawks,4,1,37,8,29,1685,Washington,1599,399,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,43
+2009-10,2010-01-26,899485,270,0,1,Washington,Seattle,Huskies,Redhawks,4,1,37,8,29,1685,Washington,1599,399,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,271,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,8,30,1685,Washington,1599,399,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,43
+2009-10,2010-01-26,899485,275,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,8,30,1598,Seattle,1583,383,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.5,28.05,523767,NA,NA,0,Seattle,Seattle,44
+2009-10,2010-01-26,899485,276,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,8,30,1685,Washington,1582,382,1,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,44
+2009-10,2010-01-26,899485,277,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,9,29,1598,Seattle,1582,382,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,44
+2009-10,2010-01-26,899485,278,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,9,29,1598,Seattle,1582,382,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,44
+2009-10,2010-01-26,899485,284,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,9,29,1685,Washington,1571,371,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,15.349999999999994,457606,NA,NA,0,Washington,Seattle,45
+2009-10,2010-01-26,899485,285,0,1,Washington,Seattle,Huskies,Redhawks,4,1,38,9,29,1598,Seattle,1564,364,7, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,15.85,523749,NA,NA,0,Seattle,Washington,46
+2009-10,2010-01-26,899485,286,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,9,31,1685,Washington,1540,340,24, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,17.799999999999997,15.150000000000006,457607,NA,NA,0,Washington,Seattle,47
+2009-10,2010-01-26,899485,289,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,9,31,1598,Seattle,1515,315,25,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,292,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,9,31,1685,Washington,1511,311,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,294,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,9,31,1685,Washington,1508,308,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,5.849999999999994,457607,NA,NA,0,Washington,Seattle,48
+2009-10,2010-01-26,899485,299,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,9,31,1685,Washington,1500,300,8,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,49
+2009-10,2010-01-26,899485,300,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,10,30,1598,Seattle,1500,300,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,49
+2009-10,2010-01-26,899485,301,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,10,30,1685,Washington,1500,300,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,302,0,1,Washington,Seattle,Huskies,Redhawks,4,1,40,10,30,1598,Seattle,1500,300,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,49
+2009-10,2010-01-26,899485,305,0,1,Washington,Seattle,Huskies,Redhawks,4,1,43,10,33,1685,Washington,1493,293,7, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.7,30.35,457607,NA,NA,0,Washington,Seattle,50
+2009-10,2010-01-26,899485,306,0,1,Washington,Seattle,Huskies,Redhawks,4,1,43,10,33,1598,Seattle,1484,284,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483551,NA,NA,0,Seattle,Washington,51
+2009-10,2010-01-26,899485,308,0,1,Washington,Seattle,Huskies,Redhawks,4,1,43,10,33,1598,Seattle,1479,279,5,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,52
+2009-10,2010-01-26,899485,309,0,1,Washington,Seattle,Huskies,Redhawks,4,1,44,10,34,1685,Washington,1479,279,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,52
+2009-10,2010-01-26,899485,310,0,1,Washington,Seattle,Huskies,Redhawks,4,1,45,10,35,1685,Washington,1479,279,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,52
+2009-10,2010-01-26,899485,313,0,1,Washington,Seattle,Huskies,Redhawks,4,1,45,10,35,1598,Seattle,1464,264,15,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,52
+2009-10,2010-01-26,899485,314,0,1,Washington,Seattle,Huskies,Redhawks,4,1,45,10,35,1685,Washington,1464,264,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,52
+2009-10,2010-01-26,899485,315,0,1,Washington,Seattle,Huskies,Redhawks,4,1,46,10,36,1685,Washington,1464,264,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,52
+2009-10,2010-01-26,899485,316,0,1,Washington,Seattle,Huskies,Redhawks,4,1,46,10,36,1598,Seattle,1464,264,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,322,0,1,Washington,Seattle,Huskies,Redhawks,4,1,46,10,36,1685,Washington,1449,249,15, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,25.5,13.349999999999994,457606,NA,NA,0,Washington,Seattle,53
+2009-10,2010-01-26,899485,323,0,1,Washington,Seattle,Huskies,Redhawks,4,1,46,10,36,1598,Seattle,1437,237,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483551,NA,NA,0,Seattle,Washington,54
+2009-10,2010-01-26,899485,326,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1685,Washington,1429,229,8, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.2,7.150000000000006,457606,NA,NA,0,Washington,Washington,55
+2009-10,2010-01-26,899485,327,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1598,Seattle,1429,229,0,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,55
+2009-10,2010-01-26,899485,328,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,NA,NA,1429,229,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,329,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1598,Seattle,1429,229,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,330,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1685,Washington,1429,229,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,331,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1685,Washington,1429,229,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,55
+2009-10,2010-01-26,899485,336,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1598,Seattle,1423,223,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,340,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1685,Washington,1418,218,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,341,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,10,39,1685,Washington,1418,218,0,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,56
+2009-10,2010-01-26,899485,342,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,11,38,1598,Seattle,1418,218,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,56
+2009-10,2010-01-26,899485,343,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,11,38,1685,Washington,1418,218,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,344,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,12,37,1598,Seattle,1418,218,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,56
+2009-10,2010-01-26,899485,346,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,12,37,1685,Washington,1399,199,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457607,NA,NA,0,Washington,Seattle,57
+2009-10,2010-01-26,899485,348,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,12,37,1598,Seattle,1381,181,18, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,19,8.15,536048,NA,NA,0,Seattle,Seattle,58
+2009-10,2010-01-26,899485,350,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,12,37,1685,Washington,1380,180,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,58
+2009-10,2010-01-26,899485,351,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,13,36,1598,Seattle,1380,180,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,58
+2009-10,2010-01-26,899485,352,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,14,35,1598,Seattle,1380,180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,58
+2009-10,2010-01-26,899485,356,0,1,Washington,Seattle,Huskies,Redhawks,4,1,49,14,35,1598,Seattle,1362,162,18,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,59
+2009-10,2010-01-26,899485,357,0,1,Washington,Seattle,Huskies,Redhawks,4,1,50,14,36,1685,Washington,1362,162,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,59
+2009-10,2010-01-26,899485,358,0,1,Washington,Seattle,Huskies,Redhawks,4,1,51,14,37,1685,Washington,1362,162,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,59
+2009-10,2010-01-26,899485,360,0,1,Washington,Seattle,Huskies,Redhawks,4,1,51,16,35,1598,Seattle,1349,149,13, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.7,8.75,523765,NA,NA,0,Seattle,Washington,60
+2009-10,2010-01-26,899485,361,0,1,Washington,Seattle,Huskies,Redhawks,4,1,53,16,37,1685,Washington,1341,141,8, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,12.299999999999997,11.049999999999997,329825,NA,NA,0,Washington,Seattle,61
+2009-10,2010-01-26,899485,362,0,1,Washington,Seattle,Huskies,Redhawks,4,1,53,16,37,1598,Seattle,1324,124,17, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40,9.15,523765,NA,NA,0,Seattle,Washington,62
+2009-10,2010-01-26,899485,365,0,1,Washington,Seattle,Huskies,Redhawks,4,1,53,16,37,1598,Seattle,1319,119,5,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,63
+2009-10,2010-01-26,899485,366,0,1,Washington,Seattle,Huskies,Redhawks,4,1,54,16,38,1685,Washington,1319,119,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,63
+2009-10,2010-01-26,899485,367,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1685,Washington,1319,119,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,63
+2009-10,2010-01-26,899485,368,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1685,Washington,1319,119,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,370,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1685,Washington,1316,116,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,7.75,457607,NA,NA,0,Washington,Seattle,64
+2009-10,2010-01-26,899485,372,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1598,Seattle,1306,106,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,374,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1598,Seattle,1300,100,6, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,17,7.55,483547,NA,NA,0,Seattle,Washington,65
+2009-10,2010-01-26,899485,376,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1685,Washington,1292,92,8, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8.299999999999997,12.650000000000006,509348,NA,NA,0,Washington,Seattle,66
+2009-10,2010-01-26,899485,377,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1685,Washington,1290,90,2,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,67
+2009-10,2010-01-26,899485,378,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1598,Seattle,1290,90,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,67
+2009-10,2010-01-26,899485,379,0,1,Washington,Seattle,Huskies,Redhawks,4,1,55,16,39,1598,Seattle,1290,90,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,67
+2009-10,2010-01-26,899485,385,0,1,Washington,Seattle,Huskies,Redhawks,4,1,57,16,41,1685,Washington,1269,69,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395362,NA,NA,0,Washington,Seattle,68
+2009-10,2010-01-26,899485,387,0,1,Washington,Seattle,Huskies,Redhawks,4,1,57,16,41,1598,Seattle,1264,64,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,390,0,1,Washington,Seattle,Huskies,Redhawks,4,1,57,16,41,1598,Seattle,1253,53,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,21,13.95,483545,NA,NA,0,Seattle,Washington,69
+2009-10,2010-01-26,899485,394,0,1,Washington,Seattle,Huskies,Redhawks,4,1,59,16,43,1685,Washington,1241,41,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509348,NA,NA,0,Washington,Seattle,70
+2009-10,2010-01-26,899485,397,0,1,Washington,Seattle,Huskies,Redhawks,4,1,59,16,43,1685,Washington,1232,32,9,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,71
+2009-10,2010-01-26,899485,398,0,1,Washington,Seattle,Huskies,Redhawks,4,1,59,17,42,1598,Seattle,1232,32,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,71
+2009-10,2010-01-26,899485,399,0,1,Washington,Seattle,Huskies,Redhawks,4,1,59,18,41,1598,Seattle,1232,32,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,71
+2009-10,2010-01-26,899485,403,0,1,Washington,Seattle,Huskies,Redhawks,4,1,59,18,41,1598,Seattle,1221,21,11,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,72
+2009-10,2010-01-26,899485,404,0,1,Washington,Seattle,Huskies,Redhawks,4,1,60,18,42,1685,Washington,1221,21,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,72
+2009-10,2010-01-26,899485,405,0,1,Washington,Seattle,Huskies,Redhawks,4,1,61,18,43,1685,Washington,1221,21,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,72
+2009-10,2010-01-26,899485,409,0,1,Washington,Seattle,Huskies,Redhawks,4,1,61,18,43,1598,Seattle,1202,2,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,11.25,523765,NA,NA,0,Seattle,Seattle,73
+2009-10,2010-01-26,899485,411,0,1,Washington,Seattle,Huskies,Redhawks,4,1,61,20,41,1598,Seattle,1201,1,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483551,NA,NA,0,Seattle,Washington,73
+2009-10,2010-01-26,899485,413,0,1,Washington,Seattle,Huskies,Redhawks,4,1,61,20,41,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,414,0,2,Washington,Seattle,Huskies,Redhawks,4,4,61,20,41,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Seattle,74
+2009-10,2010-01-26,899485,416,0,2,Washington,Seattle,Huskies,Redhawks,4,4,61,22,39,1598,Seattle,1192,1192,8, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.7,13.15,523749,NA,NA,0,Seattle,Washington,75
+2009-10,2010-01-26,899485,418,0,2,Washington,Seattle,Huskies,Redhawks,4,4,61,22,39,1685,Washington,1174,1174,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,12.650000000000006,395366,NA,NA,0,Washington,Seattle,76
+2009-10,2010-01-26,899485,420,0,2,Washington,Seattle,Huskies,Redhawks,4,4,61,22,39,1685,Washington,1172,1172,2,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,77
+2009-10,2010-01-26,899485,422,0,2,Washington,Seattle,Huskies,Redhawks,4,4,63,22,41,1685,Washington,1154,1154,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395365,NA,NA,0,Washington,Seattle,77
+2009-10,2010-01-26,899485,424,0,2,Washington,Seattle,Huskies,Redhawks,4,4,63,22,41,1598,Seattle,1149,1149,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,427,0,2,Washington,Seattle,Huskies,Redhawks,4,4,63,24,39,1598,Seattle,1143,1143,6, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8.7,10.45,523765,NA,NA,0,Seattle,Washington,78
+2009-10,2010-01-26,899485,428,0,2,Washington,Seattle,Huskies,Redhawks,4,4,65,24,41,1685,Washington,1128,1128,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395365,NA,NA,0,Washington,Seattle,79
+2009-10,2010-01-26,899485,429,0,2,Washington,Seattle,Huskies,Redhawks,4,4,65,24,41,1598,Seattle,1115,1115,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,15.65,483547,NA,NA,0,Seattle,Washington,80
+2009-10,2010-01-26,899485,432,0,2,Washington,Seattle,Huskies,Redhawks,4,4,65,24,41,1598,Seattle,1107,1107,8,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,81
+2009-10,2010-01-26,899485,433,0,2,Washington,Seattle,Huskies,Redhawks,4,4,66,24,42,1685,Washington,1107,1107,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,81
+2009-10,2010-01-26,899485,434,0,2,Washington,Seattle,Huskies,Redhawks,4,4,66,24,42,1685,Washington,1107,1107,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,81
+2009-10,2010-01-26,899485,437,0,2,Washington,Seattle,Huskies,Redhawks,4,4,66,24,42,1598,Seattle,1105,1105,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,442,0,2,Washington,Seattle,Huskies,Redhawks,4,4,66,24,42,1598,Seattle,1098,1098,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.2,29.25,483547,NA,NA,0,Seattle,Seattle,82
+2009-10,2010-01-26,899485,444,0,2,Washington,Seattle,Huskies,Redhawks,4,4,66,26,40,1598,Seattle,1086,1086,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,483551,NA,NA,0,Seattle,Washington,82
+2009-10,2010-01-26,899485,446,0,2,Washington,Seattle,Huskies,Redhawks,3,4,66,26,40,1685,Washington,1081,1081,5,Huskies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,447,0,2,Washington,Seattle,Huskies,Redhawks,3,4,66,26,40,1598,Seattle,1081,1081,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,448,0,2,Washington,Seattle,Huskies,Redhawks,3,4,66,26,40,1598,Seattle,1081,1081,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,454,0,2,Washington,Seattle,Huskies,Redhawks,3,4,66,26,40,1598,Seattle,1077,1077,4,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,83
+2009-10,2010-01-26,899485,455,0,2,Washington,Seattle,Huskies,Redhawks,3,4,67,26,41,1685,Washington,1077,1077,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,83
+2009-10,2010-01-26,899485,456,0,2,Washington,Seattle,Huskies,Redhawks,3,4,67,26,41,1598,Seattle,1077,1077,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,457,0,2,Washington,Seattle,Huskies,Redhawks,3,4,67,26,41,1598,Seattle,1077,1077,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,458,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,26,42,1685,Washington,1077,1077,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,83
+2009-10,2010-01-26,899485,460,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,26,42,1598,Seattle,1067,1067,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,536048,NA,NA,0,Seattle,Seattle,84
+2009-10,2010-01-26,899485,461,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,26,42,1598,Seattle,1062,1062,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523767,NA,NA,0,Seattle,Seattle,84
+2009-10,2010-01-26,899485,463,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,28,40,1598,Seattle,1059,1059,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483545,NA,NA,0,Seattle,Washington,84
+2009-10,2010-01-26,899485,465,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,28,40,1598,Seattle,1057,1057,2,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,85
+2009-10,2010-01-26,899485,473,0,2,Washington,Seattle,Huskies,Redhawks,3,4,68,28,40,1598,Seattle,1050,1050,7,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,85
+2009-10,2010-01-26,899485,475,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1685,Washington,1046,1046,4, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7.5,7.75,395365,NA,NA,0,Washington,Seattle,85
+2009-10,2010-01-26,899485,477,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1685,Washington,1040,1040,6,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,86
+2009-10,2010-01-26,899485,482,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1033,1033,7,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,86
+2009-10,2010-01-26,899485,486,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1032,1032,1,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,86
+2009-10,2010-01-26,899485,489,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1031,1031,1,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,86
+2009-10,2010-01-26,899485,490,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1031,1031,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,491,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1031,1031,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,492,0,2,Washington,Seattle,Huskies,Redhawks,3,4,70,28,42,1598,Seattle,1031,1031,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,493,0,2,Washington,Seattle,Huskies,Redhawks,3,4,71,28,43,1685,Washington,1031,1031,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,86
+2009-10,2010-01-26,899485,494,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,28,44,1685,Washington,1031,1031,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,87
+2009-10,2010-01-26,899485,497,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,28,44,1598,Seattle,1023,1023,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,500,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,30,42,1598,Seattle,1014,1014,9, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,32.8,9.85,523749,NA,NA,0,Seattle,Washington,88
+2009-10,2010-01-26,899485,501,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,30,42,1598,Seattle,997,997,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,10.25,523749,NA,NA,0,Seattle,Seattle,89
+2009-10,2010-01-26,899485,502,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,32,40,1598,Seattle,995,995,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523765,NA,NA,0,Seattle,Washington,89
+2009-10,2010-01-26,899485,505,0,2,Washington,Seattle,Huskies,Redhawks,3,4,72,32,40,1598,Seattle,990,990,5,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,90
+2009-10,2010-01-26,899485,506,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,990,990,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,90
+2009-10,2010-01-26,899485,507,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,990,990,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,91
+2009-10,2010-01-26,899485,515,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1598,Seattle,976,976,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523765,NA,NA,0,Seattle,Washington,92
+2009-10,2010-01-26,899485,518,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,968,968,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,519,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,968,968,0,Offensive foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,93
+2009-10,2010-01-26,899485,523,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,950,950,18,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,94
+2009-10,2010-01-26,899485,524,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,NA,NA,950,950,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,529,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1598,Seattle,946,946,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,530,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1598,Seattle,946,946,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,531,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,946,946,0,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,94
+2009-10,2010-01-26,899485,533,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1598,Seattle,945,945,1,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,94
+2009-10,2010-01-26,899485,537,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,941,941,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,539,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1598,Seattle,940,940,1,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,95
+2009-10,2010-01-26,899485,540,0,2,Washington,Seattle,Huskies,Redhawks,3,4,73,32,41,1685,Washington,940,940,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,95
+2009-10,2010-01-26,899485,541,0,2,Washington,Seattle,Huskies,Redhawks,3,4,74,32,42,1685,Washington,940,940,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,95
+2009-10,2010-01-26,899485,545,0,2,Washington,Seattle,Huskies,Redhawks,3,4,74,32,42,1598,Seattle,928,928,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14.8,10.85,523749,NA,NA,0,Seattle,Washington,96
+2009-10,2010-01-26,899485,548,0,2,Washington,Seattle,Huskies,Redhawks,3,4,76,32,44,1685,Washington,921,921,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509348,NA,NA,0,Washington,Washington,97
+2009-10,2010-01-26,899485,549,0,2,Washington,Seattle,Huskies,Redhawks,3,4,76,32,44,1598,Seattle,921,921,0,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,97
+2009-10,2010-01-26,899485,550,0,2,Washington,Seattle,Huskies,Redhawks,3,4,76,32,44,1685,Washington,921,921,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,97
+2009-10,2010-01-26,899485,557,0,2,Washington,Seattle,Huskies,Redhawks,3,4,76,32,44,1598,Seattle,899,899,22,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,97
+2009-10,2010-01-26,899485,558,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,32,45,1685,Washington,899,899,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,97
+2009-10,2010-01-26,899485,559,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,32,45,1598,Seattle,899,899,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,560,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,32,45,1685,Washington,899,899,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,97
+2009-10,2010-01-26,899485,563,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,32,45,1598,Seattle,898,898,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,569,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,32,45,1685,Washington,886,886,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,572,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,35,42,1598,Seattle,883,883,3, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,43.7,17.65,483546,NA,NA,0,Seattle,Washington,98
+2009-10,2010-01-26,899485,573,0,2,Washington,Seattle,Huskies,Redhawks,3,4,77,35,42,1598,Seattle,880,880,3,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,99
+2009-10,2010-01-26,899485,574,0,2,Washington,Seattle,Huskies,Redhawks,3,4,78,35,43,1685,Washington,880,880,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,99
+2009-10,2010-01-26,899485,575,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,35,44,1685,Washington,880,880,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,99
+2009-10,2010-01-26,899485,579,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,35,44,1598,Seattle,873,873,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,581,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,35,44,1685,Washington,871,871,2,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,100
+2009-10,2010-01-26,899485,582,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,35,44,1685,Washington,871,871,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,588,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,35,44,1685,Washington,865,865,6,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,100
+2009-10,2010-01-26,899485,589,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,36,43,1598,Seattle,865,865,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,100
+2009-10,2010-01-26,899485,590,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,36,43,1598,Seattle,865,865,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,100
+2009-10,2010-01-26,899485,594,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,36,43,1598,Seattle,863,863,2,Offensive foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,100
+2009-10,2010-01-26,899485,598,0,2,Washington,Seattle,Huskies,Redhawks,3,4,79,36,43,1598,Seattle,860,860,3,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,101
+2009-10,2010-01-26,899485,599,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,36,44,1685,Washington,860,860,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,101
+2009-10,2010-01-26,899485,600,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,36,44,1685,Washington,860,860,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,101
+2009-10,2010-01-26,899485,603,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,36,44,1685,Washington,859,859,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,102
+2009-10,2010-01-26,899485,604,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,36,44,1598,Seattle,859,859,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,605,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,37,43,1598,Seattle,859,859,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,102
+2009-10,2010-01-26,899485,606,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,38,42,1598,Seattle,859,859,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,103
+2009-10,2010-01-26,899485,609,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,38,42,1685,Washington,853,853,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329825,NA,NA,0,Washington,Seattle,104
+2009-10,2010-01-26,899485,610,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,38,42,1598,Seattle,846,846,7, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,523765,NA,NA,0,Seattle,Seattle,105
+2009-10,2010-01-26,899485,613,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,38,42,1598,Seattle,841,841,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,8.15,483545,NA,NA,0,Seattle,Washington,105
+2009-10,2010-01-26,899485,618,0,2,Washington,Seattle,Huskies,Redhawks,3,4,80,38,42,1598,Seattle,831,831,10,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,106
+2009-10,2010-01-26,899485,619,0,2,Washington,Seattle,Huskies,Redhawks,3,4,81,38,43,1685,Washington,831,831,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,106
+2009-10,2010-01-26,899485,620,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1685,Washington,831,831,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,106
+2009-10,2010-01-26,899485,623,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1598,Seattle,821,821,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,629,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1598,Seattle,806,806,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523749,NA,NA,0,Seattle,Seattle,107
+2009-10,2010-01-26,899485,633,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1598,Seattle,795,795,11, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,24.2,12.05,483544,NA,NA,0,Seattle,Washington,107
+2009-10,2010-01-26,899485,635,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1598,Seattle,792,792,3,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,108
+2009-10,2010-01-26,899485,636,0,2,Washington,Seattle,Huskies,Redhawks,3,4,82,38,44,1685,Washington,792,792,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,108
+2009-10,2010-01-26,899485,637,0,2,Washington,Seattle,Huskies,Redhawks,3,4,83,38,45,1685,Washington,792,792,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,108
+2009-10,2010-01-26,899485,640,0,2,Washington,Seattle,Huskies,Redhawks,3,4,83,38,45,1598,Seattle,780,780,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,644,0,2,Washington,Seattle,Huskies,Redhawks,3,4,85,38,47,1685,Washington,771,771,9, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,40.5,10.650000000000006,329825,NA,NA,0,Washington,Seattle,109
+2009-10,2010-01-26,899485,645,0,2,Washington,Seattle,Huskies,Redhawks,3,4,85,41,44,1598,Seattle,763,763,8, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,41,23.85,483546,NA,NA,0,Seattle,Washington,110
+2009-10,2010-01-26,899485,646,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1685,Washington,752,752,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395363,NA,NA,0,Washington,Seattle,111
+2009-10,2010-01-26,899485,647,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1598,Seattle,744,744,8, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,12.05,483546,NA,NA,0,Seattle,Washington,112
+2009-10,2010-01-26,899485,650,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1685,Washington,723,723,21,Offensive foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,113
+2009-10,2010-01-26,899485,651,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1685,Washington,723,723,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,655,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1598,Seattle,718,718,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,660,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1598,Seattle,707,707,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,41.2,12.65,523767,NA,NA,0,Seattle,Washington,114
+2009-10,2010-01-26,899485,662,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1685,Washington,699,699,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,23.849999999999994,457606,NA,NA,0,Washington,Seattle,115
+2009-10,2010-01-26,899485,665,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1685,Washington,693,693,6,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,116
+2009-10,2010-01-26,899485,666,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,NA,NA,693,693,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,667,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,41,46,1598,Seattle,693,693,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,116
+2009-10,2010-01-26,899485,668,0,2,Washington,Seattle,Huskies,Redhawks,3,4,87,42,45,1598,Seattle,693,693,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,116
+2009-10,2010-01-26,899485,673,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,42,47,1685,Washington,680,680,13, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,42.3,10.049999999999997,457607,NA,NA,0,Washington,Seattle,117
+2009-10,2010-01-26,899485,675,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,42,47,1685,Washington,666,666,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,681,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,42,47,1685,Washington,658,658,8,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,118
+2009-10,2010-01-26,899485,682,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,42,47,1598,Seattle,658,658,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,683,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,42,47,1598,Seattle,658,658,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,118
+2009-10,2010-01-26,899485,684,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,43,46,1598,Seattle,658,658,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,118
+2009-10,2010-01-26,899485,685,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,43,46,1598,Seattle,658,658,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,686,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,43,46,1598,Seattle,658,658,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,689,0,2,Washington,Seattle,Huskies,Redhawks,3,4,89,45,44,1598,Seattle,649,649,9, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,23.2,10.65,523749,NA,NA,0,Seattle,Washington,119
+2009-10,2010-01-26,899485,692,0,2,Washington,Seattle,Huskies,Redhawks,3,4,91,45,46,1685,Washington,634,634,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457607,NA,NA,0,Washington,Washington,120
+2009-10,2010-01-26,899485,693,0,2,Washington,Seattle,Huskies,Redhawks,3,4,91,45,46,1598,Seattle,634,634,0,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,120
+2009-10,2010-01-26,899485,694,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,45,47,1685,Washington,634,634,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,120
+2009-10,2010-01-26,899485,695,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,45,47,1598,Seattle,634,634,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,700,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,45,47,1598,Seattle,627,627,7, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14.3,19.35,523749,NA,NA,0,Seattle,Seattle,121
+2009-10,2010-01-26,899485,702,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,45,47,1685,Washington,625,625,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,704,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,47,45,1598,Seattle,622,622,3, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,11,15.65,483545,NA,NA,0,Seattle,Washington,121
+2009-10,2010-01-26,899485,707,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,47,45,1598,Seattle,610,610,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,708,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,47,45,1598,Seattle,610,610,0,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,122
+2009-10,2010-01-26,899485,709,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,47,45,1685,Washington,610,610,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,122
+2009-10,2010-01-26,899485,710,0,2,Washington,Seattle,Huskies,Redhawks,3,4,92,47,45,1598,Seattle,610,610,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,711,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,47,46,1685,Washington,610,610,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,122
+2009-10,2010-01-26,899485,713,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,47,46,1598,Seattle,589,589,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,14.35,483546,NA,NA,0,Seattle,Seattle,123
+2009-10,2010-01-26,899485,714,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,49,44,1598,Seattle,585,585,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483544,NA,NA,0,Seattle,Washington,123
+2009-10,2010-01-26,899485,718,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,49,44,1598,Seattle,569,569,16,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,124
+2009-10,2010-01-26,899485,719,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,49,44,1685,Washington,569,569,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,124
+2009-10,2010-01-26,899485,720,0,2,Washington,Seattle,Huskies,Redhawks,3,4,93,49,44,1598,Seattle,569,569,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,721,0,2,Washington,Seattle,Huskies,Redhawks,3,4,94,49,45,1685,Washington,569,569,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,124
+2009-10,2010-01-26,899485,726,0,2,Washington,Seattle,Huskies,Redhawks,3,4,94,49,45,1598,Seattle,549,549,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,9.65,483545,NA,NA,0,Seattle,Seattle,125
+2009-10,2010-01-26,899485,727,0,2,Washington,Seattle,Huskies,Redhawks,3,4,94,51,43,1598,Seattle,546,546,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483544,NA,NA,0,Seattle,Washington,125
+2009-10,2010-01-26,899485,730,0,2,Washington,Seattle,Huskies,Redhawks,3,4,94,51,43,1598,Seattle,541,541,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,731,0,2,Washington,Seattle,Huskies,Redhawks,3,4,94,51,43,1598,Seattle,541,541,0,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,126
+2009-10,2010-01-26,899485,732,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,51,44,1685,Washington,541,541,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,126
+2009-10,2010-01-26,899485,734,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,51,44,1598,Seattle,531,531,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483546,NA,NA,0,Seattle,Seattle,126
+2009-10,2010-01-26,899485,738,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,53,42,1598,Seattle,526,526,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523765,NA,NA,0,Seattle,Washington,126
+2009-10,2010-01-26,899485,741,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,53,42,1685,Washington,523,523,3,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,127
+2009-10,2010-01-26,899485,742,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,523,523,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,127
+2009-10,2010-01-26,899485,743,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,523,523,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,127
+2009-10,2010-01-26,899485,757,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,501,501,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,758,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1685,Washington,501,501,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,759,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1685,Washington,501,501,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,766,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,499,499,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,770,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,495,495,4,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,128
+2009-10,2010-01-26,899485,771,0,2,Washington,Seattle,Huskies,Redhawks,3,4,95,54,41,1598,Seattle,495,495,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,772,0,2,Washington,Seattle,Huskies,Redhawks,3,4,96,54,42,1685,Washington,495,495,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,128
+2009-10,2010-01-26,899485,773,0,2,Washington,Seattle,Huskies,Redhawks,3,4,96,54,42,1685,Washington,495,495,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,128
+2009-10,2010-01-26,899485,778,0,2,Washington,Seattle,Huskies,Redhawks,3,4,96,54,42,1598,Seattle,487,487,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,783,0,2,Washington,Seattle,Huskies,Redhawks,3,4,96,54,42,1598,Seattle,480,480,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.3,12.95,483551,NA,NA,0,Seattle,Washington,129
+2009-10,2010-01-26,899485,787,0,2,Washington,Seattle,Huskies,Redhawks,3,4,96,54,42,NA,NA,475,475,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,789,0,2,Washington,Seattle,Huskies,Redhawks,3,4,98,54,44,1685,Washington,471,471,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395362,NA,NA,0,Washington,Seattle,130
+2009-10,2010-01-26,899485,790,0,2,Washington,Seattle,Huskies,Redhawks,3,4,98,57,41,1598,Seattle,454,454,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.199999999999999,6.95,536048,NA,NA,0,Seattle,Washington,131
+2009-10,2010-01-26,899485,792,0,2,Washington,Seattle,Huskies,Redhawks,3,4,98,57,41,1598,Seattle,443,443,11,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,132
+2009-10,2010-01-26,899485,793,0,2,Washington,Seattle,Huskies,Redhawks,3,4,98,57,41,1598,Seattle,443,443,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,794,0,2,Washington,Seattle,Huskies,Redhawks,3,4,99,57,42,1685,Washington,443,443,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,132
+2009-10,2010-01-26,899485,795,0,2,Washington,Seattle,Huskies,Redhawks,3,4,99,57,42,1598,Seattle,443,443,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,796,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,57,43,1685,Washington,443,443,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,132
+2009-10,2010-01-26,899485,799,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,57,43,1598,Seattle,434,434,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,801,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,60,40,1598,Seattle,432,432,2, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.2,9.55,523767,NA,NA,0,Seattle,Washington,133
+2009-10,2010-01-26,899485,808,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,60,40,1598,Seattle,421,421,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,810,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,60,40,1598,Seattle,418,418,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,9.35,523749,NA,NA,0,Seattle,Washington,134
+2009-10,2010-01-26,899485,813,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,60,40,1598,Seattle,412,412,6,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,135
+2009-10,2010-01-26,899485,814,0,2,Washington,Seattle,Huskies,Redhawks,3,4,100,60,40,1598,Seattle,412,412,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,815,0,2,Washington,Seattle,Huskies,Redhawks,3,4,101,60,41,1685,Washington,412,412,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,135
+2009-10,2010-01-26,899485,816,0,2,Washington,Seattle,Huskies,Redhawks,3,4,102,60,42,1685,Washington,412,412,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,135
+2009-10,2010-01-26,899485,819,0,2,Washington,Seattle,Huskies,Redhawks,3,4,102,60,42,1598,Seattle,398,398,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,9.65,523768,NA,NA,0,Seattle,Washington,136
+2009-10,2010-01-26,899485,821,0,2,Washington,Seattle,Huskies,Redhawks,3,4,102,60,42,1598,Seattle,395,395,3,Personal foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,137
+2009-10,2010-01-26,899485,822,0,2,Washington,Seattle,Huskies,Redhawks,3,4,102,60,42,1598,Seattle,395,395,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,823,0,2,Washington,Seattle,Huskies,Redhawks,3,4,103,60,43,1685,Washington,395,395,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,137
+2009-10,2010-01-26,899485,824,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,60,44,1685,Washington,395,395,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,137
+2009-10,2010-01-26,899485,827,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,60,44,1685,Washington,371,371,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9,20.950000000000003,395365,NA,NA,0,Washington,Seattle,138
+2009-10,2010-01-26,899485,829,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,60,44,1685,Washington,370,370,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,139
+2009-10,2010-01-26,899485,830,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,60,44,1685,Washington,370,370,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,831,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,61,43,1598,Seattle,370,370,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,139
+2009-10,2010-01-26,899485,832,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,62,42,1598,Seattle,370,370,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,139
+2009-10,2010-01-26,899485,833,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,62,42,1598,Seattle,370,370,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,834,0,2,Washington,Seattle,Huskies,Redhawks,3,4,104,62,42,1685,Washington,370,370,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,840,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,62,44,1685,Washington,363,363,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329825,NA,NA,0,Washington,Seattle,140
+2009-10,2010-01-26,899485,842,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,62,44,1598,Seattle,355,355,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523749,NA,NA,0,Seattle,Seattle,141
+2009-10,2010-01-26,899485,844,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,62,44,1685,Washington,354,354,1,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,141
+2009-10,2010-01-26,899485,845,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,62,44,1598,Seattle,354,354,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,141
+2009-10,2010-01-26,899485,846,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,63,43,1598,Seattle,354,354,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,141
+2009-10,2010-01-26,899485,847,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,63,43,1685,Washington,354,354,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,854,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,63,43,1685,Washington,335,335,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,6.650000000000006,457606,NA,NA,0,Washington,Seattle,142
+2009-10,2010-01-26,899485,855,0,2,Washington,Seattle,Huskies,Redhawks,3,4,106,63,43,1598,Seattle,320,320,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,11.45,523768,NA,NA,0,Seattle,Washington,143
+2009-10,2010-01-26,899485,858,0,2,Washington,Seattle,Huskies,Redhawks,3,4,108,63,45,1685,Washington,312,312,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395366,NA,NA,0,Washington,Washington,144
+2009-10,2010-01-26,899485,859,0,2,Washington,Seattle,Huskies,Redhawks,3,4,108,63,45,1598,Seattle,312,312,0,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,144
+2009-10,2010-01-26,899485,860,0,2,Washington,Seattle,Huskies,Redhawks,3,4,108,63,45,1598,Seattle,312,312,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,861,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,63,46,1685,Washington,312,312,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,144
+2009-10,2010-01-26,899485,863,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,65,44,1598,Seattle,293,293,19, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,27.5,12.75,483546,NA,NA,0,Seattle,Washington,145
+2009-10,2010-01-26,899485,864,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,65,44,1685,Washington,261,261,32, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,6.950000000000003,395363,NA,NA,0,Washington,Seattle,146
+2009-10,2010-01-26,899485,865,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,65,44,1598,Seattle,248,248,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14.8,27.85,523767,NA,NA,0,Seattle,Washington,147
+2009-10,2010-01-26,899485,866,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,65,44,1685,Washington,233,233,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,6.75,395366,NA,NA,0,Washington,Seattle,148
+2009-10,2010-01-26,899485,869,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,67,42,1598,Seattle,227,227,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523749,NA,NA,0,Seattle,Seattle,149
+2009-10,2010-01-26,899485,870,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,67,42,1685,Washington,227,227,0,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,149
+2009-10,2010-01-26,899485,871,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,67,42,NA,NA,227,227,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,872,0,2,Washington,Seattle,Huskies,Redhawks,3,4,109,68,41,1598,Seattle,227,227,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,149
+2009-10,2010-01-26,899485,874,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1685,Washington,217,217,10, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.299999999999997,7.150000000000006,457606,NA,NA,0,Washington,Seattle,150
+2009-10,2010-01-26,899485,875,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1598,Seattle,207,207,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,7.75,523767,NA,NA,0,Seattle,Washington,151
+2009-10,2010-01-26,899485,876,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1685,Washington,196,196,11, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,23.8,11.849999999999994,509349,NA,NA,0,Washington,Seattle,152
+2009-10,2010-01-26,899485,877,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1598,Seattle,182,182,14, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,23.45,523749,NA,NA,0,Seattle,Seattle,153
+2009-10,2010-01-26,899485,880,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1685,Washington,174,174,8,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,153
+2009-10,2010-01-26,899485,881,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,68,44,1685,Washington,174,174,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,882,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,69,43,1598,Seattle,174,174,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,153
+2009-10,2010-01-26,899485,883,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,70,42,1598,Seattle,174,174,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,153
+2009-10,2010-01-26,899485,887,0,2,Washington,Seattle,Huskies,Redhawks,3,4,112,70,42,1685,Washington,164,164,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,889,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,70,45,1685,Washington,161,161,3, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.5,7.75,457607,NA,NA,0,Washington,Seattle,154
+2009-10,2010-01-26,899485,890,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,73,42,1598,Seattle,148,148,13, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.3,6.95,536048,NA,NA,0,Seattle,Washington,155
+2009-10,2010-01-26,899485,891,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,73,42,1685,Washington,137,137,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,13.950000000000003,457606,NA,NA,0,Washington,Seattle,156
+2009-10,2010-01-26,899485,892,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,73,42,1598,Seattle,128,128,9, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,14.95,523749,NA,NA,0,Seattle,Washington,157
+2009-10,2010-01-26,899485,897,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,73,42,1598,Seattle,115,115,13,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,158
+2009-10,2010-01-26,899485,898,0,2,Washington,Seattle,Huskies,Redhawks,3,4,115,73,42,1598,Seattle,115,115,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,899,0,2,Washington,Seattle,Huskies,Redhawks,3,4,116,73,43,1685,Washington,115,115,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,158
+2009-10,2010-01-26,899485,900,0,2,Washington,Seattle,Huskies,Redhawks,3,4,116,73,43,1685,Washington,115,115,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,901,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,73,44,1685,Washington,115,115,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,158
+2009-10,2010-01-26,899485,905,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,73,44,1685,Washington,106,106,9,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,159
+2009-10,2010-01-26,899485,906,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,73,44,1598,Seattle,106,106,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,159
+2009-10,2010-01-26,899485,907,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,74,43,1598,Seattle,106,106,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,159
+2009-10,2010-01-26,899485,909,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,74,43,1685,Washington,100,100,6, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,9.150000000000006,395365,NA,NA,0,Washington,Washington,160
+2009-10,2010-01-26,899485,913,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,74,43,1598,Seattle,87,87,13,Shooting foul committed by Redhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,160
+2009-10,2010-01-26,899485,914,0,2,Washington,Seattle,Huskies,Redhawks,3,4,117,74,43,1685,Washington,87,87,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-26,899485,915,0,2,Washington,Seattle,Huskies,Redhawks,3,4,118,74,44,1685,Washington,87,87,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,160
+2009-10,2010-01-26,899485,916,0,2,Washington,Seattle,Huskies,Redhawks,3,4,119,74,45,1685,Washington,87,87,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Seattle,160
+2009-10,2010-01-26,899485,920,0,2,Washington,Seattle,Huskies,Redhawks,3,4,119,74,45,1685,Washington,80,80,7,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,161
+2009-10,2010-01-26,899485,921,0,2,Washington,Seattle,Huskies,Redhawks,3,4,119,75,44,1598,Seattle,80,80,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,161
+2009-10,2010-01-26,899485,922,0,2,Washington,Seattle,Huskies,Redhawks,3,4,119,76,43,1598,Seattle,80,80,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Washington,161
+2009-10,2010-01-26,899485,925,0,2,Washington,Seattle,Huskies,Redhawks,3,4,121,76,45,1685,Washington,70,70,10, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,38.3,6.75,531622,NA,NA,0,Washington,Seattle,162
+2009-10,2010-01-26,899485,929,0,2,Washington,Seattle,Huskies,Redhawks,3,4,123,76,47,1685,Washington,56,56,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509349,NA,NA,0,Washington,Seattle,163
+2009-10,2010-01-26,899485,933,0,2,Washington,Seattle,Huskies,Redhawks,3,4,123,76,47,1598,Seattle,46,46,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,12.95,523765,NA,NA,0,Seattle,NA,164
+2009-10,2010-01-26,899485,944,0,2,Washington,Seattle,Huskies,Redhawks,3,4,123,76,47,NA,NA,0,0,46,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-26,899485,945,0,2,Washington,Seattle,Huskies,Redhawks,3,4,123,76,47,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Seattle,Seattle,NA

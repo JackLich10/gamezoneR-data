@@ -1,0 +1,254 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-02,913460,1,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,LSU,NA
+2009-10,2010-01-02,913460,3,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,0,0,0,1476,LSU,2383,1183,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,LSU,1
+2009-10,2010-01-02,913460,4,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,0,2,1476,LSU,2380,1180,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,Utah,1
+2009-10,2010-01-02,913460,5,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1670,Utah,2370,1170,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,36.8,25.35,508982,NA,NA,0,Utah,LSU,2
+2009-10,2010-01-02,913460,7,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1476,LSU,2352,1152,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509461,NA,NA,0,LSU,LSU,3
+2009-10,2010-01-02,913460,9,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1476,LSU,2348,1148,4, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,7.349999999999994,483817,NA,NA,0,LSU,Utah,3
+2009-10,2010-01-02,913460,10,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1670,Utah,2340,1140,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,22,29.65,508982,NA,NA,0,Utah,LSU,4
+2009-10,2010-01-02,913460,12,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1476,LSU,2331,1131,9,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,5
+2009-10,2010-01-02,913460,16,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1670,Utah,2298,1098,33, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29,28.65,333186,NA,NA,0,Utah,LSU,6
+2009-10,2010-01-02,913460,18,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1476,LSU,2273,1073,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295384,NA,NA,0,LSU,LSU,7
+2009-10,2010-01-02,913460,20,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,2,3,-1,1670,Utah,2272,1072,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,22,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,5,3,2,1476,LSU,2259,1059,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,37.5,24.25,295384,NA,NA,0,LSU,Utah,7
+2009-10,2010-01-02,913460,24,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,5,3,2,1670,Utah,2231,1031,28,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,30,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,5,3,2,1670,Utah,2221,1021,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,22.25,333188,NA,NA,0,Utah,LSU,8
+2009-10,2010-01-02,913460,32,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,5,3,2,1476,LSU,2220,1020,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,34,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,8,3,5,1476,LSU,2207,1007,13, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,18.2,27.849999999999994,509461,NA,NA,0,LSU,Utah,9
+2009-10,2010-01-02,913460,36,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,8,3,5,1670,Utah,2186,986,21,Offensive foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,10
+2009-10,2010-01-02,913460,37,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,8,3,5,1670,Utah,2186,986,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,43,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,10,3,7,1476,LSU,2174,974,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,LSU,11
+2009-10,2010-01-02,913460,44,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,10,3,7,1670,Utah,2174,974,0,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,11
+2009-10,2010-01-02,913460,45,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,11,3,8,1476,LSU,2174,974,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,11
+2009-10,2010-01-02,913460,46,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,11,3,8,1476,LSU,2174,974,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,50,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,11,3,8,1670,Utah,2156,956,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,LSU,12
+2009-10,2010-01-02,913460,51,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,11,3,8,1476,LSU,2150,950,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398592,NA,NA,0,LSU,Utah,13
+2009-10,2010-01-02,913460,52,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,11,5,6,1670,Utah,2142,942,8, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,9.8,18.45,401032,NA,NA,0,Utah,LSU,14
+2009-10,2010-01-02,913460,53,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,5,8,1476,LSU,2112,912,30, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,41.7,6.049999999999997,460874,NA,NA,0,LSU,Utah,15
+2009-10,2010-01-02,913460,54,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,8,5,1670,Utah,2086,886,26, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,41.7,24.55,333186,NA,NA,0,Utah,LSU,16
+2009-10,2010-01-02,913460,56,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,8,5,NA,NA,2059,859,27,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,57,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,8,5,1670,Utah,2059,859,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,58,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,8,5,1670,Utah,2059,859,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,64,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,10,3,1670,Utah,2048,848,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,333191,NA,NA,0,Utah,Utah,17
+2009-10,2010-01-02,913460,65,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,10,3,1476,LSU,2048,848,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,66,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,10,3,1476,LSU,2048,848,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,17
+2009-10,2010-01-02,913460,67,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,11,2,1670,Utah,2048,848,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,17
+2009-10,2010-01-02,913460,68,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,13,11,2,1476,LSU,2048,848,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,73,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,15,11,4,1476,LSU,2032,832,16, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,41.3,10.049999999999997,295384,NA,NA,0,LSU,Utah,18
+2009-10,2010-01-02,913460,77,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,15,11,4,1476,LSU,2019,819,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,19
+2009-10,2010-01-02,913460,78,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,15,11,4,1670,Utah,2019,819,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,81,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,15,11,4,1476,LSU,2014,814,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,83,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,17,11,6,1476,LSU,1987,787,27, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,11.5,11.650000000000006,398592,NA,NA,0,LSU,Utah,19
+2009-10,2010-01-02,913460,84,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,17,14,3,1670,Utah,1976,776,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,32.5,28.05,508981,NA,NA,0,Utah,LSU,20
+2009-10,2010-01-02,913460,85,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1476,LSU,1954,754,22, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.3,14.549999999999997,295384,NA,NA,0,LSU,Utah,21
+2009-10,2010-01-02,913460,88,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1476,LSU,1946,746,8,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,22
+2009-10,2010-01-02,913460,89,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1476,LSU,1946,746,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,92,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1670,Utah,1945,745,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,96,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1670,Utah,1938,738,7,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,22
+2009-10,2010-01-02,913460,97,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1670,Utah,1938,738,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,99,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1476,LSU,1931,731,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.8,30.049999999999997,398595,NA,NA,0,LSU,LSU,22
+2009-10,2010-01-02,913460,100,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,19,14,5,1476,LSU,1924,724,7, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.299999999999997,7.950000000000003,398592,NA,NA,0,LSU,LSU,22
+2009-10,2010-01-02,913460,101,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,21,14,7,1476,LSU,1918,718,6, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7.5,8.549999999999997,295384,NA,NA,0,LSU,Utah,22
+2009-10,2010-01-02,913460,102,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,21,16,5,1670,Utah,1894,694,24, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,13.8,6.95,508981,NA,NA,0,Utah,LSU,23
+2009-10,2010-01-02,913460,103,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1878,678,16, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,8.799999999999997,8.150000000000006,295384,NA,NA,0,LSU,Utah,24
+2009-10,2010-01-02,913460,107,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,NA,NA,1865,665,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,110,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1855,655,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,114,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1833,633,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509462,NA,NA,0,LSU,Utah,25
+2009-10,2010-01-02,913460,116,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1670,Utah,1821,621,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,122,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1670,Utah,1809,609,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,125,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1807,607,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,26
+2009-10,2010-01-02,913460,126,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1807,607,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,129,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1670,Utah,1795,595,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,130,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,16,7,1476,LSU,1795,595,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,26
+2009-10,2010-01-02,913460,131,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,17,6,1670,Utah,1795,595,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,26
+2009-10,2010-01-02,913460,132,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,18,5,1670,Utah,1795,595,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,26
+2009-10,2010-01-02,913460,134,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,23,18,5,1476,LSU,1771,571,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,21.349999999999994,295384,NA,NA,0,LSU,LSU,27
+2009-10,2010-01-02,913460,135,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,18,7,1476,LSU,1757,557,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483816,NA,NA,0,LSU,Utah,27
+2009-10,2010-01-02,913460,137,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,18,7,1670,Utah,1736,536,21, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,25.2,11.85,466750,NA,NA,0,Utah,Utah,28
+2009-10,2010-01-02,913460,139,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,18,7,1476,LSU,1734,534,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,28
+2009-10,2010-01-02,913460,140,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,19,6,1670,Utah,1734,534,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,28
+2009-10,2010-01-02,913460,141,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,20,5,1670,Utah,1734,534,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,29
+2009-10,2010-01-02,913460,148,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,20,5,1476,LSU,1722,522,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,154,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,25,20,5,1670,Utah,1712,512,10,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,30
+2009-10,2010-01-02,913460,155,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,26,20,6,1476,LSU,1712,512,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,30
+2009-10,2010-01-02,913460,156,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,26,20,6,1476,LSU,1712,512,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,157,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,20,7,1476,LSU,1712,512,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,30
+2009-10,2010-01-02,913460,160,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,20,7,1476,LSU,1688,488,24,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,31
+2009-10,2010-01-02,913460,161,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,20,7,1476,LSU,1688,488,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,162,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1688,488,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,31
+2009-10,2010-01-02,913460,163,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1688,488,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,32
+2009-10,2010-01-02,913460,168,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1684,484,4,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,33
+2009-10,2010-01-02,913460,172,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,NA,NA,1668,468,16,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,173,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,177,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1652,452,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,14.75,333186,NA,NA,0,Utah,Utah,33
+2009-10,2010-01-02,913460,180,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1476,LSU,1635,435,17,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,33
+2009-10,2010-01-02,913460,181,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,21,6,1670,Utah,1635,435,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,182,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,22,5,1670,Utah,1635,435,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,33
+2009-10,2010-01-02,913460,183,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,22,5,1476,LSU,1635,435,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,184,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,22,5,1670,Utah,1635,435,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,34
+2009-10,2010-01-02,913460,188,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,22,5,1476,LSU,1619,419,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,Utah,35
+2009-10,2010-01-02,913460,189,0,1,LSU,Utah,Tigers,Runnin' Utes,4,4,27,24,3,1670,Utah,1611,411,8, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,27.2,8.75,333188,NA,NA,0,Utah,LSU,36
+2009-10,2010-01-02,913460,191,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,27,24,3,1476,LSU,1607,407,4,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,194,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,27,24,3,1670,Utah,1594,394,13,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,195,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,28,24,4,1476,LSU,1594,394,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,196,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,28,24,4,1476,LSU,1594,394,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,199,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,28,24,4,1670,Utah,1592,392,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,203,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,28,24,4,1476,LSU,1575,375,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,204,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,28,24,4,1670,Utah,1575,375,0,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,205,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,24,5,1476,LSU,1575,375,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,206,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,24,5,1670,Utah,1575,375,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,207,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,24,5,1476,LSU,1575,375,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,37
+2009-10,2010-01-02,913460,213,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,24,5,1476,LSU,1544,344,31, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,9.349999999999994,295384,NA,NA,0,LSU,Utah,37
+2009-10,2010-01-02,913460,214,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,26,3,1670,Utah,1528,328,16, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,35.5,15.35,508981,NA,NA,0,Utah,LSU,38
+2009-10,2010-01-02,913460,216,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,26,3,1476,LSU,1512,312,16, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,10.650000000000006,295384,NA,NA,0,LSU,LSU,39
+2009-10,2010-01-02,913460,218,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,29,26,3,1670,Utah,1511,311,1,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,39
+2009-10,2010-01-02,913460,219,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,30,26,4,1476,LSU,1511,311,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,39
+2009-10,2010-01-02,913460,220,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,31,26,5,1476,LSU,1511,311,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,40
+2009-10,2010-01-02,913460,222,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,31,26,5,1670,Utah,1496,296,15, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,21.85,333186,NA,NA,0,Utah,LSU,41
+2009-10,2010-01-02,913460,223,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,33,26,7,1476,LSU,1479,279,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,Utah,42
+2009-10,2010-01-02,913460,224,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,33,28,5,1670,Utah,1455,255,24, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,26.3,13.15,333186,NA,NA,0,Utah,LSU,43
+2009-10,2010-01-02,913460,227,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,33,28,5,1670,Utah,1434,234,21,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,44
+2009-10,2010-01-02,913460,228,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,33,28,5,NA,NA,1434,234,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,229,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,34,28,6,1476,LSU,1434,234,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,44
+2009-10,2010-01-02,913460,230,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,28,7,1476,LSU,1434,234,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,44
+2009-10,2010-01-02,913460,231,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,28,7,1670,Utah,1434,234,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,235,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,28,7,1670,Utah,1408,208,26,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,237,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,30,5,1670,Utah,1407,207,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,333188,NA,NA,0,Utah,LSU,45
+2009-10,2010-01-02,913460,241,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,30,5,1670,Utah,1391,191,16, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,8.35,508982,NA,NA,0,Utah,Utah,46
+2009-10,2010-01-02,913460,250,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,30,5,1476,LSU,1375,175,16,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,46
+2009-10,2010-01-02,913460,251,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,31,4,1670,Utah,1375,175,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,46
+2009-10,2010-01-02,913460,252,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,31,4,1670,Utah,1375,175,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,46
+2009-10,2010-01-02,913460,254,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,31,4,1670,Utah,1332,132,43, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401032,NA,NA,0,Utah,LSU,46
+2009-10,2010-01-02,913460,255,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,35,31,4,1476,LSU,1311,111,21, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25,11.450000000000003,483816,NA,NA,0,LSU,LSU,47
+2009-10,2010-01-02,913460,256,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,37,31,6,1476,LSU,1308,108,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295384,NA,NA,0,LSU,Utah,47
+2009-10,2010-01-02,913460,257,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,37,31,6,1670,Utah,1282,82,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,LSU,48
+2009-10,2010-01-02,913460,258,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,37,31,6,1476,LSU,1267,67,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,Utah,49
+2009-10,2010-01-02,913460,259,0,1,LSU,Utah,Tigers,Runnin' Utes,3,4,37,31,6,1670,Utah,1257,57,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,28.65,401032,NA,NA,0,Utah,Utah,50
+2009-10,2010-01-02,913460,261,0,1,LSU,Utah,Tigers,Runnin' Utes,3,3,37,31,6,1670,Utah,1250,50,7,Runnin' Utes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,263,0,1,LSU,Utah,Tigers,Runnin' Utes,3,3,37,31,6,1670,Utah,1240,40,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27,29.25,333186,NA,NA,0,Utah,LSU,50
+2009-10,2010-01-02,913460,264,0,1,LSU,Utah,Tigers,Runnin' Utes,3,3,39,31,8,1476,LSU,1219,19,21, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,24.7,20.75,398595,NA,NA,0,LSU,Utah,51
+2009-10,2010-01-02,913460,266,0,1,LSU,Utah,Tigers,Runnin' Utes,3,3,39,33,6,1670,Utah,1204,4,15, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,19,10.45,333186,NA,NA,0,Utah,LSU,52
+2009-10,2010-01-02,913460,270,0,1,LSU,Utah,Tigers,Runnin' Utes,3,3,39,33,6,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,271,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,39,33,6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,LSU,53
+2009-10,2010-01-02,913460,277,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,39,33,6,1476,LSU,1184,1184,16, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,14.549999999999997,295384,NA,NA,0,LSU,Utah,54
+2009-10,2010-01-02,913460,278,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,39,33,6,1670,Utah,1174,1174,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,LSU,55
+2009-10,2010-01-02,913460,279,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,33,8,1476,LSU,1156,1156,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,460876,NA,NA,0,LSU,Utah,56
+2009-10,2010-01-02,913460,280,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,33,8,1670,Utah,1144,1144,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,16.85,508982,NA,NA,0,Utah,Utah,57
+2009-10,2010-01-02,913460,282,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,33,8,1476,LSU,1133,1133,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,57
+2009-10,2010-01-02,913460,296,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,35,6,1670,Utah,1114,1114,19, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,333188,NA,NA,0,Utah,LSU,57
+2009-10,2010-01-02,913460,298,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,35,6,1476,LSU,1094,1094,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483817,NA,NA,0,LSU,Utah,58
+2009-10,2010-01-02,913460,308,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,41,35,6,1670,Utah,1074,1074,20, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,28,24.05,333188,NA,NA,0,Utah,LSU,59
+2009-10,2010-01-02,913460,309,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,1055,1055,19, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,10.5,10.650000000000006,295384,NA,NA,0,LSU,Utah,60
+2009-10,2010-01-02,913460,310,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,1040,1040,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,22.45,333186,NA,NA,0,Utah,LSU,61
+2009-10,2010-01-02,913460,313,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,1008,1008,32,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,62
+2009-10,2010-01-02,913460,314,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,1008,1008,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,315,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,1008,1008,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,320,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,1002,1002,6, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,18.450000000000003,509461,NA,NA,0,LSU,LSU,62
+2009-10,2010-01-02,913460,321,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,998,998,4, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,8.349999999999994,460876,NA,NA,0,LSU,LSU,62
+2009-10,2010-01-02,913460,323,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,997,997,1,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,62
+2009-10,2010-01-02,913460,328,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,967,967,30,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,335,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,NA,NA,932,932,35,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,338,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,920,920,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,341,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,915,915,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,348,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1670,Utah,899,899,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,23.65,401032,NA,NA,0,Utah,LSU,62
+2009-10,2010-01-02,913460,351,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,876,876,23, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30.8,10.450000000000003,460876,NA,NA,0,LSU,LSU,63
+2009-10,2010-01-02,913460,352,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,43,35,8,1476,LSU,871,871,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295384,NA,NA,0,LSU,LSU,63
+2009-10,2010-01-02,913460,354,0,2,LSU,Utah,Tigers,Runnin' Utes,4,4,45,35,10,1476,LSU,868,868,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460876,NA,NA,0,LSU,Utah,63
+2009-10,2010-01-02,913460,355,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,45,35,10,1670,Utah,868,868,0,Runnin' Utes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,360,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,35,12,1476,LSU,829,829,39, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509461,NA,NA,0,LSU,Utah,64
+2009-10,2010-01-02,913460,363,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,35,12,1476,LSU,822,822,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,65
+2009-10,2010-01-02,913460,364,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,36,11,1670,Utah,822,822,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,65
+2009-10,2010-01-02,913460,365,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,36,11,1670,Utah,822,822,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,366,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1670,Utah,822,822,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,65
+2009-10,2010-01-02,913460,371,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1670,Utah,807,807,15,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,66
+2009-10,2010-01-02,913460,372,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1670,Utah,807,807,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,373,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1476,LSU,807,807,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,376,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1476,LSU,779,779,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,10.849999999999994,460876,NA,NA,0,LSU,LSU,66
+2009-10,2010-01-02,913460,378,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1670,Utah,778,778,1,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,66
+2009-10,2010-01-02,913460,383,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,37,10,1476,LSU,772,772,6, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.3,10.650000000000006,295384,NA,NA,0,LSU,Utah,66
+2009-10,2010-01-02,913460,384,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,39,8,1670,Utah,750,750,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,333191,NA,NA,0,Utah,LSU,67
+2009-10,2010-01-02,913460,387,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,39,8,1476,LSU,722,722,28, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,31.3,7.950000000000003,295384,NA,NA,0,LSU,Utah,68
+2009-10,2010-01-02,913460,391,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,39,8,1476,LSU,712,712,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,394,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,1670,Utah,704,704,8, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,25.8,11.65,333186,NA,NA,0,Utah,LSU,69
+2009-10,2010-01-02,913460,397,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,1476,LSU,668,668,36, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,12.049999999999997,398592,NA,NA,0,LSU,Utah,70
+2009-10,2010-01-02,913460,399,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,NA,NA,666,666,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,405,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,1670,Utah,649,649,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,411,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,1476,LSU,641,641,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,412,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,41,6,1476,LSU,641,641,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,71
+2009-10,2010-01-02,913460,413,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,42,5,1670,Utah,641,641,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,71
+2009-10,2010-01-02,913460,414,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,42,5,1476,LSU,641,641,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,415,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1670,Utah,641,641,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,71
+2009-10,2010-01-02,913460,416,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1670,Utah,641,641,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,418,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1476,LSU,615,615,26, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.799999999999997,9.650000000000006,398595,NA,NA,0,LSU,Utah,72
+2009-10,2010-01-02,913460,419,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1670,Utah,605,605,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,LSU,73
+2009-10,2010-01-02,913460,420,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1476,LSU,590,590,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,14.75,295384,NA,NA,0,LSU,LSU,74
+2009-10,2010-01-02,913460,423,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1670,Utah,575,575,15,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,74
+2009-10,2010-01-02,913460,424,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1476,LSU,575,575,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,74
+2009-10,2010-01-02,913460,425,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,47,43,4,1670,Utah,575,575,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,426,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,48,43,5,1476,LSU,575,575,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,74
+2009-10,2010-01-02,913460,428,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,48,45,3,1670,Utah,562,562,13, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,34.7,6.45,508982,NA,NA,0,Utah,LSU,75
+2009-10,2010-01-02,913460,430,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,48,45,3,1476,LSU,543,543,19, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31,8.75,295384,NA,NA,0,LSU,LSU,76
+2009-10,2010-01-02,913460,431,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,48,45,3,1476,LSU,543,543,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,436,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,48,45,3,1670,Utah,532,532,11,Shooting foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,76
+2009-10,2010-01-02,913460,437,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,49,45,4,1476,LSU,532,532,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,76
+2009-10,2010-01-02,913460,438,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,49,45,4,1670,Utah,532,532,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,439,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,49,45,4,1670,Utah,532,532,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,440,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1476,LSU,532,532,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,76
+2009-10,2010-01-02,913460,441,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1670,Utah,532,532,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,443,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1670,Utah,514,514,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27,30.05,508982,NA,NA,0,Utah,LSU,77
+2009-10,2010-01-02,913460,445,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1476,LSU,497,497,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509461,NA,NA,0,LSU,LSU,78
+2009-10,2010-01-02,913460,447,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1476,LSU,493,493,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,451,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1476,LSU,477,477,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,21.650000000000006,509461,NA,NA,0,LSU,LSU,78
+2009-10,2010-01-02,913460,453,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,1670,Utah,476,476,1,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,78
+2009-10,2010-01-02,913460,454,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,50,45,5,NA,NA,476,476,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,455,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,51,45,6,1476,LSU,476,476,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,78
+2009-10,2010-01-02,913460,456,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1476,LSU,476,476,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,79
+2009-10,2010-01-02,913460,458,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1670,Utah,467,467,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,10.05,401032,NA,NA,0,Utah,LSU,80
+2009-10,2010-01-02,913460,461,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1670,Utah,454,454,13,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,81
+2009-10,2010-01-02,913460,462,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1670,Utah,454,454,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,463,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1476,LSU,454,454,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,81
+2009-10,2010-01-02,913460,469,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1476,LSU,440,440,14,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,82
+2009-10,2010-01-02,913460,470,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1670,Utah,440,440,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,474,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1670,Utah,426,426,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,475,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,45,7,1476,LSU,426,426,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,82
+2009-10,2010-01-02,913460,476,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,46,6,1670,Utah,426,426,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,82
+2009-10,2010-01-02,913460,477,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,46,6,1476,LSU,426,426,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,478,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,47,5,1670,Utah,426,426,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,LSU,82
+2009-10,2010-01-02,913460,481,0,2,LSU,Utah,Tigers,Runnin' Utes,4,3,52,49,3,1670,Utah,385,385,41, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,43,11.45,333188,NA,NA,0,Utah,LSU,83
+2009-10,2010-01-02,913460,482,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,49,3,1476,LSU,383,383,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,485,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,49,3,1476,LSU,369,369,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460876,NA,NA,0,LSU,Utah,84
+2009-10,2010-01-02,913460,487,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,49,3,1476,LSU,362,362,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,489,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,49,3,1476,LSU,361,361,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,85
+2009-10,2010-01-02,913460,490,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,49,3,1476,LSU,361,361,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,492,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,51,1,1670,Utah,349,349,12, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.2,8.75,333191,NA,NA,0,Utah,LSU,85
+2009-10,2010-01-02,913460,494,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,51,1,1476,LSU,321,321,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.700000000000003,26.950000000000003,398592,NA,NA,0,LSU,Utah,86
+2009-10,2010-01-02,913460,501,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,52,54,-2,1670,Utah,303,303,18, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,9.15,508982,NA,NA,0,Utah,LSU,87
+2009-10,2010-01-02,913460,502,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,54,0,1476,LSU,277,277,26, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,27.2,20.549999999999997,483817,NA,NA,0,LSU,Utah,88
+2009-10,2010-01-02,913460,503,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,1670,Utah,265,265,12, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.2,10.85,401032,NA,NA,0,Utah,LSU,89
+2009-10,2010-01-02,913460,504,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,1476,LSU,245,245,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295384,NA,NA,0,LSU,LSU,90
+2009-10,2010-01-02,913460,505,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,1476,LSU,242,242,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295384,NA,NA,0,LSU,Utah,90
+2009-10,2010-01-02,913460,508,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,1670,Utah,236,236,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,LSU,91
+2009-10,2010-01-02,913460,511,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,1670,Utah,207,207,29,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,92
+2009-10,2010-01-02,913460,512,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,54,56,-2,NA,NA,207,207,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,513,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,55,56,-1,1476,LSU,207,207,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,92
+2009-10,2010-01-02,913460,514,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,55,56,-1,1476,LSU,207,207,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,93
+2009-10,2010-01-02,913460,524,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,57,56,1,1476,LSU,169,169,38, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,30.2,8.75,460876,NA,NA,0,LSU,Utah,93
+2009-10,2010-01-02,913460,525,0,2,LSU,Utah,Tigers,Runnin' Utes,3,3,57,56,1,1670,Utah,136,136,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,333188,NA,NA,0,Utah,Utah,94
+2009-10,2010-01-02,913460,527,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,57,56,1,1670,Utah,120,120,16,Runnin' Utes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,529,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,57,58,-1,1670,Utah,113,113,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,333186,NA,NA,0,Utah,LSU,94
+2009-10,2010-01-02,913460,531,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,57,58,-1,1476,LSU,86,86,27, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,13.75,398592,NA,NA,0,LSU,LSU,95
+2009-10,2010-01-02,913460,532,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,57,58,-1,1670,Utah,85,85,1,Personal foul committed by Runnin' Utes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,95
+2009-10,2010-01-02,913460,533,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,57,58,-1,1670,Utah,85,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-02,913460,534,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,58,58,0,1476,LSU,85,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,LSU,95
+2009-10,2010-01-02,913460,535,0,2,LSU,Utah,Tigers,Runnin' Utes,3,2,59,58,1,1476,LSU,85,85,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,LSU,Utah,95
+2009-10,2010-01-02,913460,536,0,2,LSU,Utah,Tigers,Runnin' Utes,2,2,59,58,1,1476,LSU,85,85,0,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,538,0,2,LSU,Utah,Tigers,Runnin' Utes,2,2,59,61,-2,1670,Utah,71,71,14, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46,8.35,401032,NA,NA,0,Utah,LSU,96
+2009-10,2010-01-02,913460,544,0,2,LSU,Utah,Tigers,Runnin' Utes,2,1,59,61,-2,1670,Utah,27,27,44,Runnin' Utes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,547,0,2,LSU,Utah,Tigers,Runnin' Utes,2,1,59,61,-2,1670,Utah,16,16,11, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,27.85,508982,NA,NA,0,Utah,LSU,97
+2009-10,2010-01-02,913460,549,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,1476,LSU,14,14,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,551,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,1476,LSU,7,7,7, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,40.5,15.849999999999994,295384,NA,NA,0,LSU,LSU,98
+2009-10,2010-01-02,913460,554,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,1476,LSU,5,5,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483817,NA,NA,0,LSU,Utah,98
+2009-10,2010-01-02,913460,558,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,1476,LSU,2,2,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,99
+2009-10,2010-01-02,913460,559,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,1670,Utah,2,2,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,NA,99
+2009-10,2010-01-02,913460,561,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-02,913460,562,0,2,LSU,Utah,Tigers,Runnin' Utes,1,1,59,61,-2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Utah,Utah,NA

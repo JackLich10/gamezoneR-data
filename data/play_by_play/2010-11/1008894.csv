@@ -1,0 +1,304 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-05,1008894,1,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,NA
+2010-11,2011-03-05,1008894,3,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,0,0,1449,Iowa,2384,1184,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,1
+2010-11,2011-03-05,1008894,4,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,0,0,1577,Purdue,2384,1184,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,1
+2010-11,2011-03-05,1008894,6,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,0,0,1449,Iowa,2355,1155,29,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,2
+2010-11,2011-03-05,1008894,7,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,1,-1,1577,Purdue,2355,1155,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,2
+2010-11,2011-03-05,1008894,8,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,0,2,-2,1577,Purdue,2355,1155,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,2
+2010-11,2011-03-05,1008894,10,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2332,1132,23, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,40.5,14.349999999999994,553557,NA,NA,0,Iowa,Purdue,3
+2010-11,2011-03-05,1008894,12,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1577,Purdue,2313,1113,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32,28.25,398422,NA,NA,0,Purdue,Purdue,4
+2010-11,2011-03-05,1008894,13,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2313,1113,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,4
+2010-11,2011-03-05,1008894,15,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2299,1099,14, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,24.049999999999997,402413,NA,NA,0,Iowa,Iowa,5
+2010-11,2011-03-05,1008894,16,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2299,1099,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,5
+2010-11,2011-03-05,1008894,17,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2295,1095,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,5
+2010-11,2011-03-05,1008894,18,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1577,Purdue,2295,1095,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,5
+2010-11,2011-03-05,1008894,19,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1577,Purdue,2285,1085,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.8,9.55,398422,NA,NA,0,Purdue,Purdue,6
+2010-11,2011-03-05,1008894,20,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2285,1085,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,6
+2010-11,2011-03-05,1008894,22,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2273,1073,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484192,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,23,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2273,1073,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,24,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2273,1073,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,25,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,2,2,0,1449,Iowa,2273,1073,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,26,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,4,2,2,1449,Iowa,2273,1073,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,27,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,4,2,2,1577,Purdue,2273,1073,0,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-03-05,1008894,28,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,2,3,1449,Iowa,2273,1073,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,7
+2010-11,2011-03-05,1008894,30,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,5,0,1577,Purdue,2253,1053,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.3,7.35,398424,NA,NA,0,Purdue,Iowa,8
+2010-11,2011-03-05,1008894,43,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,5,0,1577,Purdue,2216,1016,37, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,29.7,30.05,470256,NA,NA,0,Purdue,Purdue,9
+2010-11,2011-03-05,1008894,44,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,5,0,1449,Iowa,2216,1016,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,9
+2010-11,2011-03-05,1008894,46,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,5,0,1449,Iowa,2206,1006,10, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,6.450000000000003,484192,NA,NA,0,Iowa,Purdue,10
+2010-11,2011-03-05,1008894,53,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,7,-2,1577,Purdue,2197,997,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,471926,NA,NA,0,Purdue,Iowa,11
+2010-11,2011-03-05,1008894,54,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,7,-2,1449,Iowa,2181,981,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,22.25,469224,NA,NA,0,Iowa,Iowa,12
+2010-11,2011-03-05,1008894,55,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,7,-2,1577,Purdue,2181,981,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,12
+2010-11,2011-03-05,1008894,56,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,9,-4,1577,Purdue,2172,972,9, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,17,11.85,398422,NA,NA,0,Purdue,Iowa,13
+2010-11,2011-03-05,1008894,57,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,5,11,-6,1577,Purdue,2147,947,25, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,27.3,8.35,471926,NA,NA,0,Purdue,Iowa,14
+2010-11,2011-03-05,1008894,58,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,11,-4,1449,Iowa,2138,938,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Purdue,15
+2010-11,2011-03-05,1008894,59,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1577,Purdue,2121,921,17, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.8,8.15,398422,NA,NA,0,Purdue,Iowa,16
+2010-11,2011-03-05,1008894,60,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1449,Iowa,2106,906,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,23.450000000000003,402413,NA,NA,0,Iowa,Iowa,17
+2010-11,2011-03-05,1008894,61,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1577,Purdue,2106,906,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,17
+2010-11,2011-03-05,1008894,63,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1577,Purdue,2086,886,20, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,25.75,398424,NA,NA,0,Purdue,Purdue,18
+2010-11,2011-03-05,1008894,64,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1449,Iowa,2086,886,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,18
+2010-11,2011-03-05,1008894,65,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1577,Purdue,2082,882,4,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,19
+2010-11,2011-03-05,1008894,66,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,NA,NA,2082,882,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,67,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,7,13,-6,1449,Iowa,2082,882,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,19
+2010-11,2011-03-05,1008894,69,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,13,-5,1449,Iowa,2082,882,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,19
+2010-11,2011-03-05,1008894,71,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1577,Purdue,2073,873,9, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,25.2,13.15,549547,NA,NA,0,Purdue,Iowa,20
+2010-11,2011-03-05,1008894,77,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1449,Iowa,2034,834,39, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14,27.25,484192,NA,NA,0,Iowa,Iowa,21
+2010-11,2011-03-05,1008894,78,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1577,Purdue,2034,834,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,21
+2010-11,2011-03-05,1008894,81.5,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1449,Iowa,2034,834,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,22
+2010-11,2011-03-05,1008894,85,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1577,Purdue,2002,802,32, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19,28.25,398424,NA,NA,0,Purdue,Purdue,22
+2010-11,2011-03-05,1008894,86,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,8,15,-7,1449,Iowa,2002,802,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,22
+2010-11,2011-03-05,1008894,87,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,15,-5,1449,Iowa,1992,792,10, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469225,NA,NA,0,Iowa,Purdue,23
+2010-11,2011-03-05,1008894,95,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,15,-5,1449,Iowa,1984,784,8,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,24
+2010-11,2011-03-05,1008894,96,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,16,-6,1577,Purdue,1984,784,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,24
+2010-11,2011-03-05,1008894,97,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1984,784,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,24
+2010-11,2011-03-05,1008894,99,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1449,Iowa,1973,773,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,18.549999999999997,553557,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-03-05,1008894,100,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1973,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,25
+2010-11,2011-03-05,1008894,105,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1959,759,14, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,17.65,549547,NA,NA,0,Purdue,Purdue,26
+2010-11,2011-03-05,1008894,106,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1449,Iowa,1959,759,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,26
+2010-11,2011-03-05,1008894,107,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1959,759,0,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,27
+2010-11,2011-03-05,1008894,118,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1937,737,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,28,17.25,470257,NA,NA,0,Purdue,Purdue,27
+2010-11,2011-03-05,1008894,119,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1449,Iowa,1937,737,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,27
+2010-11,2011-03-05,1008894,120,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1932,732,5,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,123,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1915,715,17,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,124,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,NA,NA,1915,715,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,129,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1449,Iowa,1895,695,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27,29.25,469224,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,130,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1449,Iowa,1895,695,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,131,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1895,695,0,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,134,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,10,17,-7,1577,Purdue,1882,682,13,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,135,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,11,17,-6,1449,Iowa,1882,682,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,28
+2010-11,2011-03-05,1008894,136,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,17,-5,1449,Iowa,1882,682,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,28
+2010-11,2011-03-05,1008894,138,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1577,Purdue,1858,658,24, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398422,NA,NA,0,Purdue,Purdue,29
+2010-11,2011-03-05,1008894,140,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1449,Iowa,1853,653,5,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,29
+2010-11,2011-03-05,1008894,141,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1577,Purdue,1853,653,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,29
+2010-11,2011-03-05,1008894,142,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1449,Iowa,1853,653,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,29
+2010-11,2011-03-05,1008894,144,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1449,Iowa,1843,643,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553557,NA,NA,0,Iowa,Iowa,30
+2010-11,2011-03-05,1008894,145,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,12,19,-7,1449,Iowa,1843,643,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,30
+2010-11,2011-03-05,1008894,146,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1449,Iowa,1839,639,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.2,7.950000000000003,402413,NA,NA,0,Iowa,Purdue,30
+2010-11,2011-03-05,1008894,147,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1577,Purdue,1828,628,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,29.65,470261,NA,NA,0,Purdue,Purdue,31
+2010-11,2011-03-05,1008894,148,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1449,Iowa,1828,628,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,31
+2010-11,2011-03-05,1008894,159,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1449,Iowa,1798,598,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,18.049999999999997,402413,NA,NA,0,Iowa,Purdue,32
+2010-11,2011-03-05,1008894,162,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1577,Purdue,1778,578,20, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,8.15,398422,NA,NA,0,Purdue,Purdue,33
+2010-11,2011-03-05,1008894,163,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,14,19,-5,1449,Iowa,1778,578,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,33
+2010-11,2011-03-05,1008894,165,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,16,19,-3,1449,Iowa,1773,573,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Iowa,34
+2010-11,2011-03-05,1008894,166,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,16,19,-3,1577,Purdue,1773,573,0,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,34
+2010-11,2011-03-05,1008894,168,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,19,-2,1449,Iowa,1773,573,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,34
+2010-11,2011-03-05,1008894,175,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,22,-5,1577,Purdue,1754,554,19, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.7,23.05,549547,NA,NA,0,Purdue,Iowa,35
+2010-11,2011-03-05,1008894,176,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,22,-5,1449,Iowa,1745,545,9, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,553559,NA,NA,0,Iowa,Iowa,36
+2010-11,2011-03-05,1008894,177,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,22,-5,1577,Purdue,1745,545,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,36
+2010-11,2011-03-05,1008894,179,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,22,-5,1577,Purdue,1732,532,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398422,NA,NA,0,Purdue,Purdue,37
+2010-11,2011-03-05,1008894,194,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,24,-7,1577,Purdue,1703,503,29, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27.7,9.15,471926,NA,NA,0,Purdue,Iowa,37
+2010-11,2011-03-05,1008894,196,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,17,24,-7,1577,Purdue,1694,494,9,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,38
+2010-11,2011-03-05,1008894,197,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,18,24,-6,1449,Iowa,1694,494,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,38
+2010-11,2011-03-05,1008894,198,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,18,24,-6,1449,Iowa,1694,494,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,38
+2010-11,2011-03-05,1008894,199,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,18,24,-6,1449,Iowa,1694,494,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,38
+2010-11,2011-03-05,1008894,201,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,20,24,-4,1449,Iowa,1692,492,2, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.8,7.950000000000003,402413,NA,NA,0,Iowa,Purdue,38
+2010-11,2011-03-05,1008894,204,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,20,24,-4,1449,Iowa,1658,458,34, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,20.549999999999997,506036,NA,NA,0,Iowa,Iowa,39
+2010-11,2011-03-05,1008894,205,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,20,24,-4,1577,Purdue,1658,458,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,39
+2010-11,2011-03-05,1008894,206,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,20,24,-4,1577,Purdue,1646,446,12, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,9.15,470257,NA,NA,0,Purdue,Purdue,40
+2010-11,2011-03-05,1008894,207,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,20,24,-4,1449,Iowa,1646,446,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,40
+2010-11,2011-03-05,1008894,208,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,23,24,-1,1449,Iowa,1635,435,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.8,24.349999999999994,484192,NA,NA,0,Iowa,Purdue,41
+2010-11,2011-03-05,1008894,213,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,24,-1,1577,Purdue,1632,432,3,Boilermakers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,215,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,27,-4,1577,Purdue,1621,421,11, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,23.5,29.85,471928,NA,NA,0,Purdue,Iowa,42
+2010-11,2011-03-05,1008894,216,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,29,-6,1577,Purdue,1600,400,21, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.5,8.15,470257,NA,NA,0,Purdue,Iowa,43
+2010-11,2011-03-05,1008894,217,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,29,-6,1449,Iowa,1587,387,13, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,14,18.549999999999997,402413,NA,NA,0,Iowa,Iowa,44
+2010-11,2011-03-05,1008894,218,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,29,-6,1577,Purdue,1587,387,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,44
+2010-11,2011-03-05,1008894,219,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,29,-6,1577,Purdue,1579,379,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.7,30.05,471928,NA,NA,0,Purdue,Purdue,45
+2010-11,2011-03-05,1008894,220,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,23,29,-6,1449,Iowa,1579,379,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,45
+2010-11,2011-03-05,1008894,221,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,29,-3,1449,Iowa,1568,368,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.299999999999997,8.150000000000006,469224,NA,NA,0,Iowa,Purdue,46
+2010-11,2011-03-05,1008894,222,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,29,-3,1577,Purdue,1549,349,19, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,28,23.25,471926,NA,NA,0,Purdue,Purdue,47
+2010-11,2011-03-05,1008894,223,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,29,-3,1449,Iowa,1549,349,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,47
+2010-11,2011-03-05,1008894,224,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,31,-5,1577,Purdue,1544,344,5, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24,8.25,398422,NA,NA,0,Purdue,Iowa,48
+2010-11,2011-03-05,1008894,226,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,31,-5,1577,Purdue,1519,319,25,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,49
+2010-11,2011-03-05,1008894,231,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,26,31,-5,NA,NA,1519,319,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,233,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,27,31,-4,1449,Iowa,1519,319,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,49
+2010-11,2011-03-05,1008894,234,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,28,31,-3,1449,Iowa,1519,319,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,49
+2010-11,2011-03-05,1008894,241,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,28,31,-3,1577,Purdue,1497,297,22, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,14.35,398422,NA,NA,0,Purdue,Purdue,50
+2010-11,2011-03-05,1008894,242,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,28,31,-3,1449,Iowa,1497,297,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,50
+2010-11,2011-03-05,1008894,243,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,31,-1,1449,Iowa,1491,291,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,484192,NA,NA,0,Iowa,Purdue,51
+2010-11,2011-03-05,1008894,244,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1577,Purdue,1475,275,16, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,32,7.15,398422,NA,NA,0,Purdue,Iowa,52
+2010-11,2011-03-05,1008894,245,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1449,Iowa,1449,249,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553557,NA,NA,0,Iowa,Iowa,53
+2010-11,2011-03-05,1008894,246,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1449,Iowa,1449,249,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,53
+2010-11,2011-03-05,1008894,247,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1449,Iowa,1431,231,18, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,26,8.25,506043,NA,NA,0,Iowa,Iowa,53
+2010-11,2011-03-05,1008894,247.5,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1577,Purdue,1431,231,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,53
+2010-11,2011-03-05,1008894,248,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1449,Iowa,1431,231,0,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,54
+2010-11,2011-03-05,1008894,249,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,NA,NA,1431,231,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,255,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,33,-3,1577,Purdue,1431,231,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,54
+2010-11,2011-03-05,1008894,257,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,34,-4,1577,Purdue,1431,231,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,54
+2010-11,2011-03-05,1008894,263,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,34,-4,1577,Purdue,1419,219,12,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,55
+2010-11,2011-03-05,1008894,264,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,30,34,-4,1449,Iowa,1419,219,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,55
+2010-11,2011-03-05,1008894,266,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,31,34,-3,1449,Iowa,1419,219,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,55
+2010-11,2011-03-05,1008894,276,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,31,34,-3,1577,Purdue,1392,192,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7,19.15,470261,NA,NA,0,Purdue,Purdue,56
+2010-11,2011-03-05,1008894,277,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,31,34,-3,1449,Iowa,1392,192,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,56
+2010-11,2011-03-05,1008894,279,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1449,Iowa,1384,184,8, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47,7.25,553558,NA,NA,0,Iowa,Purdue,57
+2010-11,2011-03-05,1008894,308,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1315,115,69, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,471926,NA,NA,0,Purdue,Purdue,58
+2010-11,2011-03-05,1008894,309,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1315,115,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,58
+2010-11,2011-03-05,1008894,310,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1449,Iowa,1315,115,0,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,58
+2010-11,2011-03-05,1008894,311,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1315,115,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,58
+2010-11,2011-03-05,1008894,313,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1315,115,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,58
+2010-11,2011-03-05,1008894,314,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1449,Iowa,1315,115,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,58
+2010-11,2011-03-05,1008894,318,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1449,Iowa,1298,98,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,7.150000000000006,553558,NA,NA,0,Iowa,Iowa,59
+2010-11,2011-03-05,1008894,319,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1298,98,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,59
+2010-11,2011-03-05,1008894,320,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1289,89,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6,17.25,549547,NA,NA,0,Purdue,Purdue,60
+2010-11,2011-03-05,1008894,321,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1289,89,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,60
+2010-11,2011-03-05,1008894,322,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1577,Purdue,1279,79,10, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,9.15,471926,NA,NA,0,Purdue,Purdue,60
+2010-11,2011-03-05,1008894,323,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,34,34,0,1449,Iowa,1279,79,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,60
+2010-11,2011-03-05,1008894,324,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,36,34,2,1449,Iowa,1266,66,13, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,39,6.25,484192,NA,NA,0,Iowa,Purdue,61
+2010-11,2011-03-05,1008894,326,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,36,36,0,1577,Purdue,1242,42,24, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,21.5,15.35,398422,NA,NA,0,Purdue,Purdue,62
+2010-11,2011-03-05,1008894,328,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,36,36,0,1449,Iowa,1242,42,0,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,62
+2010-11,2011-03-05,1008894,329,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,36,36,0,1577,Purdue,1242,42,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,62
+2010-11,2011-03-05,1008894,330,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,36,36,0,1449,Iowa,1242,42,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,62
+2010-11,2011-03-05,1008894,333,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1577,Purdue,1240,40,2,Boilermakers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,338,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1449,Iowa,1211,11,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553557,NA,NA,0,Iowa,Iowa,63
+2010-11,2011-03-05,1008894,339,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1449,Iowa,1211,11,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,63
+2010-11,2011-03-05,1008894,342,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1449,Iowa,1209,9,2, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27,29.25,553558,NA,NA,0,Iowa,Purdue,63
+2010-11,2011-03-05,1008894,346,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1449,Iowa,1204,4,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,64
+2010-11,2011-03-05,1008894,347,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1577,Purdue,1204,4,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,64
+2010-11,2011-03-05,1008894,348,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,1449,Iowa,1204,4,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,64
+2010-11,2011-03-05,1008894,350,0,1,Iowa,Purdue,Hawkeyes,Boilermakers,4,2,36,36,0,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,354,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,36,36,0,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,65
+2010-11,2011-03-05,1008894,359,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,36,2,1449,Iowa,1181,1181,19, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,12,15.150000000000006,484192,NA,NA,0,Iowa,Purdue,66
+2010-11,2011-03-05,1008894,360,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,38,0,1577,Purdue,1161,1161,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398422,NA,NA,0,Purdue,Iowa,67
+2010-11,2011-03-05,1008894,361,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,38,0,1449,Iowa,1132,1132,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,14.700000000000003,6.75,553559,NA,NA,0,Iowa,Iowa,68
+2010-11,2011-03-05,1008894,362,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,38,0,1577,Purdue,1132,1132,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,68
+2010-11,2011-03-05,1008894,363,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,38,0,1577,Purdue,1107,1107,25, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,23.45,471926,NA,NA,0,Purdue,Purdue,69
+2010-11,2011-03-05,1008894,364,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,38,38,0,1449,Iowa,1107,1107,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,69
+2010-11,2011-03-05,1008894,365,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,38,2,1449,Iowa,1100,1100,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,553559,NA,NA,0,Iowa,Purdue,70
+2010-11,2011-03-05,1008894,384,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,38,2,1577,Purdue,1078,1078,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,29.85,470256,NA,NA,0,Purdue,Purdue,71
+2010-11,2011-03-05,1008894,385,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,38,2,1577,Purdue,1078,1078,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,71
+2010-11,2011-03-05,1008894,386,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1577,Purdue,1072,1072,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398422,NA,NA,0,Purdue,Iowa,71
+2010-11,2011-03-05,1008894,388,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1577,Purdue,1055,1055,17,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,72
+2010-11,2011-03-05,1008894,390,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1449,Iowa,1049,1049,6, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,12.049999999999997,553557,NA,NA,0,Iowa,Iowa,72
+2010-11,2011-03-05,1008894,391,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1577,Purdue,1049,1049,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,72
+2010-11,2011-03-05,1008894,392,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1577,Purdue,1028,1028,21, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,398422,NA,NA,0,Purdue,Purdue,73
+2010-11,2011-03-05,1008894,393,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,40,40,0,1449,Iowa,1028,1028,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,73
+2010-11,2011-03-05,1008894,394,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,42,40,2,1449,Iowa,1012,1012,16, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,35.5,18.75,553559,NA,NA,0,Iowa,Purdue,74
+2010-11,2011-03-05,1008894,396,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,4,44,40,4,1449,Iowa,992,992,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469224,NA,NA,0,Iowa,Purdue,75
+2010-11,2011-03-05,1008894,397,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,44,40,4,1577,Purdue,992,992,0,Boilermakers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,399,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,44,42,2,1577,Purdue,973,973,19, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.7,8.75,398424,NA,NA,0,Purdue,Iowa,76
+2010-11,2011-03-05,1008894,400,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,46,42,4,1449,Iowa,960,960,13, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22,7.150000000000006,506036,NA,NA,0,Iowa,Purdue,77
+2010-11,2011-03-05,1008894,402,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,46,42,4,NA,NA,950,950,10,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,404,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,46,42,4,1449,Iowa,939,939,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506036,NA,NA,0,Iowa,Iowa,78
+2010-11,2011-03-05,1008894,405,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,46,42,4,1449,Iowa,939,939,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,78
+2010-11,2011-03-05,1008894,406,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,48,42,6,1449,Iowa,934,934,5, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,22.5,7.75,553559,NA,NA,0,Iowa,Purdue,78
+2010-11,2011-03-05,1008894,407,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,48,44,4,1577,Purdue,917,917,17, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.7,14.55,398424,NA,NA,0,Purdue,Iowa,79
+2010-11,2011-03-05,1008894,409,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,48,44,4,1577,Purdue,895,895,22,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,80
+2010-11,2011-03-05,1008894,411,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,889,889,6, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,40.8,12.75,469224,NA,NA,0,Iowa,Purdue,80
+2010-11,2011-03-05,1008894,412,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,874,874,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,37,18.55,398422,NA,NA,0,Purdue,Purdue,81
+2010-11,2011-03-05,1008894,413,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,874,874,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,81
+2010-11,2011-03-05,1008894,414,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,864,864,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,6.65,470256,NA,NA,0,Purdue,Purdue,81
+2010-11,2011-03-05,1008894,415,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,864,864,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,81
+2010-11,2011-03-05,1008894,416,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,857,857,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.2,24.55,398424,NA,NA,0,Purdue,Purdue,82
+2010-11,2011-03-05,1008894,417,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,857,857,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,82
+2010-11,2011-03-05,1008894,420,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,840,840,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,11.65,471926,NA,NA,0,Purdue,Purdue,83
+2010-11,2011-03-05,1008894,421,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,840,840,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,83
+2010-11,2011-03-05,1008894,423,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,824,824,16, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,23.25,469224,NA,NA,0,Iowa,Iowa,84
+2010-11,2011-03-05,1008894,424,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,824,824,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,84
+2010-11,2011-03-05,1008894,426,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,821,821,3, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,29.650000000000006,553557,NA,NA,0,Iowa,Purdue,84
+2010-11,2011-03-05,1008894,428,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,814,814,7, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,14.75,398422,NA,NA,0,Purdue,Purdue,85
+2010-11,2011-03-05,1008894,429,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,814,814,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,85
+2010-11,2011-03-05,1008894,430,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,806,806,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,8.150000000000006,553558,NA,NA,0,Iowa,Iowa,86
+2010-11,2011-03-05,1008894,431,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1577,Purdue,806,806,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,86
+2010-11,2011-03-05,1008894,444,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,782,782,24,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,87
+2010-11,2011-03-05,1008894,447,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,44,6,1449,Iowa,776,776,6,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,87
+2010-11,2011-03-05,1008894,448,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,45,5,1577,Purdue,776,776,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,87
+2010-11,2011-03-05,1008894,449,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,46,4,1577,Purdue,776,776,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,87
+2010-11,2011-03-05,1008894,454,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,50,46,4,1577,Purdue,747,747,29,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,88
+2010-11,2011-03-05,1008894,455,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,46,5,1449,Iowa,747,747,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,88
+2010-11,2011-03-05,1008894,456,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,46,5,1449,Iowa,747,747,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,88
+2010-11,2011-03-05,1008894,457,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,46,5,1577,Purdue,747,747,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,88
+2010-11,2011-03-05,1008894,460,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,46,5,1449,Iowa,734,734,13,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,89
+2010-11,2011-03-05,1008894,462,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,48,3,1577,Purdue,731,731,3, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27,9.25,398422,NA,NA,0,Purdue,Iowa,89
+2010-11,2011-03-05,1008894,464,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,48,3,1577,Purdue,705,705,26,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,90
+2010-11,2011-03-05,1008894,465,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,51,48,3,NA,NA,705,705,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,469,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,695,695,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506043,NA,NA,0,Iowa,Purdue,90
+2010-11,2011-03-05,1008894,471,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,668,668,27, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,40,15.25,398422,NA,NA,0,Purdue,Purdue,91
+2010-11,2011-03-05,1008894,472,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,668,668,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,91
+2010-11,2011-03-05,1008894,475,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,658,658,10,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,92
+2010-11,2011-03-05,1008894,482,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,641,641,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553558,NA,NA,0,Iowa,Iowa,92
+2010-11,2011-03-05,1008894,483,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,641,641,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,92
+2010-11,2011-03-05,1008894,485,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,611,611,30, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,31.3,7.95,398422,NA,NA,0,Purdue,Purdue,93
+2010-11,2011-03-05,1008894,486,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,611,611,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,93
+2010-11,2011-03-05,1008894,487,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,611,611,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,93
+2010-11,2011-03-05,1008894,489,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,590,590,21, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,7.75,549547,NA,NA,0,Purdue,Purdue,93
+2010-11,2011-03-05,1008894,490,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,590,590,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,93
+2010-11,2011-03-05,1008894,492,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,581,581,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,13.549999999999997,469224,NA,NA,0,Iowa,Iowa,94
+2010-11,2011-03-05,1008894,493,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,581,581,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,94
+2010-11,2011-03-05,1008894,494,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,581,581,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,95
+2010-11,2011-03-05,1008894,496,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,561,561,20, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,9.849999999999994,469224,NA,NA,0,Iowa,Iowa,95
+2010-11,2011-03-05,1008894,497,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,561,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,95
+2010-11,2011-03-05,1008894,499,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,554,554,7,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,96
+2010-11,2011-03-05,1008894,501,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,541,541,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,13.35,398422,NA,NA,0,Purdue,Purdue,96
+2010-11,2011-03-05,1008894,502,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1449,Iowa,541,541,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,96
+2010-11,2011-03-05,1008894,510,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,48,5,1577,Purdue,504,504,37, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,31,29.45,398424,NA,NA,0,Purdue,Purdue,97
+2010-11,2011-03-05,1008894,513,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,501,501,3, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,15.25,398424,NA,NA,0,Purdue,Iowa,97
+2010-11,2011-03-05,1008894,514,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1449,Iowa,472,472,29, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,7.349999999999994,506036,NA,NA,0,Iowa,Iowa,98
+2010-11,2011-03-05,1008894,515,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,472,472,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,98
+2010-11,2011-03-05,1008894,516,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,462,462,10, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,27.5,31.15,549547,NA,NA,0,Purdue,Purdue,99
+2010-11,2011-03-05,1008894,517,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,462,462,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,99
+2010-11,2011-03-05,1008894,519,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,440,440,22, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,13.35,398424,NA,NA,0,Purdue,Purdue,99
+2010-11,2011-03-05,1008894,521,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,NA,NA,440,440,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,524,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1577,Purdue,421,421,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,15.35,471928,NA,NA,0,Purdue,Purdue,99
+2010-11,2011-03-05,1008894,525,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1449,Iowa,421,421,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,99
+2010-11,2011-03-05,1008894,526,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1449,Iowa,406,406,15, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,22.25,553557,NA,NA,0,Iowa,Iowa,100
+2010-11,2011-03-05,1008894,527,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,53,50,3,1449,Iowa,406,406,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,100
+2010-11,2011-03-05,1008894,528,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,50,5,1449,Iowa,401,401,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.8,7.950000000000003,553559,NA,NA,0,Iowa,Purdue,100
+2010-11,2011-03-05,1008894,529,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,50,5,1577,Purdue,384,384,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,9.15,398422,NA,NA,0,Purdue,Purdue,101
+2010-11,2011-03-05,1008894,530,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,50,5,1577,Purdue,384,384,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,101
+2010-11,2011-03-05,1008894,531,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,50,5,1577,Purdue,379,379,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398422,NA,NA,0,Purdue,Purdue,101
+2010-11,2011-03-05,1008894,532,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,50,5,1577,Purdue,379,379,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,101
+2010-11,2011-03-05,1008894,533,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1577,Purdue,374,374,5, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.2,24.35,471928,NA,NA,0,Purdue,Iowa,101
+2010-11,2011-03-05,1008894,536,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1577,Purdue,346,346,28, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.7,8.35,398422,NA,NA,0,Purdue,Purdue,102
+2010-11,2011-03-05,1008894,537,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1449,Iowa,346,346,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,102
+2010-11,2011-03-05,1008894,539,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1577,Purdue,328,328,18,Offensive foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,103
+2010-11,2011-03-05,1008894,544,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1577,Purdue,303,303,25,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,104
+2010-11,2011-03-05,1008894,545,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1449,Iowa,303,303,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,104
+2010-11,2011-03-05,1008894,552,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,53,2,1577,Purdue,296,296,7, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26,8.75,471926,NA,NA,0,Purdue,Purdue,105
+2010-11,2011-03-05,1008894,555,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,55,56,-1,1577,Purdue,285,285,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.199999999999999,19.35,470256,NA,NA,0,Purdue,Iowa,105
+2010-11,2011-03-05,1008894,556,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,57,56,1,1449,Iowa,257,257,28, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28,8.25,402413,NA,NA,0,Iowa,Purdue,106
+2010-11,2011-03-05,1008894,557,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,57,56,1,1577,Purdue,245,245,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,23.25,471928,NA,NA,0,Purdue,Purdue,107
+2010-11,2011-03-05,1008894,558,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,57,56,1,1449,Iowa,245,245,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,107
+2010-11,2011-03-05,1008894,561,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,57,56,1,1449,Iowa,222,222,23, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,21.150000000000006,402413,NA,NA,0,Iowa,Iowa,108
+2010-11,2011-03-05,1008894,562,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,57,56,1,1449,Iowa,222,222,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,108
+2010-11,2011-03-05,1008894,563,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,56,3,1449,Iowa,222,222,0, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,24.5,7.549999999999997,553559,NA,NA,0,Iowa,Purdue,108
+2010-11,2011-03-05,1008894,564.5,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,56,3,1449,Iowa,211,211,11,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,109
+2010-11,2011-03-05,1008894,566,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,56,3,NA,NA,211,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,568,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,57,2,1577,Purdue,211,211,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,109
+2010-11,2011-03-05,1008894,569,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,57,2,1577,Purdue,211,211,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,109
+2010-11,2011-03-05,1008894,570,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,59,57,2,1449,Iowa,211,211,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,109
+2010-11,2011-03-05,1008894,576,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,61,57,4,1449,Iowa,188,188,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469224,NA,NA,0,Iowa,Purdue,110
+2010-11,2011-03-05,1008894,577,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,61,57,4,1577,Purdue,170,170,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,20.75,470256,NA,NA,0,Purdue,Purdue,111
+2010-11,2011-03-05,1008894,578,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,4,3,61,57,4,1449,Iowa,170,170,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,111
+2010-11,2011-03-05,1008894,582,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,61,57,4,1449,Iowa,158,158,12,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,585,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,61,57,4,1449,Iowa,134,134,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,7.25,553557,NA,NA,0,Iowa,Purdue,112
+2010-11,2011-03-05,1008894,591,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,61,57,4,1449,Iowa,121,121,13,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,113
+2010-11,2011-03-05,1008894,592,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,61,58,3,1577,Purdue,121,121,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,113
+2010-11,2011-03-05,1008894,593,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,61,59,2,1577,Purdue,121,121,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,113
+2010-11,2011-03-05,1008894,597,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,63,59,4,1449,Iowa,103,103,18, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22.3,22.25,402413,NA,NA,0,Iowa,Purdue,114
+2010-11,2011-03-05,1008894,600,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,63,59,4,1577,Purdue,90,90,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.8,29.65,398424,NA,NA,0,Purdue,Purdue,115
+2010-11,2011-03-05,1008894,601,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,63,59,4,1577,Purdue,90,90,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,115
+2010-11,2011-03-05,1008894,602,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,63,59,4,1577,Purdue,84,84,6, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,22.3,30.25,471926,NA,NA,0,Purdue,Purdue,115
+2010-11,2011-03-05,1008894,603,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,3,63,59,4,1577,Purdue,84,84,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,115
+2010-11,2011-03-05,1008894,605,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1577,Purdue,81,81,3,Boilermakers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,609,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1577,Purdue,78,78,3, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,22.65,470256,NA,NA,0,Purdue,Purdue,115
+2010-11,2011-03-05,1008894,610,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1449,Iowa,78,78,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,115
+2010-11,2011-03-05,1008894,612,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1577,Purdue,72,72,6,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,116
+2010-11,2011-03-05,1008894,613,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1449,Iowa,72,72,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,116
+2010-11,2011-03-05,1008894,614,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,59,4,1577,Purdue,72,72,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,116
+2010-11,2011-03-05,1008894,617,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,2,63,61,2,1577,Purdue,68,68,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,471926,NA,NA,0,Purdue,Iowa,117
+2010-11,2011-03-05,1008894,618,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,3,1,63,61,2,1577,Purdue,67,67,1,Boilermakers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,621,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,63,61,2,1449,Iowa,47,47,20,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,624,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1449,Iowa,30,30,17, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,25.7,15.650000000000006,484192,NA,NA,0,Iowa,Purdue,118
+2010-11,2011-03-05,1008894,626,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1577,Purdue,24,24,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,24.05,471928,NA,NA,0,Purdue,Purdue,119
+2010-11,2011-03-05,1008894,627,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1449,Iowa,24,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Iowa,119
+2010-11,2011-03-05,1008894,629,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1577,Purdue,20,20,4,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,120
+2010-11,2011-03-05,1008894,631,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1449,Iowa,20,20,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,120
+2010-11,2011-03-05,1008894,632,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,61,4,1577,Purdue,20,20,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,120
+2010-11,2011-03-05,1008894,637,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,1,65,63,2,1577,Purdue,13,13,7, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.5,7.75,471926,NA,NA,0,Purdue,Iowa,121
+2010-11,2011-03-05,1008894,638,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,0,65,63,2,1577,Purdue,13,13,0,Boilermakers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,642,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,0,65,63,2,1577,Purdue,10,10,3,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,122
+2010-11,2011-03-05,1008894,643,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,0,66,63,3,1449,Iowa,10,10,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,122
+2010-11,2011-03-05,1008894,644,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,2,0,67,63,4,1449,Iowa,10,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Purdue,122
+2010-11,2011-03-05,1008894,645,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,1,0,67,63,4,1449,Iowa,10,10,0,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,650,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,1,0,67,65,2,1577,Purdue,3,3,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398424,NA,NA,0,Purdue,Iowa,123
+2010-11,2011-03-05,1008894,653,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,0,0,67,65,2,1449,Iowa,2,2,1,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,656,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,0,0,67,65,2,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-05,1008894,657,0,2,Iowa,Purdue,Hawkeyes,Boilermakers,0,0,67,65,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,NA

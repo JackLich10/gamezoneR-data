@@ -1,0 +1,267 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-06,914035,1,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,NA
+2009-10,2010-02-06,914035,4,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,0,0,0,1507,Missouri,2374,1174,26,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,5,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1360,Colorado,2374,1174,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,6,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1360,Colorado,2374,1174,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,9,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1507,Missouri,2345,1145,29,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,12,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1507,Missouri,2344,1144,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,13,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1360,Colorado,2344,1144,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,1
+2009-10,2010-02-06,914035,14,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,0,1,1360,Colorado,2344,1144,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,1
+2009-10,2010-02-06,914035,16,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,1,3,-2,1507,Missouri,2324,1124,20, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,43.7,16.65,458725,NA,NA,0,Missouri,Colorado,2
+2009-10,2010-02-06,914035,17,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,3,3,0,1360,Colorado,2304,1104,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,3
+2009-10,2010-02-06,914035,19,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,3,5,-2,1507,Missouri,2293,1093,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458723,NA,NA,0,Missouri,Missouri,4
+2009-10,2010-02-06,914035,20,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,3,5,-2,1360,Colorado,2293,1093,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,4
+2009-10,2010-02-06,914035,21,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,3,6,-3,1507,Missouri,2293,1093,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,4
+2009-10,2010-02-06,914035,29,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,5,6,-1,1360,Colorado,2239,1039,54, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,5
+2009-10,2010-02-06,914035,31,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,5,6,-1,1507,Missouri,2230,1030,9,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,6
+2009-10,2010-02-06,914035,32,0,1,Colorado,Missouri,Buffaloes,Tigers,4,4,5,6,-1,1507,Missouri,2230,1030,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,36,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1360,Colorado,2227,1027,3,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,39,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1360,Colorado,2211,1011,16,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,7
+2009-10,2010-02-06,914035,40,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1507,Missouri,2211,1011,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,46,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1507,Missouri,2206,1006,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458724,NA,NA,0,Missouri,Colorado,7
+2009-10,2010-02-06,914035,47,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1360,Colorado,2202,1002,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Missouri,8
+2009-10,2010-02-06,914035,56,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1360,Colorado,2176,976,26,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,9
+2009-10,2010-02-06,914035,57,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,6,-1,1360,Colorado,2176,976,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,58,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,7,-2,1507,Missouri,2176,976,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,9
+2009-10,2010-02-06,914035,59,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,7,-2,1507,Missouri,2176,976,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,9
+2009-10,2010-02-06,914035,63,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1507,Missouri,2166,966,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,5.199999999999999,19.55,458725,NA,NA,0,Missouri,Colorado,9
+2009-10,2010-02-06,914035,65,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1507,Missouri,2158,958,8,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,10
+2009-10,2010-02-06,914035,71,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,NA,NA,2153,953,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,76,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1507,Missouri,2140,940,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,10
+2009-10,2010-02-06,914035,77,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1507,Missouri,2140,940,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,79,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2130,930,10, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,18.450000000000003,512995,NA,NA,0,Colorado,Colorado,10
+2009-10,2010-02-06,914035,80,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2124,924,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458708,NA,NA,0,Colorado,Missouri,10
+2009-10,2010-02-06,914035,82,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2118,918,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,85,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2107,907,11,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,11
+2009-10,2010-02-06,914035,86,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2107,907,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,87,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2107,907,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,88,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1507,Missouri,2107,907,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,89,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2107,907,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,91,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2084,884,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329550,NA,NA,0,Colorado,Missouri,11
+2009-10,2010-02-06,914035,93,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,10,-5,1360,Colorado,2079,879,5,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,12
+2009-10,2010-02-06,914035,94,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,11,-6,1507,Missouri,2079,879,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,12
+2009-10,2010-02-06,914035,95,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,11,-6,1507,Missouri,2079,879,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,96,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,11,-6,1507,Missouri,2079,879,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,97,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,2079,879,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,12
+2009-10,2010-02-06,914035,99,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1360,Colorado,2052,852,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.799999999999997,15.150000000000006,405832,NA,NA,0,Colorado,Missouri,13
+2009-10,2010-02-06,914035,100,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,2036,836,16, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33,21.45,301996,NA,NA,0,Missouri,Missouri,14
+2009-10,2010-02-06,914035,101,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,2014,814,22, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,19.15,330361,NA,NA,0,Missouri,Colorado,14
+2009-10,2010-02-06,914035,103,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1360,Colorado,1999,799,15,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,15
+2009-10,2010-02-06,914035,104,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,1999,799,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,108,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,1984,784,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,12.75,458725,NA,NA,0,Missouri,Colorado,16
+2009-10,2010-02-06,914035,110,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1360,Colorado,1980,780,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,113,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,5,12,-7,1507,Missouri,1967,767,13,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,17
+2009-10,2010-02-06,914035,115,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,6,12,-6,1360,Colorado,1967,767,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,17
+2009-10,2010-02-06,914035,116,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,12,-5,1360,Colorado,1967,767,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,17
+2009-10,2010-02-06,914035,118,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,12,-5,1507,Missouri,1948,748,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38,25.95,506111,NA,NA,0,Missouri,Missouri,18
+2009-10,2010-02-06,914035,120,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,12,-5,1360,Colorado,1910,710,38,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,18
+2009-10,2010-02-06,914035,121,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,12,-5,NA,NA,1910,710,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,123,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,13,-6,1507,Missouri,1910,710,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,18
+2009-10,2010-02-06,914035,124,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,14,-7,1507,Missouri,1910,710,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,18
+2009-10,2010-02-06,914035,128,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,17,-10,1507,Missouri,1891,691,19, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.199999999999999,14.35,458722,NA,NA,0,Missouri,Colorado,19
+2009-10,2010-02-06,914035,130,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,7,17,-10,1507,Missouri,1877,677,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,20
+2009-10,2010-02-06,914035,131,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,8,17,-9,1360,Colorado,1877,677,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,20
+2009-10,2010-02-06,914035,132,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,9,17,-8,1360,Colorado,1877,677,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,20
+2009-10,2010-02-06,914035,140,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,9,19,-10,1507,Missouri,1855,655,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458726,NA,NA,0,Missouri,Colorado,21
+2009-10,2010-02-06,914035,142,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,9,19,-10,1360,Colorado,1842,642,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,145,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,12,19,-7,1360,Colorado,1835,635,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.8,5.849999999999994,513002,NA,NA,0,Colorado,Missouri,22
+2009-10,2010-02-06,914035,146,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,12,19,-7,1507,Missouri,1823,623,12, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,18.55,458725,NA,NA,0,Missouri,Colorado,23
+2009-10,2010-02-06,914035,147,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,12,19,-7,1360,Colorado,1806,606,17, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.700000000000003,9.150000000000006,405832,NA,NA,0,Colorado,Colorado,24
+2009-10,2010-02-06,914035,148,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,19,-4,1360,Colorado,1800,600,6, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.5,7.549999999999997,458711,NA,NA,0,Colorado,Missouri,24
+2009-10,2010-02-06,914035,149,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,19,-4,1507,Missouri,1787,587,13, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,7.15,458726,NA,NA,0,Missouri,Missouri,25
+2009-10,2010-02-06,914035,150,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,21,-6,1507,Missouri,1784,584,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458723,NA,NA,0,Missouri,Colorado,25
+2009-10,2010-02-06,914035,151,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,21,-6,1360,Colorado,1765,565,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,12.049999999999997,405832,NA,NA,0,Colorado,Missouri,26
+2009-10,2010-02-06,914035,153,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,21,-6,1360,Colorado,1758,558,7,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,27
+2009-10,2010-02-06,914035,154,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,22,-7,1507,Missouri,1758,558,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,27
+2009-10,2010-02-06,914035,155,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,15,23,-8,1507,Missouri,1758,558,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,27
+2009-10,2010-02-06,914035,159,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,18,23,-5,1360,Colorado,1730,530,28, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,25.7,30.25,512995,NA,NA,0,Colorado,Missouri,28
+2009-10,2010-02-06,914035,160,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,18,23,-5,1507,Missouri,1717,517,13, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,16,17.65,458725,NA,NA,0,Missouri,Colorado,29
+2009-10,2010-02-06,914035,162,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,18,23,-5,1507,Missouri,1714,514,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,30
+2009-10,2010-02-06,914035,163,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,19,23,-4,1360,Colorado,1714,514,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,30
+2009-10,2010-02-06,914035,164,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1360,Colorado,1714,514,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,30
+2009-10,2010-02-06,914035,166,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1507,Missouri,1709,509,5, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,21,24.35,301996,NA,NA,0,Missouri,Missouri,31
+2009-10,2010-02-06,914035,169,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1507,Missouri,1700,500,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,14.95,506111,NA,NA,0,Missouri,Missouri,31
+2009-10,2010-02-06,914035,170,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1507,Missouri,1695,495,5, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,27.15,301996,NA,NA,0,Missouri,Colorado,31
+2009-10,2010-02-06,914035,172,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1507,Missouri,1692,492,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,32
+2009-10,2010-02-06,914035,173,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,20,23,-3,1360,Colorado,1692,492,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,32
+2009-10,2010-02-06,914035,174,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,23,-2,1360,Colorado,1692,492,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,32
+2009-10,2010-02-06,914035,183,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,25,-4,1507,Missouri,1681,481,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458723,NA,NA,0,Missouri,Colorado,33
+2009-10,2010-02-06,914035,184,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,25,-4,1360,Colorado,1657,457,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Missouri,34
+2009-10,2010-02-06,914035,185,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,25,-4,1507,Missouri,1639,439,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,18.55,458725,NA,NA,0,Missouri,Colorado,35
+2009-10,2010-02-06,914035,186,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,25,-4,1360,Colorado,1631,431,8, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,30.5,12.75,329550,NA,NA,0,Colorado,Colorado,36
+2009-10,2010-02-06,914035,187,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,25,-4,1360,Colorado,1627,427,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Missouri,36
+2009-10,2010-02-06,914035,188,0,1,Colorado,Missouri,Buffaloes,Tigers,3,4,21,27,-6,1507,Missouri,1622,422,5, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.3,10.05,458725,NA,NA,0,Missouri,Colorado,37
+2009-10,2010-02-06,914035,191,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,27,-6,1360,Colorado,1617,417,5,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,194,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,27,-6,1360,Colorado,1599,399,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,26.549999999999997,329550,NA,NA,0,Colorado,Missouri,38
+2009-10,2010-02-06,914035,195,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,29,-8,1507,Missouri,1581,381,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458726,NA,NA,0,Missouri,Colorado,39
+2009-10,2010-02-06,914035,204,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,29,-8,NA,NA,1551,351,30,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,205,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,29,-8,1360,Colorado,1551,351,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,206,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,29,-8,1360,Colorado,1551,351,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,207,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,21,29,-8,1360,Colorado,1551,351,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,209,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,29,-6,1360,Colorado,1542,342,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,40
+2009-10,2010-02-06,914035,210,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,32,-9,1507,Missouri,1509,309,33, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,14.2,26.55,458725,NA,NA,0,Missouri,Colorado,41
+2009-10,2010-02-06,914035,211,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,32,-9,1360,Colorado,1494,294,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458709,NA,NA,0,Colorado,Missouri,42
+2009-10,2010-02-06,914035,213,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,32,-9,1360,Colorado,1489,289,5,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,43
+2009-10,2010-02-06,914035,214,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,33,-10,1507,Missouri,1489,289,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,43
+2009-10,2010-02-06,914035,215,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1507,Missouri,1489,289,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,43
+2009-10,2010-02-06,914035,219,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1360,Colorado,1456,256,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.3,6.950000000000003,458711,NA,NA,0,Colorado,Missouri,44
+2009-10,2010-02-06,914035,221,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1360,Colorado,1438,238,18,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,45
+2009-10,2010-02-06,914035,222,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,NA,NA,1438,238,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,223,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1507,Missouri,1438,238,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,224,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1360,Colorado,1438,238,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,225,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,34,-11,1507,Missouri,1438,238,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,45
+2009-10,2010-02-06,914035,226,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,35,-12,1507,Missouri,1438,238,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,45
+2009-10,2010-02-06,914035,228,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,23,35,-12,1360,Colorado,1414,214,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,19.950000000000003,458711,NA,NA,0,Colorado,Colorado,46
+2009-10,2010-02-06,914035,230,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,25,35,-10,1360,Colorado,1396,196,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,46
+2009-10,2010-02-06,914035,231,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,25,35,-10,1507,Missouri,1396,196,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,46
+2009-10,2010-02-06,914035,232,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,35,-9,1360,Colorado,1396,196,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,46
+2009-10,2010-02-06,914035,235,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,35,-9,1507,Missouri,1388,188,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,237,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,35,-9,1360,Colorado,1349,149,39, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,6.75,458708,NA,NA,0,Colorado,Missouri,47
+2009-10,2010-02-06,914035,238,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,37,-11,1507,Missouri,1341,141,8, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12,6.75,506111,NA,NA,0,Missouri,Colorado,48
+2009-10,2010-02-06,914035,240,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,37,-11,1507,Missouri,1318,118,23,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,49
+2009-10,2010-02-06,914035,241,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,37,-11,1507,Missouri,1318,118,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,242,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,26,37,-11,1360,Colorado,1318,118,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,49
+2009-10,2010-02-06,914035,243,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,37,-10,1360,Colorado,1318,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,49
+2009-10,2010-02-06,914035,245,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,40,-13,1507,Missouri,1308,108,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,4.800000000000001,20.55,458722,NA,NA,0,Missouri,Colorado,50
+2009-10,2010-02-06,914035,246,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,40,-13,1360,Colorado,1282,82,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,5.049999999999997,405832,NA,NA,0,Colorado,Missouri,51
+2009-10,2010-02-06,914035,247,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,40,-13,1507,Missouri,1267,67,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458723,NA,NA,0,Missouri,Missouri,52
+2009-10,2010-02-06,914035,248,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,40,-13,1507,Missouri,1264,64,3, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,28.5,10.45,458723,NA,NA,0,Missouri,Colorado,52
+2009-10,2010-02-06,914035,250,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,27,40,-13,1507,Missouri,1257,57,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-02-06,914035,251,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,28,40,-12,1360,Colorado,1257,57,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-02-06,914035,252,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,28,40,-12,1507,Missouri,1257,57,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,253,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,28,40,-12,1360,Colorado,1257,57,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,254,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,29,40,-11,1360,Colorado,1257,57,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,53
+2009-10,2010-02-06,914035,256,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,29,42,-13,1507,Missouri,1230,30,27, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,18.8,14.75,458722,NA,NA,0,Missouri,Colorado,54
+2009-10,2010-02-06,914035,257,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,29,42,-13,1507,Missouri,1201,1,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44,19.75,506111,NA,NA,0,Missouri,Colorado,55
+2009-10,2010-02-06,914035,258,0,1,Colorado,Missouri,Buffaloes,Tigers,2,4,29,42,-13,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,261,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,56
+2009-10,2010-02-06,914035,268,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,1507,Missouri,1178,1178,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,269,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,1507,Missouri,1178,1178,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,270,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,1507,Missouri,1178,1178,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,273,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,1360,Colorado,1176,1176,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,276,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,29,42,-13,1360,Colorado,1172,1172,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,282,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,31,42,-11,1360,Colorado,1161,1161,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Missouri,57
+2009-10,2010-02-06,914035,284,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,31,42,-11,1360,Colorado,1154,1154,7,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,58
+2009-10,2010-02-06,914035,285,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,31,43,-12,1507,Missouri,1154,1154,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,58
+2009-10,2010-02-06,914035,286,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,31,43,-12,1507,Missouri,1154,1154,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,58
+2009-10,2010-02-06,914035,292,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,43,-10,1360,Colorado,1127,1127,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,59
+2009-10,2010-02-06,914035,299,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,43,-10,1507,Missouri,1097,1097,30, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7,22.65,458725,NA,NA,0,Missouri,Colorado,60
+2009-10,2010-02-06,914035,300,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,43,-10,1360,Colorado,1089,1089,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Missouri,61
+2009-10,2010-02-06,914035,303,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,45,-12,1507,Missouri,1077,1077,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458723,NA,NA,0,Missouri,Colorado,62
+2009-10,2010-02-06,914035,305,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,45,-12,1360,Colorado,1057,1057,20, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,23,15.349999999999994,400623,NA,NA,0,Colorado,Missouri,63
+2009-10,2010-02-06,914035,309,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,45,-12,1360,Colorado,1051,1051,6,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,64
+2009-10,2010-02-06,914035,310,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,46,-13,1507,Missouri,1051,1051,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,64
+2009-10,2010-02-06,914035,312,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,47,-14,1507,Missouri,1051,1051,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,64
+2009-10,2010-02-06,914035,316,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,47,-14,1360,Colorado,1039,1039,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458708,NA,NA,0,Colorado,Colorado,65
+2009-10,2010-02-06,914035,318,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,33,47,-14,1507,Missouri,1035,1035,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,65
+2009-10,2010-02-06,914035,319,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,34,47,-13,1360,Colorado,1035,1035,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,65
+2009-10,2010-02-06,914035,320,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,35,47,-12,1360,Colorado,1035,1035,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,65
+2009-10,2010-02-06,914035,326,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,35,49,-14,1507,Missouri,1029,1029,6, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,31.5,15.65,330361,NA,NA,0,Missouri,Colorado,66
+2009-10,2010-02-06,914035,327,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,35,49,-14,1360,Colorado,1020,1020,9, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,8.549999999999997,512995,NA,NA,0,Colorado,Missouri,67
+2009-10,2010-02-06,914035,329,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,35,49,-14,1360,Colorado,1015,1015,5,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,68
+2009-10,2010-02-06,914035,331,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,35,49,-14,1507,Missouri,1007,1007,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.5,5.45,330361,NA,NA,0,Missouri,Colorado,68
+2009-10,2010-02-06,914035,332,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,37,49,-12,1360,Colorado,1002,1002,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,69
+2009-10,2010-02-06,914035,333,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,37,49,-12,1507,Missouri,994,994,8, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,17.05,399785,NA,NA,0,Missouri,Colorado,70
+2009-10,2010-02-06,914035,336,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,37,49,-12,1360,Colorado,983,983,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Missouri,71
+2009-10,2010-02-06,914035,337,0,2,Colorado,Missouri,Buffaloes,Tigers,4,4,37,52,-15,1507,Missouri,962,962,21, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.8,21.45,458725,NA,NA,0,Missouri,Colorado,72
+2009-10,2010-02-06,914035,344,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,52,-15,1360,Colorado,953,953,9,Buffaloes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,346,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,52,-15,1360,Colorado,953,953,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,350,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,52,-15,NA,NA,950,950,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,352,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,52,-15,1360,Colorado,943,943,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,7.549999999999997,513002,NA,NA,0,Colorado,Missouri,73
+2009-10,2010-02-06,914035,353,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,52,-15,1507,Missouri,930,930,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399785,NA,NA,0,Missouri,Missouri,74
+2009-10,2010-02-06,914035,354,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,55,-18,1507,Missouri,926,926,4, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,44,18.05,458722,NA,NA,0,Missouri,Colorado,74
+2009-10,2010-02-06,914035,356,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,55,-18,1360,Colorado,906,906,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,12.450000000000003,399618,NA,NA,0,Colorado,Colorado,75
+2009-10,2010-02-06,914035,357,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,55,-18,1507,Missouri,906,906,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,75
+2009-10,2010-02-06,914035,359,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,55,-18,1360,Colorado,906,906,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.299999999999997,5.450000000000003,399618,NA,NA,0,Colorado,Missouri,75
+2009-10,2010-02-06,914035,360,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1507,Missouri,884,884,22, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.2,9.35,399785,NA,NA,0,Missouri,Colorado,76
+2009-10,2010-02-06,914035,361,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1360,Colorado,866,866,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,7.950000000000003,399618,NA,NA,0,Colorado,Colorado,77
+2009-10,2010-02-06,914035,363,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1507,Missouri,861,861,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,77
+2009-10,2010-02-06,914035,364,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1507,Missouri,861,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,365,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1507,Missouri,860,860,1,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,77
+2009-10,2010-02-06,914035,369,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,37,57,-20,1360,Colorado,848,848,12, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,77
+2009-10,2010-02-06,914035,370,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,38,57,-19,1360,Colorado,848,848,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,77
+2009-10,2010-02-06,914035,371,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,38,57,-19,1507,Missouri,848,848,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,373,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,38,59,-21,1507,Missouri,847,847,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458724,NA,NA,0,Missouri,Colorado,78
+2009-10,2010-02-06,914035,375,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,38,59,-21,1360,Colorado,834,834,13, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,17.049999999999997,400623,NA,NA,0,Colorado,Missouri,79
+2009-10,2010-02-06,914035,376,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,38,59,-21,1507,Missouri,825,825,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,21.85,506111,NA,NA,0,Missouri,Colorado,80
+2009-10,2010-02-06,914035,377,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,59,-19,1360,Colorado,816,816,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,405832,NA,NA,0,Colorado,Missouri,81
+2009-10,2010-02-06,914035,379,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,59,-19,1360,Colorado,793,793,23,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,82
+2009-10,2010-02-06,914035,380,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,60,-20,1507,Missouri,793,793,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,82
+2009-10,2010-02-06,914035,381,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,61,-21,1507,Missouri,793,793,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,82
+2009-10,2010-02-06,914035,382,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,61,-21,1360,Colorado,793,793,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,384,0,2,Colorado,Missouri,Buffaloes,Tigers,3,4,40,63,-23,1507,Missouri,776,776,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458724,NA,NA,0,Missouri,Colorado,83
+2009-10,2010-02-06,914035,386,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,40,63,-23,1360,Colorado,771,771,5,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,394,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,40,63,-23,1507,Missouri,756,756,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,84
+2009-10,2010-02-06,914035,396,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,750,750,6, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,17,19.950000000000003,405832,NA,NA,0,Colorado,Missouri,84
+2009-10,2010-02-06,914035,397,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,732,732,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,19.95,458722,NA,NA,0,Missouri,Colorado,85
+2009-10,2010-02-06,914035,398,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,720,720,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,32.3,29.25,400623,NA,NA,0,Colorado,Missouri,86
+2009-10,2010-02-06,914035,412,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,NA,NA,704,704,16,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,415,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,696,696,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,419,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,692,692,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,424,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,662,662,30,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,87
+2009-10,2010-02-06,914035,425,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,662,662,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,87
+2009-10,2010-02-06,914035,426,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,662,662,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,87
+2009-10,2010-02-06,914035,428,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,639,639,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,405832,NA,NA,0,Colorado,Missouri,88
+2009-10,2010-02-06,914035,437,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,592,592,47, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.699999999999999,18.25,506111,NA,NA,0,Missouri,Colorado,89
+2009-10,2010-02-06,914035,439,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,588,588,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,90
+2009-10,2010-02-06,914035,440,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,588,588,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,441,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1507,Missouri,588,588,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,443,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,556,556,32, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,19,16.849999999999994,405832,NA,NA,0,Colorado,Colorado,90
+2009-10,2010-02-06,914035,444,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,551,551,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,90
+2009-10,2010-02-06,914035,444.75,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,42,63,-21,1360,Colorado,550,550,1, misses a tip shot from 5 feet out.,missed,FALSE,FALSE,Tip Shot,27.5,9.150000000000006,512995,NA,NA,0,Colorado,Colorado,90
+2009-10,2010-02-06,914035,445,0,2,Colorado,Missouri,Buffaloes,Tigers,2,4,44,63,-19,1360,Colorado,548,548,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458709,NA,NA,0,Colorado,Missouri,90
+2009-10,2010-02-06,914035,448,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,44,63,-19,1507,Missouri,543,543,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,450,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,44,66,-22,1507,Missouri,535,535,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,5.5,19.75,458722,NA,NA,0,Missouri,Colorado,91
+2009-10,2010-02-06,914035,451,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,47,66,-19,1360,Colorado,514,514,21, makes a 3-point dunk.,made,FALSE,TRUE,Dunk Shot,26,6.25,458711,NA,NA,0,Colorado,Missouri,92
+2009-10,2010-02-06,914035,453,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,47,66,-19,1507,Missouri,496,496,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,459,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,47,66,-19,1360,Colorado,484,484,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13,4.650000000000006,512995,NA,NA,0,Colorado,Missouri,93
+2009-10,2010-02-06,914035,460,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,47,66,-19,1507,Missouri,463,463,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43,21.45,458722,NA,NA,0,Missouri,Colorado,94
+2009-10,2010-02-06,914035,463,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,49,66,-17,1360,Colorado,451,451,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Missouri,95
+2009-10,2010-02-06,914035,464,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,49,66,-17,1507,Missouri,429,429,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458724,NA,NA,0,Missouri,Colorado,96
+2009-10,2010-02-06,914035,466,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,49,66,-17,1507,Missouri,423,423,6,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,97
+2009-10,2010-02-06,914035,467,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,49,66,-17,NA,NA,423,423,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,471,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,50,66,-16,1360,Colorado,423,423,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,97
+2009-10,2010-02-06,914035,472,0,2,Colorado,Missouri,Buffaloes,Tigers,2,3,51,66,-15,1360,Colorado,423,423,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,98
+2009-10,2010-02-06,914035,476,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,51,66,-15,1507,Missouri,422,422,1,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,477,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,51,66,-15,1360,Colorado,422,422,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,479,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,51,66,-15,1507,Missouri,405,405,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,16.65,458725,NA,NA,0,Missouri,Colorado,99
+2009-10,2010-02-06,914035,481,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,51,66,-15,1360,Colorado,397,397,8,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,100
+2009-10,2010-02-06,914035,487,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,66,-13,1360,Colorado,390,390,7, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,29.5,12.650000000000006,329550,NA,NA,0,Colorado,Missouri,101
+2009-10,2010-02-06,914035,488,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1507,Missouri,376,376,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399785,NA,NA,0,Missouri,Colorado,102
+2009-10,2010-02-06,914035,489,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1360,Colorado,347,347,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.849999999999994,458709,NA,NA,0,Colorado,Missouri,103
+2009-10,2010-02-06,914035,490,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1507,Missouri,335,335,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,20.55,301996,NA,NA,0,Missouri,Colorado,104
+2009-10,2010-02-06,914035,491,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1360,Colorado,329,329,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,492,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1360,Colorado,328,328,1,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,105
+2009-10,2010-02-06,914035,493,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1360,Colorado,328,328,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,528,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,68,-15,1360,Colorado,324,324,4,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,106
+2009-10,2010-02-06,914035,529,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,69,-16,1507,Missouri,324,324,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,106
+2009-10,2010-02-06,914035,530,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,70,-17,1507,Missouri,324,324,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,106
+2009-10,2010-02-06,914035,532,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,53,70,-17,1360,Colorado,303,303,21, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,18.75,400623,NA,NA,0,Colorado,Colorado,107
+2009-10,2010-02-06,914035,533,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,55,70,-15,1360,Colorado,291,291,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Missouri,107
+2009-10,2010-02-06,914035,535,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,55,72,-17,1507,Missouri,257,257,34, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399785,NA,NA,0,Missouri,Colorado,108
+2009-10,2010-02-06,914035,540,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,55,72,-17,1507,Missouri,241,241,16,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,109
+2009-10,2010-02-06,914035,541,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,56,72,-16,1360,Colorado,241,241,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,109
+2009-10,2010-02-06,914035,542,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,57,72,-15,1360,Colorado,241,241,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,109
+2009-10,2010-02-06,914035,543,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,57,72,-15,1360,Colorado,241,241,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-06,914035,545,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,57,74,-17,1507,Missouri,230,230,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399785,NA,NA,0,Missouri,Colorado,110
+2009-10,2010-02-06,914035,546,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,57,74,-17,1360,Colorado,208,208,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458711,NA,NA,0,Colorado,Colorado,111
+2009-10,2010-02-06,914035,551,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,57,74,-17,NA,NA,200,200,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,555,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,74,-14,1360,Colorado,197,197,3, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,39.8,24.950000000000003,512995,NA,NA,0,Colorado,Missouri,111
+2009-10,2010-02-06,914035,559,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,74,-14,1360,Colorado,190,190,7,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,112
+2009-10,2010-02-06,914035,560,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,75,-15,1507,Missouri,190,190,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,112
+2009-10,2010-02-06,914035,561,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,76,-16,1507,Missouri,190,190,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,112
+2009-10,2010-02-06,914035,565,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,78,-18,1507,Missouri,186,186,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458722,NA,NA,0,Missouri,Colorado,113
+2009-10,2010-02-06,914035,582,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,60,80,-20,1507,Missouri,116,116,70, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330361,NA,NA,0,Missouri,Colorado,114
+2009-10,2010-02-06,914035,584,0,2,Colorado,Missouri,Buffaloes,Tigers,2,2,62,80,-18,1360,Colorado,104,104,12, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,27,12.049999999999997,329550,NA,NA,0,Colorado,Missouri,115
+2009-10,2010-02-06,914035,585,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,62,80,-18,1360,Colorado,103,103,1,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,588,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,62,80,-18,1360,Colorado,94,94,9,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,116
+2009-10,2010-02-06,914035,589,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,62,81,-19,1507,Missouri,94,94,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,116
+2009-10,2010-02-06,914035,590,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,62,82,-20,1507,Missouri,94,94,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Colorado,116
+2009-10,2010-02-06,914035,595,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,62,82,-20,1507,Missouri,82,82,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,117
+2009-10,2010-02-06,914035,596,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,63,82,-19,1360,Colorado,82,82,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,117
+2009-10,2010-02-06,914035,597,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,64,82,-18,1360,Colorado,82,82,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Missouri,117
+2009-10,2010-02-06,914035,600,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,64,82,-18,1507,Missouri,47,47,35, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,19.55,301996,NA,NA,0,Missouri,Missouri,118
+2009-10,2010-02-06,914035,601,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,64,84,-20,1507,Missouri,24,24,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458724,NA,NA,0,Missouri,Colorado,118
+2009-10,2010-02-06,914035,611,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,66,84,-18,1360,Colorado,12,12,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513002,NA,NA,0,Colorado,Missouri,119
+2009-10,2010-02-06,914035,617,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,66,84,-18,NA,NA,0,0,12,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-06,914035,618,0,2,Colorado,Missouri,Buffaloes,Tigers,1,2,66,84,-18,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,NA

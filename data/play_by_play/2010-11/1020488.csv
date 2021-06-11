@@ -1,0 +1,312 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-24,1020488,1,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,NA
+2010-11,2010-11-24,1020488,3,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,0,0,0,1668,UCLA,2389,1189,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,1
+2010-11,2010-11-24,1020488,4,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,0,0,0,1676,Villanova,2389,1189,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,1
+2010-11,2010-11-24,1020488,7,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,0,0,0,1676,Villanova,2364,1164,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513565,NA,NA,0,Villanova,Villanova,2
+2010-11,2010-11-24,1020488,8,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,0,0,0,1676,Villanova,2364,1164,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,2
+2010-11,2010-11-24,1020488,9,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,2,0,2,1676,Villanova,2357,1157,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513567,NA,NA,0,Villanova,UCLA,2
+2010-11,2010-11-24,1020488,10,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,4,0,4,1676,Villanova,2340,1140,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,UCLA,3
+2010-11,2010-11-24,1020488,12,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1676,Villanova,2334,1134,6, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,4
+2010-11,2010-11-24,1020488,13,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1676,Villanova,2334,1134,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2010-11,2010-11-24,1020488,17,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1668,UCLA,2332,1132,2, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,10.8,6.25,457569,NA,NA,0,UCLA,UCLA,5
+2010-11,2010-11-24,1020488,18,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1668,UCLA,2332,1132,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,5
+2010-11,2010-11-24,1020488,19,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1668,UCLA,2322,1122,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,5
+2010-11,2010-11-24,1020488,20,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,5,0,5,1676,Villanova,2322,1122,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,5
+2010-11,2010-11-24,1020488,22,1,1,Villanova,UCLA,Wildcats,Bruins,4,4,8,0,8,1676,Villanova,2314,1114,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38,26.25,398051,NA,NA,0,Villanova,UCLA,6
+2010-11,2010-11-24,1020488,23,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,8,0,8,1668,UCLA,2314,1114,0,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,25,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,8,3,5,1668,UCLA,2297,1097,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,41.5,17.85,513492,NA,NA,0,UCLA,Villanova,7
+2010-11,2010-11-24,1020488,27,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,8,3,5,1668,UCLA,2272,1072,25,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,8
+2010-11,2010-11-24,1020488,28,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,9,3,6,1676,Villanova,2272,1072,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,8
+2010-11,2010-11-24,1020488,29,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,10,3,7,1676,Villanova,2272,1072,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,8
+2010-11,2010-11-24,1020488,31,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,10,6,4,1668,UCLA,2252,1052,20, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,44.2,16.25,551819,NA,NA,0,UCLA,Villanova,9
+2010-11,2010-11-24,1020488,32,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,12,6,6,1676,Villanova,2225,1025,27, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13.799999999999997,12.25,513565,NA,NA,0,Villanova,UCLA,10
+2010-11,2010-11-24,1020488,33,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,12,6,6,1668,UCLA,2207,1007,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,11
+2010-11,2010-11-24,1020488,34,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,12,6,6,1676,Villanova,2207,1007,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,11
+2010-11,2010-11-24,1020488,35,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,6,8,1676,Villanova,2200,1000,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513565,NA,NA,0,Villanova,UCLA,12
+2010-11,2010-11-24,1020488,36,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,9,5,1668,UCLA,2190,990,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,28.8,28.85,551819,NA,NA,0,UCLA,Villanova,13
+2010-11,2010-11-24,1020488,37,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,9,5,1676,Villanova,2171,971,19, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,18.049999999999997,398049,NA,NA,0,Villanova,Villanova,14
+2010-11,2010-11-24,1020488,38,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,9,5,1668,UCLA,2171,971,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,14
+2010-11,2010-11-24,1020488,39,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,11,3,1668,UCLA,2164,964,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Villanova,15
+2010-11,2010-11-24,1020488,41,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,11,3,1668,UCLA,2142,942,22,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,16
+2010-11,2010-11-24,1020488,42,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,14,11,3,NA,NA,2142,942,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,43,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2142,942,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,16
+2010-11,2010-11-24,1020488,44,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2142,942,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,16
+2010-11,2010-11-24,1020488,51,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1668,UCLA,2116,916,26, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,43.8,7.15,513482,NA,NA,0,UCLA,UCLA,17
+2010-11,2010-11-24,1020488,52,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2116,916,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,17
+2010-11,2010-11-24,1020488,54,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2109,909,7,Offensive Charge Foul foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,18
+2010-11,2010-11-24,1020488,56,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1668,UCLA,2093,893,16, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,7.95,457569,NA,NA,0,UCLA,UCLA,18
+2010-11,2010-11-24,1020488,57,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2093,893,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,18
+2010-11,2010-11-24,1020488,60,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2075,875,18, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,9.349999999999994,398049,NA,NA,0,Villanova,Villanova,19
+2010-11,2010-11-24,1020488,61,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1676,Villanova,2075,875,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,19
+2010-11,2010-11-24,1020488,63,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,15,11,4,1668,UCLA,2068,868,7,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,19
+2010-11,2010-11-24,1020488,64,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,16,11,5,1676,Villanova,2068,868,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,19
+2010-11,2010-11-24,1020488,65,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,17,11,6,1676,Villanova,2068,868,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,19
+2010-11,2010-11-24,1020488,69,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,17,13,4,1668,UCLA,2066,866,2, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513490,NA,NA,0,UCLA,Villanova,20
+2010-11,2010-11-24,1020488,70,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,13,6,1676,Villanova,2044,844,22, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513567,NA,NA,0,Villanova,UCLA,21
+2010-11,2010-11-24,1020488,71,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,13,6,1668,UCLA,2034,834,10, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,11.05,551818,NA,NA,0,UCLA,UCLA,22
+2010-11,2010-11-24,1020488,72,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,13,6,1676,Villanova,2034,834,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,22
+2010-11,2010-11-24,1020488,73,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,13,6,1676,Villanova,2025,825,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,16.25,398049,NA,NA,0,Villanova,Villanova,23
+2010-11,2010-11-24,1020488,74,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,13,6,1676,Villanova,2025,825,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,23
+2010-11,2010-11-24,1020488,77,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,19,15,4,1668,UCLA,2009,809,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551822,NA,NA,0,UCLA,Villanova,23
+2010-11,2010-11-24,1020488,78,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,15,7,1676,Villanova,1972,772,37, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,16.299999999999997,26.349999999999994,513561,NA,NA,0,Villanova,UCLA,24
+2010-11,2010-11-24,1020488,79,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,15,7,1676,Villanova,1896,696,76, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28,8.150000000000006,398051,NA,NA,0,Villanova,Villanova,25
+2010-11,2010-11-24,1020488,80,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,15,7,1668,UCLA,1896,696,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,25
+2010-11,2010-11-24,1020488,81,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,17,5,1668,UCLA,1889,689,7, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,26.8,6.65,551818,NA,NA,0,UCLA,Villanova,26
+2010-11,2010-11-24,1020488,84,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,17,5,1676,Villanova,1880,680,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,19.349999999999994,513561,NA,NA,0,Villanova,Villanova,27
+2010-11,2010-11-24,1020488,85,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,17,5,1668,UCLA,1880,680,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,27
+2010-11,2010-11-24,1020488,87,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,17,5,1668,UCLA,1869,669,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,19.95,551818,NA,NA,0,UCLA,UCLA,28
+2010-11,2010-11-24,1020488,88,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,17,5,1668,UCLA,1869,669,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,28
+2010-11,2010-11-24,1020488,89,1,1,Villanova,UCLA,Wildcats,Bruins,4,3,22,19,3,1668,UCLA,1869,669,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Villanova,28
+2010-11,2010-11-24,1020488,92,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,22,19,3,1676,Villanova,1867,667,2,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,94,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1676,Villanova,1860,660,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398051,NA,NA,0,Villanova,UCLA,29
+2010-11,2010-11-24,1020488,95,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1668,UCLA,1841,641,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,12.95,551818,NA,NA,0,UCLA,UCLA,30
+2010-11,2010-11-24,1020488,96,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1676,Villanova,1841,641,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,30
+2010-11,2010-11-24,1020488,98,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,NA,NA,1832,632,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,100,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1676,Villanova,1826,626,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513565,NA,NA,0,Villanova,Villanova,31
+2010-11,2010-11-24,1020488,101,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1676,Villanova,1826,626,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,31
+2010-11,2010-11-24,1020488,102,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1676,Villanova,1814,614,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331129,NA,NA,0,Villanova,Villanova,31
+2010-11,2010-11-24,1020488,105,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,24,19,5,1668,UCLA,1808,608,6,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,31
+2010-11,2010-11-24,1020488,106,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,19,6,1676,Villanova,1808,608,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,31
+2010-11,2010-11-24,1020488,107,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,19,6,1676,Villanova,1808,608,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,32
+2010-11,2010-11-24,1020488,108,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,19,6,1668,UCLA,1808,608,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,32
+2010-11,2010-11-24,1020488,113,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,19,6,1676,Villanova,1798,598,10,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2010-11,2010-11-24,1020488,114,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,20,5,1668,UCLA,1798,598,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2010-11,2010-11-24,1020488,115,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,21,4,1668,UCLA,1798,598,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,33
+2010-11,2010-11-24,1020488,117,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,21,4,1676,Villanova,1783,583,15, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,17.700000000000003,20.549999999999997,398049,NA,NA,0,Villanova,Villanova,34
+2010-11,2010-11-24,1020488,118,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,25,21,4,1676,Villanova,1783,583,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,34
+2010-11,2010-11-24,1020488,122,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,26,21,5,1676,Villanova,1760,560,23, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,34
+2010-11,2010-11-24,1020488,123,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1760,560,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,35
+2010-11,2010-11-24,1020488,124,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1760,560,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,36
+2010-11,2010-11-24,1020488,126,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1746,546,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,36
+2010-11,2010-11-24,1020488,127,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1746,546,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2010-11,2010-11-24,1020488,129,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1741,541,5,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2010-11,2010-11-24,1020488,131,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1732,532,9, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,13.95,457569,NA,NA,0,UCLA,UCLA,36
+2010-11,2010-11-24,1020488,132,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1732,532,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,36
+2010-11,2010-11-24,1020488,133,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1714,514,18, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,9.349999999999994,398049,NA,NA,0,Villanova,Villanova,37
+2010-11,2010-11-24,1020488,134,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1714,514,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,37
+2010-11,2010-11-24,1020488,135,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1703,503,11, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,25.15,457569,NA,NA,0,UCLA,UCLA,38
+2010-11,2010-11-24,1020488,136,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1703,503,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,38
+2010-11,2010-11-24,1020488,137,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1668,UCLA,1669,469,34, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,23.85,513492,NA,NA,0,UCLA,UCLA,39
+2010-11,2010-11-24,1020488,138,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,27,21,6,1676,Villanova,1669,469,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,39
+2010-11,2010-11-24,1020488,139,1,1,Villanova,UCLA,Wildcats,Bruins,3,3,30,21,9,1676,Villanova,1659,459,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.7,21.849999999999994,398051,NA,NA,0,Villanova,UCLA,40
+2010-11,2010-11-24,1020488,141,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1668,UCLA,1652,452,7,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,144,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1668,UCLA,1624,424,28,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,41
+2010-11,2010-11-24,1020488,145,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,NA,NA,1624,424,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,146,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1676,Villanova,1624,424,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,41
+2010-11,2010-11-24,1020488,147,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1668,UCLA,1624,424,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,41
+2010-11,2010-11-24,1020488,149,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1668,UCLA,1605,405,19, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,21.35,513492,NA,NA,0,UCLA,UCLA,42
+2010-11,2010-11-24,1020488,150,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,21,9,1676,Villanova,1605,405,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,42
+2010-11,2010-11-24,1020488,153,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,23,7,1668,UCLA,1568,368,37, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Villanova,43
+2010-11,2010-11-24,1020488,155,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,23,7,1676,Villanova,1557,357,11,Offensive Charge Foul foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,44
+2010-11,2010-11-24,1020488,157,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1668,UCLA,1554,354,3, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,33.3,17.65,457571,NA,NA,0,UCLA,Villanova,44
+2010-11,2010-11-24,1020488,158,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1537,337,17, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,26.150000000000006,513565,NA,NA,0,Villanova,Villanova,45
+2010-11,2010-11-24,1020488,159,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1668,UCLA,1537,337,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,45
+2010-11,2010-11-24,1020488,160,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1668,UCLA,1527,327,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,22.65,551818,NA,NA,0,UCLA,UCLA,46
+2010-11,2010-11-24,1020488,161,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1527,327,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,46
+2010-11,2010-11-24,1020488,167,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1503,303,24,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2010-11,2010-11-24,1020488,168,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1503,303,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,18.25,398049,NA,NA,0,Villanova,Villanova,47
+2010-11,2010-11-24,1020488,171,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1486,286,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,9.650000000000006,398049,NA,NA,0,Villanova,Villanova,47
+2010-11,2010-11-24,1020488,172,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1668,UCLA,1486,286,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,47
+2010-11,2010-11-24,1020488,174,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1477,277,9,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,48
+2010-11,2010-11-24,1020488,175,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1668,UCLA,1477,277,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,48
+2010-11,2010-11-24,1020488,176,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,25,5,1676,Villanova,1477,277,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,48
+2010-11,2010-11-24,1020488,179,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,26,4,1668,UCLA,1475,275,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2010-11,2010-11-24,1020488,180,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,27,3,1668,UCLA,1475,275,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,49
+2010-11,2010-11-24,1020488,183,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,30,27,3,1668,UCLA,1465,265,10,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,50
+2010-11,2010-11-24,1020488,184,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,31,27,4,1676,Villanova,1465,265,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,50
+2010-11,2010-11-24,1020488,185,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,32,27,5,1676,Villanova,1465,265,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,50
+2010-11,2010-11-24,1020488,188,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,32,27,5,1668,UCLA,1454,254,11,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,51
+2010-11,2010-11-24,1020488,190,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,34,27,7,1676,Villanova,1450,250,4, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.799999999999997,10.650000000000006,398049,NA,NA,0,Villanova,UCLA,51
+2010-11,2010-11-24,1020488,191,1,1,Villanova,UCLA,Wildcats,Bruins,3,2,36,27,9,1676,Villanova,1402,202,48, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,12.299999999999997,19.349999999999994,398049,NA,NA,0,Villanova,UCLA,52
+2010-11,2010-11-24,1020488,193,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,36,27,9,1668,UCLA,1377,177,25,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,196,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,36,27,9,NA,NA,1355,155,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,198,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,38,27,11,1676,Villanova,1346,146,9, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,21.3,11.25,513567,NA,NA,0,Villanova,UCLA,53
+2010-11,2010-11-24,1020488,200,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,38,27,11,1676,Villanova,1318,118,28,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,54
+2010-11,2010-11-24,1020488,201,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,38,28,10,1668,UCLA,1318,118,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,54
+2010-11,2010-11-24,1020488,202,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,38,29,9,1668,UCLA,1318,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,54
+2010-11,2010-11-24,1020488,204,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,40,29,11,1676,Villanova,1312,112,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513565,NA,NA,0,Villanova,UCLA,55
+2010-11,2010-11-24,1020488,207,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,42,29,13,1676,Villanova,1287,87,25, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,27.2,6.75,513565,NA,NA,0,Villanova,UCLA,56
+2010-11,2010-11-24,1020488,208,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1260,60,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,UCLA,57
+2010-11,2010-11-24,1020488,209,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1238,38,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,58
+2010-11,2010-11-24,1020488,210,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1238,38,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,58
+2010-11,2010-11-24,1020488,211,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,38, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,38,16.25,551819,NA,NA,0,UCLA,UCLA,59
+2010-11,2010-11-24,1020488,212,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1200,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,59
+2010-11,2010-11-24,1020488,213,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1200,0,0, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,17.200000000000003,16.650000000000006,398051,NA,NA,0,Villanova,Villanova,60
+2010-11,2010-11-24,1020488,214,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,60
+2010-11,2010-11-24,1020488,214.5,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1200,0,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44,21.25,398049,NA,NA,0,Villanova,Villanova,61
+2010-11,2010-11-24,1020488,214.75,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,61
+2010-11,2010-11-24,1020488,214.875,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1200,0,0, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,31,7.25,513567,NA,NA,0,Villanova,Villanova,62
+2010-11,2010-11-24,1020488,214.9375,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,62
+2010-11,2010-11-24,1020488,214.96875,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,0, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22,10.25,551819,NA,NA,0,UCLA,UCLA,63
+2010-11,2010-11-24,1020488,214.984375,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1676,Villanova,1200,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,63
+2010-11,2010-11-24,1020488,214.9921875,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,1668,UCLA,1200,0,0, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32,10.25,513490,NA,NA,0,UCLA,UCLA,64
+2010-11,2010-11-24,1020488,215,1,1,Villanova,UCLA,Wildcats,Bruins,3,1,44,29,15,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,225,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,44,29,15,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,64
+2010-11,2010-11-24,1020488,227,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,44,31,13,1668,UCLA,1184,1184,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Villanova,65
+2010-11,2010-11-24,1020488,230,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1165,1165,19, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.3,13.150000000000006,398051,NA,NA,0,Villanova,UCLA,66
+2010-11,2010-11-24,1020488,231,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1668,UCLA,1143,1143,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,20.55,513492,NA,NA,0,UCLA,UCLA,67
+2010-11,2010-11-24,1020488,236,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1131,1131,12,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,67
+2010-11,2010-11-24,1020488,238,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1110,1110,21, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,10.049999999999997,398049,NA,NA,0,Villanova,Villanova,67
+2010-11,2010-11-24,1020488,239,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1110,1110,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,67
+2010-11,2010-11-24,1020488,240,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1104,1104,6, misses a tip shot from 1 foot out.,missed,FALSE,FALSE,Tip Shot,25.2,5.849999999999994,331129,NA,NA,0,Villanova,Villanova,67
+2010-11,2010-11-24,1020488,241,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1104,1104,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,67
+2010-11,2010-11-24,1020488,242,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1099,1099,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.799999999999997,10.049999999999997,398051,NA,NA,0,Villanova,Villanova,67
+2010-11,2010-11-24,1020488,243,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1668,UCLA,1099,1099,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,67
+2010-11,2010-11-24,1020488,245,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1084,1084,15,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,68
+2010-11,2010-11-24,1020488,247,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1676,Villanova,1069,1069,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331129,NA,NA,0,Villanova,Villanova,68
+2010-11,2010-11-24,1020488,248,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,31,15,1668,UCLA,1069,1069,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,68
+2010-11,2010-11-24,1020488,250,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,32,14,1668,UCLA,1056,1056,13, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,69
+2010-11,2010-11-24,1020488,251,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,33,13,1668,UCLA,1056,1056,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,69
+2010-11,2010-11-24,1020488,252,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,33,13,1676,Villanova,1056,1056,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2010-11,2010-11-24,1020488,254,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,35,11,1668,UCLA,1051,1051,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Villanova,70
+2010-11,2010-11-24,1020488,256,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,1039,1039,12, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,71
+2010-11,2010-11-24,1020488,258,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1676,Villanova,1038,1038,1, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,23.049999999999997,513565,NA,NA,0,Villanova,Villanova,72
+2010-11,2010-11-24,1020488,259,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,1038,1038,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,72
+2010-11,2010-11-24,1020488,261,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1676,Villanova,1032,1032,6,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2010-11,2010-11-24,1020488,263,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,999,999,33, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,16.85,551819,NA,NA,0,UCLA,UCLA,73
+2010-11,2010-11-24,1020488,264,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,999,999,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2010-11,2010-11-24,1020488,266,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,983,983,16,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,73
+2010-11,2010-11-24,1020488,268,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,956,956,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,26,28.45,513490,NA,NA,0,UCLA,UCLA,73
+2010-11,2010-11-24,1020488,269,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,36,10,1668,UCLA,956,956,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2010-11,2010-11-24,1020488,270,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,38,8,1668,UCLA,946,946,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551819,NA,NA,0,UCLA,Villanova,73
+2010-11,2010-11-24,1020488,272,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,38,8,1668,UCLA,935,935,11,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,74
+2010-11,2010-11-24,1020488,275,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,38,8,NA,NA,926,926,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,277,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,46,40,6,1668,UCLA,903,903,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513490,NA,NA,0,UCLA,Villanova,74
+2010-11,2010-11-24,1020488,278,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,48,40,8,1676,Villanova,887,887,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467489,NA,NA,0,Villanova,UCLA,75
+2010-11,2010-11-24,1020488,280,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,49,40,9,1676,Villanova,858,858,29, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,76
+2010-11,2010-11-24,1020488,282,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1676,Villanova,856,856,2, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513565,NA,NA,0,Villanova,UCLA,77
+2010-11,2010-11-24,1020488,284,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,845,845,11,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,78
+2010-11,2010-11-24,1020488,285,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,845,845,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,78
+2010-11,2010-11-24,1020488,287,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,844,844,1, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,12.2,27.45,513492,NA,NA,0,UCLA,UCLA,78
+2010-11,2010-11-24,1020488,288,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1676,Villanova,844,844,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,78
+2010-11,2010-11-24,1020488,292,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,836,836,8,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,79
+2010-11,2010-11-24,1020488,294,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1676,Villanova,833,833,3, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.299999999999997,9.650000000000006,513561,NA,NA,0,Villanova,Villanova,79
+2010-11,2010-11-24,1020488,295,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,833,833,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,79
+2010-11,2010-11-24,1020488,296,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1668,UCLA,821,821,12, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,9.35,457571,NA,NA,0,UCLA,UCLA,80
+2010-11,2010-11-24,1020488,297,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,40,11,1676,Villanova,821,821,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,80
+2010-11,2010-11-24,1020488,298,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,51,42,9,1668,UCLA,809,809,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513492,NA,NA,0,UCLA,Villanova,81
+2010-11,2010-11-24,1020488,300,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,53,42,11,1676,Villanova,787,787,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513565,NA,NA,0,Villanova,UCLA,82
+2010-11,2010-11-24,1020488,301,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,53,42,11,1668,UCLA,787,787,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,83
+2010-11,2010-11-24,1020488,302,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,42,12,1676,Villanova,787,787,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,83
+2010-11,2010-11-24,1020488,304,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1668,UCLA,771,771,16, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,Villanova,84
+2010-11,2010-11-24,1020488,306,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1668,UCLA,756,756,15,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,85
+2010-11,2010-11-24,1020488,307,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1676,Villanova,756,756,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,85
+2010-11,2010-11-24,1020488,308,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1668,UCLA,756,756,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,85
+2010-11,2010-11-24,1020488,310,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1668,UCLA,742,742,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23,12.25,551819,NA,NA,0,UCLA,UCLA,86
+2010-11,2010-11-24,1020488,311,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,44,10,1676,Villanova,742,742,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,86
+2010-11,2010-11-24,1020488,314,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,46,8,1668,UCLA,724,724,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551819,NA,NA,0,UCLA,Villanova,87
+2010-11,2010-11-24,1020488,316,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,46,8,1668,UCLA,696,696,28,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,88
+2010-11,2010-11-24,1020488,319,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,54,46,8,NA,NA,690,690,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,323,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,55,46,9,1676,Villanova,690,690,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,88
+2010-11,2010-11-24,1020488,324,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,46,10,1676,Villanova,690,690,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,89
+2010-11,2010-11-24,1020488,327,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,47,9,1668,UCLA,660,660,30, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,90
+2010-11,2010-11-24,1020488,328,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,48,8,1668,UCLA,660,660,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,90
+2010-11,2010-11-24,1020488,330,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,48,8,1676,Villanova,642,642,18, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,513567,NA,NA,0,Villanova,Villanova,91
+2010-11,2010-11-24,1020488,331,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,48,8,1668,UCLA,642,642,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,91
+2010-11,2010-11-24,1020488,333,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,56,48,8,1668,UCLA,634,634,8,Offensive Charge Foul foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Villanova,92
+2010-11,2010-11-24,1020488,336,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,57,48,9,1676,Villanova,627,627,7, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,92
+2010-11,2010-11-24,1020488,337,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,627,627,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,92
+2010-11,2010-11-24,1020488,338,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1668,UCLA,627,627,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,93
+2010-11,2010-11-24,1020488,341,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,621,621,6,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2010-11,2010-11-24,1020488,343,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1668,UCLA,593,593,28, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,20,15.55,457569,NA,NA,0,UCLA,UCLA,93
+2010-11,2010-11-24,1020488,344,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,593,593,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,93
+2010-11,2010-11-24,1020488,345,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,583,583,10, misses a tip shot from 7 feet out.,missed,FALSE,FALSE,Tip Shot,24,12.049999999999997,513567,NA,NA,0,Villanova,Villanova,94
+2010-11,2010-11-24,1020488,346,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1668,UCLA,583,583,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,94
+2010-11,2010-11-24,1020488,349,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,564,564,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,10.049999999999997,513565,NA,NA,0,Villanova,Villanova,95
+2010-11,2010-11-24,1020488,350,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,564,564,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,95
+2010-11,2010-11-24,1020488,351,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1668,UCLA,545,545,19, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,23.05,551819,NA,NA,0,UCLA,UCLA,95
+2010-11,2010-11-24,1020488,352,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1668,UCLA,545,545,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2010-11-24,1020488,353,1,2,Villanova,UCLA,Wildcats,Bruins,4,4,58,48,10,1676,Villanova,522,522,23, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,10.25,398049,NA,NA,0,Villanova,UCLA,95
+2010-11,2010-11-24,1020488,358,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,48,10,1676,Villanova,513,513,9,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,359,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1668,UCLA,513,513,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Villanova,96
+2010-11,2010-11-24,1020488,360,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1676,Villanova,513,513,0, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,13.349999999999994,513565,NA,NA,0,Villanova,Villanova,97
+2010-11,2010-11-24,1020488,361,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1668,UCLA,513,513,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,97
+2010-11,2010-11-24,1020488,362,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1676,Villanova,513,513,0, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,10.650000000000006,398051,NA,NA,0,Villanova,Villanova,98
+2010-11,2010-11-24,1020488,363,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1668,UCLA,513,513,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,98
+2010-11,2010-11-24,1020488,365,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1676,Villanova,496,496,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398049,NA,NA,0,Villanova,Villanova,99
+2010-11,2010-11-24,1020488,366,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1668,UCLA,496,496,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,99
+2010-11,2010-11-24,1020488,368,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,50,8,1676,Villanova,488,488,8,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2010-11,2010-11-24,1020488,370,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1668,UCLA,471,471,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Villanova,100
+2010-11,2010-11-24,1020488,372,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1676,Villanova,463,463,8,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,101
+2010-11,2010-11-24,1020488,373,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,NA,NA,463,463,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,374,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1676,Villanova,463,463,0, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,10.049999999999997,331129,NA,NA,0,Villanova,Villanova,101
+2010-11,2010-11-24,1020488,375,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1676,Villanova,463,463,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,101
+2010-11,2010-11-24,1020488,376,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1668,UCLA,463,463,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,101
+2010-11,2010-11-24,1020488,377,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1676,Villanova,463,463,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,101
+2010-11,2010-11-24,1020488,382,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,58,52,6,1676,Villanova,460,460,3, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,102
+2010-11,2010-11-24,1020488,384,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1676,Villanova,460,460,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,102
+2010-11,2010-11-24,1020488,387,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1676,Villanova,446,446,14,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-11-24,1020488,388,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1668,UCLA,446,446,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-11-24,1020488,390,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1668,UCLA,446,446,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-11-24,1020488,391,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1676,Villanova,446,446,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,103
+2010-11,2010-11-24,1020488,394,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,59,52,7,1668,UCLA,428,428,18,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,104
+2010-11,2010-11-24,1020488,395,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,52,8,1676,Villanova,428,428,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,104
+2010-11,2010-11-24,1020488,396,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,52,8,1676,Villanova,428,428,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,104
+2010-11,2010-11-24,1020488,397,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,52,8,1668,UCLA,428,428,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,104
+2010-11,2010-11-24,1020488,400,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,52,8,1676,Villanova,413,413,15,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,105
+2010-11,2010-11-24,1020488,401,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,52,8,1668,UCLA,413,413,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,105
+2010-11,2010-11-24,1020488,403,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,60,53,7,1668,UCLA,413,413,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,105
+2010-11,2010-11-24,1020488,405,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,53,9,1676,Villanova,396,396,17, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,14.299999999999997,15.150000000000006,398049,NA,NA,0,Villanova,UCLA,106
+2010-11,2010-11-24,1020488,406,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,55,7,1668,UCLA,379,379,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Villanova,107
+2010-11,2010-11-24,1020488,407,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,55,7,1676,Villanova,358,358,21, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17.700000000000003,13.950000000000003,398049,NA,NA,0,Villanova,Villanova,108
+2010-11,2010-11-24,1020488,408,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,55,7,1668,UCLA,358,358,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,108
+2010-11,2010-11-24,1020488,410,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,55,7,1676,Villanova,352,352,6,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,109
+2010-11,2010-11-24,1020488,411,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,56,6,1668,UCLA,352,352,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,109
+2010-11,2010-11-24,1020488,412,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,56,6,1668,UCLA,352,352,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,109
+2010-11,2010-11-24,1020488,413,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,62,56,6,1676,Villanova,352,352,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,109
+2010-11,2010-11-24,1020488,415,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,65,56,9,1676,Villanova,346,346,6, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,8.549999999999997,513565,NA,NA,0,Villanova,UCLA,110
+2010-11,2010-11-24,1020488,420,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,65,56,9,1676,Villanova,279,279,67, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,19.950000000000003,513565,NA,NA,0,Villanova,Villanova,111
+2010-11,2010-11-24,1020488,421,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,65,56,9,1676,Villanova,279,279,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,111
+2010-11,2010-11-24,1020488,422,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,65,56,9,1676,Villanova,271,271,8, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,24.3,6.75,513567,NA,NA,0,Villanova,Villanova,111
+2010-11,2010-11-24,1020488,423,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,65,56,9,1676,Villanova,271,271,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,111
+2010-11,2010-11-24,1020488,424,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,67,56,11,1676,Villanova,253,253,18, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,24.5,5.450000000000003,513567,NA,NA,0,Villanova,UCLA,111
+2010-11,2010-11-24,1020488,425,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,67,59,8,1668,UCLA,243,243,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,1.8000000000000007,9.15,513492,NA,NA,0,UCLA,Villanova,112
+2010-11,2010-11-24,1020488,426,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,1676,Villanova,223,223,20, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,35.2,19.150000000000006,398049,NA,NA,0,Villanova,UCLA,113
+2010-11,2010-11-24,1020488,428,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,NA,NA,217,217,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,429,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,1668,UCLA,217,217,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,114
+2010-11,2010-11-24,1020488,430,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,1668,UCLA,217,217,0, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.2,13.55,513492,NA,NA,0,UCLA,UCLA,114
+2010-11,2010-11-24,1020488,431,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,1676,Villanova,217,217,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,114
+2010-11,2010-11-24,1020488,434,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,69,59,10,1668,UCLA,211,211,6,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,115
+2010-11,2010-11-24,1020488,435,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,70,59,11,1676,Villanova,211,211,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,115
+2010-11,2010-11-24,1020488,436,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,71,59,12,1676,Villanova,211,211,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,115
+2010-11,2010-11-24,1020488,438,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,71,61,10,1668,UCLA,208,208,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Villanova,116
+2010-11,2010-11-24,1020488,440,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,72,61,11,1676,Villanova,186,186,22, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,117
+2010-11,2010-11-24,1020488,442,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,72,61,11,1668,UCLA,162,162,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,118
+2010-11,2010-11-24,1020488,443,1,2,Villanova,UCLA,Wildcats,Bruins,3,4,72,61,11,1676,Villanova,162,162,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,118
+2010-11,2010-11-24,1020488,448,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,72,61,11,1668,UCLA,136,136,26,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,449,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,72,61,11,1676,Villanova,136,136,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,119
+2010-11,2010-11-24,1020488,450,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,72,62,10,1668,UCLA,136,136,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,119
+2010-11,2010-11-24,1020488,451,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,72,63,9,1668,UCLA,136,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,119
+2010-11,2010-11-24,1020488,453,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,74,63,11,1676,Villanova,128,128,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398051,NA,NA,0,Villanova,UCLA,120
+2010-11,2010-11-24,1020488,455,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,74,63,11,1676,Villanova,106,106,22,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,121
+2010-11,2010-11-24,1020488,456,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,74,64,10,1668,UCLA,106,106,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,121
+2010-11,2010-11-24,1020488,457,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,74,65,9,1668,UCLA,106,106,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,121
+2010-11,2010-11-24,1020488,461,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,76,65,11,1676,Villanova,102,102,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513567,NA,NA,0,Villanova,UCLA,122
+2010-11,2010-11-24,1020488,464,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,76,65,11,1668,UCLA,94,94,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,27.45,551819,NA,NA,0,UCLA,UCLA,123
+2010-11,2010-11-24,1020488,465,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,76,65,11,1676,Villanova,94,94,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,123
+2010-11,2010-11-24,1020488,467,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,77,65,12,1676,Villanova,88,88,6, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,124
+2010-11,2010-11-24,1020488,468,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,78,65,13,1676,Villanova,88,88,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,124
+2010-11,2010-11-24,1020488,471,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,78,67,11,1668,UCLA,74,74,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513490,NA,NA,0,UCLA,Villanova,125
+2010-11,2010-11-24,1020488,472,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,78,67,11,1668,UCLA,74,74,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,22.25,457571,NA,NA,0,UCLA,UCLA,126
+2010-11,2010-11-24,1020488,473,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,78,67,11,1668,UCLA,74,74,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,126
+2010-11,2010-11-24,1020488,474,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,79,67,12,1676,Villanova,74,74,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,126
+2010-11,2010-11-24,1020488,475,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,67,13,1676,Villanova,74,74,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,126
+2010-11,2010-11-24,1020488,478,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,67,13,1676,Villanova,65,65,9,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,127
+2010-11,2010-11-24,1020488,479,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,68,12,1668,UCLA,65,65,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,127
+2010-11,2010-11-24,1020488,482,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,68,12,1668,UCLA,59,59,6,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,128
+2010-11,2010-11-24,1020488,483,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,68,12,1668,UCLA,59,59,0, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15,9.85,457569,NA,NA,0,UCLA,UCLA,128
+2010-11,2010-11-24,1020488,484,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,68,12,1676,Villanova,59,59,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,128
+2010-11,2010-11-24,1020488,487,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,80,68,12,1668,UCLA,57,57,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,129
+2010-11,2010-11-24,1020488,488,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,81,68,13,1676,Villanova,57,57,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,129
+2010-11,2010-11-24,1020488,489,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,68,14,1676,Villanova,57,57,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,129
+2010-11,2010-11-24,1020488,491,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1668,UCLA,11,11,46, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551818,NA,NA,0,UCLA,Villanova,130
+2010-11,2010-11-24,1020488,494,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1668,UCLA,3,3,8, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,513484,NA,NA,0,UCLA,UCLA,131
+2010-11,2010-11-24,1020488,495,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,3,3,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Villanova,131
+2010-11,2010-11-24,1020488,496,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,0,0,3, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,19.549999999999997,398051,NA,NA,0,Villanova,Villanova,132
+2010-11,2010-11-24,1020488,497,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1668,UCLA,0,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,UCLA,132
+2010-11,2010-11-24,1020488,498,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,0,0,0, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,7.349999999999994,513565,NA,NA,0,Villanova,Villanova,133
+2010-11,2010-11-24,1020488,499,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,0,0,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,133
+2010-11,2010-11-24,1020488,500,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,0,0,0, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,10.849999999999994,398049,NA,NA,0,Villanova,Villanova,133
+2010-11,2010-11-24,1020488,501,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,1676,Villanova,0,0,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,133
+2010-11,2010-11-24,1020488,502,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-24,1020488,503,1,2,Villanova,UCLA,Wildcats,Bruins,3,3,82,70,12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,NA

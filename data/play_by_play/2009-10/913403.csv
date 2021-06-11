@@ -1,0 +1,338 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-02,913403,1,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,NA
+2009-10,2009-12-02,913403,3,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,2,0,2,1291,Arizona,2378,1178,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,1
+2009-10,2009-12-02,913403,4,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,2,0,2,1528,UNLV,2361,1161,17, misses a jump shot from 23 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,27.45,329861,NA,NA,0,UNLV,UNLV,2
+2009-10,2009-12-02,913403,5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,2,0,2,1528,UNLV,2361,1161,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,2
+2009-10,2009-12-02,913403,6,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,2,2,0,1528,UNLV,2347,1147,14, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,7.300000000000001,10.25,395375,NA,NA,0,UNLV,Arizona,2
+2009-10,2009-12-02,913403,7,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2328,1128,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,UNLV,3
+2009-10,2009-12-02,913403,8,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2315,1115,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,21.45,469898,NA,NA,0,UNLV,UNLV,4
+2009-10,2009-12-02,913403,9,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2315,1115,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,4
+2009-10,2009-12-02,913403,12,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2292,1092,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7,22.25,329709,NA,NA,0,Arizona,Arizona,5
+2009-10,2009-12-02,913403,13,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2292,1092,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,5
+2009-10,2009-12-02,913403,13.25,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,8.8,8.35,329998,NA,NA,0,UNLV,UNLV,6
+2009-10,2009-12-02,913403,13.375,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2272,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,6
+2009-10,2009-12-02,913403,13.390625,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,13.55,469898,NA,NA,0,UNLV,UNLV,7
+2009-10,2009-12-02,913403,13.3984375,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2272,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,7
+2009-10,2009-12-02,913403,13.40625,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6,18.95,401029,NA,NA,0,UNLV,UNLV,8
+2009-10,2009-12-02,913403,13.421875,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2272,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,8
+2009-10,2009-12-02,913403,13.4375,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,0, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,22.65,512645,NA,NA,0,UNLV,UNLV,9
+2009-10,2009-12-02,913403,13.46875,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1291,Arizona,2272,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,9
+2009-10,2009-12-02,913403,13.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,0, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,23.65,395375,NA,NA,0,UNLV,UNLV,10
+2009-10,2009-12-02,913403,13.75,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,2,2,1528,UNLV,2272,1072,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,10
+2009-10,2009-12-02,913403,14,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,4,0,1528,UNLV,2272,1072,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469901,NA,NA,0,UNLV,Arizona,10
+2009-10,2009-12-02,913403,16,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,4,0,1528,UNLV,2263,1063,9,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,11
+2009-10,2009-12-02,913403,19,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,4,0,1291,Arizona,2238,1038,25,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,11
+2009-10,2009-12-02,913403,20,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,4,0,1528,UNLV,2238,1038,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,11
+2009-10,2009-12-02,913403,22,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,4,5,-1,1528,UNLV,2238,1038,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,11
+2009-10,2009-12-02,913403,24,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1291,Arizona,2207,1007,31, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,6.5,21.150000000000006,329709,NA,NA,0,Arizona,UNLV,12
+2009-10,2009-12-02,913403,25,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1528,UNLV,2198,998,9, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,7,24.25,395375,NA,NA,0,UNLV,UNLV,13
+2009-10,2009-12-02,913403,26,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1291,Arizona,2198,998,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,13
+2009-10,2009-12-02,913403,28,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1528,UNLV,2193,993,5,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,14
+2009-10,2009-12-02,913403,30,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1291,Arizona,2185,985,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,UNLV,14
+2009-10,2009-12-02,913403,33,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1291,Arizona,2179,979,6,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,15
+2009-10,2009-12-02,913403,34,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,5,2,1528,UNLV,2179,979,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,15
+2009-10,2009-12-02,913403,36,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,6,1,1528,UNLV,2179,979,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,15
+2009-10,2009-12-02,913403,40,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1528,UNLV,2156,956,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469903,NA,NA,0,UNLV,Arizona,16
+2009-10,2009-12-02,913403,41,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1291,Arizona,2137,937,19, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,46,21.650000000000006,457338,NA,NA,0,Arizona,Arizona,17
+2009-10,2009-12-02,913403,42,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1528,UNLV,2137,937,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,17
+2009-10,2009-12-02,913403,44,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,NA,NA,2119,919,18,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,53,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1528,UNLV,2116,916,3,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,18
+2009-10,2009-12-02,913403,55,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1291,Arizona,2107,907,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509167,NA,NA,0,Arizona,Arizona,18
+2009-10,2009-12-02,913403,56,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,7,8,-1,1291,Arizona,2107,907,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,18
+2009-10,2009-12-02,913403,57,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,9,8,1,1291,Arizona,2100,900,7, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,25,9.150000000000006,509165,NA,NA,0,Arizona,UNLV,18
+2009-10,2009-12-02,913403,58,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,9,10,-1,1528,UNLV,2085,885,15, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,9.3,11.65,395375,NA,NA,0,UNLV,Arizona,19
+2009-10,2009-12-02,913403,59,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,9,10,-1,1291,Arizona,2028,828,57, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,20
+2009-10,2009-12-02,913403,60,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,9,10,-1,1528,UNLV,2028,828,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,20
+2009-10,2009-12-02,913403,61,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,10,2,1291,Arizona,2020,820,8, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.299999999999997,16.849999999999994,457337,NA,NA,0,Arizona,UNLV,21
+2009-10,2009-12-02,913403,63,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,10,2,1528,UNLV,2001,801,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14.3,9.85,395375,NA,NA,0,UNLV,UNLV,22
+2009-10,2009-12-02,913403,64,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,10,2,1528,UNLV,2001,801,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,22
+2009-10,2009-12-02,913403,64.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,10,2,1291,Arizona,2001,801,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,22
+2009-10,2009-12-02,913403,65,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,10,2,1528,UNLV,2001,801,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,22
+2009-10,2009-12-02,913403,67,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,12,11,1,1528,UNLV,2001,801,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,22
+2009-10,2009-12-02,913403,69,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,11,4,1291,Arizona,1981,781,20, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,31.8,30.549999999999997,509165,NA,NA,0,Arizona,UNLV,23
+2009-10,2009-12-02,913403,70,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1967,767,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.5,20.95,401029,NA,NA,0,UNLV,Arizona,24
+2009-10,2009-12-02,913403,72,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1956,756,11,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,25
+2009-10,2009-12-02,913403,74,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1291,Arizona,1942,742,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,14.349999999999994,395394,NA,NA,0,Arizona,Arizona,25
+2009-10,2009-12-02,913403,75,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1942,742,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,25
+2009-10,2009-12-02,913403,78,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1291,Arizona,1916,716,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509167,NA,NA,0,Arizona,Arizona,26
+2009-10,2009-12-02,913403,79,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1916,716,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,26
+2009-10,2009-12-02,913403,81,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1291,Arizona,1899,699,17,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,27
+2009-10,2009-12-02,913403,82,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,NA,NA,1899,699,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,88,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1886,686,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.2,10.25,329998,NA,NA,0,UNLV,UNLV,27
+2009-10,2009-12-02,913403,89,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1291,Arizona,1886,686,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,27
+2009-10,2009-12-02,913403,93,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,15,14,1,1528,UNLV,1867,667,19,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,28
+2009-10,2009-12-02,913403,94,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,16,14,2,1291,Arizona,1867,667,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,28
+2009-10,2009-12-02,913403,95,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,17,14,3,1291,Arizona,1867,667,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,28
+2009-10,2009-12-02,913403,103,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,14,5,1291,Arizona,1833,633,34, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,33.3,19.349999999999994,509168,NA,NA,0,Arizona,UNLV,29
+2009-10,2009-12-02,913403,107,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,17,2,1528,UNLV,1775,575,58, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.699999999999999,16.45,331208,NA,NA,0,UNLV,Arizona,30
+2009-10,2009-12-02,913403,108,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,17,2,1291,Arizona,1760,560,15, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,16.200000000000003,14.150000000000006,329709,NA,NA,0,Arizona,Arizona,31
+2009-10,2009-12-02,913403,109,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,17,2,1528,UNLV,1760,560,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,31
+2009-10,2009-12-02,913403,109.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,17,2,1528,UNLV,1753,553,7, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,25.75,469898,NA,NA,0,UNLV,UNLV,32
+2009-10,2009-12-02,913403,109.75,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,17,2,1291,Arizona,1753,553,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,32
+2009-10,2009-12-02,913403,110,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,19,19,0,1528,UNLV,1745,545,8, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,9.2,7.55,329998,NA,NA,0,UNLV,Arizona,33
+2009-10,2009-12-02,913403,112,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,19,0,1291,Arizona,1741,541,4,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,129,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,21,-2,1528,UNLV,1725,525,16, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329861,NA,NA,0,UNLV,Arizona,34
+2009-10,2009-12-02,913403,130.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,21,-2,1291,Arizona,1681,481,44, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31,14.349999999999994,509169,NA,NA,0,Arizona,Arizona,35
+2009-10,2009-12-02,913403,131.25,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,21,-2,1528,UNLV,1681,481,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,35
+2009-10,2009-12-02,913403,132,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,21,-2,1291,Arizona,1680,480,1, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.200000000000003,10.450000000000003,457338,NA,NA,0,Arizona,Arizona,36
+2009-10,2009-12-02,913403,133,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,21,-2,1528,UNLV,1680,480,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,36
+2009-10,2009-12-02,913403,135,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,23,-4,1528,UNLV,1668,468,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395375,NA,NA,0,UNLV,Arizona,37
+2009-10,2009-12-02,913403,136,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,19,24,-5,1528,UNLV,1668,468,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,38
+2009-10,2009-12-02,913403,154,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,21,24,-3,1291,Arizona,1655,455,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,UNLV,39
+2009-10,2009-12-02,913403,155,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,21,24,-3,1528,UNLV,1645,445,10, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,19.3,30.45,329861,NA,NA,0,UNLV,UNLV,40
+2009-10,2009-12-02,913403,156,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,21,24,-3,1291,Arizona,1645,445,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,40
+2009-10,2009-12-02,913403,157,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,23,24,-1,1291,Arizona,1625,425,20, makes a jump shot from 21 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,29.8,25.349999999999994,509167,NA,NA,0,Arizona,UNLV,41
+2009-10,2009-12-02,913403,158,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,23,24,-1,1528,UNLV,1609,409,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,11.65,329861,NA,NA,0,UNLV,UNLV,42
+2009-10,2009-12-02,913403,159,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,23,24,-1,1291,Arizona,1609,409,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,42
+2009-10,2009-12-02,913403,160,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1291,Arizona,1601,401,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,UNLV,43
+2009-10,2009-12-02,913403,166.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1528,UNLV,1590,390,11,Offensive foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,44
+2009-10,2009-12-02,913403,167,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,NA,NA,1590,390,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,180,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1291,Arizona,1567,367,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,22.049999999999997,329709,NA,NA,0,Arizona,UNLV,45
+2009-10,2009-12-02,913403,182,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1291,Arizona,1567,367,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,46
+2009-10,2009-12-02,913403,185,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1291,Arizona,1552,352,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6,21.450000000000003,457337,NA,NA,0,Arizona,Arizona,46
+2009-10,2009-12-02,913403,187,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1291,Arizona,1552,352,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,46
+2009-10,2009-12-02,913403,188,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1528,UNLV,1552,352,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,46
+2009-10,2009-12-02,913403,192,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,24,1,1528,UNLV,1531,331,21, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,47
+2009-10,2009-12-02,913403,195,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,25,0,1528,UNLV,1531,331,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,47
+2009-10,2009-12-02,913403,260,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,25,0,1528,UNLV,1459,259,72,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,48
+2009-10,2009-12-02,913403,260.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,25,25,0,1291,Arizona,1459,259,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,48
+2009-10,2009-12-02,913403,261,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,26,25,1,1291,Arizona,1459,259,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,48
+2009-10,2009-12-02,913403,262,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,27,25,2,1291,Arizona,1459,259,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,48
+2009-10,2009-12-02,913403,264,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,27,25,2,1528,UNLV,1445,245,14, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,26.95,395375,NA,NA,0,UNLV,UNLV,49
+2009-10,2009-12-02,913403,265,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,27,25,2,1291,Arizona,1445,245,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,49
+2009-10,2009-12-02,913403,266,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,29,25,4,1291,Arizona,1436,236,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,395394,NA,NA,0,Arizona,UNLV,50
+2009-10,2009-12-02,913403,267,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,29,27,2,1528,UNLV,1418,218,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329861,NA,NA,0,UNLV,Arizona,51
+2009-10,2009-12-02,913403,269,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,31,27,4,1291,Arizona,1389,189,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Arizona,52
+2009-10,2009-12-02,913403,269.5,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,31,27,4,1528,UNLV,1389,189,0,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,52
+2009-10,2009-12-02,913403,270,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,31,27,4,NA,NA,1389,189,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,274,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,27,5,1291,Arizona,1389,189,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,52
+2009-10,2009-12-02,913403,276,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1366,166,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329861,NA,NA,0,UNLV,Arizona,53
+2009-10,2009-12-02,913403,277,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1291,Arizona,1342,142,24, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,11.650000000000006,329709,NA,NA,0,Arizona,Arizona,54
+2009-10,2009-12-02,913403,278,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1342,142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,54
+2009-10,2009-12-02,913403,282,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1291,Arizona,1310,110,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395394,NA,NA,0,Arizona,Arizona,55
+2009-10,2009-12-02,913403,283,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1310,110,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,55
+2009-10,2009-12-02,913403,284,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1294,94,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7,19.75,469898,NA,NA,0,UNLV,UNLV,56
+2009-10,2009-12-02,913403,285,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1294,94,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,56
+2009-10,2009-12-02,913403,286,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1291,Arizona,1274,74,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,47,13.75,509167,NA,NA,0,Arizona,Arizona,56
+2009-10,2009-12-02,913403,287,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1274,74,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,56
+2009-10,2009-12-02,913403,288,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1528,UNLV,1258,58,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.1999999999999993,8.35,469898,NA,NA,0,UNLV,UNLV,57
+2009-10,2009-12-02,913403,289,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,32,29,3,1291,Arizona,1258,58,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,57
+2009-10,2009-12-02,913403,291,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,4,34,29,5,1291,Arizona,1249,49,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,UNLV,58
+2009-10,2009-12-02,913403,292,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,3,34,29,5,1528,UNLV,1249,49,0,Runnin' Rebels take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,293,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,3,34,29,5,1528,UNLV,1249,49,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8,20.95,331208,NA,NA,0,UNLV,UNLV,59
+2009-10,2009-12-02,913403,296,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,3,34,29,5,1528,UNLV,1219,19,30, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,24.25,329998,NA,NA,0,UNLV,UNLV,59
+2009-10,2009-12-02,913403,297,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,3,34,29,5,1291,Arizona,1219,19,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,59
+2009-10,2009-12-02,913403,298,0,1,Arizona,UNLV,Wildcats,Runnin' Rebels,3,3,34,29,5,NA,NA,1200,0,19,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,317,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,60
+2009-10,2009-12-02,913403,323,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1291,Arizona,1145,1145,55, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Arizona,61
+2009-10,2009-12-02,913403,324,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1291,Arizona,1145,1145,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,61
+2009-10,2009-12-02,913403,325,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1291,Arizona,1137,1137,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Arizona,61
+2009-10,2009-12-02,913403,326,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1528,UNLV,1137,1137,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,61
+2009-10,2009-12-02,913403,328.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1528,UNLV,1124,1124,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5,19.15,329998,NA,NA,0,UNLV,UNLV,62
+2009-10,2009-12-02,913403,329.75,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1528,UNLV,1124,1124,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,62
+2009-10,2009-12-02,913403,331,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1528,UNLV,1124,1124,0,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,62
+2009-10,2009-12-02,913403,334,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1291,Arizona,1119,1119,5, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,28,26.950000000000003,509169,NA,NA,0,Arizona,Arizona,62
+2009-10,2009-12-02,913403,335,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1528,UNLV,1119,1119,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,62
+2009-10,2009-12-02,913403,336,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,29,5,1291,Arizona,1119,1119,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,63
+2009-10,2009-12-02,913403,340,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,4,34,31,3,1528,UNLV,1097,1097,22, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.7,9.15,329998,NA,NA,0,UNLV,Arizona,63
+2009-10,2009-12-02,913403,342,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,31,3,1528,UNLV,1084,1084,13,Runnin' Rebels take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,352,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,34,0,1528,UNLV,1047,1047,37, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.7,30.75,469898,NA,NA,0,UNLV,Arizona,64
+2009-10,2009-12-02,913403,353,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,34,0,1291,Arizona,1023,1023,24, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,18.950000000000003,509168,NA,NA,0,Arizona,Arizona,65
+2009-10,2009-12-02,913403,354,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,34,0,1291,Arizona,1023,1023,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,65
+2009-10,2009-12-02,913403,355,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,34,0,1291,Arizona,1019,1019,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,65
+2009-10,2009-12-02,913403,356,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,34,0,1528,UNLV,1019,1019,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,65
+2009-10,2009-12-02,913403,357,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,36,-2,1528,UNLV,1013,1013,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469903,NA,NA,0,UNLV,Arizona,66
+2009-10,2009-12-02,913403,359,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,34,36,-2,1528,UNLV,1005,1005,8,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,67
+2009-10,2009-12-02,913403,361,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,35,36,-1,1291,Arizona,1005,1005,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,67
+2009-10,2009-12-02,913403,363,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1291,Arizona,1005,1005,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,67
+2009-10,2009-12-02,913403,367,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1528,UNLV,1001,1001,4,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,68
+2009-10,2009-12-02,913403,370,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1291,Arizona,1001,1001,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,68
+2009-10,2009-12-02,913403,371,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1528,UNLV,1001,1001,0,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,68
+2009-10,2009-12-02,913403,374,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1528,UNLV,963,963,38, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331208,NA,NA,0,UNLV,UNLV,68
+2009-10,2009-12-02,913403,375,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1291,Arizona,963,963,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,68
+2009-10,2009-12-02,913403,376,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1291,Arizona,944,944,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395394,NA,NA,0,Arizona,Arizona,69
+2009-10,2009-12-02,913403,377,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1528,UNLV,944,944,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,69
+2009-10,2009-12-02,913403,378,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1528,UNLV,928,928,16, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,32,24.45,469898,NA,NA,0,UNLV,Arizona,70
+2009-10,2009-12-02,913403,381,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,NA,NA,923,923,5,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,386,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,36,0,1291,Arizona,906,906,17, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,31.950000000000003,329709,NA,NA,0,Arizona,UNLV,71
+2009-10,2009-12-02,913403,389,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,36,38,-2,1528,UNLV,880,880,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329998,NA,NA,0,UNLV,Arizona,72
+2009-10,2009-12-02,913403,392,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,851,851,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509165,NA,NA,0,Arizona,UNLV,73
+2009-10,2009-12-02,913403,393,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,826,826,25, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,21,17.450000000000003,509169,NA,NA,0,Arizona,Arizona,74
+2009-10,2009-12-02,913403,394,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1528,UNLV,826,826,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,74
+2009-10,2009-12-02,913403,396,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,810,810,16,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,75
+2009-10,2009-12-02,913403,397.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,807,807,3, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,14.950000000000003,509169,NA,NA,0,Arizona,Arizona,75
+2009-10,2009-12-02,913403,398.25,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1528,UNLV,807,807,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,75
+2009-10,2009-12-02,913403,399,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1528,UNLV,807,807,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,19.55,329998,NA,NA,0,UNLV,UNLV,76
+2009-10,2009-12-02,913403,400,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,807,807,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,76
+2009-10,2009-12-02,913403,403,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,802,802,5,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,77
+2009-10,2009-12-02,913403,408,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,786,786,16,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,77
+2009-10,2009-12-02,913403,409,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1528,UNLV,786,786,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6,19.35,311731,NA,NA,0,UNLV,UNLV,77
+2009-10,2009-12-02,913403,410,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,38,0,1291,Arizona,786,786,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,77
+2009-10,2009-12-02,913403,412,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,40,-2,1528,UNLV,783,783,3, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,11.2,9.15,401029,NA,NA,0,UNLV,Arizona,78
+2009-10,2009-12-02,913403,413,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,40,-2,1291,Arizona,767,767,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,7.549999999999997,457337,NA,NA,0,Arizona,Arizona,79
+2009-10,2009-12-02,913403,414,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,40,-2,1528,UNLV,767,767,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,79
+2009-10,2009-12-02,913403,415,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,40,-2,1528,UNLV,754,754,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,13.75,331208,NA,NA,0,UNLV,UNLV,80
+2009-10,2009-12-02,913403,416,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,38,40,-2,1291,Arizona,754,754,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,80
+2009-10,2009-12-02,913403,417,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,41,40,1,1291,Arizona,742,742,12, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32.7,29.049999999999997,509167,NA,NA,0,Arizona,Arizona,81
+2009-10,2009-12-02,913403,419,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,41,40,1,NA,NA,719,719,23,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,429,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,41,40,1,1528,UNLV,700,700,19,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,81
+2009-10,2009-12-02,913403,430,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,41,40,1,1291,Arizona,700,700,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,81
+2009-10,2009-12-02,913403,432,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,42,40,2,1291,Arizona,700,700,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,81
+2009-10,2009-12-02,913403,437,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,42,40,2,1528,UNLV,630,630,70, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.300000000000001,21.15,395375,NA,NA,0,UNLV,UNLV,82
+2009-10,2009-12-02,913403,439.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,42,40,2,1291,Arizona,630,630,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,82
+2009-10,2009-12-02,913403,442,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,44,40,4,1291,Arizona,630,630,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,83
+2009-10,2009-12-02,913403,443,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,44,40,4,1528,UNLV,607,607,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469903,NA,NA,0,UNLV,UNLV,84
+2009-10,2009-12-02,913403,444,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,44,40,4,1291,Arizona,607,607,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,84
+2009-10,2009-12-02,913403,445,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,3,46,40,6,1291,Arizona,586,586,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,85
+2009-10,2009-12-02,913403,447,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,40,6,1528,UNLV,578,578,8,Runnin' Rebels take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,452,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,557,557,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329861,NA,NA,0,UNLV,Arizona,86
+2009-10,2009-12-02,913403,453,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,543,543,14, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,29.7,30.75,329709,NA,NA,0,Arizona,Arizona,87
+2009-10,2009-12-02,913403,454,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,543,543,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,87
+2009-10,2009-12-02,913403,455,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,509,509,34, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,19.95,469898,NA,NA,0,UNLV,UNLV,88
+2009-10,2009-12-02,913403,456,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,509,509,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,88
+2009-10,2009-12-02,913403,458,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,487,487,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395394,NA,NA,0,Arizona,Arizona,89
+2009-10,2009-12-02,913403,459,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,487,487,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,89
+2009-10,2009-12-02,913403,460,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,487,487,0,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,89
+2009-10,2009-12-02,913403,463,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,467,467,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,20.349999999999994,395394,NA,NA,0,Arizona,Arizona,89
+2009-10,2009-12-02,913403,464,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,467,467,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,89
+2009-10,2009-12-02,913403,464.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1528,UNLV,442,442,25, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,6.45,329861,NA,NA,0,UNLV,UNLV,90
+2009-10,2009-12-02,913403,464.75,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,90
+2009-10,2009-12-02,913403,465,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,15.549999999999997,457337,NA,NA,0,Arizona,Arizona,91
+2009-10,2009-12-02,913403,466,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,91
+2009-10,2009-12-02,913403,466.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,9.549999999999997,509167,NA,NA,0,Arizona,Arizona,91
+2009-10,2009-12-02,913403,466.75,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,91
+2009-10,2009-12-02,913403,467,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,1291,Arizona,442,442,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,91
+2009-10,2009-12-02,913403,471,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,42,4,NA,NA,442,442,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,472,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,43,3,1528,UNLV,442,442,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,91
+2009-10,2009-12-02,913403,479,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1528,UNLV,442,442,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,91
+2009-10,2009-12-02,913403,482,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,412,412,30, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,26.349999999999994,457337,NA,NA,0,Arizona,Arizona,92
+2009-10,2009-12-02,913403,483,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,412,412,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,92
+2009-10,2009-12-02,913403,484,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1528,UNLV,412,412,0,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,92
+2009-10,2009-12-02,913403,485,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,412,412,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,92
+2009-10,2009-12-02,913403,487,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,412,412,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,92
+2009-10,2009-12-02,913403,488,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1528,UNLV,412,412,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,92
+2009-10,2009-12-02,913403,490,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1528,UNLV,391,391,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331208,NA,NA,0,UNLV,UNLV,93
+2009-10,2009-12-02,913403,491,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,391,391,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,93
+2009-10,2009-12-02,913403,492,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,366,366,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Arizona,94
+2009-10,2009-12-02,913403,493,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,366,366,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,94
+2009-10,2009-12-02,913403,494,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1291,Arizona,360,360,6, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,9.150000000000006,395394,NA,NA,0,Arizona,Arizona,94
+2009-10,2009-12-02,913403,495,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,44,2,1528,UNLV,360,360,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,94
+2009-10,2009-12-02,913403,496,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,4,2,46,47,-1,1528,UNLV,350,350,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.800000000000001,13.15,329998,NA,NA,0,UNLV,Arizona,95
+2009-10,2009-12-02,913403,498,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,46,47,-1,1291,Arizona,345,345,5,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,526,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,46,47,-1,1528,UNLV,318,318,27,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2009-10,2009-12-02,913403,528,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,46,47,-1,1528,UNLV,312,312,6, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.7,8.95,469898,NA,NA,0,UNLV,UNLV,96
+2009-10,2009-12-02,913403,529,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,46,47,-1,1291,Arizona,312,312,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,96
+2009-10,2009-12-02,913403,530,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1291,Arizona,298,298,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,97
+2009-10,2009-12-02,913403,531,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1528,UNLV,277,277,21, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,32.55,401029,NA,NA,0,UNLV,UNLV,98
+2009-10,2009-12-02,913403,532,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1291,Arizona,277,277,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,98
+2009-10,2009-12-02,913403,532.25,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1291,Arizona,269,269,8, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,99
+2009-10,2009-12-02,913403,532.375,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1528,UNLV,269,269,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,99
+2009-10,2009-12-02,913403,532.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1528,UNLV,269,269,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469898,NA,NA,0,UNLV,UNLV,100
+2009-10,2009-12-02,913403,532.75,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,48,47,1,1291,Arizona,269,269,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,100
+2009-10,2009-12-02,913403,533,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,50,47,3,1291,Arizona,269,269,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,101
+2009-10,2009-12-02,913403,533.75,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,50,47,3,1528,UNLV,210,210,59, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,7,25.55,329998,NA,NA,0,UNLV,UNLV,102
+2009-10,2009-12-02,913403,534.125,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,50,47,3,1291,Arizona,210,210,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,102
+2009-10,2009-12-02,913403,534.5,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,50,47,3,1528,UNLV,210,210,0,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,103
+2009-10,2009-12-02,913403,536,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,50,47,3,NA,NA,210,210,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,545,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,51,47,4,1291,Arizona,210,210,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,103
+2009-10,2009-12-02,913403,546,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,47,5,1291,Arizona,210,210,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,103
+2009-10,2009-12-02,913403,568,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,49,3,1528,UNLV,166,166,44, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329998,NA,NA,0,UNLV,UNLV,104
+2009-10,2009-12-02,913403,569,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,49,3,1291,Arizona,166,166,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,104
+2009-10,2009-12-02,913403,570,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,50,2,1528,UNLV,166,166,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,104
+2009-10,2009-12-02,913403,572,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,50,2,1291,Arizona,129,129,37, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,43,24.25,509167,NA,NA,0,Arizona,Arizona,105
+2009-10,2009-12-02,913403,573,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,50,2,1528,UNLV,129,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,105
+2009-10,2009-12-02,913403,574,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,50,2,1528,UNLV,114,114,15, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,30.35,469898,NA,NA,0,UNLV,UNLV,106
+2009-10,2009-12-02,913403,575,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,50,2,1528,UNLV,114,114,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,106
+2009-10,2009-12-02,913403,576,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,3,2,52,52,0,1528,UNLV,109,109,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469903,NA,NA,0,UNLV,Arizona,106
+2009-10,2009-12-02,913403,578,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,2,52,52,0,1291,Arizona,100,100,9,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,584,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,52,52,0,1528,UNLV,77,77,23,Runnin' Rebels take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,588,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,52,54,-2,1528,UNLV,73,73,4, makes a jump shot from 22 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,21.2,26.95,401029,NA,NA,0,UNLV,Arizona,107
+2009-10,2009-12-02,913403,591,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,52,54,-2,1528,UNLV,56,56,17,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,108
+2009-10,2009-12-02,913403,592,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,53,54,-1,1291,Arizona,56,56,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,108
+2009-10,2009-12-02,913403,594,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,54,54,0,1291,Arizona,56,56,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,108
+2009-10,2009-12-02,913403,597,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,1528,UNLV,35,35,21,Runnin' Rebels take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,600,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,1528,UNLV,15,15,20, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,26.95,469898,NA,NA,0,UNLV,UNLV,109
+2009-10,2009-12-02,913403,601,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,1291,Arizona,15,15,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,109
+2009-10,2009-12-02,913403,602,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,1291,Arizona,0,0,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,17,26.549999999999997,329709,NA,NA,0,Arizona,Arizona,110
+2009-10,2009-12-02,913403,603,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,1528,UNLV,0,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,110
+2009-10,2009-12-02,913403,604,0,2,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,54,54,0,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,605,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,54,54,0,NA,NA,300,300,-300,Start of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UNLV,111
+2009-10,2009-12-02,913403,607,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,54,56,-2,1528,UNLV,269,269,31, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.5,8.55,329998,NA,NA,0,UNLV,Arizona,112
+2009-10,2009-12-02,913403,615,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,56,56,0,1291,Arizona,232,232,37, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Arizona,113
+2009-10,2009-12-02,913403,616,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,56,56,0,1528,UNLV,232,232,0,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,113
+2009-10,2009-12-02,913403,617,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,56,1,1291,Arizona,232,232,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,113
+2009-10,2009-12-02,913403,621,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,56,1,1291,Arizona,192,192,40, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,13.700000000000003,27.650000000000006,329709,NA,NA,0,Arizona,Arizona,114
+2009-10,2009-12-02,913403,622,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,56,1,1528,UNLV,192,192,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,114
+2009-10,2009-12-02,913403,623,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,56,1,1291,Arizona,192,192,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,115
+2009-10,2009-12-02,913403,624,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,57,0,1528,UNLV,192,192,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,115
+2009-10,2009-12-02,913403,625,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,3,1,57,58,-1,1528,UNLV,192,192,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,115
+2009-10,2009-12-02,913403,628,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,57,58,-1,1291,Arizona,185,185,7,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,631,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,57,58,-1,1291,Arizona,155,155,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,4.049999999999997,329709,NA,NA,0,Arizona,Arizona,116
+2009-10,2009-12-02,913403,632,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,57,58,-1,1528,UNLV,155,155,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,116
+2009-10,2009-12-02,913403,633,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,57,58,-1,1528,UNLV,122,122,33, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,20.95,329998,NA,NA,0,UNLV,UNLV,117
+2009-10,2009-12-02,913403,634,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,57,58,-1,1291,Arizona,122,122,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,117
+2009-10,2009-12-02,913403,636,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,59,58,1,1291,Arizona,98,98,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Arizona,118
+2009-10,2009-12-02,913403,637,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,59,58,1,1528,UNLV,98,98,0,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,118
+2009-10,2009-12-02,913403,641,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,58,2,1291,Arizona,97,97,1, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,118
+2009-10,2009-12-02,913403,644,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,60,0,1528,UNLV,86,86,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329998,NA,NA,0,UNLV,UNLV,119
+2009-10,2009-12-02,913403,645,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,60,0,1291,Arizona,86,86,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,119
+2009-10,2009-12-02,913403,646,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,61,-1,1528,UNLV,86,86,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,119
+2009-10,2009-12-02,913403,649,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,61,-1,1528,UNLV,72,72,14,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,120
+2009-10,2009-12-02,913403,650,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,60,61,-1,1291,Arizona,72,72,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,120
+2009-10,2009-12-02,913403,652,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,61,61,0,1291,Arizona,72,72,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,120
+2009-10,2009-12-02,913403,654,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,61,63,-2,1528,UNLV,55,55,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329998,NA,NA,0,UNLV,Arizona,121
+2009-10,2009-12-02,913403,656,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,1,1,61,63,-2,1291,Arizona,42,42,13,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,658,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,1,1,63,63,0,1291,Arizona,31,31,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395394,NA,NA,0,Arizona,UNLV,122
+2009-10,2009-12-02,913403,660,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,63,63,0,1528,UNLV,18,18,13,Runnin' Rebels take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,663,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,63,63,0,1528,UNLV,0,0,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329998,NA,NA,0,UNLV,Arizona,123
+2009-10,2009-12-02,913403,665,0,3,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,63,63,0,NA,NA,0,0,0,End of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,666,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,NA,NA,300,300,-300,Start of the 2nd Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,124
+2009-10,2009-12-02,913403,670,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1291,Arizona,284,284,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509167,NA,NA,0,Arizona,Arizona,125
+2009-10,2009-12-02,913403,671,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1528,UNLV,284,284,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,125
+2009-10,2009-12-02,913403,672,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1528,UNLV,262,262,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,15.55,401029,NA,NA,0,UNLV,UNLV,126
+2009-10,2009-12-02,913403,673,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1291,Arizona,262,262,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,126
+2009-10,2009-12-02,913403,676,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1291,Arizona,239,239,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329709,NA,NA,0,Arizona,Arizona,127
+2009-10,2009-12-02,913403,677,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,1528,UNLV,239,239,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,127
+2009-10,2009-12-02,913403,679,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,63,0,NA,NA,232,232,7,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,681,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,63,65,-2,1528,UNLV,232,232,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329998,NA,NA,0,UNLV,Arizona,128
+2009-10,2009-12-02,913403,684,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,65,65,0,1291,Arizona,217,217,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,UNLV,129
+2009-10,2009-12-02,913403,686,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,66,65,1,1291,Arizona,217,217,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,130
+2009-10,2009-12-02,913403,688,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,66,67,-1,1528,UNLV,216,216,1, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,15.8,13.15,469898,NA,NA,0,UNLV,Arizona,131
+2009-10,2009-12-02,913403,690,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,66,67,-1,1528,UNLV,208,208,8,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,132
+2009-10,2009-12-02,913403,697,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,66,67,-1,1528,UNLV,179,179,29,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,132
+2009-10,2009-12-02,913403,698,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,67,67,0,1291,Arizona,179,179,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,132
+2009-10,2009-12-02,913403,699,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1291,Arizona,179,179,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,132
+2009-10,2009-12-02,913403,701,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1528,UNLV,162,162,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,5.85,329998,NA,NA,0,UNLV,UNLV,133
+2009-10,2009-12-02,913403,702,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1291,Arizona,162,162,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,133
+2009-10,2009-12-02,913403,703,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1291,Arizona,138,138,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.700000000000003,20.75,395394,NA,NA,0,Arizona,Arizona,134
+2009-10,2009-12-02,913403,704,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1528,UNLV,138,138,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,134
+2009-10,2009-12-02,913403,704.5,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1528,UNLV,115,115,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469898,NA,NA,0,UNLV,UNLV,135
+2009-10,2009-12-02,913403,704.75,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,67,1,1528,UNLV,115,115,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,135
+2009-10,2009-12-02,913403,705,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,70,-2,1528,UNLV,115,115,0, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.300000000000001,16.85,329861,NA,NA,0,UNLV,Arizona,135
+2009-10,2009-12-02,913403,706,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,70,-2,1291,Arizona,95,95,20, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,20.75,329709,NA,NA,0,Arizona,Arizona,136
+2009-10,2009-12-02,913403,707,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,1,68,70,-2,1528,UNLV,95,95,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,136
+2009-10,2009-12-02,913403,709,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,68,70,-2,1528,UNLV,81,81,14,Runnin' Rebels take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,715,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,68,70,-2,1528,UNLV,70,70,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329998,NA,NA,0,UNLV,UNLV,137
+2009-10,2009-12-02,913403,716,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,2,0,68,70,-2,1291,Arizona,70,70,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,137
+2009-10,2009-12-02,913403,718,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,68,70,-2,1291,Arizona,64,64,6,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,721,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,68,70,-2,1291,Arizona,43,43,21, misses a jump shot.,missed,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,138
+2009-10,2009-12-02,913403,723,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,68,70,-2,1291,Arizona,43,43,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,139
+2009-10,2009-12-02,913403,724,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,68,71,-3,1528,UNLV,43,43,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,139
+2009-10,2009-12-02,913403,725,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,0,68,72,-4,1528,UNLV,43,43,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,139
+2009-10,2009-12-02,913403,726,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,-1,68,72,-4,1528,UNLV,43,43,0,Runnin' Rebels take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,729,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,1,-1,68,72,-4,1528,UNLV,25,25,18,Shooting foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,140
+2009-10,2009-12-02,913403,730,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,68,72,-4,1291,Arizona,25,25,0,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,731,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,69,72,-3,1291,Arizona,25,25,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,140
+2009-10,2009-12-02,913403,732,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,72,-2,1291,Arizona,25,25,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,140
+2009-10,2009-12-02,913403,735,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,72,-2,1291,Arizona,20,20,5,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,141
+2009-10,2009-12-02,913403,736,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,73,-3,1528,UNLV,20,20,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,141
+2009-10,2009-12-02,913403,737,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,73,-3,1528,UNLV,20,20,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,141
+2009-10,2009-12-02,913403,738,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,73,-3,1291,Arizona,20,20,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,141
+2009-10,2009-12-02,913403,741,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,70,73,-3,1528,UNLV,15,15,5,Personal foul committed by Runnin' Rebels.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,142
+2009-10,2009-12-02,913403,742,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,71,73,-2,1291,Arizona,15,15,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,142
+2009-10,2009-12-02,913403,743,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,73,-1,1291,Arizona,15,15,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UNLV,142
+2009-10,2009-12-02,913403,747,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,73,-1,1291,Arizona,10,10,5,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,143
+2009-10,2009-12-02,913403,748,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,73,-1,1528,UNLV,10,10,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,UNLV,143
+2009-10,2009-12-02,913403,750,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,74,-2,1528,UNLV,10,10,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNLV,Arizona,143
+2009-10,2009-12-02,913403,752,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,74,-2,NA,NA,0,0,10,End of the 2nd Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-02,913403,753,0,4,Arizona,UNLV,Wildcats,Runnin' Rebels,0,-1,72,74,-2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,NA

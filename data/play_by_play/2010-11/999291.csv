@@ -1,0 +1,267 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-21,999291,1,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas A&M,NA
+2010-11,2010-12-21,999291,5,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,0,0,0,1682,Wagner,2383,1183,17,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,1
+2010-11,2010-12-21,999291,6,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,1,0,1,1652,Texas A&M,2383,1183,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,1
+2010-11,2010-12-21,999291,7,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,1,0,1,1652,Texas A&M,2383,1183,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,1
+2010-11,2010-12-21,999291,12,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,1,3,-2,1682,Wagner,2349,1149,34, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.5,21.85,480455,NA,NA,0,Wagner,Texas A&M,2
+2010-11,2010-12-21,999291,14,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,1,3,-2,1682,Wagner,2339,1139,10,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,3
+2010-11,2010-12-21,999291,17,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,3,3,0,1652,Texas A&M,2326,1126,13, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,34,9.25,464339,NA,NA,0,Texas A&M,Wagner,3
+2010-11,2010-12-21,999291,19,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,3,3,0,1682,Wagner,2308,1108,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,547949,NA,NA,0,Wagner,Wagner,4
+2010-11,2010-12-21,999291,20,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,3,3,0,1652,Texas A&M,2308,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,4
+2010-11,2010-12-21,999291,21,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,3,3,0,1652,Texas A&M,2297,1097,11, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,10.25,464339,NA,NA,0,Texas A&M,Texas A&M,5
+2010-11,2010-12-21,999291,22,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,3,3,0,1652,Texas A&M,2297,1097,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,5
+2010-11,2010-12-21,999291,23,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,5,3,2,1652,Texas A&M,2290,1090,7, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27.2,8.75,398146,NA,NA,0,Texas A&M,Wagner,5
+2010-11,2010-12-21,999291,24,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,5,3,2,1652,Texas A&M,2274,1074,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398141,NA,NA,0,Texas A&M,Texas A&M,6
+2010-11,2010-12-21,999291,25,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,5,3,2,1652,Texas A&M,2274,1074,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,6
+2010-11,2010-12-21,999291,27,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,5,3,2,1652,Texas A&M,2272,1072,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398146,NA,NA,0,Texas A&M,Texas A&M,6
+2010-11,2010-12-21,999291,28.5,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,4,5,3,2,1652,Texas A&M,2272,1072,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,6
+2010-11,2010-12-21,999291,40,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,5,3,2,1682,Wagner,2271,1071,1,Seahawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,46,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,5,3,2,1682,Wagner,2255,1055,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,18.55,480456,NA,NA,0,Wagner,Wagner,6
+2010-11,2010-12-21,999291,47,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,5,3,2,1652,Texas A&M,2255,1055,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,6
+2010-11,2010-12-21,999291,48,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,7,3,4,1652,Texas A&M,2245,1045,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398146,NA,NA,0,Texas A&M,Wagner,7
+2010-11,2010-12-21,999291,49,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,7,5,2,1682,Wagner,2232,1032,13, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,11.5,10.65,547950,NA,NA,0,Wagner,Texas A&M,8
+2010-11,2010-12-21,999291,50,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,5,4,1652,Texas A&M,2219,1019,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512053,NA,NA,0,Texas A&M,Wagner,9
+2010-11,2010-12-21,999291,51,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,8,1,1682,Wagner,2184,984,35, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.800000000000001,18.05,480455,NA,NA,0,Wagner,Texas A&M,10
+2010-11,2010-12-21,999291,53,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,10,-1,1682,Wagner,2161,961,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,480455,NA,NA,0,Wagner,Wagner,11
+2010-11,2010-12-21,999291,54,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,10,-1,1652,Texas A&M,2161,961,0,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,11
+2010-11,2010-12-21,999291,55,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1682,Wagner,2161,961,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,11
+2010-11,2010-12-21,999291,57,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1682,Wagner,2141,941,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,480455,NA,NA,0,Wagner,Wagner,12
+2010-11,2010-12-21,999291,58,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1652,Texas A&M,2141,941,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,12
+2010-11,2010-12-21,999291,59,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1682,Wagner,2111,911,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.8,9.55,480455,NA,NA,0,Wagner,Wagner,13
+2010-11,2010-12-21,999291,60,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1682,Wagner,2111,911,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,13
+2010-11,2010-12-21,999291,61,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1682,Wagner,2103,903,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13,25.55,547952,NA,NA,0,Wagner,Wagner,13
+2010-11,2010-12-21,999291,62,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1652,Texas A&M,2103,903,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,13
+2010-11,2010-12-21,999291,63,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1652,Texas A&M,2086,886,17, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,11.25,512055,NA,NA,0,Texas A&M,Texas A&M,14
+2010-11,2010-12-21,999291,64,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,9,11,-2,1652,Texas A&M,2086,886,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,14
+2010-11,2010-12-21,999291,65,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,11,11,0,1652,Texas A&M,2079,879,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512054,NA,NA,0,Texas A&M,Wagner,14
+2010-11,2010-12-21,999291,66,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,11,13,-2,1682,Wagner,2067,867,12, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,32.3,19.15,547950,NA,NA,0,Wagner,Texas A&M,15
+2010-11,2010-12-21,999291,68,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,11,13,-2,NA,NA,2050,850,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,79,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,11,13,-2,1682,Wagner,2025,825,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,480458,NA,NA,0,Wagner,Wagner,16
+2010-11,2010-12-21,999291,80,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,11,13,-2,1652,Texas A&M,2025,825,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,16
+2010-11,2010-12-21,999291,82,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1652,Texas A&M,2016,816,9, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,26,9.25,512055,NA,NA,0,Texas A&M,Wagner,17
+2010-11,2010-12-21,999291,83,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1652,Texas A&M,1983,783,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416051,NA,NA,0,Texas A&M,Texas A&M,18
+2010-11,2010-12-21,999291,84,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1652,Texas A&M,1983,783,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,18
+2010-11,2010-12-21,999291,91,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1652,Texas A&M,1979,779,4,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,18
+2010-11,2010-12-21,999291,100.5,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1682,Wagner,1967,767,12,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,18
+2010-11,2010-12-21,999291,110,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,13,13,0,1652,Texas A&M,1967,767,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,18
+2010-11,2010-12-21,999291,112,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,14,13,1,1652,Texas A&M,1967,767,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,18
+2010-11,2010-12-21,999291,116,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,14,13,1,1682,Wagner,1949,749,18,Offensive foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,19
+2010-11,2010-12-21,999291,125,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1652,Texas A&M,1933,733,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512054,NA,NA,0,Texas A&M,Wagner,20
+2010-11,2010-12-21,999291,128,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1682,Wagner,1922,722,11,Offensive foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,21
+2010-11,2010-12-21,999291,136,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1652,Texas A&M,1903,703,19, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8,6.25,512055,NA,NA,0,Texas A&M,Texas A&M,22
+2010-11,2010-12-21,999291,137,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1682,Wagner,1903,703,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,22
+2010-11,2010-12-21,999291,137.5,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1682,Wagner,1893,693,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,13.25,480455,NA,NA,0,Wagner,Wagner,23
+2010-11,2010-12-21,999291,137.75,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,16,13,3,1652,Texas A&M,1893,693,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,23
+2010-11,2010-12-21,999291,138,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,18,13,5,1652,Texas A&M,1889,689,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416051,NA,NA,0,Texas A&M,Wagner,24
+2010-11,2010-12-21,999291,139,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,18,13,5,1682,Wagner,1857,657,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,4.85,547950,NA,NA,0,Wagner,Wagner,25
+2010-11,2010-12-21,999291,140,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,18,13,5,1652,Texas A&M,1857,657,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,25
+2010-11,2010-12-21,999291,143,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,18,13,5,1682,Wagner,1846,646,11,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,26
+2010-11,2010-12-21,999291,144,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,18,13,5,NA,NA,1846,646,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,154,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,20,13,7,1652,Texas A&M,1836,636,10, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,11.200000000000003,18.75,464338,NA,NA,0,Texas A&M,Wagner,26
+2010-11,2010-12-21,999291,155,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,20,13,7,1652,Texas A&M,1796,596,40, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398141,NA,NA,0,Texas A&M,Texas A&M,27
+2010-11,2010-12-21,999291,156,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,20,13,7,1652,Texas A&M,1796,596,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,27
+2010-11,2010-12-21,999291,157,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,22,13,9,1652,Texas A&M,1792,592,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464339,NA,NA,0,Texas A&M,Wagner,27
+2010-11,2010-12-21,999291,162,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,22,13,9,1652,Texas A&M,1776,576,16, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9,6.25,512053,NA,NA,0,Texas A&M,Texas A&M,28
+2010-11,2010-12-21,999291,163,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,22,13,9,1682,Wagner,1776,576,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,28
+2010-11,2010-12-21,999291,164,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,22,13,9,1682,Wagner,1767,567,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,9.8,7.75,480456,NA,NA,0,Wagner,Wagner,29
+2010-11,2010-12-21,999291,165,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,22,13,9,1652,Texas A&M,1767,567,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,29
+2010-11,2010-12-21,999291,166,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,24,13,11,1652,Texas A&M,1754,554,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,464339,NA,NA,0,Texas A&M,Wagner,30
+2010-11,2010-12-21,999291,169,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,24,13,11,1652,Texas A&M,1732,532,22,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,31
+2010-11,2010-12-21,999291,171,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,24,15,9,1682,Wagner,1727,527,5, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,32,20.25,547950,NA,NA,0,Wagner,Texas A&M,31
+2010-11,2010-12-21,999291,174,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,24,15,9,1652,Texas A&M,1704,504,23, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27,9.25,464339,NA,NA,0,Texas A&M,Texas A&M,32
+2010-11,2010-12-21,999291,175,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,24,15,9,1682,Wagner,1704,504,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,32
+2010-11,2010-12-21,999291,181,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,26,15,11,1652,Texas A&M,1689,489,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398146,NA,NA,0,Texas A&M,Texas A&M,33
+2010-11,2010-12-21,999291,183,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,26,15,11,1682,Wagner,1689,489,0,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,33
+2010-11,2010-12-21,999291,184,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,15,12,1652,Texas A&M,1689,489,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,33
+2010-11,2010-12-21,999291,192,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1682,Wagner,1679,479,10, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.7,9.15,547952,NA,NA,0,Wagner,Texas A&M,34
+2010-11,2010-12-21,999291,196,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,NA,NA,1673,473,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,213,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1652,Texas A&M,1651,451,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464338,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,214,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1652,Texas A&M,1651,451,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,216,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1652,Texas A&M,1646,446,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464339,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,217,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1652,Texas A&M,1646,446,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,218,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,27,17,10,1682,Wagner,1645,445,1,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,219,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,28,17,11,1652,Texas A&M,1645,445,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,220,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,28,17,11,1652,Texas A&M,1645,445,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,35
+2010-11,2010-12-21,999291,221,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,28,17,11,1682,Wagner,1645,445,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,35
+2010-11,2010-12-21,999291,230,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,28,17,11,1682,Wagner,1629,429,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10,25.55,480456,NA,NA,0,Wagner,Texas A&M,36
+2010-11,2010-12-21,999291,232,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,28,17,11,1682,Wagner,1625,425,4,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,37
+2010-11,2010-12-21,999291,233,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,29,17,12,1652,Texas A&M,1625,425,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,37
+2010-11,2010-12-21,999291,234,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,30,17,13,1652,Texas A&M,1625,425,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,37
+2010-11,2010-12-21,999291,238,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,30,19,11,1682,Wagner,1613,413,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,547952,NA,NA,0,Wagner,Texas A&M,38
+2010-11,2010-12-21,999291,240,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,30,19,11,1652,Texas A&M,1582,382,31, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,11.450000000000003,464339,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2010-12-21,999291,241,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,30,19,11,1652,Texas A&M,1582,382,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2010-12-21,999291,246,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,30,19,11,1682,Wagner,1579,379,3,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2010-12-21,999291,247,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1652,Texas A&M,1579,379,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2010-12-21,999291,248,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1652,Texas A&M,1579,379,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,39
+2010-11,2010-12-21,999291,249,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1682,Wagner,1579,379,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,39
+2010-11,2010-12-21,999291,252,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1682,Wagner,1565,365,14, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.3,8.55,547949,NA,NA,0,Wagner,Wagner,40
+2010-11,2010-12-21,999291,253,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1652,Texas A&M,1565,365,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,40
+2010-11,2010-12-21,999291,256,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1652,Texas A&M,1554,354,11, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,40,19.25,512052,NA,NA,0,Texas A&M,Texas A&M,41
+2010-11,2010-12-21,999291,261,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1682,Wagner,1546,346,8,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,41
+2010-11,2010-12-21,999291,262,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,31,19,12,1652,Texas A&M,1546,346,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,41
+2010-11,2010-12-21,999291,266,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,32,19,13,1652,Texas A&M,1546,346,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,41
+2010-11,2010-12-21,999291,268,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,32,19,13,1682,Wagner,1527,327,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39,24.25,547952,NA,NA,0,Wagner,Wagner,42
+2010-11,2010-12-21,999291,269,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,32,19,13,1652,Texas A&M,1527,327,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,42
+2010-11,2010-12-21,999291,273,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,32,19,13,1682,Wagner,1507,307,20,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,43
+2010-11,2010-12-21,999291,274,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1652,Texas A&M,1507,307,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,43
+2010-11,2010-12-21,999291,275,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1652,Texas A&M,1507,307,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,43
+2010-11,2010-12-21,999291,276,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1682,Wagner,1507,307,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,43
+2010-11,2010-12-21,999291,285,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1682,Wagner,1476,276,31, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,23.05,480456,NA,NA,0,Wagner,Wagner,44
+2010-11,2010-12-21,999291,286,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1682,Wagner,1476,276,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,44
+2010-11,2010-12-21,999291,288,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1652,Texas A&M,1454,254,22,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,44
+2010-11,2010-12-21,999291,289,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,19,14,1682,Wagner,1454,254,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,44
+2010-11,2010-12-21,999291,293,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,33,20,13,1682,Wagner,1454,254,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,44
+2010-11,2010-12-21,999291,297,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1652,Texas A&M,1434,234,20, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.3,22.650000000000006,398141,NA,NA,0,Texas A&M,Wagner,45
+2010-11,2010-12-21,999291,300,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,NA,NA,1404,204,30,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,312,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1652,Texas A&M,1395,195,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,15.349999999999994,398141,NA,NA,0,Texas A&M,Texas A&M,46
+2010-11,2010-12-21,999291,313,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1682,Wagner,1395,195,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,46
+2010-11,2010-12-21,999291,320,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1682,Wagner,1377,177,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,15.55,480455,NA,NA,0,Wagner,Wagner,47
+2010-11,2010-12-21,999291,323,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1652,Texas A&M,1374,174,3,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,47
+2010-11,2010-12-21,999291,325,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1682,Wagner,1373,173,1, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8,10.25,547952,NA,NA,0,Wagner,Wagner,47
+2010-11,2010-12-21,999291,326,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,36,20,16,1652,Texas A&M,1373,173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,47
+2010-11,2010-12-21,999291,333,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1652,Texas A&M,1345,145,28, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,23.5,8.349999999999994,512055,NA,NA,0,Texas A&M,Wagner,48
+2010-11,2010-12-21,999291,336,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1682,Wagner,1317,117,28,Offensive foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,49
+2010-11,2010-12-21,999291,342,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1652,Texas A&M,1298,98,19, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,24.950000000000003,464338,NA,NA,0,Texas A&M,Texas A&M,50
+2010-11,2010-12-21,999291,343,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1682,Wagner,1298,98,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,50
+2010-11,2010-12-21,999291,344,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1682,Wagner,1289,89,9, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13.7,17.25,480455,NA,NA,0,Wagner,Wagner,51
+2010-11,2010-12-21,999291,345,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1652,Texas A&M,1289,89,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,51
+2010-11,2010-12-21,999291,353,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1682,Wagner,1264,64,25, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,14.55,480456,NA,NA,0,Wagner,Wagner,52
+2010-11,2010-12-21,999291,354,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,38,20,18,1652,Texas A&M,1264,64,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,52
+2010-11,2010-12-21,999291,355,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,40,20,20,1652,Texas A&M,1256,56,8, makes a jump shot from 11 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16.799999999999997,12.950000000000003,512055,NA,NA,0,Texas A&M,Wagner,53
+2010-11,2010-12-21,999291,358,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,40,20,20,1682,Wagner,1228,28,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,20.55,480455,NA,NA,0,Wagner,Wagner,54
+2010-11,2010-12-21,999291,359,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,40,20,20,1652,Texas A&M,1228,28,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,54
+2010-11,2010-12-21,999291,363,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,40,20,20,1652,Texas A&M,1202,2,26, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10,9.25,512053,NA,NA,0,Texas A&M,Texas A&M,55
+2010-11,2010-12-21,999291,366,0,1,Texas A&M,Wagner,Aggies,Seahawks,4,3,40,20,20,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,382,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,40,20,20,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas A&M,55
+2010-11,2010-12-21,999291,388.5,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,40,20,20,1652,Texas A&M,1180,1180,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,37,15.25,464338,NA,NA,0,Texas A&M,Texas A&M,56
+2010-11,2010-12-21,999291,388.75,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,40,20,20,1652,Texas A&M,1180,1180,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,56
+2010-11,2010-12-21,999291,390,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,42,20,22,1652,Texas A&M,1174,1174,6, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,16,9.25,512053,NA,NA,0,Texas A&M,Wagner,56
+2010-11,2010-12-21,999291,391,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,42,22,20,1682,Wagner,1163,1163,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,37.5,16.65,547950,NA,NA,0,Wagner,Texas A&M,57
+2010-11,2010-12-21,999291,401,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,44,22,22,1652,Texas A&M,1148,1148,15, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31.7,17.849999999999994,398146,NA,NA,0,Texas A&M,Wagner,58
+2010-11,2010-12-21,999291,407,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,44,22,22,1682,Wagner,1116,1116,32, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36,15.15,547950,NA,NA,0,Wagner,Wagner,59
+2010-11,2010-12-21,999291,408,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,44,22,22,1652,Texas A&M,1116,1116,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,59
+2010-11,2010-12-21,999291,411,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1100,1100,16, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,22.8,12.75,464339,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,412,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1682,Wagner,1100,1100,0,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,413,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1100,1100,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,414,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1100,1100,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,416,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1099,1099,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398146,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,417,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1099,1099,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,60
+2010-11,2010-12-21,999291,423,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,22,24,1652,Texas A&M,1090,1090,9,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,60
+2010-11,2010-12-21,999291,424,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1682,Wagner,1090,1090,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,60
+2010-11,2010-12-21,999291,425,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1682,Wagner,1090,1090,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,60
+2010-11,2010-12-21,999291,426,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1652,Texas A&M,1090,1090,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,60
+2010-11,2010-12-21,999291,428,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1652,Texas A&M,1063,1063,27, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,10.650000000000006,398146,NA,NA,0,Texas A&M,Texas A&M,61
+2010-11,2010-12-21,999291,429,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1682,Wagner,1063,1063,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,61
+2010-11,2010-12-21,999291,431,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,46,23,23,1682,Wagner,1027,1027,36,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,62
+2010-11,2010-12-21,999291,433,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,47,23,24,1652,Texas A&M,1027,1027,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,62
+2010-11,2010-12-21,999291,434,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,47,23,24,1652,Texas A&M,1027,1027,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,62
+2010-11,2010-12-21,999291,440,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,47,25,22,1682,Wagner,1001,1001,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,547952,NA,NA,0,Wagner,Texas A&M,63
+2010-11,2010-12-21,999291,441,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,49,25,24,1652,Texas A&M,990,990,11, makes a jump shot from 20 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26,25.25,512053,NA,NA,0,Texas A&M,Wagner,64
+2010-11,2010-12-21,999291,442,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,49,27,22,1682,Wagner,973,973,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,547949,NA,NA,0,Wagner,Texas A&M,65
+2010-11,2010-12-21,999291,445,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,49,27,22,1682,Wagner,960,960,13,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2010-12-21,999291,447,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,49,27,22,1652,Texas A&M,960,960,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,66
+2010-11,2010-12-21,999291,449,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,1652,Texas A&M,960,960,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,66
+2010-11,2010-12-21,999291,452,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,1682,Wagner,936,936,24, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,26.35,480458,NA,NA,0,Wagner,Wagner,67
+2010-11,2010-12-21,999291,453,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,1652,Texas A&M,936,936,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,67
+2010-11,2010-12-21,999291,454.5,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,1652,Texas A&M,928,928,8, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13,9.25,512053,NA,NA,0,Texas A&M,Texas A&M,68
+2010-11,2010-12-21,999291,456,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,NA,NA,926,926,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,538,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,50,27,23,1682,Wagner,906,906,20,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,68
+2010-11,2010-12-21,999291,539,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,51,27,24,1652,Texas A&M,906,906,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,68
+2010-11,2010-12-21,999291,540,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,52,27,25,1652,Texas A&M,906,906,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,68
+2010-11,2010-12-21,999291,543,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,52,30,22,1682,Wagner,894,894,12, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3,9.25,547952,NA,NA,0,Wagner,Texas A&M,69
+2010-11,2010-12-21,999291,544,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,54,30,24,1652,Texas A&M,875,875,19, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,27.3,12.75,512052,NA,NA,0,Texas A&M,Wagner,70
+2010-11,2010-12-21,999291,545,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,54,32,22,1682,Wagner,856,856,19, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,19.2,12.05,547952,NA,NA,0,Wagner,Texas A&M,71
+2010-11,2010-12-21,999291,547,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,54,32,22,1682,Wagner,849,849,7,Technical foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,72
+2010-11,2010-12-21,999291,548,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,54,32,22,1682,Wagner,849,849,0,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,72
+2010-11,2010-12-21,999291,550,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,54,32,22,1652,Texas A&M,849,849,0,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,72
+2010-11,2010-12-21,999291,551,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,55,32,23,1652,Texas A&M,849,849,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,72
+2010-11,2010-12-21,999291,552,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,56,32,24,1652,Texas A&M,849,849,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,72
+2010-11,2010-12-21,999291,555,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,56,32,24,1652,Texas A&M,833,833,16,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,73
+2010-11,2010-12-21,999291,560,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,56,32,24,1682,Wagner,815,815,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.699999999999999,18.45,480455,NA,NA,0,Wagner,Texas A&M,73
+2010-11,2010-12-21,999291,584,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,56,32,24,1682,Wagner,788,788,27,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,74
+2010-11,2010-12-21,999291,585,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,57,32,25,1652,Texas A&M,788,788,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,74
+2010-11,2010-12-21,999291,586,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,58,32,26,1652,Texas A&M,788,788,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,74
+2010-11,2010-12-21,999291,589,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,58,32,26,1682,Wagner,770,770,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35,10.25,480458,NA,NA,0,Wagner,Wagner,75
+2010-11,2010-12-21,999291,590,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,58,32,26,1652,Texas A&M,770,770,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,75
+2010-11,2010-12-21,999291,592,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,4,58,35,23,1682,Wagner,755,755,15, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5,19.25,480455,NA,NA,0,Wagner,Texas A&M,76
+2010-11,2010-12-21,999291,593,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,58,35,23,1682,Wagner,753,753,2,Seahawks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,603,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,58,35,23,1682,Wagner,746,746,7,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,77
+2010-11,2010-12-21,999291,604,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,59,35,24,1652,Texas A&M,746,746,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,77
+2010-11,2010-12-21,999291,614.5,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,60,35,25,1652,Texas A&M,746,746,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,77
+2010-11,2010-12-21,999291,625,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,60,35,25,1682,Wagner,722,722,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,547952,NA,NA,0,Wagner,Wagner,78
+2010-11,2010-12-21,999291,626,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,60,35,25,1652,Texas A&M,722,722,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,78
+2010-11,2010-12-21,999291,627,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1652,Texas A&M,701,701,21, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45,11.25,512052,NA,NA,0,Texas A&M,Wagner,79
+2010-11,2010-12-21,999291,628,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1682,Wagner,678,678,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,23.25,480456,NA,NA,0,Wagner,Wagner,80
+2010-11,2010-12-21,999291,629,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1652,Texas A&M,678,678,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,80
+2010-11,2010-12-21,999291,630,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1652,Texas A&M,667,667,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27.7,29.25,512052,NA,NA,0,Texas A&M,Texas A&M,81
+2010-11,2010-12-21,999291,631,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1652,Texas A&M,667,667,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,81
+2010-11,2010-12-21,999291,633,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,NA,NA,662,662,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,667,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,35,28,1652,Texas A&M,649,649,13,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,81
+2010-11,2010-12-21,999291,668,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,36,27,1682,Wagner,649,649,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,81
+2010-11,2010-12-21,999291,669,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,37,26,1682,Wagner,649,649,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,81
+2010-11,2010-12-21,999291,674,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,63,39,24,1682,Wagner,633,633,16, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9,15.25,547952,NA,NA,0,Wagner,Texas A&M,82
+2010-11,2010-12-21,999291,688,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,65,39,26,1652,Texas A&M,599,599,34, makes a jump shot from 20 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9.799999999999997,17.650000000000006,398141,NA,NA,0,Texas A&M,Wagner,83
+2010-11,2010-12-21,999291,689,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,65,39,26,1682,Wagner,576,576,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.2,25.75,480456,NA,NA,0,Wagner,Wagner,84
+2010-11,2010-12-21,999291,690,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,65,39,26,1682,Wagner,576,576,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,84
+2010-11,2010-12-21,999291,696,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,65,39,26,1682,Wagner,557,557,19, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,9,14.25,480456,NA,NA,0,Wagner,Wagner,84
+2010-11,2010-12-21,999291,697,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,65,39,26,1652,Texas A&M,557,557,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,84
+2010-11,2010-12-21,999291,698,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,68,39,29,1652,Texas A&M,537,537,20, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12,24.549999999999997,398141,NA,NA,0,Texas A&M,Wagner,85
+2010-11,2010-12-21,999291,699,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,3,70,39,31,1652,Texas A&M,515,515,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464338,NA,NA,0,Texas A&M,Wagner,86
+2010-11,2010-12-21,999291,702,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1682,Wagner,506,506,9,Seahawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,712,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1682,Wagner,489,489,17, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,7.800000000000001,12.75,547950,NA,NA,0,Wagner,Wagner,87
+2010-11,2010-12-21,999291,713,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1652,Texas A&M,489,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,87
+2010-11,2010-12-21,999291,714,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1652,Texas A&M,474,474,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7,9.25,553561,NA,NA,0,Texas A&M,Texas A&M,88
+2010-11,2010-12-21,999291,715,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1682,Wagner,474,474,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,88
+2010-11,2010-12-21,999291,733,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,NA,NA,473,473,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,742,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,39,31,1652,Texas A&M,459,459,14,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,89
+2010-11,2010-12-21,999291,743,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,40,30,1682,Wagner,459,459,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,89
+2010-11,2010-12-21,999291,744,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,70,41,29,1682,Wagner,459,459,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,89
+2010-11,2010-12-21,999291,747,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,72,41,31,1652,Texas A&M,437,437,22, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,464339,NA,NA,0,Texas A&M,Wagner,90
+2010-11,2010-12-21,999291,748,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,72,41,31,1682,Wagner,426,426,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,547950,NA,NA,0,Wagner,Wagner,91
+2010-11,2010-12-21,999291,749,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,72,41,31,1652,Texas A&M,426,426,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,91
+2010-11,2010-12-21,999291,753,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,72,41,31,1682,Wagner,419,419,7,Shooting foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,92
+2010-11,2010-12-21,999291,754,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,73,41,32,1652,Texas A&M,419,419,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,92
+2010-11,2010-12-21,999291,755,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,73,41,32,1652,Texas A&M,419,419,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,92
+2010-11,2010-12-21,999291,756,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,73,41,32,1682,Wagner,419,419,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,92
+2010-11,2010-12-21,999291,758,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,73,43,30,1682,Wagner,403,403,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,480456,NA,NA,0,Wagner,Texas A&M,93
+2010-11,2010-12-21,999291,759,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,75,43,32,1652,Texas A&M,389,389,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,464339,NA,NA,0,Texas A&M,Wagner,94
+2010-11,2010-12-21,999291,760,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1652,Texas A&M,368,368,21, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,512053,NA,NA,0,Texas A&M,Wagner,95
+2010-11,2010-12-21,999291,761,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1682,Wagner,350,350,18, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33,21.25,547952,NA,NA,0,Wagner,Wagner,96
+2010-11,2010-12-21,999291,762,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1652,Texas A&M,350,350,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,96
+2010-11,2010-12-21,999291,767,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1682,Wagner,319,319,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,22.65,547952,NA,NA,0,Wagner,Wagner,97
+2010-11,2010-12-21,999291,768,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1652,Texas A&M,319,319,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,97
+2010-11,2010-12-21,999291,777,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1652,Texas A&M,304,304,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,14.950000000000003,512052,NA,NA,0,Texas A&M,Texas A&M,98
+2010-11,2010-12-21,999291,778,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1682,Wagner,304,304,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,98
+2010-11,2010-12-21,999291,782,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1682,Wagner,283,283,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,37,16.45,547950,NA,NA,0,Wagner,Wagner,99
+2010-11,2010-12-21,999291,783,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,77,43,34,1652,Texas A&M,283,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,99
+2010-11,2010-12-21,999291,784,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,43,36,1652,Texas A&M,270,270,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398141,NA,NA,0,Texas A&M,Wagner,100
+2010-11,2010-12-21,999291,786,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,43,36,1652,Texas A&M,252,252,18,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,101
+2010-11,2010-12-21,999291,787,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,43,36,1682,Wagner,252,252,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,101
+2010-11,2010-12-21,999291,789,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,44,35,1682,Wagner,252,252,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,101
+2010-11,2010-12-21,999291,801.5,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,44,35,1652,Texas A&M,235,235,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,19.25,416051,NA,NA,0,Texas A&M,Texas A&M,102
+2010-11,2010-12-21,999291,807.75,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,79,44,35,1652,Texas A&M,235,235,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,102
+2010-11,2010-12-21,999291,814,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,82,44,38,1652,Texas A&M,218,218,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.3,9.349999999999994,416051,NA,NA,0,Texas A&M,Wagner,102
+2010-11,2010-12-21,999291,821,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,82,44,38,1652,Texas A&M,204,204,14,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,103
+2010-11,2010-12-21,999291,823.5,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,82,44,38,NA,NA,204,204,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,826,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,82,44,38,1682,Wagner,204,204,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,103
+2010-11,2010-12-21,999291,827,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,82,44,38,1652,Texas A&M,204,204,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,103
+2010-11,2010-12-21,999291,842,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,44,40,1652,Texas A&M,175,175,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512054,NA,NA,0,Texas A&M,Wagner,104
+2010-11,2010-12-21,999291,843,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,47,37,1682,Wagner,162,162,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6,19.25,480455,NA,NA,0,Wagner,Texas A&M,105
+2010-11,2010-12-21,999291,845,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,47,37,1652,Texas A&M,127,127,35,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,106
+2010-11,2010-12-21,999291,849,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,48,36,1682,Wagner,127,127,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,106
+2010-11,2010-12-21,999291,850,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,49,35,1682,Wagner,127,127,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,106
+2010-11,2010-12-21,999291,854,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,49,35,1652,Texas A&M,97,97,30, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,24,12.25,416053,NA,NA,0,Texas A&M,Texas A&M,107
+2010-11,2010-12-21,999291,855,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,49,35,1682,Wagner,97,97,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,107
+2010-11,2010-12-21,999291,857,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,49,35,1682,Wagner,87,87,10,Offensive foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,108
+2010-11,2010-12-21,999291,863,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,84,49,35,1682,Wagner,77,77,10,Personal foul committed by Seahawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,109
+2010-11,2010-12-21,999291,864,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,85,49,36,1652,Texas A&M,77,77,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,109
+2010-11,2010-12-21,999291,865,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1652,Texas A&M,77,77,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Wagner,109
+2010-11,2010-12-21,999291,869,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1652,Texas A&M,59,59,18,Personal foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,110
+2010-11,2010-12-21,999291,870,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1682,Wagner,59,59,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,110
+2010-11,2010-12-21,999291,871,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1652,Texas A&M,59,59,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,110
+2010-11,2010-12-21,999291,885,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1652,Texas A&M,28,28,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416053,NA,NA,0,Texas A&M,Wagner,111
+2010-11,2010-12-21,999291,893,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,49,37,1652,Texas A&M,11,11,17,Shooting foul committed by Aggies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,112
+2010-11,2010-12-21,999291,894,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,50,36,1682,Wagner,11,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Wagner,112
+2010-11,2010-12-21,999291,895,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,51,35,1682,Wagner,11,11,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Wagner,Texas A&M,112
+2010-11,2010-12-21,999291,901,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,51,35,NA,NA,0,0,11,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-21,999291,902,0,2,Texas A&M,Wagner,Aggies,Seahawks,4,2,86,51,35,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas A&M,Texas A&M,NA

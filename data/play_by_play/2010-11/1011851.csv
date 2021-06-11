@@ -1,0 +1,274 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-22,1011851,1,0,1,UAB,Memphis,Blazers,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UAB,NA
+2010-11,2011-01-22,1011851,6,0,1,UAB,Memphis,Blazers,Tigers,4,4,0,0,0,1493,Memphis,2385,1185,15,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,1
+2010-11,2011-01-22,1011851,7,0,1,UAB,Memphis,Blazers,Tigers,4,4,1,0,1,1303,UAB,2385,1185,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,1
+2010-11,2011-01-22,1011851,8,0,1,UAB,Memphis,Blazers,Tigers,4,4,1,0,1,1303,UAB,2385,1185,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,1
+2010-11,2011-01-22,1011851,14,0,1,UAB,Memphis,Blazers,Tigers,4,4,3,0,3,1303,UAB,2348,1148,37, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,41.3,7.950000000000003,413779,NA,NA,0,UAB,Memphis,1
+2010-11,2011-01-22,1011851,15,0,1,UAB,Memphis,Blazers,Tigers,4,4,3,0,3,1493,Memphis,2322,1122,26, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13,15.25,551759,NA,NA,0,Memphis,UAB,2
+2010-11,2011-01-22,1011851,16,0,1,UAB,Memphis,Blazers,Tigers,4,4,3,0,3,1303,UAB,2307,1107,15, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30,8.950000000000003,483133,NA,NA,0,UAB,UAB,3
+2010-11,2011-01-22,1011851,16.5,0,1,UAB,Memphis,Blazers,Tigers,4,4,3,0,3,1303,UAB,2307,1107,0, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25,2.25,483133,NA,NA,0,UAB,UAB,3
+2010-11,2011-01-22,1011851,17,0,1,UAB,Memphis,Blazers,Tigers,4,4,5,0,5,1303,UAB,2294,1094,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483133,NA,NA,0,UAB,Memphis,3
+2010-11,2011-01-22,1011851,19.5,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,0,5,1493,Memphis,2291,1091,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,27,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,0,5,1303,UAB,2285,1085,6,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,4
+2010-11,2011-01-22,1011851,27.5,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,0,5,1303,UAB,2285,1085,0, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43,16.25,399809,NA,NA,0,UAB,Memphis,4
+2010-11,2011-01-22,1011851,28,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,0,5,1493,Memphis,2285,1085,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,5
+2010-11,2011-01-22,1011851,29,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,1,4,1493,Memphis,2285,1085,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,5
+2010-11,2011-01-22,1011851,32,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,1,4,1493,Memphis,2275,1075,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,34,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,1,4,1493,Memphis,2265,1065,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,5.05,551758,NA,NA,0,Memphis,Memphis,6
+2010-11,2011-01-22,1011851,36,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,1,4,1493,Memphis,2244,1044,21,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,6
+2010-11,2011-01-22,1011851,37,0,1,UAB,Memphis,Blazers,Tigers,4,3,5,1,4,1303,UAB,2244,1044,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551808,NA,NA,0,UAB,UAB,7
+2010-11,2011-01-22,1011851,39.5,0,1,UAB,Memphis,Blazers,Tigers,4,3,7,1,6,1303,UAB,2233,1033,11, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,41,5.25,483133,NA,NA,0,UAB,Memphis,7
+2010-11,2011-01-22,1011851,40,0,1,UAB,Memphis,Blazers,Tigers,4,3,7,1,6,1493,Memphis,2218,1018,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,18.95,551760,NA,NA,0,Memphis,UAB,8
+2010-11,2011-01-22,1011851,44.5,0,1,UAB,Memphis,Blazers,Tigers,4,3,7,1,6,1303,UAB,2202,1002,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41,21.25,413779,NA,NA,0,UAB,UAB,9
+2010-11,2011-01-22,1011851,45,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,1,8,1303,UAB,2194,994,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Memphis,9
+2010-11,2011-01-22,1011851,46,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,3,6,1493,Memphis,2172,972,22, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,18.2,6.75,551761,NA,NA,0,Memphis,UAB,10
+2010-11,2011-01-22,1011851,47,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,5,4,1493,Memphis,2145,945,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551758,NA,NA,0,Memphis,UAB,11
+2010-11,2011-01-22,1011851,73,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,5,4,NA,NA,2114,914,31,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,74,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,5,4,1493,Memphis,2114,914,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,75,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,5,4,1493,Memphis,2114,914,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,77,0,1,UAB,Memphis,Blazers,Tigers,4,3,9,7,2,1493,Memphis,2107,907,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551760,NA,NA,0,Memphis,UAB,12
+2010-11,2011-01-22,1011851,78,0,1,UAB,Memphis,Blazers,Tigers,4,3,11,7,4,1303,UAB,2074,874,33, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,19.2,7.150000000000006,483133,NA,NA,0,UAB,Memphis,13
+2010-11,2011-01-22,1011851,79,0,1,UAB,Memphis,Blazers,Tigers,4,3,11,7,4,1493,Memphis,2055,855,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,22.25,551759,NA,NA,0,Memphis,UAB,14
+2010-11,2011-01-22,1011851,80,0,1,UAB,Memphis,Blazers,Tigers,4,3,13,7,6,1303,UAB,2046,846,9, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,36,19.75,399809,NA,NA,0,UAB,Memphis,15
+2010-11,2011-01-22,1011851,81,0,1,UAB,Memphis,Blazers,Tigers,4,3,13,9,4,1493,Memphis,2020,820,26, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,20,7.25,506598,NA,NA,0,Memphis,UAB,16
+2010-11,2011-01-22,1011851,82,0,1,UAB,Memphis,Blazers,Tigers,4,3,15,9,6,1303,UAB,2003,803,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483133,NA,NA,0,UAB,Memphis,17
+2010-11,2011-01-22,1011851,83,0,1,UAB,Memphis,Blazers,Tigers,4,3,15,11,4,1493,Memphis,1985,785,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,524963,NA,NA,0,Memphis,UAB,18
+2010-11,2011-01-22,1011851,86,0,1,UAB,Memphis,Blazers,Tigers,4,3,17,11,6,1303,UAB,1952,752,33, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,33,7.25,483133,NA,NA,0,UAB,Memphis,19
+2010-11,2011-01-22,1011851,89,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1303,UAB,1944,744,8, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,20
+2010-11,2011-01-22,1011851,93,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1493,Memphis,1942,742,2,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,20
+2010-11,2011-01-22,1011851,95,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1303,UAB,1941,741,1, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.3,7.75,399809,NA,NA,0,UAB,Memphis,20
+2010-11,2011-01-22,1011851,118,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,NA,NA,1914,714,27,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,119,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1493,Memphis,1914,714,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,120,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1303,UAB,1914,714,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,121,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1493,Memphis,1914,714,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,122,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,11,7,1493,Memphis,1914,714,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,125,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,13,5,1493,Memphis,1912,712,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551757,NA,NA,0,Memphis,UAB,21
+2010-11,2011-01-22,1011851,127,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,13,5,1303,UAB,1902,702,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,129,0,1,UAB,Memphis,Blazers,Tigers,4,3,18,16,2,1493,Memphis,1895,695,7, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,41.7,18.75,551758,NA,NA,0,Memphis,UAB,22
+2010-11,2011-01-22,1011851,144,0,1,UAB,Memphis,Blazers,Tigers,3,3,18,16,2,1303,UAB,1862,662,33,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,147,0,1,UAB,Memphis,Blazers,Tigers,3,3,18,16,2,1493,Memphis,1858,658,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,23
+2010-11,2011-01-22,1011851,148,0,1,UAB,Memphis,Blazers,Tigers,3,3,19,16,3,1303,UAB,1858,658,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,23
+2010-11,2011-01-22,1011851,149,0,1,UAB,Memphis,Blazers,Tigers,3,3,21,16,5,1303,UAB,1858,658,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512140,NA,NA,0,UAB,Memphis,23
+2010-11,2011-01-22,1011851,152,0,1,UAB,Memphis,Blazers,Tigers,3,3,21,16,5,1303,UAB,1845,645,13,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,24
+2010-11,2011-01-22,1011851,154,0,1,UAB,Memphis,Blazers,Tigers,3,3,21,18,3,1493,Memphis,1817,617,28, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,24.2,7.95,551761,NA,NA,0,Memphis,UAB,24
+2010-11,2011-01-22,1011851,155,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,18,5,1303,UAB,1803,603,14, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.7,9.849999999999994,483133,NA,NA,0,UAB,Memphis,25
+2010-11,2011-01-22,1011851,156,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,18,5,1493,Memphis,1778,578,25, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,31,16.25,551757,NA,NA,0,Memphis,UAB,26
+2010-11,2011-01-22,1011851,157,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,18,5,1303,UAB,1774,574,4, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,27.5,30.75,483133,NA,NA,0,UAB,Memphis,27
+2010-11,2011-01-22,1011851,158,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,18,5,1493,Memphis,1763,563,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551757,NA,NA,0,Memphis,Memphis,28
+2010-11,2011-01-22,1011851,166,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,20,3,1493,Memphis,1738,538,25, makes a hook shot from 1 foot out.,made,FALSE,FALSE,Hook Shot,24.5,6.25,551761,NA,NA,0,Memphis,UAB,28
+2010-11,2011-01-22,1011851,168,0,1,UAB,Memphis,Blazers,Tigers,3,3,23,20,3,1303,UAB,1716,516,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,176,0,1,UAB,Memphis,Blazers,Tigers,3,3,25,20,5,1303,UAB,1705,505,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513462,NA,NA,0,UAB,UAB,29
+2010-11,2011-01-22,1011851,178,0,1,UAB,Memphis,Blazers,Tigers,3,3,25,20,5,1493,Memphis,1700,500,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,29
+2010-11,2011-01-22,1011851,179,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1303,UAB,1700,500,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,29
+2010-11,2011-01-22,1011851,182,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1303,UAB,1690,490,10,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,30
+2010-11,2011-01-22,1011851,205,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,NA,NA,1668,468,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,206,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1493,Memphis,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,207,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1493,Memphis,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,208,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1303,UAB,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,209,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1493,Memphis,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,210,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,20,6,1303,UAB,1668,468,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,211,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,21,5,1493,Memphis,1668,468,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,30
+2010-11,2011-01-22,1011851,212,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,21,5,1493,Memphis,1668,468,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,30
+2010-11,2011-01-22,1011851,217,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,21,5,1303,UAB,1653,453,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,219,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,21,5,1303,UAB,1650,450,3, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,41.5,6.25,413779,NA,NA,0,UAB,Memphis,31
+2010-11,2011-01-22,1011851,220,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,23,3,1493,Memphis,1626,426,24, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,22.5,6.75,506598,NA,NA,0,Memphis,UAB,32
+2010-11,2011-01-22,1011851,222,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,23,3,1303,UAB,1620,420,6,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,33
+2010-11,2011-01-22,1011851,223,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,23,3,1303,UAB,1620,420,0, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30,8.25,551808,NA,NA,0,UAB,Memphis,33
+2010-11,2011-01-22,1011851,226,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,26,0,1493,Memphis,1609,409,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.5,6.75,551760,NA,NA,0,Memphis,UAB,34
+2010-11,2011-01-22,1011851,228,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,26,0,1303,UAB,1595,395,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,229,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,26,0,1303,UAB,1595,395,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,231,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,26,0,1303,UAB,1568,368,27, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,33.8,29.25,512140,NA,NA,0,UAB,UAB,35
+2010-11,2011-01-22,1011851,232,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,26,0,1303,UAB,1558,358,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512140,NA,NA,0,UAB,Memphis,35
+2010-11,2011-01-22,1011851,233,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,28,-2,1493,Memphis,1551,351,7, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.5,9.65,551760,NA,NA,0,Memphis,UAB,36
+2010-11,2011-01-22,1011851,234,0,1,UAB,Memphis,Blazers,Tigers,3,3,26,28,-2,1303,UAB,1547,347,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551807,NA,NA,0,UAB,UAB,37
+2010-11,2011-01-22,1011851,235,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,28,0,1303,UAB,1539,339,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Memphis,37
+2010-11,2011-01-22,1011851,236,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1493,Memphis,1521,321,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,UAB,38
+2010-11,2011-01-22,1011851,237,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1303,UAB,1505,305,16, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,10.25,399809,NA,NA,0,UAB,Memphis,39
+2010-11,2011-01-22,1011851,238,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1493,Memphis,1496,296,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,15.35,551758,NA,NA,0,Memphis,UAB,40
+2010-11,2011-01-22,1011851,240,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1493,Memphis,1486,286,10,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,41
+2010-11,2011-01-22,1011851,243,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1303,UAB,1477,277,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483133,NA,NA,0,UAB,Memphis,41
+2010-11,2011-01-22,1011851,244,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,30,-2,1493,Memphis,1452,252,25, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,15.65,477198,NA,NA,0,Memphis,Memphis,42
+2010-11,2011-01-22,1011851,245,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,32,-4,1493,Memphis,1442,242,10, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,23,11.25,551758,NA,NA,0,Memphis,UAB,42
+2010-11,2011-01-22,1011851,246,0,1,UAB,Memphis,Blazers,Tigers,3,3,28,32,-4,1303,UAB,1404,204,38, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,16.25,483133,NA,NA,0,UAB,UAB,43
+2010-11,2011-01-22,1011851,266,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1303,UAB,1384,184,20,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,269,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1303,UAB,1370,170,14, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,28.3,4.650000000000006,512152,NA,NA,0,UAB,Memphis,43
+2010-11,2011-01-22,1011851,275.5,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,NA,NA,1367,167,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,283,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1303,UAB,1367,167,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,284,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1303,UAB,1367,167,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,286,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1493,Memphis,1344,144,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.8,28.85,551759,NA,NA,0,Memphis,UAB,44
+2010-11,2011-01-22,1011851,287,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1303,UAB,1339,139,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,28.450000000000003,413779,NA,NA,0,UAB,Memphis,45
+2010-11,2011-01-22,1011851,288,0,1,UAB,Memphis,Blazers,Tigers,2,3,28,32,-4,1493,Memphis,1330,130,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.25,551760,NA,NA,0,Memphis,UAB,46
+2010-11,2011-01-22,1011851,291,0,1,UAB,Memphis,Blazers,Tigers,2,3,30,32,-2,1303,UAB,1305,105,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512152,NA,NA,0,UAB,Memphis,47
+2010-11,2011-01-22,1011851,293,0,1,UAB,Memphis,Blazers,Tigers,2,3,30,34,-4,1493,Memphis,1303,103,2, makes a tip shot from 8 feet out.,made,FALSE,FALSE,Tip Shot,32.3,8.95,506598,NA,NA,0,Memphis,UAB,48
+2010-11,2011-01-22,1011851,294,0,1,UAB,Memphis,Blazers,Tigers,2,3,30,34,-4,1303,UAB,1271,71,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,413779,NA,NA,0,UAB,UAB,49
+2010-11,2011-01-22,1011851,295,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,34,-2,1303,UAB,1266,66,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512138,NA,NA,0,UAB,Memphis,49
+2010-11,2011-01-22,1011851,297,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,34,-2,1303,UAB,1246,46,20,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,50
+2010-11,2011-01-22,1011851,299,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,35,-3,1493,Memphis,1224,24,22, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,50
+2010-11,2011-01-22,1011851,300,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,35,-3,1303,UAB,1224,24,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,301,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,36,-4,1493,Memphis,1224,24,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,50
+2010-11,2011-01-22,1011851,304,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,36,-4,1493,Memphis,1202,2,22,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,51
+2010-11,2011-01-22,1011851,306,0,1,UAB,Memphis,Blazers,Tigers,2,3,32,36,-4,1303,UAB,1201,1,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,51
+2010-11,2011-01-22,1011851,307,0,1,UAB,Memphis,Blazers,Tigers,2,3,33,36,-3,1303,UAB,1201,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,51
+2010-11,2011-01-22,1011851,310,0,1,UAB,Memphis,Blazers,Tigers,2,3,33,36,-3,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,320,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,36,-3,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,52
+2010-11,2011-01-22,1011851,321,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,36,-3,1493,Memphis,1200,1200,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,323,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,38,-5,1493,Memphis,1195,1195,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551761,NA,NA,0,Memphis,Memphis,53
+2010-11,2011-01-22,1011851,325,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,38,-5,1303,UAB,1192,1192,3,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,53
+2010-11,2011-01-22,1011851,326,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,39,-6,1493,Memphis,1192,1192,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,53
+2010-11,2011-01-22,1011851,328,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,39,-6,1303,UAB,1188,1188,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483133,NA,NA,0,UAB,Memphis,54
+2010-11,2011-01-22,1011851,329,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,41,-8,1493,Memphis,1176,1176,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551758,NA,NA,0,Memphis,UAB,55
+2010-11,2011-01-22,1011851,330,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,41,-8,1303,UAB,1156,1156,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,7.150000000000006,413779,NA,NA,0,UAB,Memphis,56
+2010-11,2011-01-22,1011851,332,0,2,UAB,Memphis,Blazers,Tigers,4,4,33,41,-8,1493,Memphis,1149,1149,7,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,57
+2010-11,2011-01-22,1011851,335.5,0,2,UAB,Memphis,Blazers,Tigers,4,4,35,41,-6,1303,UAB,1125,1125,24, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8,9.25,413779,NA,NA,0,UAB,Memphis,58
+2010-11,2011-01-22,1011851,337,0,2,UAB,Memphis,Blazers,Tigers,4,4,35,41,-6,1493,Memphis,1095,1095,30, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,20,23.85,551757,NA,NA,0,Memphis,UAB,59
+2010-11,2011-01-22,1011851,338,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,41,-4,1303,UAB,1087,1087,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,UAB,60
+2010-11,2011-01-22,1011851,340,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,41,-4,1493,Memphis,1081,1081,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,60
+2010-11,2011-01-22,1011851,341,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,41,-4,1493,Memphis,1081,1081,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,349,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,43,-6,1493,Memphis,1080,1080,1, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,8.7,12.95,551758,NA,NA,0,Memphis,UAB,60
+2010-11,2011-01-22,1011851,351,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,43,-6,1303,UAB,1071,1071,9, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,61
+2010-11,2011-01-22,1011851,356,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,43,-6,1493,Memphis,1062,1062,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,359,0,2,UAB,Memphis,Blazers,Tigers,4,4,37,43,-6,1493,Memphis,1049,1049,13,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,62
+2010-11,2011-01-22,1011851,361,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1303,UAB,1031,1031,18, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,5.799999999999997,7.75,413779,NA,NA,0,UAB,Memphis,63
+2010-11,2011-01-22,1011851,362,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1493,Memphis,1012,1012,19, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,18.5,5.65,551760,NA,NA,0,Memphis,UAB,64
+2010-11,2011-01-22,1011851,364,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1493,Memphis,997,997,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,65
+2010-11,2011-01-22,1011851,366,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1303,UAB,984,984,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,18.25,413779,NA,NA,0,UAB,Memphis,65
+2010-11,2011-01-22,1011851,367,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1493,Memphis,972,972,12, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,21.85,551759,NA,NA,0,Memphis,Memphis,66
+2010-11,2011-01-22,1011851,368,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1493,Memphis,950,950,22, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,23.5,10.05,506598,NA,NA,0,Memphis,UAB,66
+2010-11,2011-01-22,1011851,369,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,1303,UAB,925,925,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,10.25,512152,NA,NA,0,UAB,UAB,67
+2010-11,2011-01-22,1011851,379.5,0,2,UAB,Memphis,Blazers,Tigers,4,4,39,43,-4,NA,NA,867,867,58,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,392,0,2,UAB,Memphis,Blazers,Tigers,4,4,41,43,-2,1303,UAB,849,849,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483133,NA,NA,0,UAB,Memphis,67
+2010-11,2011-01-22,1011851,393,0,2,UAB,Memphis,Blazers,Tigers,4,4,41,43,-2,1493,Memphis,832,832,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,7.95,551760,NA,NA,0,Memphis,UAB,68
+2010-11,2011-01-22,1011851,394,0,2,UAB,Memphis,Blazers,Tigers,4,4,41,43,-2,1303,UAB,825,825,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,UAB,69
+2010-11,2011-01-22,1011851,397,0,2,UAB,Memphis,Blazers,Tigers,4,4,41,43,-2,1303,UAB,815,815,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,8.549999999999997,512140,NA,NA,0,UAB,UAB,69
+2010-11,2011-01-22,1011851,401,0,2,UAB,Memphis,Blazers,Tigers,4,4,44,43,1,1303,UAB,807,807,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.7,8.150000000000006,512140,NA,NA,0,UAB,Memphis,69
+2010-11,2011-01-22,1011851,403,0,2,UAB,Memphis,Blazers,Tigers,4,4,44,43,1,1493,Memphis,775,775,32, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.2,11.65,551760,NA,NA,0,Memphis,UAB,70
+2010-11,2011-01-22,1011851,404.5,0,2,UAB,Memphis,Blazers,Tigers,4,4,44,43,1,1303,UAB,759,759,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512140,NA,NA,0,UAB,UAB,71
+2010-11,2011-01-22,1011851,406,0,2,UAB,Memphis,Blazers,Tigers,4,4,46,43,3,1303,UAB,759,759,0, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513462,NA,NA,0,UAB,Memphis,71
+2010-11,2011-01-22,1011851,407,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1493,Memphis,756,756,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,411,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1493,Memphis,756,756,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,412,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1493,Memphis,756,756,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,413,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1303,UAB,756,756,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,418,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1303,UAB,741,741,15,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,72
+2010-11,2011-01-22,1011851,419,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,43,3,1493,Memphis,741,741,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,72
+2010-11,2011-01-22,1011851,420,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1493,Memphis,741,741,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,72
+2010-11,2011-01-22,1011851,425,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1303,UAB,733,733,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,18.25,413779,NA,NA,0,UAB,Memphis,73
+2010-11,2011-01-22,1011851,442,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,NA,NA,714,714,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,446,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1493,Memphis,707,707,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,11.05,551760,NA,NA,0,Memphis,Memphis,74
+2010-11,2011-01-22,1011851,448,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1303,UAB,699,699,8,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,74
+2010-11,2011-01-22,1011851,449,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1303,UAB,699,699,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,450,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1493,Memphis,699,699,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,74
+2010-11,2011-01-22,1011851,451,0,2,UAB,Memphis,Blazers,Tigers,4,3,46,44,2,1493,Memphis,699,699,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,74
+2010-11,2011-01-22,1011851,453,0,2,UAB,Memphis,Blazers,Tigers,4,3,48,44,4,1303,UAB,667,667,32, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,413779,NA,NA,0,UAB,Memphis,75
+2010-11,2011-01-22,1011851,454,0,2,UAB,Memphis,Blazers,Tigers,4,3,48,47,1,1493,Memphis,646,646,21, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,33,29.25,551759,NA,NA,0,Memphis,UAB,76
+2010-11,2011-01-22,1011851,456,0,2,UAB,Memphis,Blazers,Tigers,4,3,48,47,1,1493,Memphis,624,624,22,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,77
+2010-11,2011-01-22,1011851,475,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1303,UAB,608,608,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483133,NA,NA,0,UAB,Memphis,77
+2010-11,2011-01-22,1011851,476,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1303,UAB,608,608,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,78
+2010-11,2011-01-22,1011851,478,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1493,Memphis,600,600,8, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,30,6.25,551758,NA,NA,0,Memphis,Memphis,79
+2010-11,2011-01-22,1011851,481,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1493,Memphis,596,596,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,482,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1303,UAB,596,596,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,79
+2010-11,2011-01-22,1011851,484,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1493,Memphis,592,592,4, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,26.8,31.95,551759,NA,NA,0,Memphis,UAB,79
+2010-11,2011-01-22,1011851,485,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1303,UAB,580,580,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,Memphis,80
+2010-11,2011-01-22,1011851,487,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,47,3,1303,UAB,571,571,9,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,81
+2010-11,2011-01-22,1011851,489,0,2,UAB,Memphis,Blazers,Tigers,4,3,50,49,1,1493,Memphis,569,569,2, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,23,15.25,551760,NA,NA,0,Memphis,UAB,81
+2010-11,2011-01-22,1011851,491,0,2,UAB,Memphis,Blazers,Tigers,4,3,52,49,3,1303,UAB,524,524,45, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Memphis,82
+2010-11,2011-01-22,1011851,493,0,2,UAB,Memphis,Blazers,Tigers,4,3,52,49,3,1493,Memphis,519,519,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,494,0,2,UAB,Memphis,Blazers,Tigers,4,3,52,49,3,1493,Memphis,519,519,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,496,0,2,UAB,Memphis,Blazers,Tigers,4,3,54,49,5,1303,UAB,506,506,13, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,37.3,7.950000000000003,483133,NA,NA,0,UAB,Memphis,83
+2010-11,2011-01-22,1011851,497,0,2,UAB,Memphis,Blazers,Tigers,4,3,54,51,3,1493,Memphis,494,494,12, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,18.3,6.95,551760,NA,NA,0,Memphis,UAB,84
+2010-11,2011-01-22,1011851,498,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1303,UAB,483,483,11, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,35,12.650000000000006,483133,NA,NA,0,UAB,Memphis,85
+2010-11,2011-01-22,1011851,499,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1493,Memphis,461,461,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,15,19.75,551759,NA,NA,0,Memphis,Memphis,86
+2010-11,2011-01-22,1011851,514,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,NA,NA,439,439,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,516,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1493,Memphis,426,426,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551759,NA,NA,0,Memphis,UAB,86
+2010-11,2011-01-22,1011851,518,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1493,Memphis,413,413,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,520,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1303,UAB,395,395,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513462,NA,NA,0,UAB,UAB,87
+2010-11,2011-01-22,1011851,521,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1303,UAB,391,391,4, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,28.3,5.450000000000003,512152,NA,NA,0,UAB,Memphis,87
+2010-11,2011-01-22,1011851,529,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,51,5,1303,UAB,366,366,25,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,88
+2010-11,2011-01-22,1011851,531,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,52,4,1493,Memphis,366,366,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,88
+2010-11,2011-01-22,1011851,532,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,53,3,1493,Memphis,366,366,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,88
+2010-11,2011-01-22,1011851,534,0,2,UAB,Memphis,Blazers,Tigers,4,3,56,53,3,1303,UAB,353,353,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.7,17.849999999999994,483133,NA,NA,0,UAB,UAB,89
+2010-11,2011-01-22,1011851,535,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,53,5,1303,UAB,344,344,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513462,NA,NA,0,UAB,UAB,89
+2010-11,2011-01-22,1011851,537,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,53,5,1493,Memphis,339,339,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,89
+2010-11,2011-01-22,1011851,538,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,53,5,1303,UAB,339,339,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,89
+2010-11,2011-01-22,1011851,540,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,56,2,1493,Memphis,327,327,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.199999999999999,9.85,551760,NA,NA,0,Memphis,UAB,90
+2010-11,2011-01-22,1011851,546,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,56,2,1303,UAB,293,293,34,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,91
+2010-11,2011-01-22,1011851,547,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,57,1,1493,Memphis,293,293,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,91
+2010-11,2011-01-22,1011851,548,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,57,1,1493,Memphis,293,293,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,92
+2010-11,2011-01-22,1011851,552,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,57,1,1493,Memphis,271,271,22, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,6.65,551757,NA,NA,0,Memphis,UAB,92
+2010-11,2011-01-22,1011851,554,0,2,UAB,Memphis,Blazers,Tigers,4,3,58,57,1,1493,Memphis,259,259,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,93
+2010-11,2011-01-22,1011851,555,0,2,UAB,Memphis,Blazers,Tigers,4,3,59,57,2,1303,UAB,259,259,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,93
+2010-11,2011-01-22,1011851,556,0,2,UAB,Memphis,Blazers,Tigers,4,3,60,57,3,1303,UAB,259,259,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,94
+2010-11,2011-01-22,1011851,558,0,2,UAB,Memphis,Blazers,Tigers,4,3,60,59,1,1493,Memphis,253,253,6, makes a hook shot from 4 feet out.,made,FALSE,FALSE,Hook Shot,21.7,6.75,506598,NA,NA,0,Memphis,UAB,95
+2010-11,2011-01-22,1011851,560,0,2,UAB,Memphis,Blazers,Tigers,4,3,60,59,1,1493,Memphis,223,223,30,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,96
+2010-11,2011-01-22,1011851,587,0,2,UAB,Memphis,Blazers,Tigers,4,3,60,59,1,NA,NA,197,197,26,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,588,0,2,UAB,Memphis,Blazers,Tigers,4,3,60,59,1,1303,UAB,197,197,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,589,0,2,UAB,Memphis,Blazers,Tigers,4,3,61,59,2,1303,UAB,197,197,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,96
+2010-11,2011-01-22,1011851,590,0,2,UAB,Memphis,Blazers,Tigers,4,3,62,59,3,1303,UAB,197,197,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,97
+2010-11,2011-01-22,1011851,592,0,2,UAB,Memphis,Blazers,Tigers,4,3,62,62,0,1493,Memphis,194,194,3, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,34.2,27.35,551759,NA,NA,0,Memphis,UAB,98
+2010-11,2011-01-22,1011851,594,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1493,Memphis,186,186,8,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,596,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1303,UAB,166,166,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,24.25,413779,NA,NA,0,UAB,Memphis,99
+2010-11,2011-01-22,1011851,598,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1303,UAB,135,135,31,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,100
+2010-11,2011-01-22,1011851,599,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1493,Memphis,135,135,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,100
+2010-11,2011-01-22,1011851,602,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1303,UAB,133,133,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,605,0,2,UAB,Memphis,Blazers,Tigers,4,2,62,62,0,1303,UAB,122,122,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,26.549999999999997,483133,NA,NA,0,UAB,UAB,101
+2010-11,2011-01-22,1011851,607,0,2,UAB,Memphis,Blazers,Tigers,4,2,64,62,2,1303,UAB,117,117,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512140,NA,NA,0,UAB,Memphis,101
+2010-11,2011-01-22,1011851,627,0,2,UAB,Memphis,Blazers,Tigers,4,2,64,64,0,1493,Memphis,101,101,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551761,NA,NA,0,Memphis,Memphis,102
+2010-11,2011-01-22,1011851,629,0,2,UAB,Memphis,Blazers,Tigers,4,2,64,64,0,1303,UAB,97,97,4,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,102
+2010-11,2011-01-22,1011851,630,0,2,UAB,Memphis,Blazers,Tigers,4,2,64,65,-1,1493,Memphis,97,97,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,102
+2010-11,2011-01-22,1011851,632,0,2,UAB,Memphis,Blazers,Tigers,4,2,66,65,1,1303,UAB,81,81,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,413779,NA,NA,0,UAB,Memphis,103
+2010-11,2011-01-22,1011851,633,0,2,UAB,Memphis,Blazers,Tigers,4,2,66,68,-2,1493,Memphis,64,64,17, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,26.8,29.65,551760,NA,NA,0,Memphis,UAB,104
+2010-11,2011-01-22,1011851,635.5,0,2,UAB,Memphis,Blazers,Tigers,4,1,66,68,-2,1493,Memphis,56,56,8,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,639,0,2,UAB,Memphis,Blazers,Tigers,3,1,66,68,-2,1303,UAB,56,56,0,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,642,0,2,UAB,Memphis,Blazers,Tigers,3,1,66,68,-2,1493,Memphis,51,51,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-01-22,1011851,645,0,2,UAB,Memphis,Blazers,Tigers,3,1,66,68,-2,1303,UAB,44,44,7, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,105
+2010-11,2011-01-22,1011851,646,0,2,UAB,Memphis,Blazers,Tigers,3,1,67,68,-1,1303,UAB,44,44,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,105
+2010-11,2011-01-22,1011851,650,0,2,UAB,Memphis,Blazers,Tigers,3,1,67,68,-1,1493,Memphis,22,22,22,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,106
+2010-11,2011-01-22,1011851,651,0,2,UAB,Memphis,Blazers,Tigers,3,1,67,68,-1,1493,Memphis,22,22,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,652,0,2,UAB,Memphis,Blazers,Tigers,3,1,67,68,-1,1303,UAB,22,22,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,674,0,2,UAB,Memphis,Blazers,Tigers,2,1,67,68,-1,1303,UAB,16,16,6,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,675,0,2,UAB,Memphis,Blazers,Tigers,2,1,67,68,-1,1493,Memphis,16,16,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,676,0,2,UAB,Memphis,Blazers,Tigers,1,1,67,68,-1,1303,UAB,16,16,0,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,677,0,2,UAB,Memphis,Blazers,Tigers,1,1,67,68,-1,1303,UAB,16,16,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,678,0,2,UAB,Memphis,Blazers,Tigers,1,1,67,68,-1,1303,UAB,16,16,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,682,0,2,UAB,Memphis,Blazers,Tigers,1,1,67,68,-1,1493,Memphis,9,9,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,107
+2010-11,2011-01-22,1011851,683,0,2,UAB,Memphis,Blazers,Tigers,1,1,68,68,0,1303,UAB,9,9,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Memphis,107
+2010-11,2011-01-22,1011851,684,0,2,UAB,Memphis,Blazers,Tigers,1,1,68,68,0,1303,UAB,9,9,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,108
+2010-11,2011-01-22,1011851,688,0,2,UAB,Memphis,Blazers,Tigers,1,1,68,68,0,1303,UAB,2,2,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,690,0,2,UAB,Memphis,Blazers,Tigers,1,1,68,68,0,1303,UAB,2,2,0, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,8.200000000000003,30.35,413779,NA,NA,0,UAB,Memphis,108
+2010-11,2011-01-22,1011851,691,0,2,UAB,Memphis,Blazers,Tigers,1,1,68,68,0,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,692,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,68,0,NA,NA,300,300,-300,Start of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Memphis,109
+2010-11,2011-01-22,1011851,695,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,68,0,1493,Memphis,290,290,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43,20.25,551759,NA,NA,0,Memphis,Memphis,110
+2010-11,2011-01-22,1011851,698,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,70,-2,1493,Memphis,258,258,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551758,NA,NA,0,Memphis,UAB,110
+2010-11,2011-01-22,1011851,699,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,70,-2,1493,Memphis,249,249,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,13.55,551758,NA,NA,0,Memphis,UAB,111
+2010-11,2011-01-22,1011851,700,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,70,-2,1303,UAB,241,241,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,14.349999999999994,413779,NA,NA,0,UAB,Memphis,112
+2010-11,2011-01-22,1011851,702,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,70,-2,1303,UAB,236,236,5,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,113
+2010-11,2011-01-22,1011851,703,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1493,Memphis,236,236,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,113
+2010-11,2011-01-22,1011851,704,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1493,Memphis,236,236,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,113
+2010-11,2011-01-22,1011851,706,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1303,UAB,210,210,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.650000000000006,483133,NA,NA,0,UAB,Memphis,114
+2010-11,2011-01-22,1011851,707,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1493,Memphis,188,188,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,11.45,551760,NA,NA,0,Memphis,UAB,115
+2010-11,2011-01-22,1011851,708,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1303,UAB,164,164,24, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,31.15,512140,NA,NA,0,UAB,UAB,116
+2010-11,2011-01-22,1011851,709,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1303,UAB,139,139,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,33.7,26.349999999999994,512140,NA,NA,0,UAB,UAB,116
+2010-11,2011-01-22,1011851,713,0,3,UAB,Memphis,Blazers,Tigers,2,2,68,71,-3,1303,UAB,84,84,55, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,5,21.25,413779,NA,NA,0,UAB,Memphis,116
+2010-11,2011-01-22,1011851,716,0,3,UAB,Memphis,Blazers,Tigers,1,2,68,71,-3,1303,UAB,58,58,26,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,719,0,3,UAB,Memphis,Blazers,Tigers,1,2,68,71,-3,1303,UAB,58,58,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-22,1011851,721,0,3,UAB,Memphis,Blazers,Tigers,1,2,68,73,-5,1493,Memphis,49,49,9, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,38.3,5.85,551759,NA,NA,0,Memphis,UAB,117
+2010-11,2011-01-22,1011851,725,0,3,UAB,Memphis,Blazers,Tigers,1,1,68,73,-5,1493,Memphis,44,44,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,727,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,73,-3,1303,UAB,40,40,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Memphis,118
+2010-11,2011-01-22,1011851,730,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,73,-3,1303,UAB,31,31,9,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,119
+2010-11,2011-01-22,1011851,731,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,74,-4,1493,Memphis,31,31,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,119
+2010-11,2011-01-22,1011851,732,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,75,-5,1493,Memphis,31,31,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,119
+2010-11,2011-01-22,1011851,734,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,75,-5,1303,UAB,31,31,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512138,NA,NA,0,UAB,Memphis,120
+2010-11,2011-01-22,1011851,738,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,75,-5,1303,UAB,25,25,6,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,121
+2010-11,2011-01-22,1011851,739,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,75,-5,1493,Memphis,25,25,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,121
+2010-11,2011-01-22,1011851,740,0,3,UAB,Memphis,Blazers,Tigers,1,1,70,76,-6,1493,Memphis,25,25,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,121
+2010-11,2011-01-22,1011851,742,0,3,UAB,Memphis,Blazers,Tigers,1,1,73,76,-3,1303,UAB,25,25,0, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,43.8,18.549999999999997,483133,NA,NA,0,UAB,Memphis,122
+2010-11,2011-01-22,1011851,746,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1303,UAB,19,19,6,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,748,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1303,UAB,18,18,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,123
+2010-11,2011-01-22,1011851,749,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1493,Memphis,18,18,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,123
+2010-11,2011-01-22,1011851,750,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1493,Memphis,18,18,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,123
+2010-11,2011-01-22,1011851,752,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1303,UAB,13,13,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3,10.25,512152,NA,NA,0,UAB,Memphis,124
+2010-11,2011-01-22,1011851,754,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1303,UAB,8,8,5,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,125
+2010-11,2011-01-22,1011851,757,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1493,Memphis,6,6,2, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,125
+2010-11,2011-01-22,1011851,758,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1493,Memphis,6,6,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,UAB,125
+2010-11,2011-01-22,1011851,760,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,1303,UAB,4,4,2, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,17.700000000000003,30.549999999999997,413779,NA,NA,0,UAB,NA,126
+2010-11,2011-01-22,1011851,761,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,NA,NA,0,0,4,End of the Overtime,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-22,1011851,762,0,3,UAB,Memphis,Blazers,Tigers,0,1,73,76,-3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,NA

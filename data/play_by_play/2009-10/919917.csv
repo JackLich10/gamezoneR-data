@@ -1,0 +1,209 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-28,919917,1,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Memphis,NA
+2009-10,2009-12-28,919917,3,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,0,2,1493,Memphis,2395,1195,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329997,NA,NA,0,Memphis,IUPUI,1
+2009-10,2009-12-28,919917,4,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,0,2,1862,IUPUI,2347,1147,48, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,IUPUI,2
+2009-10,2009-12-28,919917,13,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,0,2,1493,Memphis,2342,1142,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,2
+2009-10,2009-12-28,919917,14,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,1,1,1862,IUPUI,2342,1142,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,2
+2009-10,2009-12-28,919917,15,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,1,1,1862,IUPUI,2342,1142,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,2
+2009-10,2009-12-28,919917,17,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,1,1,1493,Memphis,2313,1113,29, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,7.75,329996,NA,NA,0,Memphis,IUPUI,3
+2009-10,2009-12-28,919917,18,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,3,-1,1862,IUPUI,2297,1097,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338681,NA,NA,0,IUPUI,Memphis,4
+2009-10,2009-12-28,919917,19,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,2,3,-1,1493,Memphis,2278,1078,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329997,NA,NA,0,Memphis,Memphis,5
+2009-10,2009-12-28,919917,20,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,4,3,1,1493,Memphis,2274,1074,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26.8,7.349999999999994,329997,NA,NA,0,Memphis,IUPUI,5
+2009-10,2009-12-28,919917,21,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,4,5,-1,1862,IUPUI,2261,1061,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475550,NA,NA,0,IUPUI,Memphis,6
+2009-10,2009-12-28,919917,22,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,4,5,-1,1493,Memphis,2232,1032,29, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,14.299999999999997,18.950000000000003,329995,NA,NA,0,Memphis,Memphis,7
+2009-10,2009-12-28,919917,23,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1493,Memphis,2227,1027,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.2,7.349999999999994,329997,NA,NA,0,Memphis,IUPUI,7
+2009-10,2009-12-28,919917,24,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1862,IUPUI,2219,1019,8, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37,9.35,475550,NA,NA,0,IUPUI,IUPUI,8
+2009-10,2009-12-28,919917,25.5,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1862,IUPUI,2217,1017,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,Memphis,8
+2009-10,2009-12-28,919917,30.75,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1862,IUPUI,2215,1015,2,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2009-12-28,919917,36,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1493,Memphis,2184,984,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329996,NA,NA,0,Memphis,Memphis,9
+2009-10,2009-12-28,919917,37,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1862,IUPUI,2184,984,0,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2009-12-28,919917,38,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,6,5,1,1493,Memphis,2184,984,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,9
+2009-10,2009-12-28,919917,39,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,5,2,1493,Memphis,2184,984,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,9
+2009-10,2009-12-28,919917,46,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,5,2,1862,IUPUI,2175,975,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410582,NA,NA,0,IUPUI,Memphis,10
+2009-10,2009-12-28,919917,47,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,5,2,1493,Memphis,2168,968,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329996,NA,NA,0,Memphis,IUPUI,11
+2009-10,2009-12-28,919917,48,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,5,2,1862,IUPUI,2157,957,11, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.8,8.75,338681,NA,NA,0,IUPUI,IUPUI,12
+2009-10,2009-12-28,919917,52,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,5,2,NA,NA,2147,947,10,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,58,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,8,-1,1862,IUPUI,2133,933,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,9.2,24.55,475547,NA,NA,0,IUPUI,Memphis,12
+2009-10,2009-12-28,919917,59,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,7,8,-1,1862,IUPUI,2090,890,43, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,21.15,475547,NA,NA,0,IUPUI,Memphis,13
+2009-10,2009-12-28,919917,60,0,1,Memphis,IUPUI,Tigers,Jaguars,4,4,9,8,1,1493,Memphis,2080,880,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,IUPUI,14
+2009-10,2009-12-28,919917,62,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,8,1,1862,IUPUI,2052,852,28,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,69,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,8,1,1493,Memphis,2040,840,12,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,15
+2009-10,2009-12-28,919917,70,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,9,0,1862,IUPUI,2040,840,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,15
+2009-10,2009-12-28,919917,71,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,10,-1,1862,IUPUI,2040,840,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,15
+2009-10,2009-12-28,919917,74,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,10,-1,1862,IUPUI,2034,834,6,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,16
+2009-10,2009-12-28,919917,76,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,10,-1,1493,Memphis,2020,820,14, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.700000000000003,7.150000000000006,464840,NA,NA,0,Memphis,Memphis,16
+2009-10,2009-12-28,919917,83,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,9,10,-1,1493,Memphis,2015,815,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,7.150000000000006,329996,NA,NA,0,Memphis,Memphis,16
+2009-10,2009-12-28,919917,84,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,11,10,1,1493,Memphis,2011,811,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,IUPUI,16
+2009-10,2009-12-28,919917,85,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,11,13,-2,1862,IUPUI,1986,786,25, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.699999999999999,12.25,410582,NA,NA,0,IUPUI,Memphis,17
+2009-10,2009-12-28,919917,86,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,11,13,-2,1493,Memphis,1967,767,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329995,NA,NA,0,Memphis,Memphis,18
+2009-10,2009-12-28,919917,87,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,14,13,1,1493,Memphis,1963,763,4, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.2,21.650000000000006,464840,NA,NA,0,Memphis,IUPUI,18
+2009-10,2009-12-28,919917,90,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,16,13,3,1493,Memphis,1943,743,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329995,NA,NA,0,Memphis,IUPUI,19
+2009-10,2009-12-28,919917,91,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,16,15,1,1862,IUPUI,1924,724,19, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.2,8.95,475550,NA,NA,0,IUPUI,Memphis,20
+2009-10,2009-12-28,919917,92,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,19,15,4,1493,Memphis,1919,719,5, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.5,6.75,464840,NA,NA,0,Memphis,IUPUI,21
+2009-10,2009-12-28,919917,94,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,19,15,4,NA,NA,1909,709,10,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,96,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,19,15,4,1493,Memphis,1886,686,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329997,NA,NA,0,Memphis,Memphis,22
+2009-10,2009-12-28,919917,97,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,21,15,6,1493,Memphis,1882,682,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329997,NA,NA,0,Memphis,IUPUI,22
+2009-10,2009-12-28,919917,114,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,21,15,6,1862,IUPUI,1869,669,13,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,23
+2009-10,2009-12-28,919917,117,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,23,15,8,1493,Memphis,1868,668,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467272,NA,NA,0,Memphis,Memphis,23
+2009-10,2009-12-28,919917,118,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,23,15,8,1862,IUPUI,1868,668,0,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,23
+2009-10,2009-12-28,919917,119,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,24,15,9,1493,Memphis,1868,668,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,23
+2009-10,2009-12-28,919917,121,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,24,15,9,1862,IUPUI,1861,661,7, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,410582,NA,NA,0,IUPUI,Memphis,24
+2009-10,2009-12-28,919917,122,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,27,15,12,1493,Memphis,1856,656,5, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7.200000000000003,18.450000000000003,467272,NA,NA,0,Memphis,IUPUI,25
+2009-10,2009-12-28,919917,123,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,27,17,10,1862,IUPUI,1833,633,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,Memphis,26
+2009-10,2009-12-28,919917,124,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,30,17,13,1493,Memphis,1826,626,7, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,8.799999999999997,22.849999999999994,467272,NA,NA,0,Memphis,IUPUI,27
+2009-10,2009-12-28,919917,131,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,30,19,11,1862,IUPUI,1801,601,25, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,20.3,18.55,475547,NA,NA,0,IUPUI,Memphis,28
+2009-10,2009-12-28,919917,132,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,33,19,14,1493,Memphis,1794,594,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4.200000000000003,12.25,329519,NA,NA,0,Memphis,IUPUI,29
+2009-10,2009-12-28,919917,137,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,33,19,14,1493,Memphis,1768,568,26,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,30
+2009-10,2009-12-28,919917,138,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,33,20,13,1862,IUPUI,1768,568,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,30
+2009-10,2009-12-28,919917,139,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,33,21,12,1862,IUPUI,1768,568,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,30
+2009-10,2009-12-28,919917,143,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,35,21,14,1493,Memphis,1765,565,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329997,NA,NA,0,Memphis,IUPUI,31
+2009-10,2009-12-28,919917,148.5,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,35,21,14,1862,IUPUI,1742,542,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475550,NA,NA,0,IUPUI,IUPUI,32
+2009-10,2009-12-28,919917,154,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,35,21,14,1493,Memphis,1735,535,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,32
+2009-10,2009-12-28,919917,156,0,1,Memphis,IUPUI,Tigers,Jaguars,4,3,37,21,16,1493,Memphis,1722,522,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329519,NA,NA,0,Memphis,IUPUI,32
+2009-10,2009-12-28,919917,162,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,37,21,16,1862,IUPUI,1705,505,17,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,164,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,37,21,16,1862,IUPUI,1695,495,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410582,NA,NA,0,IUPUI,Memphis,33
+2009-10,2009-12-28,919917,165,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,21,19,1493,Memphis,1674,474,21, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.8,21.650000000000006,467272,NA,NA,0,Memphis,IUPUI,34
+2009-10,2009-12-28,919917,166,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,21,19,1862,IUPUI,1643,443,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410593,NA,NA,0,IUPUI,Memphis,35
+2009-10,2009-12-28,919917,167,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,21,19,1493,Memphis,1636,436,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.200000000000003,24.950000000000003,467272,NA,NA,0,Memphis,IUPUI,36
+2009-10,2009-12-28,919917,168,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1862,IUPUI,1630,430,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410582,NA,NA,0,IUPUI,Memphis,37
+2009-10,2009-12-28,919917,176,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,NA,NA,1595,395,35,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,192,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1493,Memphis,1566,366,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,29.25,329519,NA,NA,0,Memphis,Memphis,38
+2009-10,2009-12-28,919917,193,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1493,Memphis,1563,363,3, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,23.8,7.549999999999997,464840,NA,NA,0,Memphis,IUPUI,38
+2009-10,2009-12-28,919917,195,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1862,IUPUI,1535,335,28,Offensive foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,39
+2009-10,2009-12-28,919917,205,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1493,Memphis,1501,301,34, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.799999999999997,8.549999999999997,464840,NA,NA,0,Memphis,IUPUI,40
+2009-10,2009-12-28,919917,207,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,23,17,1493,Memphis,1488,288,13,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,41
+2009-10,2009-12-28,919917,208,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,24,16,1862,IUPUI,1488,288,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,41
+2009-10,2009-12-28,919917,209,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,25,15,1862,IUPUI,1488,288,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,41
+2009-10,2009-12-28,919917,211,0,1,Memphis,IUPUI,Tigers,Jaguars,4,2,40,28,12,1862,IUPUI,1478,278,10, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.5,16.25,410582,NA,NA,0,IUPUI,Memphis,42
+2009-10,2009-12-28,919917,213,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,40,28,12,1493,Memphis,1473,273,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,224,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,28,15,1493,Memphis,1457,257,16, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,28.3,29.650000000000006,329995,NA,NA,0,Memphis,IUPUI,43
+2009-10,2009-12-28,919917,230,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,30,13,1862,IUPUI,1447,247,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410582,NA,NA,0,IUPUI,Memphis,44
+2009-10,2009-12-28,919917,231,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,30,13,1493,Memphis,1425,225,22, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,6.75,329996,NA,NA,0,Memphis,IUPUI,45
+2009-10,2009-12-28,919917,237,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,30,13,NA,NA,1422,222,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,245,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,32,11,1862,IUPUI,1404,204,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410582,NA,NA,0,IUPUI,Memphis,46
+2009-10,2009-12-28,919917,265,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,32,11,1493,Memphis,1330,130,74, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,6.950000000000003,464840,NA,NA,0,Memphis,IUPUI,47
+2009-10,2009-12-28,919917,266,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,32,11,1862,IUPUI,1320,120,10, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,15.35,475547,NA,NA,0,IUPUI,Memphis,48
+2009-10,2009-12-28,919917,268,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,43,32,11,1862,IUPUI,1317,117,3,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,49
+2009-10,2009-12-28,919917,270,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,44,32,12,1493,Memphis,1317,117,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,49
+2009-10,2009-12-28,919917,271,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,32,13,1493,Memphis,1317,117,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,49
+2009-10,2009-12-28,919917,279,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,32,13,1862,IUPUI,1298,98,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,7.35,410582,NA,NA,0,IUPUI,Memphis,50
+2009-10,2009-12-28,919917,280,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,32,13,1493,Memphis,1286,86,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42,18.450000000000003,329996,NA,NA,0,Memphis,IUPUI,51
+2009-10,2009-12-28,919917,282,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,32,13,1493,Memphis,1281,81,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,52
+2009-10,2009-12-28,919917,285,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,33,12,1862,IUPUI,1279,79,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,52
+2009-10,2009-12-28,919917,286,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,34,11,1862,IUPUI,1279,79,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,52
+2009-10,2009-12-28,919917,292,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,34,11,1862,IUPUI,1254,54,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475550,NA,NA,0,IUPUI,Memphis,53
+2009-10,2009-12-28,919917,293,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,34,11,1493,Memphis,1226,26,28, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13,12.650000000000006,329519,NA,NA,0,Memphis,Memphis,54
+2009-10,2009-12-28,919917,307,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,45,34,11,1862,IUPUI,1204,4,22,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,54
+2009-10,2009-12-28,919917,308,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,46,34,12,1493,Memphis,1204,4,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,54
+2009-10,2009-12-28,919917,309,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,47,34,13,1493,Memphis,1204,4,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,54
+2009-10,2009-12-28,919917,311,0,1,Memphis,IUPUI,Tigers,Jaguars,3,2,47,34,13,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,313,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,47,34,13,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,IUPUI,55
+2009-10,2009-12-28,919917,316,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,47,34,13,1493,Memphis,1192,1192,8,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,56
+2009-10,2009-12-28,919917,321,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,47,35,12,1862,IUPUI,1190,1190,2, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,56
+2009-10,2009-12-28,919917,322,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,47,36,11,1862,IUPUI,1190,1190,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,56
+2009-10,2009-12-28,919917,324,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,49,36,13,1493,Memphis,1171,1171,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329997,NA,NA,0,Memphis,IUPUI,57
+2009-10,2009-12-28,919917,326,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,49,36,13,1862,IUPUI,1168,1168,3,Technical foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,58
+2009-10,2009-12-28,919917,327,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,50,36,14,1493,Memphis,1168,1168,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,59
+2009-10,2009-12-28,919917,328,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,51,36,15,1493,Memphis,1168,1168,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,59
+2009-10,2009-12-28,919917,332,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,54,36,18,1493,Memphis,1148,1148,20, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11,24.25,329519,NA,NA,0,Memphis,IUPUI,60
+2009-10,2009-12-28,919917,338,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,54,36,18,1862,IUPUI,1108,1108,40, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,5.85,522848,NA,NA,0,IUPUI,IUPUI,61
+2009-10,2009-12-28,919917,339,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,54,38,16,1862,IUPUI,1103,1103,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,475547,NA,NA,0,IUPUI,Memphis,61
+2009-10,2009-12-28,919917,341,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,54,38,16,1862,IUPUI,1097,1097,6,Personal foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,62
+2009-10,2009-12-28,919917,343,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,56,38,18,1493,Memphis,1078,1078,19, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,43.5,6.25,329996,NA,NA,0,Memphis,IUPUI,62
+2009-10,2009-12-28,919917,344,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,56,38,18,1862,IUPUI,1050,1050,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,IUPUI,63
+2009-10,2009-12-28,919917,345,0,2,Memphis,IUPUI,Tigers,Jaguars,4,4,56,38,18,1862,IUPUI,1046,1046,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,Memphis,63
+2009-10,2009-12-28,919917,351,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,56,38,18,1493,Memphis,1042,1042,4,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,353,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,56,38,18,1493,Memphis,1024,1024,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,9.150000000000006,329995,NA,NA,0,Memphis,Memphis,64
+2009-10,2009-12-28,919917,362,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,56,38,18,1862,IUPUI,1019,1019,5,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,64
+2009-10,2009-12-28,919917,363,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,56,38,18,1493,Memphis,1019,1019,0, misses free throw 1 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,64
+2009-10,2009-12-28,919917,364,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,56,38,18,1493,Memphis,1019,1019,0, misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,64
+2009-10,2009-12-28,919917,365,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,57,38,19,1493,Memphis,1019,1019,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,64
+2009-10,2009-12-28,919917,367,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,57,41,16,1862,IUPUI,1006,1006,13, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.8,29.85,522848,NA,NA,0,IUPUI,Memphis,65
+2009-10,2009-12-28,919917,372.5,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,41,18,1493,Memphis,956,956,50, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,22.5,18.450000000000003,329995,NA,NA,0,Memphis,IUPUI,66
+2009-10,2009-12-28,919917,373,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,43,16,1862,IUPUI,944,944,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,IUPUI,67
+2009-10,2009-12-28,919917,385,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,43,16,NA,NA,924,924,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,398,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,43,16,1493,Memphis,914,914,10,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,67
+2009-10,2009-12-28,919917,399,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,44,15,1862,IUPUI,914,914,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,67
+2009-10,2009-12-28,919917,400,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,59,45,14,1862,IUPUI,914,914,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,67
+2009-10,2009-12-28,919917,402,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,62,45,17,1493,Memphis,896,896,18, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,16.200000000000003,27.849999999999994,467272,NA,NA,0,Memphis,IUPUI,68
+2009-10,2009-12-28,919917,403,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,62,47,15,1862,IUPUI,866,866,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,Memphis,69
+2009-10,2009-12-28,919917,404,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,64,47,17,1493,Memphis,844,844,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,524963,NA,NA,0,Memphis,IUPUI,70
+2009-10,2009-12-28,919917,406,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,64,47,17,1493,Memphis,825,825,19,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,71
+2009-10,2009-12-28,919917,415,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,64,47,17,1862,IUPUI,813,813,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,17.45,522848,NA,NA,0,IUPUI,Memphis,71
+2009-10,2009-12-28,919917,420,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,64,47,17,1493,Memphis,783,783,30, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,6.450000000000003,329519,NA,NA,0,Memphis,IUPUI,72
+2009-10,2009-12-28,919917,421,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,64,47,17,1862,IUPUI,770,770,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38,24.25,410582,NA,NA,0,IUPUI,Memphis,73
+2009-10,2009-12-28,919917,423,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,67,47,20,1493,Memphis,761,761,9, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,36.2,27.150000000000006,467272,NA,NA,0,Memphis,IUPUI,74
+2009-10,2009-12-28,919917,425,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,67,47,20,1493,Memphis,738,738,23,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,75
+2009-10,2009-12-28,919917,426,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,67,47,20,1862,IUPUI,738,738,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,75
+2009-10,2009-12-28,919917,427,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,67,48,19,1862,IUPUI,738,738,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,75
+2009-10,2009-12-28,919917,432,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,69,48,21,1493,Memphis,710,710,28, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,Memphis,76
+2009-10,2009-12-28,919917,436,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,69,48,21,1862,IUPUI,709,709,1,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,76
+2009-10,2009-12-28,919917,438,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,69,48,21,NA,NA,708,708,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,439,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,69,48,21,1493,Memphis,708,708,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,76
+2009-10,2009-12-28,919917,444,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,69,48,21,1862,IUPUI,681,681,27, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,10.65,338675,NA,NA,0,IUPUI,Memphis,77
+2009-10,2009-12-28,919917,445,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,48,23,1493,Memphis,673,673,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467272,NA,NA,0,Memphis,IUPUI,78
+2009-10,2009-12-28,919917,446,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,48,23,1862,IUPUI,648,648,25, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,27.15,410593,NA,NA,0,IUPUI,IUPUI,79
+2009-10,2009-12-28,919917,449,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,48,23,1862,IUPUI,642,642,6, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,475550,NA,NA,0,IUPUI,Memphis,79
+2009-10,2009-12-28,919917,449.5,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,48,23,1493,Memphis,630,630,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464840,NA,NA,0,Memphis,IUPUI,80
+2009-10,2009-12-28,919917,450,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,50,21,1862,IUPUI,628,628,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338675,NA,NA,0,IUPUI,IUPUI,81
+2009-10,2009-12-28,919917,452,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,50,21,1493,Memphis,598,598,30,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,81
+2009-10,2009-12-28,919917,453,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,51,20,1862,IUPUI,598,598,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,81
+2009-10,2009-12-28,919917,454,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,52,19,1862,IUPUI,598,598,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,81
+2009-10,2009-12-28,919917,456,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,52,19,1493,Memphis,570,570,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329996,NA,NA,0,Memphis,Memphis,82
+2009-10,2009-12-28,919917,457,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,52,19,1493,Memphis,567,567,3, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,26.2,8.950000000000003,506598,NA,NA,0,Memphis,IUPUI,82
+2009-10,2009-12-28,919917,459,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,52,19,1493,Memphis,563,563,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,83
+2009-10,2009-12-28,919917,460,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,53,18,1862,IUPUI,563,563,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,83
+2009-10,2009-12-28,919917,461,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1862,IUPUI,563,563,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,83
+2009-10,2009-12-28,919917,463,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1493,Memphis,532,532,31, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,13.75,506598,NA,NA,0,Memphis,Memphis,84
+2009-10,2009-12-28,919917,464,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1493,Memphis,527,527,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,IUPUI,84
+2009-10,2009-12-28,919917,471,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1862,IUPUI,516,516,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,28.65,410593,NA,NA,0,IUPUI,IUPUI,85
+2009-10,2009-12-28,919917,474,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1493,Memphis,514,514,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,85
+2009-10,2009-12-28,919917,475,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,54,17,1862,IUPUI,514,514,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,85
+2009-10,2009-12-28,919917,476,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,55,16,1862,IUPUI,514,514,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,85
+2009-10,2009-12-28,919917,483,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,71,55,16,1493,Memphis,496,496,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,34,14.75,329519,NA,NA,0,Memphis,Memphis,86
+2009-10,2009-12-28,919917,495,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,55,18,1493,Memphis,473,473,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,IUPUI,86
+2009-10,2009-12-28,919917,496,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,55,18,1862,IUPUI,454,454,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,IUPUI,87
+2009-10,2009-12-28,919917,498,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,55,18,1493,Memphis,452,452,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,87
+2009-10,2009-12-28,919917,499,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,55,18,NA,NA,451,451,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,507,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,55,18,1862,IUPUI,451,451,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,87
+2009-10,2009-12-28,919917,509,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,73,56,17,1862,IUPUI,451,451,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,87
+2009-10,2009-12-28,919917,513,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,75,56,19,1493,Memphis,443,443,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,IUPUI,88
+2009-10,2009-12-28,919917,518,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,75,56,19,1862,IUPUI,415,415,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475550,NA,NA,0,IUPUI,Memphis,89
+2009-10,2009-12-28,919917,520,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,77,56,21,1493,Memphis,401,401,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467272,NA,NA,0,Memphis,IUPUI,90
+2009-10,2009-12-28,919917,521,0,2,Memphis,IUPUI,Tigers,Jaguars,3,4,77,59,18,1862,IUPUI,377,377,24, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,5.699999999999999,20.75,475547,NA,NA,0,IUPUI,Memphis,91
+2009-10,2009-12-28,919917,523,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,77,59,18,1862,IUPUI,374,374,3,Jaguars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,525,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,77,59,18,1493,Memphis,346,346,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464840,NA,NA,0,Memphis,Memphis,92
+2009-10,2009-12-28,919917,526,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,59,20,1493,Memphis,341,341,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,26.7,7.549999999999997,329997,NA,NA,0,Memphis,IUPUI,92
+2009-10,2009-12-28,919917,527,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,59,20,1862,IUPUI,325,325,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.7,30.35,410582,NA,NA,0,IUPUI,IUPUI,93
+2009-10,2009-12-28,919917,529,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,59,20,1493,Memphis,321,321,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,93
+2009-10,2009-12-28,919917,531,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,60,19,1862,IUPUI,321,321,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,93
+2009-10,2009-12-28,919917,532,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,61,18,1862,IUPUI,321,321,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,93
+2009-10,2009-12-28,919917,534,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,61,18,1493,Memphis,292,292,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,IUPUI,94
+2009-10,2009-12-28,919917,535,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,61,18,1862,IUPUI,282,282,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,20.55,410593,NA,NA,0,IUPUI,Memphis,95
+2009-10,2009-12-28,919917,539,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,79,61,18,1862,IUPUI,266,266,16,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,96
+2009-10,2009-12-28,919917,540,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,80,61,19,1493,Memphis,266,266,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,96
+2009-10,2009-12-28,919917,541,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,80,61,19,1493,Memphis,266,266,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,IUPUI,96
+2009-10,2009-12-28,919917,543,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,80,61,19,1862,IUPUI,255,255,11, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,19.15,522848,NA,NA,0,IUPUI,IUPUI,97
+2009-10,2009-12-28,919917,544,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,80,63,17,1862,IUPUI,252,252,3, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,26.3,8.95,475547,NA,NA,0,IUPUI,Memphis,97
+2009-10,2009-12-28,919917,546,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,63,20,1493,Memphis,222,222,30, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,8.5,21.650000000000006,464840,NA,NA,0,Memphis,IUPUI,98
+2009-10,2009-12-28,919917,551,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,63,20,1493,Memphis,196,196,26,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,99
+2009-10,2009-12-28,919917,552,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,63,20,NA,NA,196,196,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,554,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,63,20,1862,IUPUI,196,196,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,99
+2009-10,2009-12-28,919917,555,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,64,19,1862,IUPUI,196,196,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,99
+2009-10,2009-12-28,919917,558,0,2,Memphis,IUPUI,Tigers,Jaguars,3,3,83,64,19,1493,Memphis,164,164,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329995,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,561,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,162,162,2,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,565,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,158,158,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,23.450000000000003,329519,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,566,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,126,126,32, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,7.150000000000006,524960,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,570,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1862,IUPUI,124,124,2,Shooting foul committed by Jaguars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,571,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,124,124,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,572,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,124,124,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,100
+2009-10,2009-12-28,919917,575,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,96,96,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,524963,NA,NA,0,Memphis,IUPUI,100
+2009-10,2009-12-28,919917,577,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,64,19,1493,Memphis,92,92,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,101
+2009-10,2009-12-28,919917,578,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,65,18,1862,IUPUI,92,92,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,IUPUI,101
+2009-10,2009-12-28,919917,579,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,83,65,18,1862,IUPUI,92,92,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,IUPUI,Memphis,101
+2009-10,2009-12-28,919917,586,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,85,65,20,1493,Memphis,76,76,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,IUPUI,102
+2009-10,2009-12-28,919917,587,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,85,65,20,1862,IUPUI,60,60,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,475547,NA,NA,0,IUPUI,Memphis,103
+2009-10,2009-12-28,919917,589,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,87,65,22,1493,Memphis,28,28,32, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,524963,NA,NA,0,Memphis,IUPUI,104
+2009-10,2009-12-28,919917,594,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,87,67,20,1862,IUPUI,19,19,9, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,21,22.45,522848,NA,NA,0,IUPUI,Memphis,105
+2009-10,2009-12-28,919917,595,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,87,67,20,NA,NA,0,0,19,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-28,919917,597,0,2,Memphis,IUPUI,Tigers,Jaguars,2,3,87,67,20,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,NA

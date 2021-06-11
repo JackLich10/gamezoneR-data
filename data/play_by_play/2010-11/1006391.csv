@@ -1,0 +1,213 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-15,1006391,1,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,1.75,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,0,0,1669,USC,2400,1200,0,Technical foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Santa Clara,1
+2010-11,2010-11-15,1006391,2,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,1,-1,1596,Santa Clara,2400,1200,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,1
+2010-11,2010-11-15,1006391,2.5,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,2,-2,1596,Santa Clara,2400,1200,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,1
+2010-11,2010-11-15,1006391,3,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,2,-2,1596,Santa Clara,2384,1184,16, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.8,13.15,462189,NA,NA,0,Santa Clara,Santa Clara,2
+2010-11,2010-11-15,1006391,4,0,1,USC,Santa Clara,Trojans,Broncos,4,4,0,4,-4,1596,Santa Clara,2381,1181,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462196,NA,NA,0,Santa Clara,USC,2
+2010-11,2010-11-15,1006391,5,0,1,USC,Santa Clara,Trojans,Broncos,4,4,2,4,-2,1669,USC,2368,1168,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Santa Clara,3
+2010-11,2010-11-15,1006391,7,0,1,USC,Santa Clara,Trojans,Broncos,4,4,2,6,-4,1596,Santa Clara,2344,1144,24, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,25.3,10.25,523726,NA,NA,0,Santa Clara,USC,4
+2010-11,2010-11-15,1006391,12,0,1,USC,Santa Clara,Trojans,Broncos,4,4,2,6,-4,1596,Santa Clara,2325,1125,19,Offensive foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,5
+2010-11,2010-11-15,1006391,14,0,1,USC,Santa Clara,Trojans,Broncos,4,4,5,6,-1,1669,USC,2317,1117,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,41.2,20.549999999999997,395373,NA,NA,0,USC,Santa Clara,6
+2010-11,2010-11-15,1006391,22,0,1,USC,Santa Clara,Trojans,Broncos,4,4,5,6,-1,1596,Santa Clara,2279,1079,38, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523726,NA,NA,0,Santa Clara,USC,7
+2010-11,2010-11-15,1006391,23,0,1,USC,Santa Clara,Trojans,Broncos,4,4,5,6,-1,1669,USC,2269,1069,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,21.150000000000006,549961,NA,NA,0,USC,Santa Clara,8
+2010-11,2010-11-15,1006391,24,0,1,USC,Santa Clara,Trojans,Broncos,4,4,5,9,-4,1596,Santa Clara,2254,1054,15, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25,29.05,462196,NA,NA,0,Santa Clara,USC,9
+2010-11,2010-11-15,1006391,37,0,1,USC,Santa Clara,Trojans,Broncos,4,4,5,9,-4,1596,Santa Clara,2219,1019,35,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,10
+2010-11,2010-11-15,1006391,38,0,1,USC,Santa Clara,Trojans,Broncos,4,4,6,9,-3,1669,USC,2219,1019,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,10
+2010-11,2010-11-15,1006391,39,0,1,USC,Santa Clara,Trojans,Broncos,4,4,6,9,-3,1669,USC,2219,1019,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,10
+2010-11,2010-11-15,1006391,41,0,1,USC,Santa Clara,Trojans,Broncos,4,4,6,9,-3,1596,Santa Clara,2205,1005,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462189,NA,NA,0,Santa Clara,USC,11
+2010-11,2010-11-15,1006391,43,0,1,USC,Santa Clara,Trojans,Broncos,4,4,6,9,-3,1596,Santa Clara,2201,1001,4,Personal Block Foul foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,12
+2010-11,2010-11-15,1006391,45,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,1669,USC,2190,990,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395373,NA,NA,0,USC,Santa Clara,12
+2010-11,2010-11-15,1006391,46,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,1596,Santa Clara,2180,980,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,21.65,462189,NA,NA,0,Santa Clara,USC,13
+2010-11,2010-11-15,1006391,49,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,1669,USC,2146,946,34, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,16.299999999999997,13.75,329673,NA,NA,0,USC,Santa Clara,14
+2010-11,2010-11-15,1006391,59,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,1669,USC,2136,936,10,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,15
+2010-11,2010-11-15,1006391,60,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,NA,NA,2136,936,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,118,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,9,-1,1596,Santa Clara,2136,936,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,15
+2010-11,2010-11-15,1006391,119,0,1,USC,Santa Clara,Trojans,Broncos,4,4,8,10,-2,1596,Santa Clara,2136,936,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,15
+2010-11,2010-11-15,1006391,138,0,1,USC,Santa Clara,Trojans,Broncos,4,4,10,10,0,1669,USC,2111,911,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,16
+2010-11,2010-11-15,1006391,139,0,1,USC,Santa Clara,Trojans,Broncos,4,4,10,10,0,1596,Santa Clara,2096,896,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,15.85,523747,NA,NA,0,Santa Clara,USC,17
+2010-11,2010-11-15,1006391,144,0,1,USC,Santa Clara,Trojans,Broncos,4,4,10,10,0,1669,USC,2075,875,21, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,10.849999999999994,549964,NA,NA,0,USC,USC,18
+2010-11,2010-11-15,1006391,145,0,1,USC,Santa Clara,Trojans,Broncos,4,4,12,10,2,1669,USC,2071,871,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395373,NA,NA,0,USC,Santa Clara,18
+2010-11,2010-11-15,1006391,146,0,1,USC,Santa Clara,Trojans,Broncos,4,4,12,10,2,1596,Santa Clara,2051,851,20, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,14.75,523723,NA,NA,0,Santa Clara,Santa Clara,19
+2010-11,2010-11-15,1006391,151,0,1,USC,Santa Clara,Trojans,Broncos,4,4,12,10,2,1596,Santa Clara,2042,842,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22,10.85,523723,NA,NA,0,Santa Clara,USC,19
+2010-11,2010-11-15,1006391,154,0,1,USC,Santa Clara,Trojans,Broncos,4,4,12,10,2,1596,Santa Clara,2033,833,9,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,20
+2010-11,2010-11-15,1006391,232,0,1,USC,Santa Clara,Trojans,Broncos,4,4,14,10,4,1669,USC,2017,817,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,20
+2010-11,2010-11-15,1006391,241,0,1,USC,Santa Clara,Trojans,Broncos,4,4,14,10,4,1669,USC,1995,795,22,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,21
+2010-11,2010-11-15,1006391,246,0,1,USC,Santa Clara,Trojans,Broncos,4,4,14,12,2,1596,Santa Clara,1989,789,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462196,NA,NA,0,Santa Clara,USC,21
+2010-11,2010-11-15,1006391,255,0,1,USC,Santa Clara,Trojans,Broncos,4,4,17,12,5,1669,USC,1969,769,20, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,19.8,30.549999999999997,549964,NA,NA,0,USC,Santa Clara,22
+2010-11,2010-11-15,1006391,258,0,1,USC,Santa Clara,Trojans,Broncos,4,4,17,12,5,1669,USC,1943,743,26,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,23
+2010-11,2010-11-15,1006391,259,0,1,USC,Santa Clara,Trojans,Broncos,4,4,17,13,4,1596,Santa Clara,1943,743,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,23
+2010-11,2010-11-15,1006391,260,0,1,USC,Santa Clara,Trojans,Broncos,4,4,17,14,3,1596,Santa Clara,1943,743,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,23
+2010-11,2010-11-15,1006391,265,0,1,USC,Santa Clara,Trojans,Broncos,4,4,17,14,3,1669,USC,1931,731,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,USC,24
+2010-11,2010-11-15,1006391,266,0,1,USC,Santa Clara,Trojans,Broncos,4,4,19,14,5,1669,USC,1928,728,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Santa Clara,24
+2010-11,2010-11-15,1006391,270,0,1,USC,Santa Clara,Trojans,Broncos,4,4,19,14,5,1596,Santa Clara,1901,701,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,6.05,523723,NA,NA,0,Santa Clara,USC,25
+2010-11,2010-11-15,1006391,272,0,1,USC,Santa Clara,Trojans,Broncos,4,4,21,14,7,1669,USC,1892,692,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Santa Clara,26
+2010-11,2010-11-15,1006391,273,0,1,USC,Santa Clara,Trojans,Broncos,4,3,21,14,7,1596,Santa Clara,1892,692,0,Broncos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,276,0,1,USC,Santa Clara,Trojans,Broncos,4,3,21,17,4,1596,Santa Clara,1875,675,17, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.2,29.05,561560,NA,NA,0,Santa Clara,USC,27
+2010-11,2010-11-15,1006391,277,0,1,USC,Santa Clara,Trojans,Broncos,4,3,21,17,4,1669,USC,1853,653,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,18.25,549964,NA,NA,0,USC,USC,28
+2010-11,2010-11-15,1006391,282,0,1,USC,Santa Clara,Trojans,Broncos,4,3,21,17,4,NA,NA,1848,648,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,284,0,1,USC,Santa Clara,Trojans,Broncos,4,3,21,17,4,1669,USC,1832,632,16, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,12.25,457598,NA,NA,0,USC,USC,28
+2010-11,2010-11-15,1006391,285,0,1,USC,Santa Clara,Trojans,Broncos,4,3,23,17,6,1669,USC,1822,622,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,549961,NA,NA,0,USC,Santa Clara,28
+2010-11,2010-11-15,1006391,286,0,1,USC,Santa Clara,Trojans,Broncos,4,3,23,20,3,1596,Santa Clara,1798,598,24, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,22.7,28.85,462189,NA,NA,0,Santa Clara,USC,29
+2010-11,2010-11-15,1006391,287,0,1,USC,Santa Clara,Trojans,Broncos,4,3,23,20,3,1669,USC,1779,579,19, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,8.75,457597,NA,NA,0,USC,USC,30
+2010-11,2010-11-15,1006391,288,0,1,USC,Santa Clara,Trojans,Broncos,4,3,25,20,5,1669,USC,1772,572,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Santa Clara,30
+2010-11,2010-11-15,1006391,289,0,1,USC,Santa Clara,Trojans,Broncos,4,3,25,20,5,1596,Santa Clara,1752,552,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,13,24.25,561560,NA,NA,0,Santa Clara,USC,31
+2010-11,2010-11-15,1006391,291,0,1,USC,Santa Clara,Trojans,Broncos,4,3,27,20,7,1669,USC,1733,533,19, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.3,9.549999999999997,457598,NA,NA,0,USC,USC,32
+2010-11,2010-11-15,1006391,292,0,1,USC,Santa Clara,Trojans,Broncos,4,3,27,20,7,1596,Santa Clara,1733,533,0,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2010-11,2010-11-15,1006391,293,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,20,8,1669,USC,1733,533,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,32
+2010-11,2010-11-15,1006391,298,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,20,8,1669,USC,1719,519,14,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,33
+2010-11,2010-11-15,1006391,303,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1596,Santa Clara,1715,515,4, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,13.7,14.55,462189,NA,NA,0,Santa Clara,Santa Clara,33
+2010-11,2010-11-15,1006391,304,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1669,USC,1715,515,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,33
+2010-11,2010-11-15,1006391,305,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1596,Santa Clara,1715,515,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,33
+2010-11,2010-11-15,1006391,309,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1669,USC,1703,503,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,21.650000000000006,457597,NA,NA,0,USC,Santa Clara,34
+2010-11,2010-11-15,1006391,312,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1596,Santa Clara,1697,497,6, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,11.85,523747,NA,NA,0,Santa Clara,Santa Clara,35
+2010-11,2010-11-15,1006391,313,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1596,Santa Clara,1690,490,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523747,NA,NA,0,Santa Clara,USC,35
+2010-11,2010-11-15,1006391,316,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,22,6,1669,USC,1677,477,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,15.549999999999997,457598,NA,NA,0,USC,Santa Clara,36
+2010-11,2010-11-15,1006391,320.25,0,1,USC,Santa Clara,Trojans,Broncos,4,3,28,25,3,1596,Santa Clara,1655,455,22, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,42,19.25,462189,NA,NA,0,Santa Clara,USC,37
+2010-11,2010-11-15,1006391,324.5,0,1,USC,Santa Clara,Trojans,Broncos,3,3,28,25,3,1669,USC,1653,453,2,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,337.75,0,1,USC,Santa Clara,Trojans,Broncos,3,3,30,25,5,1669,USC,1634,434,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,38
+2010-11,2010-11-15,1006391,351,0,1,USC,Santa Clara,Trojans,Broncos,3,3,30,28,2,1596,Santa Clara,1616,416,18, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,41,23.25,462196,NA,NA,0,Santa Clara,USC,39
+2010-11,2010-11-15,1006391,367,0,1,USC,Santa Clara,Trojans,Broncos,3,3,30,28,2,1596,Santa Clara,1602,402,14,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,40
+2010-11,2010-11-15,1006391,372.5,0,1,USC,Santa Clara,Trojans,Broncos,3,3,30,28,2,NA,NA,1602,402,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,378,0,1,USC,Santa Clara,Trojans,Broncos,3,3,30,30,0,1596,Santa Clara,1563,363,39, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,18,19.95,523747,NA,NA,0,Santa Clara,USC,40
+2010-11,2010-11-15,1006391,385,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,30,3,1669,USC,1553,353,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,13.700000000000003,25.150000000000006,457597,NA,NA,0,USC,Santa Clara,41
+2010-11,2010-11-15,1006391,386,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,30,3,1596,Santa Clara,1529,329,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,10.45,462189,NA,NA,0,Santa Clara,Santa Clara,42
+2010-11,2010-11-15,1006391,387,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1596,Santa Clara,1526,326,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523747,NA,NA,0,Santa Clara,USC,42
+2010-11,2010-11-15,1006391,388,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1669,USC,1493,293,33, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,9.650000000000006,457598,NA,NA,0,USC,Santa Clara,43
+2010-11,2010-11-15,1006391,390,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1669,USC,1484,284,9,Personal Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Santa Clara,44
+2010-11,2010-11-15,1006391,400,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1596,Santa Clara,1469,269,15, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,18.7,10.45,411248,NA,NA,0,Santa Clara,USC,44
+2010-11,2010-11-15,1006391,420,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1669,USC,1439,239,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41,23.049999999999997,457598,NA,NA,0,USC,Santa Clara,45
+2010-11,2010-11-15,1006391,421,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1596,Santa Clara,1411,211,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,6.45,523747,NA,NA,0,Santa Clara,USC,46
+2010-11,2010-11-15,1006391,423.5,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,1596,Santa Clara,1405,205,6,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,47
+2010-11,2010-11-15,1006391,426,0,1,USC,Santa Clara,Trojans,Broncos,3,3,33,32,1,NA,NA,1405,205,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,430,0,1,USC,Santa Clara,Trojans,Broncos,3,3,34,32,2,1669,USC,1405,205,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,47
+2010-11,2010-11-15,1006391,431,0,1,USC,Santa Clara,Trojans,Broncos,3,3,35,32,3,1669,USC,1405,205,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,47
+2010-11,2010-11-15,1006391,433,0,1,USC,Santa Clara,Trojans,Broncos,3,3,35,32,3,1596,Santa Clara,1377,177,28, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,16.45,462189,NA,NA,0,Santa Clara,Santa Clara,48
+2010-11,2010-11-15,1006391,434.5,0,1,USC,Santa Clara,Trojans,Broncos,3,3,35,32,3,1596,Santa Clara,1374,174,3, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,411248,NA,NA,0,Santa Clara,USC,48
+2010-11,2010-11-15,1006391,435,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,32,5,1669,USC,1370,170,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549961,NA,NA,0,USC,Santa Clara,49
+2010-11,2010-11-15,1006391,436,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1344,144,26, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,33.2,6.45,462189,NA,NA,0,Santa Clara,USC,50
+2010-11,2010-11-15,1006391,437,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1669,USC,1325,125,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15.299999999999997,12.049999999999997,549964,NA,NA,0,USC,Santa Clara,51
+2010-11,2010-11-15,1006391,438,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1317,117,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.800000000000001,12.05,462196,NA,NA,0,Santa Clara,USC,52
+2010-11,2010-11-15,1006391,440,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1669,USC,1293,93,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395373,NA,NA,0,USC,Santa Clara,53
+2010-11,2010-11-15,1006391,441,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1669,USC,1293,93,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,54
+2010-11,2010-11-15,1006391,444,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1293,93,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,54
+2010-11,2010-11-15,1006391,449,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1256,56,37, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,20.15,411248,NA,NA,0,Santa Clara,Santa Clara,54
+2010-11,2010-11-15,1006391,451,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1239,39,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34,10.25,523720,NA,NA,0,Santa Clara,USC,54
+2010-11,2010-11-15,1006391,452,0,1,USC,Santa Clara,Trojans,Broncos,3,3,37,34,3,1596,Santa Clara,1208,8,31,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,55
+2010-11,2010-11-15,1006391,453,0,1,USC,Santa Clara,Trojans,Broncos,3,3,38,34,4,1669,USC,1208,8,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,55
+2010-11,2010-11-15,1006391,454,0,1,USC,Santa Clara,Trojans,Broncos,3,3,39,34,5,1669,USC,1208,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,55
+2010-11,2010-11-15,1006391,456,0,1,USC,Santa Clara,Trojans,Broncos,3,3,39,34,5,1596,Santa Clara,1201,1,7, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,27.85,462196,NA,NA,0,Santa Clara,Santa Clara,56
+2010-11,2010-11-15,1006391,457,0,1,USC,Santa Clara,Trojans,Broncos,3,3,39,34,5,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,460,0,2,USC,Santa Clara,Trojans,Broncos,4,4,39,34,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Santa Clara,56
+2010-11,2010-11-15,1006391,473,0,2,USC,Santa Clara,Trojans,Broncos,4,4,39,34,5,1596,Santa Clara,1186,1186,14,Offensive foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,57
+2010-11,2010-11-15,1006391,477,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,34,7,1669,USC,1176,1176,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Santa Clara,58
+2010-11,2010-11-15,1006391,481,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,34,7,1596,Santa Clara,1158,1158,18, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,19.15,462196,NA,NA,0,Santa Clara,Santa Clara,59
+2010-11,2010-11-15,1006391,482,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,36,5,1596,Santa Clara,1147,1147,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523726,NA,NA,0,Santa Clara,USC,59
+2010-11,2010-11-15,1006391,483,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,36,5,1669,USC,1127,1127,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,Santa Clara,60
+2010-11,2010-11-15,1006391,486,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,38,3,1596,Santa Clara,1095,1095,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523747,NA,NA,0,Santa Clara,USC,61
+2010-11,2010-11-15,1006391,490,0,2,USC,Santa Clara,Trojans,Broncos,4,4,41,40,1,1596,Santa Clara,1068,1068,27, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,24,19.55,523747,NA,NA,0,Santa Clara,USC,62
+2010-11,2010-11-15,1006391,491,0,2,USC,Santa Clara,Trojans,Broncos,3,4,41,40,1,1669,USC,1065,1065,3,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,493,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,40,3,1669,USC,1054,1054,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,63
+2010-11,2010-11-15,1006391,496,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,40,3,1669,USC,1029,1029,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,Santa Clara,64
+2010-11,2010-11-15,1006391,498,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,40,3,1669,USC,1018,1018,11,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,65
+2010-11,2010-11-15,1006391,502,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,43,0,1596,Santa Clara,1011,1011,7, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,6.45,462189,NA,NA,0,Santa Clara,USC,65
+2010-11,2010-11-15,1006391,503,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,43,0,1669,USC,996,996,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,11.25,549961,NA,NA,0,USC,Santa Clara,66
+2010-11,2010-11-15,1006391,504,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,43,0,1596,Santa Clara,984,984,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,21.65,462196,NA,NA,0,Santa Clara,Santa Clara,67
+2010-11,2010-11-15,1006391,505,0,2,USC,Santa Clara,Trojans,Broncos,3,4,43,45,-2,1596,Santa Clara,981,981,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523726,NA,NA,0,Santa Clara,USC,67
+2010-11,2010-11-15,1006391,507,0,2,USC,Santa Clara,Trojans,Broncos,2,4,43,45,-2,1669,USC,978,978,3,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,510,0,2,USC,Santa Clara,Trojans,Broncos,2,4,45,45,0,1669,USC,949,949,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Santa Clara,68
+2010-11,2010-11-15,1006391,513,0,2,USC,Santa Clara,Trojans,Broncos,2,4,45,45,0,1669,USC,933,933,16,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,69
+2010-11,2010-11-15,1006391,514,0,2,USC,Santa Clara,Trojans,Broncos,2,4,45,45,0,NA,NA,933,933,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,515,0,2,USC,Santa Clara,Trojans,Broncos,2,4,45,46,-1,1596,Santa Clara,933,933,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,69
+2010-11,2010-11-15,1006391,516,0,2,USC,Santa Clara,Trojans,Broncos,2,4,45,47,-2,1596,Santa Clara,933,933,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,69
+2010-11,2010-11-15,1006391,521,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1669,USC,915,915,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,70
+2010-11,2010-11-15,1006391,523,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1596,Santa Clara,882,882,33,Offensive Charge Foul foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,71
+2010-11,2010-11-15,1006391,531,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1596,Santa Clara,869,869,13,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,71
+2010-11,2010-11-15,1006391,536,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1596,Santa Clara,862,862,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,561560,NA,NA,0,Santa Clara,Santa Clara,71
+2010-11,2010-11-15,1006391,537,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1596,Santa Clara,855,855,7, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.7,7.15,523726,NA,NA,0,Santa Clara,USC,71
+2010-11,2010-11-15,1006391,538,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,47,0,1669,USC,844,844,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329673,NA,NA,0,USC,Santa Clara,72
+2010-11,2010-11-15,1006391,543,0,2,USC,Santa Clara,Trojans,Broncos,2,4,47,50,-3,1596,Santa Clara,822,822,22, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,9.8,20.15,462196,NA,NA,0,Santa Clara,USC,73
+2010-11,2010-11-15,1006391,544,0,2,USC,Santa Clara,Trojans,Broncos,2,4,49,50,-1,1669,USC,792,792,30, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,37.5,20.75,549961,NA,NA,0,USC,Santa Clara,74
+2010-11,2010-11-15,1006391,547,0,2,USC,Santa Clara,Trojans,Broncos,2,4,49,50,-1,1669,USC,763,763,29, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33,15.650000000000006,549964,NA,NA,0,USC,USC,75
+2010-11,2010-11-15,1006391,548,0,2,USC,Santa Clara,Trojans,Broncos,2,4,51,50,1,1669,USC,760,760,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Santa Clara,75
+2010-11,2010-11-15,1006391,549,0,2,USC,Santa Clara,Trojans,Broncos,2,4,51,50,1,1596,Santa Clara,741,741,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.2,21.35,561560,NA,NA,0,Santa Clara,Santa Clara,76
+2010-11,2010-11-15,1006391,550,0,2,USC,Santa Clara,Trojans,Broncos,2,4,51,52,-1,1596,Santa Clara,735,735,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411253,NA,NA,0,Santa Clara,USC,76
+2010-11,2010-11-15,1006391,551,0,2,USC,Santa Clara,Trojans,Broncos,2,4,53,52,1,1669,USC,724,724,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,77
+2010-11,2010-11-15,1006391,556,0,2,USC,Santa Clara,Trojans,Broncos,2,4,53,52,1,NA,NA,703,703,21,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,559,0,2,USC,Santa Clara,Trojans,Broncos,2,4,55,52,3,1669,USC,687,687,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549960,NA,NA,0,USC,Santa Clara,78
+2010-11,2010-11-15,1006391,560,0,2,USC,Santa Clara,Trojans,Broncos,2,4,55,52,3,1596,Santa Clara,652,652,35, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.8,27.15,462189,NA,NA,0,Santa Clara,USC,79
+2010-11,2010-11-15,1006391,563,0,2,USC,Santa Clara,Trojans,Broncos,2,4,55,52,3,1596,Santa Clara,650,650,2,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,80
+2010-11,2010-11-15,1006391,568,0,2,USC,Santa Clara,Trojans,Broncos,2,4,55,52,3,1596,Santa Clara,638,638,12,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,80
+2010-11,2010-11-15,1006391,571,0,2,USC,Santa Clara,Trojans,Broncos,2,4,56,52,4,1669,USC,638,638,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,80
+2010-11,2010-11-15,1006391,572,0,2,USC,Santa Clara,Trojans,Broncos,2,4,57,52,5,1669,USC,638,638,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,80
+2010-11,2010-11-15,1006391,580,0,2,USC,Santa Clara,Trojans,Broncos,2,4,57,52,5,1669,USC,611,611,27,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,81
+2010-11,2010-11-15,1006391,582,0,2,USC,Santa Clara,Trojans,Broncos,2,4,57,52,5,1596,Santa Clara,591,591,20, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,22.7,11.25,523721,NA,NA,0,Santa Clara,USC,81
+2010-11,2010-11-15,1006391,583,0,2,USC,Santa Clara,Trojans,Broncos,2,4,59,52,7,1669,USC,583,583,8, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,24.5,19.150000000000006,549964,NA,NA,0,USC,Santa Clara,82
+2010-11,2010-11-15,1006391,585,0,2,USC,Santa Clara,Trojans,Broncos,2,3,59,52,7,1596,Santa Clara,576,576,7,Broncos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,587,0,2,USC,Santa Clara,Trojans,Broncos,2,3,61,52,9,1669,USC,564,564,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,USC,83
+2010-11,2010-11-15,1006391,595,0,2,USC,Santa Clara,Trojans,Broncos,2,3,61,52,9,1596,Santa Clara,564,564,0,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,83
+2010-11,2010-11-15,1006391,596,0,2,USC,Santa Clara,Trojans,Broncos,2,3,61,52,9,1669,USC,564,564,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,83
+2010-11,2010-11-15,1006391,598,0,2,USC,Santa Clara,Trojans,Broncos,2,3,61,55,6,1596,Santa Clara,541,541,23, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,19.2,28.45,462189,NA,NA,0,Santa Clara,USC,84
+2010-11,2010-11-15,1006391,604,0,2,USC,Santa Clara,Trojans,Broncos,2,3,64,55,9,1669,USC,519,519,22, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.2,6.25,549961,NA,NA,0,USC,Santa Clara,85
+2010-11,2010-11-15,1006391,606,0,2,USC,Santa Clara,Trojans,Broncos,2,3,64,57,7,1596,Santa Clara,503,503,16, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,25,26.25,462189,NA,NA,0,Santa Clara,USC,86
+2010-11,2010-11-15,1006391,612,0,2,USC,Santa Clara,Trojans,Broncos,2,3,64,57,7,1669,USC,503,503,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,USC,87
+2010-11,2010-11-15,1006391,618,0,2,USC,Santa Clara,Trojans,Broncos,2,3,66,57,9,1669,USC,473,473,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Santa Clara,87
+2010-11,2010-11-15,1006391,619,0,2,USC,Santa Clara,Trojans,Broncos,2,3,66,57,9,1596,Santa Clara,452,452,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,13.75,462189,NA,NA,0,Santa Clara,Santa Clara,88
+2010-11,2010-11-15,1006391,620,0,2,USC,Santa Clara,Trojans,Broncos,2,3,66,57,9,1596,Santa Clara,420,420,32, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,15.15,462189,NA,NA,0,Santa Clara,Santa Clara,88
+2010-11,2010-11-15,1006391,621,0,2,USC,Santa Clara,Trojans,Broncos,2,3,66,59,7,1596,Santa Clara,417,417,3, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.5,7.55,523726,NA,NA,0,Santa Clara,USC,88
+2010-11,2010-11-15,1006391,624.5,0,2,USC,Santa Clara,Trojans,Broncos,2,3,68,59,9,1669,USC,404,404,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,USC,89
+2010-11,2010-11-15,1006391,627.75,0,2,USC,Santa Clara,Trojans,Broncos,2,3,68,59,9,1596,Santa Clara,404,404,0,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2010-11,2010-11-15,1006391,634,0,2,USC,Santa Clara,Trojans,Broncos,2,3,68,59,9,NA,NA,404,404,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,636,0,2,USC,Santa Clara,Trojans,Broncos,2,3,69,59,10,1669,USC,404,404,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2010-11,2010-11-15,1006391,640,0,2,USC,Santa Clara,Trojans,Broncos,2,3,69,59,10,1596,Santa Clara,371,371,33,Shooting foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2010-11,2010-11-15,1006391,643,0,2,USC,Santa Clara,Trojans,Broncos,2,3,69,59,10,1669,USC,371,371,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2010-11,2010-11-15,1006391,644,0,2,USC,Santa Clara,Trojans,Broncos,2,3,70,59,11,1669,USC,371,371,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,89
+2010-11,2010-11-15,1006391,648,0,2,USC,Santa Clara,Trojans,Broncos,2,3,70,62,8,1596,Santa Clara,350,350,21, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,14,24.75,523720,NA,NA,0,Santa Clara,USC,90
+2010-11,2010-11-15,1006391,655,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,62,11,1669,USC,311,311,39, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,36.8,24.549999999999997,549964,NA,NA,0,USC,Santa Clara,91
+2010-11,2010-11-15,1006391,660,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,62,11,1669,USC,299,299,12,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,92
+2010-11,2010-11-15,1006391,661,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,63,10,1596,Santa Clara,299,299,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,92
+2010-11,2010-11-15,1006391,662,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,63,10,1596,Santa Clara,299,299,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,92
+2010-11,2010-11-15,1006391,664,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,63,10,1596,Santa Clara,284,284,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,561560,NA,NA,0,Santa Clara,USC,92
+2010-11,2010-11-15,1006391,665,0,2,USC,Santa Clara,Trojans,Broncos,2,3,73,63,10,1669,USC,260,260,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,USC,93
+2010-11,2010-11-15,1006391,666,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,63,12,1669,USC,257,257,3, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457598,NA,NA,0,USC,Santa Clara,93
+2010-11,2010-11-15,1006391,668,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,63,12,1669,USC,244,244,13,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,94
+2010-11,2010-11-15,1006391,670,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,65,10,1596,Santa Clara,226,226,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462189,NA,NA,0,Santa Clara,USC,94
+2010-11,2010-11-15,1006391,671,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,65,10,1669,USC,192,192,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,Santa Clara,95
+2010-11,2010-11-15,1006391,674,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,65,10,NA,NA,190,190,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,683,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,65,10,1596,Santa Clara,173,173,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.7,25.35,523747,NA,NA,0,Santa Clara,USC,96
+2010-11,2010-11-15,1006391,687,0,2,USC,Santa Clara,Trojans,Broncos,2,3,75,65,10,1669,USC,138,138,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,3.8499999999999943,549964,NA,NA,0,USC,USC,97
+2010-11,2010-11-15,1006391,688,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,65,13,1669,USC,134,134,4, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,12.799999999999997,25.549999999999997,549961,NA,NA,0,USC,Santa Clara,97
+2010-11,2010-11-15,1006391,690,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,65,13,1596,Santa Clara,121,121,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17.8,28.45,462189,NA,NA,0,Santa Clara,USC,98
+2010-11,2010-11-15,1006391,691.5,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,65,13,1596,Santa Clara,121,121,0,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,99
+2010-11,2010-11-15,1006391,694,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,65,13,1669,USC,121,121,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,99
+2010-11,2010-11-15,1006391,698,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,65,13,1669,USC,113,113,8,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,100
+2010-11,2010-11-15,1006391,699,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,66,12,1596,Santa Clara,113,113,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,Santa Clara,100
+2010-11,2010-11-15,1006391,700,0,2,USC,Santa Clara,Trojans,Broncos,2,3,78,67,11,1596,Santa Clara,113,113,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Santa Clara,USC,100
+2010-11,2010-11-15,1006391,703,0,2,USC,Santa Clara,Trojans,Broncos,2,2,78,67,11,1596,Santa Clara,111,111,2,Broncos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,707,0,2,USC,Santa Clara,Trojans,Broncos,2,2,78,67,11,1596,Santa Clara,109,109,2,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2010-11,2010-11-15,1006391,708.5,0,2,USC,Santa Clara,Trojans,Broncos,2,2,78,67,11,1669,USC,109,109,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,101
+2010-11,2010-11-15,1006391,709,0,2,USC,Santa Clara,Trojans,Broncos,2,2,79,67,12,1669,USC,109,109,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,101
+2010-11,2010-11-15,1006391,718,0,2,USC,Santa Clara,Trojans,Broncos,2,2,79,67,12,1596,Santa Clara,101,101,8, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.8,15.35,411248,NA,NA,0,Santa Clara,USC,102
+2010-11,2010-11-15,1006391,724,0,2,USC,Santa Clara,Trojans,Broncos,2,2,79,67,12,1596,Santa Clara,82,82,19,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,103
+2010-11,2010-11-15,1006391,725,0,2,USC,Santa Clara,Trojans,Broncos,2,2,80,67,13,1669,USC,82,82,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,103
+2010-11,2010-11-15,1006391,726,0,2,USC,Santa Clara,Trojans,Broncos,2,2,81,67,14,1669,USC,82,82,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,103
+2010-11,2010-11-15,1006391,728,0,2,USC,Santa Clara,Trojans,Broncos,2,2,81,67,14,1596,Santa Clara,77,77,5, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,19.7,29.45,462189,NA,NA,0,Santa Clara,USC,104
+2010-11,2010-11-15,1006391,730,0,2,USC,Santa Clara,Trojans,Broncos,2,2,81,67,14,1596,Santa Clara,66,66,11,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,105
+2010-11,2010-11-15,1006391,731,0,2,USC,Santa Clara,Trojans,Broncos,2,2,81,67,14,1669,USC,66,66,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,105
+2010-11,2010-11-15,1006391,732,0,2,USC,Santa Clara,Trojans,Broncos,2,2,82,67,15,1669,USC,66,66,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,105
+2010-11,2010-11-15,1006391,735,0,2,USC,Santa Clara,Trojans,Broncos,2,2,82,69,13,1596,Santa Clara,60,60,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411248,NA,NA,0,Santa Clara,USC,106
+2010-11,2010-11-15,1006391,736,0,2,USC,Santa Clara,Trojans,Broncos,2,1,82,69,13,1596,Santa Clara,60,60,0,Broncos take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,743,0,2,USC,Santa Clara,Trojans,Broncos,2,1,82,69,13,1596,Santa Clara,57,57,3,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,107
+2010-11,2010-11-15,1006391,744,0,2,USC,Santa Clara,Trojans,Broncos,2,1,83,69,14,1669,USC,57,57,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,107
+2010-11,2010-11-15,1006391,745,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,69,15,1669,USC,57,57,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,107
+2010-11,2010-11-15,1006391,748,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1596,Santa Clara,49,49,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411248,NA,NA,0,Santa Clara,USC,108
+2010-11,2010-11-15,1006391,756,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1596,Santa Clara,46,46,3,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,109
+2010-11,2010-11-15,1006391,757,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1669,USC,46,46,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,109
+2010-11,2010-11-15,1006391,758,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1669,USC,46,46,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,109
+2010-11,2010-11-15,1006391,761,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1596,Santa Clara,35,35,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,21.45,462189,NA,NA,0,Santa Clara,USC,110
+2010-11,2010-11-15,1006391,774,0,2,USC,Santa Clara,Trojans,Broncos,2,1,84,71,13,1596,Santa Clara,32,32,3,Personal foul committed by Broncos.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2010-11,2010-11-15,1006391,775,0,2,USC,Santa Clara,Trojans,Broncos,2,1,85,71,14,1669,USC,32,32,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2010-11,2010-11-15,1006391,776,0,2,USC,Santa Clara,Trojans,Broncos,2,1,86,71,15,1669,USC,32,32,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Santa Clara,111
+2010-11,2010-11-15,1006391,779,0,2,USC,Santa Clara,Trojans,Broncos,2,1,86,73,13,1596,Santa Clara,26,26,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,523720,NA,NA,0,Santa Clara,USC,112
+2010-11,2010-11-15,1006391,792,0,2,USC,Santa Clara,Trojans,Broncos,2,1,86,73,13,NA,NA,0,0,26,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-15,1006391,793,0,2,USC,Santa Clara,Trojans,Broncos,2,1,86,73,13,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,NA

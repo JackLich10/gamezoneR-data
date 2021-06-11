@@ -1,0 +1,245 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-13,918746,1,0,1,Temple,Villanova,Owls,Wildcats,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Temple,NA
+2009-10,2009-12-13,918746,3,0,1,Temple,Villanova,Owls,Wildcats,4,4,0,0,0,1644,Temple,2383,1183,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.7,30.25,489569,NA,NA,0,Temple,Temple,1
+2009-10,2009-12-13,918746,4,0,1,Temple,Villanova,Owls,Wildcats,4,4,0,0,0,1676,Villanova,2383,1183,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,1
+2009-10,2009-12-13,918746,5,0,1,Temple,Villanova,Owls,Wildcats,4,4,0,0,0,1676,Villanova,2373,1173,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331129,NA,NA,0,Villanova,Villanova,2
+2009-10,2009-12-13,918746,6,0,1,Temple,Villanova,Owls,Wildcats,4,4,0,0,0,1644,Temple,2373,1173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,2
+2009-10,2009-12-13,918746,7,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,0,2,1644,Temple,2358,1158,15, makes a hook shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,24.8,10.849999999999994,402984,NA,NA,0,Temple,Villanova,3
+2009-10,2009-12-13,918746,10,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,0,2,1644,Temple,2331,1131,27,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,4
+2009-10,2009-12-13,918746,11,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1676,Villanova,2331,1131,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,4
+2009-10,2009-12-13,918746,12,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1676,Villanova,2331,1131,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,4
+2009-10,2009-12-13,918746,13,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1644,Temple,2331,1131,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,4
+2009-10,2009-12-13,918746,18,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1644,Temple,2308,1108,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41,20.150000000000006,353101,NA,NA,0,Temple,Temple,5
+2009-10,2009-12-13,918746,19,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1676,Villanova,2308,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,5
+2009-10,2009-12-13,918746,20,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,1,1,1676,Villanova,2304,1104,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331131,NA,NA,0,Villanova,Villanova,6
+2009-10,2009-12-13,918746,23,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,4,-2,1676,Villanova,2302,1102,2, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,40,21.35,331131,NA,NA,0,Villanova,Temple,6
+2009-10,2009-12-13,918746,24,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,4,-2,1644,Temple,2284,1084,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402986,NA,NA,0,Temple,Temple,7
+2009-10,2009-12-13,918746,25,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,4,-2,1676,Villanova,2284,1084,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,7
+2009-10,2009-12-13,918746,26,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1676,Villanova,2277,1077,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,11.3,22.25,398049,NA,NA,0,Villanova,Temple,8
+2009-10,2009-12-13,918746,28,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1676,Villanova,2251,1051,26,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,9
+2009-10,2009-12-13,918746,31.5,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1644,Temple,2247,1047,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,30.2,27.849999999999994,402984,NA,NA,0,Temple,Temple,9
+2009-10,2009-12-13,918746,32.25,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1676,Villanova,2247,1047,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,9
+2009-10,2009-12-13,918746,33,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1676,Villanova,2239,1039,8,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,10
+2009-10,2009-12-13,918746,39,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1676,Villanova,2217,1017,22,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,11
+2009-10,2009-12-13,918746,40,0,1,Temple,Villanova,Owls,Wildcats,4,4,2,7,-5,1644,Temple,2217,1017,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,11
+2009-10,2009-12-13,918746,42,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2217,1017,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,11
+2009-10,2009-12-13,918746,45,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1676,Villanova,2192,992,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,18.95,331131,NA,NA,0,Villanova,Villanova,12
+2009-10,2009-12-13,918746,46,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2192,992,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,12
+2009-10,2009-12-13,918746,53,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1676,Villanova,2188,988,4,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,13
+2009-10,2009-12-13,918746,55,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1676,Villanova,2164,964,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,8,17.85,398051,NA,NA,0,Villanova,Villanova,13
+2009-10,2009-12-13,918746,56,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2164,964,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,13
+2009-10,2009-12-13,918746,57,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2148,948,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,28.849999999999994,489569,NA,NA,0,Temple,Temple,14
+2009-10,2009-12-13,918746,58,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2148,948,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,14
+2009-10,2009-12-13,918746,62,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,NA,NA,2139,939,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,69,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1676,Villanova,2120,920,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,5.05,398051,NA,NA,0,Villanova,Villanova,14
+2009-10,2009-12-13,918746,70,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2120,920,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,14
+2009-10,2009-12-13,918746,71,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2093,893,27, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,24.049999999999997,332875,NA,NA,0,Temple,Temple,15
+2009-10,2009-12-13,918746,72,0,1,Temple,Villanova,Owls,Wildcats,4,4,3,7,-4,1644,Temple,2093,893,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,15
+2009-10,2009-12-13,918746,73,0,1,Temple,Villanova,Owls,Wildcats,4,4,5,7,-2,1644,Temple,2077,877,16, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,21.8,23.049999999999997,489569,NA,NA,0,Temple,Villanova,15
+2009-10,2009-12-13,918746,74,0,1,Temple,Villanova,Owls,Wildcats,4,4,5,9,-4,1676,Villanova,2058,858,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331131,NA,NA,0,Villanova,Temple,16
+2009-10,2009-12-13,918746,75,0,1,Temple,Villanova,Owls,Wildcats,4,4,5,9,-4,1644,Temple,2042,842,16, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,27,7.150000000000006,402986,NA,NA,0,Temple,Temple,17
+2009-10,2009-12-13,918746,76,0,1,Temple,Villanova,Owls,Wildcats,4,4,5,9,-4,1644,Temple,2042,842,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,17
+2009-10,2009-12-13,918746,86,0,1,Temple,Villanova,Owls,Wildcats,4,4,8,9,-1,1644,Temple,2009,809,33, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,34.8,26.75,489569,NA,NA,0,Temple,Villanova,17
+2009-10,2009-12-13,918746,87,0,1,Temple,Villanova,Owls,Wildcats,4,4,8,12,-4,1676,Villanova,1991,791,18, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.7,20.35,398427,NA,NA,0,Villanova,Temple,18
+2009-10,2009-12-13,918746,88,0,1,Temple,Villanova,Owls,Wildcats,4,4,8,12,-4,1644,Temple,1973,773,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,15.650000000000006,489569,NA,NA,0,Temple,Temple,19
+2009-10,2009-12-13,918746,89,0,1,Temple,Villanova,Owls,Wildcats,4,4,8,12,-4,1676,Villanova,1973,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,19
+2009-10,2009-12-13,918746,90,0,1,Temple,Villanova,Owls,Wildcats,4,4,8,14,-6,1676,Villanova,1960,760,13, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,29.5,16.65,331129,NA,NA,0,Villanova,Temple,20
+2009-10,2009-12-13,918746,94,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,14,-6,1644,Temple,1945,745,15,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,111,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,14,-6,1676,Villanova,1917,717,28, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,15.35,331131,NA,NA,0,Villanova,Villanova,21
+2009-10,2009-12-13,918746,112,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,14,-6,1644,Temple,1917,717,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,21
+2009-10,2009-12-13,918746,114,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,14,-6,1644,Temple,1909,709,8,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,22
+2009-10,2009-12-13,918746,115,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,14,-6,NA,NA,1909,709,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,117,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,16,-8,1676,Villanova,1897,697,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,Villanova,23
+2009-10,2009-12-13,918746,117.125,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,16,-8,1644,Temple,1897,697,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,23
+2009-10,2009-12-13,918746,117.25,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,16,-8,1676,Villanova,1897,697,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,23
+2009-10,2009-12-13,918746,117.5,0,1,Temple,Villanova,Owls,Wildcats,3,4,8,16,-8,1644,Temple,1897,697,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,23
+2009-10,2009-12-13,918746,118,0,1,Temple,Villanova,Owls,Wildcats,3,4,10,16,-6,1644,Temple,1890,690,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,489569,NA,NA,0,Temple,Temple,24
+2009-10,2009-12-13,918746,135,0,1,Temple,Villanova,Owls,Wildcats,3,4,10,16,-6,1676,Villanova,1871,671,19,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,24
+2009-10,2009-12-13,918746,143,0,1,Temple,Villanova,Owls,Wildcats,3,4,11,16,-5,1644,Temple,1871,671,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,24
+2009-10,2009-12-13,918746,148,0,1,Temple,Villanova,Owls,Wildcats,3,4,12,16,-4,1644,Temple,1871,671,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,25
+2009-10,2009-12-13,918746,153,0,1,Temple,Villanova,Owls,Wildcats,3,4,12,16,-4,1644,Temple,1862,662,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,26
+2009-10,2009-12-13,918746,158,0,1,Temple,Villanova,Owls,Wildcats,3,4,12,16,-4,1676,Villanova,1846,646,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.7,27.35,513565,NA,NA,0,Villanova,Villanova,26
+2009-10,2009-12-13,918746,159,0,1,Temple,Villanova,Owls,Wildcats,3,4,12,16,-4,1644,Temple,1846,646,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,26
+2009-10,2009-12-13,918746,160,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1644,Temple,1834,634,12, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.3,23.450000000000003,489569,NA,NA,0,Temple,Villanova,27
+2009-10,2009-12-13,918746,164,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1676,Villanova,1799,599,35,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,28
+2009-10,2009-12-13,918746,166,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1644,Temple,1793,593,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,14.349999999999994,332875,NA,NA,0,Temple,Temple,28
+2009-10,2009-12-13,918746,167,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1676,Villanova,1793,593,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,28
+2009-10,2009-12-13,918746,169,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1644,Temple,1779,579,14,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,29
+2009-10,2009-12-13,918746,172,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,16,-1,1644,Temple,1762,562,17,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,29
+2009-10,2009-12-13,918746,173,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,17,-2,1676,Villanova,1762,562,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,29
+2009-10,2009-12-13,918746,174,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,18,-3,1676,Villanova,1762,562,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,29
+2009-10,2009-12-13,918746,176,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,18,-3,1644,Temple,1731,531,31, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,25,10.650000000000006,402984,NA,NA,0,Temple,Temple,30
+2009-10,2009-12-13,918746,177,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,18,-3,1676,Villanova,1731,531,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,30
+2009-10,2009-12-13,918746,178,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,20,-5,1676,Villanova,1697,497,34, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398051,NA,NA,0,Villanova,Temple,31
+2009-10,2009-12-13,918746,181,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,20,-5,1676,Villanova,1655,455,42, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,30.25,398049,NA,NA,0,Villanova,Villanova,32
+2009-10,2009-12-13,918746,182,0,1,Temple,Villanova,Owls,Wildcats,3,4,15,20,-5,1644,Temple,1655,455,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,32
+2009-10,2009-12-13,918746,183,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,20,-3,1644,Temple,1647,447,8, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,24,11.25,402984,NA,NA,0,Temple,Villanova,33
+2009-10,2009-12-13,918746,184,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1629,429,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.3,22.65,398427,NA,NA,0,Villanova,Temple,34
+2009-10,2009-12-13,918746,185,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1644,Temple,1610,410,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402986,NA,NA,0,Temple,Temple,35
+2009-10,2009-12-13,918746,186,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1610,410,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,35
+2009-10,2009-12-13,918746,187,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1594,394,16, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,10.25,398051,NA,NA,0,Villanova,Villanova,36
+2009-10,2009-12-13,918746,188,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1594,394,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,36
+2009-10,2009-12-13,918746,189,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1590,390,4, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,23.5,9.35,398427,NA,NA,0,Villanova,Villanova,36
+2009-10,2009-12-13,918746,190,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1644,Temple,1590,390,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,36
+2009-10,2009-12-13,918746,192,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,1676,Villanova,1585,385,5,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,37
+2009-10,2009-12-13,918746,193,0,1,Temple,Villanova,Owls,Wildcats,3,4,17,23,-6,NA,NA,1585,385,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,194,0,1,Temple,Villanova,Owls,Wildcats,3,4,18,23,-5,1644,Temple,1585,385,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,37
+2009-10,2009-12-13,918746,195,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,23,-4,1644,Temple,1585,385,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,37
+2009-10,2009-12-13,918746,197,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,23,-4,1676,Villanova,1568,368,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24,11.45,398051,NA,NA,0,Villanova,Villanova,38
+2009-10,2009-12-13,918746,198,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,23,-4,1644,Temple,1568,368,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,38
+2009-10,2009-12-13,918746,201,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,26,-7,1676,Villanova,1524,324,44, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,17.05,398051,NA,NA,0,Villanova,Temple,39
+2009-10,2009-12-13,918746,202,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,28,-9,1676,Villanova,1504,304,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331131,NA,NA,0,Villanova,Temple,40
+2009-10,2009-12-13,918746,203,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,28,-9,1644,Temple,1483,283,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,22.849999999999994,514899,NA,NA,0,Temple,Temple,41
+2009-10,2009-12-13,918746,204,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,28,-9,1676,Villanova,1483,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,41
+2009-10,2009-12-13,918746,206,0,1,Temple,Villanova,Owls,Wildcats,3,4,19,31,-12,1676,Villanova,1478,278,5, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,17,26.95,331131,NA,NA,0,Villanova,Temple,42
+2009-10,2009-12-13,918746,208,0,1,Temple,Villanova,Owls,Wildcats,2,4,19,31,-12,1644,Temple,1477,277,1,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,211,0,1,Temple,Villanova,Owls,Wildcats,2,4,19,33,-14,1676,Villanova,1470,270,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,Temple,43
+2009-10,2009-12-13,918746,217,0,1,Temple,Villanova,Owls,Wildcats,1,4,19,33,-14,1644,Temple,1466,266,4,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,220,0,1,Temple,Villanova,Owls,Wildcats,1,4,19,33,-14,1676,Villanova,1458,258,8,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,44
+2009-10,2009-12-13,918746,221,0,1,Temple,Villanova,Owls,Wildcats,1,4,20,33,-13,1644,Temple,1458,258,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,44
+2009-10,2009-12-13,918746,222,0,1,Temple,Villanova,Owls,Wildcats,1,4,21,33,-12,1644,Temple,1458,258,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,44
+2009-10,2009-12-13,918746,224,0,1,Temple,Villanova,Owls,Wildcats,1,4,21,35,-14,1676,Villanova,1450,250,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331129,NA,NA,0,Villanova,Temple,45
+2009-10,2009-12-13,918746,225,0,1,Temple,Villanova,Owls,Wildcats,1,4,23,35,-12,1644,Temple,1436,236,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402984,NA,NA,0,Temple,Villanova,46
+2009-10,2009-12-13,918746,226,0,1,Temple,Villanova,Owls,Wildcats,1,4,23,35,-12,1676,Villanova,1409,209,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,7.75,398427,NA,NA,0,Villanova,Villanova,47
+2009-10,2009-12-13,918746,227,0,1,Temple,Villanova,Owls,Wildcats,1,4,23,35,-12,1644,Temple,1409,209,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,47
+2009-10,2009-12-13,918746,231,0,1,Temple,Villanova,Owls,Wildcats,1,4,23,35,-12,1644,Temple,1387,187,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,14.200000000000003,24.75,353101,NA,NA,0,Temple,Temple,48
+2009-10,2009-12-13,918746,233,0,1,Temple,Villanova,Owls,Wildcats,1,4,23,35,-12,NA,NA,1387,187,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,237,0,1,Temple,Villanova,Owls,Wildcats,1,4,26,35,-9,1644,Temple,1355,155,32, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,28.5,28.25,489569,NA,NA,0,Temple,Villanova,48
+2009-10,2009-12-13,918746,241,0,1,Temple,Villanova,Owls,Wildcats,1,4,26,35,-9,1644,Temple,1331,131,24,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,49
+2009-10,2009-12-13,918746,242,0,1,Temple,Villanova,Owls,Wildcats,1,4,26,36,-10,1676,Villanova,1331,131,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,49
+2009-10,2009-12-13,918746,243,0,1,Temple,Villanova,Owls,Wildcats,1,4,26,37,-11,1676,Villanova,1331,131,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,49
+2009-10,2009-12-13,918746,249,0,1,Temple,Villanova,Owls,Wildcats,1,4,29,37,-8,1644,Temple,1309,109,22, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.3,12.049999999999997,353101,NA,NA,0,Temple,Villanova,50
+2009-10,2009-12-13,918746,250,0,1,Temple,Villanova,Owls,Wildcats,1,4,29,37,-8,1676,Villanova,1274,74,35, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,14.35,398049,NA,NA,0,Villanova,Villanova,51
+2009-10,2009-12-13,918746,251,0,1,Temple,Villanova,Owls,Wildcats,1,4,29,37,-8,1644,Temple,1274,74,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,51
+2009-10,2009-12-13,918746,253,0,1,Temple,Villanova,Owls,Wildcats,1,3,29,37,-8,1676,Villanova,1263,63,11,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,255,0,1,Temple,Villanova,Owls,Wildcats,1,3,31,37,-6,1644,Temple,1236,36,27, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,514901,NA,NA,0,Temple,Villanova,52
+2009-10,2009-12-13,918746,257,0,1,Temple,Villanova,Owls,Wildcats,1,3,31,37,-6,1644,Temple,1203,3,33, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,32.8,29.25,489569,NA,NA,0,Temple,Villanova,53
+2009-10,2009-12-13,918746,260,0,1,Temple,Villanova,Owls,Wildcats,1,3,31,37,-6,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,263,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Villanova,54
+2009-10,2009-12-13,918746,268,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1187,1187,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,24.75,398049,NA,NA,0,Villanova,Villanova,55
+2009-10,2009-12-13,918746,269,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1644,Temple,1187,1187,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,55
+2009-10,2009-12-13,918746,273,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1163,1163,24, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,35.7,17.85,398051,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,274,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1163,1163,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,275,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1158,1158,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467489,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,276,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1158,1158,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,281,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1154,1154,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331129,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,282,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1154,1154,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,56
+2009-10,2009-12-13,918746,302,0,2,Temple,Villanova,Owls,Wildcats,4,4,31,37,-6,1676,Villanova,1138,1138,16,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,56
+2009-10,2009-12-13,918746,304,0,2,Temple,Villanova,Owls,Wildcats,4,4,34,37,-3,1644,Temple,1124,1124,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.8,29.650000000000006,402985,NA,NA,0,Temple,Villanova,57
+2009-10,2009-12-13,918746,305,0,2,Temple,Villanova,Owls,Wildcats,4,4,34,37,-3,1676,Villanova,1094,1094,30, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,30.2,6.05,331129,NA,NA,0,Villanova,Villanova,58
+2009-10,2009-12-13,918746,306,0,2,Temple,Villanova,Owls,Wildcats,4,4,34,37,-3,1644,Temple,1094,1094,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,58
+2009-10,2009-12-13,918746,307,0,2,Temple,Villanova,Owls,Wildcats,4,4,36,37,-1,1644,Temple,1069,1069,25, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,37.7,11.049999999999997,489569,NA,NA,0,Temple,Villanova,59
+2009-10,2009-12-13,918746,308,0,2,Temple,Villanova,Owls,Wildcats,4,4,36,37,-1,1676,Villanova,1050,1050,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.699999999999999,16.05,331131,NA,NA,0,Villanova,Villanova,60
+2009-10,2009-12-13,918746,309,0,2,Temple,Villanova,Owls,Wildcats,4,4,36,37,-1,1644,Temple,1050,1050,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,60
+2009-10,2009-12-13,918746,311,0,2,Temple,Villanova,Owls,Wildcats,4,4,39,37,2,1644,Temple,1044,1044,6, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.7,21.150000000000006,489569,NA,NA,0,Temple,Villanova,61
+2009-10,2009-12-13,918746,313,0,2,Temple,Villanova,Owls,Wildcats,4,3,39,37,2,1676,Villanova,1042,1042,2,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,321,0,2,Temple,Villanova,Owls,Wildcats,4,3,39,37,2,1676,Villanova,1039,1039,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,9.2,19.15,398051,NA,NA,0,Villanova,Villanova,62
+2009-10,2009-12-13,918746,322,0,2,Temple,Villanova,Owls,Wildcats,4,3,39,37,2,1644,Temple,1039,1039,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,62
+2009-10,2009-12-13,918746,323,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,37,5,1644,Temple,1025,1025,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,29.3,28.450000000000003,402985,NA,NA,0,Temple,Villanova,63
+2009-10,2009-12-13,918746,324,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,37,5,1644,Temple,996,996,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.799999999999997,22.650000000000006,402985,NA,NA,0,Temple,Temple,64
+2009-10,2009-12-13,918746,325,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,37,5,1644,Temple,996,996,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,64
+2009-10,2009-12-13,918746,326,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,37,5,1644,Temple,984,984,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,23.650000000000006,353101,NA,NA,0,Temple,Temple,64
+2009-10,2009-12-13,918746,327,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,37,5,1676,Villanova,984,984,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,64
+2009-10,2009-12-13,918746,328,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,39,3,1676,Villanova,979,979,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,Temple,65
+2009-10,2009-12-13,918746,329,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1676,Villanova,946,946,33, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331131,NA,NA,0,Villanova,Temple,66
+2009-10,2009-12-13,918746,338,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1676,Villanova,921,921,25,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,67
+2009-10,2009-12-13,918746,339,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,NA,NA,921,921,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,342,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1644,Temple,915,915,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.200000000000003,14.349999999999994,402985,NA,NA,0,Temple,Temple,67
+2009-10,2009-12-13,918746,343,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1644,Temple,915,915,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,67
+2009-10,2009-12-13,918746,344,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1644,Temple,913,913,2, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,25.2,8.75,402984,NA,NA,0,Temple,Temple,67
+2009-10,2009-12-13,918746,345,0,2,Temple,Villanova,Owls,Wildcats,4,3,42,41,1,1676,Villanova,913,913,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,67
+2009-10,2009-12-13,918746,353,0,2,Temple,Villanova,Owls,Wildcats,4,3,45,41,4,1644,Temple,904,904,9, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.799999999999997,24.25,489569,NA,NA,0,Temple,Villanova,68
+2009-10,2009-12-13,918746,354,0,2,Temple,Villanova,Owls,Wildcats,4,3,45,44,1,1676,Villanova,883,883,21, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.3,14.35,398049,NA,NA,0,Villanova,Temple,69
+2009-10,2009-12-13,918746,355,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1644,Temple,858,858,25, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402984,NA,NA,0,Temple,Villanova,70
+2009-10,2009-12-13,918746,356,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1676,Villanova,834,834,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,12.05,398049,NA,NA,0,Villanova,Villanova,71
+2009-10,2009-12-13,918746,357,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1644,Temple,834,834,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,71
+2009-10,2009-12-13,918746,358,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1644,Temple,811,811,23, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,19,19.75,489569,NA,NA,0,Temple,Temple,72
+2009-10,2009-12-13,918746,359,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1676,Villanova,811,811,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,72
+2009-10,2009-12-13,918746,361,0,2,Temple,Villanova,Owls,Wildcats,4,3,47,44,3,1676,Villanova,803,803,8,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,73
+2009-10,2009-12-13,918746,374,0,2,Temple,Villanova,Owls,Wildcats,4,3,49,44,5,1644,Temple,787,787,16, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,38.5,6.75,353101,NA,NA,0,Temple,Villanova,74
+2009-10,2009-12-13,918746,381,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1676,Villanova,775,775,12,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,387,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1676,Villanova,763,763,12, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29,10.05,331129,NA,NA,0,Villanova,Villanova,75
+2009-10,2009-12-13,918746,388,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1644,Temple,763,763,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,75
+2009-10,2009-12-13,918746,389,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1644,Temple,736,736,27, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,24.8,12.950000000000003,402984,NA,NA,0,Temple,Temple,76
+2009-10,2009-12-13,918746,390,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1676,Villanova,736,736,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,76
+2009-10,2009-12-13,918746,394,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,44,5,1644,Temple,727,727,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,77
+2009-10,2009-12-13,918746,396,0,2,Temple,Villanova,Owls,Wildcats,4,2,49,47,2,1676,Villanova,717,717,10, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.8,22.85,331131,NA,NA,0,Villanova,Temple,77
+2009-10,2009-12-13,918746,398,0,2,Temple,Villanova,Owls,Wildcats,4,2,51,47,4,1644,Temple,699,699,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402984,NA,NA,0,Temple,Villanova,78
+2009-10,2009-12-13,918746,400,0,2,Temple,Villanova,Owls,Wildcats,4,2,51,47,4,1644,Temple,676,676,23,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,79
+2009-10,2009-12-13,918746,401,0,2,Temple,Villanova,Owls,Wildcats,4,2,51,47,4,NA,NA,676,676,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,407,0,2,Temple,Villanova,Owls,Wildcats,4,2,51,48,3,1676,Villanova,676,676,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,79
+2009-10,2009-12-13,918746,408,0,2,Temple,Villanova,Owls,Wildcats,4,2,51,49,2,1676,Villanova,676,676,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,79
+2009-10,2009-12-13,918746,410,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1644,Temple,645,645,31, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,25.5,26.349999999999994,353101,NA,NA,0,Temple,Villanova,80
+2009-10,2009-12-13,918746,411,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1676,Villanova,623,623,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,11.85,398427,NA,NA,0,Villanova,Villanova,81
+2009-10,2009-12-13,918746,412,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1676,Villanova,623,623,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,81
+2009-10,2009-12-13,918746,413,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1676,Villanova,603,603,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,9.85,513561,NA,NA,0,Villanova,Villanova,81
+2009-10,2009-12-13,918746,414,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1644,Temple,603,603,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,81
+2009-10,2009-12-13,918746,419,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,49,4,1644,Temple,588,588,15,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,82
+2009-10,2009-12-13,918746,422,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,51,2,1676,Villanova,583,583,5, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,331129,NA,NA,0,Villanova,Temple,83
+2009-10,2009-12-13,918746,427,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,51,2,1676,Villanova,561,561,22,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,84
+2009-10,2009-12-13,918746,431,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,51,2,1644,Temple,547,547,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,8.950000000000003,353101,NA,NA,0,Temple,Temple,84
+2009-10,2009-12-13,918746,432,0,2,Temple,Villanova,Owls,Wildcats,4,2,53,51,2,1644,Temple,547,547,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,84
+2009-10,2009-12-13,918746,433,0,2,Temple,Villanova,Owls,Wildcats,4,2,56,51,5,1644,Temple,529,529,18, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.799999999999997,22.849999999999994,353101,NA,NA,0,Temple,Villanova,84
+2009-10,2009-12-13,918746,434,0,2,Temple,Villanova,Owls,Wildcats,4,2,56,53,3,1676,Villanova,495,495,34, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,331129,NA,NA,0,Villanova,Temple,85
+2009-10,2009-12-13,918746,443,0,2,Temple,Villanova,Owls,Wildcats,4,2,59,53,6,1644,Temple,467,467,28, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.3,20.150000000000006,489569,NA,NA,0,Temple,Villanova,86
+2009-10,2009-12-13,918746,444,0,2,Temple,Villanova,Owls,Wildcats,4,2,59,55,4,1676,Villanova,445,445,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331131,NA,NA,0,Villanova,Temple,87
+2009-10,2009-12-13,918746,445,0,2,Temple,Villanova,Owls,Wildcats,4,2,61,55,6,1644,Temple,428,428,17, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.7,7.75,489569,NA,NA,0,Temple,Villanova,88
+2009-10,2009-12-13,918746,446,0,2,Temple,Villanova,Owls,Wildcats,4,2,61,57,4,1676,Villanova,405,405,23, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,23.5,20.55,331131,NA,NA,0,Villanova,Temple,89
+2009-10,2009-12-13,918746,447,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,57,6,1644,Temple,378,378,27, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.8,6.75,353101,NA,NA,0,Temple,Villanova,90
+2009-10,2009-12-13,918746,448,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,57,6,1676,Villanova,350,350,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,6.65,331129,NA,NA,0,Villanova,Villanova,91
+2009-10,2009-12-13,918746,449,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,57,6,1644,Temple,350,350,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,91
+2009-10,2009-12-13,918746,450,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,57,6,1644,Temple,313,313,37, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,6.450000000000003,402984,NA,NA,0,Temple,Temple,92
+2009-10,2009-12-13,918746,451,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,57,6,1676,Villanova,313,313,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,92
+2009-10,2009-12-13,918746,452,0,2,Temple,Villanova,Owls,Wildcats,4,2,63,59,4,1676,Villanova,309,309,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331131,NA,NA,0,Villanova,Temple,93
+2009-10,2009-12-13,918746,454,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,59,4,1644,Temple,292,292,17,Owls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,464,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,59,4,1644,Temple,272,272,20, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12.799999999999997,16.450000000000003,353101,NA,NA,0,Temple,Temple,94
+2009-10,2009-12-13,918746,465,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,59,4,1676,Villanova,272,272,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,94
+2009-10,2009-12-13,918746,466,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,61,2,1676,Villanova,267,267,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398049,NA,NA,0,Villanova,Temple,95
+2009-10,2009-12-13,918746,468,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,61,2,NA,NA,242,242,25,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,473,0,2,Temple,Villanova,Owls,Wildcats,3,2,63,61,2,NA,NA,223,223,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,475,0,2,Temple,Villanova,Owls,Wildcats,3,2,66,61,5,1644,Temple,205,205,18, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.5,11.650000000000006,489569,NA,NA,0,Temple,Villanova,96
+2009-10,2009-12-13,918746,477,0,2,Temple,Villanova,Owls,Wildcats,3,2,66,61,5,1644,Temple,187,187,18,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,97
+2009-10,2009-12-13,918746,478,0,2,Temple,Villanova,Owls,Wildcats,3,2,66,62,4,1676,Villanova,187,187,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,97
+2009-10,2009-12-13,918746,479,0,2,Temple,Villanova,Owls,Wildcats,3,2,66,63,3,1676,Villanova,187,187,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,97
+2009-10,2009-12-13,918746,484,0,2,Temple,Villanova,Owls,Wildcats,3,2,68,63,5,1644,Temple,153,153,34, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,27.7,12.049999999999997,353101,NA,NA,0,Temple,Villanova,98
+2009-10,2009-12-13,918746,485,0,2,Temple,Villanova,Owls,Wildcats,3,2,68,63,5,1676,Villanova,129,129,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,29.65,331131,NA,NA,0,Villanova,Villanova,99
+2009-10,2009-12-13,918746,486,0,2,Temple,Villanova,Owls,Wildcats,3,2,68,63,5,1644,Temple,129,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,99
+2009-10,2009-12-13,918746,488,0,2,Temple,Villanova,Owls,Wildcats,3,2,70,63,7,1644,Temple,97,97,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,353101,NA,NA,0,Temple,Villanova,100
+2009-10,2009-12-13,918746,489,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,95,95,2,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,497,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,80,80,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331131,NA,NA,0,Villanova,Villanova,101
+2009-10,2009-12-13,918746,498,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,80,80,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,101
+2009-10,2009-12-13,918746,499,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,77,77,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331129,NA,NA,0,Villanova,Villanova,101
+2009-10,2009-12-13,918746,500,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1644,Temple,77,77,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,101
+2009-10,2009-12-13,918746,504,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,74,74,3,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,102
+2009-10,2009-12-13,918746,508,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,73,73,1,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,102
+2009-10,2009-12-13,918746,511,0,2,Temple,Villanova,Owls,Wildcats,3,1,70,63,7,1676,Villanova,71,71,2,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,102
+2009-10,2009-12-13,918746,512,0,2,Temple,Villanova,Owls,Wildcats,3,1,71,63,8,1644,Temple,71,71,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,102
+2009-10,2009-12-13,918746,513,0,2,Temple,Villanova,Owls,Wildcats,3,1,71,63,8,1644,Temple,71,71,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,103
+2009-10,2009-12-13,918746,514,0,2,Temple,Villanova,Owls,Wildcats,3,1,71,63,8,1676,Villanova,71,71,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,103
+2009-10,2009-12-13,918746,517,0,2,Temple,Villanova,Owls,Wildcats,3,1,71,65,6,1676,Villanova,54,54,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331129,NA,NA,0,Villanova,Temple,104
+2009-10,2009-12-13,918746,527,0,2,Temple,Villanova,Owls,Wildcats,2,1,71,65,6,1644,Temple,50,50,4,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,535,0,2,Temple,Villanova,Owls,Wildcats,2,1,71,65,6,1676,Villanova,44,44,6,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,105
+2009-10,2009-12-13,918746,536,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1644,Temple,44,44,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,105
+2009-10,2009-12-13,918746,537,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1644,Temple,44,44,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,106
+2009-10,2009-12-13,918746,538,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1676,Villanova,44,44,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,106
+2009-10,2009-12-13,918746,540,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1676,Villanova,36,36,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,28.65,398049,NA,NA,0,Villanova,Villanova,107
+2009-10,2009-12-13,918746,541,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1676,Villanova,36,36,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,107
+2009-10,2009-12-13,918746,543,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1676,Villanova,24,24,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,14.15,398049,NA,NA,0,Villanova,Villanova,107
+2009-10,2009-12-13,918746,544,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1644,Temple,24,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,107
+2009-10,2009-12-13,918746,565,0,2,Temple,Villanova,Owls,Wildcats,2,1,72,65,7,1676,Villanova,24,24,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,108
+2009-10,2009-12-13,918746,566,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1644,Temple,24,24,0,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,567,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1644,Temple,24,24,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,108
+2009-10,2009-12-13,918746,568,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1676,Villanova,24,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,108
+2009-10,2009-12-13,918746,570,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1676,Villanova,20,20,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,27.85,331131,NA,NA,0,Villanova,Villanova,109
+2009-10,2009-12-13,918746,571,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1644,Temple,20,20,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,109
+2009-10,2009-12-13,918746,586,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1676,Villanova,15,15,5,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,110
+2009-10,2009-12-13,918746,587,0,2,Temple,Villanova,Owls,Wildcats,1,1,72,65,7,1644,Temple,15,15,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,110
+2009-10,2009-12-13,918746,589,0,2,Temple,Villanova,Owls,Wildcats,1,1,73,65,8,1644,Temple,15,15,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,110
+2009-10,2009-12-13,918746,592,0,2,Temple,Villanova,Owls,Wildcats,1,1,73,65,8,1676,Villanova,11,11,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.25,398049,NA,NA,0,Villanova,Villanova,111
+2009-10,2009-12-13,918746,593,0,2,Temple,Villanova,Owls,Wildcats,1,1,73,65,8,1644,Temple,11,11,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Temple,111
+2009-10,2009-12-13,918746,594,0,2,Temple,Villanova,Owls,Wildcats,1,1,73,65,8,1676,Villanova,8,8,3,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,112
+2009-10,2009-12-13,918746,595,0,2,Temple,Villanova,Owls,Wildcats,1,1,74,65,9,1644,Temple,8,8,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,112
+2009-10,2009-12-13,918746,596,0,2,Temple,Villanova,Owls,Wildcats,1,1,75,65,10,1644,Temple,8,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Villanova,112
+2009-10,2009-12-13,918746,599,0,2,Temple,Villanova,Owls,Wildcats,1,1,75,65,10,1676,Villanova,2,2,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,28.05,398049,NA,NA,0,Villanova,NA,113
+2009-10,2009-12-13,918746,602,0,2,Temple,Villanova,Owls,Wildcats,1,1,75,65,10,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-13,918746,603,0,2,Temple,Villanova,Owls,Wildcats,1,1,75,65,10,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Villanova,Villanova,NA

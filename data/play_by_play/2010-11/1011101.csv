@@ -1,0 +1,262 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-18,1011101,1,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UIC,NA
+2010-11,2010-12-18,1011101,3,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,0,0,0,1444,UIC,2373,1173,27, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,20.549999999999997,464298,NA,NA,0,UIC,UIC,1
+2010-11,2010-12-18,1011101,4,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,0,0,0,1443,Illinois,2373,1173,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,1
+2010-11,2010-12-18,1011101,6,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,0,0,0,1443,Illinois,2355,1155,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33,19.25,402992,NA,NA,0,Illinois,Illinois,2
+2010-11,2010-12-18,1011101,6.5,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,0,0,0,1444,UIC,2355,1155,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,2
+2010-11,2010-12-18,1011101,7,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,3,0,3,1444,UIC,2327,1127,28, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38,24.549999999999997,410866,NA,NA,0,UIC,Illinois,3
+2010-11,2010-12-18,1011101,8,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,3,0,3,1443,Illinois,2308,1108,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,14.35,402993,NA,NA,0,Illinois,Illinois,4
+2010-11,2010-12-18,1011101,9,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,3,0,3,1444,UIC,2308,1108,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,4
+2010-11,2010-12-18,1011101,10,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,5,0,5,1444,UIC,2298,1098,10, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,33.8,16.650000000000006,562014,NA,NA,0,UIC,Illinois,5
+2010-11,2010-12-18,1011101,11,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,5,0,5,1443,Illinois,2288,1088,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.8,26.75,402992,NA,NA,0,Illinois,Illinois,6
+2010-11,2010-12-18,1011101,12,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,5,0,5,1444,UIC,2288,1088,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,6
+2010-11,2010-12-18,1011101,14,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,5,0,5,1443,Illinois,2274,1074,14,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,7
+2010-11,2010-12-18,1011101,21,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,5,2,3,1443,Illinois,2264,1064,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402992,NA,NA,0,Illinois,UIC,7
+2010-11,2010-12-18,1011101,22,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,8,2,6,1444,UIC,2247,1047,17, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,28.5,30.950000000000003,410866,NA,NA,0,UIC,Illinois,8
+2010-11,2010-12-18,1011101,23,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,11,2,9,1444,UIC,2185,985,62, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,29.2,30.25,464858,NA,NA,0,UIC,Illinois,9
+2010-11,2010-12-18,1011101,24,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,11,5,6,1443,Illinois,2160,960,25, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26.3,29.05,402991,NA,NA,0,Illinois,UIC,10
+2010-11,2010-12-18,1011101,25,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,5,9,1444,UIC,2135,935,25, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,17.799999999999997,28.450000000000003,410866,NA,NA,0,UIC,Illinois,11
+2010-11,2010-12-18,1011101,27,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,5,9,1443,Illinois,2115,915,20, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,9.65,402988,NA,NA,0,Illinois,Illinois,12
+2010-11,2010-12-18,1011101,28,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,5,9,1443,Illinois,2115,915,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,12
+2010-11,2010-12-18,1011101,30,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,5,9,1444,UIC,2113,913,2,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,12
+2010-11,2010-12-18,1011101,31,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,5,9,NA,NA,2113,913,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,36,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,6,8,1443,Illinois,2113,913,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,12
+2010-11,2010-12-18,1011101,37,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2113,913,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,12
+2010-11,2010-12-18,1011101,39,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2096,896,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,19,16.450000000000003,562014,NA,NA,0,UIC,UIC,13
+2010-11,2010-12-18,1011101,40,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2096,896,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,13
+2010-11,2010-12-18,1011101,41,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2088,888,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.5,28.25,402993,NA,NA,0,Illinois,Illinois,14
+2010-11,2010-12-18,1011101,42,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2088,888,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,14
+2010-11,2010-12-18,1011101,43,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2063,863,25, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,9.650000000000006,562014,NA,NA,0,UIC,UIC,15
+2010-11,2010-12-18,1011101,44,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2063,863,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,15
+2010-11,2010-12-18,1011101,46,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2054,854,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,37,26.15,402992,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,47,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2054,854,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,48,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2054,854,0,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,52,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2051,851,3, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,6.5,7.15,550134,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,53,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2051,851,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,55,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2050,850,1,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,16
+2010-11,2010-12-18,1011101,58,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2045,845,5,Offensive foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,16
+2010-11,2010-12-18,1011101,60,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2028,828,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.349999999999994,410866,NA,NA,0,UIC,UIC,17
+2010-11,2010-12-18,1011101,61,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2028,828,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,17
+2010-11,2010-12-18,1011101,63,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2021,821,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.5,29.849999999999994,410866,NA,NA,0,UIC,UIC,17
+2010-11,2010-12-18,1011101,64,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2021,821,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,17
+2010-11,2010-12-18,1011101,65,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2018,818,3,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,17
+2010-11,2010-12-18,1011101,70,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1444,UIC,2007,807,11,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,17
+2010-11,2010-12-18,1011101,71,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,7,7,1443,Illinois,2007,807,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,17
+2010-11,2010-12-18,1011101,73,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,2007,807,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,17
+2010-11,2010-12-18,1011101,75,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1444,UIC,1998,798,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,523960,NA,NA,0,UIC,UIC,18
+2010-11,2010-12-18,1011101,76,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,1998,798,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,18
+2010-11,2010-12-18,1011101,77,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,1987,787,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,19.75,511630,NA,NA,0,Illinois,Illinois,19
+2010-11,2010-12-18,1011101,78,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1444,UIC,1987,787,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,19
+2010-11,2010-12-18,1011101,79,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1444,UIC,1939,739,48, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,22.450000000000003,464858,NA,NA,0,UIC,UIC,20
+2010-11,2010-12-18,1011101,80,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,1939,739,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,20
+2010-11,2010-12-18,1011101,86,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,1921,721,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402992,NA,NA,0,Illinois,Illinois,21
+2010-11,2010-12-18,1011101,87,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1444,UIC,1921,721,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,21
+2010-11,2010-12-18,1011101,89,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,1443,Illinois,1909,709,12,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,22
+2010-11,2010-12-18,1011101,90,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,14,8,6,NA,NA,1909,709,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,94,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,16,8,8,1444,UIC,1890,690,19, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,32.3,6.650000000000006,340832,NA,NA,0,UIC,Illinois,22
+2010-11,2010-12-18,1011101,95,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,16,8,8,1443,Illinois,1863,663,27, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,6.75,550134,NA,NA,0,Illinois,Illinois,23
+2010-11,2010-12-18,1011101,96,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,16,8,8,1444,UIC,1863,663,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,23
+2010-11,2010-12-18,1011101,97,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,18,8,10,1444,UIC,1854,654,9, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31.8,10.650000000000006,340832,NA,NA,0,UIC,Illinois,24
+2010-11,2010-12-18,1011101,102,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,18,10,8,1443,Illinois,1787,587,67, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31.8,19.55,402993,NA,NA,0,Illinois,UIC,25
+2010-11,2010-12-18,1011101,103,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,18,12,6,1443,Illinois,1744,544,43, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,511632,NA,NA,0,Illinois,UIC,26
+2010-11,2010-12-18,1011101,106,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,18,12,6,1444,UIC,1729,529,15, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,11.25,464298,NA,NA,0,UIC,UIC,27
+2010-11,2010-12-18,1011101,107,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,18,12,6,1444,UIC,1729,529,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,27
+2010-11,2010-12-18,1011101,108,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,12,8,1444,UIC,1721,521,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464298,NA,NA,0,UIC,Illinois,27
+2010-11,2010-12-18,1011101,112,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1443,Illinois,1711,511,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402988,NA,NA,0,Illinois,Illinois,28
+2010-11,2010-12-18,1011101,113,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1444,UIC,1711,511,0,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,28
+2010-11,2010-12-18,1011101,114,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1443,Illinois,1711,511,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,28
+2010-11,2010-12-18,1011101,115,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1444,UIC,1711,511,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,28
+2010-11,2010-12-18,1011101,124,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1444,UIC,1680,480,31,Offensive foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,29
+2010-11,2010-12-18,1011101,129,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,1443,Illinois,1664,464,16,Offensive foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,30
+2010-11,2010-12-18,1011101,130,0,1,UIC,Illinois,Flames,Fighting Illini,4,4,20,14,6,NA,NA,1664,464,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,142,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,14,6,1443,Illinois,1655,455,9,Fighting Illini take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,149,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1625,425,30, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,36.3,25.75,402992,NA,NA,0,Illinois,UIC,31
+2010-11,2010-12-18,1011101,150,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1444,UIC,1601,401,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,25.349999999999994,523962,NA,NA,0,UIC,UIC,32
+2010-11,2010-12-18,1011101,151,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1601,401,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,32
+2010-11,2010-12-18,1011101,152,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1592,392,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,23.05,550134,NA,NA,0,Illinois,Illinois,33
+2010-11,2010-12-18,1011101,153,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1444,UIC,1592,392,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,33
+2010-11,2010-12-18,1011101,154,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1444,UIC,1581,381,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8,9.349999999999994,523960,NA,NA,0,UIC,UIC,34
+2010-11,2010-12-18,1011101,155,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1581,381,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,34
+2010-11,2010-12-18,1011101,170,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1538,338,43, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,550134,NA,NA,0,Illinois,Illinois,35
+2010-11,2010-12-18,1011101,171,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,20,17,3,1443,Illinois,1538,338,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,35
+2010-11,2010-12-18,1011101,177,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,22,17,5,1444,UIC,1528,328,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464298,NA,NA,0,UIC,Illinois,35
+2010-11,2010-12-18,1011101,178,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,22,17,5,1443,Illinois,1528,328,0,Offensive foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,36
+2010-11,2010-12-18,1011101,179,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,22,17,5,1444,UIC,1528,328,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,37
+2010-11,2010-12-18,1011101,184,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,22,19,3,1443,Illinois,1506,306,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,550134,NA,NA,0,Illinois,UIC,38
+2010-11,2010-12-18,1011101,185,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,19,5,1444,UIC,1476,276,30, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13.200000000000003,11.450000000000003,464298,NA,NA,0,UIC,Illinois,39
+2010-11,2010-12-18,1011101,186,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,19,5,1444,UIC,1450,250,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45,12.25,464298,NA,NA,0,UIC,UIC,40
+2010-11,2010-12-18,1011101,187,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,19,5,1443,Illinois,1450,250,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,40
+2010-11,2010-12-18,1011101,188,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,21,3,1443,Illinois,1444,244,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511632,NA,NA,0,Illinois,UIC,41
+2010-11,2010-12-18,1011101,190,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,21,3,1444,UIC,1429,229,15, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,7.349999999999994,464298,NA,NA,0,UIC,UIC,42
+2010-11,2010-12-18,1011101,191,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,21,3,1443,Illinois,1429,229,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,42
+2010-11,2010-12-18,1011101,194,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,23,1,1443,Illinois,1421,221,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511632,NA,NA,0,Illinois,Illinois,43
+2010-11,2010-12-18,1011101,195,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,23,1,1444,UIC,1421,221,0,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,43
+2010-11,2010-12-18,1011101,196,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,23,1,NA,NA,1421,221,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,197,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,23,1,1443,Illinois,1421,221,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,43
+2010-11,2010-12-18,1011101,198,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,24,23,1,1444,UIC,1421,221,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,43
+2010-11,2010-12-18,1011101,211,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,23,3,1444,UIC,1403,203,18, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,24.7,15.549999999999997,464858,NA,NA,0,UIC,Illinois,44
+2010-11,2010-12-18,1011101,219,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,23,3,1443,Illinois,1387,187,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.7,25.55,511632,NA,NA,0,Illinois,Illinois,45
+2010-11,2010-12-18,1011101,220,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,23,3,1443,Illinois,1387,187,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,45
+2010-11,2010-12-18,1011101,223,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,23,3,1443,Illinois,1381,181,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,550134,NA,NA,0,Illinois,Illinois,45
+2010-11,2010-12-18,1011101,227,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,23,3,1444,UIC,1380,180,1,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,45
+2010-11,2010-12-18,1011101,228,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,24,2,1443,Illinois,1380,180,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,45
+2010-11,2010-12-18,1011101,229,0,1,UIC,Illinois,Flames,Fighting Illini,4,3,26,25,1,1443,Illinois,1380,180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,45
+2010-11,2010-12-18,1011101,230,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1444,UIC,1380,180,0,Flames take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,235,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1443,Illinois,1364,164,16,Shooting foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,46
+2010-11,2010-12-18,1011101,236,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1444,UIC,1364,164,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,46
+2010-11,2010-12-18,1011101,238,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1444,UIC,1364,164,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,46
+2010-11,2010-12-18,1011101,239,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1443,Illinois,1364,164,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,46
+2010-11,2010-12-18,1011101,245,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1444,UIC,1344,144,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410866,NA,NA,0,UIC,UIC,47
+2010-11,2010-12-18,1011101,246,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1443,Illinois,1344,144,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,47
+2010-11,2010-12-18,1011101,249,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1444,UIC,1317,117,27,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,48
+2010-11,2010-12-18,1011101,250,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,25,1,1443,Illinois,1317,117,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,48
+2010-11,2010-12-18,1011101,252,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1443,Illinois,1317,117,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,48
+2010-11,2010-12-18,1011101,254,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1444,UIC,1301,101,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.799999999999997,21.650000000000006,410866,NA,NA,0,UIC,UIC,49
+2010-11,2010-12-18,1011101,255,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1443,Illinois,1301,101,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,49
+2010-11,2010-12-18,1011101,256,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1443,Illinois,1279,79,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,21.45,511630,NA,NA,0,Illinois,Illinois,50
+2010-11,2010-12-18,1011101,257,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1444,UIC,1279,79,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,50
+2010-11,2010-12-18,1011101,258,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1443,Illinois,1245,45,34, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,16.25,511632,NA,NA,0,Illinois,Illinois,51
+2010-11,2010-12-18,1011101,259,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1444,UIC,1245,45,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,51
+2010-11,2010-12-18,1011101,263,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1444,UIC,1216,16,29, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,16.200000000000003,21.450000000000003,464858,NA,NA,0,UIC,UIC,52
+2010-11,2010-12-18,1011101,264,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,26,26,0,1444,UIC,1216,16,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,52
+2010-11,2010-12-18,1011101,266.5,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,26,2,1444,UIC,1205,5,11, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,523960,NA,NA,0,UIC,Illinois,52
+2010-11,2010-12-18,1011101,268,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,26,2,1444,UIC,1202,2,3,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,53
+2010-11,2010-12-18,1011101,269,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,27,1,1443,Illinois,1202,2,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,53
+2010-11,2010-12-18,1011101,270,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,28,0,1443,Illinois,1202,2,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,53
+2010-11,2010-12-18,1011101,273,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,28,0,1444,UIC,1201,1,1, misses a 3-point jump shot from 32 feet out.,missed,FALSE,TRUE,Jump Shot,31.8,36.05,410866,NA,NA,0,UIC,Illinois,54
+2010-11,2010-12-18,1011101,276,0,1,UIC,Illinois,Flames,Fighting Illini,3,3,28,28,0,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,285,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,28,28,0,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Illinois,55
+2010-11,2010-12-18,1011101,287,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,28,28,0,1443,Illinois,1184,1184,16, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,7.55,402993,NA,NA,0,Illinois,Illinois,56
+2010-11,2010-12-18,1011101,288,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,28,28,0,1444,UIC,1184,1184,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,56
+2010-11,2010-12-18,1011101,289,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,28,3,1444,UIC,1159,1159,25, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13.5,26.75,464858,NA,NA,0,UIC,Illinois,57
+2010-11,2010-12-18,1011101,290,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,28,3,1443,Illinois,1149,1149,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511632,NA,NA,0,Illinois,Illinois,58
+2010-11,2010-12-18,1011101,291,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,28,3,1444,UIC,1149,1149,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,58
+2010-11,2010-12-18,1011101,299,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,30,1,1443,Illinois,1110,1110,39, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,22.3,21.15,402992,NA,NA,0,Illinois,UIC,59
+2010-11,2010-12-18,1011101,301,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,30,1,1444,UIC,1101,1101,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,12.450000000000003,464858,NA,NA,0,UIC,UIC,60
+2010-11,2010-12-18,1011101,302,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,30,1,1444,UIC,1101,1101,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,60
+2010-11,2010-12-18,1011101,304,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,30,1,1444,UIC,1094,1094,7, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,11.450000000000003,523960,NA,NA,0,UIC,UIC,60
+2010-11,2010-12-18,1011101,305,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,31,30,1,1444,UIC,1094,1094,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,60
+2010-11,2010-12-18,1011101,319,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,33,30,3,1444,UIC,1067,1067,27, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,562014,NA,NA,0,UIC,Illinois,60
+2010-11,2010-12-18,1011101,321,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,33,30,3,1443,Illinois,1054,1054,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,20.5,27.85,402991,NA,NA,0,Illinois,Illinois,61
+2010-11,2010-12-18,1011101,322,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,33,30,3,1443,Illinois,1054,1054,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,61
+2010-11,2010-12-18,1011101,326,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,33,30,3,1444,UIC,1022,1022,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464858,NA,NA,0,UIC,UIC,61
+2010-11,2010-12-18,1011101,327,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,33,30,3,1444,UIC,1022,1022,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,61
+2010-11,2010-12-18,1011101,328,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1444,UIC,1018,1018,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,24,6.950000000000003,562010,NA,NA,0,UIC,Illinois,61
+2010-11,2010-12-18,1011101,330,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1443,Illinois,1009,1009,9, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,402988,NA,NA,0,Illinois,Illinois,62
+2010-11,2010-12-18,1011101,331,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1444,UIC,1009,1009,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,62
+2010-11,2010-12-18,1011101,334,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1443,Illinois,990,990,19, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,22.45,402993,NA,NA,0,Illinois,Illinois,63
+2010-11,2010-12-18,1011101,335,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1443,Illinois,990,990,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,63
+2010-11,2010-12-18,1011101,337,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1444,UIC,988,988,2,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,63
+2010-11,2010-12-18,1011101,340,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1443,Illinois,979,979,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34,27.35,511632,NA,NA,0,Illinois,Illinois,63
+2010-11,2010-12-18,1011101,341,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,35,30,5,1444,UIC,979,979,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,63
+2010-11,2010-12-18,1011101,344,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,37,30,7,1444,UIC,972,972,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464858,NA,NA,0,UIC,UIC,64
+2010-11,2010-12-18,1011101,345,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,37,30,7,1443,Illinois,972,972,0,Shooting foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,64
+2010-11,2010-12-18,1011101,346,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,30,8,1444,UIC,972,972,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,64
+2010-11,2010-12-18,1011101,351,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,30,8,1444,UIC,959,959,13,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,65
+2010-11,2010-12-18,1011101,352,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,30,8,NA,NA,959,959,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,353,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,31,7,1443,Illinois,959,959,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,65
+2010-11,2010-12-18,1011101,354,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,32,6,1443,Illinois,959,959,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,65
+2010-11,2010-12-18,1011101,357,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,32,6,1443,Illinois,936,936,23,Shooting foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,66
+2010-11,2010-12-18,1011101,358,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,32,6,1444,UIC,936,936,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,66
+2010-11,2010-12-18,1011101,360,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,32,6,1444,UIC,936,936,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,66
+2010-11,2010-12-18,1011101,361,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,32,6,1443,Illinois,936,936,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,66
+2010-11,2010-12-18,1011101,365,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,919,919,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,550131,NA,NA,0,Illinois,UIC,67
+2010-11,2010-12-18,1011101,367,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,897,897,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,17.85,402988,NA,NA,0,Illinois,Illinois,68
+2010-11,2010-12-18,1011101,368,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1444,UIC,897,897,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,68
+2010-11,2010-12-18,1011101,369,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,887,887,10,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,69
+2010-11,2010-12-18,1011101,373,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,872,872,15,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,69
+2010-11,2010-12-18,1011101,375,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1444,UIC,855,855,17, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,33,18.049999999999997,410866,NA,NA,0,UIC,UIC,69
+2010-11,2010-12-18,1011101,376,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,855,855,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,69
+2010-11,2010-12-18,1011101,379,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1444,UIC,846,846,9,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,70
+2010-11,2010-12-18,1011101,381,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,827,827,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,14.15,550131,NA,NA,0,Illinois,Illinois,70
+2010-11,2010-12-18,1011101,382,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,827,827,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,70
+2010-11,2010-12-18,1011101,384,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,38,34,4,1443,Illinois,822,822,5,Shooting foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,70
+2010-11,2010-12-18,1011101,385,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,39,34,5,1444,UIC,822,822,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,70
+2010-11,2010-12-18,1011101,386,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,34,6,1444,UIC,822,822,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,70
+2010-11,2010-12-18,1011101,393,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,36,4,1443,Illinois,791,791,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511630,NA,NA,0,Illinois,Illinois,71
+2010-11,2010-12-18,1011101,394,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,36,4,1444,UIC,791,791,0,Shooting foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,71
+2010-11,2010-12-18,1011101,395,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1443,Illinois,791,791,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,71
+2010-11,2010-12-18,1011101,398,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1444,UIC,773,773,18,Offensive foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,72
+2010-11,2010-12-18,1011101,405,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1443,Illinois,726,726,47, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,30.05,511630,NA,NA,0,Illinois,Illinois,73
+2010-11,2010-12-18,1011101,406,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1444,UIC,726,726,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,73
+2010-11,2010-12-18,1011101,410,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,NA,NA,700,700,26,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,413,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1444,UIC,687,687,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31.3,28.25,464858,NA,NA,0,UIC,Illinois,74
+2010-11,2010-12-18,1011101,421,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1443,Illinois,670,670,17, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,6.45,402993,NA,NA,0,Illinois,Illinois,75
+2010-11,2010-12-18,1011101,422,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1444,UIC,670,670,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,75
+2010-11,2010-12-18,1011101,425,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1443,Illinois,668,668,2,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,76
+2010-11,2010-12-18,1011101,429,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,40,37,3,1443,Illinois,652,652,16,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,76
+2010-11,2010-12-18,1011101,430,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,37,4,1444,UIC,652,652,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,76
+2010-11,2010-12-18,1011101,431,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,37,4,1444,UIC,652,652,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,76
+2010-11,2010-12-18,1011101,432,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,37,4,1444,UIC,652,652,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,76
+2010-11,2010-12-18,1011101,436,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,40,1,1443,Illinois,636,636,16, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.8,25.15,402992,NA,NA,0,Illinois,UIC,76
+2010-11,2010-12-18,1011101,439,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,40,1,1444,UIC,603,603,33,Offensive foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,77
+2010-11,2010-12-18,1011101,449,0,2,UIC,Illinois,Flames,Fighting Illini,4,4,41,43,-2,1443,Illinois,587,587,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15,26.55,511632,NA,NA,0,Illinois,UIC,78
+2010-11,2010-12-18,1011101,452,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,43,-2,1444,UIC,579,579,8,Flames take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,454,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,43,-2,1444,UIC,558,558,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33,16.049999999999997,464858,NA,NA,0,UIC,UIC,79
+2010-11,2010-12-18,1011101,455,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,43,-2,1443,Illinois,558,558,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,79
+2010-11,2010-12-18,1011101,456,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,45,-4,1443,Illinois,548,548,10, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,550131,NA,NA,0,Illinois,UIC,80
+2010-11,2010-12-18,1011101,458,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,45,-4,1443,Illinois,530,530,18,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,81
+2010-11,2010-12-18,1011101,459,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,45,-4,1444,UIC,530,530,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,81
+2010-11,2010-12-18,1011101,460,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,45,-4,1443,Illinois,530,530,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,81
+2010-11,2010-12-18,1011101,464,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,47,-6,1443,Illinois,508,508,22, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,36.8,18.05,511632,NA,NA,0,Illinois,UIC,82
+2010-11,2010-12-18,1011101,468,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,47,-6,1443,Illinois,476,476,32, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40,22.05,511632,NA,NA,0,Illinois,Illinois,83
+2010-11,2010-12-18,1011101,469,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,47,-6,1443,Illinois,476,476,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,83
+2010-11,2010-12-18,1011101,470,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,1443,Illinois,451,451,25, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402991,NA,NA,0,Illinois,UIC,83
+2010-11,2010-12-18,1011101,471,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,1444,UIC,423,423,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,562010,NA,NA,0,UIC,UIC,84
+2010-11,2010-12-18,1011101,472,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,1443,Illinois,423,423,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,84
+2010-11,2010-12-18,1011101,474,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,NA,NA,386,386,37,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,486,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,1443,Illinois,355,355,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,27.45,511632,NA,NA,0,Illinois,Illinois,85
+2010-11,2010-12-18,1011101,487,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,41,49,-8,1444,UIC,355,355,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,85
+2010-11,2010-12-18,1011101,488,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,44,49,-5,1444,UIC,338,338,17, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.8,25.75,410866,NA,NA,0,UIC,Illinois,86
+2010-11,2010-12-18,1011101,489,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,44,51,-7,1443,Illinois,304,304,34, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,7.199999999999999,10.45,402991,NA,NA,0,Illinois,UIC,87
+2010-11,2010-12-18,1011101,490,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,46,51,-5,1444,UIC,272,272,32, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,562010,NA,NA,0,UIC,Illinois,88
+2010-11,2010-12-18,1011101,491,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,46,51,-5,1443,Illinois,245,245,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402991,NA,NA,0,Illinois,Illinois,89
+2010-11,2010-12-18,1011101,492,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,46,51,-5,1444,UIC,245,245,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,89
+2010-11,2010-12-18,1011101,496,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,46,51,-5,1443,Illinois,217,217,28,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,90
+2010-11,2010-12-18,1011101,497,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,46,51,-5,NA,NA,217,217,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,498,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,47,51,-4,1444,UIC,217,217,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,90
+2010-11,2010-12-18,1011101,499,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,48,51,-3,1444,UIC,217,217,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,90
+2010-11,2010-12-18,1011101,503,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,48,51,-3,1443,Illinois,195,195,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.3,14.35,402992,NA,NA,0,Illinois,Illinois,91
+2010-11,2010-12-18,1011101,504,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,48,51,-3,1444,UIC,195,195,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,91
+2010-11,2010-12-18,1011101,505,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,51,51,0,1444,UIC,171,171,24, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,9.5,21.150000000000006,464298,NA,NA,0,UIC,Illinois,92
+2010-11,2010-12-18,1011101,507,0,2,UIC,Illinois,Flames,Fighting Illini,3,4,51,51,0,1443,Illinois,145,145,26, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,14.55,402988,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,509,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,51,0,1443,Illinois,143,143,2,Fighting Illini take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,512,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,51,0,1443,Illinois,140,140,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511630,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,513,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,51,0,1443,Illinois,140,140,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,514,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,51,0,1444,UIC,139,139,1,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,515,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1443,Illinois,139,139,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,516,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1443,Illinois,139,139,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,93
+2010-11,2010-12-18,1011101,517,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1444,UIC,139,139,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,93
+2010-11,2010-12-18,1011101,527,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1443,Illinois,98,98,41, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,8.35,511630,NA,NA,0,Illinois,Illinois,94
+2010-11,2010-12-18,1011101,528,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1444,UIC,98,98,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,94
+2010-11,2010-12-18,1011101,530,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1444,UIC,75,75,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.200000000000003,27.450000000000003,410866,NA,NA,0,UIC,UIC,95
+2010-11,2010-12-18,1011101,531,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1444,UIC,75,75,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,95
+2010-11,2010-12-18,1011101,533,0,2,UIC,Illinois,Flames,Fighting Illini,3,3,51,52,-1,1443,Illinois,72,72,3,Shooting foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,95
+2010-11,2010-12-18,1011101,534,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,51,52,-1,1443,Illinois,72,72,0,Fighting Illini take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,535,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,52,52,0,1444,UIC,72,72,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,95
+2010-11,2010-12-18,1011101,536,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,53,52,1,1444,UIC,72,72,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,95
+2010-11,2010-12-18,1011101,539,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,53,52,1,1444,UIC,53,53,19,Personal foul committed by Flames.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,96
+2010-11,2010-12-18,1011101,540,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,53,53,0,1443,Illinois,53,53,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,96
+2010-11,2010-12-18,1011101,541,0,2,UIC,Illinois,Flames,Fighting Illini,3,2,53,54,-1,1443,Illinois,53,53,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,UIC,96
+2010-11,2010-12-18,1011101,546,0,2,UIC,Illinois,Flames,Fighting Illini,2,2,53,54,-1,1444,UIC,45,45,8,Flames take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,549,0,2,UIC,Illinois,Flames,Fighting Illini,2,2,53,54,-1,1444,UIC,24,24,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410866,NA,NA,0,UIC,UIC,97
+2010-11,2010-12-18,1011101,550,0,2,UIC,Illinois,Flames,Fighting Illini,2,2,53,54,-1,1444,UIC,24,24,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,97
+2010-11,2010-12-18,1011101,551,0,2,UIC,Illinois,Flames,Fighting Illini,2,2,55,54,1,1444,UIC,24,24,0, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.5,6.950000000000003,562014,NA,NA,0,UIC,Illinois,97
+2010-11,2010-12-18,1011101,557,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,18,18,6,Fighting Illini take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,568,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,12,12,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,26.35,511632,NA,NA,0,Illinois,Illinois,98
+2010-11,2010-12-18,1011101,569,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,12,12,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,98
+2010-11,2010-12-18,1011101,572,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,12,12,0, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,511630,NA,NA,0,Illinois,Illinois,98
+2010-11,2010-12-18,1011101,573,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,12,12,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,98
+2010-11,2010-12-18,1011101,577,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,8,8,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,24.35,402992,NA,NA,0,Illinois,UIC,98
+2010-11,2010-12-18,1011101,580,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,55,54,1,1443,Illinois,4,4,4,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,99
+2010-11,2010-12-18,1011101,581,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,56,54,2,1444,UIC,4,4,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,99
+2010-11,2010-12-18,1011101,582,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,56,54,2,1444,UIC,4,4,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,99
+2010-11,2010-12-18,1011101,583,0,2,UIC,Illinois,Flames,Fighting Illini,2,1,56,54,2,1443,Illinois,4,4,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,99
+2010-11,2010-12-18,1011101,590,0,2,UIC,Illinois,Flames,Fighting Illini,2,0,56,54,2,1443,Illinois,3,3,1,Fighting Illini take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,591,0,2,UIC,Illinois,Flames,Fighting Illini,1,0,56,54,2,1444,UIC,3,3,0,Flames take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,601,0,2,UIC,Illinois,Flames,Fighting Illini,1,0,56,54,2,1443,Illinois,1,1,2,Personal foul committed by Fighting Illini.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,100
+2010-11,2010-12-18,1011101,602,0,2,UIC,Illinois,Flames,Fighting Illini,1,0,56,54,2,1444,UIC,1,1,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,UIC,100
+2010-11,2010-12-18,1011101,604,0,2,UIC,Illinois,Flames,Fighting Illini,1,0,57,54,3,1444,UIC,1,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UIC,Illinois,100
+2010-11,2010-12-18,1011101,605,0,2,UIC,Illinois,Flames,Fighting Illini,0,0,57,54,3,1444,UIC,1,1,0,Flames take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,607,0,2,UIC,Illinois,Flames,Fighting Illini,0,0,57,54,3,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,1011101,608,0,2,UIC,Illinois,Flames,Fighting Illini,0,0,57,54,3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Illinois,Illinois,NA

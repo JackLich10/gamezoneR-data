@@ -1,0 +1,299 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-03-10,962671,1,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulsa,NA
+2009-10,2010-03-10,962671,5,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,0,0,1662,Tulsa,2381,1181,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,8.75,399813,NA,NA,0,Tulsa,Rice,1
+2009-10,2010-03-10,962671,8,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,0,0,1582,Rice,2362,1162,19, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,21,7.35,506617,NA,NA,0,Rice,Tulsa,2
+2009-10,2010-03-10,962671,10,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,0,0,1662,Tulsa,2353,1153,9, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,29,6.950000000000003,399814,NA,NA,0,Tulsa,Rice,3
+2009-10,2010-03-10,962671,13,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,0,0,1582,Rice,2352,1152,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,17,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,3,-3,1582,Rice,2319,1119,33, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,6.300000000000001,15.35,458971,NA,NA,0,Rice,Tulsa,4
+2009-10,2010-03-10,962671,18,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,3,-3,1662,Tulsa,2310,1110,9, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.299999999999997,9.150000000000006,297331,NA,NA,0,Tulsa,Rice,5
+2009-10,2010-03-10,962671,21,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,3,-3,1662,Tulsa,2297,1097,13,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2009-10,2010-03-10,962671,23,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,3,-3,1582,Rice,2292,1092,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,13.75,458971,NA,NA,0,Rice,Rice,6
+2009-10,2010-03-10,962671,24,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,5,-5,1582,Rice,2285,1085,7, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20.2,9.55,458971,NA,NA,0,Rice,Tulsa,6
+2009-10,2010-03-10,962671,27,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,5,-5,1662,Tulsa,2276,1076,9,Offensive foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,7
+2009-10,2010-03-10,962671,32,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,5,-5,1662,Tulsa,2268,1068,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,34,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,5,-5,1582,Rice,2262,1062,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399613,NA,NA,0,Rice,Rice,8
+2009-10,2010-03-10,962671,37,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1582,Rice,2252,1052,10, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,29.7,30.55,473209,NA,NA,0,Rice,Tulsa,8
+2009-10,2010-03-10,962671,38,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2232,1032,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.7,26.549999999999997,513459,NA,NA,0,Tulsa,Tulsa,9
+2009-10,2010-03-10,962671,41,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2213,1013,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,11.049999999999997,399813,NA,NA,0,Tulsa,Rice,9
+2009-10,2010-03-10,962671,42,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1582,Rice,2206,1006,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Tulsa,10
+2009-10,2010-03-10,962671,44,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2190,990,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,47,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2175,975,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399813,NA,NA,0,Tulsa,Tulsa,11
+2009-10,2010-03-10,962671,48,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1582,Rice,2175,975,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,51,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2166,966,9, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,22,9.849999999999994,329511,NA,NA,0,Tulsa,Rice,11
+2009-10,2010-03-10,962671,52,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1582,Rice,2152,952,14, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,9.8,14.15,458971,NA,NA,0,Rice,Tulsa,12
+2009-10,2010-03-10,962671,54,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,NA,NA,2139,939,13,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,57,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2119,919,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,13,27.150000000000006,329513,NA,NA,0,Tulsa,Tulsa,13
+2009-10,2010-03-10,962671,59,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2117,917,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,62,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,0,8,-8,1662,Tulsa,2110,910,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,66,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,3,8,-5,1662,Tulsa,2100,900,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,19.5,29.650000000000006,329513,NA,NA,0,Tulsa,Rice,13
+2009-10,2010-03-10,962671,67,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,3,8,-5,1582,Rice,2072,872,28, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,19.5,7.95,473209,NA,NA,0,Rice,Rice,14
+2009-10,2010-03-10,962671,69,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,3,8,-5,1582,Rice,2062,862,10, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,21.65,506616,NA,NA,0,Rice,Tulsa,14
+2009-10,2010-03-10,962671,72,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,3,8,-5,1662,Tulsa,2059,859,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,76,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,3,8,-5,1582,Rice,2043,843,16,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,15
+2009-10,2010-03-10,962671,77,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,4,8,-4,1662,Tulsa,2043,843,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,15
+2009-10,2010-03-10,962671,78,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,5,8,-3,1662,Tulsa,2043,843,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,15
+2009-10,2010-03-10,962671,82,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1662,Tulsa,2014,814,29, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,28.2,18.049999999999997,329513,NA,NA,0,Tulsa,Rice,16
+2009-10,2010-03-10,962671,86,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1662,Tulsa,1997,797,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,89,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1582,Rice,1988,788,9, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,20.5,8.95,506617,NA,NA,0,Rice,Tulsa,17
+2009-10,2010-03-10,962671,90,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1582,Rice,1988,788,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,91,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1662,Tulsa,1988,788,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,96,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1582,Rice,1978,778,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,101,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1662,Tulsa,1961,761,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7,17.25,513459,NA,NA,0,Tulsa,Tulsa,18
+2009-10,2010-03-10,962671,103,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,8,-1,1662,Tulsa,1943,743,18, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,11.25,399814,NA,NA,0,Tulsa,Rice,18
+2009-10,2010-03-10,962671,104,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,11,-4,1582,Rice,1929,729,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,25.5,29.85,473209,NA,NA,0,Rice,Tulsa,19
+2009-10,2010-03-10,962671,109,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,11,-4,1582,Rice,1920,720,9,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,20
+2009-10,2010-03-10,962671,110,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,7,11,-4,1662,Tulsa,1920,720,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,20
+2009-10,2010-03-10,962671,111,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,8,11,-3,1662,Tulsa,1920,720,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,20
+2009-10,2010-03-10,962671,113,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,8,14,-6,1582,Rice,1909,709,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,40.5,20.95,458971,NA,NA,0,Rice,Tulsa,21
+2009-10,2010-03-10,962671,116,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,8,14,-6,1582,Rice,1899,699,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,22
+2009-10,2010-03-10,962671,117,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,8,14,-6,NA,NA,1899,699,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,118,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1662,Tulsa,1899,699,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,22
+2009-10,2010-03-10,962671,119,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1662,Tulsa,1899,699,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,22
+2009-10,2010-03-10,962671,122,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1582,Rice,1887,687,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,Rice,23
+2009-10,2010-03-10,962671,124,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1582,Rice,1879,679,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,28.05,458971,NA,NA,0,Rice,Tulsa,23
+2009-10,2010-03-10,962671,126,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1662,Tulsa,1873,673,6, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.700000000000003,11.650000000000006,399813,NA,NA,0,Tulsa,Rice,24
+2009-10,2010-03-10,962671,128,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,14,-5,1662,Tulsa,1872,672,1,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,25
+2009-10,2010-03-10,962671,130,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,16,-7,1582,Rice,1852,652,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,Tulsa,25
+2009-10,2010-03-10,962671,132,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,16,-7,1662,Tulsa,1833,633,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,133,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,16,-7,1662,Tulsa,1833,633,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.8,29.049999999999997,329513,NA,NA,0,Tulsa,Rice,26
+2009-10,2010-03-10,962671,140,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,16,-7,1582,Rice,1812,612,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,27
+2009-10,2010-03-10,962671,147,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,9,18,-9,1582,Rice,1798,598,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,29.8,6.65,399613,NA,NA,0,Rice,Tulsa,27
+2009-10,2010-03-10,962671,148,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,11,18,-7,1662,Tulsa,1788,588,10, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,29.5,9.549999999999997,329511,NA,NA,0,Tulsa,Rice,28
+2009-10,2010-03-10,962671,150,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,11,21,-10,1582,Rice,1774,574,14, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,8.8,25.15,473209,NA,NA,0,Rice,Tulsa,29
+2009-10,2010-03-10,962671,152,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,11,21,-10,1582,Rice,1771,571,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,30
+2009-10,2010-03-10,962671,153,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,11,21,-10,1582,Rice,1771,571,0,Technical foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,30
+2009-10,2010-03-10,962671,154,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1662,Tulsa,1771,571,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,30
+2009-10,2010-03-10,962671,155,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1662,Tulsa,1771,571,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,30
+2009-10,2010-03-10,962671,158,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1582,Rice,1771,571,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,161,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1662,Tulsa,1765,565,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,166,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1582,Rice,1757,557,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,167,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,21,-9,1662,Tulsa,1757,557,0,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2009-10,2010-03-10,962671,168,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,22,-10,1582,Rice,1757,557,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2009-10,2010-03-10,962671,169,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,22,-10,1582,Rice,1757,557,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,170,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,22,-10,1582,Rice,1757,557,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,31
+2009-10,2010-03-10,962671,174,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,12,24,-12,1582,Rice,1734,534,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Tulsa,31
+2009-10,2010-03-10,962671,175,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,24,-10,1662,Tulsa,1716,516,18, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.8,12.450000000000003,464850,NA,NA,0,Tulsa,Rice,32
+2009-10,2010-03-10,962671,177,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,24,-10,1582,Rice,1697,497,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,181,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1689,489,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Tulsa,33
+2009-10,2010-03-10,962671,185,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1682,482,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,34
+2009-10,2010-03-10,962671,186,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1662,Tulsa,1682,482,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,189,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1662,Tulsa,1672,472,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,196,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1662,462,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,34
+2009-10,2010-03-10,962671,200,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1662,Tulsa,1659,459,3,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,34
+2009-10,2010-03-10,962671,201,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,NA,NA,1659,459,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,202,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1659,459,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,34
+2009-10,2010-03-10,962671,203,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1662,Tulsa,1659,459,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,204,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1659,459,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,34
+2009-10,2010-03-10,962671,206,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,14,26,-12,1582,Rice,1642,442,17, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,14.75,339839,NA,NA,0,Rice,Tulsa,34
+2009-10,2010-03-10,962671,207,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1662,Tulsa,1631,431,11, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,32.2,27.349999999999994,399813,NA,NA,0,Tulsa,Rice,35
+2009-10,2010-03-10,962671,210,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1662,Tulsa,1613,413,18,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,36
+2009-10,2010-03-10,962671,212,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1582,Rice,1610,410,3, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.8,6.05,339839,NA,NA,0,Rice,Tulsa,36
+2009-10,2010-03-10,962671,215,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1582,Rice,1600,400,10,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,37
+2009-10,2010-03-10,962671,216,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1662,Tulsa,1600,400,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,217,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,17,26,-9,1582,Rice,1600,400,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,219,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,26,-6,1662,Tulsa,1593,393,7, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,25,28.650000000000006,513459,NA,NA,0,Tulsa,Rice,37
+2009-10,2010-03-10,962671,220,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1582,Rice,1574,374,19, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.2,8.15,399613,NA,NA,0,Rice,Tulsa,38
+2009-10,2010-03-10,962671,222,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1662,Tulsa,1565,365,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,10.450000000000003,329511,NA,NA,0,Tulsa,Tulsa,39
+2009-10,2010-03-10,962671,224,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1582,Rice,1561,361,4,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,39
+2009-10,2010-03-10,962671,225,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1582,Rice,1561,361,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,226,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1582,Rice,1561,361,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,227,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1662,Tulsa,1561,361,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,39
+2009-10,2010-03-10,962671,230,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1582,Rice,1558,358,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,235,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,20,28,-8,1662,Tulsa,1537,337,21, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16,6.950000000000003,329511,NA,NA,0,Tulsa,Tulsa,39
+2009-10,2010-03-10,962671,236,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,22,28,-6,1662,Tulsa,1536,336,1, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23,7.150000000000006,513458,NA,NA,0,Tulsa,Rice,39
+2009-10,2010-03-10,962671,243,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,22,28,-6,1582,Rice,1525,325,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,22.45,506617,NA,NA,0,Rice,Tulsa,40
+2009-10,2010-03-10,962671,244,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,22,28,-6,1662,Tulsa,1510,310,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,39.7,12.450000000000003,513458,NA,NA,0,Tulsa,Rice,41
+2009-10,2010-03-10,962671,245,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,22,30,-8,1582,Rice,1501,301,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Tulsa,42
+2009-10,2010-03-10,962671,248,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,30,-6,1662,Tulsa,1494,294,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329511,NA,NA,0,Tulsa,Tulsa,43
+2009-10,2010-03-10,962671,249,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,30,-6,1582,Rice,1494,294,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,43
+2009-10,2010-03-10,962671,250,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,30,-6,1662,Tulsa,1494,294,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,43
+2009-10,2010-03-10,962671,261,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,30,-6,1582,Rice,1465,265,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,44
+2009-10,2010-03-10,962671,262,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,30,-6,1662,Tulsa,1465,265,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,268,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1582,Rice,1458,258,7, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,9,23.85,473209,NA,NA,0,Rice,Tulsa,44
+2009-10,2010-03-10,962671,269,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1432,232,26, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,15,19.150000000000006,513458,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-03-10,962671,272,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1582,Rice,1405,205,27,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-03-10,962671,273,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,NA,NA,1405,205,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,274,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1405,205,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,45
+2009-10,2010-03-10,962671,275,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1405,205,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,276,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1405,205,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,45
+2009-10,2010-03-10,962671,279,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1404,204,1,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,46
+2009-10,2010-03-10,962671,280,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,33,-9,1662,Tulsa,1404,204,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,281,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,34,-10,1582,Rice,1404,204,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,46
+2009-10,2010-03-10,962671,282,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,35,-11,1582,Rice,1404,204,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,47
+2009-10,2010-03-10,962671,288,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,35,-11,1662,Tulsa,1377,177,27, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,11.650000000000006,329513,NA,NA,0,Tulsa,Rice,48
+2009-10,2010-03-10,962671,290,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,35,-11,1582,Rice,1371,171,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,298,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,35,-11,1582,Rice,1346,146,25,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,300,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,37,-13,1582,Rice,1345,145,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,Tulsa,49
+2009-10,2010-03-10,962671,303,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,4,24,37,-13,1662,Tulsa,1337,137,8, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.200000000000003,8.75,329511,NA,NA,0,Tulsa,Rice,50
+2009-10,2010-03-10,962671,308,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,24,37,-13,1582,Rice,1328,128,9,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,309,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,24,37,-13,1582,Rice,1328,128,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,312,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,24,39,-15,1582,Rice,1308,108,20, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,26.2,21.35,506616,NA,NA,0,Rice,Tulsa,51
+2009-10,2010-03-10,962671,314,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,24,39,-15,1582,Rice,1294,94,14,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,52
+2009-10,2010-03-10,962671,315,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,25,39,-14,1662,Tulsa,1294,94,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,52
+2009-10,2010-03-10,962671,316,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,26,39,-13,1662,Tulsa,1294,94,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,52
+2009-10,2010-03-10,962671,318,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,26,41,-15,1582,Rice,1276,76,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339839,NA,NA,0,Rice,Tulsa,53
+2009-10,2010-03-10,962671,320,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,26,41,-15,1662,Tulsa,1251,51,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.200000000000003,22.049999999999997,513459,NA,NA,0,Tulsa,Rice,54
+2009-10,2010-03-10,962671,321,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,26,41,-15,1662,Tulsa,1251,51,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,325,1,1,Tulsa,Rice,Golden Hurricane,Owls,4,3,26,41,-15,1582,Rice,1236,36,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.3,8.75,473209,NA,NA,0,Rice,Tulsa,55
+2009-10,2010-03-10,962671,327,1,1,Tulsa,Rice,Golden Hurricane,Owls,3,3,26,41,-15,1662,Tulsa,1230,30,6,Golden Hurricane take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,329,1,1,Tulsa,Rice,Golden Hurricane,Owls,3,3,26,41,-15,1662,Tulsa,1211,11,19, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,16.049999999999997,399813,NA,NA,0,Tulsa,Rice,56
+2009-10,2010-03-10,962671,332,1,1,Tulsa,Rice,Golden Hurricane,Owls,3,3,26,41,-15,1582,Rice,1200,0,11, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,33.8,5.85,506616,NA,NA,0,Rice,Tulsa,57
+2009-10,2010-03-10,962671,334,1,1,Tulsa,Rice,Golden Hurricane,Owls,3,3,26,41,-15,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,335,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,26,41,-15,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulsa,58
+2009-10,2010-03-10,962671,347,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,28,41,-13,1662,Tulsa,1179,1179,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,297331,NA,NA,0,Tulsa,Rice,59
+2009-10,2010-03-10,962671,348,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,28,43,-15,1582,Rice,1146,1146,33, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,23.7,11.25,506616,NA,NA,0,Rice,Tulsa,60
+2009-10,2010-03-10,962671,350,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,30,43,-13,1662,Tulsa,1137,1137,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329511,NA,NA,0,Tulsa,Tulsa,61
+2009-10,2010-03-10,962671,351,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,30,43,-13,1582,Rice,1137,1137,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,61
+2009-10,2010-03-10,962671,352,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,31,43,-12,1662,Tulsa,1137,1137,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,61
+2009-10,2010-03-10,962671,354,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,31,43,-12,1582,Rice,1120,1120,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,Tulsa,62
+2009-10,2010-03-10,962671,356,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,33,43,-10,1662,Tulsa,1110,1110,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399813,NA,NA,0,Tulsa,Tulsa,63
+2009-10,2010-03-10,962671,357,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,33,43,-10,1582,Rice,1110,1110,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,63
+2009-10,2010-03-10,962671,358,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,34,43,-9,1662,Tulsa,1110,1110,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,63
+2009-10,2010-03-10,962671,363,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,4,34,43,-9,1582,Rice,1082,1082,28, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,18,14.55,506616,NA,NA,0,Rice,Tulsa,64
+2009-10,2010-03-10,962671,367,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,34,43,-9,1582,Rice,1076,1076,6,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,372,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,34,43,-9,1662,Tulsa,1056,1056,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329511,NA,NA,0,Tulsa,Tulsa,65
+2009-10,2010-03-10,962671,373,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,43,-7,1662,Tulsa,1054,1054,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329511,NA,NA,0,Tulsa,Rice,65
+2009-10,2010-03-10,962671,383,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1582,Rice,1029,1029,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,Tulsa,66
+2009-10,2010-03-10,962671,384,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,1021,1021,8, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.299999999999997,11.450000000000003,329513,NA,NA,0,Tulsa,Rice,67
+2009-10,2010-03-10,962671,385,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1582,Rice,994,994,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399613,NA,NA,0,Rice,Tulsa,68
+2009-10,2010-03-10,962671,387,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,984,984,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,9.650000000000006,399813,NA,NA,0,Tulsa,Rice,69
+2009-10,2010-03-10,962671,388,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,982,982,2,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,70
+2009-10,2010-03-10,962671,389,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,982,982,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,390,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,982,982,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,393,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1582,Rice,982,982,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,399,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1582,Rice,967,967,15,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,70
+2009-10,2010-03-10,962671,400,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1582,Rice,967,967,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,401,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,967,967,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,402,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,967,967,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,405,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,1662,Tulsa,946,946,21, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,28.7,8.950000000000003,464850,NA,NA,0,Tulsa,Tulsa,71
+2009-10,2010-03-10,962671,419,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,36,45,-9,NA,NA,929,929,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,421,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,45,-6,1662,Tulsa,916,916,13, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4,8.349999999999994,399813,NA,NA,0,Tulsa,Rice,71
+2009-10,2010-03-10,962671,422,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,904,904,12, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,38.7,14.15,399614,NA,NA,0,Rice,Tulsa,72
+2009-10,2010-03-10,962671,424,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1662,Tulsa,892,892,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,14.549999999999997,399813,NA,NA,0,Tulsa,Rice,73
+2009-10,2010-03-10,962671,427,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1662,Tulsa,888,888,4,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,74
+2009-10,2010-03-10,962671,432,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1662,Tulsa,882,882,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,437,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,875,875,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15.7,28.65,473209,NA,NA,0,Rice,Tulsa,74
+2009-10,2010-03-10,962671,438,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,873,873,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,75
+2009-10,2010-03-10,962671,441,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1662,Tulsa,854,854,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6,12.950000000000003,399813,NA,NA,0,Tulsa,Rice,75
+2009-10,2010-03-10,962671,446,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,836,836,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,448,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,835,835,1, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,24.5,11.65,399613,NA,NA,0,Rice,Rice,76
+2009-10,2010-03-10,962671,449,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,47,-8,1582,Rice,819,819,16, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,14.8,21.85,473209,NA,NA,0,Rice,Rice,76
+2009-10,2010-03-10,962671,450,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1582,Rice,815,815,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Tulsa,76
+2009-10,2010-03-10,962671,452,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1582,Rice,800,800,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,455,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1582,Rice,788,788,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,460,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1662,Tulsa,771,771,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,17.849999999999994,399813,NA,NA,0,Tulsa,Tulsa,77
+2009-10,2010-03-10,962671,469,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1582,Rice,759,759,12,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,77
+2009-10,2010-03-10,962671,470,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1662,Tulsa,759,759,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,77
+2009-10,2010-03-10,962671,471,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1662,Tulsa,759,759,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,472,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,39,49,-10,1662,Tulsa,759,759,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,473,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,49,-9,1662,Tulsa,759,759,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,77
+2009-10,2010-03-10,962671,476,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,49,-9,1662,Tulsa,756,756,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,482,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,49,-9,1662,Tulsa,742,742,14,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2009-10,2010-03-10,962671,483,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,50,-10,1582,Rice,742,742,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2009-10,2010-03-10,962671,484,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,50,-10,1582,Rice,742,742,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,485,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,1582,Rice,742,742,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,78
+2009-10,2010-03-10,962671,487,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,1662,Tulsa,731,731,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,14.349999999999994,513459,NA,NA,0,Tulsa,Rice,79
+2009-10,2010-03-10,962671,489,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,1662,Tulsa,723,723,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,504,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,1582,Rice,698,698,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32.5,28.05,339839,NA,NA,0,Rice,Tulsa,80
+2009-10,2010-03-10,962671,515,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,1582,Rice,688,688,10,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,81
+2009-10,2010-03-10,962671,516,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,40,51,-11,NA,NA,688,688,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,517,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,41,51,-10,1662,Tulsa,688,688,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,81
+2009-10,2010-03-10,962671,518,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1662,Tulsa,688,688,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,81
+2009-10,2010-03-10,962671,521,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1662,Tulsa,680,680,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,525,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1582,Rice,660,660,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31.3,28.45,506616,NA,NA,0,Rice,Tulsa,82
+2009-10,2010-03-10,962671,529,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1582,Rice,642,642,18,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,83
+2009-10,2010-03-10,962671,530,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1662,Tulsa,642,642,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,531,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1662,Tulsa,642,642,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,83
+2009-10,2010-03-10,962671,532,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,42,51,-9,1582,Rice,642,642,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,533,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,43,51,-8,1662,Tulsa,642,642,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,83
+2009-10,2010-03-10,962671,535,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,43,53,-10,1582,Rice,620,620,22, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,8.7,10.25,473209,NA,NA,0,Rice,Tulsa,84
+2009-10,2010-03-10,962671,536,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,46,53,-7,1662,Tulsa,594,594,26, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,38.3,26.349999999999994,329513,NA,NA,0,Tulsa,Rice,85
+2009-10,2010-03-10,962671,538,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,46,53,-7,1582,Rice,570,570,24,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,86
+2009-10,2010-03-10,962671,539,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,46,53,-7,1582,Rice,570,570,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,542,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,46,53,-7,1662,Tulsa,567,567,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,543,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,46,53,-7,1662,Tulsa,567,567,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,549,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,49,53,-4,1662,Tulsa,558,558,9, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.799999999999997,8.549999999999997,399813,NA,NA,0,Tulsa,Rice,87
+2009-10,2010-03-10,962671,550,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,49,55,-6,1582,Rice,533,533,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506616,NA,NA,0,Rice,Tulsa,88
+2009-10,2010-03-10,962671,552,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,49,55,-6,1582,Rice,526,526,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,553,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,49,55,-6,1662,Tulsa,526,526,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,562,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,51,55,-4,1662,Tulsa,491,491,35, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,30.3,8.549999999999997,297331,NA,NA,0,Tulsa,Tulsa,89
+2009-10,2010-03-10,962671,563,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,51,55,-4,1582,Rice,491,491,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,89
+2009-10,2010-03-10,962671,564,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,55,-3,1662,Tulsa,491,491,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,89
+2009-10,2010-03-10,962671,567,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,55,-3,1582,Rice,488,488,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,568,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,55,-3,1582,Rice,488,488,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,577,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,55,-3,1662,Tulsa,473,473,15,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2009-10,2010-03-10,962671,578,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,55,-3,NA,NA,473,473,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,582,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1582,Rice,460,460,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399613,NA,NA,0,Rice,Rice,90
+2009-10,2010-03-10,962671,583,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1662,Tulsa,460,460,0,Shooting foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2009-10,2010-03-10,962671,584,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1662,Tulsa,460,460,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,585,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1582,Rice,460,460,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,90
+2009-10,2010-03-10,962671,588,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1662,Tulsa,438,438,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,14.75,399813,NA,NA,0,Tulsa,Rice,91
+2009-10,2010-03-10,962671,589,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,52,57,-5,1582,Rice,415,415,23, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10,11.45,506617,NA,NA,0,Rice,Tulsa,92
+2009-10,2010-03-10,962671,590,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,3,55,57,-2,1662,Tulsa,399,399,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.7,28.849999999999994,329513,NA,NA,0,Tulsa,Rice,93
+2009-10,2010-03-10,962671,602,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,55,57,-2,1582,Rice,388,388,11,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,605,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,55,57,-2,1662,Tulsa,380,380,8,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2009-10,2010-03-10,962671,606,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,55,57,-2,1662,Tulsa,380,380,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,609,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,58,57,1,1662,Tulsa,362,362,18, makes a 3-point jump shot from 20 feet out.,made,FALSE,TRUE,Jump Shot,5.700000000000003,11.049999999999997,513459,NA,NA,0,Tulsa,Rice,94
+2009-10,2010-03-10,962671,612,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,58,57,1,1662,Tulsa,340,340,22,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,95
+2009-10,2010-03-10,962671,613,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,58,57,1,1662,Tulsa,340,340,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,614,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,58,58,0,1582,Rice,340,340,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,95
+2009-10,2010-03-10,962671,615,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,58,59,-1,1582,Rice,340,340,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,96
+2009-10,2010-03-10,962671,625,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1662,Tulsa,320,320,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399813,NA,NA,0,Tulsa,Tulsa,97
+2009-10,2010-03-10,962671,626,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,320,320,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,97
+2009-10,2010-03-10,962671,627,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,320,320,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,628,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1662,Tulsa,320,320,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,97
+2009-10,2010-03-10,962671,633,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,312,312,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,634,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1662,Tulsa,312,312,0,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,98
+2009-10,2010-03-10,962671,635,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,312,312,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,98
+2009-10,2010-03-10,962671,638,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,309,309,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,641,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1662,Tulsa,293,293,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.5,29.650000000000006,329513,NA,NA,0,Tulsa,Rice,99
+2009-10,2010-03-10,962671,644,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,291,291,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,645,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,291,291,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,647,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,274,274,17, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,21.45,473209,NA,NA,0,Rice,Tulsa,100
+2009-10,2010-03-10,962671,649,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,60,59,1,1582,Rice,246,246,28,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,101
+2009-10,2010-03-10,962671,650,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1662,Tulsa,246,246,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,101
+2009-10,2010-03-10,962671,651,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1582,Rice,246,246,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,652,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1662,Tulsa,246,246,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,101
+2009-10,2010-03-10,962671,656,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1582,Rice,233,233,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,9.15,506616,NA,NA,0,Rice,Rice,102
+2009-10,2010-03-10,962671,658,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1662,Tulsa,226,226,7,Personal foul committed by Golden Hurricane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2009-10,2010-03-10,962671,659,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,NA,NA,226,226,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,660,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,61,59,2,1582,Rice,226,226,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Tulsa,102
+2009-10,2010-03-10,962671,664,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,63,59,4,1662,Tulsa,206,206,20, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21,10.25,329511,NA,NA,0,Tulsa,Tulsa,103
+2009-10,2010-03-10,962671,665,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,63,59,4,1582,Rice,206,206,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,103
+2009-10,2010-03-10,962671,666,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,64,59,5,1662,Tulsa,206,206,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,103
+2009-10,2010-03-10,962671,667,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,64,59,5,1662,Tulsa,206,206,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,669,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,64,59,5,1582,Rice,192,192,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,33.8,29.05,458971,NA,NA,0,Rice,Tulsa,104
+2009-10,2010-03-10,962671,673,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,64,59,5,1582,Rice,159,159,33,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,676,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,64,59,5,1582,Rice,134,134,25,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,105
+2009-10,2010-03-10,962671,677,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,65,59,6,1662,Tulsa,134,134,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,105
+2009-10,2010-03-10,962671,678,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,66,59,7,1662,Tulsa,134,134,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,105
+2009-10,2010-03-10,962671,681,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,66,59,7,1582,Rice,119,119,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,7.35,339839,NA,NA,0,Rice,Tulsa,106
+2009-10,2010-03-10,962671,683,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,66,59,7,1582,Rice,118,118,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,107
+2009-10,2010-03-10,962671,684,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,67,59,8,1662,Tulsa,118,118,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,107
+2009-10,2010-03-10,962671,685,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,68,59,9,1662,Tulsa,118,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,107
+2009-10,2010-03-10,962671,691,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,2,68,62,6,1582,Rice,103,103,15, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,14.8,26.75,473209,NA,NA,0,Rice,Tulsa,108
+2009-10,2010-03-10,962671,693,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,68,62,6,1582,Rice,102,102,1,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,696,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,68,62,6,1582,Rice,91,91,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,697,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,68,62,6,1582,Rice,91,91,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,109
+2009-10,2010-03-10,962671,698,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,68,62,6,1662,Tulsa,91,91,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,109
+2009-10,2010-03-10,962671,699,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,68,62,6,1582,Rice,91,91,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,700,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,69,62,7,1662,Tulsa,91,91,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,109
+2009-10,2010-03-10,962671,703,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,69,62,7,1662,Tulsa,79,79,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,704,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,69,62,7,1582,Rice,79,79,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,706,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,69,62,7,1582,Rice,78,78,1,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,110
+2009-10,2010-03-10,962671,707,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,69,62,7,1582,Rice,78,78,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,708,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,70,62,8,1662,Tulsa,78,78,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,110
+2009-10,2010-03-10,962671,709,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,71,62,9,1662,Tulsa,78,78,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,110
+2009-10,2010-03-10,962671,712,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,71,62,9,1582,Rice,68,68,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,11.05,506616,NA,NA,0,Rice,Tulsa,111
+2009-10,2010-03-10,962671,714,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,71,62,9,1582,Rice,66,66,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,112
+2009-10,2010-03-10,962671,715,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,72,62,10,1662,Tulsa,66,66,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Tulsa,112
+2009-10,2010-03-10,962671,716,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,72,62,10,1582,Rice,66,66,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,717,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1662,Tulsa,66,66,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulsa,Rice,112
+2009-10,2010-03-10,962671,721,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1582,Rice,58,58,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,13.95,506614,NA,NA,0,Rice,Tulsa,113
+2009-10,2010-03-10,962671,724,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1662,Tulsa,41,41,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,730,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1662,Tulsa,36,36,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,736,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1662,Tulsa,27,27,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.7,30.049999999999997,329513,NA,NA,0,Tulsa,Rice,114
+2009-10,2010-03-10,962671,737,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1662,Tulsa,26,26,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-10,962671,745,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,1582,Rice,13,13,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,473209,NA,NA,0,Rice,NA,115
+2009-10,2010-03-10,962671,746,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,NA,NA,0,0,13,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-10,962671,747,1,2,Tulsa,Rice,Golden Hurricane,Owls,4,1,73,62,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,NA

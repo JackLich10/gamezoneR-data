@@ -1,0 +1,343 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-27,1010837,1,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,NA
+2010-11,2010-11-27,1010837,3,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,2,-2,1388,Duke,2384,1184,16, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,20,18.55,398428,NA,NA,0,Duke,Oregon,1
+2010-11,2010-11-27,1010837,4,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,2,-2,1388,Duke,2375,1175,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551768,NA,NA,0,Duke,Duke,2
+2010-11,2010-11-27,1010837,5,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,2,-2,1562,Oregon,2375,1175,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,2
+2010-11,2010-11-27,1010837,6,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,2,-2,1562,Oregon,2368,1168,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,11.700000000000003,5.650000000000006,509249,NA,NA,0,Oregon,Oregon,3
+2010-11,2010-11-27,1010837,7,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,2,-2,1388,Duke,2368,1168,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,3
+2010-11,2010-11-27,1010837,11,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,4,-4,1388,Duke,2354,1154,14, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,28.3,8.95,398428,NA,NA,0,Duke,Oregon,4
+2010-11,2010-11-27,1010837,12,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,4,-4,1562,Oregon,2354,1154,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,5
+2010-11,2010-11-27,1010837,13,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,5,-5,1388,Duke,2354,1154,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,5
+2010-11,2010-11-27,1010837,16,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,5,-5,1562,Oregon,2337,1137,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,6
+2010-11,2010-11-27,1010837,17,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,5,-5,1388,Duke,2337,1137,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,6
+2010-11,2010-11-27,1010837,19,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,7,-7,1388,Duke,2326,1126,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,510790,NA,NA,0,Duke,Oregon,7
+2010-11,2010-11-27,1010837,20,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,7,-7,1562,Oregon,2307,1107,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,9.150000000000006,330063,NA,NA,0,Oregon,Oregon,8
+2010-11,2010-11-27,1010837,21,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,7,-7,1388,Duke,2307,1107,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,8
+2010-11,2010-11-27,1010837,22,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,7,-7,1388,Duke,2292,1092,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.3,6.05,398428,NA,NA,0,Duke,Duke,9
+2010-11,2010-11-27,1010837,23,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,0,7,-7,1562,Oregon,2292,1092,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,9
+2010-11,2010-11-27,1010837,24,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,2,7,-5,1562,Oregon,2274,1074,18, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,9.799999999999997,7.349999999999994,403002,NA,NA,0,Oregon,Duke,10
+2010-11,2010-11-27,1010837,25,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,2,7,-5,1388,Duke,2251,1051,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,14.55,398429,NA,NA,0,Duke,Duke,11
+2010-11,2010-11-27,1010837,26,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,2,7,-5,1562,Oregon,2251,1051,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,11
+2010-11,2010-11-27,1010837,27,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,2,9,-7,1388,Duke,2240,1040,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551768,NA,NA,0,Duke,Oregon,12
+2010-11,2010-11-27,1010837,29,0,1,Oregon,Duke,Ducks,Blue Devils,4,4,2,11,-9,1388,Duke,2222,1022,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,510790,NA,NA,0,Duke,Oregon,13
+2010-11,2010-11-27,1010837,36,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,2,11,-9,1562,Oregon,2215,1015,7,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,40,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2187,987,28, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,9.200000000000003,5.849999999999994,329521,NA,NA,0,Oregon,Duke,14
+2010-11,2010-11-27,1010837,42,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2145,945,42, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,15
+2010-11,2010-11-27,1010837,43,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1388,Duke,2145,945,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,15
+2010-11,2010-11-27,1010837,44,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2144,944,1,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,16
+2010-11,2010-11-27,1010837,45,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,NA,NA,2144,944,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,56,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1388,Duke,2113,913,31,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,16
+2010-11,2010-11-27,1010837,58,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2096,896,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,9.650000000000006,551791,NA,NA,0,Oregon,Oregon,16
+2010-11,2010-11-27,1010837,59,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1388,Duke,2096,896,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,16
+2010-11,2010-11-27,1010837,60,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1388,Duke,2079,879,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,5.85,463135,NA,NA,0,Duke,Duke,17
+2010-11,2010-11-27,1010837,61,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2079,879,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,17
+2010-11,2010-11-27,1010837,63,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,11,-7,1562,Oregon,2071,871,8, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,30,14.25,551790,NA,NA,0,Oregon,Duke,18
+2010-11,2010-11-27,1010837,86,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,14,-10,1388,Duke,2049,849,22, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,9.8,21.65,518947,NA,NA,0,Duke,Duke,19
+2010-11,2010-11-27,1010837,87,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,14,-10,1562,Oregon,2049,849,0,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,19
+2010-11,2010-11-27,1010837,88,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,15,-11,1388,Duke,2049,849,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,19
+2010-11,2010-11-27,1010837,94,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,4,15,-11,1388,Duke,2025,825,24,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,20
+2010-11,2010-11-27,1010837,96,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,6,15,-9,1562,Oregon,2012,812,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Duke,20
+2010-11,2010-11-27,1010837,97,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,6,15,-9,1388,Duke,2004,804,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,12.45,463135,NA,NA,0,Duke,Duke,21
+2010-11,2010-11-27,1010837,98,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,6,15,-9,1562,Oregon,2004,804,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,21
+2010-11,2010-11-27,1010837,100,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,6,15,-9,1562,Oregon,1995,795,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.7,24.75,509249,NA,NA,0,Oregon,Oregon,22
+2010-11,2010-11-27,1010837,101,0,1,Oregon,Duke,Ducks,Blue Devils,3,4,6,15,-9,1388,Duke,1995,795,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,22
+2010-11,2010-11-27,1010837,103,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1388,Duke,1995,795,0,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,105,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1388,Duke,1979,779,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12,25.15,398428,NA,NA,0,Duke,Duke,23
+2010-11,2010-11-27,1010837,106,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1562,Oregon,1979,779,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,23
+2010-11,2010-11-27,1010837,107,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1562,Oregon,1967,767,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551791,NA,NA,0,Oregon,Oregon,24
+2010-11,2010-11-27,1010837,108,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1388,Duke,1967,767,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,24
+2010-11,2010-11-27,1010837,109,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1388,Duke,1946,746,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,33.3,29.05,518947,NA,NA,0,Duke,Duke,25
+2010-11,2010-11-27,1010837,110,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1562,Oregon,1946,746,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,25
+2010-11,2010-11-27,1010837,114,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,6,15,-9,1388,Duke,1936,736,10,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,26
+2010-11,2010-11-27,1010837,115,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1562,Oregon,1936,736,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,26
+2010-11,2010-11-27,1010837,116,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1562,Oregon,1936,736,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,26
+2010-11,2010-11-27,1010837,117,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1388,Duke,1936,736,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,26
+2010-11,2010-11-27,1010837,126,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1562,Oregon,1930,730,6,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,27
+2010-11,2010-11-27,1010837,127,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1388,Duke,1930,730,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,133,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1562,Oregon,1916,716,14,Offensive Charge Foul foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,27
+2010-11,2010-11-27,1010837,134,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,NA,NA,1916,716,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,136,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1388,Duke,1902,702,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,7.35,518947,NA,NA,0,Duke,Duke,27
+2010-11,2010-11-27,1010837,137,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,15,-8,1388,Duke,1902,702,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,27
+2010-11,2010-11-27,1010837,138,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1388,Duke,1891,691,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551768,NA,NA,0,Duke,Oregon,27
+2010-11,2010-11-27,1010837,140,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1562,Oregon,1878,678,13, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,457355,NA,NA,0,Oregon,Duke,28
+2010-11,2010-11-27,1010837,144,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1388,Duke,1862,662,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,22.85,398429,NA,NA,0,Duke,Oregon,29
+2010-11,2010-11-27,1010837,150,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1562,Oregon,1845,645,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,23.450000000000003,551790,NA,NA,0,Oregon,Oregon,30
+2010-11,2010-11-27,1010837,151,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1388,Duke,1845,645,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,30
+2010-11,2010-11-27,1010837,152,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,17,-10,1562,Oregon,1844,644,1,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,31
+2010-11,2010-11-27,1010837,154,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1388,Duke,1826,626,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13,25.75,398428,NA,NA,0,Duke,Oregon,31
+2010-11,2010-11-27,1010837,155,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1809,609,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,6.450000000000003,403002,NA,NA,0,Oregon,Oregon,32
+2010-11,2010-11-27,1010837,156,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1388,Duke,1809,609,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,32
+2010-11,2010-11-27,1010837,158,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1388,Duke,1802,602,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510790,NA,NA,0,Duke,Duke,33
+2010-11,2010-11-27,1010837,159,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1802,602,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,33
+2010-11,2010-11-27,1010837,160,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1791,591,11, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,17.450000000000003,551790,NA,NA,0,Oregon,Oregon,34
+2010-11,2010-11-27,1010837,161,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1791,591,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,34
+2010-11,2010-11-27,1010837,162,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1791,591,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,34
+2010-11,2010-11-27,1010837,165,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1562,Oregon,1791,591,0, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,16.450000000000003,330063,NA,NA,0,Oregon,Oregon,34
+2010-11,2010-11-27,1010837,166,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,20,-13,1388,Duke,1791,591,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,34
+2010-11,2010-11-27,1010837,167,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1388,Duke,1785,585,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551768,NA,NA,0,Duke,Oregon,35
+2010-11,2010-11-27,1010837,173,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1562,Oregon,1758,558,27, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,9.349999999999994,483475,NA,NA,0,Oregon,Oregon,36
+2010-11,2010-11-27,1010837,174,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1388,Duke,1758,558,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,36
+2010-11,2010-11-27,1010837,180,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1562,Oregon,1752,552,6,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,37
+2010-11,2010-11-27,1010837,181,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1562,Oregon,1752,552,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,182,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,22,-15,1562,Oregon,1752,552,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,183,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,23,-16,1388,Duke,1752,552,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,37
+2010-11,2010-11-27,1010837,184,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,7,24,-17,1388,Duke,1752,552,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,37
+2010-11,2010-11-27,1010837,186,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,24,-15,1562,Oregon,1739,539,13, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,37.2,7.75,403002,NA,NA,0,Oregon,Duke,38
+2010-11,2010-11-27,1010837,187,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,27,-18,1388,Duke,1709,509,30, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.5,17.25,398428,NA,NA,0,Duke,Oregon,39
+2010-11,2010-11-27,1010837,191,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,27,-18,1388,Duke,1693,493,16,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,40
+2010-11,2010-11-27,1010837,192,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,27,-18,1562,Oregon,1693,493,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,40
+2010-11,2010-11-27,1010837,193,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,27,-18,1562,Oregon,1693,493,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,40
+2010-11,2010-11-27,1010837,194,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,9,27,-18,1388,Duke,1693,493,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,195,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,1562,Oregon,1693,493,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,40
+2010-11,2010-11-27,1010837,196,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,1562,Oregon,1693,493,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,198,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,1388,Duke,1683,483,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,41
+2010-11,2010-11-27,1010837,199,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,1562,Oregon,1683,483,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,41
+2010-11,2010-11-27,1010837,203,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,1562,Oregon,1674,474,9,Offensive foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,42
+2010-11,2010-11-27,1010837,204,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,27,-17,NA,NA,1674,474,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,210,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1652,452,22, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,31.8,20.15,398429,NA,NA,0,Duke,Oregon,43
+2010-11,2010-11-27,1010837,212,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1562,Oregon,1634,434,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329521,NA,NA,0,Oregon,Oregon,44
+2010-11,2010-11-27,1010837,215,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1562,Oregon,1630,430,4, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,7.150000000000006,551791,NA,NA,0,Oregon,Oregon,44
+2010-11,2010-11-27,1010837,216,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1630,430,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,44
+2010-11,2010-11-27,1010837,220,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1619,419,11,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,45
+2010-11,2010-11-27,1010837,223,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1562,Oregon,1611,411,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329521,NA,NA,0,Oregon,Oregon,45
+2010-11,2010-11-27,1010837,224,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1611,411,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,45
+2010-11,2010-11-27,1010837,225,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1611,411,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,46
+2010-11,2010-11-27,1010837,226,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1562,Oregon,1611,411,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,46
+2010-11,2010-11-27,1010837,227,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1611,411,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,47
+2010-11,2010-11-27,1010837,236,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,10,29,-19,1388,Duke,1603,403,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,237,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,11,29,-18,1562,Oregon,1603,403,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,47
+2010-11,2010-11-27,1010837,238,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,12,29,-17,1562,Oregon,1603,403,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,47
+2010-11,2010-11-27,1010837,240,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,12,31,-19,1388,Duke,1596,396,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Oregon,48
+2010-11,2010-11-27,1010837,241,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,14,31,-17,1562,Oregon,1588,388,8, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,23.8,12.450000000000003,330063,NA,NA,0,Oregon,Duke,49
+2010-11,2010-11-27,1010837,245,0,1,Oregon,Duke,Ducks,Blue Devils,3,3,17,31,-14,1562,Oregon,1562,362,26, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.700000000000003,6.049999999999997,457355,NA,NA,0,Oregon,Duke,50
+2010-11,2010-11-27,1010837,251,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,31,-14,1388,Duke,1543,343,19,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,254,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,31,-14,1562,Oregon,1516,316,27, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,457355,NA,NA,0,Oregon,Duke,51
+2010-11,2010-11-27,1010837,257,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,31,-14,1562,Oregon,1515,315,1,Technical foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2010-11,2010-11-27,1010837,258,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,32,-15,1388,Duke,1515,315,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,52
+2010-11,2010-11-27,1010837,259,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1388,Duke,1515,315,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,52
+2010-11,2010-11-27,1010837,262,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1388,Duke,1490,290,25, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,19.55,551768,NA,NA,0,Duke,Oregon,53
+2010-11,2010-11-27,1010837,266,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1562,Oregon,1477,277,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551791,NA,NA,0,Oregon,Oregon,54
+2010-11,2010-11-27,1010837,267,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1388,Duke,1477,277,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,54
+2010-11,2010-11-27,1010837,268,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1388,Duke,1462,262,15, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,12.05,463135,NA,NA,0,Duke,Duke,55
+2010-11,2010-11-27,1010837,269,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,17,33,-16,1562,Oregon,1462,262,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,55
+2010-11,2010-11-27,1010837,270,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,1562,Oregon,1453,253,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329521,NA,NA,0,Oregon,Duke,56
+2010-11,2010-11-27,1010837,271,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,1388,Duke,1441,241,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,17,26.95,463135,NA,NA,0,Duke,Duke,57
+2010-11,2010-11-27,1010837,272,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,1388,Duke,1441,241,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,57
+2010-11,2010-11-27,1010837,273,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,1388,Duke,1437,237,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467271,NA,NA,0,Duke,Duke,57
+2010-11,2010-11-27,1010837,274,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,1562,Oregon,1437,237,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,57
+2010-11,2010-11-27,1010837,277,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,19,33,-14,NA,NA,1431,231,6,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,279,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,21,33,-12,1562,Oregon,1424,224,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,403002,NA,NA,0,Oregon,Duke,58
+2010-11,2010-11-27,1010837,281,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,21,33,-12,1388,Duke,1415,215,9,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,59
+2010-11,2010-11-27,1010837,283,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,33,-10,1562,Oregon,1403,203,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Duke,60
+2010-11,2010-11-27,1010837,286,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1388,Duke,1378,178,25, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.3,9.65,551768,NA,NA,0,Duke,Oregon,61
+2010-11,2010-11-27,1010837,287,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1562,Oregon,1340,140,38, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,15,10.849999999999994,403002,NA,NA,0,Oregon,Oregon,62
+2010-11,2010-11-27,1010837,288,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1388,Duke,1340,140,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,62
+2010-11,2010-11-27,1010837,289,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1388,Duke,1307,107,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,63
+2010-11,2010-11-27,1010837,290,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1562,Oregon,1307,107,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,63
+2010-11,2010-11-27,1010837,292,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1562,Oregon,1294,94,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.299999999999997,7.950000000000003,403002,NA,NA,0,Oregon,Oregon,64
+2010-11,2010-11-27,1010837,293,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1388,Duke,1294,94,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,64
+2010-11,2010-11-27,1010837,294,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,35,-12,1562,Oregon,1294,94,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,65
+2010-11,2010-11-27,1010837,295,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,36,-13,1388,Duke,1294,94,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,65
+2010-11,2010-11-27,1010837,296,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1388,Duke,1294,94,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,65
+2010-11,2010-11-27,1010837,299,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1562,Oregon,1282,82,12, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,16.650000000000006,551790,NA,NA,0,Oregon,Oregon,66
+2010-11,2010-11-27,1010837,300,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1562,Oregon,1282,82,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,66
+2010-11,2010-11-27,1010837,303,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1562,Oregon,1275,75,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Duke,66
+2010-11,2010-11-27,1010837,308,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1388,Duke,1253,53,22, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,30.95,398429,NA,NA,0,Duke,Duke,67
+2010-11,2010-11-27,1010837,309,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1562,Oregon,1253,53,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,67
+2010-11,2010-11-27,1010837,310,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1562,Oregon,1246,46,7, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41,7.75,509249,NA,NA,0,Oregon,Oregon,68
+2010-11,2010-11-27,1010837,311,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,37,-14,1388,Duke,1246,46,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,68
+2010-11,2010-11-27,1010837,314,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,39,-16,1388,Duke,1240,40,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551768,NA,NA,0,Duke,Duke,69
+2010-11,2010-11-27,1010837,315,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,39,-16,1562,Oregon,1240,40,0,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,69
+2010-11,2010-11-27,1010837,316,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,23,40,-17,1388,Duke,1240,40,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,69
+2010-11,2010-11-27,1010837,319,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,25,40,-15,1562,Oregon,1229,29,11, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,19.5,13.950000000000003,551790,NA,NA,0,Oregon,Duke,70
+2010-11,2010-11-27,1010837,321,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,25,40,-15,1388,Duke,1206,6,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,6.25,518947,NA,NA,0,Duke,Duke,71
+2010-11,2010-11-27,1010837,322,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,25,40,-15,1562,Oregon,1206,6,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,71
+2010-11,2010-11-27,1010837,323,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,25,40,-15,1562,Oregon,1200,0,6, misses a 3-point jump shot from 57 feet out.,missed,FALSE,TRUE,Jump Shot,16,32.85,329521,NA,NA,0,Oregon,Oregon,72
+2010-11,2010-11-27,1010837,325,0,1,Oregon,Duke,Ducks,Blue Devils,3,2,25,40,-15,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,326,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,25,40,-15,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Oregon,72
+2010-11,2010-11-27,1010837,333,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,27,40,-13,1562,Oregon,1175,1175,25, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15.700000000000003,7.150000000000006,403002,NA,NA,0,Oregon,Duke,73
+2010-11,2010-11-27,1010837,334,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,27,40,-13,1388,Duke,1171,1171,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Oregon,74
+2010-11,2010-11-27,1010837,337,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,40,-11,1562,Oregon,1167,1167,4, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,509249,NA,NA,0,Oregon,Duke,75
+2010-11,2010-11-27,1010837,345,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,40,-11,1562,Oregon,1153,1153,14,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,76
+2010-11,2010-11-27,1010837,346,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,41,-12,1388,Duke,1153,1153,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,76
+2010-11,2010-11-27,1010837,347,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1388,Duke,1153,1153,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,76
+2010-11,2010-11-27,1010837,350,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1136,1136,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509248,NA,NA,0,Oregon,Oregon,77
+2010-11,2010-11-27,1010837,351,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1136,1136,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,77
+2010-11,2010-11-27,1010837,352,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1136,1136,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330063,NA,NA,0,Oregon,Oregon,77
+2010-11,2010-11-27,1010837,353,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1136,1136,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,77
+2010-11,2010-11-27,1010837,355,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1133,1133,3, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.5,7.75,403002,NA,NA,0,Oregon,Oregon,77
+2010-11,2010-11-27,1010837,356,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1388,Duke,1133,1133,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,77
+2010-11,2010-11-27,1010837,358,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1109,1109,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509249,NA,NA,0,Oregon,Oregon,78
+2010-11,2010-11-27,1010837,359,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1109,1109,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,78
+2010-11,2010-11-27,1010837,360,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1562,Oregon,1105,1105,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403002,NA,NA,0,Oregon,Oregon,78
+2010-11,2010-11-27,1010837,361,0,2,Oregon,Duke,Ducks,Blue Devils,4,4,29,42,-13,1388,Duke,1105,1105,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,78
+2010-11,2010-11-27,1010837,366,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,29,42,-13,1388,Duke,1101,1101,4,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,370,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,29,42,-13,1388,Duke,1084,1084,17,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,79
+2010-11,2010-11-27,1010837,371,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,29,42,-13,1562,Oregon,1084,1084,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,79
+2010-11,2010-11-27,1010837,373,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,42,-12,1562,Oregon,1084,1084,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,79
+2010-11,2010-11-27,1010837,375,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,44,-14,1388,Duke,1070,1070,14, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15,11.45,398428,NA,NA,0,Duke,Oregon,80
+2010-11,2010-11-27,1010837,376,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,44,-14,1562,Oregon,1055,1055,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,14.349999999999994,403002,NA,NA,0,Oregon,Oregon,81
+2010-11,2010-11-27,1010837,377,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,44,-14,1388,Duke,1055,1055,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,81
+2010-11,2010-11-27,1010837,380,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,46,-16,1388,Duke,1051,1051,4, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,19.3,15.55,398429,NA,NA,0,Duke,Oregon,82
+2010-11,2010-11-27,1010837,381,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,46,-16,1562,Oregon,1051,1051,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,83
+2010-11,2010-11-27,1010837,382,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,46,-16,1388,Duke,1051,1051,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,83
+2010-11,2010-11-27,1010837,389,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,49,-19,1388,Duke,1039,1039,12, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.8,7.55,551768,NA,NA,0,Duke,Oregon,83
+2010-11,2010-11-27,1010837,391,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,30,49,-19,1388,Duke,1032,1032,7,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,84
+2010-11,2010-11-27,1010837,392,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,49,-18,1562,Oregon,1032,1032,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,84
+2010-11,2010-11-27,1010837,393,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,49,-18,1562,Oregon,1032,1032,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,84
+2010-11,2010-11-27,1010837,396,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,49,-18,1562,Oregon,1029,1029,3, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,11.849999999999994,509249,NA,NA,0,Oregon,Oregon,84
+2010-11,2010-11-27,1010837,397,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,49,-18,1388,Duke,1029,1029,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,84
+2010-11,2010-11-27,1010837,398,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,52,-21,1388,Duke,1021,1021,8, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32.5,28.65,398428,NA,NA,0,Duke,Oregon,85
+2010-11,2010-11-27,1010837,399,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,52,-21,1562,Oregon,1009,1009,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,6.450000000000003,509249,NA,NA,0,Oregon,Oregon,86
+2010-11,2010-11-27,1010837,400,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,52,-21,1388,Duke,1009,1009,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,86
+2010-11,2010-11-27,1010837,401,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1388,Duke,999,999,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.2,18.55,398429,NA,NA,0,Duke,Oregon,87
+2010-11,2010-11-27,1010837,407,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1388,Duke,990,990,9,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,88
+2010-11,2010-11-27,1010837,409,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1562,Oregon,983,983,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,20,18.549999999999997,551790,NA,NA,0,Oregon,Oregon,88
+2010-11,2010-11-27,1010837,410,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1388,Duke,983,983,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,88
+2010-11,2010-11-27,1010837,412,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1388,Duke,974,974,9, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,20.35,551768,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-27,1010837,413,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1388,Duke,974,974,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-27,1010837,416,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,55,-24,1562,Oregon,974,974,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-27,1010837,417,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1388,Duke,974,974,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-27,1010837,418,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1388,Duke,974,974,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,89
+2010-11,2010-11-27,1010837,419,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1562,Oregon,974,974,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,89
+2010-11,2010-11-27,1010837,422,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1388,Duke,973,973,1,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,90
+2010-11,2010-11-27,1010837,426,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1562,Oregon,959,959,14, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,6.650000000000006,330063,NA,NA,0,Oregon,Oregon,90
+2010-11,2010-11-27,1010837,427,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,56,-25,1388,Duke,959,959,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,90
+2010-11,2010-11-27,1010837,428,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,59,-28,1388,Duke,940,940,19, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46,8.95,398428,NA,NA,0,Duke,Oregon,91
+2010-11,2010-11-27,1010837,429,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,59,-28,1562,Oregon,925,925,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551790,NA,NA,0,Oregon,Oregon,92
+2010-11,2010-11-27,1010837,430,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,59,-28,1388,Duke,925,925,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,92
+2010-11,2010-11-27,1010837,431,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,31,61,-30,1388,Duke,921,921,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,398429,NA,NA,0,Duke,Oregon,93
+2010-11,2010-11-27,1010837,432,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,61,-28,1562,Oregon,899,899,22, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,30.3,15.849999999999994,403002,NA,NA,0,Oregon,Duke,94
+2010-11,2010-11-27,1010837,434,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,61,-28,1562,Oregon,876,876,23,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,95
+2010-11,2010-11-27,1010837,435,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,61,-28,NA,NA,876,876,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,437,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,63,-30,1388,Duke,875,875,1, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510790,NA,NA,0,Duke,Oregon,95
+2010-11,2010-11-27,1010837,439,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,63,-30,1562,Oregon,859,859,16, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.299999999999997,8.549999999999997,403002,NA,NA,0,Oregon,Oregon,96
+2010-11,2010-11-27,1010837,440,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,63,-30,1562,Oregon,859,859,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,96
+2010-11,2010-11-27,1010837,441,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,33,63,-30,1388,Duke,859,859,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,96
+2010-11,2010-11-27,1010837,445,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1562,Oregon,842,842,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Duke,96
+2010-11,2010-11-27,1010837,446,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1388,Duke,842,842,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2010-11,2010-11-27,1010837,447,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1562,Oregon,842,842,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2010-11,2010-11-27,1010837,448,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1388,Duke,842,842,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,97
+2010-11,2010-11-27,1010837,456,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1562,Oregon,827,827,15,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,98
+2010-11,2010-11-27,1010837,457,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1388,Duke,827,827,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,98
+2010-11,2010-11-27,1010837,459,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,63,-28,1388,Duke,827,827,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,98
+2010-11,2010-11-27,1010837,464,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,821,821,6, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,8.8,5.25,398429,NA,NA,0,Duke,Oregon,98
+2010-11,2010-11-27,1010837,465,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1562,Oregon,805,805,16, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,33,14.549999999999997,403002,NA,NA,0,Oregon,Oregon,99
+2010-11,2010-11-27,1010837,466,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,805,805,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,99
+2010-11,2010-11-27,1010837,468,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,790,790,15, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,7.55,551767,NA,NA,0,Duke,Oregon,100
+2010-11,2010-11-27,1010837,470,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,790,790,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,101
+2010-11,2010-11-27,1010837,471,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,472,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,473,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,35,65,-30,1388,Duke,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,474,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,36,65,-29,1562,Oregon,790,790,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,101
+2010-11,2010-11-27,1010837,475,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,65,-28,1562,Oregon,790,790,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,101
+2010-11,2010-11-27,1010837,476,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,65,-28,1562,Oregon,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,477,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,65,-28,1562,Oregon,790,790,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,478,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,65,-28,1562,Oregon,790,790,0,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2010-11,2010-11-27,1010837,481,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,65,-28,1562,Oregon,787,787,3,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2010-11,2010-11-27,1010837,482,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,66,-29,1388,Duke,787,787,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2010-11,2010-11-27,1010837,483,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,66,-29,1388,Duke,787,787,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2010-11,2010-11-27,1010837,484,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,66,-29,1562,Oregon,787,787,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,102
+2010-11,2010-11-27,1010837,497,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,66,-29,1388,Duke,777,777,10,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,103
+2010-11,2010-11-27,1010837,499,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,37,66,-29,1562,Oregon,777,777,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,103
+2010-11,2010-11-27,1010837,502,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,38,66,-28,1562,Oregon,777,777,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,103
+2010-11,2010-11-27,1010837,507,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,38,66,-28,1388,Duke,766,766,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.3,29.65,551768,NA,NA,0,Duke,Duke,104
+2010-11,2010-11-27,1010837,508,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,38,66,-28,1562,Oregon,766,766,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,104
+2010-11,2010-11-27,1010837,512,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1562,Oregon,742,742,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509249,NA,NA,0,Oregon,Oregon,105
+2010-11,2010-11-27,1010837,514,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1388,Duke,739,739,3,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,105
+2010-11,2010-11-27,1010837,518,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1562,Oregon,739,739,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,105
+2010-11,2010-11-27,1010837,519,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1388,Duke,739,739,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,105
+2010-11,2010-11-27,1010837,522,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1388,Duke,730,730,9, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,26,17.05,510790,NA,NA,0,Duke,Duke,106
+2010-11,2010-11-27,1010837,523,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1562,Oregon,730,730,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,106
+2010-11,2010-11-27,1010837,536,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,NA,NA,714,714,16,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,539,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,66,-26,1562,Oregon,692,692,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,21.450000000000003,329521,NA,NA,0,Oregon,Duke,107
+2010-11,2010-11-27,1010837,543,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,69,-29,1388,Duke,682,682,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.3,21.85,518947,NA,NA,0,Duke,Oregon,108
+2010-11,2010-11-27,1010837,545,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,69,-29,1562,Oregon,673,673,9, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,6.700000000000003,5.450000000000003,457355,NA,NA,0,Oregon,Duke,109
+2010-11,2010-11-27,1010837,548,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1388,Duke,659,659,14, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.199999999999999,17.45,398428,NA,NA,0,Duke,Oregon,110
+2010-11,2010-11-27,1010837,550,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1562,Oregon,644,644,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509249,NA,NA,0,Oregon,Duke,111
+2010-11,2010-11-27,1010837,553,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1388,Duke,631,631,13, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,24,13.15,467271,NA,NA,0,Duke,Duke,112
+2010-11,2010-11-27,1010837,554,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1562,Oregon,631,631,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,112
+2010-11,2010-11-27,1010837,555,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1562,Oregon,624,624,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,30,16.25,329521,NA,NA,0,Oregon,Oregon,113
+2010-11,2010-11-27,1010837,556,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1388,Duke,624,624,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,113
+2010-11,2010-11-27,1010837,562,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1562,Oregon,613,613,11,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,114
+2010-11,2010-11-27,1010837,563,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,72,-32,1388,Duke,613,613,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,114
+2010-11,2010-11-27,1010837,565,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,73,-33,1388,Duke,613,613,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,114
+2010-11,2010-11-27,1010837,569,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,40,73,-33,1388,Duke,600,600,13,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,115
+2010-11,2010-11-27,1010837,570,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,41,73,-32,1562,Oregon,600,600,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,115
+2010-11,2010-11-27,1010837,571,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,42,73,-31,1562,Oregon,600,600,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,115
+2010-11,2010-11-27,1010837,573,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,44,73,-29,1562,Oregon,577,577,23, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,15,11.650000000000006,509248,NA,NA,0,Oregon,Duke,116
+2010-11,2010-11-27,1010837,574,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,44,75,-31,1388,Duke,550,550,27, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,16,12.65,398429,NA,NA,0,Duke,Oregon,117
+2010-11,2010-11-27,1010837,575,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,47,75,-28,1562,Oregon,539,539,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.7,22.849999999999994,551790,NA,NA,0,Oregon,Duke,118
+2010-11,2010-11-27,1010837,576,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,75,-26,1562,Oregon,520,520,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551790,NA,NA,0,Oregon,Duke,119
+2010-11,2010-11-27,1010837,578,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,75,-26,1388,Duke,503,503,17, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,16.45,398428,NA,NA,0,Duke,Duke,120
+2010-11,2010-11-27,1010837,579,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,75,-26,1388,Duke,503,503,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,120
+2010-11,2010-11-27,1010837,580,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,77,-28,1388,Duke,503,503,0, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,24.2,9.15,467271,NA,NA,0,Duke,Duke,120
+2010-11,2010-11-27,1010837,581,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,77,-28,1562,Oregon,503,503,0,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,120
+2010-11,2010-11-27,1010837,582,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,49,78,-29,1388,Duke,503,503,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,120
+2010-11,2010-11-27,1010837,584,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,51,78,-27,1562,Oregon,493,493,10, makes a jump shot from 13 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12,6.950000000000003,509249,NA,NA,0,Oregon,Duke,121
+2010-11,2010-11-27,1010837,585,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,51,80,-29,1388,Duke,478,478,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Oregon,122
+2010-11,2010-11-27,1010837,591,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,51,80,-29,1388,Duke,460,460,18,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,123
+2010-11,2010-11-27,1010837,592,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,51,80,-29,NA,NA,460,460,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,593,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,80,-28,1562,Oregon,460,460,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,123
+2010-11,2010-11-27,1010837,594,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,80,-28,1562,Oregon,460,460,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,123
+2010-11,2010-11-27,1010837,595,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,80,-28,1562,Oregon,460,460,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,123
+2010-11,2010-11-27,1010837,604,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,80,-28,1562,Oregon,447,447,13,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,123
+2010-11,2010-11-27,1010837,605,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,80,-28,1388,Duke,447,447,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,123
+2010-11,2010-11-27,1010837,607,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1388,Duke,447,447,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,123
+2010-11,2010-11-27,1010837,609,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1562,Oregon,433,433,14, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,15,13.549999999999997,330063,NA,NA,0,Oregon,Oregon,124
+2010-11,2010-11-27,1010837,610,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1388,Duke,433,433,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,124
+2010-11,2010-11-27,1010837,612,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1388,Duke,414,414,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,18.2,29.45,398428,NA,NA,0,Duke,Duke,125
+2010-11,2010-11-27,1010837,613,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1388,Duke,414,414,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,125
+2010-11,2010-11-27,1010837,614,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1388,Duke,414,414,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,125
+2010-11,2010-11-27,1010837,615,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,52,81,-29,1562,Oregon,414,414,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,125
+2010-11,2010-11-27,1010837,617,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,53,81,-28,1562,Oregon,414,414,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,125
+2010-11,2010-11-27,1010837,621,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,53,83,-30,1388,Duke,400,400,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Oregon,126
+2010-11,2010-11-27,1010837,636,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,53,83,-30,1388,Duke,373,373,27,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,127
+2010-11,2010-11-27,1010837,637,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,54,83,-29,1562,Oregon,373,373,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,127
+2010-11,2010-11-27,1010837,638,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,55,83,-28,1562,Oregon,373,373,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,127
+2010-11,2010-11-27,1010837,639,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,55,83,-28,1562,Oregon,373,373,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,641,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,55,83,-28,1388,Duke,363,363,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,21.35,398428,NA,NA,0,Duke,Duke,128
+2010-11,2010-11-27,1010837,642,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,55,83,-28,1562,Oregon,363,363,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,128
+2010-11,2010-11-27,1010837,643,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,83,-25,1562,Oregon,353,353,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.8,6.75,457355,NA,NA,0,Oregon,Duke,129
+2010-11,2010-11-27,1010837,650,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,83,-25,1562,Oregon,330,330,23,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,130
+2010-11,2010-11-27,1010837,651,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,84,-26,1388,Duke,330,330,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,130
+2010-11,2010-11-27,1010837,652,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,330,330,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,130
+2010-11,2010-11-27,1010837,661,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,312,312,18,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,131
+2010-11,2010-11-27,1010837,662,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,312,312,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1010837,663,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1562,Oregon,312,312,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,131
+2010-11,2010-11-27,1010837,665,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1562,Oregon,312,312,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,131
+2010-11,2010-11-27,1010837,666,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,312,312,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,131
+2010-11,2010-11-27,1010837,668,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,301,301,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551768,NA,NA,0,Duke,Duke,132
+2010-11,2010-11-27,1010837,669,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,301,301,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,132
+2010-11,2010-11-27,1010837,670,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1562,Oregon,283,283,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329521,NA,NA,0,Oregon,Oregon,132
+2010-11,2010-11-27,1010837,671,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,283,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,132
+2010-11,2010-11-27,1010837,672,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,276,276,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,12.45,463135,NA,NA,0,Duke,Duke,133
+2010-11,2010-11-27,1010837,673,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,85,-27,1388,Duke,276,276,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,133
+2010-11,2010-11-27,1010837,674,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,88,-30,1388,Duke,266,266,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,30.3,28.25,510784,NA,NA,0,Duke,Oregon,133
+2010-11,2010-11-27,1010837,684,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,58,88,-30,1388,Duke,244,244,22,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,134
+2010-11,2010-11-27,1010837,685,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,59,88,-29,1562,Oregon,244,244,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,134
+2010-11,2010-11-27,1010837,686,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,88,-28,1562,Oregon,244,244,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,134
+2010-11,2010-11-27,1010837,688,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,1388,Duke,232,232,12, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.2,24.75,518947,NA,NA,0,Duke,Oregon,135
+2010-11,2010-11-27,1010837,689,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,1562,Oregon,221,221,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13.5,25.75,551791,NA,NA,0,Oregon,Oregon,136
+2010-11,2010-11-27,1010837,690,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,1388,Duke,221,221,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Duke,136
+2010-11,2010-11-27,1010837,693,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,1562,Oregon,209,209,12,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,137
+2010-11,2010-11-27,1010837,694,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,NA,NA,209,209,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,695,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,91,-31,1388,Duke,209,209,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,137
+2010-11,2010-11-27,1010837,697,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,60,92,-32,1388,Duke,209,209,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Oregon,137
+2010-11,2010-11-27,1010837,699,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,62,92,-30,1562,Oregon,182,182,27, makes a hook shot from 10 feet out.,made,FALSE,FALSE,Hook Shot,23.2,14.75,551791,NA,NA,0,Oregon,Duke,138
+2010-11,2010-11-27,1010837,700,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,62,95,-33,1388,Duke,159,159,23, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41.5,19.35,463135,NA,NA,0,Duke,Oregon,139
+2010-11,2010-11-27,1010837,701,0,2,Oregon,Duke,Ducks,Blue Devils,4,3,62,98,-36,1388,Duke,128,128,31, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26.2,29.65,518947,NA,NA,0,Duke,Oregon,140
+2010-11,2010-11-27,1010837,705,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,62,98,-36,1562,Oregon,119,119,9,Ducks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,707,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,65,98,-33,1562,Oregon,110,110,9, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.8,24.25,509249,NA,NA,0,Oregon,Duke,141
+2010-11,2010-11-27,1010837,711,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,65,98,-33,1562,Oregon,73,73,37, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.7,9.849999999999994,403002,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,712,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,65,98,-33,1562,Oregon,73,73,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,713,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,65,98,-33,1388,Duke,73,73,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,715,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,66,98,-32,1562,Oregon,72,72,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,716,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,66,98,-32,1562,Oregon,72,72,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,717,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,66,98,-32,1562,Oregon,72,72,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,720,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,66,98,-32,1562,Oregon,55,55,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403002,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,721,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,66,98,-32,1562,Oregon,55,55,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,142
+2010-11,2010-11-27,1010837,723,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,68,98,-30,1562,Oregon,55,55,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330063,NA,NA,0,Oregon,Duke,142
+2010-11,2010-11-27,1010837,725,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,71,98,-27,1562,Oregon,20,20,35, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,8.799999999999997,20.549999999999997,509249,NA,NA,0,Oregon,Duke,143
+2010-11,2010-11-27,1010837,739,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,71,98,-27,NA,NA,0,0,20,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1010837,740,0,2,Oregon,Duke,Ducks,Blue Devils,3,3,71,98,-27,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,NA

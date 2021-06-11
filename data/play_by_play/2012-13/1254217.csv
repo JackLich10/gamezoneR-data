@@ -1,0 +1,241 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Anthony James,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Jake Koch,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Marc Sonnen,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1449,Iowa,NA,NA,NA,Starting Lineup - Roy Devyn Marble,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Deon Mitchell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,NA,NA,NA,Starting Lineup - Seth Tuttle,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1449,Iowa,NA,NA,NA,Starting Lineup - Aaron White,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1449,Iowa,NA,NA,NA,Starting Lineup - Anthony Clemmons,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1449,Iowa,NA,NA,NA,Starting Lineup - Mike Gesell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,1,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1449,Iowa,NA,NA,NA,Starting Lineup - Adam Woodbury,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2012-13,2012-12-15,1254217,2,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UNI,1
+2012-13,2012-12-15,1254217,4,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,0,0,0,1544,UNI,2379,1179,21,Anthony James misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,18.450000000000003,465839,Anthony James,NA,0,UNI,UNI,1
+2012-13,2012-12-15,1254217,5,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,0,2,1544,UNI,2373,1173,6,Seth Tuttle makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,22.7,9.549999999999997,603178,Seth Tuttle,NA,0,UNI,Iowa,1
+2012-13,2012-12-15,1254217,7,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,0,2,1544,UNI,2359,1159,14,Shooting foul committed by Marc Sonnen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,2
+2012-13,2012-12-15,1254217,8,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,1,1,1449,Iowa,2359,1159,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,2
+2012-13,2012-12-15,1254217,9,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,2,0,1449,Iowa,2359,1159,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,2
+2012-13,2012-12-15,1254217,13,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,2,0,1544,UNI,2331,1131,28,Deon Mitchell misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.9,21.150000000000006,603175,Deon Mitchell,NA,0,UNI,Iowa,3
+2012-13,2012-12-15,1254217,15,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,5,-3,1449,Iowa,2316,1116,15,Devyn Marble makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,24.1,29.15,553557,Devyn Marble,NA,0,Iowa,UNI,4
+2012-13,2012-12-15,1254217,17,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,5,-3,1544,UNI,2300,1100,16,Marc Sonnen misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,39,26.549999999999997,508790,Marc Sonnen,NA,0,UNI,Iowa,5
+2012-13,2012-12-15,1254217,18,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,2,8,-6,1449,Iowa,2291,1091,9,Mike Gesell makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.5,8.75,699846,Mike Gesell,NA,0,Iowa,UNI,6
+2012-13,2012-12-15,1254217,20,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,4,8,-4,1544,UNI,2271,1071,20,Deon Mitchell makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28.5,10.049999999999997,603175,Deon Mitchell,NA,0,UNI,Iowa,7
+2012-13,2012-12-15,1254217,21,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,4,8,-4,1544,UNI,2250,1050,21,Anthony James misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.6,26.25,465839,Anthony James,NA,0,UNI,UNI,8
+2012-13,2012-12-15,1254217,29,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,6,8,-2,1544,UNI,2222,1022,28,Anthony James makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,465839,Anthony James,NA,0,UNI,Iowa,8
+2012-13,2012-12-15,1254217,31,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,6,8,-2,1449,Iowa,2205,1005,17,Adam Woodbury misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,19.6,10.75,699851,Adam Woodbury,NA,0,Iowa,UNI,9
+2012-13,2012-12-15,1254217,33,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,6,8,-2,1449,Iowa,2201,1001,4,Personal foul committed by Devyn Marble.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,10
+2012-13,2012-12-15,1254217,44,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,6,8,-2,1449,Iowa,2162,962,39,Shooting foul committed by Adam Woodbury.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,10
+2012-13,2012-12-15,1254217,45,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,7,8,-1,1544,UNI,2162,962,0,Anthony James makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,10
+2012-13,2012-12-15,1254217,46,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,8,8,0,1544,UNI,2162,962,0,Anthony James makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,10
+2012-13,2012-12-15,1254217,48,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,8,8,0,1449,Iowa,2151,951,11,Devyn Marble misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,21.15,553557,Devyn Marble,NA,0,Iowa,UNI,11
+2012-13,2012-12-15,1254217,49,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,8,2,1544,UNI,2145,945,6,Deon Mitchell makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.7,9.950000000000003,603175,Deon Mitchell,NA,0,UNI,Iowa,12
+2012-13,2012-12-15,1254217,50,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,8,2,1544,UNI,2138,938,7,Deon Mitchell misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12.200000000000003,24.25,603175,Deon Mitchell,NA,0,UNI,Iowa,13
+2012-13,2012-12-15,1254217,52,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,10,0,1449,Iowa,2118,918,20,Zach McCabe makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,553558,Zach McCabe,NA,0,Iowa,Iowa,14
+2012-13,2012-12-15,1254217,53,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,10,0,1544,UNI,2118,918,0,Shooting foul committed by Nate Buss.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,14
+2012-13,2012-12-15,1254217,54,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,10,0,NA,NA,2118,918,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,55,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,10,0,1449,Iowa,2118,918,0,Zach McCabe misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,14
+2012-13,2012-12-15,1254217,60,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,13,-3,1449,Iowa,2091,891,27,Mike Gesell makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.5,8.55,699846,Mike Gesell,NA,0,Iowa,UNI,14
+2012-13,2012-12-15,1254217,62,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,13,-3,1544,UNI,2057,857,34,Chip Rank misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,9.25,554807,Chip Rank,NA,0,UNI,UNI,15
+2012-13,2012-12-15,1254217,63,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,10,13,-3,1544,UNI,2037,837,20,Nate Buss misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,554808,Nate Buss,NA,0,UNI,UNI,15
+2012-13,2012-12-15,1254217,64,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,12,13,-1,1544,UNI,2033,833,4,Nate Buss makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,25.1,15.150000000000006,554808,Nate Buss,NA,0,UNI,Iowa,15
+2012-13,2012-12-15,1254217,66,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,12,13,-1,1449,Iowa,2024,824,9,Zach McCabe misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.9,14.55,553558,Zach McCabe,NA,0,Iowa,Iowa,16
+2012-13,2012-12-15,1254217,67,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,12,16,-4,1449,Iowa,2017,817,7,Mike Gesell makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7.600000000000001,20.15,699846,Mike Gesell,NA,0,Iowa,UNI,16
+2012-13,2012-12-15,1254217,69,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,15,16,-1,1544,UNI,1995,795,22,Deon Mitchell makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,20.3,28.450000000000003,603175,Deon Mitchell,NA,0,UNI,Iowa,17
+2012-13,2012-12-15,1254217,71,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,15,19,-4,1449,Iowa,1980,780,15,Zach McCabe makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,34.8,26.25,553558,Zach McCabe,NA,0,Iowa,UNI,18
+2012-13,2012-12-15,1254217,74,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,15,19,-4,1449,Iowa,1957,757,23,Personal foul committed by Eric May.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,19
+2012-13,2012-12-15,1254217,76,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,17,19,-2,1544,UNI,1946,746,11,Anthony James makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,26.1,14.549999999999997,465839,Anthony James,NA,0,UNI,Iowa,19
+2012-13,2012-12-15,1254217,80,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,17,19,-2,1449,Iowa,1910,710,36,Josh Oglesby misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,47.9,12.45,609686,Josh Oglesby,NA,0,Iowa,Iowa,20
+2012-13,2012-12-15,1254217,81,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,17,19,-2,1544,UNI,1910,710,0,Personal foul committed by Marc Sonnen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,20
+2012-13,2012-12-15,1254217,82,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,17,19,-2,NA,NA,1910,710,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,86,0,1,UNI,Iowa,Panthers,Hawkeyes,4,4,17,19,-2,1449,Iowa,1902,702,8,Offensive foul committed by Anthony Clemmons.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,20
+2012-13,2012-12-15,1254217,95,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,17,19,-2,1544,UNI,1889,689,13,Panthers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,104,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,17,19,-2,1544,UNI,1871,671,18,Anthony James misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,35.6,21.650000000000006,465839,Anthony James,NA,0,UNI,Iowa,21
+2012-13,2012-12-15,1254217,105,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,17,21,-4,1449,Iowa,1861,661,10,Gabriel Olaseni makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27,9.95,609684,Gabriel Olaseni,NA,0,Iowa,UNI,22
+2012-13,2012-12-15,1254217,109,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,21,-2,1544,UNI,1832,632,29,Seth Tuttle makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603178,Seth Tuttle,NA,0,UNI,Iowa,23
+2012-13,2012-12-15,1254217,112,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,23,-4,1449,Iowa,1800,600,32,Eric May makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,15.7,15.15,506036,Eric May,NA,0,Iowa,UNI,24
+2012-13,2012-12-15,1254217,113,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,23,-4,1544,UNI,1780,580,20,Matt Bohannon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.4,28.650000000000006,603171,Matt Bohannon,NA,0,UNI,Iowa,25
+2012-13,2012-12-15,1254217,114,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,25,-6,1449,Iowa,1766,566,14,Gabriel Olaseni makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,39.2,6.55,609684,Gabriel Olaseni,NA,0,Iowa,UNI,26
+2012-13,2012-12-15,1254217,116,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,25,-6,1449,Iowa,1749,549,17,Shooting foul committed by Zach McCabe.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,27
+2012-13,2012-12-15,1254217,117,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,19,25,-6,1544,UNI,1749,549,0,Jake Koch misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,27
+2012-13,2012-12-15,1254217,118,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,25,-5,1544,UNI,1749,549,0,Jake Koch makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,27
+2012-13,2012-12-15,1254217,120,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,28,-8,1449,Iowa,1739,539,10,Devyn Marble makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3.5,11.45,553557,Devyn Marble,NA,0,Iowa,UNI,28
+2012-13,2012-12-15,1254217,121,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,28,-8,1544,UNI,1720,520,19,Anthony James misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,10.75,465839,Anthony James,NA,0,UNI,Iowa,29
+2012-13,2012-12-15,1254217,122,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,28,-8,1449,Iowa,1716,516,4,Zach McCabe misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,13.45,553558,Zach McCabe,NA,0,Iowa,UNI,30
+2012-13,2012-12-15,1254217,124,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,28,-8,1544,UNI,1706,506,10,Matt Morrison misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,9.450000000000003,508789,Matt Morrison,NA,0,UNI,Iowa,31
+2012-13,2012-12-15,1254217,125,0,1,UNI,Iowa,Panthers,Hawkeyes,3,4,20,31,-11,1449,Iowa,1700,500,6,Devyn Marble makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,13.2,26.25,553557,Devyn Marble,NA,0,Iowa,UNI,32
+2012-13,2012-12-15,1254217,128,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,20,31,-11,1544,UNI,1695,495,5,Panthers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,131,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,20,31,-11,1449,Iowa,1686,486,9,Shooting foul committed by Zach McCabe.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,33
+2012-13,2012-12-15,1254217,132,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,21,31,-10,1544,UNI,1686,486,0,Deon Mitchell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,33
+2012-13,2012-12-15,1254217,133,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1544,UNI,1686,486,0,Deon Mitchell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,33
+2012-13,2012-12-15,1254217,136,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1449,Iowa,1675,475,11,Aaron White misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21,9.25,609695,Aaron White,NA,0,Iowa,Iowa,34
+2012-13,2012-12-15,1254217,137,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1449,Iowa,1671,471,4,Devyn Marble misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15,27.25,553557,Devyn Marble,NA,0,Iowa,UNI,34
+2012-13,2012-12-15,1254217,140,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,NA,NA,1664,464,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,145,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1544,UNI,1648,448,16,Jake Koch misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25.1,13.849999999999994,465843,Jake Koch,NA,0,UNI,UNI,35
+2012-13,2012-12-15,1254217,150,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1449,Iowa,1641,441,7,Personal foul committed by Anthony Clemmons.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,35
+2012-13,2012-12-15,1254217,151,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,22,31,-9,1544,UNI,1641,441,0,Deon Mitchell misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,35
+2012-13,2012-12-15,1254217,161,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,31,-7,1544,UNI,1610,410,31,Seth Tuttle dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,603178,Seth Tuttle,NA,0,UNI,Iowa,35
+2012-13,2012-12-15,1254217,164,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,31,-7,1544,UNI,1599,399,11,Shooting foul committed by Seth Tuttle.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,36
+2012-13,2012-12-15,1254217,165,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,32,-8,1449,Iowa,1599,399,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,36
+2012-13,2012-12-15,1254217,166,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,33,-9,1449,Iowa,1599,399,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,36
+2012-13,2012-12-15,1254217,169,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,33,-9,1544,UNI,1587,387,12,Seth Tuttle misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,603178,Seth Tuttle,NA,0,UNI,Iowa,37
+2012-13,2012-12-15,1254217,171,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,24,33,-9,1449,Iowa,1571,371,16,Offensive foul committed by Aaron White.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,38
+2012-13,2012-12-15,1254217,174,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1544,UNI,1561,361,10,Anthony James makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.5,9.950000000000003,465839,Anthony James,NA,0,UNI,Iowa,39
+2012-13,2012-12-15,1254217,180,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1449,Iowa,1544,344,17,Mike Gesell misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38,25.35,699846,Mike Gesell,NA,0,Iowa,Iowa,40
+2012-13,2012-12-15,1254217,182,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1544,UNI,1541,341,3,Personal foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,40
+2012-13,2012-12-15,1254217,184,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1449,Iowa,1533,333,8,Adam Woodbury misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,699851,Adam Woodbury,NA,0,Iowa,UNI,40
+2012-13,2012-12-15,1254217,185,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1544,UNI,1520,320,13,Seth Tuttle misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,603178,Seth Tuttle,NA,0,UNI,Iowa,41
+2012-13,2012-12-15,1254217,195,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1449,Iowa,1490,290,30,Josh Oglesby misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.2,25.05,609686,Josh Oglesby,NA,0,Iowa,UNI,42
+2012-13,2012-12-15,1254217,202,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1544,UNI,1464,264,26,Anthony James misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,11.75,465839,Anthony James,NA,0,UNI,UNI,43
+2012-13,2012-12-15,1254217,209,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1544,UNI,1434,234,30,Chip Rank misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.4,6.849999999999994,554807,Chip Rank,NA,0,UNI,Iowa,43
+2012-13,2012-12-15,1254217,211,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1449,Iowa,1422,222,12,Aaron White misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.9,7.55,609695,Aaron White,NA,0,Iowa,UNI,44
+2012-13,2012-12-15,1254217,212,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,1449,Iowa,1422,222,0,Personal foul committed by Eric May.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,45
+2012-13,2012-12-15,1254217,213,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,26,33,-7,NA,NA,1422,222,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,214,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,27,33,-6,1544,UNI,1422,222,0,Jake Koch makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,45
+2012-13,2012-12-15,1254217,215,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,33,-5,1544,UNI,1422,222,0,Jake Koch makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,45
+2012-13,2012-12-15,1254217,218,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,33,-5,1449,Iowa,1408,208,14,Aaron White misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.399999999999999,19.25,609695,Aaron White,NA,0,Iowa,UNI,46
+2012-13,2012-12-15,1254217,219,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,33,-5,1544,UNI,1395,195,13,Deon Mitchell misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27,10.75,603175,Deon Mitchell,NA,0,UNI,Iowa,47
+2012-13,2012-12-15,1254217,222,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,36,-8,1449,Iowa,1378,178,17,Mike Gesell makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,11,26.95,699846,Mike Gesell,NA,0,Iowa,UNI,48
+2012-13,2012-12-15,1254217,228,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,36,-8,1544,UNI,1357,157,21,Matt Bohannon misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,31.2,29.150000000000006,603171,Matt Bohannon,NA,0,UNI,Iowa,49
+2012-13,2012-12-15,1254217,240,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,28,36,-8,1449,Iowa,1325,125,32,Devyn Marble misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24.9,31.15,553557,Devyn Marble,NA,0,Iowa,UNI,50
+2012-13,2012-12-15,1254217,241,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,36,-6,1544,UNI,1316,116,9,Anthony James makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,25.4,15.549999999999997,465839,Anthony James,NA,0,UNI,Iowa,51
+2012-13,2012-12-15,1254217,243,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,39,-9,1449,Iowa,1306,106,10,Josh Oglesby makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47.4,9.95,609686,Josh Oglesby,NA,0,Iowa,UNI,52
+2012-13,2012-12-15,1254217,247,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,39,-9,1544,UNI,1283,83,23,Chip Rank misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.4,21.450000000000003,554807,Chip Rank,NA,0,UNI,Iowa,53
+2012-13,2012-12-15,1254217,249,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,39,-9,1544,UNI,1279,79,4,Shooting foul committed by Anthony James.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,54
+2012-13,2012-12-15,1254217,250,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,40,-10,1449,Iowa,1279,79,0,Aaron White makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,54
+2012-13,2012-12-15,1254217,251,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,40,-10,1449,Iowa,1279,79,0,Aaron White misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,54
+2012-13,2012-12-15,1254217,254,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,30,40,-10,1544,UNI,1260,60,19,Seth Tuttle misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.4,12.450000000000003,603178,Seth Tuttle,NA,0,UNI,UNI,55
+2012-13,2012-12-15,1254217,265,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,32,40,-8,1544,UNI,1224,24,36,Seth Tuttle makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,27,10.049999999999997,603178,Seth Tuttle,NA,0,UNI,Iowa,55
+2012-13,2012-12-15,1254217,267,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,32,40,-8,1544,UNI,1216,16,8,Seth Tuttle misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,603178,Seth Tuttle,NA,0,UNI,Iowa,56
+2012-13,2012-12-15,1254217,270,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,32,40,-8,1449,Iowa,1201,1,15,Aaron White misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,9.05,609695,Aaron White,NA,0,Iowa,Iowa,57
+2012-13,2012-12-15,1254217,271,0,1,UNI,Iowa,Panthers,Hawkeyes,2,4,32,40,-8,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,272,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,32,40,-8,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,57
+2012-13,2012-12-15,1254217,275,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,32,40,-8,1449,Iowa,1180,1180,20,Adam Woodbury misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,10.45,699851,Adam Woodbury,NA,0,Iowa,UNI,58
+2012-13,2012-12-15,1254217,278,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,32,40,-8,1544,UNI,1163,1163,17,Jake Koch misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,465843,Jake Koch,NA,0,UNI,UNI,59
+2012-13,2012-12-15,1254217,279,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,34,40,-6,1544,UNI,1163,1163,0,Seth Tuttle makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,27.8,10.950000000000003,603178,Seth Tuttle,NA,0,UNI,UNI,59
+2012-13,2012-12-15,1254217,280,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,34,40,-6,1449,Iowa,1163,1163,0,Shooting foul committed by Adam Woodbury.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,59
+2012-13,2012-12-15,1254217,281,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,40,-5,1544,UNI,1163,1163,0,Seth Tuttle makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,59
+2012-13,2012-12-15,1254217,291,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,40,-5,1544,UNI,1128,1128,35,Shooting foul committed by Seth Tuttle.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2012-13,2012-12-15,1254217,292,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,41,-6,1449,Iowa,1128,1128,0,Adam Woodbury makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2012-13,2012-12-15,1254217,293,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,41,-6,1449,Iowa,1128,1128,0,Adam Woodbury misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,60
+2012-13,2012-12-15,1254217,297,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,41,-6,1544,UNI,1100,1100,28,Jake Koch misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.7,29.849999999999994,465843,Jake Koch,NA,0,UNI,Iowa,61
+2012-13,2012-12-15,1254217,298,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1449,Iowa,1093,1093,7,Devyn Marble makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,28.1,23.55,553557,Devyn Marble,NA,0,Iowa,UNI,62
+2012-13,2012-12-15,1254217,301,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1544,UNI,1067,1067,26,Anthony James misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,10.25,465839,Anthony James,NA,0,UNI,Iowa,63
+2012-13,2012-12-15,1254217,304,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1449,Iowa,1056,1056,11,Devyn Marble misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.4,24.25,553557,Devyn Marble,NA,0,Iowa,Iowa,64
+2012-13,2012-12-15,1254217,305,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1544,UNI,1056,1056,0,Personal foul committed by Jake Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,64
+2012-13,2012-12-15,1254217,306,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1449,Iowa,1056,1056,0,Personal foul committed by Adam Woodbury.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,64
+2012-13,2012-12-15,1254217,310,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,35,43,-8,1449,Iowa,1043,1043,13,Shooting foul committed by Anthony Clemmons.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,64
+2012-13,2012-12-15,1254217,311,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,36,43,-7,1544,UNI,1043,1043,0,Deon Mitchell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,64
+2012-13,2012-12-15,1254217,312,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,43,-6,1544,UNI,1043,1043,0,Deon Mitchell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,64
+2012-13,2012-12-15,1254217,315,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,43,-6,1544,UNI,1034,1034,9,Shooting foul committed by Seth Tuttle.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,65
+2012-13,2012-12-15,1254217,316,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,44,-7,1449,Iowa,1034,1034,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,65
+2012-13,2012-12-15,1254217,317,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,45,-8,1449,Iowa,1034,1034,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,65
+2012-13,2012-12-15,1254217,321,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,45,-8,1544,UNI,1014,1014,20,Offensive foul committed by Jake Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,66
+2012-13,2012-12-15,1254217,325,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,45,-8,1544,UNI,1000,1000,14,Shooting foul committed by Jake Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,67
+2012-13,2012-12-15,1254217,326,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,45,-8,1449,Iowa,1000,1000,0,Aaron White misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,67
+2012-13,2012-12-15,1254217,327,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,37,46,-9,1449,Iowa,1000,1000,0,Aaron White makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,67
+2012-13,2012-12-15,1254217,330,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,39,46,-7,1544,UNI,990,990,10,Jake Koch dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,465843,Jake Koch,NA,0,UNI,Iowa,68
+2012-13,2012-12-15,1254217,332,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,39,49,-10,1449,Iowa,967,967,23,Devyn Marble makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,38,26.25,553557,Devyn Marble,NA,0,Iowa,UNI,69
+2012-13,2012-12-15,1254217,335,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,39,49,-10,1449,Iowa,934,934,33,Personal foul committed by Aaron White.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,70
+2012-13,2012-12-15,1254217,336,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,39,49,-10,NA,NA,934,934,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,341,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,39,49,-10,1449,Iowa,915,915,19,Shooting foul committed by Mike Gesell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,70
+2012-13,2012-12-15,1254217,342,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,40,49,-9,1544,UNI,915,915,0,Marc Sonnen makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,70
+2012-13,2012-12-15,1254217,343,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,41,49,-8,1544,UNI,915,915,0,Marc Sonnen makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,70
+2012-13,2012-12-15,1254217,346,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,41,49,-8,1449,Iowa,894,894,21,Zach McCabe misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,17.95,553558,Zach McCabe,NA,0,Iowa,Iowa,71
+2012-13,2012-12-15,1254217,350,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,41,51,-10,1449,Iowa,858,858,36,Mike Gesell makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28.3,9.75,699846,Mike Gesell,NA,0,Iowa,Iowa,71
+2012-13,2012-12-15,1254217,351,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,41,51,-10,1544,UNI,858,858,0,Shooting foul committed by Anthony James.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,71
+2012-13,2012-12-15,1254217,352,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,41,52,-11,1449,Iowa,858,858,0,Mike Gesell makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,71
+2012-13,2012-12-15,1254217,356,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,43,52,-9,1544,UNI,830,830,28,Deon Mitchell makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,22.2,9.75,603175,Deon Mitchell,NA,0,UNI,Iowa,72
+2012-13,2012-12-15,1254217,359,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,43,52,-9,1449,Iowa,803,803,27,Zach McCabe misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.1000000000000014,7.75,553558,Zach McCabe,NA,0,Iowa,Iowa,73
+2012-13,2012-12-15,1254217,360,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,43,52,-9,1449,Iowa,795,795,8,Melsahn Basabe misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,Melsahn Basabe,NA,0,Iowa,Iowa,73
+2012-13,2012-12-15,1254217,364,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,43,52,-9,1544,UNI,774,774,21,Personal foul committed by Anthony James.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,73
+2012-13,2012-12-15,1254217,365,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,43,52,-9,1449,Iowa,774,774,0,Devyn Marble misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,73
+2012-13,2012-12-15,1254217,367,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,45,52,-7,1544,UNI,772,772,2,Deon Mitchell makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603175,Deon Mitchell,NA,0,UNI,Iowa,74
+2012-13,2012-12-15,1254217,378,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,45,52,-7,1449,Iowa,753,753,19,Devyn Marble misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.1,11.95,553557,Devyn Marble,NA,0,Iowa,UNI,75
+2012-13,2012-12-15,1254217,380,0,2,UNI,Iowa,Panthers,Hawkeyes,4,4,47,52,-5,1544,UNI,743,743,10,Seth Tuttle makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603178,Seth Tuttle,NA,0,UNI,Iowa,76
+2012-13,2012-12-15,1254217,381,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,47,52,-5,1449,Iowa,742,742,1,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,385,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,47,52,-5,1449,Iowa,721,721,21,Devyn Marble misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.6,9.45,553557,Devyn Marble,NA,0,Iowa,Iowa,77
+2012-13,2012-12-15,1254217,386,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,47,55,-8,1449,Iowa,715,715,6,Josh Oglesby makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3.3000000000000007,12.15,609686,Josh Oglesby,NA,0,Iowa,UNI,77
+2012-13,2012-12-15,1254217,388,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1544,UNI,696,696,19,Seth Tuttle makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603178,Seth Tuttle,NA,0,UNI,Iowa,78
+2012-13,2012-12-15,1254217,389,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1449,Iowa,671,671,25,Zach McCabe misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17.8,27.75,553558,Zach McCabe,NA,0,Iowa,Iowa,79
+2012-13,2012-12-15,1254217,390,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1449,Iowa,667,667,4,Gabriel Olaseni misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.4,10.75,609684,Gabriel Olaseni,NA,0,Iowa,UNI,79
+2012-13,2012-12-15,1254217,391.5,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1544,UNI,652,652,15,Jake Koch misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,465843,Jake Koch,NA,0,UNI,Iowa,80
+2012-13,2012-12-15,1254217,393,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1449,Iowa,645,645,7,Devyn Marble misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,12.25,553557,Devyn Marble,NA,0,Iowa,UNI,81
+2012-13,2012-12-15,1254217,394,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1449,Iowa,645,645,0,Personal foul committed by Zach McCabe.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,82
+2012-13,2012-12-15,1254217,395,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,NA,NA,645,645,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,400,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1544,UNI,632,632,13,Deon Mitchell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,603175,Deon Mitchell,NA,0,UNI,Iowa,82
+2012-13,2012-12-15,1254217,402,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1449,Iowa,602,602,30,Mike Gesell misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.1,29.65,699846,Mike Gesell,NA,0,Iowa,UNI,83
+2012-13,2012-12-15,1254217,403,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1544,UNI,593,593,9,Jake Koch misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,24.549999999999997,465843,Jake Koch,NA,0,UNI,Iowa,84
+2012-13,2012-12-15,1254217,406,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,55,-6,1544,UNI,587,587,6,Shooting foul committed by Matt Bohannon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,85
+2012-13,2012-12-15,1254217,407,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,56,-7,1449,Iowa,587,587,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,85
+2012-13,2012-12-15,1254217,408,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,49,57,-8,1449,Iowa,587,587,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,85
+2012-13,2012-12-15,1254217,411,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,52,57,-5,1544,UNI,575,575,12,Chip Rank makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,2.299999999999997,8.25,554807,Chip Rank,NA,0,UNI,Iowa,86
+2012-13,2012-12-15,1254217,413,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,52,59,-7,1449,Iowa,552,552,23,Devyn Marble makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.2,9.95,553557,Devyn Marble,NA,0,Iowa,UNI,87
+2012-13,2012-12-15,1254217,415,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,52,59,-7,1544,UNI,530,530,22,Marc Sonnen misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46,14.349999999999994,508790,Marc Sonnen,NA,0,UNI,Iowa,88
+2012-13,2012-12-15,1254217,418,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,52,59,-7,1449,Iowa,498,498,32,Devyn Marble misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,40.4,25.55,553557,Devyn Marble,NA,0,Iowa,UNI,89
+2012-13,2012-12-15,1254217,429,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,54,59,-5,1544,UNI,482,482,16,Seth Tuttle makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603178,Seth Tuttle,NA,0,UNI,UNI,90
+2012-13,2012-12-15,1254217,430,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,54,59,-5,1449,Iowa,482,482,0,Shooting foul committed by Gabriel Olaseni.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,90
+2012-13,2012-12-15,1254217,431,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,59,-4,1544,UNI,482,482,0,Seth Tuttle makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,90
+2012-13,2012-12-15,1254217,436,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1449,Iowa,452,452,30,Melsahn Basabe makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,25.9,22.85,553559,Melsahn Basabe,NA,0,Iowa,UNI,91
+2012-13,2012-12-15,1254217,439,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1544,UNI,425,425,27,Chip Rank misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.7999999999999972,8.549999999999997,554807,Chip Rank,NA,0,UNI,UNI,92
+2012-13,2012-12-15,1254217,440,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1544,UNI,414,414,11,Deon Mitchell misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,603175,Deon Mitchell,NA,0,UNI,Iowa,92
+2012-13,2012-12-15,1254217,443,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1449,Iowa,393,393,21,Mike Gesell misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,23.4,25.25,699846,Mike Gesell,NA,0,Iowa,Iowa,93
+2012-13,2012-12-15,1254217,448,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,NA,NA,390,390,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,452,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1449,Iowa,372,372,18,Offensive foul committed by Melsahn Basabe.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,93
+2012-13,2012-12-15,1254217,457,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,61,-6,1544,UNI,348,348,24,Offensive foul committed by Deon Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,94
+2012-13,2012-12-15,1254217,460,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,64,-9,1449,Iowa,334,334,14,Aaron White makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,44.5,18.45,609695,Aaron White,NA,0,Iowa,UNI,95
+2012-13,2012-12-15,1254217,463,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,64,-9,1544,UNI,312,312,22,Chip Rank misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.200000000000003,17.049999999999997,554807,Chip Rank,NA,0,UNI,Iowa,96
+2012-13,2012-12-15,1254217,468,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,64,-9,1544,UNI,278,278,34,Personal foul committed by Seth Tuttle.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,97
+2012-13,2012-12-15,1254217,469,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,65,-10,1449,Iowa,278,278,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,97
+2012-13,2012-12-15,1254217,470,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,65,-10,1449,Iowa,278,278,0,Devyn Marble misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,97
+2012-13,2012-12-15,1254217,473,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,65,-10,1544,UNI,261,261,17,Anthony James misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,21.9,16.549999999999997,465839,Anthony James,NA,0,UNI,Iowa,98
+2012-13,2012-12-15,1254217,476,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,65,-10,1544,UNI,243,243,18,Shooting foul committed by Marc Sonnen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,99
+2012-13,2012-12-15,1254217,477,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,65,-10,1449,Iowa,243,243,0,Devyn Marble misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,99
+2012-13,2012-12-15,1254217,478,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,1449,Iowa,243,243,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,99
+2012-13,2012-12-15,1254217,482,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,1449,Iowa,232,232,11,Personal foul committed by Eric May.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,100
+2012-13,2012-12-15,1254217,483,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,NA,NA,232,232,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,484,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,1544,UNI,232,232,0,Marc Sonnen misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,100
+2012-13,2012-12-15,1254217,492,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,1449,Iowa,199,199,33,Eric May misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,20.45,506036,Eric May,NA,0,Iowa,UNI,101
+2012-13,2012-12-15,1254217,493,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,66,-11,1544,UNI,189,189,10,Anthony James misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,465839,Anthony James,NA,0,UNI,Iowa,102
+2012-13,2012-12-15,1254217,495,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,68,-13,1449,Iowa,160,160,29,Mike Gesell makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,22,10.05,699846,Mike Gesell,NA,0,Iowa,UNI,103
+2012-13,2012-12-15,1254217,497,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,55,68,-13,1544,UNI,150,150,10,Seth Tuttle misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,27.1,10.75,603178,Seth Tuttle,NA,0,UNI,UNI,104
+2012-13,2012-12-15,1254217,499,0,2,UNI,Iowa,Panthers,Hawkeyes,4,3,58,68,-10,1544,UNI,143,143,7,Jake Koch makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40.4,23.049999999999997,465843,Jake Koch,NA,0,UNI,Iowa,104
+2012-13,2012-12-15,1254217,502,0,2,UNI,Iowa,Panthers,Hawkeyes,3,3,58,68,-10,1544,UNI,142,142,1,Panthers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,512,0,2,UNI,Iowa,Panthers,Hawkeyes,3,3,58,68,-10,1544,UNI,112,112,30,Personal foul committed by Anthony James.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,105
+2012-13,2012-12-15,1254217,513,0,2,UNI,Iowa,Panthers,Hawkeyes,3,3,58,69,-11,1449,Iowa,112,112,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,105
+2012-13,2012-12-15,1254217,514,0,2,UNI,Iowa,Panthers,Hawkeyes,3,3,58,69,-11,1449,Iowa,112,112,0,Devyn Marble misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,105
+2012-13,2012-12-15,1254217,517,0,2,UNI,Iowa,Panthers,Hawkeyes,3,3,60,69,-9,1544,UNI,104,104,8,Deon Mitchell makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,603175,Deon Mitchell,NA,0,UNI,Iowa,106
+2012-13,2012-12-15,1254217,521,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,60,69,-9,1544,UNI,102,102,2,Panthers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,525,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,62,69,-7,1544,UNI,92,92,10,Anthony James makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,465839,Anthony James,NA,0,UNI,UNI,107
+2012-13,2012-12-15,1254217,526,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,62,69,-7,1449,Iowa,92,92,0,Shooting foul committed by Devyn Marble.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,UNI,107
+2012-13,2012-12-15,1254217,527,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,63,69,-6,1544,UNI,92,92,0,Anthony James makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UNI,Iowa,107
+2012-13,2012-12-15,1254217,531,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,63,69,-6,1544,UNI,76,76,16,Personal foul committed by Marc Sonnen.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,108
+2012-13,2012-12-15,1254217,532,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,63,69,-6,1449,Iowa,76,76,0,Devyn Marble misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,108
+2012-13,2012-12-15,1254217,533,0,2,UNI,Iowa,Panthers,Hawkeyes,2,3,63,70,-7,1449,Iowa,76,76,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,108
+2012-13,2012-12-15,1254217,534,0,2,UNI,Iowa,Panthers,Hawkeyes,2,2,63,70,-7,1449,Iowa,76,76,0,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,537,0,2,UNI,Iowa,Panthers,Hawkeyes,2,2,65,70,-5,1544,UNI,62,62,14,Deon Mitchell makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,25.8,10.450000000000003,603175,Deon Mitchell,NA,0,UNI,Iowa,109
+2012-13,2012-12-15,1254217,543,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,65,70,-5,1544,UNI,62,62,0,Panthers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,548,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,65,70,-5,1544,UNI,53,53,9,Personal foul committed by Max Martino.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,110
+2012-13,2012-12-15,1254217,549,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,65,71,-6,1449,Iowa,53,53,0,Mike Gesell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,110
+2012-13,2012-12-15,1254217,550,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,65,72,-7,1449,Iowa,53,53,0,Mike Gesell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,110
+2012-13,2012-12-15,1254217,552,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,67,72,-5,1544,UNI,49,49,4,Deon Mitchell makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,24.9,11.950000000000003,603175,Deon Mitchell,NA,0,UNI,Iowa,111
+2012-13,2012-12-15,1254217,554,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,67,72,-5,1544,UNI,35,35,14,Personal foul committed by Seth Tuttle.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,112
+2012-13,2012-12-15,1254217,555,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,67,73,-6,1449,Iowa,35,35,0,Aaron White makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,112
+2012-13,2012-12-15,1254217,556,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,67,74,-7,1449,Iowa,35,35,0,Aaron White makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,112
+2012-13,2012-12-15,1254217,558,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,74,-5,1544,UNI,26,26,9,Anthony James makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25.4,11.150000000000006,465839,Anthony James,NA,0,UNI,Iowa,113
+2012-13,2012-12-15,1254217,562,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,74,-5,1544,UNI,25,25,1,Personal foul committed by Anthony James.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,114
+2012-13,2012-12-15,1254217,563,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,75,-6,1449,Iowa,25,25,0,Devyn Marble makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,114
+2012-13,2012-12-15,1254217,564,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,76,-7,1449,Iowa,25,25,0,Devyn Marble makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,114
+2012-13,2012-12-15,1254217,567,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,76,-7,1544,UNI,23,23,2,Personal foul committed by Jake Koch.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,115
+2012-13,2012-12-15,1254217,568,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,76,-7,1449,Iowa,23,23,0,Mike Gesell misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,115
+2012-13,2012-12-15,1254217,569,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,69,77,-8,1449,Iowa,23,23,0,Mike Gesell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,115
+2012-13,2012-12-15,1254217,572,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,71,77,-6,1544,UNI,21,21,2,Deon Mitchell makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.9,9.549999999999997,603175,Deon Mitchell,NA,0,UNI,Iowa,116
+2012-13,2012-12-15,1254217,575,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,71,77,-6,1544,UNI,18,18,3,Personal foul committed by Deon Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,117
+2012-13,2012-12-15,1254217,576,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,71,78,-7,1449,Iowa,18,18,0,Mike Gesell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,117
+2012-13,2012-12-15,1254217,577,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,71,79,-8,1449,Iowa,18,18,0,Mike Gesell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,UNI,117
+2012-13,2012-12-15,1254217,580,0,2,UNI,Iowa,Panthers,Hawkeyes,1,2,73,79,-6,1544,UNI,11,11,7,Marc Sonnen makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,508790,Marc Sonnen,NA,0,UNI,Iowa,118
+2012-13,2012-12-15,1254217,583,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,79,-6,1449,Iowa,7,7,4,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,591,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,79,-6,1544,UNI,4,4,3,Personal foul committed by Deon Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,119
+2012-13,2012-12-15,1254217,594,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,80,-7,1449,Iowa,4,4,0,Mike Gesell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,119
+2012-13,2012-12-15,1254217,595,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,80,-7,1449,Iowa,4,4,0,Mike Gesell misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,NA,119
+2012-13,2012-12-15,1254217,597,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,80,-7,NA,NA,0,0,4,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2012-13,2012-12-15,1254217,598,0,2,UNI,Iowa,Panthers,Hawkeyes,1,1,73,80,-7,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,NA

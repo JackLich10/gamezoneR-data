@@ -1,0 +1,321 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-25,912481,1,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,NA
+2009-10,2010-01-25,912481,7,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,0,0,0,1507,Missouri,2391,1191,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,1
+2009-10,2010-01-25,912481,8,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,1,0,1,1456,Kansas,2391,1191,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,1
+2009-10,2010-01-25,912481,9,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,1,0,1,1456,Kansas,2391,1191,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,1
+2009-10,2010-01-25,912481,10,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,1,0,1,1507,Missouri,2391,1191,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,1
+2009-10,2010-01-25,912481,12,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,1,0,1,1507,Missouri,2380,1180,11, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,9.35,330361,NA,NA,0,Missouri,Missouri,2
+2009-10,2010-01-25,912481,13,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,1,0,1,1456,Kansas,2380,1180,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,2
+2009-10,2010-01-25,912481,14,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,0,3,1456,Kansas,2371,1171,9, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28.8,7.75,398443,NA,NA,0,Kansas,Missouri,3
+2009-10,2010-01-25,912481,21,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,0,3,1507,Missouri,2349,1149,22, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,22.05,506111,NA,NA,0,Missouri,Missouri,4
+2009-10,2010-01-25,912481,22,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,0,3,1507,Missouri,2349,1149,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,4
+2009-10,2010-01-25,912481,23,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,3,0,1507,Missouri,2335,1135,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,22.7,28.25,458723,NA,NA,0,Missouri,Kansas,4
+2009-10,2010-01-25,912481,23.5,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,3,0,1507,Missouri,2309,1109,26, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,18.45,330361,NA,NA,0,Missouri,Missouri,5
+2009-10,2010-01-25,912481,23.75,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,3,0,1456,Kansas,2309,1109,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,5
+2009-10,2010-01-25,912481,24,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,3,0,1456,Kansas,2309,1109,0, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,24.2,12.950000000000003,398443,NA,NA,0,Kansas,Kansas,6
+2009-10,2010-01-25,912481,25,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,3,0,1507,Missouri,2309,1109,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,6
+2009-10,2010-01-25,912481,32,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,5,-2,1507,Missouri,2277,1077,32, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,30.5,7.95,399785,NA,NA,0,Missouri,Kansas,7
+2009-10,2010-01-25,912481,33,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,5,-2,1456,Kansas,2260,1060,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,15.650000000000006,469089,NA,NA,0,Kansas,Kansas,8
+2009-10,2010-01-25,912481,34,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,5,-2,1507,Missouri,2260,1060,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,8
+2009-10,2010-01-25,912481,35,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,8,-5,1507,Missouri,2244,1044,16, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46,6.05,458723,NA,NA,0,Missouri,Kansas,9
+2009-10,2010-01-25,912481,36,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,8,-5,1456,Kansas,2236,1036,8, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,10.849999999999994,330350,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-01-25,912481,37,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,3,8,-5,1456,Kansas,2236,1036,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-01-25,912481,42,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2198,998,38, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,28.5,29.650000000000006,513058,NA,NA,0,Kansas,Missouri,10
+2009-10,2010-01-25,912481,43,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1507,Missouri,2181,981,17, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.8,5.45,399785,NA,NA,0,Missouri,Missouri,11
+2009-10,2010-01-25,912481,44,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2181,981,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,11
+2009-10,2010-01-25,912481,45,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2166,966,15, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,12
+2009-10,2010-01-25,912481,46,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1507,Missouri,2166,966,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,12
+2009-10,2010-01-25,912481,47,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1507,Missouri,2158,958,8, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40,7.15,506111,NA,NA,0,Missouri,Missouri,13
+2009-10,2010-01-25,912481,48,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2158,958,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,13
+2009-10,2010-01-25,912481,49,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1507,Missouri,2150,950,8,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-01-25,912481,50,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2150,950,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,23.049999999999997,330353,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-01-25,912481,51,0,1,Kansas,Missouri,Jayhawks,Tigers,4,4,6,8,-2,1456,Kansas,2150,950,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-01-25,912481,52,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,8,-2,1456,Kansas,2150,950,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,55,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,8,-2,1456,Kansas,2128,928,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,18.549999999999997,330350,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-01-25,912481,56,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,8,-2,1507,Missouri,2128,928,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,14
+2009-10,2010-01-25,912481,57,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,10,-4,1507,Missouri,2121,921,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506111,NA,NA,0,Missouri,Kansas,15
+2009-10,2010-01-25,912481,58,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,10,-4,1456,Kansas,2111,911,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,16
+2009-10,2010-01-25,912481,59,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,6,10,-4,1456,Kansas,2111,911,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,16
+2009-10,2010-01-25,912481,60,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,8,10,-2,1456,Kansas,2104,904,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Missouri,16
+2009-10,2010-01-25,912481,61,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,8,10,-2,1507,Missouri,2096,896,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17.7,29.05,506111,NA,NA,0,Missouri,Missouri,17
+2009-10,2010-01-25,912481,62,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,8,10,-2,1456,Kansas,2096,896,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,17
+2009-10,2010-01-25,912481,64,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,10,10,0,1456,Kansas,2082,882,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-01-25,912481,65,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,10,10,0,1507,Missouri,2082,882,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-01-25,912481,66,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,10,10,0,NA,NA,2082,882,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,71,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,11,10,1,1456,Kansas,2082,882,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,18
+2009-10,2010-01-25,912481,73,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,11,12,-1,1507,Missouri,2061,861,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458724,NA,NA,0,Missouri,Kansas,19
+2009-10,2010-01-25,912481,74,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,11,12,-1,1507,Missouri,2027,827,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,19.55,458725,NA,NA,0,Missouri,Missouri,20
+2009-10,2010-01-25,912481,75,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,11,12,-1,1456,Kansas,2027,827,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,20
+2009-10,2010-01-25,912481,80,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,11,12,-1,1507,Missouri,2020,820,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,21
+2009-10,2010-01-25,912481,81,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,12,12,0,1456,Kansas,2020,820,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,21
+2009-10,2010-01-25,912481,82,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1456,Kansas,2020,820,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,21
+2009-10,2010-01-25,912481,86,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1456,Kansas,2012,812,8,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,22
+2009-10,2010-01-25,912481,89,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1507,Missouri,1996,796,16, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,16.25,458724,NA,NA,0,Missouri,Missouri,22
+2009-10,2010-01-25,912481,90,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1456,Kansas,1996,796,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,22
+2009-10,2010-01-25,912481,93,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1507,Missouri,1979,779,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458725,NA,NA,0,Missouri,Missouri,23
+2009-10,2010-01-25,912481,94.5,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,13,12,1,1456,Kansas,1979,779,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,23
+2009-10,2010-01-25,912481,96,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,12,3,1456,Kansas,1979,779,0, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398441,NA,NA,0,Kansas,Missouri,24
+2009-10,2010-01-25,912481,128,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,12,3,1456,Kansas,1927,727,52,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,25
+2009-10,2010-01-25,912481,129,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,12,3,1507,Missouri,1927,727,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,25
+2009-10,2010-01-25,912481,131,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,13,2,1507,Missouri,1927,727,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,25
+2009-10,2010-01-25,912481,133,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,13,2,1456,Kansas,1914,714,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,26
+2009-10,2010-01-25,912481,134,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,15,13,2,1456,Kansas,1914,714,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,26
+2009-10,2010-01-25,912481,135,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1908,708,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Missouri,26
+2009-10,2010-01-25,912481,136,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1507,Missouri,1899,699,9, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,9.55,458721,NA,NA,0,Missouri,Missouri,27
+2009-10,2010-01-25,912481,137,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1899,699,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,27
+2009-10,2010-01-25,912481,138.5,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1868,668,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398441,NA,NA,0,Kansas,Kansas,28
+2009-10,2010-01-25,912481,139.25,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1507,Missouri,1868,668,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,28
+2009-10,2010-01-25,912481,139.625,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1507,Missouri,1868,668,0, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,10.05,399785,NA,NA,0,Missouri,Missouri,29
+2009-10,2010-01-25,912481,139.8125,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1868,668,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,29
+2009-10,2010-01-25,912481,140,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1507,Missouri,1868,668,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,30
+2009-10,2010-01-25,912481,141,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,NA,NA,1868,668,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,152,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1860,660,8, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,7.549999999999997,330350,NA,NA,0,Kansas,Kansas,30
+2009-10,2010-01-25,912481,153,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1860,660,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,30
+2009-10,2010-01-25,912481,156,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1507,Missouri,1842,642,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,19.95,399785,NA,NA,0,Missouri,Missouri,30
+2009-10,2010-01-25,912481,157,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,17,13,4,1456,Kansas,1842,642,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,30
+2009-10,2010-01-25,912481,159,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1456,Kansas,1835,635,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,Missouri,31
+2009-10,2010-01-25,912481,160,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1507,Missouri,1813,613,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,23,17.05,458725,NA,NA,0,Missouri,Missouri,32
+2009-10,2010-01-25,912481,161,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1456,Kansas,1813,613,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,32
+2009-10,2010-01-25,912481,163,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1507,Missouri,1806,606,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,33
+2009-10,2010-01-25,912481,173,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1507,Missouri,1785,585,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,29.65,506111,NA,NA,0,Missouri,Missouri,33
+2009-10,2010-01-25,912481,174,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,19,13,6,1456,Kansas,1785,585,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,33
+2009-10,2010-01-25,912481,175,0,1,Kansas,Missouri,Jayhawks,Tigers,3,4,21,13,8,1456,Kansas,1777,577,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,Missouri,34
+2009-10,2010-01-25,912481,178,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,21,13,8,1507,Missouri,1771,571,6,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,181,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,21,15,6,1507,Missouri,1754,554,17, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,31.5,10.85,330361,NA,NA,0,Missouri,Kansas,35
+2009-10,2010-01-25,912481,183,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1456,Kansas,1744,544,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Missouri,36
+2009-10,2010-01-25,912481,187,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1741,541,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,37
+2009-10,2010-01-25,912481,188,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1456,Kansas,1741,541,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,37
+2009-10,2010-01-25,912481,189,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1741,541,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,37
+2009-10,2010-01-25,912481,191,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1456,Kansas,1728,528,13, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-01-25,912481,192,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1728,528,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,38
+2009-10,2010-01-25,912481,194,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1714,514,14, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,43.2,7.15,458724,NA,NA,0,Missouri,Missouri,39
+2009-10,2010-01-25,912481,195,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1714,514,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,39
+2009-10,2010-01-25,912481,196,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1714,514,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330361,NA,NA,0,Missouri,Missouri,39
+2009-10,2010-01-25,912481,197,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1456,Kansas,1714,514,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,39
+2009-10,2010-01-25,912481,198,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,23,15,8,1507,Missouri,1714,514,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,40
+2009-10,2010-01-25,912481,205,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1456,Kansas,1710,510,4, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,40
+2009-10,2010-01-25,912481,206,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1456,Kansas,1710,510,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,40
+2009-10,2010-01-25,912481,207,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1507,Missouri,1710,510,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,40
+2009-10,2010-01-25,912481,208,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1507,Missouri,1689,489,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,6.95,301996,NA,NA,0,Missouri,Missouri,41
+2009-10,2010-01-25,912481,208.5,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1507,Missouri,1689,489,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,41
+2009-10,2010-01-25,912481,209,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1507,Missouri,1689,489,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,8.35,458724,NA,NA,0,Missouri,Missouri,41
+2009-10,2010-01-25,912481,210,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,24,15,9,1456,Kansas,1689,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,41
+2009-10,2010-01-25,912481,211,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,26,15,11,1456,Kansas,1681,481,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330350,NA,NA,0,Kansas,Missouri,42
+2009-10,2010-01-25,912481,212,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,26,18,8,1507,Missouri,1663,463,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,21.7,28.65,458724,NA,NA,0,Missouri,Kansas,43
+2009-10,2010-01-25,912481,216,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,26,18,8,1507,Missouri,1643,443,20,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,44
+2009-10,2010-01-25,912481,217,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,26,18,8,NA,NA,1643,443,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,222,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,27,18,9,1456,Kansas,1643,443,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,44
+2009-10,2010-01-25,912481,223,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,28,18,10,1456,Kansas,1643,443,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,44
+2009-10,2010-01-25,912481,225,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,28,20,8,1507,Missouri,1624,424,19, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,33.3,15.55,301996,NA,NA,0,Missouri,Kansas,45
+2009-10,2010-01-25,912481,226,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,30,20,10,1456,Kansas,1609,409,15, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,23.3,13.150000000000006,469083,NA,NA,0,Kansas,Missouri,46
+2009-10,2010-01-25,912481,229,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,30,20,10,1456,Kansas,1595,395,14,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,47
+2009-10,2010-01-25,912481,230,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,30,21,9,1507,Missouri,1595,395,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,47
+2009-10,2010-01-25,912481,231,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,30,22,8,1507,Missouri,1595,395,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,47
+2009-10,2010-01-25,912481,237,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1567,367,28, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45,13.349999999999994,398441,NA,NA,0,Kansas,Missouri,48
+2009-10,2010-01-25,912481,238,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1507,Missouri,1553,353,14, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,16.65,301996,NA,NA,0,Missouri,Missouri,49
+2009-10,2010-01-25,912481,239,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1553,353,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,49
+2009-10,2010-01-25,912481,240,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1541,341,12, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,17.049999999999997,513058,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-01-25,912481,240.5,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1541,341,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-01-25,912481,241,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1541,341,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,26.7,29.849999999999994,330350,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-01-25,912481,242,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,33,22,11,1456,Kansas,1541,341,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-01-25,912481,244,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1456,Kansas,1531,331,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Missouri,50
+2009-10,2010-01-25,912481,247,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1456,Kansas,1523,323,8,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,249,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1507,Missouri,1511,311,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,30,15.65,330361,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,250,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1507,Missouri,1511,311,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,251,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1507,Missouri,1498,298,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458724,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,252,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1507,Missouri,1498,298,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,253,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1507,Missouri,1490,290,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399785,NA,NA,0,Missouri,Missouri,51
+2009-10,2010-01-25,912481,254,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,22,13,1456,Kansas,1490,290,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,51
+2009-10,2010-01-25,912481,256,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,24,11,1507,Missouri,1485,285,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330361,NA,NA,0,Missouri,Kansas,52
+2009-10,2010-01-25,912481,257,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,24,11,1456,Kansas,1485,285,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,53
+2009-10,2010-01-25,912481,259,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,35,25,10,1507,Missouri,1485,285,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,53
+2009-10,2010-01-25,912481,261,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1456,Kansas,1472,272,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.799999999999997,20.549999999999997,398441,NA,NA,0,Kansas,Missouri,54
+2009-10,2010-01-25,912481,262,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1507,Missouri,1462,262,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330361,NA,NA,0,Missouri,Missouri,55
+2009-10,2010-01-25,912481,263,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1456,Kansas,1462,262,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,55
+2009-10,2010-01-25,912481,265,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1456,Kansas,1457,257,5,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,56
+2009-10,2010-01-25,912481,267,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1507,Missouri,1426,226,31, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,27,15.65,399785,NA,NA,0,Missouri,Missouri,57
+2009-10,2010-01-25,912481,268,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1456,Kansas,1426,226,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,57
+2009-10,2010-01-25,912481,271,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,NA,NA,1418,218,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,275,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1507,Missouri,1405,205,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,13.15,458725,NA,NA,0,Missouri,Missouri,58
+2009-10,2010-01-25,912481,276,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,38,25,13,1456,Kansas,1405,205,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,58
+2009-10,2010-01-25,912481,277,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1456,Kansas,1393,193,12, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,10.200000000000003,14.549999999999997,330350,NA,NA,0,Kansas,Missouri,59
+2009-10,2010-01-25,912481,278,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1456,Kansas,1379,179,14, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,7.950000000000003,513058,NA,NA,0,Kansas,Kansas,60
+2009-10,2010-01-25,912481,279,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1507,Missouri,1379,179,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,60
+2009-10,2010-01-25,912481,280,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1507,Missouri,1364,164,15, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,5.05,399785,NA,NA,0,Missouri,Missouri,61
+2009-10,2010-01-25,912481,281,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1456,Kansas,1364,164,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,61
+2009-10,2010-01-25,912481,287,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1507,Missouri,1330,130,34, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,16.25,301996,NA,NA,0,Missouri,Missouri,62
+2009-10,2010-01-25,912481,290,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1456,Kansas,1330,130,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,62
+2009-10,2010-01-25,912481,293,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1507,Missouri,1330,130,0, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25,13.95,458725,NA,NA,0,Missouri,Missouri,63
+2009-10,2010-01-25,912481,294,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,25,15,1456,Kansas,1330,130,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,63
+2009-10,2010-01-25,912481,302,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,26,14,1507,Missouri,1315,115,15, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,64
+2009-10,2010-01-25,912481,303,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,40,27,13,1507,Missouri,1315,115,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,64
+2009-10,2010-01-25,912481,306,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,41,27,14,1456,Kansas,1312,112,3, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,65
+2009-10,2010-01-25,912481,307,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,41,27,14,1456,Kansas,1312,112,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,65
+2009-10,2010-01-25,912481,308,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,41,27,14,1456,Kansas,1312,112,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,65
+2009-10,2010-01-25,912481,310,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1311,111,1, makes a tip shot from 5 feet out.,made,FALSE,FALSE,Tip Shot,24.2,10.25,398443,NA,NA,0,Kansas,Missouri,65
+2009-10,2010-01-25,912481,311,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1507,Missouri,1304,104,7, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,25.55,399785,NA,NA,0,Missouri,Missouri,66
+2009-10,2010-01-25,912481,312,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1304,104,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,66
+2009-10,2010-01-25,912481,313,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1286,86,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,9.849999999999994,469083,NA,NA,0,Kansas,Kansas,67
+2009-10,2010-01-25,912481,314,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1286,86,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,67
+2009-10,2010-01-25,912481,314.5,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1281,81,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469085,NA,NA,0,Kansas,Kansas,67
+2009-10,2010-01-25,912481,314.75,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,43,27,16,1456,Kansas,1281,81,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,67
+2009-10,2010-01-25,912481,315,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,45,27,18,1456,Kansas,1281,81,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,Missouri,67
+2009-10,2010-01-25,912481,317,0,1,Kansas,Missouri,Jayhawks,Tigers,3,3,45,30,15,1507,Missouri,1271,71,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.7,22.05,458722,NA,NA,0,Missouri,Kansas,68
+2009-10,2010-01-25,912481,318,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1271,71,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,326,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1507,Missouri,1264,64,7,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-01-25,912481,327,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1264,64,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,69
+2009-10,2010-01-25,912481,330,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1247,47,17, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,24,24.75,330350,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-01-25,912481,331,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1247,47,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-01-25,912481,333,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1238,38,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-01-25,912481,334,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,45,30,15,1456,Kansas,1238,38,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,69
+2009-10,2010-01-25,912481,335,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,47,30,17,1456,Kansas,1232,32,6, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.7,7.950000000000003,469085,NA,NA,0,Kansas,Missouri,69
+2009-10,2010-01-25,912481,336,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,50,30,20,1456,Kansas,1200,0,32, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.2,30.049999999999997,330353,NA,NA,0,Kansas,Missouri,70
+2009-10,2010-01-25,912481,337,0,1,Kansas,Missouri,Jayhawks,Tigers,2,3,50,30,20,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,351,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Missouri,71
+2009-10,2010-01-25,912481,358,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1456,Kansas,1181,1181,19,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,72
+2009-10,2010-01-25,912481,360,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1507,Missouri,1172,1172,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,16.45,330361,NA,NA,0,Missouri,Missouri,72
+2009-10,2010-01-25,912481,361,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1456,Kansas,1172,1172,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,72
+2009-10,2010-01-25,912481,363,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1456,Kansas,1156,1156,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.2,28.650000000000006,513058,NA,NA,0,Kansas,Missouri,73
+2009-10,2010-01-25,912481,367,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1507,Missouri,1134,1134,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458723,NA,NA,0,Missouri,Missouri,74
+2009-10,2010-01-25,912481,368,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1507,Missouri,1134,1134,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,74
+2009-10,2010-01-25,912481,369,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1507,Missouri,1134,1134,0, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,22.5,9.85,458723,NA,NA,0,Missouri,Missouri,74
+2009-10,2010-01-25,912481,370,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,30,20,1507,Missouri,1134,1134,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,74
+2009-10,2010-01-25,912481,371,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,32,18,1507,Missouri,1134,1134,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,301996,NA,NA,0,Missouri,Kansas,74
+2009-10,2010-01-25,912481,372,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,32,18,1456,Kansas,1134,1134,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,75
+2009-10,2010-01-25,912481,373,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,33,17,1507,Missouri,1134,1134,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,75
+2009-10,2010-01-25,912481,375,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,33,17,1507,Missouri,1118,1118,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,33.2,26.15,301996,NA,NA,0,Missouri,Missouri,76
+2009-10,2010-01-25,912481,376,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,50,33,17,1456,Kansas,1118,1118,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,76
+2009-10,2010-01-25,912481,377,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,53,33,20,1456,Kansas,1105,1105,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35,26.349999999999994,513058,NA,NA,0,Kansas,Missouri,77
+2009-10,2010-01-25,912481,379,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,53,33,20,1456,Kansas,1095,1095,10,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,78
+2009-10,2010-01-25,912481,381,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,53,36,17,1507,Missouri,1087,1087,8, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.2,4.85,458725,NA,NA,0,Missouri,Kansas,78
+2009-10,2010-01-25,912481,382,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,56,36,20,1456,Kansas,1068,1068,19, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.5,9.650000000000006,513058,NA,NA,0,Kansas,Missouri,79
+2009-10,2010-01-25,912481,383,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,56,38,18,1507,Missouri,1053,1053,15, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,26.3,7.55,458723,NA,NA,0,Missouri,Kansas,80
+2009-10,2010-01-25,912481,399,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,56,38,18,1507,Missouri,1044,1044,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,81
+2009-10,2010-01-25,912481,405,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,56,38,18,1507,Missouri,1031,1031,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,81
+2009-10,2010-01-25,912481,406,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,57,38,19,1456,Kansas,1031,1031,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,81
+2009-10,2010-01-25,912481,408,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,1031,1031,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,81
+2009-10,2010-01-25,912481,411,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,1019,1019,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,29.65,458723,NA,NA,0,Missouri,Missouri,82
+2009-10,2010-01-25,912481,412,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,1019,1019,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,82
+2009-10,2010-01-25,912481,413,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,1016,1016,3, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24.5,9.55,330361,NA,NA,0,Missouri,Missouri,82
+2009-10,2010-01-25,912481,414,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,1016,1016,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,82
+2009-10,2010-01-25,912481,415,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,1016,1016,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-01-25,912481,422,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,987,987,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,6.950000000000003,513058,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-01-25,912481,423,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,987,987,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,83
+2009-10,2010-01-25,912481,424,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,987,987,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,84
+2009-10,2010-01-25,912481,426,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,974,974,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,18.95,458725,NA,NA,0,Missouri,Missouri,84
+2009-10,2010-01-25,912481,427,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,974,974,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,84
+2009-10,2010-01-25,912481,433,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,961,961,13,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,84
+2009-10,2010-01-25,912481,436,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,943,943,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458723,NA,NA,0,Missouri,Missouri,85
+2009-10,2010-01-25,912481,437,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,943,943,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,85
+2009-10,2010-01-25,912481,442,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,NA,NA,916,916,27,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,450,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1456,Kansas,899,899,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,21.349999999999994,330353,NA,NA,0,Kansas,Kansas,86
+2009-10,2010-01-25,912481,451,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,899,899,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,86
+2009-10,2010-01-25,912481,456,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,58,38,20,1507,Missouri,874,874,25,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,87
+2009-10,2010-01-25,912481,458,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,38,22,1456,Kansas,867,867,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Missouri,87
+2009-10,2010-01-25,912481,460,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,38,22,1507,Missouri,845,845,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,14.75,458724,NA,NA,0,Missouri,Missouri,88
+2009-10,2010-01-25,912481,461,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,38,22,1456,Kansas,845,845,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,88
+2009-10,2010-01-25,912481,464,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,38,22,1456,Kansas,822,822,23,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,89
+2009-10,2010-01-25,912481,465,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,39,21,1507,Missouri,822,822,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,89
+2009-10,2010-01-25,912481,466,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,60,40,20,1507,Missouri,822,822,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,89
+2009-10,2010-01-25,912481,468,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,63,40,23,1456,Kansas,816,816,6, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.5,29.25,469085,NA,NA,0,Kansas,Missouri,90
+2009-10,2010-01-25,912481,469,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,63,40,23,1507,Missouri,805,805,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458725,NA,NA,0,Missouri,Missouri,91
+2009-10,2010-01-25,912481,470,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,63,40,23,1507,Missouri,805,805,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,91
+2009-10,2010-01-25,912481,471,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,63,42,21,1507,Missouri,797,797,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458725,NA,NA,0,Missouri,Kansas,91
+2009-10,2010-01-25,912481,472,0,2,Kansas,Missouri,Jayhawks,Tigers,4,4,65,42,23,1456,Kansas,791,791,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469085,NA,NA,0,Kansas,Missouri,92
+2009-10,2010-01-25,912481,482,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,1507,Missouri,774,774,17,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,487,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,1507,Missouri,748,748,26, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,6,12.45,458725,NA,NA,0,Missouri,Missouri,93
+2009-10,2010-01-25,912481,488,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,1456,Kansas,748,748,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,93
+2009-10,2010-01-25,912481,495,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,1456,Kansas,711,711,37,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,94
+2009-10,2010-01-25,912481,502,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,1507,Missouri,711,711,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,95
+2009-10,2010-01-25,912481,503,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,65,42,23,NA,NA,711,711,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,506,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,66,42,24,1456,Kansas,711,711,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,95
+2009-10,2010-01-25,912481,507,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,42,25,1456,Kansas,711,711,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,95
+2009-10,2010-01-25,912481,509,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,42,25,1507,Missouri,689,689,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,30,22.85,506111,NA,NA,0,Missouri,Missouri,96
+2009-10,2010-01-25,912481,510,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,42,25,1456,Kansas,689,689,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,96
+2009-10,2010-01-25,912481,514,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,42,25,1456,Kansas,667,667,22,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,97
+2009-10,2010-01-25,912481,515,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,43,24,1507,Missouri,667,667,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,97
+2009-10,2010-01-25,912481,516,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1507,Missouri,667,667,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,97
+2009-10,2010-01-25,912481,520,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1507,Missouri,655,655,12,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,98
+2009-10,2010-01-25,912481,523,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1456,Kansas,645,645,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398443,NA,NA,0,Kansas,Kansas,98
+2009-10,2010-01-25,912481,524,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1456,Kansas,645,645,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,98
+2009-10,2010-01-25,912481,526,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1456,Kansas,634,634,11, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,14.150000000000006,330353,NA,NA,0,Kansas,Kansas,98
+2009-10,2010-01-25,912481,527,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1507,Missouri,634,634,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,98
+2009-10,2010-01-25,912481,538,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1456,Kansas,618,618,16,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,99
+2009-10,2010-01-25,912481,539,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,44,23,1507,Missouri,618,618,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,99
+2009-10,2010-01-25,912481,541,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,45,22,1507,Missouri,618,618,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,99
+2009-10,2010-01-25,912481,547,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,45,22,1507,Missouri,590,590,28, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,11.05,330361,NA,NA,0,Missouri,Missouri,100
+2009-10,2010-01-25,912481,548,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,67,45,22,1456,Kansas,590,590,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,100
+2009-10,2010-01-25,912481,549,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,69,45,24,1456,Kansas,580,580,10, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.3,12.049999999999997,398443,NA,NA,0,Kansas,Missouri,101
+2009-10,2010-01-25,912481,551,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,69,45,24,1507,Missouri,554,554,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21.7,28.65,506111,NA,NA,0,Missouri,Kansas,102
+2009-10,2010-01-25,912481,556,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,72,45,27,1456,Kansas,544,544,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,6.950000000000003,398441,NA,NA,0,Kansas,Missouri,103
+2009-10,2010-01-25,912481,562,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,72,45,27,1456,Kansas,532,532,12,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,104
+2009-10,2010-01-25,912481,563,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,72,46,26,1507,Missouri,532,532,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,104
+2009-10,2010-01-25,912481,564,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,72,47,25,1507,Missouri,532,532,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,104
+2009-10,2010-01-25,912481,566,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1456,Kansas,507,507,25, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.299999999999997,10.650000000000006,398441,NA,NA,0,Kansas,Missouri,105
+2009-10,2010-01-25,912481,567,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1507,Missouri,487,487,20, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,40.3,11.85,330361,NA,NA,0,Missouri,Missouri,106
+2009-10,2010-01-25,912481,568,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1456,Kansas,487,487,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,106
+2009-10,2010-01-25,912481,571,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1456,Kansas,477,477,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,16.849999999999994,330350,NA,NA,0,Kansas,Kansas,107
+2009-10,2010-01-25,912481,572,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1507,Missouri,477,477,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,107
+2009-10,2010-01-25,912481,575,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,NA,NA,466,466,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,597,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1456,Kansas,447,447,19,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,108
+2009-10,2010-01-25,912481,598,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,47,28,1507,Missouri,447,447,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,108
+2009-10,2010-01-25,912481,600,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,48,27,1507,Missouri,447,447,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,108
+2009-10,2010-01-25,912481,602,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,50,25,1507,Missouri,417,417,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,399785,NA,NA,0,Missouri,Kansas,109
+2009-10,2010-01-25,912481,604,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,50,25,1456,Kansas,400,400,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.8,11.049999999999997,469089,NA,NA,0,Kansas,Kansas,110
+2009-10,2010-01-25,912481,605,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,50,25,1456,Kansas,400,400,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,110
+2009-10,2010-01-25,912481,609,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,52,23,1507,Missouri,378,378,22, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,34.7,7.35,458725,NA,NA,0,Missouri,Kansas,110
+2009-10,2010-01-25,912481,611,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,52,23,1456,Kansas,366,366,12, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29,8.150000000000006,330353,NA,NA,0,Kansas,Kansas,111
+2009-10,2010-01-25,912481,612,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,75,52,23,1456,Kansas,366,366,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,111
+2009-10,2010-01-25,912481,617,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,76,52,24,1456,Kansas,362,362,4, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,111
+2009-10,2010-01-25,912481,618,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,77,52,25,1456,Kansas,362,362,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,111
+2009-10,2010-01-25,912481,620,0,2,Kansas,Missouri,Jayhawks,Tigers,4,3,77,55,22,1507,Missouri,352,352,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.699999999999999,13.55,399785,NA,NA,0,Missouri,Kansas,112
+2009-10,2010-01-25,912481,622,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,77,55,22,1456,Kansas,346,346,6,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,623,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,77,55,22,1507,Missouri,346,346,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,113
+2009-10,2010-01-25,912481,627,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,77,55,22,1507,Missouri,343,343,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,113
+2009-10,2010-01-25,912481,628,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,78,55,23,1456,Kansas,343,343,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,113
+2009-10,2010-01-25,912481,629,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,79,55,24,1456,Kansas,343,343,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,113
+2009-10,2010-01-25,912481,631,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,79,55,24,1507,Missouri,328,328,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,13.15,399785,NA,NA,0,Missouri,Missouri,114
+2009-10,2010-01-25,912481,632,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,79,55,24,1507,Missouri,328,328,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,114
+2009-10,2010-01-25,912481,633,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,79,57,22,1507,Missouri,325,325,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399785,NA,NA,0,Missouri,Kansas,114
+2009-10,2010-01-25,912481,635,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,79,57,22,1507,Missouri,316,316,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,115
+2009-10,2010-01-25,912481,636,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,80,57,23,1456,Kansas,316,316,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,115
+2009-10,2010-01-25,912481,637,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,57,24,1456,Kansas,316,316,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,115
+2009-10,2010-01-25,912481,642,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,57,24,1456,Kansas,305,305,11,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,116
+2009-10,2010-01-25,912481,643,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,58,23,1507,Missouri,305,305,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,116
+2009-10,2010-01-25,912481,644,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,58,23,1456,Kansas,305,305,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-25,912481,645,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,59,22,1507,Missouri,305,305,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,116
+2009-10,2010-01-25,912481,647,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,59,22,1456,Kansas,299,299,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,117
+2009-10,2010-01-25,912481,648,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,59,22,1507,Missouri,299,299,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,117
+2009-10,2010-01-25,912481,652,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,81,61,20,1507,Missouri,279,279,20, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,17.5,19.95,399785,NA,NA,0,Missouri,Kansas,118
+2009-10,2010-01-25,912481,653,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,249,249,30, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,21.2,8.349999999999994,398443,NA,NA,0,Kansas,Missouri,119
+2009-10,2010-01-25,912481,655.5,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1507,Missouri,234,234,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,25.55,458725,NA,NA,0,Missouri,Missouri,120
+2009-10,2010-01-25,912481,656.75,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,234,234,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,120
+2009-10,2010-01-25,912481,658,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,NA,NA,234,234,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,662,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,193,193,41, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,25.349999999999994,330350,NA,NA,0,Kansas,Kansas,121
+2009-10,2010-01-25,912481,663,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,193,193,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,121
+2009-10,2010-01-25,912481,664,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,189,189,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.700000000000003,15.349999999999994,513058,NA,NA,0,Kansas,Kansas,121
+2009-10,2010-01-25,912481,665,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,189,189,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,121
+2009-10,2010-01-25,912481,667,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,165,165,24,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,121
+2009-10,2010-01-25,912481,670,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,61,22,1456,Kansas,155,155,10,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,122
+2009-10,2010-01-25,912481,672,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,62,21,1507,Missouri,154,154,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,122
+2009-10,2010-01-25,912481,673,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,154,154,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,122
+2009-10,2010-01-25,912481,677,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,121,121,33,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,123
+2009-10,2010-01-25,912481,678,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1456,Kansas,121,121,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,123
+2009-10,2010-01-25,912481,680,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1456,Kansas,121,121,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,123
+2009-10,2010-01-25,912481,681,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,121,121,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,123
+2009-10,2010-01-25,912481,683,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,115,115,6, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,13.95,399785,NA,NA,0,Missouri,Missouri,124
+2009-10,2010-01-25,912481,684,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1456,Kansas,115,115,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,124
+2009-10,2010-01-25,912481,692,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1456,Kansas,68,68,47,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,125
+2009-10,2010-01-25,912481,700,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,68,68,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,23.05,399785,NA,NA,0,Missouri,Missouri,126
+2009-10,2010-01-25,912481,701,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1456,Kansas,68,68,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,126
+2009-10,2010-01-25,912481,706,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,83,63,20,1507,Missouri,44,44,24,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,127
+2009-10,2010-01-25,912481,711,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1456,Kansas,44,44,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,127
+2009-10,2010-01-25,912481,712,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1456,Kansas,44,44,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,127
+2009-10,2010-01-25,912481,713,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1456,Kansas,44,44,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,127
+2009-10,2010-01-25,912481,715,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1456,Kansas,41,41,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43,16.849999999999994,398440,NA,NA,0,Kansas,Kansas,127
+2009-10,2010-01-25,912481,716,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1507,Missouri,41,41,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Missouri,127
+2009-10,2010-01-25,912481,730,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,63,21,1456,Kansas,25,25,16,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,128
+2009-10,2010-01-25,912481,731,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,64,20,1507,Missouri,25,25,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Missouri,128
+2009-10,2010-01-25,912481,732,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,65,19,1507,Missouri,25,25,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Missouri,Kansas,128
+2009-10,2010-01-25,912481,737,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,65,19,NA,NA,0,0,25,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-25,912481,738,0,2,Kansas,Missouri,Jayhawks,Tigers,3,3,84,65,19,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

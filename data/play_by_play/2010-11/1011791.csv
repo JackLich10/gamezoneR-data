@@ -1,0 +1,315 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-15,1011791,1,0,1,Duquesne,Temple,Dukes,Owls,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duquesne,NA
+2010-11,2011-01-15,1011791,5,0,1,Duquesne,Temple,Dukes,Owls,4,4,2,0,2,1389,Duquesne,2381,1181,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,416197,NA,NA,0,Duquesne,Temple,1
+2010-11,2011-01-15,1011791,6,0,1,Duquesne,Temple,Dukes,Owls,4,4,2,0,2,1644,Temple,2361,1161,20, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,9.85,402984,NA,NA,0,Temple,Temple,2
+2010-11,2011-01-15,1011791,7,0,1,Duquesne,Temple,Dukes,Owls,4,4,2,0,2,1389,Duquesne,2361,1161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,2
+2010-11,2011-01-15,1011791,8,0,1,Duquesne,Temple,Dukes,Owls,4,4,5,0,5,1389,Duquesne,2348,1148,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,19.25,551786,NA,NA,0,Duquesne,Temple,3
+2010-11,2011-01-15,1011791,12,0,1,Duquesne,Temple,Dukes,Owls,4,4,5,0,5,1644,Temple,2325,1125,23,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,4
+2010-11,2011-01-15,1011791,14,0,1,Duquesne,Temple,Dukes,Owls,4,4,5,0,5,1644,Temple,2315,1115,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,26.75,514899,NA,NA,0,Temple,Temple,5
+2010-11,2011-01-15,1011791,15,0,1,Duquesne,Temple,Dukes,Owls,4,4,5,0,5,1389,Duquesne,2315,1115,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,5
+2010-11,2011-01-15,1011791,17,0,1,Duquesne,Temple,Dukes,Owls,4,4,5,0,5,1644,Temple,2303,1103,12,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,6
+2010-11,2011-01-15,1011791,18,0,1,Duquesne,Temple,Dukes,Owls,4,4,6,0,6,1389,Duquesne,2303,1103,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,6
+2010-11,2011-01-15,1011791,19,0,1,Duquesne,Temple,Dukes,Owls,4,4,7,0,7,1389,Duquesne,2303,1103,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,6
+2010-11,2011-01-15,1011791,26,0,1,Duquesne,Temple,Dukes,Owls,4,3,7,0,7,1644,Temple,2284,1084,19,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,29,0,1,Duquesne,Temple,Dukes,Owls,4,3,7,0,7,1389,Duquesne,2276,1076,8,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,7
+2010-11,2011-01-15,1011791,31,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,0,10,1389,Duquesne,2257,1057,19, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,35.2,26.549999999999997,551786,NA,NA,0,Duquesne,Temple,7
+2010-11,2011-01-15,1011791,32,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,0,10,1644,Temple,2247,1047,10, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.8,13.35,402984,NA,NA,0,Temple,Temple,8
+2010-11,2011-01-15,1011791,33,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,0,10,1389,Duquesne,2247,1047,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,8
+2010-11,2011-01-15,1011791,35,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,0,10,1389,Duquesne,2234,1034,13,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,9
+2010-11,2011-01-15,1011791,36,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,0,10,1644,Temple,2234,1034,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,9
+2010-11,2011-01-15,1011791,38,0,1,Duquesne,Temple,Dukes,Owls,4,3,10,1,9,1644,Temple,2234,1034,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,9
+2010-11,2011-01-15,1011791,40,0,1,Duquesne,Temple,Dukes,Owls,4,3,13,1,12,1389,Duquesne,2224,1024,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,33.5,26.950000000000003,398417,NA,NA,0,Duquesne,Temple,10
+2010-11,2011-01-15,1011791,47,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2185,985,39, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.700000000000003,14.950000000000003,469237,NA,NA,0,Duquesne,Temple,11
+2010-11,2011-01-15,1011791,49,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2173,973,12,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,12
+2010-11,2011-01-15,1011791,51,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2162,962,11, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24,9.25,402984,NA,NA,0,Temple,Temple,13
+2010-11,2011-01-15,1011791,52,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2162,962,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,13
+2010-11,2011-01-15,1011791,53,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2153,953,9, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,17,23.25,489569,NA,NA,0,Temple,Temple,13
+2010-11,2011-01-15,1011791,53.5,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2153,953,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,13
+2010-11,2011-01-15,1011791,54,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2153,953,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,14
+2010-11,2011-01-15,1011791,59,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,NA,NA,2153,953,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,64,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2110,910,43, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20,29.25,514902,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,65,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2110,910,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,67,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2105,905,5,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,69,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2097,897,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36,26.15,489569,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,70,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2097,897,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,71,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2089,889,8, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,14.55,514899,NA,NA,0,Temple,Temple,14
+2010-11,2011-01-15,1011791,72,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2089,889,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,14
+2010-11,2011-01-15,1011791,73,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2081,881,8, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44,14.950000000000003,398417,NA,NA,0,Duquesne,Duquesne,15
+2010-11,2011-01-15,1011791,74,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2081,881,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,15
+2010-11,2011-01-15,1011791,75,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2052,852,29, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39.3,7.15,489569,NA,NA,0,Temple,Temple,16
+2010-11,2011-01-15,1011791,76,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2052,852,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,16
+2010-11,2011-01-15,1011791,78,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2032,832,20,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,17
+2010-11,2011-01-15,1011791,82,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1644,Temple,2004,804,28, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,14.55,514901,NA,NA,0,Temple,Temple,18
+2010-11,2011-01-15,1011791,83,0,1,Duquesne,Temple,Dukes,Owls,4,3,16,1,15,1389,Duquesne,2004,804,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,18
+2010-11,2011-01-15,1011791,84,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1389,Duquesne,1997,797,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469239,NA,NA,0,Duquesne,Temple,19
+2010-11,2011-01-15,1011791,86,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1644,Temple,1980,780,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26,29.25,551963,NA,NA,0,Temple,Temple,20
+2010-11,2011-01-15,1011791,87,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1644,Temple,1980,780,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,20
+2010-11,2011-01-15,1011791,103,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1644,Temple,1954,754,26, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.7,14.35,551963,NA,NA,0,Temple,Temple,20
+2010-11,2011-01-15,1011791,104,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1389,Duquesne,1954,754,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,20
+2010-11,2011-01-15,1011791,107,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1644,Temple,1950,750,4,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,21
+2010-11,2011-01-15,1011791,108,0,1,Duquesne,Temple,Dukes,Owls,4,3,18,1,17,1389,Duquesne,1950,750,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,21
+2010-11,2011-01-15,1011791,110,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,1,18,1389,Duquesne,1950,750,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,21
+2010-11,2011-01-15,1011791,117,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,1,18,1389,Duquesne,1941,741,9,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,118,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1644,Temple,1941,741,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,119,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1644,Temple,1941,741,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,120,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1644,Temple,1941,741,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,123,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1389,Duquesne,1938,738,3,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,129,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1644,Temple,1929,729,9, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,12.25,489569,NA,NA,0,Temple,Temple,22
+2010-11,2011-01-15,1011791,130,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1389,Duquesne,1929,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,22
+2010-11,2011-01-15,1011791,133,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1644,Temple,1915,715,14,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,23
+2010-11,2011-01-15,1011791,134,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,NA,NA,1915,715,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,137,0,1,Duquesne,Temple,Dukes,Owls,4,3,19,2,17,1389,Duquesne,1915,715,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,23
+2010-11,2011-01-15,1011791,139,0,1,Duquesne,Temple,Dukes,Owls,4,3,20,2,18,1389,Duquesne,1915,715,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,23
+2010-11,2011-01-15,1011791,141,0,1,Duquesne,Temple,Dukes,Owls,4,3,20,2,18,1644,Temple,1883,683,32, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44,15.15,551963,NA,NA,0,Temple,Temple,24
+2010-11,2011-01-15,1011791,142,0,1,Duquesne,Temple,Dukes,Owls,4,3,20,2,18,1389,Duquesne,1883,683,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,24
+2010-11,2011-01-15,1011791,168,0,1,Duquesne,Temple,Dukes,Owls,4,3,20,2,18,1389,Duquesne,1833,633,50, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,29.25,551786,NA,NA,0,Duquesne,Duquesne,25
+2010-11,2011-01-15,1011791,169.5,0,1,Duquesne,Temple,Dukes,Owls,4,3,20,2,18,1644,Temple,1833,633,0,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,25
+2010-11,2011-01-15,1011791,170,0,1,Duquesne,Temple,Dukes,Owls,4,3,21,2,19,1389,Duquesne,1833,633,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,25
+2010-11,2011-01-15,1011791,171,0,1,Duquesne,Temple,Dukes,Owls,4,3,22,2,20,1389,Duquesne,1833,633,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,25
+2010-11,2011-01-15,1011791,184,0,1,Duquesne,Temple,Dukes,Owls,4,3,22,2,20,1389,Duquesne,1797,597,36,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,26
+2010-11,2011-01-15,1011791,185,0,1,Duquesne,Temple,Dukes,Owls,4,3,22,3,19,1644,Temple,1797,597,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,26
+2010-11,2011-01-15,1011791,186,0,1,Duquesne,Temple,Dukes,Owls,4,3,22,4,18,1644,Temple,1797,597,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,26
+2010-11,2011-01-15,1011791,198,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,4,20,1389,Duquesne,1778,578,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,574872,NA,NA,0,Duquesne,Temple,27
+2010-11,2011-01-15,1011791,200,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,4,20,1389,Duquesne,1765,565,13,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,28
+2010-11,2011-01-15,1011791,202,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,5,19,1644,Temple,1765,565,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,28
+2010-11,2011-01-15,1011791,203,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,6,18,1644,Temple,1765,565,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,28
+2010-11,2011-01-15,1011791,207,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,6,18,1389,Duquesne,1723,523,42, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,19.75,551787,NA,NA,0,Duquesne,Temple,29
+2010-11,2011-01-15,1011791,216,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,9,15,1644,Temple,1701,501,22, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.2,7.75,514902,NA,NA,0,Temple,Duquesne,30
+2010-11,2011-01-15,1011791,219,0,1,Duquesne,Temple,Dukes,Owls,4,3,24,12,12,1644,Temple,1685,485,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,34,27.25,489569,NA,NA,0,Temple,Duquesne,31
+2010-11,2011-01-15,1011791,221,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,12,14,1389,Duquesne,1665,465,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Temple,32
+2010-11,2011-01-15,1011791,223,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,12,14,1389,Duquesne,1649,449,16,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,33
+2010-11,2011-01-15,1011791,224,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,12,14,NA,NA,1649,449,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,225,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,13,13,1644,Temple,1649,449,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,33
+2010-11,2011-01-15,1011791,226,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1644,Temple,1649,449,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,33
+2010-11,2011-01-15,1011791,239,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1644,Temple,1573,373,76, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,29,11.45,489569,NA,NA,0,Temple,Temple,34
+2010-11,2011-01-15,1011791,240,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1389,Duquesne,1573,373,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,34
+2010-11,2011-01-15,1011791,241,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1389,Duquesne,1561,361,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,8.549999999999997,398417,NA,NA,0,Duquesne,Duquesne,35
+2010-11,2011-01-15,1011791,242,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1389,Duquesne,1561,361,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,35
+2010-11,2011-01-15,1011791,243,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1644,Temple,1538,338,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,9.65,469335,NA,NA,0,Temple,Temple,35
+2010-11,2011-01-15,1011791,244,0,1,Duquesne,Temple,Dukes,Owls,4,3,26,14,12,1389,Duquesne,1538,338,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,35
+2010-11,2011-01-15,1011791,245,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,14,14,1389,Duquesne,1529,329,9, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.7,8.349999999999994,469239,NA,NA,0,Duquesne,Temple,36
+2010-11,2011-01-15,1011791,246,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,16,12,1644,Temple,1519,319,10, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,20.8,22.25,514899,NA,NA,0,Temple,Duquesne,37
+2010-11,2011-01-15,1011791,248,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,16,12,1644,Temple,1503,303,16,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,38
+2010-11,2011-01-15,1011791,250,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,16,12,1389,Duquesne,1503,303,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,38
+2010-11,2011-01-15,1011791,251,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,16,12,1644,Temple,1503,303,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,38
+2010-11,2011-01-15,1011791,254,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,16,12,1389,Duquesne,1488,288,15,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,39
+2010-11,2011-01-15,1011791,255,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,17,11,1644,Temple,1488,288,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,39
+2010-11,2011-01-15,1011791,256,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,18,10,1644,Temple,1488,288,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,39
+2010-11,2011-01-15,1011791,259,0,1,Duquesne,Temple,Dukes,Owls,4,3,28,18,10,1644,Temple,1474,274,14,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,40
+2010-11,2011-01-15,1011791,260,0,1,Duquesne,Temple,Dukes,Owls,4,3,29,18,11,1389,Duquesne,1474,274,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,40
+2010-11,2011-01-15,1011791,261,0,1,Duquesne,Temple,Dukes,Owls,4,3,30,18,12,1389,Duquesne,1474,274,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,40
+2010-11,2011-01-15,1011791,264,0,1,Duquesne,Temple,Dukes,Owls,4,3,30,18,12,1644,Temple,1457,257,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,17.25,514899,NA,NA,0,Temple,Temple,41
+2010-11,2011-01-15,1011791,265,0,1,Duquesne,Temple,Dukes,Owls,4,3,30,18,12,1644,Temple,1457,257,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,41
+2010-11,2011-01-15,1011791,270,0,1,Duquesne,Temple,Dukes,Owls,4,3,32,18,14,1389,Duquesne,1438,238,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469237,NA,NA,0,Duquesne,Duquesne,41
+2010-11,2011-01-15,1011791,271,0,1,Duquesne,Temple,Dukes,Owls,4,3,32,18,14,1644,Temple,1438,238,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,41
+2010-11,2011-01-15,1011791,272,0,1,Duquesne,Temple,Dukes,Owls,4,3,32,18,14,NA,NA,1438,238,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,274,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1389,Duquesne,1438,238,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,41
+2010-11,2011-01-15,1011791,278,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1644,Temple,1404,204,34, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14,16.45,489569,NA,NA,0,Temple,Temple,42
+2010-11,2011-01-15,1011791,279,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1644,Temple,1404,204,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,42
+2010-11,2011-01-15,1011791,281,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1389,Duquesne,1399,199,5,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,42
+2010-11,2011-01-15,1011791,282,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1644,Temple,1399,199,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,42
+2010-11,2011-01-15,1011791,284,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1644,Temple,1399,199,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,42
+2010-11,2011-01-15,1011791,285,0,1,Duquesne,Temple,Dukes,Owls,4,3,33,18,15,1389,Duquesne,1399,199,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,42
+2010-11,2011-01-15,1011791,287,0,1,Duquesne,Temple,Dukes,Owls,4,3,36,18,18,1389,Duquesne,1374,174,25, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.5,22.049999999999997,469239,NA,NA,0,Duquesne,Temple,43
+2010-11,2011-01-15,1011791,289,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1644,Temple,1366,166,8,Owls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,293,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1644,Temple,1345,145,21, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,9.15,402984,NA,NA,0,Temple,Temple,44
+2010-11,2011-01-15,1011791,294,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1389,Duquesne,1345,145,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,44
+2010-11,2011-01-15,1011791,297,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1389,Duquesne,1336,136,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416197,NA,NA,0,Duquesne,Duquesne,45
+2010-11,2011-01-15,1011791,298,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1644,Temple,1336,136,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,45
+2010-11,2011-01-15,1011791,299,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1389,Duquesne,1336,136,0,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,46
+2010-11,2011-01-15,1011791,300,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,18,18,1644,Temple,1336,136,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,46
+2010-11,2011-01-15,1011791,302,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,19,17,1644,Temple,1336,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,46
+2010-11,2011-01-15,1011791,304,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,19,17,1389,Duquesne,1321,121,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.799999999999997,22.849999999999994,469237,NA,NA,0,Duquesne,Duquesne,47
+2010-11,2011-01-15,1011791,305,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,19,17,1389,Duquesne,1321,121,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,47
+2010-11,2011-01-15,1011791,306,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,19,17,1644,Temple,1321,121,0, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,26,25.25,514902,NA,NA,0,Temple,Temple,47
+2010-11,2011-01-15,1011791,306.5,0,1,Duquesne,Temple,Dukes,Owls,4,2,36,19,17,1644,Temple,1321,121,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,47
+2010-11,2011-01-15,1011791,307,0,1,Duquesne,Temple,Dukes,Owls,4,2,38,19,19,1389,Duquesne,1306,106,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Temple,47
+2010-11,2011-01-15,1011791,309,0,1,Duquesne,Temple,Dukes,Owls,4,2,38,19,19,1644,Temple,1285,85,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,514902,NA,NA,0,Temple,Temple,48
+2010-11,2011-01-15,1011791,310,0,1,Duquesne,Temple,Dukes,Owls,4,2,38,19,19,1389,Duquesne,1285,85,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,48
+2010-11,2011-01-15,1011791,314,0,1,Duquesne,Temple,Dukes,Owls,4,2,38,19,19,1644,Temple,1256,56,29,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,49
+2010-11,2011-01-15,1011791,315,0,1,Duquesne,Temple,Dukes,Owls,4,2,38,19,19,1389,Duquesne,1256,56,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,49
+2010-11,2011-01-15,1011791,317,0,1,Duquesne,Temple,Dukes,Owls,4,2,39,19,20,1389,Duquesne,1256,56,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,49
+2010-11,2011-01-15,1011791,319,0,1,Duquesne,Temple,Dukes,Owls,4,2,39,21,18,1644,Temple,1248,48,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,514899,NA,NA,0,Temple,Duquesne,50
+2010-11,2011-01-15,1011791,321,0,1,Duquesne,Temple,Dukes,Owls,4,2,39,21,18,1644,Temple,1236,36,12,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,51
+2010-11,2011-01-15,1011791,322,0,1,Duquesne,Temple,Dukes,Owls,4,2,39,21,18,1389,Duquesne,1236,36,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,51
+2010-11,2011-01-15,1011791,324,0,1,Duquesne,Temple,Dukes,Owls,4,2,40,21,19,1389,Duquesne,1236,36,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,51
+2010-11,2011-01-15,1011791,329,0,1,Duquesne,Temple,Dukes,Owls,4,2,40,21,19,1389,Duquesne,1224,24,12,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,52
+2010-11,2011-01-15,1011791,330,0,1,Duquesne,Temple,Dukes,Owls,4,2,40,22,18,1644,Temple,1224,24,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,52
+2010-11,2011-01-15,1011791,331,0,1,Duquesne,Temple,Dukes,Owls,4,2,40,23,17,1644,Temple,1224,24,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,52
+2010-11,2011-01-15,1011791,332,0,1,Duquesne,Temple,Dukes,Owls,3,2,40,23,17,1389,Duquesne,1224,24,0,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,335,0,1,Duquesne,Temple,Dukes,Owls,3,2,40,23,17,1389,Duquesne,1223,23,1,Offensive foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,53
+2010-11,2011-01-15,1011791,337,0,1,Duquesne,Temple,Dukes,Owls,3,2,40,23,17,NA,NA,1200,0,23,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,338,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,23,17,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duquesne,54
+2010-11,2011-01-15,1011791,341,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,23,17,1644,Temple,1174,1174,26,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,55
+2010-11,2011-01-15,1011791,345,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,23,17,1644,Temple,1171,1171,3, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,14.95,416798,NA,NA,0,Temple,Temple,55
+2010-11,2011-01-15,1011791,346,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,23,17,1389,Duquesne,1171,1171,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,55
+2010-11,2011-01-15,1011791,349,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,23,17,1389,Duquesne,1169,1169,2,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,56
+2010-11,2011-01-15,1011791,351,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1644,Temple,1152,1152,17, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,30,20.25,514902,NA,NA,0,Temple,Duquesne,56
+2010-11,2011-01-15,1011791,354,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1389,Duquesne,1119,1119,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551786,NA,NA,0,Duquesne,Duquesne,57
+2010-11,2011-01-15,1011791,355,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1644,Temple,1119,1119,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,57
+2010-11,2011-01-15,1011791,358,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1644,Temple,1116,1116,3,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,58
+2010-11,2011-01-15,1011791,360,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1389,Duquesne,1094,1094,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,20.75,469239,NA,NA,0,Duquesne,Duquesne,59
+2010-11,2011-01-15,1011791,364,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1389,Duquesne,1072,1072,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9,22.25,551787,NA,NA,0,Duquesne,Duquesne,59
+2010-11,2011-01-15,1011791,365,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,25,15,1644,Temple,1072,1072,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,59
+2010-11,2011-01-15,1011791,369,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,28,12,1644,Temple,1059,1059,13, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,18.25,514899,NA,NA,0,Temple,Duquesne,60
+2010-11,2011-01-15,1011791,371,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,28,12,1644,Temple,1048,1048,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14,26.25,514899,NA,NA,0,Temple,Temple,61
+2010-11,2011-01-15,1011791,372,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,28,12,1644,Temple,1048,1048,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,61
+2010-11,2011-01-15,1011791,377,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,28,12,1389,Duquesne,1040,1040,8,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,61
+2010-11,2011-01-15,1011791,382,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1644,Temple,1040,1040,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,61
+2010-11,2011-01-15,1011791,385,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1644,Temple,1040,1040,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,61
+2010-11,2011-01-15,1011791,386,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1389,Duquesne,1040,1040,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,61
+2010-11,2011-01-15,1011791,388,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1389,Duquesne,1031,1031,9, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,25,23.049999999999997,398417,NA,NA,0,Duquesne,Duquesne,62
+2010-11,2011-01-15,1011791,389,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1389,Duquesne,1031,1031,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,62
+2010-11,2011-01-15,1011791,390,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1389,Duquesne,1027,1027,4, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,8.549999999999997,416197,NA,NA,0,Duquesne,Duquesne,62
+2010-11,2011-01-15,1011791,391,0,2,Duquesne,Temple,Dukes,Owls,4,4,40,29,11,1644,Temple,1027,1027,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,62
+2010-11,2011-01-15,1011791,409,0,2,Duquesne,Temple,Dukes,Owls,4,4,42,29,13,1389,Duquesne,992,992,35, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,36.3,16.450000000000003,551786,NA,NA,0,Duquesne,Temple,63
+2010-11,2011-01-15,1011791,411,0,2,Duquesne,Temple,Dukes,Owls,4,4,42,29,13,1644,Temple,966,966,26, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,6.95,416798,NA,NA,0,Temple,Temple,64
+2010-11,2011-01-15,1011791,412,0,2,Duquesne,Temple,Dukes,Owls,4,4,42,29,13,1389,Duquesne,966,966,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,64
+2010-11,2011-01-15,1011791,414,0,2,Duquesne,Temple,Dukes,Owls,4,4,42,29,13,1644,Temple,961,961,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,65
+2010-11,2011-01-15,1011791,416,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,29,15,1389,Duquesne,953,953,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398417,NA,NA,0,Duquesne,Temple,65
+2010-11,2011-01-15,1011791,428,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1644,Temple,920,920,33, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,9.55,416798,NA,NA,0,Temple,Duquesne,66
+2010-11,2011-01-15,1011791,431,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1389,Duquesne,917,917,3,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,67
+2010-11,2011-01-15,1011791,432,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,NA,NA,917,917,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,433,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1644,Temple,917,917,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,67
+2010-11,2011-01-15,1011791,434,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1389,Duquesne,917,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,67
+2010-11,2011-01-15,1011791,437,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1644,Temple,906,906,11,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,440,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1389,Duquesne,887,887,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.3,29.650000000000006,551786,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,443,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1389,Duquesne,873,873,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469239,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,444,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1389,Duquesne,873,873,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,446,0,2,Duquesne,Temple,Dukes,Owls,4,4,44,31,13,1644,Temple,869,869,4,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,447,0,2,Duquesne,Temple,Dukes,Owls,4,4,45,31,14,1389,Duquesne,869,869,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,68
+2010-11,2011-01-15,1011791,448,0,2,Duquesne,Temple,Dukes,Owls,4,4,46,31,15,1389,Duquesne,869,869,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,68
+2010-11,2011-01-15,1011791,450,0,2,Duquesne,Temple,Dukes,Owls,4,4,46,31,15,1644,Temple,841,841,28, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,34,28.25,489569,NA,NA,0,Temple,Temple,69
+2010-11,2011-01-15,1011791,451,0,2,Duquesne,Temple,Dukes,Owls,4,4,46,31,15,1389,Duquesne,841,841,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,69
+2010-11,2011-01-15,1011791,452,0,2,Duquesne,Temple,Dukes,Owls,4,4,48,31,17,1389,Duquesne,831,831,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469239,NA,NA,0,Duquesne,Temple,70
+2010-11,2011-01-15,1011791,454,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,31,17,1644,Temple,826,826,5,Owls take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,460,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,31,17,1389,Duquesne,798,798,28,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,71
+2010-11,2011-01-15,1011791,462,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1644,Temple,776,776,22, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14.3,26.95,489569,NA,NA,0,Temple,Duquesne,71
+2010-11,2011-01-15,1011791,464,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1389,Duquesne,744,744,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551787,NA,NA,0,Duquesne,Duquesne,72
+2010-11,2011-01-15,1011791,465,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1389,Duquesne,744,744,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,72
+2010-11,2011-01-15,1011791,468,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1644,Temple,720,720,24,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,72
+2010-11,2011-01-15,1011791,480,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,NA,NA,709,709,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,482,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1389,Duquesne,693,693,16, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,14.75,551787,NA,NA,0,Duquesne,Duquesne,73
+2010-11,2011-01-15,1011791,483,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1644,Temple,693,693,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,73
+2010-11,2011-01-15,1011791,484,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1644,Temple,667,667,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19,28.65,514899,NA,NA,0,Temple,Temple,74
+2010-11,2011-01-15,1011791,485,0,2,Duquesne,Temple,Dukes,Owls,4,3,48,34,14,1389,Duquesne,667,667,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,74
+2010-11,2011-01-15,1011791,486,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,34,17,1389,Duquesne,657,657,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6,17.25,398417,NA,NA,0,Duquesne,Temple,75
+2010-11,2011-01-15,1011791,490,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,34,17,1644,Temple,629,629,28, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,11.7,15.55,514901,NA,NA,0,Temple,Temple,76
+2010-11,2011-01-15,1011791,491,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,34,17,1389,Duquesne,629,629,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,76
+2010-11,2011-01-15,1011791,492,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,34,17,1389,Duquesne,622,622,7, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,31.2,23.650000000000006,551787,NA,NA,0,Duquesne,Duquesne,77
+2010-11,2011-01-15,1011791,493,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,34,17,1644,Temple,622,622,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,77
+2010-11,2011-01-15,1011791,494,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,37,14,1644,Temple,613,613,9, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,29.3,30.05,416798,NA,NA,0,Temple,Duquesne,78
+2010-11,2011-01-15,1011791,495,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,37,14,1389,Duquesne,594,594,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469239,NA,NA,0,Duquesne,Duquesne,79
+2010-11,2011-01-15,1011791,495.5,0,2,Duquesne,Temple,Dukes,Owls,4,3,51,37,14,1389,Duquesne,594,594,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,79
+2010-11,2011-01-15,1011791,496,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,37,16,1389,Duquesne,594,594,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511019,NA,NA,0,Duquesne,Temple,79
+2010-11,2011-01-15,1011791,501,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,37,16,1644,Temple,583,583,11, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,7.95,469335,NA,NA,0,Temple,Temple,80
+2010-11,2011-01-15,1011791,502,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,37,16,1644,Temple,583,583,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,80
+2010-11,2011-01-15,1011791,503,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,37,16,1389,Duquesne,583,583,0,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,80
+2010-11,2011-01-15,1011791,504,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,37,16,1644,Temple,583,583,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,80
+2010-11,2011-01-15,1011791,506,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,38,15,1644,Temple,583,583,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,80
+2010-11,2011-01-15,1011791,507.5,0,2,Duquesne,Temple,Dukes,Owls,4,3,53,38,15,1644,Temple,568,568,15,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,81
+2010-11,2011-01-15,1011791,509,0,2,Duquesne,Temple,Dukes,Owls,4,3,54,38,16,1389,Duquesne,568,568,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,81
+2010-11,2011-01-15,1011791,511,0,2,Duquesne,Temple,Dukes,Owls,4,3,54,38,16,1389,Duquesne,568,568,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,81
+2010-11,2011-01-15,1011791,516,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,38,18,1389,Duquesne,550,550,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,511019,NA,NA,0,Duquesne,Temple,81
+2010-11,2011-01-15,1011791,518,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,38,18,1389,Duquesne,531,531,19,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,82
+2010-11,2011-01-15,1011791,519,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,38,18,1644,Temple,531,531,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,82
+2010-11,2011-01-15,1011791,521,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,39,17,1644,Temple,531,531,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,82
+2010-11,2011-01-15,1011791,523,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,41,15,1644,Temple,523,523,8, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15,10.25,416798,NA,NA,0,Temple,Duquesne,83
+2010-11,2011-01-15,1011791,526,0,2,Duquesne,Temple,Dukes,Owls,4,3,56,41,15,1644,Temple,517,517,6,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,84
+2010-11,2011-01-15,1011791,528,0,2,Duquesne,Temple,Dukes,Owls,4,3,57,41,16,1389,Duquesne,517,517,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,84
+2010-11,2011-01-15,1011791,529,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,41,17,1389,Duquesne,517,517,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,84
+2010-11,2011-01-15,1011791,531,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,43,15,1644,Temple,510,510,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551963,NA,NA,0,Temple,Duquesne,85
+2010-11,2011-01-15,1011791,533.5,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,43,15,1389,Duquesne,487,487,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,416197,NA,NA,0,Duquesne,Duquesne,86
+2010-11,2011-01-15,1011791,534.25,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,43,15,1644,Temple,487,487,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,86
+2010-11,2011-01-15,1011791,535,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,43,15,1389,Duquesne,476,476,11,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,87
+2010-11,2011-01-15,1011791,536,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,43,15,NA,NA,476,476,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,543,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1644,Temple,476,476,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,87
+2010-11,2011-01-15,1011791,544,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1644,Temple,476,476,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,87
+2010-11,2011-01-15,1011791,545,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1389,Duquesne,476,476,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,87
+2010-11,2011-01-15,1011791,548,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1644,Temple,456,456,20,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,88
+2010-11,2011-01-15,1011791,554,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1389,Duquesne,443,443,13, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,88
+2010-11,2011-01-15,1011791,557,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1644,Temple,443,443,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,88
+2010-11,2011-01-15,1011791,560,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,44,14,1389,Duquesne,443,443,0,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,89
+2010-11,2011-01-15,1011791,561,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,45,13,1644,Temple,443,443,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,89
+2010-11,2011-01-15,1011791,562,0,2,Duquesne,Temple,Dukes,Owls,4,3,58,46,12,1644,Temple,443,443,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,89
+2010-11,2011-01-15,1011791,568,0,2,Duquesne,Temple,Dukes,Owls,4,3,60,46,14,1389,Duquesne,435,435,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,416197,NA,NA,0,Duquesne,Temple,90
+2010-11,2011-01-15,1011791,570,0,2,Duquesne,Temple,Dukes,Owls,4,3,60,46,14,1389,Duquesne,421,421,14,Personal foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,91
+2010-11,2011-01-15,1011791,571,0,2,Duquesne,Temple,Dukes,Owls,4,3,60,47,13,1644,Temple,421,421,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,91
+2010-11,2011-01-15,1011791,572,0,2,Duquesne,Temple,Dukes,Owls,4,3,60,48,12,1644,Temple,421,421,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,91
+2010-11,2011-01-15,1011791,575,0,2,Duquesne,Temple,Dukes,Owls,4,3,62,48,14,1389,Duquesne,412,412,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,574872,NA,NA,0,Duquesne,Temple,92
+2010-11,2011-01-15,1011791,577,0,2,Duquesne,Temple,Dukes,Owls,4,3,62,48,14,1644,Temple,408,408,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30,28.25,514902,NA,NA,0,Temple,Temple,93
+2010-11,2011-01-15,1011791,578,0,2,Duquesne,Temple,Dukes,Owls,4,3,62,48,14,1389,Duquesne,408,408,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,93
+2010-11,2011-01-15,1011791,588,0,2,Duquesne,Temple,Dukes,Owls,4,2,62,48,14,1644,Temple,399,399,9,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,593,0,2,Duquesne,Temple,Dukes,Owls,3,2,62,48,14,1389,Duquesne,393,393,6,Dukes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,596,0,2,Duquesne,Temple,Dukes,Owls,3,2,62,48,14,1389,Duquesne,382,382,11,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,94
+2010-11,2011-01-15,1011791,597,0,2,Duquesne,Temple,Dukes,Owls,3,2,62,49,13,1644,Temple,382,382,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,94
+2010-11,2011-01-15,1011791,598,0,2,Duquesne,Temple,Dukes,Owls,3,2,62,50,12,1644,Temple,382,382,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,94
+2010-11,2011-01-15,1011791,600,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1389,Duquesne,373,373,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,416197,NA,NA,0,Duquesne,Temple,95
+2010-11,2011-01-15,1011791,601,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1644,Temple,358,358,15, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,26.8,11.25,402984,NA,NA,0,Temple,Temple,96
+2010-11,2011-01-15,1011791,602,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1644,Temple,358,358,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,96
+2010-11,2011-01-15,1011791,603,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1644,Temple,350,350,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.300000000000001,19.55,551963,NA,NA,0,Temple,Temple,96
+2010-11,2011-01-15,1011791,604,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1389,Duquesne,350,350,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,96
+2010-11,2011-01-15,1011791,606,0,2,Duquesne,Temple,Dukes,Owls,3,2,64,50,14,1644,Temple,341,341,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,97
+2010-11,2011-01-15,1011791,607,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,50,15,1389,Duquesne,341,341,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,97
+2010-11,2011-01-15,1011791,608,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,50,15,1389,Duquesne,341,341,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,97
+2010-11,2011-01-15,1011791,609,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,50,15,1644,Temple,341,341,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,97
+2010-11,2011-01-15,1011791,622,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,52,13,1644,Temple,326,326,15, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27,8.25,402984,NA,NA,0,Temple,Duquesne,98
+2010-11,2011-01-15,1011791,626,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,52,13,1389,Duquesne,295,295,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,21.349999999999994,469239,NA,NA,0,Duquesne,Duquesne,99
+2010-11,2011-01-15,1011791,627,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,52,13,1389,Duquesne,295,295,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,99
+2010-11,2011-01-15,1011791,629,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,52,13,1644,Temple,288,288,7,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,99
+2010-11,2011-01-15,1011791,630,0,2,Duquesne,Temple,Dukes,Owls,3,2,65,52,13,1389,Duquesne,288,288,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,99
+2010-11,2011-01-15,1011791,633,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1389,Duquesne,288,288,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,99
+2010-11,2011-01-15,1011791,636,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1644,Temple,279,279,9,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,100
+2010-11,2011-01-15,1011791,638,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1644,Temple,260,260,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5,14.25,469335,NA,NA,0,Temple,Temple,101
+2010-11,2011-01-15,1011791,639,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1644,Temple,260,260,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,101
+2010-11,2011-01-15,1011791,641,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1644,Temple,253,253,7,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,101
+2010-11,2011-01-15,1011791,650,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,1644,Temple,236,236,17,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,102
+2010-11,2011-01-15,1011791,651,0,2,Duquesne,Temple,Dukes,Owls,3,2,66,52,14,NA,NA,236,236,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,652,0,2,Duquesne,Temple,Dukes,Owls,3,2,67,52,15,1389,Duquesne,236,236,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,102
+2010-11,2011-01-15,1011791,653,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1389,Duquesne,236,236,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,102
+2010-11,2011-01-15,1011791,655,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1644,Temple,227,227,9, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,9.35,416798,NA,NA,0,Temple,Temple,103
+2010-11,2011-01-15,1011791,656,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1389,Duquesne,227,227,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,103
+2010-11,2011-01-15,1011791,665,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1644,Temple,182,182,45, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,7.35,514899,NA,NA,0,Temple,Temple,104
+2010-11,2011-01-15,1011791,666,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1644,Temple,182,182,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,104
+2010-11,2011-01-15,1011791,669,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1644,Temple,163,163,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551963,NA,NA,0,Temple,Temple,104
+2010-11,2011-01-15,1011791,670,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1389,Duquesne,163,163,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,104
+2010-11,2011-01-15,1011791,678,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1389,Duquesne,153,153,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,29.650000000000006,551786,NA,NA,0,Duquesne,Duquesne,105
+2010-11,2011-01-15,1011791,679,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,52,16,1644,Temple,153,153,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,105
+2010-11,2011-01-15,1011791,680,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,54,14,1644,Temple,143,143,10, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,9.15,551963,NA,NA,0,Temple,Duquesne,106
+2010-11,2011-01-15,1011791,682,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,54,14,1389,Duquesne,128,128,15, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.2,27.349999999999994,416197,NA,NA,0,Duquesne,Duquesne,107
+2010-11,2011-01-15,1011791,683,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,54,14,1644,Temple,128,128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,107
+2010-11,2011-01-15,1011791,691,0,2,Duquesne,Temple,Dukes,Owls,3,2,68,56,12,1644,Temple,101,101,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,416798,NA,NA,0,Temple,Duquesne,108
+2010-11,2011-01-15,1011791,693,0,2,Duquesne,Temple,Dukes,Owls,2,2,68,56,12,1389,Duquesne,97,97,4,Dukes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,696,0,2,Duquesne,Temple,Dukes,Owls,2,2,68,56,12,1644,Temple,88,88,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,109
+2010-11,2011-01-15,1011791,697,0,2,Duquesne,Temple,Dukes,Owls,2,2,69,56,13,1389,Duquesne,88,88,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,109
+2010-11,2011-01-15,1011791,698,0,2,Duquesne,Temple,Dukes,Owls,2,2,70,56,14,1389,Duquesne,88,88,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,109
+2010-11,2011-01-15,1011791,700,0,2,Duquesne,Temple,Dukes,Owls,2,2,70,56,14,1644,Temple,84,84,4, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,28.05,416798,NA,NA,0,Temple,Temple,110
+2010-11,2011-01-15,1011791,701,0,2,Duquesne,Temple,Dukes,Owls,2,2,70,56,14,1389,Duquesne,84,84,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,110
+2010-11,2011-01-15,1011791,702.5,0,2,Duquesne,Temple,Dukes,Owls,2,2,70,56,14,1644,Temple,77,77,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,111
+2010-11,2011-01-15,1011791,704,0,2,Duquesne,Temple,Dukes,Owls,2,2,70,56,14,1389,Duquesne,77,77,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,111
+2010-11,2011-01-15,1011791,707,0,2,Duquesne,Temple,Dukes,Owls,2,2,71,56,15,1389,Duquesne,77,77,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,111
+2010-11,2011-01-15,1011791,709,0,2,Duquesne,Temple,Dukes,Owls,2,2,71,58,13,1644,Temple,73,73,4, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,24.8,14.95,416798,NA,NA,0,Temple,Duquesne,112
+2010-11,2011-01-15,1011791,711,0,2,Duquesne,Temple,Dukes,Owls,2,2,71,58,13,1644,Temple,68,68,5,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,113
+2010-11,2011-01-15,1011791,713,0,2,Duquesne,Temple,Dukes,Owls,2,2,72,58,14,1389,Duquesne,68,68,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,113
+2010-11,2011-01-15,1011791,714,0,2,Duquesne,Temple,Dukes,Owls,2,2,73,58,15,1389,Duquesne,68,68,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,113
+2010-11,2011-01-15,1011791,721,0,2,Duquesne,Temple,Dukes,Owls,2,2,73,58,15,1389,Duquesne,58,58,10,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,114
+2010-11,2011-01-15,1011791,722,0,2,Duquesne,Temple,Dukes,Owls,2,2,73,58,15,1644,Temple,58,58,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,114
+2010-11,2011-01-15,1011791,724,0,2,Duquesne,Temple,Dukes,Owls,2,2,73,59,14,1644,Temple,58,58,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,114
+2010-11,2011-01-15,1011791,727,0,2,Duquesne,Temple,Dukes,Owls,2,2,73,59,14,1644,Temple,49,49,9,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,115
+2010-11,2011-01-15,1011791,728,0,2,Duquesne,Temple,Dukes,Owls,2,2,74,59,15,1389,Duquesne,49,49,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,115
+2010-11,2011-01-15,1011791,729,0,2,Duquesne,Temple,Dukes,Owls,2,2,75,59,16,1389,Duquesne,49,49,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,115
+2010-11,2011-01-15,1011791,731,0,2,Duquesne,Temple,Dukes,Owls,2,2,75,61,14,1644,Temple,41,41,8, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,18.3,13.55,416798,NA,NA,0,Temple,Duquesne,116
+2010-11,2011-01-15,1011791,733,0,2,Duquesne,Temple,Dukes,Owls,2,2,75,61,14,1644,Temple,31,31,10,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,117
+2010-11,2011-01-15,1011791,734,0,2,Duquesne,Temple,Dukes,Owls,2,2,75,61,14,1389,Duquesne,31,31,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,117
+2010-11,2011-01-15,1011791,737,0,2,Duquesne,Temple,Dukes,Owls,2,2,76,61,15,1389,Duquesne,31,31,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,117
+2010-11,2011-01-15,1011791,743,0,2,Duquesne,Temple,Dukes,Owls,2,2,76,64,12,1644,Temple,25,25,6, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,23.25,416798,NA,NA,0,Temple,Duquesne,118
+2010-11,2011-01-15,1011791,745,0,2,Duquesne,Temple,Dukes,Owls,2,2,76,64,12,1644,Temple,17,17,8,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,119
+2010-11,2011-01-15,1011791,747,0,2,Duquesne,Temple,Dukes,Owls,2,2,77,64,13,1389,Duquesne,17,17,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,119
+2010-11,2011-01-15,1011791,748,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,64,14,1389,Duquesne,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Temple,119
+2010-11,2011-01-15,1011791,751,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,64,14,1644,Temple,11,11,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551963,NA,NA,0,Temple,Temple,120
+2010-11,2011-01-15,1011791,752.5,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,64,14,1644,Temple,11,11,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,120
+2010-11,2011-01-15,1011791,754,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,64,14,1389,Duquesne,11,11,0,Shooting foul committed by Dukes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,120
+2010-11,2011-01-15,1011791,757,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,65,13,1644,Temple,11,11,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Temple,120
+2010-11,2011-01-15,1011791,758,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,66,12,1644,Temple,11,11,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Temple,Duquesne,120
+2010-11,2011-01-15,1011791,760,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,66,12,NA,NA,0,0,11,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-15,1011791,761,0,2,Duquesne,Temple,Dukes,Owls,2,2,78,66,12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duquesne,Duquesne,NA

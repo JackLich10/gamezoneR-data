@@ -1,0 +1,271 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-01,1010942,1,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Florida,NA
+2010-11,2011-03-01,1010942,5,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2377,1177,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400599,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,6,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2377,1177,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,7,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2363,1163,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,8,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2363,1163,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,9,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2359,1159,4, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,26,6.75,400602,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,10,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,0,0,0,1407,Florida,2359,1159,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,1
+2010-11,2011-03-01,1010942,11,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,2,0,2,1407,Florida,2354,1154,5, makes a tip shot from 5 feet out.,made,FALSE,FALSE,Tip Shot,25.5,9.849999999999994,332667,NA,NA,0,Florida,Alabama,1
+2010-11,2011-03-01,1010942,12,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,2,0,2,1284,Alabama,2348,1148,6, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37,8.75,460833,NA,NA,0,Alabama,Alabama,2
+2010-11,2011-03-01,1010942,13,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,2,0,2,1407,Florida,2348,1148,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,2
+2010-11,2011-03-01,1010942,16,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,2,0,2,1284,Alabama,2332,1132,16,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-03-01,1010942,17,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,3,0,3,1407,Florida,2332,1132,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,3
+2010-11,2011-03-01,1010942,18,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,0,4,1407,Florida,2332,1132,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,3
+2010-11,2011-03-01,1010942,20,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,0,4,1407,Florida,2331,1131,1, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,23.5,6.049999999999997,400599,NA,NA,0,Florida,Florida,4
+2010-11,2011-03-01,1010942,21,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,0,4,1407,Florida,2331,1131,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,4
+2010-11,2011-03-01,1010942,24,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,0,4,1284,Alabama,2308,1108,23,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,4
+2010-11,2011-03-01,1010942,31,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1284,Alabama,2291,1091,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,553767,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-03-01,1010942,32,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1407,Florida,2291,1091,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-03-01,1010942,33,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1284,Alabama,2291,1091,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,4
+2010-11,2011-03-01,1010942,34,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1407,Florida,2291,1091,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,4
+2010-11,2011-03-01,1010942,36,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1407,Florida,2262,1062,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,5
+2010-11,2011-03-01,1010942,37,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1284,Alabama,2262,1062,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,5
+2010-11,2011-03-01,1010942,38,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1284,Alabama,2241,1041,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.3,24.35,512933,NA,NA,0,Alabama,Alabama,6
+2010-11,2011-03-01,1010942,39,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1407,Florida,2241,1041,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,6
+2010-11,2011-03-01,1010942,42,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,4,2,2,1407,Florida,2235,1035,6,Offensive foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,7
+2010-11,2011-03-01,1010942,44,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,2,4,1407,Florida,2227,1027,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,400599,NA,NA,0,Florida,Alabama,8
+2010-11,2011-03-01,1010942,45,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1284,Alabama,2214,1014,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512933,NA,NA,0,Alabama,Florida,9
+2010-11,2011-03-01,1010942,46,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1407,Florida,2189,989,25, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,12.75,512752,NA,NA,0,Florida,Florida,10
+2010-11,2011-03-01,1010942,47,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1284,Alabama,2189,989,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,10
+2010-11,2011-03-01,1010942,50,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1284,Alabama,2176,976,13,Offensive foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,11
+2010-11,2011-03-01,1010942,53,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1407,Florida,2168,968,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,54,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1407,Florida,2168,968,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,57,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1407,Florida,2165,965,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,8.75,551992,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,58,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1407,Florida,2165,965,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,68,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,NA,NA,2156,956,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,69,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,6,4,2,1284,Alabama,2156,956,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,70,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1407,Florida,2156,956,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,71,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1407,Florida,2156,956,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,72,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1407,Florida,2156,956,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,78,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1407,Florida,2148,948,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,22.049999999999997,460865,NA,NA,0,Florida,Florida,12
+2010-11,2011-03-01,1010942,79,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1284,Alabama,2148,948,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,12
+2010-11,2011-03-01,1010942,80,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1284,Alabama,2145,945,3,Technical foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,13
+2010-11,2011-03-01,1010942,81,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,7,4,3,1407,Florida,2145,945,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,14
+2010-11,2011-03-01,1010942,83,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2145,945,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,14
+2010-11,2011-03-01,1010942,84,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1284,Alabama,2145,945,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,85,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2145,945,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,89,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2127,927,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,33.3,28.849999999999994,400599,NA,NA,0,Florida,Florida,15
+2010-11,2011-03-01,1010942,90,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1284,Alabama,2127,927,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,15
+2010-11,2011-03-01,1010942,91,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2102,902,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,10.049999999999997,551992,NA,NA,0,Florida,Florida,16
+2010-11,2011-03-01,1010942,92,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1284,Alabama,2102,902,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,16
+2010-11,2011-03-01,1010942,93,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1284,Alabama,2095,895,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460836,NA,NA,0,Alabama,Alabama,17
+2010-11,2011-03-01,1010942,94,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2095,895,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,17
+2010-11,2011-03-01,1010942,96,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2060,860,35, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,22.650000000000006,551992,NA,NA,0,Florida,Alabama,18
+2010-11,2011-03-01,1010942,102,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,4,4,1407,Florida,2056,856,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,104,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1284,Alabama,2048,848,8, makes a hook shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25,12.75,460833,NA,NA,0,Alabama,Florida,19
+2010-11,2011-03-01,1010942,106,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1407,Florida,2026,826,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.700000000000003,23.849999999999994,512753,NA,NA,0,Florida,Florida,20
+2010-11,2011-03-01,1010942,107,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1284,Alabama,2026,826,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,20
+2010-11,2011-03-01,1010942,116,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1407,Florida,2010,810,16,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-03-01,1010942,118,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1284,Alabama,2006,806,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,22.65,460838,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-03-01,1010942,119,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,6,2,1284,Alabama,2006,806,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,21
+2010-11,2011-03-01,1010942,120,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,8,0,1284,Alabama,1997,797,9, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,35.3,5.85,399641,NA,NA,0,Alabama,Florida,21
+2010-11,2011-03-01,1010942,121,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,8,0,1407,Florida,1962,762,35, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,12.75,512752,NA,NA,0,Florida,Florida,22
+2010-11,2011-03-01,1010942,122,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,8,8,0,1407,Florida,1962,762,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,22
+2010-11,2011-03-01,1010942,123,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1407,Florida,1957,757,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Alabama,22
+2010-11,2011-03-01,1010942,126,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1284,Alabama,1933,733,24,Offensive foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,23
+2010-11,2011-03-01,1010942,133,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1284,Alabama,1909,709,24,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,24
+2010-11,2011-03-01,1010942,134,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,NA,NA,1909,709,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,135,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1284,Alabama,1909,709,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,136,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1407,Florida,1909,709,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,137,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1407,Florida,1909,709,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,138,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,10,8,2,1407,Florida,1909,709,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,24
+2010-11,2011-03-01,1010942,140,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1407,Florida,1909,709,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,24
+2010-11,2011-03-01,1010942,143,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1284,Alabama,1908,708,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,146,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1407,Florida,1896,696,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,148,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1407,Florida,1873,673,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,19.950000000000003,460865,NA,NA,0,Florida,Florida,25
+2010-11,2011-03-01,1010942,149,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1284,Alabama,1873,673,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,25
+2010-11,2011-03-01,1010942,155,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1284,Alabama,1850,650,23,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,157,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1284,Alabama,1814,614,36, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,10.05,399641,NA,NA,0,Alabama,Alabama,26
+2010-11,2011-03-01,1010942,158,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1407,Florida,1814,614,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,26
+2010-11,2011-03-01,1010942,159,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1407,Florida,1804,604,10, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.5,7.950000000000003,551991,NA,NA,0,Florida,Florida,27
+2010-11,2011-03-01,1010942,160,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,8,3,1284,Alabama,1804,604,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,27
+2010-11,2011-03-01,1010942,161,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,10,1,1284,Alabama,1786,586,18, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.3,12.05,512935,NA,NA,0,Alabama,Florida,28
+2010-11,2011-03-01,1010942,162,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,10,1,1407,Florida,1769,569,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,9.549999999999997,512752,NA,NA,0,Florida,Florida,29
+2010-11,2011-03-01,1010942,163,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,10,1,1284,Alabama,1769,569,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,29
+2010-11,2011-03-01,1010942,164,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,11,12,-1,1284,Alabama,1762,562,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553767,NA,NA,0,Alabama,Florida,30
+2010-11,2011-03-01,1010942,165,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,13,12,1,1407,Florida,1754,554,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Alabama,31
+2010-11,2011-03-01,1010942,167,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,13,14,-1,1284,Alabama,1724,524,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,460833,NA,NA,0,Alabama,Florida,32
+2010-11,2011-03-01,1010942,168,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,14,1,1407,Florida,1694,494,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,33
+2010-11,2011-03-01,1010942,172,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,14,1,1407,Florida,1683,483,11,Offensive foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,34
+2010-11,2011-03-01,1010942,173,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,15,0,1284,Alabama,1683,483,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,35
+2010-11,2011-03-01,1010942,174,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,1284,Alabama,1683,483,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,35
+2010-11,2011-03-01,1010942,181,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,1407,Florida,1667,467,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,18.950000000000003,400599,NA,NA,0,Florida,Florida,36
+2010-11,2011-03-01,1010942,182,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,1407,Florida,1667,467,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,36
+2010-11,2011-03-01,1010942,183,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,NA,NA,1667,467,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,184,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,1284,Alabama,1667,467,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,36
+2010-11,2011-03-01,1010942,186,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,15,16,-1,1407,Florida,1667,467,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,36
+2010-11,2011-03-01,1010942,188,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,16,16,0,1407,Florida,1667,467,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,36
+2010-11,2011-03-01,1010942,190,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1407,Florida,1653,453,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Alabama,37
+2010-11,2011-03-01,1010942,200,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1284,Alabama,1590,390,63,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,38
+2010-11,2011-03-01,1010942,201,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1407,Florida,1590,390,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,38
+2010-11,2011-03-01,1010942,202,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1284,Alabama,1590,390,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,38
+2010-11,2011-03-01,1010942,210,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1407,Florida,1564,364,26,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,39
+2010-11,2011-03-01,1010942,212,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1284,Alabama,1547,347,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,14.75,460833,NA,NA,0,Alabama,Alabama,39
+2010-11,2011-03-01,1010942,213,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1407,Florida,1547,347,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,39
+2010-11,2011-03-01,1010942,214,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1407,Florida,1536,336,11, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,20.349999999999994,400599,NA,NA,0,Florida,Florida,40
+2010-11,2011-03-01,1010942,215,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,16,2,1284,Alabama,1536,336,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,40
+2010-11,2011-03-01,1010942,216,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,18,18,0,1284,Alabama,1527,327,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,460836,NA,NA,0,Alabama,Florida,41
+2010-11,2011-03-01,1010942,222,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1407,Florida,1508,308,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Florida,42
+2010-11,2011-03-01,1010942,223,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1284,Alabama,1508,308,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,42
+2010-11,2011-03-01,1010942,224,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1407,Florida,1508,308,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,42
+2010-11,2011-03-01,1010942,225,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1284,Alabama,1508,308,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,42
+2010-11,2011-03-01,1010942,227,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1284,Alabama,1485,285,23, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,38,21.25,460833,NA,NA,0,Alabama,Alabama,43
+2010-11,2011-03-01,1010942,228,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1407,Florida,1485,285,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,43
+2010-11,2011-03-01,1010942,233,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1284,Alabama,1457,257,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460836,NA,NA,0,Alabama,Alabama,44
+2010-11,2011-03-01,1010942,234,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,20,18,2,1407,Florida,1457,257,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,44
+2010-11,2011-03-01,1010942,237,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,18,4,1407,Florida,1440,240,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Alabama,45
+2010-11,2011-03-01,1010942,253,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,18,4,NA,NA,1416,216,24,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,254,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,18,4,1407,Florida,1416,216,0,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,46
+2010-11,2011-03-01,1010942,255,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,19,3,1284,Alabama,1416,216,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,46
+2010-11,2011-03-01,1010942,256,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,20,2,1284,Alabama,1416,216,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,46
+2010-11,2011-03-01,1010942,258,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,20,2,1284,Alabama,1384,184,32, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553767,NA,NA,0,Alabama,Alabama,47
+2010-11,2011-03-01,1010942,259,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,20,2,1284,Alabama,1384,184,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,47
+2010-11,2011-03-01,1010942,260,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1284,Alabama,1380,180,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,460836,NA,NA,0,Alabama,Florida,47
+2010-11,2011-03-01,1010942,262,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1407,Florida,1367,167,13,Offensive foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,48
+2010-11,2011-03-01,1010942,265,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1407,Florida,1367,167,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,49
+2010-11,2011-03-01,1010942,266,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1284,Alabama,1367,167,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,49
+2010-11,2011-03-01,1010942,270,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1407,Florida,1333,133,34,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,271,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,22,0,1407,Florida,1333,133,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,50
+2010-11,2011-03-01,1010942,272,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,23,-1,1284,Alabama,1333,133,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,50
+2010-11,2011-03-01,1010942,273,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,22,24,-2,1284,Alabama,1333,133,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,50
+2010-11,2011-03-01,1010942,275,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,24,24,0,1407,Florida,1324,124,9, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,30.7,18.549999999999997,400602,NA,NA,0,Florida,Alabama,51
+2010-11,2011-03-01,1010942,276,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,24,26,-2,1284,Alabama,1313,113,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,460833,NA,NA,0,Alabama,Florida,52
+2010-11,2011-03-01,1010942,277,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,27,26,1,1407,Florida,1299,99,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.3,19.549999999999997,512752,NA,NA,0,Florida,Alabama,53
+2010-11,2011-03-01,1010942,278,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,27,28,-1,1284,Alabama,1273,73,26, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,9.5,14.55,512933,NA,NA,0,Alabama,Florida,54
+2010-11,2011-03-01,1010942,279,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,27,30,-3,1284,Alabama,1247,47,26, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,460836,NA,NA,0,Alabama,Florida,55
+2010-11,2011-03-01,1010942,282,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,1407,Florida,1220,20,27, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.8,17.25,512752,NA,NA,0,Florida,Alabama,56
+2010-11,2011-03-01,1010942,283,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,1284,Alabama,1202,2,18, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,29.7,32.35,512933,NA,NA,0,Alabama,Alabama,57
+2010-11,2011-03-01,1010942,284,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,1407,Florida,1202,2,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,57
+2010-11,2011-03-01,1010942,285,0,1,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,286,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Alabama,58
+2010-11,2011-03-01,1010942,288,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,1284,Alabama,1161,1161,39, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11,24.25,460836,NA,NA,0,Alabama,Alabama,59
+2010-11,2011-03-01,1010942,289,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,30,30,0,1407,Florida,1161,1161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,59
+2010-11,2011-03-01,1010942,290,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,32,30,2,1407,Florida,1155,1155,6, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12.299999999999997,17.450000000000003,400599,NA,NA,0,Florida,Florida,60
+2010-11,2011-03-01,1010942,291,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,32,30,2,1284,Alabama,1155,1155,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,60
+2010-11,2011-03-01,1010942,307,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,33,30,3,1407,Florida,1154,1154,1, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,60
+2010-11,2011-03-01,1010942,309,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,35,30,5,1407,Florida,1129,1129,25, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,61
+2010-11,2011-03-01,1010942,310,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,35,32,3,1284,Alabama,1100,1100,29, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.2,13.15,553767,NA,NA,0,Alabama,Florida,62
+2010-11,2011-03-01,1010942,311,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1407,Florida,1081,1081,19, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,24.3,12.25,332667,NA,NA,0,Florida,Alabama,63
+2010-11,2011-03-01,1010942,312,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1284,Alabama,1046,1046,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,64
+2010-11,2011-03-01,1010942,313,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1284,Alabama,1046,1046,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,64
+2010-11,2011-03-01,1010942,314,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1284,Alabama,1042,1042,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,64
+2010-11,2011-03-01,1010942,315,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1407,Florida,1042,1042,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,64
+2010-11,2011-03-01,1010942,317,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1284,Alabama,1027,1027,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23,30.35,512933,NA,NA,0,Alabama,Alabama,65
+2010-11,2011-03-01,1010942,318,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,32,5,1407,Florida,1027,1027,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,65
+2010-11,2011-03-01,1010942,321,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,37,34,3,1284,Alabama,1002,1002,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553767,NA,NA,0,Alabama,Florida,66
+2010-11,2011-03-01,1010942,322,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,39,34,5,1407,Florida,983,983,19, makes a hook shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,23,13.25,332667,NA,NA,0,Florida,Alabama,67
+2010-11,2011-03-01,1010942,323,0,2,Florida,Alabama,Gators,Crimson Tide,4,4,39,36,3,1284,Alabama,955,955,28, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,460836,NA,NA,0,Alabama,Florida,68
+2010-11,2011-03-01,1010942,336,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,36,3,1407,Florida,948,948,7,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,339,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,36,3,1407,Florida,925,925,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,13.75,460865,NA,NA,0,Florida,Alabama,69
+2010-11,2011-03-01,1010942,343,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,36,3,NA,NA,923,923,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,345,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,36,3,1284,Alabama,907,907,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,70
+2010-11,2011-03-01,1010942,346,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,36,3,1284,Alabama,907,907,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,70
+2010-11,2011-03-01,1010942,347,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,39,38,1,1284,Alabama,904,904,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460833,NA,NA,0,Alabama,Florida,70
+2010-11,2011-03-01,1010942,348,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1407,Florida,889,889,15, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,18.2,29.450000000000003,512752,NA,NA,0,Florida,Alabama,71
+2010-11,2011-03-01,1010942,349,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1284,Alabama,867,867,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38,25.95,512933,NA,NA,0,Alabama,Alabama,72
+2010-11,2011-03-01,1010942,350,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1284,Alabama,867,867,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,72
+2010-11,2011-03-01,1010942,351,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1407,Florida,856,856,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,7.349999999999994,512752,NA,NA,0,Florida,Florida,72
+2010-11,2011-03-01,1010942,352,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1284,Alabama,856,856,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,72
+2010-11,2011-03-01,1010942,354,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1284,Alabama,849,849,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553767,NA,NA,0,Alabama,Alabama,73
+2010-11,2011-03-01,1010942,355,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1407,Florida,849,849,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,73
+2010-11,2011-03-01,1010942,357,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,42,38,4,1284,Alabama,848,848,1, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,460833,NA,NA,0,Alabama,Florida,74
+2010-11,2011-03-01,1010942,359,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,44,38,6,1407,Florida,833,833,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,551991,NA,NA,0,Florida,Alabama,75
+2010-11,2011-03-01,1010942,360,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,44,38,6,1284,Alabama,799,799,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,76
+2010-11,2011-03-01,1010942,361,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,44,38,6,1407,Florida,799,799,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,76
+2010-11,2011-03-01,1010942,362,0,2,Florida,Alabama,Gators,Crimson Tide,3,4,47,38,9,1407,Florida,767,767,32, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.299999999999997,7.150000000000006,400599,NA,NA,0,Florida,Alabama,77
+2010-11,2011-03-01,1010942,370,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,1284,Alabama,747,747,20,Crimson Tide take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,391,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,1284,Alabama,744,744,3, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,13.3,17.65,399641,NA,NA,0,Alabama,Alabama,78
+2010-11,2011-03-01,1010942,392,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,1284,Alabama,744,744,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,78
+2010-11,2011-03-01,1010942,412,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,NA,NA,707,707,37,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,413,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,1407,Florida,707,707,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,414,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,47,38,9,1284,Alabama,707,707,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,78
+2010-11,2011-03-01,1010942,415,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,48,38,10,1407,Florida,707,707,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,78
+2010-11,2011-03-01,1010942,416,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1407,Florida,707,707,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,78
+2010-11,2011-03-01,1010942,417,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,707,707,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,419,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,680,680,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,24.05,460836,NA,NA,0,Alabama,Alabama,79
+2010-11,2011-03-01,1010942,420,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,680,680,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,79
+2010-11,2011-03-01,1010942,421,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,673,673,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,5.45,460833,NA,NA,0,Alabama,Alabama,79
+2010-11,2011-03-01,1010942,422,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1407,Florida,673,673,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,79
+2010-11,2011-03-01,1010942,428,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,650,650,23,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,80
+2010-11,2011-03-01,1010942,430,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1407,Florida,650,650,0, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,400599,NA,NA,0,Florida,Florida,80
+2010-11,2011-03-01,1010942,431,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,38,11,1284,Alabama,650,650,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,80
+2010-11,2011-03-01,1010942,432,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,49,40,9,1284,Alabama,645,645,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553767,NA,NA,0,Alabama,Florida,81
+2010-11,2011-03-01,1010942,433,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,51,40,11,1407,Florida,623,623,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551992,NA,NA,0,Florida,Alabama,82
+2010-11,2011-03-01,1010942,434,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,51,40,11,1284,Alabama,601,601,22, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,14.15,460833,NA,NA,0,Alabama,Alabama,83
+2010-11,2011-03-01,1010942,435,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,51,40,11,1284,Alabama,601,601,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,83
+2010-11,2011-03-01,1010942,436,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,51,42,9,1284,Alabama,597,597,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,26,7.35,460836,NA,NA,0,Alabama,Florida,83
+2010-11,2011-03-01,1010942,437,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,54,42,12,1407,Florida,577,577,20, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3,7.25,400599,NA,NA,0,Florida,Alabama,84
+2010-11,2011-03-01,1010942,439,0,2,Florida,Alabama,Gators,Crimson Tide,3,3,56,42,14,1407,Florida,549,549,28, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,85
+2010-11,2011-03-01,1010942,444,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,42,14,1284,Alabama,536,536,13,Crimson Tide take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,453,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,42,14,1284,Alabama,519,519,17, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,20.5,10.25,460836,NA,NA,0,Alabama,Alabama,86
+2010-11,2011-03-01,1010942,454,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,42,14,1284,Alabama,519,519,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,86
+2010-11,2011-03-01,1010942,455,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,42,14,1284,Alabama,515,515,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,86
+2010-11,2011-03-01,1010942,456,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,42,14,1284,Alabama,515,515,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,86
+2010-11,2011-03-01,1010942,457,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1284,Alabama,510,510,5, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25,6.95,460833,NA,NA,0,Alabama,Florida,86
+2010-11,2011-03-01,1010942,459,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1407,Florida,500,500,10,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,87
+2010-11,2011-03-01,1010942,476,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1407,Florida,492,492,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,87
+2010-11,2011-03-01,1010942,480,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1407,Florida,480,480,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,482,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1407,Florida,479,479,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,87
+2010-11,2011-03-01,1010942,483,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,56,44,12,1407,Florida,479,479,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,87
+2010-11,2011-03-01,1010942,484,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1407,Florida,472,472,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,87
+2010-11,2011-03-01,1010942,485,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,448,448,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460836,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,486,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,448,448,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,487,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,436,436,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,488,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,436,436,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,489,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,430,430,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460836,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,490,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,430,430,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,491,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,426,426,4, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,24.5,6.75,460836,NA,NA,0,Alabama,Alabama,88
+2010-11,2011-03-01,1010942,492,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1407,Florida,426,426,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,88
+2010-11,2011-03-01,1010942,508,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1284,Alabama,425,425,1,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,89
+2010-11,2011-03-01,1010942,509,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,NA,NA,425,425,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,511,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1407,Florida,402,402,23, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,29,30.35,512752,NA,NA,0,Florida,Florida,89
+2010-11,2011-03-01,1010942,512,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,58,44,14,1407,Florida,402,402,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,89
+2010-11,2011-03-01,1010942,513,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,61,44,17,1407,Florida,397,397,5, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42,20.75,460865,NA,NA,0,Florida,Alabama,89
+2010-11,2011-03-01,1010942,521,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,63,44,19,1407,Florida,367,367,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Florida,90
+2010-11,2011-03-01,1010942,522,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,63,44,19,1284,Alabama,367,367,0,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,90
+2010-11,2011-03-01,1010942,523,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,64,44,20,1407,Florida,367,367,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,90
+2010-11,2011-03-01,1010942,525,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,44,23,1407,Florida,342,342,25, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.700000000000003,19.150000000000006,460865,NA,NA,0,Florida,Alabama,91
+2010-11,2011-03-01,1010942,526,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,44,23,1284,Alabama,332,332,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,19.75,460833,NA,NA,0,Alabama,Alabama,92
+2010-11,2011-03-01,1010942,527,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,44,23,1407,Florida,332,332,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,92
+2010-11,2011-03-01,1010942,529,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,45,22,1284,Alabama,325,325,7, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,93
+2010-11,2011-03-01,1010942,530,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,46,21,1284,Alabama,325,325,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,93
+2010-11,2011-03-01,1010942,533,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,67,46,21,1407,Florida,318,318,7,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,94
+2010-11,2011-03-01,1010942,535,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,70,46,24,1407,Florida,297,297,21, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,39.3,22.849999999999994,512752,NA,NA,0,Florida,Alabama,94
+2010-11,2011-03-01,1010942,540,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,70,46,24,1407,Florida,272,272,25,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,95
+2010-11,2011-03-01,1010942,542,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,70,49,21,1284,Alabama,254,254,18, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44,19.25,553767,NA,NA,0,Alabama,Florida,95
+2010-11,2011-03-01,1010942,543,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,70,49,21,1407,Florida,228,228,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460865,NA,NA,0,Florida,Florida,96
+2010-11,2011-03-01,1010942,544,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,70,49,21,1407,Florida,228,228,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-03-01,1010942,545,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,72,49,23,1407,Florida,222,222,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,96
+2010-11,2011-03-01,1010942,548,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,72,49,23,NA,NA,200,200,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,549,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,72,49,23,1284,Alabama,200,200,0,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,97
+2010-11,2011-03-01,1010942,551,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,74,49,25,1407,Florida,179,179,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332667,NA,NA,0,Florida,Alabama,97
+2010-11,2011-03-01,1010942,552,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,74,49,25,1284,Alabama,159,159,20, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,512935,NA,NA,0,Alabama,Alabama,98
+2010-11,2011-03-01,1010942,553,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,74,49,25,1407,Florida,159,159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,98
+2010-11,2011-03-01,1010942,562,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1407,Florida,152,152,7, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,99
+2010-11,2011-03-01,1010942,563,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1407,Florida,152,152,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,99
+2010-11,2011-03-01,1010942,564,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1284,Alabama,152,152,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,99
+2010-11,2011-03-01,1010942,567,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1284,Alabama,151,151,1,Personal foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,100
+2010-11,2011-03-01,1010942,569,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1284,Alabama,126,126,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553767,NA,NA,0,Alabama,Alabama,100
+2010-11,2011-03-01,1010942,570,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,49,26,1407,Florida,126,126,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,100
+2010-11,2011-03-01,1010942,571,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1284,Alabama,120,120,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460836,NA,NA,0,Alabama,Florida,101
+2010-11,2011-03-01,1010942,573,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1407,Florida,89,89,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332667,NA,NA,0,Florida,Florida,102
+2010-11,2011-03-01,1010942,574,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1407,Florida,89,89,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,102
+2010-11,2011-03-01,1010942,583,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1284,Alabama,83,83,6,Shooting foul committed by Crimson Tide.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,102
+2010-11,2011-03-01,1010942,584,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1407,Florida,83,83,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,102
+2010-11,2011-03-01,1010942,586,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1407,Florida,83,83,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,102
+2010-11,2011-03-01,1010942,587,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1284,Alabama,83,83,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,102
+2010-11,2011-03-01,1010942,589,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1284,Alabama,80,80,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460833,NA,NA,0,Alabama,Alabama,103
+2010-11,2011-03-01,1010942,590,0,2,Florida,Alabama,Gators,Crimson Tide,3,2,75,51,24,1407,Florida,80,80,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,103
+2010-11,2011-03-01,1010942,598,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,75,51,24,1407,Florida,67,67,13,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,599,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,75,51,24,1407,Florida,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,600,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,75,51,24,1407,Florida,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,601,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,75,51,24,1407,Florida,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,602,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,75,51,24,1407,Florida,67,67,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-01,1010942,604,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,77,51,26,1407,Florida,45,45,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460865,NA,NA,0,Florida,Alabama,104
+2010-11,2011-03-01,1010942,607,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,77,51,26,1407,Florida,25,25,20,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Alabama,105
+2010-11,2011-03-01,1010942,620,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,78,51,27,1407,Florida,0,0,25, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Alabama,105
+2010-11,2011-03-01,1010942,621,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,78,51,27,1284,Alabama,0,0,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,22.25,553764,NA,NA,0,Alabama,Alabama,106
+2010-11,2011-03-01,1010942,622,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,78,51,27,1407,Florida,0,0,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Alabama,Florida,106
+2010-11,2011-03-01,1010942,623,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,78,51,27,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-01,1010942,624,0,2,Florida,Alabama,Gators,Crimson Tide,2,2,78,51,27,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,NA

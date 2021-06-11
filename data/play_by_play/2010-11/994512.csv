@@ -1,0 +1,224 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-31,994512,1,0,1,UCLA,Washington,Bruins,Huskies,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,NA
+2010-11,2010-12-31,994512,6,0,1,UCLA,Washington,Bruins,Huskies,4,4,0,0,0,1668,UCLA,2381,1181,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,1
+2010-11,2010-12-31,994512,7,0,1,UCLA,Washington,Bruins,Huskies,4,4,2,0,2,1668,UCLA,2377,1177,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Washington,1
+2010-11,2010-12-31,994512,8,0,1,UCLA,Washington,Bruins,Huskies,4,4,2,2,0,1685,Washington,2363,1163,14, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,37.8,14.75,457605,NA,NA,0,Washington,UCLA,2
+2010-11,2010-12-31,994512,9,0,1,UCLA,Washington,Bruins,Huskies,4,4,4,2,2,1668,UCLA,2337,1137,26, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.8,9.849999999999994,457569,NA,NA,0,UCLA,Washington,3
+2010-11,2010-12-31,994512,12,0,1,UCLA,Washington,Bruins,Huskies,4,4,4,2,2,1668,UCLA,2317,1117,20,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,4
+2010-11,2010-12-31,994512,15,0,1,UCLA,Washington,Bruins,Huskies,4,4,4,2,2,1685,Washington,2312,1112,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,11.65,509348,NA,NA,0,Washington,UCLA,4
+2010-11,2010-12-31,994512,16,0,1,UCLA,Washington,Bruins,Huskies,4,4,4,2,2,1668,UCLA,2304,1104,8, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,6.950000000000003,551819,NA,NA,0,UCLA,Washington,5
+2010-11,2010-12-31,994512,17,0,1,UCLA,Washington,Bruins,Huskies,4,4,4,4,0,1685,Washington,2290,1090,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395362,NA,NA,0,Washington,UCLA,6
+2010-11,2010-12-31,994512,18,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,4,2,1668,UCLA,2269,1069,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Washington,7
+2010-11,2010-12-31,994512,23,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,4,2,1668,UCLA,2262,1062,7,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,8
+2010-11,2010-12-31,994512,24,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,5,1,1685,Washington,2262,1062,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,8
+2010-11,2010-12-31,994512,25,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,5,1,1685,Washington,2262,1062,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,8
+2010-11,2010-12-31,994512,28,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,5,1,1668,UCLA,2242,1042,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,23.650000000000006,457569,NA,NA,0,UCLA,UCLA,9
+2010-11,2010-12-31,994512,29,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,5,1,1668,UCLA,2224,1024,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.200000000000003,20.75,551819,NA,NA,0,UCLA,Washington,9
+2010-11,2010-12-31,994512,30,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,7,-1,1685,Washington,2216,1016,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395362,NA,NA,0,Washington,UCLA,10
+2010-11,2010-12-31,994512,31,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,9,-3,1685,Washington,2193,993,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395365,NA,NA,0,Washington,UCLA,11
+2010-11,2010-12-31,994512,33,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,9,-3,1685,Washington,2160,960,33,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,12
+2010-11,2010-12-31,994512,34,0,1,UCLA,Washington,Bruins,Huskies,4,4,6,9,-3,1668,UCLA,2160,960,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,12
+2010-11,2010-12-31,994512,35,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,1668,UCLA,2160,960,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,12
+2010-11,2010-12-31,994512,41,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,1685,Washington,2135,935,25, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,32,7.55,395362,NA,NA,0,Washington,UCLA,13
+2010-11,2010-12-31,994512,43,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,1685,Washington,2134,934,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,14
+2010-11,2010-12-31,994512,44,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,NA,NA,2134,934,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,52,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,1668,UCLA,2111,911,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,9.549999999999997,551818,NA,NA,0,UCLA,UCLA,14
+2010-11,2010-12-31,994512,55,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,9,-2,1668,UCLA,2109,909,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,Washington,14
+2010-11,2010-12-31,994512,61,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,12,-5,1685,Washington,2094,894,15, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,32.5,29.25,457605,NA,NA,0,Washington,UCLA,15
+2010-11,2010-12-31,994512,62,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,12,-5,1668,UCLA,2059,859,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,7.150000000000006,513490,NA,NA,0,UCLA,Washington,16
+2010-11,2010-12-31,994512,64,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,12,-5,1685,Washington,2048,848,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,22.85,395363,NA,NA,0,Washington,UCLA,17
+2010-11,2010-12-31,994512,74,0,1,UCLA,Washington,Bruins,Huskies,4,4,7,12,-5,1685,Washington,2033,833,15,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2010-11,2010-12-31,994512,75,0,1,UCLA,Washington,Bruins,Huskies,4,4,8,12,-4,1668,UCLA,2033,833,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2010-11,2010-12-31,994512,76,0,1,UCLA,Washington,Bruins,Huskies,4,4,9,12,-3,1668,UCLA,2033,833,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,18
+2010-11,2010-12-31,994512,78,0,1,UCLA,Washington,Bruins,Huskies,4,4,9,14,-5,1685,Washington,2022,822,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395366,NA,NA,0,Washington,UCLA,19
+2010-11,2010-12-31,994512,80,0,1,UCLA,Washington,Bruins,Huskies,4,4,9,14,-5,1685,Washington,2000,800,22,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,20
+2010-11,2010-12-31,994512,81,0,1,UCLA,Washington,Bruins,Huskies,4,4,10,14,-4,1668,UCLA,2000,800,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,20
+2010-11,2010-12-31,994512,82,0,1,UCLA,Washington,Bruins,Huskies,4,4,11,14,-3,1668,UCLA,2000,800,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,20
+2010-11,2010-12-31,994512,86,0,1,UCLA,Washington,Bruins,Huskies,4,4,11,16,-5,1685,Washington,1985,785,15, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,32.7,8.95,550049,NA,NA,0,Washington,UCLA,21
+2010-11,2010-12-31,994512,95,0,1,UCLA,Washington,Bruins,Huskies,4,4,11,18,-7,1685,Washington,1953,753,32, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,22.7,22.05,550049,NA,NA,0,Washington,UCLA,22
+2010-11,2010-12-31,994512,96,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1668,UCLA,1929,729,24, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.8,8.349999999999994,457569,NA,NA,0,UCLA,Washington,23
+2010-11,2010-12-31,994512,97,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1685,Washington,1919,719,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.7,26.35,550049,NA,NA,0,Washington,Washington,24
+2010-11,2010-12-31,994512,100,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1668,UCLA,1912,712,7,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,24
+2010-11,2010-12-31,994512,101,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,NA,NA,1912,712,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,107,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1685,Washington,1906,706,6,Offensive foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,24
+2010-11,2010-12-31,994512,110,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1685,Washington,1890,690,16,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2010-11,2010-12-31,994512,111,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1668,UCLA,1890,690,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2010-11,2010-12-31,994512,112,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1668,UCLA,1890,690,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,25
+2010-11,2010-12-31,994512,118,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1685,Washington,1854,654,36, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,24.55,395365,NA,NA,0,Washington,UCLA,26
+2010-11,2010-12-31,994512,122,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,18,-5,1668,UCLA,1844,644,10,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,27
+2010-11,2010-12-31,994512,126,0,1,UCLA,Washington,Bruins,Huskies,4,4,13,20,-7,1685,Washington,1822,622,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395366,NA,NA,0,Washington,UCLA,28
+2010-11,2010-12-31,994512,129,0,1,UCLA,Washington,Bruins,Huskies,3,4,13,20,-7,1668,UCLA,1820,620,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,133,0,1,UCLA,Washington,Bruins,Huskies,3,4,15,20,-5,1668,UCLA,1807,607,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,UCLA,29
+2010-11,2010-12-31,994512,134,0,1,UCLA,Washington,Bruins,Huskies,3,4,15,20,-5,1685,Washington,1807,607,0,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,29
+2010-11,2010-12-31,994512,135,0,1,UCLA,Washington,Bruins,Huskies,3,4,16,20,-4,1668,UCLA,1807,607,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,29
+2010-11,2010-12-31,994512,138,0,1,UCLA,Washington,Bruins,Huskies,3,4,16,20,-4,1685,Washington,1793,593,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,21.45,509348,NA,NA,0,Washington,UCLA,30
+2010-11,2010-12-31,994512,142,0,1,UCLA,Washington,Bruins,Huskies,3,4,18,20,-2,1668,UCLA,1779,579,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Washington,31
+2010-11,2010-12-31,994512,144,0,1,UCLA,Washington,Bruins,Huskies,3,4,18,20,-2,1668,UCLA,1772,572,7,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,32
+2010-11,2010-12-31,994512,146,0,1,UCLA,Washington,Bruins,Huskies,3,4,18,23,-5,1685,Washington,1765,565,7, makes a 3-point jump shot from 20 feet out.,made,FALSE,TRUE,Jump Shot,45.2,8.35,395365,NA,NA,0,Washington,UCLA,32
+2010-11,2010-12-31,994512,150,0,1,UCLA,Washington,Bruins,Huskies,3,4,18,23,-5,1685,Washington,1763,563,2,Technical foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2010-11,2010-12-31,994512,151,0,1,UCLA,Washington,Bruins,Huskies,3,4,19,23,-4,1668,UCLA,1763,563,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2010-11,2010-12-31,994512,152,0,1,UCLA,Washington,Bruins,Huskies,3,4,19,23,-4,1668,UCLA,1763,563,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2010-11,2010-12-31,994512,158,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1668,UCLA,1746,546,17, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,7.150000000000006,457569,NA,NA,0,UCLA,Washington,33
+2010-11,2010-12-31,994512,162,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1668,UCLA,1717,517,29,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,34
+2010-11,2010-12-31,994512,164,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1709,509,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,22.05,457605,NA,NA,0,Washington,Washington,34
+2010-11,2010-12-31,994512,165,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1697,497,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395366,NA,NA,0,Washington,UCLA,34
+2010-11,2010-12-31,994512,166,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1668,UCLA,1686,486,11, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.299999999999997,12.450000000000003,551818,NA,NA,0,UCLA,Washington,35
+2010-11,2010-12-31,994512,167,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1678,478,8, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,11.05,457605,NA,NA,0,Washington,Washington,36
+2010-11,2010-12-31,994512,170,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,NA,NA,1658,458,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,172,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1639,439,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,11.45,395362,NA,NA,0,Washington,UCLA,36
+2010-11,2010-12-31,994512,173,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1668,UCLA,1608,408,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551819,NA,NA,0,UCLA,Washington,37
+2010-11,2010-12-31,994512,174,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1599,399,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,7.75,457606,NA,NA,0,Washington,Washington,38
+2010-11,2010-12-31,994512,181,0,1,UCLA,Washington,Bruins,Huskies,3,4,22,23,-1,1685,Washington,1587,387,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,7.55,395366,NA,NA,0,Washington,UCLA,38
+2010-11,2010-12-31,994512,182,0,1,UCLA,Washington,Bruins,Huskies,3,4,24,23,1,1668,UCLA,1578,378,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Washington,39
+2010-11,2010-12-31,994512,183,0,1,UCLA,Washington,Bruins,Huskies,3,4,24,25,-1,1685,Washington,1567,367,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457605,NA,NA,0,Washington,UCLA,40
+2010-11,2010-12-31,994512,187,0,1,UCLA,Washington,Bruins,Huskies,2,4,24,25,-1,1668,UCLA,1566,366,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,189,0,1,UCLA,Washington,Bruins,Huskies,2,4,24,25,-1,1668,UCLA,1553,353,13, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.849999999999994,551822,NA,NA,0,UCLA,Washington,41
+2010-11,2010-12-31,994512,193,0,1,UCLA,Washington,Bruins,Huskies,2,4,24,25,-1,1685,Washington,1539,339,14, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,16.85,550049,NA,NA,0,Washington,UCLA,42
+2010-11,2010-12-31,994512,195,0,1,UCLA,Washington,Bruins,Huskies,2,4,24,25,-1,1685,Washington,1538,338,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2010-11,2010-12-31,994512,196,0,1,UCLA,Washington,Bruins,Huskies,2,4,25,25,0,1668,UCLA,1538,338,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,43
+2010-11,2010-12-31,994512,197,0,1,UCLA,Washington,Bruins,Huskies,2,4,25,25,0,1668,UCLA,1538,338,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,43
+2010-11,2010-12-31,994512,201,0,1,UCLA,Washington,Bruins,Huskies,2,4,25,25,0,1668,UCLA,1530,330,8,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,44
+2010-11,2010-12-31,994512,202,0,1,UCLA,Washington,Bruins,Huskies,2,4,25,25,0,1685,Washington,1530,330,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,44
+2010-11,2010-12-31,994512,204,0,1,UCLA,Washington,Bruins,Huskies,2,4,25,27,-2,1685,Washington,1529,329,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,550048,NA,NA,0,Washington,UCLA,44
+2010-11,2010-12-31,994512,207,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,27,-2,1668,UCLA,1516,316,13,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,214,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,27,-2,1668,UCLA,1494,294,22, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30.7,6.25,513482,NA,NA,0,UCLA,UCLA,45
+2010-11,2010-12-31,994512,217,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,27,-2,1668,UCLA,1492,292,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,Washington,45
+2010-11,2010-12-31,994512,220,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,1685,Washington,1467,267,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,550048,NA,NA,0,Washington,UCLA,46
+2010-11,2010-12-31,994512,221,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,1668,UCLA,1443,243,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,9.150000000000006,513492,NA,NA,0,UCLA,UCLA,47
+2010-11,2010-12-31,994512,223,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,NA,NA,1428,228,15,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,225,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,1668,UCLA,1394,194,34, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,22.849999999999994,457569,NA,NA,0,UCLA,UCLA,47
+2010-11,2010-12-31,994512,231,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,1685,Washington,1392,192,2,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2010-11,2010-12-31,994512,232,0,1,UCLA,Washington,Bruins,Huskies,1,4,25,29,-4,1668,UCLA,1392,192,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2010-11,2010-12-31,994512,233,0,1,UCLA,Washington,Bruins,Huskies,1,4,26,29,-3,1668,UCLA,1392,192,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,47
+2010-11,2010-12-31,994512,238,0,1,UCLA,Washington,Bruins,Huskies,1,4,26,31,-5,1685,Washington,1375,175,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509350,NA,NA,0,Washington,UCLA,48
+2010-11,2010-12-31,994512,240,0,1,UCLA,Washington,Bruins,Huskies,1,4,28,31,-3,1668,UCLA,1344,144,31, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,9.5,14.150000000000006,513492,NA,NA,0,UCLA,Washington,49
+2010-11,2010-12-31,994512,243,0,1,UCLA,Washington,Bruins,Huskies,1,4,28,31,-3,1685,Washington,1328,128,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8,21.85,509350,NA,NA,0,Washington,UCLA,50
+2010-11,2010-12-31,994512,245,0,1,UCLA,Washington,Bruins,Huskies,1,4,28,31,-3,1685,Washington,1327,127,1,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2010-11,2010-12-31,994512,246,0,1,UCLA,Washington,Bruins,Huskies,1,4,28,31,-3,1668,UCLA,1327,127,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2010-11,2010-12-31,994512,247,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,31,-2,1668,UCLA,1327,127,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,51
+2010-11,2010-12-31,994512,249,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,33,-4,1685,Washington,1305,105,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457605,NA,NA,0,Washington,UCLA,52
+2010-11,2010-12-31,994512,250,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,33,-4,1668,UCLA,1287,87,18, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,30,23.25,513492,NA,NA,0,UCLA,Washington,53
+2010-11,2010-12-31,994512,251,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,33,-4,1685,Washington,1278,78,9, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,28.65,457605,NA,NA,0,Washington,Washington,54
+2010-11,2010-12-31,994512,252,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,36,-7,1685,Washington,1265,65,13, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,7.699999999999999,24.35,550049,NA,NA,0,Washington,UCLA,54
+2010-11,2010-12-31,994512,256,0,1,UCLA,Washington,Bruins,Huskies,1,4,29,36,-7,1685,Washington,1246,46,19,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2010-11,2010-12-31,994512,257,0,1,UCLA,Washington,Bruins,Huskies,1,4,30,36,-6,1668,UCLA,1246,46,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2010-11,2010-12-31,994512,258,0,1,UCLA,Washington,Bruins,Huskies,1,4,31,36,-5,1668,UCLA,1246,46,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,55
+2010-11,2010-12-31,994512,260,0,1,UCLA,Washington,Bruins,Huskies,1,4,31,36,-5,1685,Washington,1235,35,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457605,NA,NA,0,Washington,Washington,56
+2010-11,2010-12-31,994512,261,0,1,UCLA,Washington,Bruins,Huskies,1,4,31,38,-7,1685,Washington,1231,31,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.5,7.15,395363,NA,NA,0,Washington,UCLA,56
+2010-11,2010-12-31,994512,262,0,1,UCLA,Washington,Bruins,Huskies,1,4,31,38,-7,1668,UCLA,1203,3,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,57
+2010-11,2010-12-31,994512,263,0,1,UCLA,Washington,Bruins,Huskies,1,4,31,38,-7,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,264,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,38,-7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,57
+2010-11,2010-12-31,994512,269,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,38,-7,1668,UCLA,1172,1172,28, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,7.150000000000006,513492,NA,NA,0,UCLA,Washington,58
+2010-11,2010-12-31,994512,274,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,38,-7,1668,UCLA,1157,1157,15,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,59
+2010-11,2010-12-31,994512,280,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,38,-7,1668,UCLA,1111,1111,46, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,59
+2010-11,2010-12-31,994512,285,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,38,-7,1668,UCLA,1101,1101,10, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,10.25,513492,NA,NA,0,UCLA,Washington,59
+2010-11,2010-12-31,994512,288,0,2,UCLA,Washington,Bruins,Huskies,4,4,31,40,-9,1685,Washington,1091,1091,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395365,NA,NA,0,Washington,UCLA,60
+2010-11,2010-12-31,994512,289,0,2,UCLA,Washington,Bruins,Huskies,4,4,33,40,-7,1668,UCLA,1075,1075,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Washington,61
+2010-11,2010-12-31,994512,290,0,2,UCLA,Washington,Bruins,Huskies,4,4,33,40,-7,1685,Washington,1064,1064,11, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,11.65,509348,NA,NA,0,Washington,UCLA,62
+2010-11,2010-12-31,994512,291,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,40,-5,1668,UCLA,1041,1041,23, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513492,NA,NA,0,UCLA,Washington,63
+2010-11,2010-12-31,994512,292,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,42,-7,1685,Washington,1033,1033,8, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,31.2,5.05,395362,NA,NA,0,Washington,UCLA,64
+2010-11,2010-12-31,994512,295,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,42,-7,1668,UCLA,1023,1023,10,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,65
+2010-11,2010-12-31,994512,303,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,44,-9,1685,Washington,999,999,24, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25.2,11.65,395365,NA,NA,0,Washington,UCLA,66
+2010-11,2010-12-31,994512,304,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,44,-9,1668,UCLA,982,982,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,Washington,67
+2010-11,2010-12-31,994512,305,0,2,UCLA,Washington,Bruins,Huskies,4,4,35,46,-11,1685,Washington,978,978,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395362,NA,NA,0,Washington,UCLA,68
+2010-11,2010-12-31,994512,309,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,46,-11,1668,UCLA,977,977,1,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,314,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,46,-11,1668,UCLA,941,941,36, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,32.35,457569,NA,NA,0,UCLA,Washington,69
+2010-11,2010-12-31,994512,315,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,46,-11,NA,NA,941,941,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,321,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,46,-11,1685,Washington,923,923,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,9.55,395365,NA,NA,0,Washington,UCLA,70
+2010-11,2010-12-31,994512,322,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,46,-11,1668,UCLA,916,916,7, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,32,7.150000000000006,551818,NA,NA,0,UCLA,Washington,71
+2010-11,2010-12-31,994512,323,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,48,-13,1685,Washington,904,904,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509348,NA,NA,0,Washington,UCLA,72
+2010-11,2010-12-31,994512,324,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,48,-13,1668,UCLA,893,893,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551818,NA,NA,0,UCLA,Washington,73
+2010-11,2010-12-31,994512,329,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,48,-13,1685,Washington,884,884,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.2,5.25,395363,NA,NA,0,Washington,Washington,74
+2010-11,2010-12-31,994512,331,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,48,-13,1685,Washington,883,883,1, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,26.8,7.55,395362,NA,NA,0,Washington,Washington,74
+2010-11,2010-12-31,994512,333,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,48,-13,1668,UCLA,882,882,1,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,74
+2010-11,2010-12-31,994512,334,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,49,-14,1685,Washington,882,882,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,74
+2010-11,2010-12-31,994512,335,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,50,-15,1685,Washington,882,882,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,74
+2010-11,2010-12-31,994512,337,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,50,-15,1668,UCLA,863,863,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.700000000000003,8.75,513490,NA,NA,0,UCLA,Washington,75
+2010-11,2010-12-31,994512,338,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,50,-15,1685,Washington,850,850,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,10.05,395362,NA,NA,0,Washington,Washington,76
+2010-11,2010-12-31,994512,339,0,2,UCLA,Washington,Bruins,Huskies,3,4,35,52,-17,1685,Washington,846,846,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,550048,NA,NA,0,Washington,UCLA,76
+2010-11,2010-12-31,994512,349,0,2,UCLA,Washington,Bruins,Huskies,2,4,35,52,-17,1668,UCLA,846,846,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,356,0,2,UCLA,Washington,Bruins,Huskies,2,4,38,52,-14,1668,UCLA,829,829,17, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.8,11.849999999999994,513492,NA,NA,0,UCLA,Washington,77
+2010-11,2010-12-31,994512,357,0,2,UCLA,Washington,Bruins,Huskies,2,4,38,54,-16,1685,Washington,810,810,19, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20,9.15,395362,NA,NA,0,Washington,UCLA,78
+2010-11,2010-12-31,994512,360,0,2,UCLA,Washington,Bruins,Huskies,2,4,38,54,-16,1685,Washington,803,803,7,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,79
+2010-11,2010-12-31,994512,361,0,2,UCLA,Washington,Bruins,Huskies,2,4,39,54,-15,1668,UCLA,803,803,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,79
+2010-11,2010-12-31,994512,362,0,2,UCLA,Washington,Bruins,Huskies,2,4,40,54,-14,1668,UCLA,803,803,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,79
+2010-11,2010-12-31,994512,365,0,2,UCLA,Washington,Bruins,Huskies,2,4,40,54,-14,1668,UCLA,786,786,17,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,80
+2010-11,2010-12-31,994512,369,0,2,UCLA,Washington,Bruins,Huskies,2,4,40,54,-14,1668,UCLA,778,778,8,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,80
+2010-11,2010-12-31,994512,372,0,2,UCLA,Washington,Bruins,Huskies,2,4,40,54,-14,1685,Washington,772,772,6, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,9.65,395362,NA,NA,0,Washington,UCLA,80
+2010-11,2010-12-31,994512,373,0,2,UCLA,Washington,Bruins,Huskies,2,4,42,54,-12,1668,UCLA,768,768,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513492,NA,NA,0,UCLA,Washington,81
+2010-11,2010-12-31,994512,376,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,1685,Washington,760,760,8,Huskies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,384,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,1668,UCLA,747,747,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,18.25,513492,NA,NA,0,UCLA,Washington,82
+2010-11,2010-12-31,994512,389,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,1685,Washington,735,735,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,8.35,550049,NA,NA,0,Washington,UCLA,83
+2010-11,2010-12-31,994512,394,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,1685,Washington,717,717,18,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2010-11,2010-12-31,994512,395,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,NA,NA,717,717,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,396,0,2,UCLA,Washington,Bruins,Huskies,2,3,42,54,-12,1668,UCLA,717,717,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2010-11,2010-12-31,994512,397,0,2,UCLA,Washington,Bruins,Huskies,2,3,43,54,-11,1668,UCLA,717,717,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,84
+2010-11,2010-12-31,994512,400,0,2,UCLA,Washington,Bruins,Huskies,2,3,43,54,-11,1685,Washington,703,703,14,Personal foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,85
+2010-11,2010-12-31,994512,406,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,54,-9,1668,UCLA,681,681,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Washington,85
+2010-11,2010-12-31,994512,408,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,54,-9,1668,UCLA,662,662,19,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,86
+2010-11,2010-12-31,994512,409,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,54,-9,1685,Washington,662,662,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,86
+2010-11,2010-12-31,994512,410,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,55,-10,1685,Washington,662,662,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,86
+2010-11,2010-12-31,994512,416,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,55,-10,1668,UCLA,648,648,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,87
+2010-11,2010-12-31,994512,419,0,2,UCLA,Washington,Bruins,Huskies,2,3,45,55,-10,1685,Washington,646,646,2,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,87
+2010-11,2010-12-31,994512,420,0,2,UCLA,Washington,Bruins,Huskies,2,3,46,55,-9,1668,UCLA,646,646,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,87
+2010-11,2010-12-31,994512,421,0,2,UCLA,Washington,Bruins,Huskies,2,3,47,55,-8,1668,UCLA,646,646,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,87
+2010-11,2010-12-31,994512,424,0,2,UCLA,Washington,Bruins,Huskies,2,3,47,55,-8,1685,Washington,632,632,14, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,8.35,395366,NA,NA,0,Washington,UCLA,88
+2010-11,2010-12-31,994512,427,0,2,UCLA,Washington,Bruins,Huskies,2,3,47,55,-8,1685,Washington,628,628,4,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2010-11,2010-12-31,994512,428,0,2,UCLA,Washington,Bruins,Huskies,2,3,48,55,-7,1668,UCLA,628,628,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,89
+2010-11,2010-12-31,994512,429,0,2,UCLA,Washington,Bruins,Huskies,2,3,49,55,-6,1668,UCLA,628,628,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,89
+2010-11,2010-12-31,994512,433,0,2,UCLA,Washington,Bruins,Huskies,2,3,49,55,-6,1685,Washington,610,610,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,7.95,395362,NA,NA,0,Washington,UCLA,90
+2010-11,2010-12-31,994512,434,0,2,UCLA,Washington,Bruins,Huskies,2,3,49,55,-6,1668,UCLA,582,582,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.799999999999997,8.349999999999994,457569,NA,NA,0,UCLA,UCLA,91
+2010-11,2010-12-31,994512,442,0,2,UCLA,Washington,Bruins,Huskies,2,3,49,55,-6,1668,UCLA,579,579,3, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15.299999999999997,28.450000000000003,457571,NA,NA,0,UCLA,UCLA,91
+2010-11,2010-12-31,994512,446,0,2,UCLA,Washington,Bruins,Huskies,2,3,49,55,-6,1685,Washington,576,576,3,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,91
+2010-11,2010-12-31,994512,447,0,2,UCLA,Washington,Bruins,Huskies,2,3,50,55,-5,1668,UCLA,576,576,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,91
+2010-11,2010-12-31,994512,448,0,2,UCLA,Washington,Bruins,Huskies,2,3,51,55,-4,1668,UCLA,576,576,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,91
+2010-11,2010-12-31,994512,450,0,2,UCLA,Washington,Bruins,Huskies,2,3,51,57,-6,1685,Washington,556,556,20, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,30.2,6.95,395362,NA,NA,0,Washington,UCLA,92
+2010-11,2010-12-31,994512,451,0,2,UCLA,Washington,Bruins,Huskies,2,3,51,57,-6,1668,UCLA,528,528,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,8.75,457569,NA,NA,0,UCLA,Washington,93
+2010-11,2010-12-31,994512,457,0,2,UCLA,Washington,Bruins,Huskies,2,2,51,57,-6,1685,Washington,522,522,6,Huskies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,474,0,2,UCLA,Washington,Bruins,Huskies,2,2,51,57,-6,1685,Washington,480,480,42, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17,9.15,395362,NA,NA,0,Washington,UCLA,94
+2010-11,2010-12-31,994512,476,0,2,UCLA,Washington,Bruins,Huskies,2,2,51,57,-6,1685,Washington,470,470,10,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2010-12-31,994512,477,0,2,UCLA,Washington,Bruins,Huskies,2,2,51,57,-6,NA,NA,470,470,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,478,0,2,UCLA,Washington,Bruins,Huskies,2,2,51,57,-6,1668,UCLA,470,470,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2010-12-31,994512,480,0,2,UCLA,Washington,Bruins,Huskies,2,2,52,57,-5,1668,UCLA,470,470,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,95
+2010-11,2010-12-31,994512,489,0,2,UCLA,Washington,Bruins,Huskies,2,2,52,57,-5,1668,UCLA,455,455,15,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,96
+2010-11,2010-12-31,994512,491,0,2,UCLA,Washington,Bruins,Huskies,2,2,52,58,-6,1685,Washington,455,455,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,96
+2010-11,2010-12-31,994512,492,0,2,UCLA,Washington,Bruins,Huskies,2,2,52,59,-7,1685,Washington,455,455,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,97
+2010-11,2010-12-31,994512,499,0,2,UCLA,Washington,Bruins,Huskies,2,2,54,59,-5,1668,UCLA,425,425,30, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,28.3,7.75,513482,NA,NA,0,UCLA,Washington,98
+2010-11,2010-12-31,994512,500,0,2,UCLA,Washington,Bruins,Huskies,2,2,54,59,-5,1685,Washington,411,411,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,19.15,395365,NA,NA,0,Washington,Washington,99
+2010-11,2010-12-31,994512,503,0,2,UCLA,Washington,Bruins,Huskies,2,2,54,59,-5,1685,Washington,385,385,26, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,22.65,395365,NA,NA,0,Washington,UCLA,99
+2010-11,2010-12-31,994512,505,0,2,UCLA,Washington,Bruins,Huskies,2,2,54,59,-5,1685,Washington,378,378,7,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2010-11,2010-12-31,994512,506,0,2,UCLA,Washington,Bruins,Huskies,2,2,54,59,-5,1668,UCLA,378,378,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2010-11,2010-12-31,994512,507,0,2,UCLA,Washington,Bruins,Huskies,2,2,55,59,-4,1668,UCLA,378,378,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,100
+2010-11,2010-12-31,994512,510,0,2,UCLA,Washington,Bruins,Huskies,2,2,55,59,-4,1668,UCLA,356,356,22,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,101
+2010-11,2010-12-31,994512,511,0,2,UCLA,Washington,Bruins,Huskies,2,2,55,60,-5,1685,Washington,356,356,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,101
+2010-11,2010-12-31,994512,512,0,2,UCLA,Washington,Bruins,Huskies,2,2,55,61,-6,1685,Washington,356,356,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,101
+2010-11,2010-12-31,994512,514,0,2,UCLA,Washington,Bruins,Huskies,2,2,55,63,-8,1685,Washington,345,345,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457605,NA,NA,0,Washington,UCLA,102
+2010-11,2010-12-31,994512,517,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1668,UCLA,324,324,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-12-31,994512,518,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1685,Washington,324,324,0,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-12-31,994512,519,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1668,UCLA,324,324,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,103
+2010-11,2010-12-31,994512,523,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1668,UCLA,318,318,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.7,8.150000000000006,513492,NA,NA,0,UCLA,Washington,103
+2010-11,2010-12-31,994512,526,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1685,Washington,305,305,13,Offensive foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,104
+2010-11,2010-12-31,994512,531,0,2,UCLA,Washington,Bruins,Huskies,2,2,57,63,-6,1668,UCLA,275,275,30, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.799999999999997,10.049999999999997,513492,NA,NA,0,UCLA,UCLA,105
+2010-11,2010-12-31,994512,532,0,2,UCLA,Washington,Bruins,Huskies,2,2,59,63,-4,1668,UCLA,272,272,3, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.3,9.349999999999994,551822,NA,NA,0,UCLA,Washington,105
+2010-11,2010-12-31,994512,533,0,2,UCLA,Washington,Bruins,Huskies,2,2,59,65,-6,1685,Washington,257,257,15, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,30.3,9.15,395362,NA,NA,0,Washington,UCLA,106
+2010-11,2010-12-31,994512,534,0,2,UCLA,Washington,Bruins,Huskies,2,2,59,65,-6,1668,UCLA,226,226,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,107
+2010-11,2010-12-31,994512,535,0,2,UCLA,Washington,Bruins,Huskies,2,2,59,65,-6,1668,UCLA,213,213,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,19.150000000000006,513492,NA,NA,0,UCLA,Washington,107
+2010-11,2010-12-31,994512,542,0,2,UCLA,Washington,Bruins,Huskies,2,2,59,68,-9,1685,Washington,200,200,13, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4,10.65,395363,NA,NA,0,Washington,UCLA,108
+2010-11,2010-12-31,994512,543,0,2,UCLA,Washington,Bruins,Huskies,1,2,59,68,-9,1668,UCLA,200,200,0,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,545,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,68,-7,1668,UCLA,186,186,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551822,NA,NA,0,UCLA,Washington,109
+2010-11,2010-12-31,994512,547,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,68,-7,1668,UCLA,154,154,32,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,110
+2010-11,2010-12-31,994512,548,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,68,-7,NA,NA,154,154,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,549,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,69,-8,1685,Washington,154,154,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,110
+2010-11,2010-12-31,994512,550,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,70,-9,1685,Washington,154,154,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,111
+2010-11,2010-12-31,994512,552,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,70,-9,1668,UCLA,131,131,23, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,457569,NA,NA,0,UCLA,Washington,112
+2010-11,2010-12-31,994512,554,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,70,-9,1668,UCLA,97,97,34,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,113
+2010-11,2010-12-31,994512,555,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,71,-10,1685,Washington,97,97,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,113
+2010-11,2010-12-31,994512,556,0,2,UCLA,Washington,Bruins,Huskies,1,2,61,72,-11,1685,Washington,97,97,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,UCLA,113
+2010-11,2010-12-31,994512,557,0,2,UCLA,Washington,Bruins,Huskies,1,1,61,72,-11,1685,Washington,97,97,0,Huskies take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,570,0,2,UCLA,Washington,Bruins,Huskies,1,1,61,72,-11,1668,UCLA,83,83,14, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,19.150000000000006,457571,NA,NA,0,UCLA,Washington,114
+2010-11,2010-12-31,994512,575,0,2,UCLA,Washington,Bruins,Huskies,1,1,61,74,-13,1685,Washington,56,56,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395362,NA,NA,0,Washington,UCLA,115
+2010-11,2010-12-31,994512,582,0,2,UCLA,Washington,Bruins,Huskies,1,1,61,74,-13,1685,Washington,51,51,5,Shooting foul committed by Huskies.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2010-11,2010-12-31,994512,583,0,2,UCLA,Washington,Bruins,Huskies,1,1,62,74,-12,1668,UCLA,51,51,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2010-11,2010-12-31,994512,584,0,2,UCLA,Washington,Bruins,Huskies,1,1,63,74,-11,1668,UCLA,51,51,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Washington,116
+2010-11,2010-12-31,994512,586,0,2,UCLA,Washington,Bruins,Huskies,1,1,63,74,-11,NA,NA,0,0,51,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-31,994512,587,0,2,UCLA,Washington,Bruins,Huskies,1,1,63,74,-11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Washington,Washington,NA

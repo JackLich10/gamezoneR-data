@@ -1,0 +1,213 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-19,1012445,1,0,1,Stanford,USC,Cardinal,Trojans,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,NA
+2010-11,2011-02-19,1012445,18,0,1,Stanford,USC,Cardinal,Trojans,4,4,2,0,2,1627,Stanford,2380,1180,20, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.8,12.75,395377,NA,NA,0,Stanford,USC,1
+2010-11,2011-02-19,1012445,36,0,1,Stanford,USC,Cardinal,Trojans,4,4,2,0,2,1627,Stanford,2359,1159,21,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,2
+2010-11,2011-02-19,1012445,37,0,1,Stanford,USC,Cardinal,Trojans,4,4,2,0,2,1669,USC,2359,1159,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,2
+2010-11,2011-02-19,1012445,38,0,1,Stanford,USC,Cardinal,Trojans,4,4,2,1,1,1669,USC,2359,1159,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,2
+2010-11,2011-02-19,1012445,40,0,1,Stanford,USC,Cardinal,Trojans,4,4,5,1,4,1627,Stanford,2343,1143,16, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,14.799999999999997,26.349999999999994,552306,NA,NA,0,Stanford,USC,3
+2010-11,2011-02-19,1012445,41,0,1,Stanford,USC,Cardinal,Trojans,4,4,5,1,4,1669,USC,2318,1118,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329673,NA,NA,0,USC,USC,4
+2010-11,2011-02-19,1012445,42,0,1,Stanford,USC,Cardinal,Trojans,4,4,5,3,2,1669,USC,2314,1114,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Stanford,4
+2010-11,2011-02-19,1012445,44,0,1,Stanford,USC,Cardinal,Trojans,4,4,5,3,2,1627,Stanford,2303,1103,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,31,21.450000000000003,457562,NA,NA,0,Stanford,Stanford,5
+2010-11,2011-02-19,1012445,46,0,1,Stanford,USC,Cardinal,Trojans,4,4,7,3,4,1627,Stanford,2282,1082,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457561,NA,NA,0,Stanford,USC,5
+2010-11,2011-02-19,1012445,49,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,3,4,1669,USC,2278,1078,4,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,56,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,5,2,1669,USC,2270,1070,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457598,NA,NA,0,USC,Stanford,6
+2010-11,2011-02-19,1012445,63,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,5,2,1627,Stanford,2260,1060,10,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,7
+2010-11,2011-02-19,1012445,65,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,8,-1,1669,USC,2242,1042,18, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,8.2,19.35,457598,NA,NA,0,USC,Stanford,8
+2010-11,2011-02-19,1012445,70,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,8,-1,1627,Stanford,2213,1013,29, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17,12.950000000000003,552306,NA,NA,0,Stanford,Stanford,9
+2010-11,2011-02-19,1012445,71,0,1,Stanford,USC,Cardinal,Trojans,4,3,7,8,-1,1627,Stanford,2210,1010,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Stanford,9
+2010-11,2011-02-19,1012445,72,0,1,Stanford,USC,Cardinal,Trojans,4,3,9,8,1,1627,Stanford,2206,1006,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,USC,9
+2010-11,2011-02-19,1012445,73,0,1,Stanford,USC,Cardinal,Trojans,4,3,9,8,1,1669,USC,2189,989,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,32.2,30.35,467422,NA,NA,0,USC,Stanford,10
+2010-11,2011-02-19,1012445,74,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,8,4,1627,Stanford,2162,962,27, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,46.5,6.450000000000003,552306,NA,NA,0,Stanford,USC,11
+2010-11,2011-02-19,1012445,75,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,11,1,1669,USC,2145,945,17, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,31.5,29.65,457597,NA,NA,0,USC,Stanford,12
+2010-11,2011-02-19,1012445,76,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,11,1,1627,Stanford,2130,930,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,6.650000000000006,395377,NA,NA,0,Stanford,USC,13
+2010-11,2011-02-19,1012445,77,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,13,-1,1669,USC,2124,924,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467422,NA,NA,0,USC,Stanford,14
+2010-11,2011-02-19,1012445,79,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,13,-1,NA,NA,2094,894,30,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,81,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,15,-3,1669,USC,2090,890,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Stanford,15
+2010-11,2011-02-19,1012445,82,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,15,-3,1627,Stanford,2071,871,19, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,552309,NA,NA,0,Stanford,USC,16
+2010-11,2011-02-19,1012445,99,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,17,-5,1669,USC,2000,800,71, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,37.5,17.05,549964,NA,NA,0,USC,Stanford,17
+2010-11,2011-02-19,1012445,101,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,17,-5,1627,Stanford,1983,783,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,10.25,552305,NA,NA,0,Stanford,Stanford,18
+2010-11,2011-02-19,1012445,113,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,17,-5,1669,USC,1951,751,32,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,18
+2010-11,2011-02-19,1012445,114.5,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,17,-5,1669,USC,1930,730,21,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,18
+2010-11,2011-02-19,1012445,116,0,1,Stanford,USC,Cardinal,Trojans,4,3,12,17,-5,1669,USC,1929,729,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395373,NA,NA,0,USC,Stanford,18
+2010-11,2011-02-19,1012445,120,0,1,Stanford,USC,Cardinal,Trojans,4,3,14,17,-3,1627,Stanford,1915,715,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552307,NA,NA,0,Stanford,USC,19
+2010-11,2011-02-19,1012445,121,0,1,Stanford,USC,Cardinal,Trojans,4,3,14,17,-3,1669,USC,1900,700,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329673,NA,NA,0,USC,Stanford,20
+2010-11,2011-02-19,1012445,122,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,17,-1,1627,Stanford,1871,671,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552307,NA,NA,0,Stanford,USC,21
+2010-11,2011-02-19,1012445,124,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,17,-1,1669,USC,1847,647,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329673,NA,NA,0,USC,USC,22
+2010-11,2011-02-19,1012445,128,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,17,-1,NA,NA,1844,644,3,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,131,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,19,-3,1669,USC,1840,640,4, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,14.7,20.75,549964,NA,NA,0,USC,Stanford,22
+2010-11,2011-02-19,1012445,140,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,19,-3,1627,Stanford,1811,611,29, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,23.25,411256,NA,NA,0,Stanford,USC,23
+2010-11,2011-02-19,1012445,141,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,22,-6,1669,USC,1792,592,19, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,13.3,25.75,457597,NA,NA,0,USC,Stanford,24
+2010-11,2011-02-19,1012445,142,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,22,-6,1627,Stanford,1775,575,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552305,NA,NA,0,Stanford,Stanford,25
+2010-11,2011-02-19,1012445,143,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,22,-6,1627,Stanford,1770,570,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552307,NA,NA,0,Stanford,USC,25
+2010-11,2011-02-19,1012445,144,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,25,-9,1669,USC,1742,542,28, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,5.65,457597,NA,NA,0,USC,Stanford,26
+2010-11,2011-02-19,1012445,148,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,25,-9,1627,Stanford,1727,527,15,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,27
+2010-11,2011-02-19,1012445,151,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,27,-11,1669,USC,1705,505,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Stanford,27
+2010-11,2011-02-19,1012445,157,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,27,-11,1627,Stanford,1702,502,3,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,28
+2010-11,2011-02-19,1012445,158,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,27,-11,1669,USC,1702,502,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,28
+2010-11,2011-02-19,1012445,161,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,27,-11,1627,Stanford,1698,498,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,163,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,27,-11,1627,Stanford,1690,490,8, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,10.450000000000003,457561,NA,NA,0,Stanford,USC,29
+2010-11,2011-02-19,1012445,169,0,1,Stanford,USC,Cardinal,Trojans,4,3,16,30,-14,1669,USC,1671,471,19, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46,9.55,549964,NA,NA,0,USC,Stanford,30
+2010-11,2011-02-19,1012445,170,0,1,Stanford,USC,Cardinal,Trojans,3,3,16,30,-14,1627,Stanford,1671,471,0,Cardinal take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,172,0,1,Stanford,USC,Cardinal,Trojans,3,3,16,30,-14,1669,USC,1643,443,28, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,15.35,457598,NA,NA,0,USC,Stanford,31
+2010-11,2011-02-19,1012445,176,0,1,Stanford,USC,Cardinal,Trojans,3,3,16,30,-14,NA,NA,1633,433,10,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,180,0,1,Stanford,USC,Cardinal,Trojans,3,3,18,30,-12,1627,Stanford,1620,420,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,USC,32
+2010-11,2011-02-19,1012445,181,0,1,Stanford,USC,Cardinal,Trojans,3,3,18,30,-12,1669,USC,1620,420,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,33
+2010-11,2011-02-19,1012445,182,0,1,Stanford,USC,Cardinal,Trojans,3,3,18,30,-12,1627,Stanford,1620,420,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,33
+2010-11,2011-02-19,1012445,184,0,1,Stanford,USC,Cardinal,Trojans,3,3,18,32,-14,1669,USC,1606,406,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Stanford,34
+2010-11,2011-02-19,1012445,185,0,1,Stanford,USC,Cardinal,Trojans,3,3,20,32,-12,1627,Stanford,1592,392,14, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,11.299999999999997,10.849999999999994,552305,NA,NA,0,Stanford,USC,35
+2010-11,2011-02-19,1012445,188,0,1,Stanford,USC,Cardinal,Trojans,3,3,20,34,-14,1669,USC,1576,376,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Stanford,36
+2010-11,2011-02-19,1012445,189,0,1,Stanford,USC,Cardinal,Trojans,3,3,20,34,-14,1627,Stanford,1576,376,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,37
+2010-11,2011-02-19,1012445,190,0,1,Stanford,USC,Cardinal,Trojans,3,3,20,35,-15,1669,USC,1576,376,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,37
+2010-11,2011-02-19,1012445,192,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,35,-13,1627,Stanford,1556,356,20, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,9.700000000000003,18.25,457561,NA,NA,0,Stanford,USC,38
+2010-11,2011-02-19,1012445,193,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,35,-13,1669,USC,1531,331,25, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,23.85,457597,NA,NA,0,USC,Stanford,39
+2010-11,2011-02-19,1012445,194,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,35,-13,1627,Stanford,1522,322,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,13.349999999999994,512693,NA,NA,0,Stanford,USC,40
+2010-11,2011-02-19,1012445,195,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1669,USC,1506,306,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,22.7,29.05,457598,NA,NA,0,USC,Stanford,41
+2010-11,2011-02-19,1012445,198,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1627,Stanford,1495,295,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,201,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1669,USC,1480,280,15, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38,12.05,457598,NA,NA,0,USC,Stanford,42
+2010-11,2011-02-19,1012445,202,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1669,USC,1480,280,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,43
+2010-11,2011-02-19,1012445,205,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1669,USC,1474,274,6,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,43
+2010-11,2011-02-19,1012445,206,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1669,USC,1474,274,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,207,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1627,Stanford,1474,274,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,209,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,38,-16,1627,Stanford,1465,265,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,31.8,29.25,457561,NA,NA,0,Stanford,USC,43
+2010-11,2011-02-19,1012445,213,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,40,-18,1669,USC,1438,238,27, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,33.7,18.25,549964,NA,NA,0,USC,Stanford,44
+2010-11,2011-02-19,1012445,214,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,40,-18,1627,Stanford,1415,215,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16.799999999999997,12.25,395377,NA,NA,0,Stanford,USC,45
+2010-11,2011-02-19,1012445,215,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,40,-18,1669,USC,1381,181,34, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.7,25.55,395373,NA,NA,0,USC,Stanford,46
+2010-11,2011-02-19,1012445,218,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,40,-18,1669,USC,1363,163,18,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,47
+2010-11,2011-02-19,1012445,219,0,1,Stanford,USC,Cardinal,Trojans,3,3,22,40,-18,NA,NA,1363,163,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,220,0,1,Stanford,USC,Cardinal,Trojans,3,3,23,40,-17,1627,Stanford,1363,163,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,47
+2010-11,2011-02-19,1012445,221,0,1,Stanford,USC,Cardinal,Trojans,3,3,24,40,-16,1627,Stanford,1363,163,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,47
+2010-11,2011-02-19,1012445,223,0,1,Stanford,USC,Cardinal,Trojans,3,3,24,40,-16,1669,USC,1340,140,23, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,16.8,17.05,549964,NA,NA,0,USC,Stanford,48
+2010-11,2011-02-19,1012445,224,0,1,Stanford,USC,Cardinal,Trojans,3,3,26,40,-14,1627,Stanford,1331,131,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,USC,49
+2010-11,2011-02-19,1012445,225,0,1,Stanford,USC,Cardinal,Trojans,3,3,26,40,-14,1669,USC,1304,104,27, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,33,22.65,457597,NA,NA,0,USC,Stanford,50
+2010-11,2011-02-19,1012445,226,0,1,Stanford,USC,Cardinal,Trojans,3,3,29,40,-11,1627,Stanford,1296,96,8, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,17.200000000000003,28.25,552304,NA,NA,0,Stanford,USC,51
+2010-11,2011-02-19,1012445,227,0,1,Stanford,USC,Cardinal,Trojans,3,3,29,40,-11,1627,Stanford,1266,66,30, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,17.25,552305,NA,NA,0,Stanford,USC,52
+2010-11,2011-02-19,1012445,229,0,1,Stanford,USC,Cardinal,Trojans,3,3,29,40,-11,1627,Stanford,1252,52,14,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,53
+2010-11,2011-02-19,1012445,231,0,1,Stanford,USC,Cardinal,Trojans,3,3,29,40,-11,1669,USC,1241,41,11, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,11.85,457598,NA,NA,0,USC,Stanford,53
+2010-11,2011-02-19,1012445,232,0,1,Stanford,USC,Cardinal,Trojans,3,3,31,40,-9,1627,Stanford,1208,8,33, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,39.3,5.450000000000003,552305,NA,NA,0,Stanford,USC,54
+2010-11,2011-02-19,1012445,233,0,1,Stanford,USC,Cardinal,Trojans,3,3,31,40,-9,1669,USC,1201,1,7, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,30.25,549964,NA,NA,0,USC,Stanford,55
+2010-11,2011-02-19,1012445,234,0,1,Stanford,USC,Cardinal,Trojans,3,3,31,40,-9,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,235,0,2,Stanford,USC,Cardinal,Trojans,4,4,31,40,-9,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,56
+2010-11,2011-02-19,1012445,248,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,40,-7,1627,Stanford,1185,1185,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,USC,57
+2010-11,2011-02-19,1012445,268.5,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,40,-7,1627,Stanford,1149,1149,36, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,24,12.25,395377,NA,NA,0,Stanford,USC,58
+2010-11,2011-02-19,1012445,271,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,42,-9,1669,USC,1129,1129,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Stanford,59
+2010-11,2011-02-19,1012445,272,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,42,-9,1627,Stanford,1120,1120,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,34.8,26.950000000000003,552306,NA,NA,0,Stanford,USC,60
+2010-11,2011-02-19,1012445,275,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,42,-9,1669,USC,1101,1101,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.3,28.85,467422,NA,NA,0,USC,USC,61
+2010-11,2011-02-19,1012445,278,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,42,-9,1627,Stanford,1087,1087,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,280,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,44,-11,1669,USC,1073,1073,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395373,NA,NA,0,USC,Stanford,61
+2010-11,2011-02-19,1012445,281,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,44,-11,1627,Stanford,1055,1055,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32,28.25,552305,NA,NA,0,Stanford,USC,62
+2010-11,2011-02-19,1012445,282,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,47,-14,1669,USC,1022,1022,33, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,16.2,26.75,457598,NA,NA,0,USC,Stanford,63
+2010-11,2011-02-19,1012445,283,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,47,-14,1627,Stanford,1004,1004,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,36,8.549999999999997,552309,NA,NA,0,Stanford,USC,64
+2010-11,2011-02-19,1012445,286,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,47,-14,1627,Stanford,992,992,12,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,65
+2010-11,2011-02-19,1012445,289,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,47,-14,1627,Stanford,984,984,8,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,65
+2010-11,2011-02-19,1012445,290,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,48,-15,1669,USC,984,984,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,65
+2010-11,2011-02-19,1012445,291,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,48,-15,1669,USC,984,984,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,65
+2010-11,2011-02-19,1012445,293,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,48,-15,1627,Stanford,957,957,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,15.549999999999997,552305,NA,NA,0,Stanford,USC,66
+2010-11,2011-02-19,1012445,294,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1669,USC,931,931,26, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,20.7,12.45,467422,NA,NA,0,USC,Stanford,67
+2010-11,2011-02-19,1012445,299,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1669,USC,928,928,3,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,68
+2010-11,2011-02-19,1012445,301,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,NA,NA,928,928,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,303,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1669,USC,928,928,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,305,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1627,Stanford,921,921,7, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9.200000000000003,12.049999999999997,457561,NA,NA,0,Stanford,USC,68
+2010-11,2011-02-19,1012445,307,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1669,USC,888,888,33, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,30,22.85,549964,NA,NA,0,USC,USC,69
+2010-11,2011-02-19,1012445,314,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,50,-17,1627,Stanford,882,882,6,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,69
+2010-11,2011-02-19,1012445,315,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,51,-18,1669,USC,882,882,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,69
+2010-11,2011-02-19,1012445,316,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,52,-19,1669,USC,882,882,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,69
+2010-11,2011-02-19,1012445,320,0,2,Stanford,USC,Cardinal,Trojans,4,4,33,52,-19,1669,USC,873,873,9,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,70
+2010-11,2011-02-19,1012445,322,0,2,Stanford,USC,Cardinal,Trojans,4,4,35,52,-17,1627,Stanford,871,871,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,552309,NA,NA,0,Stanford,USC,70
+2010-11,2011-02-19,1012445,323,0,2,Stanford,USC,Cardinal,Trojans,4,4,35,52,-17,1669,USC,844,844,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,USC,71
+2010-11,2011-02-19,1012445,324,0,2,Stanford,USC,Cardinal,Trojans,4,4,35,54,-19,1669,USC,840,840,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457598,NA,NA,0,USC,Stanford,71
+2010-11,2011-02-19,1012445,327,0,2,Stanford,USC,Cardinal,Trojans,4,4,35,54,-19,1669,USC,834,834,6,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,72
+2010-11,2011-02-19,1012445,329,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,54,-17,1627,Stanford,806,806,28, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,21.3,20.150000000000006,552307,NA,NA,0,Stanford,USC,72
+2010-11,2011-02-19,1012445,330,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,56,-19,1669,USC,789,789,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457597,NA,NA,0,USC,Stanford,73
+2010-11,2011-02-19,1012445,334,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,56,-19,1627,Stanford,781,781,8,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,74
+2010-11,2011-02-19,1012445,336,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,56,-19,1669,USC,767,767,14, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,8.75,549964,NA,NA,0,USC,Stanford,75
+2010-11,2011-02-19,1012445,337,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,56,-19,1627,Stanford,749,749,18, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,20.150000000000006,457561,NA,NA,0,Stanford,Stanford,76
+2010-11,2011-02-19,1012445,341,0,2,Stanford,USC,Cardinal,Trojans,4,4,37,56,-19,1669,USC,731,731,18,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,76
+2010-11,2011-02-19,1012445,342,0,2,Stanford,USC,Cardinal,Trojans,4,4,38,56,-18,1627,Stanford,731,731,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,76
+2010-11,2011-02-19,1012445,343,0,2,Stanford,USC,Cardinal,Trojans,4,4,38,56,-18,1627,Stanford,731,731,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,344,0,2,Stanford,USC,Cardinal,Trojans,4,4,39,56,-17,1627,Stanford,731,731,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,76
+2010-11,2011-02-19,1012445,346,0,2,Stanford,USC,Cardinal,Trojans,4,4,39,56,-17,1669,USC,715,715,16, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,20.75,549964,NA,NA,0,USC,Stanford,77
+2010-11,2011-02-19,1012445,347,0,2,Stanford,USC,Cardinal,Trojans,4,4,39,56,-17,1627,Stanford,693,693,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41,22.849999999999994,457561,NA,NA,0,Stanford,Stanford,78
+2010-11,2011-02-19,1012445,350,0,2,Stanford,USC,Cardinal,Trojans,4,4,39,56,-17,NA,NA,663,663,30,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,354,0,2,Stanford,USC,Cardinal,Trojans,4,4,39,56,-17,1669,USC,637,637,26,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,78
+2010-11,2011-02-19,1012445,356,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1627,Stanford,630,630,7, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.5,9.849999999999994,552307,NA,NA,0,Stanford,USC,78
+2010-11,2011-02-19,1012445,357,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1669,USC,591,591,39, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27.7,29.45,457597,NA,NA,0,USC,Stanford,79
+2010-11,2011-02-19,1012445,358,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1627,Stanford,573,573,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.5,26.549999999999997,552306,NA,NA,0,Stanford,Stanford,80
+2010-11,2011-02-19,1012445,359,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1627,Stanford,570,570,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,5.650000000000006,552306,NA,NA,0,Stanford,Stanford,80
+2010-11,2011-02-19,1012445,360,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1627,Stanford,558,558,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,12.25,552306,NA,NA,0,Stanford,USC,80
+2010-11,2011-02-19,1012445,361,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1669,USC,551,551,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,8.35,457597,NA,NA,0,USC,Stanford,81
+2010-11,2011-02-19,1012445,362,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,56,-15,1627,Stanford,539,539,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11,23.049999999999997,552309,NA,NA,0,Stanford,USC,82
+2010-11,2011-02-19,1012445,363,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,1669,USC,521,521,18, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,25.5,12.65,329673,NA,NA,0,USC,Stanford,83
+2010-11,2011-02-19,1012445,364,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,1627,Stanford,502,502,19, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,11.849999999999994,552305,NA,NA,0,Stanford,USC,84
+2010-11,2011-02-19,1012445,365,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,1669,USC,487,487,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,10.45,457598,NA,NA,0,USC,Stanford,85
+2010-11,2011-02-19,1012445,368,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,1627,Stanford,477,477,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.2,30.049999999999997,552304,NA,NA,0,Stanford,Stanford,86
+2010-11,2011-02-19,1012445,369,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,1669,USC,477,477,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2010-11,2011-02-19,1012445,370,0,2,Stanford,USC,Cardinal,Trojans,4,4,41,58,-17,NA,NA,477,477,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,371,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1627,Stanford,477,477,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2010-11,2011-02-19,1012445,372,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1627,Stanford,477,477,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,373,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1627,Stanford,477,477,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,86
+2010-11,2011-02-19,1012445,377,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1627,Stanford,462,462,15,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,87
+2010-11,2011-02-19,1012445,381,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,NA,NA,459,459,3,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,387.75,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1669,USC,419,419,40, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,27,22.25,549964,NA,NA,0,USC,Stanford,87
+2010-11,2011-02-19,1012445,391.125,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1669,USC,419,419,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,88
+2010-11,2011-02-19,1012445,392.8125,0,2,Stanford,USC,Cardinal,Trojans,4,4,42,58,-16,1627,Stanford,419,419,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,88
+2010-11,2011-02-19,1012445,394.5,0,2,Stanford,USC,Cardinal,Trojans,4,4,43,58,-15,1627,Stanford,419,419,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,88
+2010-11,2011-02-19,1012445,408,0,2,Stanford,USC,Cardinal,Trojans,4,4,43,60,-17,1669,USC,419,419,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395373,NA,NA,0,USC,Stanford,89
+2010-11,2011-02-19,1012445,409,0,2,Stanford,USC,Cardinal,Trojans,4,4,43,60,-17,1627,Stanford,419,419,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,90
+2010-11,2011-02-19,1012445,410,0,2,Stanford,USC,Cardinal,Trojans,4,4,43,60,-17,1669,USC,419,419,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,90
+2010-11,2011-02-19,1012445,416,0,2,Stanford,USC,Cardinal,Trojans,4,4,43,60,-17,1669,USC,408,408,11,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,91
+2010-11,2011-02-19,1012445,417,0,2,Stanford,USC,Cardinal,Trojans,4,4,44,60,-16,1627,Stanford,408,408,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,91
+2010-11,2011-02-19,1012445,424,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,60,-15,1627,Stanford,408,408,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,91
+2010-11,2011-02-19,1012445,436,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,60,-15,1627,Stanford,397,397,11,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,92
+2010-11,2011-02-19,1012445,437,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,60,-15,1669,USC,397,397,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,92
+2010-11,2011-02-19,1012445,440,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,60,-15,1627,Stanford,385,385,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,26.75,457561,NA,NA,0,Stanford,USC,93
+2010-11,2011-02-19,1012445,445,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,63,-18,1669,USC,346,346,39, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.7,29.25,467422,NA,NA,0,USC,Stanford,94
+2010-11,2011-02-19,1012445,448,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,63,-18,1627,Stanford,332,332,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,31,12.25,512693,NA,NA,0,Stanford,USC,95
+2010-11,2011-02-19,1012445,449,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,63,-18,1627,Stanford,332,332,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,96
+2010-11,2011-02-19,1012445,450,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,63,-18,1627,Stanford,332,332,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,451,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,64,-19,1669,USC,332,332,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,96
+2010-11,2011-02-19,1012445,452,0,2,Stanford,USC,Cardinal,Trojans,4,4,45,65,-20,1669,USC,332,332,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,96
+2010-11,2011-02-19,1012445,453,0,2,Stanford,USC,Cardinal,Trojans,4,3,45,65,-20,1669,USC,332,332,0,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,460,0,2,Stanford,USC,Cardinal,Trojans,4,3,45,65,-20,1669,USC,322,322,10,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,97
+2010-11,2011-02-19,1012445,463,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1627,Stanford,322,322,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,97
+2010-11,2011-02-19,1012445,464,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1627,Stanford,322,322,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,97
+2010-11,2011-02-19,1012445,465,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1669,USC,279,279,43, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,22,14.25,329673,NA,NA,0,USC,Stanford,98
+2010-11,2011-02-19,1012445,466,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1627,Stanford,279,279,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,29.25,552306,NA,NA,0,Stanford,Stanford,99
+2010-11,2011-02-19,1012445,471,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1669,USC,273,273,6,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,99
+2010-11,2011-02-19,1012445,474,0,2,Stanford,USC,Cardinal,Trojans,4,3,46,65,-19,1627,Stanford,273,273,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,99
+2010-11,2011-02-19,1012445,475,0,2,Stanford,USC,Cardinal,Trojans,4,3,47,65,-18,1627,Stanford,273,273,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,99
+2010-11,2011-02-19,1012445,485,0,2,Stanford,USC,Cardinal,Trojans,4,3,47,65,-18,1627,Stanford,243,243,30,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,100
+2010-11,2011-02-19,1012445,487,0,2,Stanford,USC,Cardinal,Trojans,4,3,47,66,-19,1669,USC,243,243,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,100
+2010-11,2011-02-19,1012445,488,0,2,Stanford,USC,Cardinal,Trojans,4,3,47,66,-19,1669,USC,243,243,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,100
+2010-11,2011-02-19,1012445,490,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,234,234,9, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.3,13.549999999999997,457561,NA,NA,0,Stanford,USC,101
+2010-11,2011-02-19,1012445,491,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1669,USC,203,203,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,Stanford,102
+2010-11,2011-02-19,1012445,492,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,194,194,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.5,29.650000000000006,457561,NA,NA,0,Stanford,Stanford,103
+2010-11,2011-02-19,1012445,493,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,191,191,3, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,13.549999999999997,457561,NA,NA,0,Stanford,Stanford,103
+2010-11,2011-02-19,1012445,495,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,160,160,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457561,NA,NA,0,Stanford,USC,103
+2010-11,2011-02-19,1012445,496,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,NA,NA,160,160,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,503,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,149,149,11,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,104
+2010-11,2011-02-19,1012445,504,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1669,USC,149,149,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,104
+2010-11,2011-02-19,1012445,505,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1669,USC,149,149,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,104
+2010-11,2011-02-19,1012445,507,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,135,135,14, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,18.3,15.650000000000006,457561,NA,NA,0,Stanford,Stanford,105
+2010-11,2011-02-19,1012445,509,0,2,Stanford,USC,Cardinal,Trojans,4,3,49,66,-17,1627,Stanford,132,132,3, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.2,14.549999999999997,552305,NA,NA,0,Stanford,Stanford,105
+2010-11,2011-02-19,1012445,510,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1627,Stanford,130,130,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,USC,105
+2010-11,2011-02-19,1012445,513,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1627,Stanford,128,128,2,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,106
+2010-11,2011-02-19,1012445,514,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1669,USC,128,128,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,106
+2010-11,2011-02-19,1012445,515,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1627,Stanford,128,128,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,516,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1627,Stanford,128,128,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,517,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1669,USC,128,128,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,106
+2010-11,2011-02-19,1012445,524,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1669,USC,118,118,10,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,107
+2010-11,2011-02-19,1012445,525,0,2,Stanford,USC,Cardinal,Trojans,4,3,51,66,-15,1627,Stanford,118,118,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,107
+2010-11,2011-02-19,1012445,526,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,66,-14,1627,Stanford,118,118,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,107
+2010-11,2011-02-19,1012445,530,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,66,-14,1627,Stanford,103,103,15,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,108
+2010-11,2011-02-19,1012445,531,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,66,-14,1669,USC,103,103,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,108
+2010-11,2011-02-19,1012445,532,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,67,-15,1669,USC,103,103,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,108
+2010-11,2011-02-19,1012445,534,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,67,-15,1627,Stanford,86,86,17, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,16.799999999999997,13.950000000000003,552305,NA,NA,0,Stanford,USC,109
+2010-11,2011-02-19,1012445,537,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,67,-15,1627,Stanford,72,72,14,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,110
+2010-11,2011-02-19,1012445,538,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,68,-16,1669,USC,72,72,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,110
+2010-11,2011-02-19,1012445,539,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,69,-17,1669,USC,72,72,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Stanford,110
+2010-11,2011-02-19,1012445,542,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,69,-17,1669,USC,19,19,53,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,111
+2010-11,2011-02-19,1012445,545,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,69,-17,1669,USC,18,18,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-19,1012445,546,0,2,Stanford,USC,Cardinal,Trojans,4,3,52,69,-17,1627,Stanford,18,18,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,111
+2010-11,2011-02-19,1012445,548,0,2,Stanford,USC,Cardinal,Trojans,4,3,53,69,-16,1627,Stanford,18,18,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,USC,111
+2010-11,2011-02-19,1012445,554,0,2,Stanford,USC,Cardinal,Trojans,4,3,53,69,-16,NA,NA,0,0,18,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-19,1012445,555,0,2,Stanford,USC,Cardinal,Trojans,4,3,53,69,-16,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,NA

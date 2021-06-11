@@ -1,0 +1,364 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-08,912483,1,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,2,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,0,0,0,1651,Texas,2400,1200,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,11,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,0,0,0,1456,Kansas,2380,1180,20,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2009-10,2010-02-08,912483,12,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,0,0,0,1651,Texas,2380,1180,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,1
+2009-10,2010-02-08,912483,16,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,0,1,1651,Texas,2380,1180,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,1
+2009-10,2010-02-08,912483,24,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,3,-2,1456,Kansas,2356,1156,24, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.5,4.85,513058,NA,NA,0,Kansas,Texas,2
+2009-10,2010-02-08,912483,34,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,3,-2,1456,Kansas,2321,1121,35, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12.2,26.55,513058,NA,NA,0,Kansas,Kansas,3
+2009-10,2010-02-08,912483,35,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,3,-2,1651,Texas,2321,1121,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,3
+2009-10,2010-02-08,912483,37,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,3,-2,1651,Texas,2312,1112,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513607,NA,NA,0,Texas,Texas,4
+2009-10,2010-02-08,912483,38,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,1,3,-2,1651,Texas,2312,1112,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,4
+2009-10,2010-02-08,912483,41,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,3,3,0,1651,Texas,2309,1109,3, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Texas,4
+2009-10,2010-02-08,912483,45,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,3,3,0,1456,Kansas,2307,1107,2,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,4
+2009-10,2010-02-08,912483,46,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,4,3,1,1651,Texas,2307,1107,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,4
+2009-10,2010-02-08,912483,52,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,4,3,1,1456,Kansas,2299,1099,8, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,15.85,469089,NA,NA,0,Kansas,Kansas,5
+2009-10,2010-02-08,912483,53,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,4,3,1,1651,Texas,2299,1099,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,5
+2009-10,2010-02-08,912483,54,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,3,4,1651,Texas,2281,1081,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35,27.150000000000006,329527,NA,NA,0,Texas,Kansas,6
+2009-10,2010-02-08,912483,58,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,3,4,1456,Kansas,2261,1061,20,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,7
+2009-10,2010-02-08,912483,68,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,3,4,1651,Texas,2245,1045,16, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,24.549999999999997,402371,NA,NA,0,Texas,Texas,8
+2009-10,2010-02-08,912483,69,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,3,4,1456,Kansas,2245,1045,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,8
+2009-10,2010-02-08,912483,72,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1456,Kansas,2238,1038,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,330350,NA,NA,0,Kansas,Texas,9
+2009-10,2010-02-08,912483,76,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1651,Texas,2235,1035,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,88,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1456,Kansas,2204,1004,31, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30.5,5.45,398443,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-08,912483,89,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1456,Kansas,2204,1004,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-08,912483,91,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1456,Kansas,2198,998,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,6.25,330350,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-08,912483,99,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,5,2,1651,Texas,2195,995,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,102,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,7,0,1456,Kansas,2185,985,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-08,912483,103,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,7,0,1651,Texas,2185,985,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,10
+2009-10,2010-02-08,912483,104,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,8,-1,1456,Kansas,2185,985,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,10
+2009-10,2010-02-08,912483,105,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,8,-1,1456,Kansas,2185,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,106,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,8,-1,1456,Kansas,2185,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,114,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,7,8,-1,1456,Kansas,2171,971,14,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,11
+2009-10,2010-02-08,912483,120,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,10,8,2,1651,Texas,2153,953,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,34.7,27.650000000000006,329527,NA,NA,0,Texas,Kansas,11
+2009-10,2010-02-08,912483,124,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,10,8,2,1651,Texas,2132,932,21,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,12
+2009-10,2010-02-08,912483,125,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,10,8,2,NA,NA,2132,932,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,135,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,10,8,2,1456,Kansas,2125,925,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,19.95,513058,NA,NA,0,Kansas,Kansas,12
+2009-10,2010-02-08,912483,136,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,10,8,2,1651,Texas,2125,925,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,12
+2009-10,2010-02-08,912483,142,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1651,Texas,2091,891,34, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,33.2,24.549999999999997,469830,NA,NA,0,Texas,Kansas,13
+2009-10,2010-02-08,912483,144,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1456,Kansas,2079,879,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-02-08,912483,147,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1456,Kansas,2062,862,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,5.05,330353,NA,NA,0,Kansas,Kansas,14
+2009-10,2010-02-08,912483,148,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1651,Texas,2062,862,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,14
+2009-10,2010-02-08,912483,149,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1651,Texas,2054,854,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,15
+2009-10,2010-02-08,912483,150,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,12,8,4,1651,Texas,2054,854,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,15
+2009-10,2010-02-08,912483,156,0,1,Texas,Kansas,Longhorns,Jayhawks,4,4,14,8,6,1651,Texas,2047,847,7, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,24.5,5.849999999999994,329527,NA,NA,0,Texas,Kansas,15
+2009-10,2010-02-08,912483,157,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,8,6,1456,Kansas,2047,847,0,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,158,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,8,6,1456,Kansas,2047,847,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,169,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,8,6,1456,Kansas,2029,829,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,171,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,2016,816,13, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42,18.45,330353,NA,NA,0,Kansas,Texas,16
+2009-10,2010-02-08,912483,173,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1971,771,45,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,175,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1966,766,5, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,33,10.650000000000006,329527,NA,NA,0,Texas,Texas,17
+2009-10,2010-02-08,912483,182,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1956,756,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,187,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1934,734,22, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.299999999999997,5.25,402373,NA,NA,0,Texas,Kansas,17
+2009-10,2010-02-08,912483,189,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1931,731,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,204,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1910,710,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398443,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,205,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1910,710,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,207,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1907,707,3, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,23.7,6.25,398443,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,210,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,NA,NA,1901,701,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,216,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1897,697,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,22.45,398441,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,217,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1897,697,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,18
+2009-10,2010-02-08,912483,221,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1868,668,29,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,224,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1863,663,5,Offensive foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,18
+2009-10,2010-02-08,912483,225,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1863,663,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,226,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1863,663,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,232,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1849,649,14, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,24.7,13.75,398443,NA,NA,0,Kansas,Kansas,19
+2009-10,2010-02-08,912483,233,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1849,649,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,19
+2009-10,2010-02-08,912483,234,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1651,Texas,1834,634,15, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,6.950000000000003,513608,NA,NA,0,Texas,Texas,20
+2009-10,2010-02-08,912483,235,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,11,3,1456,Kansas,1834,634,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,20
+2009-10,2010-02-08,912483,236,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,14,0,1456,Kansas,1827,627,7, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,23,30.55,469085,NA,NA,0,Kansas,Texas,21
+2009-10,2010-02-08,912483,244,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,14,0,1651,Texas,1789,589,38, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37,4.650000000000006,402372,NA,NA,0,Texas,Texas,22
+2009-10,2010-02-08,912483,245,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,14,0,1651,Texas,1789,589,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,22
+2009-10,2010-02-08,912483,246,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1771,571,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330353,NA,NA,0,Kansas,Texas,22
+2009-10,2010-02-08,912483,251,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1749,549,22,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,23
+2009-10,2010-02-08,912483,252,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1749,549,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,253,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1749,549,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,254,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1749,549,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,256,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1651,Texas,1739,539,10, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,15.700000000000003,3.8499999999999943,329529,NA,NA,0,Texas,Texas,23
+2009-10,2010-02-08,912483,257,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1739,539,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,23
+2009-10,2010-02-08,912483,269,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1651,Texas,1723,523,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,271,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1651,Texas,1706,506,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,12.950000000000003,469830,NA,NA,0,Texas,Texas,24
+2009-10,2010-02-08,912483,272,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,16,-2,1456,Kansas,1706,506,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,24
+2009-10,2010-02-08,912483,273,0,1,Texas,Kansas,Longhorns,Jayhawks,4,3,14,18,-4,1456,Kansas,1698,498,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Texas,25
+2009-10,2010-02-08,912483,281,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1651,Texas,1694,494,4,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,282,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1456,Kansas,1694,494,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,285,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1651,Texas,1675,475,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,5.849999999999994,513608,NA,NA,0,Texas,Texas,26
+2009-10,2010-02-08,912483,286,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1651,Texas,1675,475,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,26
+2009-10,2010-02-08,912483,287,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1651,Texas,1664,464,11, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,20,16.25,469830,NA,NA,0,Texas,Texas,26
+2009-10,2010-02-08,912483,288,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,18,-4,1456,Kansas,1664,464,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,26
+2009-10,2010-02-08,912483,291,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,20,-6,1456,Kansas,1633,433,31, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,29.7,19.95,513058,NA,NA,0,Kansas,Texas,27
+2009-10,2010-02-08,912483,292,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,20,-6,1651,Texas,1623,423,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,36.2,27.450000000000003,513608,NA,NA,0,Texas,Texas,28
+2009-10,2010-02-08,912483,293,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,20,-6,1456,Kansas,1623,423,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,28
+2009-10,2010-02-08,912483,295,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,20,-6,1651,Texas,1603,403,20,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,29
+2009-10,2010-02-08,912483,296,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,20,-6,NA,NA,1603,403,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,298,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,21,-7,1456,Kansas,1603,403,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,29
+2009-10,2010-02-08,912483,299,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1456,Kansas,1603,403,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,29
+2009-10,2010-02-08,912483,305,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1651,Texas,1589,389,14, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,22.450000000000003,402373,NA,NA,0,Texas,Texas,30
+2009-10,2010-02-08,912483,306,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1651,Texas,1589,389,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,30
+2009-10,2010-02-08,912483,307,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1456,Kansas,1582,382,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,30
+2009-10,2010-02-08,912483,314,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1651,Texas,1569,369,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,315,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1651,Texas,1569,369,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,316,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1456,Kansas,1569,369,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,317,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,22,-8,1456,Kansas,1569,369,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,319,0,1,Texas,Kansas,Longhorns,Jayhawks,3,3,14,25,-11,1456,Kansas,1560,360,9, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.199999999999999,10.45,469083,NA,NA,0,Kansas,Texas,30
+2009-10,2010-02-08,912483,321,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,25,-11,1651,Texas,1545,345,15,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,322,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,25,-11,1651,Texas,1545,345,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,323,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,25,-11,1651,Texas,1545,345,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,328,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,25,-11,1456,Kansas,1520,320,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,31
+2009-10,2010-02-08,912483,329,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,25,-11,1456,Kansas,1520,320,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,31
+2009-10,2010-02-08,912483,330,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,27,-13,1456,Kansas,1515,315,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Texas,31
+2009-10,2010-02-08,912483,331,0,1,Texas,Kansas,Longhorns,Jayhawks,2,3,14,30,-16,1456,Kansas,1498,298,17, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,12,27.45,330350,NA,NA,0,Kansas,Texas,32
+2009-10,2010-02-08,912483,335,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1492,292,6,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,336,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1456,Kansas,1492,292,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,343,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1479,279,13, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,8.549999999999997,469830,NA,NA,0,Texas,Texas,33
+2009-10,2010-02-08,912483,344,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1456,Kansas,1479,279,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,33
+2009-10,2010-02-08,912483,345,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1456,Kansas,1471,271,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513058,NA,NA,0,Kansas,Kansas,34
+2009-10,2010-02-08,912483,346,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1471,271,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,34
+2009-10,2010-02-08,912483,347,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1464,264,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,10.049999999999997,402373,NA,NA,0,Texas,Texas,35
+2009-10,2010-02-08,912483,348,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1464,264,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-02-08,912483,348.375,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1461,261,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,35
+2009-10,2010-02-08,912483,348.5625,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1461,261,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-02-08,912483,349,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1455,255,6, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,9,25.349999999999994,469830,NA,NA,0,Texas,Texas,35
+2009-10,2010-02-08,912483,350,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1456,Kansas,1455,255,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,35
+2009-10,2010-02-08,912483,354,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1456,Kansas,1425,225,30, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,19.75,398443,NA,NA,0,Kansas,Kansas,36
+2009-10,2010-02-08,912483,355,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,14,30,-16,1651,Texas,1425,225,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,36
+2009-10,2010-02-08,912483,356,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,1651,Texas,1396,196,29, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.700000000000003,22.25,329527,NA,NA,0,Texas,Kansas,37
+2009-10,2010-02-08,912483,358,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,1456,Kansas,1383,183,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-02-08,912483,359,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,1456,Kansas,1383,183,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-02-08,912483,362,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,1651,Texas,1378,178,5,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-02-08,912483,363,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,NA,NA,1378,178,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,370,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,30,-13,1456,Kansas,1378,178,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,38
+2009-10,2010-02-08,912483,372,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,31,-14,1456,Kansas,1378,178,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,38
+2009-10,2010-02-08,912483,373,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,31,-14,1456,Kansas,1378,178,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,374,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,17,31,-14,1651,Texas,1378,178,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,381,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,19,31,-12,1651,Texas,1351,151,27, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,23.8,22.849999999999994,329527,NA,NA,0,Texas,Kansas,39
+2009-10,2010-02-08,912483,382,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,19,31,-12,1456,Kansas,1327,127,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,40
+2009-10,2010-02-08,912483,383,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,19,31,-12,1651,Texas,1327,127,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,40
+2009-10,2010-02-08,912483,384,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,31,-10,1651,Texas,1318,118,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Kansas,41
+2009-10,2010-02-08,912483,388,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,31,-10,1651,Texas,1299,99,19,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,42
+2009-10,2010-02-08,912483,389,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,31,-10,1456,Kansas,1299,99,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,390,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,31,-10,1456,Kansas,1299,99,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,42
+2009-10,2010-02-08,912483,392,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,31,-10,1456,Kansas,1299,99,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,393,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,32,-11,1456,Kansas,1299,99,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,42
+2009-10,2010-02-08,912483,395,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,32,-11,1651,Texas,1289,89,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,43
+2009-10,2010-02-08,912483,396,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,32,-11,1456,Kansas,1289,89,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,43
+2009-10,2010-02-08,912483,397,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,21,34,-13,1456,Kansas,1269,69,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398443,NA,NA,0,Kansas,Texas,44
+2009-10,2010-02-08,912483,399,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,24,34,-10,1651,Texas,1258,58,11, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.2,4.049999999999997,513607,NA,NA,0,Texas,Kansas,45
+2009-10,2010-02-08,912483,409.5,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,24,34,-10,1456,Kansas,1241,41,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,21.8,30.75,330350,NA,NA,0,Kansas,Kansas,46
+2009-10,2010-02-08,912483,413.25,0,1,Texas,Kansas,Longhorns,Jayhawks,1,3,24,34,-10,1651,Texas,1241,41,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,46
+2009-10,2010-02-08,912483,420,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,1651,Texas,1223,23,18,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,432,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,1456,Kansas,1208,8,15,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2009-10,2010-02-08,912483,433,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,1651,Texas,1208,8,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,437,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,1651,Texas,1203,3,5, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,12.650000000000006,469830,NA,NA,0,Texas,Texas,47
+2009-10,2010-02-08,912483,438,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,1456,Kansas,1203,3,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,47
+2009-10,2010-02-08,912483,439,0,1,Texas,Kansas,Longhorns,Jayhawks,0,3,24,34,-10,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,441,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,34,-10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,48
+2009-10,2010-02-08,912483,445,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1183,1183,17, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513058,NA,NA,0,Kansas,Texas,49
+2009-10,2010-02-08,912483,449,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1165,1165,18,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,50
+2009-10,2010-02-08,912483,450,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1165,1165,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,451,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1165,1165,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,454,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1137,1137,28, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,11.25,513058,NA,NA,0,Kansas,Kansas,50
+2009-10,2010-02-08,912483,455,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1137,1137,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,50
+2009-10,2010-02-08,912483,456,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1128,1128,9, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,17.049999999999997,513607,NA,NA,0,Texas,Texas,51
+2009-10,2010-02-08,912483,457,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1128,1128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,51
+2009-10,2010-02-08,912483,465,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1124,1124,4,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,52
+2009-10,2010-02-08,912483,476,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1098,1098,26,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,52
+2009-10,2010-02-08,912483,477,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1098,1098,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,479,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1651,Texas,1095,1095,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,52
+2009-10,2010-02-08,912483,480,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,36,-12,1456,Kansas,1095,1095,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,52
+2009-10,2010-02-08,912483,481,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1456,Kansas,1087,1087,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513058,NA,NA,0,Kansas,Texas,53
+2009-10,2010-02-08,912483,483,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1651,Texas,1071,1071,16, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,36.2,27.150000000000006,513607,NA,NA,0,Texas,Texas,54
+2009-10,2010-02-08,912483,484,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1456,Kansas,1071,1071,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,54
+2009-10,2010-02-08,912483,488,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1456,Kansas,1061,1061,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,55
+2009-10,2010-02-08,912483,490,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1651,Texas,1061,1061,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,495,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1651,Texas,1048,1048,13,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,55
+2009-10,2010-02-08,912483,496,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,38,-14,1456,Kansas,1048,1048,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,55
+2009-10,2010-02-08,912483,498,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,39,-15,1456,Kansas,1048,1048,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,55
+2009-10,2010-02-08,912483,499,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,39,-15,1456,Kansas,1048,1048,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,503,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,39,-15,1651,Texas,1024,1024,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,56
+2009-10,2010-02-08,912483,504,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,24,39,-15,1651,Texas,1024,1024,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,56
+2009-10,2010-02-08,912483,505,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,39,-13,1651,Texas,1019,1019,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Kansas,56
+2009-10,2010-02-08,912483,512,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,39,-13,1651,Texas,994,994,25,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,57
+2009-10,2010-02-08,912483,513,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,39,-13,1456,Kansas,994,994,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,514,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,39,-13,1456,Kansas,994,994,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,57
+2009-10,2010-02-08,912483,516,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,39,-13,1651,Texas,994,994,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,517,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,26,40,-14,1456,Kansas,994,994,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,57
+2009-10,2010-02-08,912483,521,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,40,-12,1651,Texas,978,978,16, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,25,12.650000000000006,469830,NA,NA,0,Texas,Kansas,58
+2009-10,2010-02-08,912483,524,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,40,-12,NA,NA,959,959,19,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,533,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,40,-12,1651,Texas,949,949,10,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2010-02-08,912483,534,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,40,-12,1456,Kansas,949,949,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,535,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,41,-13,1456,Kansas,949,949,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,59
+2009-10,2010-02-08,912483,536,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,41,-13,1456,Kansas,949,949,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,537,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,949,949,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,59
+2009-10,2010-02-08,912483,543,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,931,931,18, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30.3,7.549999999999997,329529,NA,NA,0,Texas,Texas,60
+2009-10,2010-02-08,912483,544,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,931,931,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,60
+2009-10,2010-02-08,912483,545,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,917,917,14, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,22.3,12.05,398443,NA,NA,0,Kansas,Kansas,61
+2009-10,2010-02-08,912483,546,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,917,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,61
+2009-10,2010-02-08,912483,548,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,901,901,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,62
+2009-10,2010-02-08,912483,549,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,901,901,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,62
+2009-10,2010-02-08,912483,552,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,900,900,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,555,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,885,885,15,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,63
+2009-10,2010-02-08,912483,559,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,871,871,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,63
+2009-10,2010-02-08,912483,560,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,871,871,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,63
+2009-10,2010-02-08,912483,561,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,863,863,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,23.65,330350,NA,NA,0,Kansas,Kansas,64
+2009-10,2010-02-08,912483,580,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,850,850,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330350,NA,NA,0,Kansas,Kansas,64
+2009-10,2010-02-08,912483,583,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,845,845,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,5.45,330350,NA,NA,0,Kansas,Kansas,64
+2009-10,2010-02-08,912483,584,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,845,845,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,64
+2009-10,2010-02-08,912483,585,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,839,839,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469085,NA,NA,0,Kansas,Kansas,64
+2009-10,2010-02-08,912483,586,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,839,839,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,64
+2009-10,2010-02-08,912483,589,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1456,Kansas,832,832,7,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,65
+2009-10,2010-02-08,912483,591,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,28,42,-14,1651,Texas,832,832,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,65
+2009-10,2010-02-08,912483,593,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1651,Texas,832,832,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,65
+2009-10,2010-02-08,912483,596,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1456,Kansas,806,806,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469085,NA,NA,0,Kansas,Kansas,66
+2009-10,2010-02-08,912483,600,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1651,Texas,804,804,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,603,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1456,Kansas,803,803,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,604,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1651,Texas,803,803,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,608,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1456,Kansas,789,789,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398441,NA,NA,0,Kansas,Kansas,66
+2009-10,2010-02-08,912483,609,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1651,Texas,789,789,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,66
+2009-10,2010-02-08,912483,610,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1651,Texas,774,774,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,67
+2009-10,2010-02-08,912483,611,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,42,-13,1456,Kansas,774,774,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,67
+2009-10,2010-02-08,912483,612,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,29,44,-15,1456,Kansas,764,764,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,Texas,68
+2009-10,2010-02-08,912483,613,0,2,Texas,Kansas,Longhorns,Jayhawks,4,4,32,44,-12,1651,Texas,755,755,9, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,18.7,29.849999999999994,329527,NA,NA,0,Texas,Kansas,69
+2009-10,2010-02-08,912483,617,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,44,-12,1456,Kansas,746,746,9,Jayhawks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,634,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,44,-12,1456,Kansas,727,727,19, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,9.15,398443,NA,NA,0,Kansas,Kansas,70
+2009-10,2010-02-08,912483,640,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,46,-14,1456,Kansas,716,716,11, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,30.8,12.75,469089,NA,NA,0,Kansas,Texas,70
+2009-10,2010-02-08,912483,642,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,46,-14,1456,Kansas,689,689,27,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,71
+2009-10,2010-02-08,912483,643,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,46,-14,NA,NA,689,689,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,648,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,32,48,-16,1456,Kansas,657,657,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Texas,71
+2009-10,2010-02-08,912483,652,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1651,Texas,648,648,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Texas,72
+2009-10,2010-02-08,912483,655,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1456,Kansas,647,647,1,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,72
+2009-10,2010-02-08,912483,656,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1651,Texas,647,647,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,72
+2009-10,2010-02-08,912483,657,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1456,Kansas,647,647,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,72
+2009-10,2010-02-08,912483,661,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1456,Kansas,632,632,15, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.3,7.35,330350,NA,NA,0,Kansas,Kansas,73
+2009-10,2010-02-08,912483,662,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,48,-14,1651,Texas,632,632,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,73
+2009-10,2010-02-08,912483,663,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,50,-16,1456,Kansas,623,623,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,Texas,74
+2009-10,2010-02-08,912483,664,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,50,-16,1651,Texas,604,604,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,6.450000000000003,513607,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-08,912483,665,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,50,-16,1651,Texas,604,604,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-08,912483,668,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,34,50,-16,1456,Kansas,598,598,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-08,912483,669,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,35,50,-15,1651,Texas,598,598,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,75
+2009-10,2010-02-08,912483,670,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,50,-14,1651,Texas,598,598,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,75
+2009-10,2010-02-08,912483,672,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,53,-17,1456,Kansas,588,588,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3,4.25,330353,NA,NA,0,Kansas,Texas,76
+2009-10,2010-02-08,912483,676,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,53,-17,1456,Kansas,574,574,14,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,77
+2009-10,2010-02-08,912483,677,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,53,-17,1651,Texas,574,574,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,77
+2009-10,2010-02-08,912483,678,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,53,-17,1651,Texas,574,574,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,77
+2009-10,2010-02-08,912483,685,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,53,-17,1651,Texas,550,550,24,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,77
+2009-10,2010-02-08,912483,689,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,36,55,-19,1456,Kansas,544,544,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398443,NA,NA,0,Kansas,Texas,77
+2009-10,2010-02-08,912483,690,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,530,530,14, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,25.8,21.849999999999994,469830,NA,NA,0,Texas,Kansas,78
+2009-10,2010-02-08,912483,691,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1456,Kansas,503,503,27, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,20.7,9.35,398443,NA,NA,0,Kansas,Kansas,79
+2009-10,2010-02-08,912483,692,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1456,Kansas,503,503,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,79
+2009-10,2010-02-08,912483,693,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1456,Kansas,494,494,9, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,24.8,7.35,330353,NA,NA,0,Kansas,Kansas,79
+2009-10,2010-02-08,912483,694,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,494,494,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,79
+2009-10,2010-02-08,912483,695,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,484,484,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,80
+2009-10,2010-02-08,912483,696,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,484,484,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,80
+2009-10,2010-02-08,912483,696.375,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,481,481,3, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.5,7.950000000000003,402373,NA,NA,0,Texas,Texas,80
+2009-10,2010-02-08,912483,696.5625,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1456,Kansas,481,481,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,80
+2009-10,2010-02-08,912483,697,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1456,Kansas,469,469,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,30.55,513058,NA,NA,0,Kansas,Kansas,81
+2009-10,2010-02-08,912483,698,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,38,55,-17,1651,Texas,469,469,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,81
+2009-10,2010-02-08,912483,699,0,2,Texas,Kansas,Longhorns,Jayhawks,4,3,40,55,-15,1651,Texas,447,447,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469830,NA,NA,0,Texas,Kansas,82
+2009-10,2010-02-08,912483,703,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,55,-15,1456,Kansas,434,434,13,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,704.125,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,55,-15,1456,Kansas,433,433,1, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,9.15,469083,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-02-08,912483,704.6875,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,55,-15,1456,Kansas,433,433,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-02-08,912483,706,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,55,-15,1456,Kansas,431,431,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513058,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-02-08,912483,707,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,55,-15,1456,Kansas,431,431,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,83
+2009-10,2010-02-08,912483,708,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,57,-17,1456,Kansas,422,422,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513058,NA,NA,0,Kansas,Texas,83
+2009-10,2010-02-08,912483,710,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,57,-17,1456,Kansas,407,407,15,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2009-10,2010-02-08,912483,711,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,40,57,-17,NA,NA,407,407,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,727,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,41,57,-16,1651,Texas,407,407,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2009-10,2010-02-08,912483,728,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,57,-15,1651,Texas,407,407,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,84
+2009-10,2010-02-08,912483,735,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,57,-15,1456,Kansas,390,390,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469089,NA,NA,0,Kansas,Kansas,85
+2009-10,2010-02-08,912483,736,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,57,-15,1456,Kansas,390,390,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,85
+2009-10,2010-02-08,912483,737,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1456,Kansas,384,384,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Texas,85
+2009-10,2010-02-08,912483,739,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1651,Texas,376,376,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,3.3499999999999943,513608,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,739.5,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1651,Texas,376,376,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,740,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1651,Texas,369,369,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,741,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1651,Texas,369,369,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,744,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,42,59,-17,1456,Kansas,366,366,3,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,745,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,43,59,-16,1651,Texas,366,366,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-02-08,912483,746,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,44,59,-15,1651,Texas,366,366,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,86
+2009-10,2010-02-08,912483,757,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,44,59,-15,1651,Texas,357,357,9,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,87
+2009-10,2010-02-08,912483,761,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,44,61,-17,1456,Kansas,348,348,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330350,NA,NA,0,Kansas,Texas,87
+2009-10,2010-02-08,912483,765,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,44,61,-17,1456,Kansas,335,335,13,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,88
+2009-10,2010-02-08,912483,766,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,44,61,-17,1456,Kansas,335,335,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,767,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,45,61,-16,1651,Texas,335,335,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,88
+2009-10,2010-02-08,912483,768,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,46,61,-15,1651,Texas,335,335,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,88
+2009-10,2010-02-08,912483,770,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,46,61,-15,1456,Kansas,321,321,14, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.7,13.15,330353,NA,NA,0,Kansas,Kansas,89
+2009-10,2010-02-08,912483,771,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,46,61,-15,1651,Texas,321,321,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,89
+2009-10,2010-02-08,912483,772,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,48,61,-13,1651,Texas,314,314,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469830,NA,NA,0,Texas,Kansas,90
+2009-10,2010-02-08,912483,776,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,48,61,-13,1456,Kansas,291,291,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330353,NA,NA,0,Kansas,Kansas,91
+2009-10,2010-02-08,912483,777,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,48,61,-13,1651,Texas,291,291,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,91
+2009-10,2010-02-08,912483,779,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,48,61,-13,1456,Kansas,286,286,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,783,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,61,-10,1651,Texas,275,275,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,26.2,29.650000000000006,469830,NA,NA,0,Texas,Kansas,92
+2009-10,2010-02-08,912483,784,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,61,-10,1456,Kansas,246,246,29, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,13.95,330350,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,785,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,61,-10,1456,Kansas,246,246,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,786,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,61,-10,1456,Kansas,243,243,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513058,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,786.5,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,61,-10,1456,Kansas,243,243,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,801,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,63,-12,1456,Kansas,241,241,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469085,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,802,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,63,-12,1651,Texas,241,241,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,93
+2009-10,2010-02-08,912483,807,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,241,241,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,93
+2009-10,2010-02-08,912483,808,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1651,Texas,240,240,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,94
+2009-10,2010-02-08,912483,810,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,240,240,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,94
+2009-10,2010-02-08,912483,814,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1651,Texas,228,228,12,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,95
+2009-10,2010-02-08,912483,815,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,NA,NA,228,228,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,818,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,228,228,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,95
+2009-10,2010-02-08,912483,819,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,228,228,0,Technical foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,95
+2009-10,2010-02-08,912483,820,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,228,228,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,821,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,51,64,-13,1456,Kansas,228,228,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,96
+2009-10,2010-02-08,912483,827,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,52,64,-12,1651,Texas,228,228,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,97
+2009-10,2010-02-08,912483,828,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,53,64,-11,1651,Texas,228,228,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,97
+2009-10,2010-02-08,912483,833,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,55,64,-9,1651,Texas,221,221,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Texas,98
+2009-10,2010-02-08,912483,836,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,55,64,-9,1456,Kansas,218,218,3,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,98
+2009-10,2010-02-08,912483,837,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1651,Texas,218,218,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,98
+2009-10,2010-02-08,912483,842,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1651,Texas,200,200,18,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2010-02-08,912483,843,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1456,Kansas,200,200,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2010-02-08,912483,845,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1456,Kansas,200,200,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2010-02-08,912483,846,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1651,Texas,200,200,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,99
+2009-10,2010-02-08,912483,849,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1456,Kansas,196,196,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,854,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,64,-8,1651,Texas,174,174,22,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,100
+2009-10,2010-02-08,912483,855,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,65,-9,1456,Kansas,174,174,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,100
+2009-10,2010-02-08,912483,856,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,66,-10,1456,Kansas,174,174,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,100
+2009-10,2010-02-08,912483,858,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,66,-10,1651,Texas,166,166,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,101
+2009-10,2010-02-08,912483,859,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,66,-10,1456,Kansas,166,166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,101
+2009-10,2010-02-08,912483,863,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,66,-10,1456,Kansas,159,159,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,865,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,56,68,-12,1456,Kansas,152,152,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398441,NA,NA,0,Kansas,Texas,102
+2009-10,2010-02-08,912483,867,0,2,Texas,Kansas,Longhorns,Jayhawks,4,2,58,68,-10,1651,Texas,139,139,13, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,402373,NA,NA,0,Texas,Kansas,103
+2009-10,2010-02-08,912483,875,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1651,Texas,137,137,2,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,885,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1456,Kansas,106,106,31, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13.7,11.25,469089,NA,NA,0,Kansas,Kansas,104
+2009-10,2010-02-08,912483,886,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1651,Texas,106,106,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,104
+2009-10,2010-02-08,912483,887,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1651,Texas,97,97,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,22.25,513608,NA,NA,0,Texas,Texas,105
+2009-10,2010-02-08,912483,888,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1456,Kansas,97,97,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,105
+2009-10,2010-02-08,912483,890,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,68,-10,1651,Texas,77,77,20,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,106
+2009-10,2010-02-08,912483,891,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,69,-11,1456,Kansas,77,77,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,106
+2009-10,2010-02-08,912483,892,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,70,-12,1456,Kansas,77,77,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,106
+2009-10,2010-02-08,912483,893,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,58,70,-12,1456,Kansas,77,77,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,895,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,70,-10,1651,Texas,69,69,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469830,NA,NA,0,Texas,Kansas,107
+2009-10,2010-02-08,912483,900,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,70,-10,1651,Texas,63,63,6,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,108
+2009-10,2010-02-08,912483,902,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,71,-11,1456,Kansas,63,63,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,108
+2009-10,2010-02-08,912483,903,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,72,-12,1456,Kansas,63,63,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,108
+2009-10,2010-02-08,912483,907,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,72,-12,1651,Texas,56,56,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,4.049999999999997,513607,NA,NA,0,Texas,Texas,109
+2009-10,2010-02-08,912483,908,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,72,-12,1651,Texas,56,56,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,109
+2009-10,2010-02-08,912483,913,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,60,72,-12,1456,Kansas,51,51,5,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,109
+2009-10,2010-02-08,912483,914,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,72,-11,1651,Texas,51,51,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,109
+2009-10,2010-02-08,912483,915,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,72,-11,1651,Texas,51,51,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,109
+2009-10,2010-02-08,912483,916,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,72,-11,1456,Kansas,51,51,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,109
+2009-10,2010-02-08,912483,919,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,72,-11,1651,Texas,51,51,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,110
+2009-10,2010-02-08,912483,920,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,73,-12,1456,Kansas,51,51,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,110
+2009-10,2010-02-08,912483,921,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,74,-13,1456,Kansas,51,51,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,110
+2009-10,2010-02-08,912483,925,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,61,74,-13,1456,Kansas,46,46,5,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,111
+2009-10,2010-02-08,912483,926,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,62,74,-12,1651,Texas,46,46,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,111
+2009-10,2010-02-08,912483,927,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,62,74,-12,1651,Texas,46,46,0, misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,111
+2009-10,2010-02-08,912483,929,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,62,74,-12,1456,Kansas,46,46,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,930,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,63,74,-11,1651,Texas,46,46,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,111
+2009-10,2010-02-08,912483,931,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,63,74,-11,1651,Texas,46,46,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,933,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,63,76,-13,1456,Kansas,39,39,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513058,NA,NA,0,Kansas,Texas,112
+2009-10,2010-02-08,912483,937,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,66,76,-10,1651,Texas,32,32,7, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,36,28.25,469830,NA,NA,0,Texas,Kansas,113
+2009-10,2010-02-08,912483,942,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,66,76,-10,1651,Texas,29,29,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,114
+2009-10,2010-02-08,912483,943,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,66,77,-11,1456,Kansas,29,29,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,114
+2009-10,2010-02-08,912483,944,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,66,77,-11,1456,Kansas,29,29,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-08,912483,945,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,66,78,-12,1456,Kansas,29,29,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,114
+2009-10,2010-02-08,912483,948,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,78,-10,1651,Texas,22,22,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469830,NA,NA,0,Texas,Kansas,115
+2009-10,2010-02-08,912483,954,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,78,-10,1651,Texas,19,19,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,116
+2009-10,2010-02-08,912483,955,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,79,-11,1456,Kansas,19,19,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,116
+2009-10,2010-02-08,912483,956,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,80,-12,1456,Kansas,19,19,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Texas,116
+2009-10,2010-02-08,912483,966,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,80,-12,1651,Texas,7,7,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,4.650000000000006,513608,NA,NA,0,Texas,Texas,117
+2009-10,2010-02-08,912483,967,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,80,-12,1456,Kansas,7,7,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Kansas,117
+2009-10,2010-02-08,912483,969,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,80,-12,NA,NA,0,0,7,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-08,912483,972,0,2,Texas,Kansas,Longhorns,Jayhawks,3,2,68,80,-12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

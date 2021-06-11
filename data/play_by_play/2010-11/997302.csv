@@ -1,0 +1,246 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-27,997302,1,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,NA
+2010-11,2011-01-27,997302,19,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,0,0,0,1291,Arizona,2357,1157,43, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,1
+2010-11,2011-01-27,997302,20,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,2,0,2,1291,Arizona,2353,1153,4, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,23.5,8.349999999999994,551766,NA,NA,0,Arizona,UCLA,1
+2010-11,2011-01-27,997302,22,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,2,3,-1,1668,UCLA,2328,1128,25, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,6.5,22.05,457569,NA,NA,0,UCLA,Arizona,2
+2010-11,2011-01-27,997302,23,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,2,3,-1,1291,Arizona,2311,1111,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457338,NA,NA,0,Arizona,UCLA,3
+2010-11,2011-01-27,997302,24,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,2,3,-1,1668,UCLA,2289,1089,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,11.8,16.85,551819,NA,NA,0,UCLA,Arizona,4
+2010-11,2011-01-27,997302,26,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,2,3,-1,1668,UCLA,2277,1077,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,5
+2010-11,2011-01-27,997302,27,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,3,3,0,1291,Arizona,2277,1077,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,5
+2010-11,2011-01-27,997302,28,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,4,3,1,1291,Arizona,2277,1077,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,5
+2010-11,2011-01-27,997302,29,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,4,3,1,1291,Arizona,2277,1077,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,5
+2010-11,2011-01-27,997302,34,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,4,3,1,1291,Arizona,2250,1050,27, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,10.650000000000006,551766,NA,NA,0,Arizona,UCLA,5
+2010-11,2011-01-27,997302,35,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,4,3,1,1668,UCLA,2241,1041,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551819,NA,NA,0,UCLA,UCLA,6
+2010-11,2011-01-27,997302,36,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,4,5,-1,1668,UCLA,2238,1038,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,6
+2010-11,2011-01-27,997302,37,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,6,5,1,1291,Arizona,2222,1022,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509169,NA,NA,0,Arizona,UCLA,7
+2010-11,2011-01-27,997302,38,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,6,5,1,1668,UCLA,2203,1003,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.3,28.85,513492,NA,NA,0,UCLA,Arizona,8
+2010-11,2011-01-27,997302,39,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,6,5,1,1291,Arizona,2185,985,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457338,NA,NA,0,Arizona,UCLA,9
+2010-11,2011-01-27,997302,40,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,6,5,1,1668,UCLA,2178,978,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,9.85,513492,NA,NA,0,UCLA,Arizona,10
+2010-11,2011-01-27,997302,43,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,6,5,1,1668,UCLA,2165,965,13,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,11
+2010-11,2011-01-27,997302,44,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,7,5,2,1291,Arizona,2165,965,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,11
+2010-11,2011-01-27,997302,45,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,7,5,2,1291,Arizona,2165,965,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,11
+2010-11,2011-01-27,997302,49,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,7,5,2,1291,Arizona,2152,952,13,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,12
+2010-11,2011-01-27,997302,50,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,7,5,2,NA,NA,2152,952,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,52,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,7,7,0,1668,UCLA,2148,948,4, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,5.800000000000001,7.35,457569,NA,NA,0,UCLA,Arizona,12
+2010-11,2011-01-27,997302,53,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,7,2,1291,Arizona,2136,936,12, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,23.8,10.849999999999994,509166,NA,NA,0,Arizona,UCLA,13
+2010-11,2011-01-27,997302,57,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,7,2,1291,Arizona,2102,902,34,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,14
+2010-11,2011-01-27,997302,58,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,7,2,1668,UCLA,2102,902,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,14
+2010-11,2011-01-27,997302,59,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,8,1,1668,UCLA,2102,902,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,14
+2010-11,2011-01-27,997302,63,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,8,1,1668,UCLA,2090,890,12,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,15
+2010-11,2011-01-27,997302,65,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,8,1,1291,Arizona,2086,886,4, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.3,4.25,457338,NA,NA,0,Arizona,UCLA,15
+2010-11,2011-01-27,997302,66,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,9,8,1,1668,UCLA,2067,867,19, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.8,8.75,551819,NA,NA,0,UCLA,Arizona,16
+2010-11,2011-01-27,997302,67,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,8,3,1291,Arizona,2063,863,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,UCLA,17
+2010-11,2011-01-27,997302,82,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,8,3,1668,UCLA,2046,846,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,7.75,551822,NA,NA,0,UCLA,Arizona,18
+2010-11,2011-01-27,997302,84,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,8,3,1668,UCLA,2045,845,1,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,19
+2010-11,2011-01-27,997302,92,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,10,1,1668,UCLA,2016,816,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,19
+2010-11,2011-01-27,997302,93,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,10,1,1291,Arizona,2008,808,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551765,NA,NA,0,Arizona,Arizona,20
+2010-11,2011-01-27,997302,103,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,10,1,1291,Arizona,1994,794,14,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,20
+2010-11,2011-01-27,997302,106,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,10,1,1291,Arizona,1984,784,10,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2010-11,2011-01-27,997302,107,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,11,0,1668,UCLA,1984,784,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2010-11,2011-01-27,997302,108,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,11,0,1668,UCLA,1984,784,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,21
+2010-11,2011-01-27,997302,111,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,11,0,1291,Arizona,1968,768,16, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,18.25,509167,NA,NA,0,Arizona,UCLA,22
+2010-11,2011-01-27,997302,112,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,13,-2,1668,UCLA,1959,759,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,23
+2010-11,2011-01-27,997302,113,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,13,-2,1291,Arizona,1944,744,15, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,41.3,15.349999999999994,509165,NA,NA,0,Arizona,UCLA,24
+2010-11,2011-01-27,997302,114,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,11,13,-2,1668,UCLA,1925,725,19, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,24.8,10.85,551822,NA,NA,0,UCLA,Arizona,25
+2010-11,2011-01-27,997302,115,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,13,13,0,1291,Arizona,1920,720,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,Arizona,26
+2010-11,2011-01-27,997302,117,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,13,13,0,1668,UCLA,1890,690,30,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,26
+2010-11,2011-01-27,997302,118,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,13,13,0,NA,NA,1890,690,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,119,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,14,13,1,1291,Arizona,1890,690,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,26
+2010-11,2011-01-27,997302,120,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,15,13,2,1291,Arizona,1890,690,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,26
+2010-11,2011-01-27,997302,132,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,15,13,2,1668,UCLA,1853,653,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551818,NA,NA,0,UCLA,UCLA,27
+2010-11,2011-01-27,997302,135,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,15,13,2,1668,UCLA,1822,622,31, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,20.55,551819,NA,NA,0,UCLA,Arizona,27
+2010-11,2011-01-27,997302,139,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,15,13,2,1668,UCLA,1810,610,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,28
+2010-11,2011-01-27,997302,140,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,16,13,3,1291,Arizona,1810,610,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,28
+2010-11,2011-01-27,997302,141,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,17,13,4,1291,Arizona,1810,610,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,28
+2010-11,2011-01-27,997302,143,0,1,Arizona,UCLA,Wildcats,Bruins,4,4,20,13,7,1291,Arizona,1781,581,29, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7.299999999999997,20.549999999999997,509167,NA,NA,0,Arizona,UCLA,29
+2010-11,2011-01-27,997302,147,0,1,Arizona,UCLA,Wildcats,Bruins,4,3,20,13,7,1668,UCLA,1780,580,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,153,0,1,Arizona,UCLA,Wildcats,Bruins,4,3,20,15,5,1668,UCLA,1758,558,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,Arizona,30
+2010-11,2011-01-27,997302,155,0,1,Arizona,UCLA,Wildcats,Bruins,4,3,20,15,5,1291,Arizona,1746,546,12, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.200000000000003,13.150000000000006,509167,NA,NA,0,Arizona,UCLA,31
+2010-11,2011-01-27,997302,156,0,1,Arizona,UCLA,Wildcats,Bruins,4,3,20,17,3,1668,UCLA,1740,540,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,Arizona,32
+2010-11,2011-01-27,997302,160,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,20,17,3,1291,Arizona,1738,538,2,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,163,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,17,6,1291,Arizona,1723,523,15, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.7,30.25,509169,NA,NA,0,Arizona,UCLA,33
+2010-11,2011-01-27,997302,164,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1668,UCLA,1707,507,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,551822,NA,NA,0,UCLA,Arizona,34
+2010-11,2011-01-27,997302,165,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1291,Arizona,1688,488,19, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28,8.349999999999994,551766,NA,NA,0,Arizona,UCLA,35
+2010-11,2011-01-27,997302,166,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1668,UCLA,1678,478,10, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,24.05,457569,NA,NA,0,UCLA,UCLA,36
+2010-11,2011-01-27,997302,168,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,NA,NA,1666,466,12,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,174,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1291,Arizona,1656,456,10,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2010-11,2011-01-27,997302,175,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1668,UCLA,1656,456,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,36
+2010-11,2011-01-27,997302,176,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1668,UCLA,1656,456,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,36
+2010-11,2011-01-27,997302,180,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1291,Arizona,1636,436,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.700000000000003,25.349999999999994,395394,NA,NA,0,Arizona,UCLA,37
+2010-11,2011-01-27,997302,182,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,19,4,1291,Arizona,1617,417,19,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-01-27,997302,183,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,20,3,1668,UCLA,1617,417,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,38
+2010-11,2011-01-27,997302,184,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,21,2,1668,UCLA,1617,417,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,38
+2010-11,2011-01-27,997302,187,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,23,21,2,1668,UCLA,1606,406,11,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,39
+2010-11,2011-01-27,997302,188,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,21,3,1291,Arizona,1606,406,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,39
+2010-11,2011-01-27,997302,189,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,21,3,1291,Arizona,1606,406,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,39
+2010-11,2011-01-27,997302,201,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,21,3,1291,Arizona,1544,344,62,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,40
+2010-11,2011-01-27,997302,202,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,22,2,1668,UCLA,1544,344,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,40
+2010-11,2011-01-27,997302,203,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,23,1,1668,UCLA,1544,344,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,40
+2010-11,2011-01-27,997302,205,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,24,23,1,1291,Arizona,1531,331,13, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12,15.650000000000006,457337,NA,NA,0,Arizona,Arizona,41
+2010-11,2011-01-27,997302,206,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,27,23,4,1291,Arizona,1522,322,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,37.2,25.950000000000003,551765,NA,NA,0,Arizona,UCLA,41
+2010-11,2011-01-27,997302,207,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,27,25,2,1668,UCLA,1492,292,30, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,42
+2010-11,2011-01-27,997302,208,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,25,4,1291,Arizona,1480,280,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551765,NA,NA,0,Arizona,UCLA,43
+2010-11,2011-01-27,997302,210,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,27,2,1668,UCLA,1453,253,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,44
+2010-11,2011-01-27,997302,212,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,27,2,1291,Arizona,1446,246,7,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,45
+2010-11,2011-01-27,997302,220,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,27,2,1291,Arizona,1433,233,13,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,46
+2010-11,2011-01-27,997302,221,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,27,2,NA,NA,1433,233,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,222,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,27,2,1668,UCLA,1433,233,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,46
+2010-11,2011-01-27,997302,223,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,28,1,1668,UCLA,1433,233,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,46
+2010-11,2011-01-27,997302,224,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,29,29,0,1668,UCLA,1433,233,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,46
+2010-11,2011-01-27,997302,229,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,32,29,3,1291,Arizona,1416,216,17, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,28.5,28.049999999999997,509168,NA,NA,0,Arizona,UCLA,47
+2010-11,2011-01-27,997302,234,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,32,31,1,1668,UCLA,1389,189,27, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,40.7,15.15,513482,NA,NA,0,UCLA,Arizona,48
+2010-11,2011-01-27,997302,236,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1291,Arizona,1367,167,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,UCLA,49
+2010-11,2011-01-27,997302,249,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1291,Arizona,1330,130,37, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,6.75,509168,NA,NA,0,Arizona,UCLA,50
+2010-11,2011-01-27,997302,255,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1668,UCLA,1311,111,19, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,23.5,31.15,513492,NA,NA,0,UCLA,Arizona,51
+2010-11,2011-01-27,997302,256,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1291,Arizona,1299,99,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.2,29.25,509168,NA,NA,0,Arizona,UCLA,52
+2010-11,2011-01-27,997302,257,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1668,UCLA,1291,91,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,20.95,457569,NA,NA,0,UCLA,Arizona,53
+2010-11,2011-01-27,997302,259,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,31,3,1291,Arizona,1257,57,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509167,NA,NA,0,Arizona,UCLA,54
+2010-11,2011-01-27,997302,260,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,34,33,1,1668,UCLA,1251,51,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,55
+2010-11,2011-01-27,997302,261,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,36,33,3,1291,Arizona,1227,27,24, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,UCLA,56
+2010-11,2011-01-27,997302,264,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,36,33,3,1668,UCLA,1202,2,25, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,30,6.05,551819,NA,NA,0,UCLA,Arizona,57
+2010-11,2011-01-27,997302,270,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,36,33,3,1668,UCLA,1202,2,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,58
+2010-11,2011-01-27,997302,271,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,37,33,4,1291,Arizona,1202,2,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,58
+2010-11,2011-01-27,997302,272,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,38,33,5,1291,Arizona,1202,2,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,59
+2010-11,2011-01-27,997302,274,0,1,Arizona,UCLA,Wildcats,Bruins,3,3,38,33,5,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,275,0,2,Arizona,UCLA,Wildcats,Bruins,4,4,38,33,5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,60
+2010-11,2011-01-27,997302,277,0,2,Arizona,UCLA,Wildcats,Bruins,4,4,41,33,8,1291,Arizona,1187,1187,13, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.799999999999997,15.549999999999997,509168,NA,NA,0,Arizona,UCLA,61
+2010-11,2011-01-27,997302,278,0,2,Arizona,UCLA,Wildcats,Bruins,4,4,43,33,10,1291,Arizona,1164,1164,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551766,NA,NA,0,Arizona,UCLA,62
+2010-11,2011-01-27,997302,283,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,33,10,1668,UCLA,1163,1163,1,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,285,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,35,8,1668,UCLA,1147,1147,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,UCLA,63
+2010-11,2011-01-27,997302,294,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,35,8,1291,Arizona,1115,1115,32,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,63
+2010-11,2011-01-27,997302,295,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,36,7,1668,UCLA,1115,1115,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,63
+2010-11,2011-01-27,997302,296,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,37,6,1668,UCLA,1115,1115,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,63
+2010-11,2011-01-27,997302,299,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,37,6,1291,Arizona,1101,1101,14, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,20.349999999999994,509167,NA,NA,0,Arizona,UCLA,64
+2010-11,2011-01-27,997302,300,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,43,37,6,1668,UCLA,1089,1089,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,9.15,457569,NA,NA,0,UCLA,Arizona,65
+2010-11,2011-01-27,997302,301,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,45,37,8,1291,Arizona,1085,1085,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,UCLA,66
+2010-11,2011-01-27,997302,303,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,45,39,6,1668,UCLA,1063,1063,22, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,23,22.25,513492,NA,NA,0,UCLA,Arizona,67
+2010-11,2011-01-27,997302,309,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,45,39,6,1668,UCLA,1043,1043,20,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,68
+2010-11,2011-01-27,997302,310,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,46,39,7,1291,Arizona,1043,1043,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,68
+2010-11,2011-01-27,997302,311,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,47,39,8,1291,Arizona,1043,1043,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,68
+2010-11,2011-01-27,997302,313,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,47,39,8,1668,UCLA,1027,1027,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551819,NA,NA,0,UCLA,Arizona,69
+2010-11,2011-01-27,997302,316,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,47,39,8,1668,UCLA,1023,1023,4,Technical foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2010-11,2011-01-27,997302,316.5,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,47,39,8,1668,UCLA,1023,1023,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2010-11,2011-01-27,997302,317,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,48,39,9,1291,Arizona,1023,1023,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,70
+2010-11,2011-01-27,997302,318,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,49,39,10,1291,Arizona,1023,1023,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,70
+2010-11,2011-01-27,997302,319,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,50,39,11,1291,Arizona,1023,1023,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,71
+2010-11,2011-01-27,997302,320,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,51,39,12,1291,Arizona,1023,1023,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,71
+2010-11,2011-01-27,997302,335,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,51,39,12,1291,Arizona,1008,1008,15, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,11.650000000000006,551766,NA,NA,0,Arizona,UCLA,72
+2010-11,2011-01-27,997302,338,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,51,39,12,1668,UCLA,980,980,28, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12,12.45,457571,NA,NA,0,UCLA,UCLA,73
+2010-11,2011-01-27,997302,344,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,51,41,10,1668,UCLA,978,978,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551822,NA,NA,0,UCLA,Arizona,73
+2010-11,2011-01-27,997302,346,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,54,41,13,1291,Arizona,964,964,14, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,33,28.650000000000006,509169,NA,NA,0,Arizona,UCLA,74
+2010-11,2011-01-27,997302,349,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,54,43,11,1668,UCLA,945,945,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,UCLA,75
+2010-11,2011-01-27,997302,350,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,54,43,11,1291,Arizona,945,945,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,75
+2010-11,2011-01-27,997302,351,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,54,43,11,NA,NA,945,945,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,352,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,54,44,10,1668,UCLA,945,945,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,75
+2010-11,2011-01-27,997302,354,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,56,44,12,1291,Arizona,937,937,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,551765,NA,NA,0,Arizona,UCLA,76
+2010-11,2011-01-27,997302,362,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,56,44,12,1668,UCLA,915,915,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,17.65,513492,NA,NA,0,UCLA,Arizona,77
+2010-11,2011-01-27,997302,363,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,58,44,14,1291,Arizona,884,884,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457338,NA,NA,0,Arizona,UCLA,78
+2010-11,2011-01-27,997302,364,0,2,Arizona,UCLA,Wildcats,Bruins,4,3,60,44,16,1291,Arizona,868,868,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,UCLA,79
+2010-11,2011-01-27,997302,369,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1668,UCLA,861,861,7,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,376,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1668,UCLA,849,849,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,Arizona,80
+2010-11,2011-01-27,997302,378,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1668,UCLA,848,848,1,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,81
+2010-11,2011-01-27,997302,387,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1291,Arizona,823,823,25,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2010-11,2011-01-27,997302,390,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1291,Arizona,819,819,4,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2010-11,2011-01-27,997302,391,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1668,UCLA,819,819,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2010-11,2011-01-27,997302,395,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1668,UCLA,819,819,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2010-11,2011-01-27,997302,399,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1291,Arizona,818,818,1,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2010-11,2011-01-27,997302,402,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,60,44,16,1291,Arizona,783,783,35, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,11.700000000000003,26.349999999999994,457337,NA,NA,0,Arizona,Arizona,81
+2010-11,2011-01-27,997302,403,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1291,Arizona,777,777,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509166,NA,NA,0,Arizona,UCLA,81
+2010-11,2011-01-27,997302,405,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1668,UCLA,765,765,12, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,7.75,551819,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,407,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1668,UCLA,750,750,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,410,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1291,Arizona,741,741,9,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,423,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1668,UCLA,728,728,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,426,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,44,18,1291,Arizona,726,726,2,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,427,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,45,17,1668,UCLA,726,726,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2010-11,2011-01-27,997302,428,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,46,16,1668,UCLA,726,726,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,82
+2010-11,2011-01-27,997302,438,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,46,16,1668,UCLA,710,710,16,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,83
+2010-11,2011-01-27,997302,439,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,46,16,NA,NA,710,710,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,442,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,46,16,1668,UCLA,708,708,2,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,83
+2010-11,2011-01-27,997302,443,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,62,46,16,1291,Arizona,708,708,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,83
+2010-11,2011-01-27,997302,444,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1291,Arizona,708,708,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,83
+2010-11,2011-01-27,997302,452,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1668,UCLA,683,683,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,UCLA,84
+2010-11,2011-01-27,997302,462,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1668,UCLA,680,680,3, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,23.85,457571,NA,NA,0,UCLA,UCLA,84
+2010-11,2011-01-27,997302,466,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1668,UCLA,679,679,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551822,NA,NA,0,UCLA,Arizona,84
+2010-11,2011-01-27,997302,471,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1291,Arizona,661,661,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509169,NA,NA,0,Arizona,Arizona,85
+2010-11,2011-01-27,997302,474,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1668,UCLA,659,659,2,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,85
+2010-11,2011-01-27,997302,475,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,63,46,17,1291,Arizona,659,659,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,85
+2010-11,2011-01-27,997302,476,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,46,18,1291,Arizona,659,659,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,85
+2010-11,2011-01-27,997302,481,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,46,18,1291,Arizona,643,643,16,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2010-11,2011-01-27,997302,482,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,47,17,1668,UCLA,643,643,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,86
+2010-11,2011-01-27,997302,483,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,48,16,1668,UCLA,643,643,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,86
+2010-11,2011-01-27,997302,486,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,50,14,1668,UCLA,621,621,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Arizona,87
+2010-11,2011-01-27,997302,492,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,64,50,14,1668,UCLA,584,584,37, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,22.85,513492,NA,NA,0,UCLA,Arizona,88
+2010-11,2011-01-27,997302,495,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,66,50,16,1291,Arizona,568,568,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,UCLA,89
+2010-11,2011-01-27,997302,496,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,66,52,14,1668,UCLA,559,559,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Arizona,90
+2010-11,2011-01-27,997302,498,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,66,52,14,1668,UCLA,548,548,11,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,91
+2010-11,2011-01-27,997302,499,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,52,15,1291,Arizona,548,548,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,91
+2010-11,2011-01-27,997302,500,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,52,15,1291,Arizona,548,548,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,92
+2010-11,2011-01-27,997302,503,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,52,15,1668,UCLA,529,529,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513482,NA,NA,0,UCLA,UCLA,93
+2010-11,2011-01-27,997302,508,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,52,15,1291,Arizona,527,527,2,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2010-11,2011-01-27,997302,509,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,53,14,1668,UCLA,527,527,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,93
+2010-11,2011-01-27,997302,511,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,67,54,13,1668,UCLA,527,527,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,93
+2010-11,2011-01-27,997302,513,0,2,Arizona,UCLA,Wildcats,Bruins,4,2,69,54,15,1291,Arizona,514,514,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,UCLA,94
+2010-11,2011-01-27,997302,518,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,54,15,1291,Arizona,513,513,1,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,525,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,54,15,1291,Arizona,502,502,11,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2011-01-27,997302,526,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,55,14,1668,UCLA,502,502,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,95
+2010-11,2011-01-27,997302,527,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,56,13,1668,UCLA,502,502,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,95
+2010-11,2011-01-27,997302,530,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,56,13,NA,NA,479,479,23,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,535,0,2,Arizona,UCLA,Wildcats,Bruins,3,2,69,56,13,1291,Arizona,469,469,10, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,10.650000000000006,457338,NA,NA,0,Arizona,UCLA,96
+2010-11,2011-01-27,997302,542,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,56,13,1668,UCLA,467,467,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,546,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,56,13,1668,UCLA,441,441,26, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,9.15,551822,NA,NA,0,UCLA,Arizona,97
+2010-11,2011-01-27,997302,547,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,56,13,1291,Arizona,423,423,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,29.25,509168,NA,NA,0,Arizona,UCLA,98
+2010-11,2011-01-27,997302,548,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,58,11,1668,UCLA,406,406,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,99
+2010-11,2011-01-27,997302,551,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,58,11,1668,UCLA,388,388,18,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,100
+2010-11,2011-01-27,997302,552,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,58,11,1291,Arizona,388,388,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,100
+2010-11,2011-01-27,997302,555,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,69,61,8,1668,UCLA,369,369,19, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.8,30.05,457571,NA,NA,0,UCLA,Arizona,101
+2010-11,2011-01-27,997302,556,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,71,61,10,1291,Arizona,356,356,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509166,NA,NA,0,Arizona,UCLA,102
+2010-11,2011-01-27,997302,557,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,71,61,10,1668,UCLA,345,345,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.699999999999999,20.75,457571,NA,NA,0,UCLA,Arizona,103
+2010-11,2011-01-27,997302,558,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,73,61,12,1291,Arizona,340,340,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457337,NA,NA,0,Arizona,UCLA,104
+2010-11,2011-01-27,997302,559,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,73,63,10,1668,UCLA,324,324,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Arizona,105
+2010-11,2011-01-27,997302,562,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,73,63,10,1291,Arizona,315,315,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509166,NA,NA,0,Arizona,UCLA,106
+2010-11,2011-01-27,997302,565,0,2,Arizona,UCLA,Wildcats,Bruins,3,1,73,63,10,1668,UCLA,298,298,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.7,5.85,457569,NA,NA,0,UCLA,Arizona,107
+2010-11,2011-01-27,997302,568,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,73,63,10,1291,Arizona,293,293,5,Wildcats take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,570,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,73,63,10,1291,Arizona,274,274,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457337,NA,NA,0,Arizona,Arizona,108
+2010-11,2011-01-27,997302,571,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,75,63,12,1291,Arizona,270,270,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,23.5,6.25,509168,NA,NA,0,Arizona,UCLA,108
+2010-11,2011-01-27,997302,572,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,75,63,12,1668,UCLA,259,259,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,20.35,551819,NA,NA,0,UCLA,Arizona,109
+2010-11,2011-01-27,997302,577,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,75,63,12,1668,UCLA,257,257,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,110
+2010-11,2011-01-27,997302,578,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,76,63,13,1291,Arizona,257,257,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,110
+2010-11,2011-01-27,997302,579,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,77,63,14,1291,Arizona,257,257,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,110
+2010-11,2011-01-27,997302,582,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,77,63,14,1668,UCLA,242,242,15,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,111
+2010-11,2011-01-27,997302,583,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,77,63,14,1291,Arizona,242,242,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,111
+2010-11,2011-01-27,997302,584,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,63,15,1291,Arizona,242,242,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,111
+2010-11,2011-01-27,997302,587,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,63,15,1291,Arizona,238,238,4,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,112
+2010-11,2011-01-27,997302,588,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,63,15,NA,NA,238,238,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,589,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,64,14,1668,UCLA,238,238,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,112
+2010-11,2011-01-27,997302,590,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,64,14,1668,UCLA,238,238,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,112
+2010-11,2011-01-27,997302,593,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,64,14,1291,Arizona,201,201,37, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509167,NA,NA,0,Arizona,UCLA,113
+2010-11,2011-01-27,997302,595,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,78,64,14,1668,UCLA,178,178,23,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,114
+2010-11,2011-01-27,997302,599,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,64,16,1291,Arizona,161,161,17, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,25,11.25,509167,NA,NA,0,Arizona,UCLA,115
+2010-11,2011-01-27,997302,600,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,64,16,1668,UCLA,146,146,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551818,NA,NA,0,UCLA,Arizona,116
+2010-11,2011-01-27,997302,601,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,64,16,1291,Arizona,136,136,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,551766,NA,NA,0,Arizona,UCLA,117
+2010-11,2011-01-27,997302,608,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,64,16,1291,Arizona,136,136,0,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,118
+2010-11,2011-01-27,997302,610,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,65,15,1668,UCLA,136,136,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,118
+2010-11,2011-01-27,997302,611,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,66,14,1668,UCLA,136,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,118
+2010-11,2011-01-27,997302,613,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,68,12,1668,UCLA,125,125,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Arizona,119
+2010-11,2011-01-27,997302,615,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,68,12,1668,UCLA,77,77,48, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,18.05,513492,NA,NA,0,UCLA,UCLA,120
+2010-11,2011-01-27,997302,619,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,70,10,1668,UCLA,72,72,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,UCLA,120
+2010-11,2011-01-27,997302,620,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,70,10,1291,Arizona,72,72,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,120
+2010-11,2011-01-27,997302,621,0,2,Arizona,UCLA,Wildcats,Bruins,2,1,80,71,9,1668,UCLA,72,72,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,120
+2010-11,2011-01-27,997302,622,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,80,71,9,1291,Arizona,72,72,0,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,625,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,80,71,9,1668,UCLA,70,70,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,121
+2010-11,2011-01-27,997302,626,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,80,71,9,1291,Arizona,70,70,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,121
+2010-11,2011-01-27,997302,627,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,81,71,10,1291,Arizona,70,70,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,121
+2010-11,2011-01-27,997302,630,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,81,71,10,1668,UCLA,56,56,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,UCLA,122
+2010-11,2011-01-27,997302,637,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,81,71,10,1668,UCLA,48,48,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,24.25,457571,NA,NA,0,UCLA,Arizona,122
+2010-11,2011-01-27,997302,642,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,81,71,10,1668,UCLA,46,46,2,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,123
+2010-11,2011-01-27,997302,643,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,82,71,11,1291,Arizona,46,46,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,123
+2010-11,2011-01-27,997302,644,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,71,12,1291,Arizona,46,46,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,123
+2010-11,2011-01-27,997302,649,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,71,12,1668,UCLA,41,41,5, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,30,6.75,457569,NA,NA,0,UCLA,UCLA,124
+2010-11,2011-01-27,997302,657,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,73,10,1668,UCLA,39,39,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,UCLA,124
+2010-11,2011-01-27,997302,658,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,73,10,1291,Arizona,39,39,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,124
+2010-11,2011-01-27,997302,659,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,74,9,1668,UCLA,39,39,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Arizona,124
+2010-11,2011-01-27,997302,663,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,83,74,9,1668,UCLA,38,38,1,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,125
+2010-11,2011-01-27,997302,664,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,84,74,10,1291,Arizona,38,38,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,125
+2010-11,2011-01-27,997302,665,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,85,74,11,1291,Arizona,38,38,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,UCLA,125
+2010-11,2011-01-27,997302,667,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,85,74,11,NA,NA,0,0,38,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-27,997302,668,0,2,Arizona,UCLA,Wildcats,Bruins,1,1,85,74,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

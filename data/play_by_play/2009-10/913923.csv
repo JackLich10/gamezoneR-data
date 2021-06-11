@@ -1,0 +1,273 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-12,913923,1,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Baylor,NA
+2009-10,2010-01-12,913923,3,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,0,0,1313,Baylor,2398,1198,2, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.8,24.05,398437,NA,NA,0,Baylor,Baylor,1
+2009-10,2010-01-12,913923,4,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,0,0,1360,Colorado,2398,1198,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,1
+2009-10,2010-01-12,913923,7,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,0,0,1360,Colorado,2375,1175,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10,21.450000000000003,400623,NA,NA,0,Colorado,Colorado,2
+2009-10,2010-01-12,913923,8,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,0,0,1313,Baylor,2375,1175,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,2
+2009-10,2010-01-12,913923,10,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,2,-2,1313,Baylor,2366,1166,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329668,NA,NA,0,Baylor,Baylor,3
+2009-10,2010-01-12,913923,11,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,2,-2,1360,Colorado,2366,1166,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,3
+2009-10,2010-01-12,913923,12,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,2,-2,1313,Baylor,2366,1166,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,3
+2009-10,2010-01-12,913923,13,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,0,2,-2,1360,Colorado,2366,1166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,3
+2009-10,2010-01-12,913923,15,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,2,2,0,1360,Colorado,2354,1154,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512998,NA,NA,0,Colorado,Baylor,4
+2009-10,2010-01-12,913923,16,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,2,2,0,1360,Colorado,2337,1137,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,5
+2009-10,2010-01-12,913923,17,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,2,2,0,1360,Colorado,2337,1137,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,5
+2009-10,2010-01-12,913923,19,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,2,2,0,1313,Baylor,2316,1116,21,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,5
+2009-10,2010-01-12,913923,21,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,3,2,1,1360,Colorado,2316,1116,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,5
+2009-10,2010-01-12,913923,22,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,4,2,2,1360,Colorado,2316,1116,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,5
+2009-10,2010-01-12,913923,28,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,4,2,2,1360,Colorado,2262,1062,54, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,6
+2009-10,2010-01-12,913923,31,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,2,4,1360,Colorado,2256,1056,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,512998,NA,NA,0,Colorado,Baylor,6
+2009-10,2010-01-12,913923,34,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,2,4,1360,Colorado,2236,1036,20,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,7
+2009-10,2010-01-12,913923,35,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,3,3,1313,Baylor,2236,1036,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,7
+2009-10,2010-01-12,913923,36,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2236,1036,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,7
+2009-10,2010-01-12,913923,43,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2199,999,37, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,9.549999999999997,405832,NA,NA,0,Colorado,Colorado,8
+2009-10,2010-01-12,913923,44,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2199,999,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,8
+2009-10,2010-01-12,913923,45,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2193,993,6, misses a tip shot from 1 foot out.,missed,FALSE,FALSE,Tip Shot,26.3,5.849999999999994,400623,NA,NA,0,Colorado,Colorado,8
+2009-10,2010-01-12,913923,46,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2193,993,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,8
+2009-10,2010-01-12,913923,47,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2177,977,16, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,5.849999999999994,405832,NA,NA,0,Colorado,Colorado,9
+2009-10,2010-01-12,913923,48,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2177,977,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,9
+2009-10,2010-01-12,913923,49,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2169,969,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20.7,28.85,329667,NA,NA,0,Baylor,Baylor,10
+2009-10,2010-01-12,913923,50,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2169,969,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,10
+2009-10,2010-01-12,913923,51,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2159,959,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512998,NA,NA,0,Colorado,Colorado,11
+2009-10,2010-01-12,913923,52,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2159,959,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,11
+2009-10,2010-01-12,913923,53,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1313,Baylor,2142,942,17, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,25.7,8.55,331197,NA,NA,0,Baylor,Baylor,12
+2009-10,2010-01-12,913923,54,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,1360,Colorado,2142,942,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,12
+2009-10,2010-01-12,913923,60,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,6,4,2,NA,NA,2140,940,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,64.5,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,8,4,4,1360,Colorado,2119,919,21, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.8,12.25,400623,NA,NA,0,Colorado,Baylor,13
+2009-10,2010-01-12,913923,69,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,8,4,4,1313,Baylor,2117,917,2, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.7,30.25,469235,NA,NA,0,Baylor,Baylor,14
+2009-10,2010-01-12,913923,70,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,8,4,4,1313,Baylor,2117,917,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,14
+2009-10,2010-01-12,913923,71,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,8,7,1,1313,Baylor,2104,904,13, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.7,21.45,398437,NA,NA,0,Baylor,Colorado,14
+2009-10,2010-01-12,913923,72,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,11,7,4,1360,Colorado,2070,870,34, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.3,14.950000000000003,512995,NA,NA,0,Colorado,Baylor,15
+2009-10,2010-01-12,913923,73,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,11,9,2,1313,Baylor,2050,850,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469234,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-01-12,913923,87,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,11,9,2,1360,Colorado,2050,850,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-01-12,913923,88,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,11,9,2,1313,Baylor,2050,850,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-01-12,913923,89,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,11,9,2,1360,Colorado,2050,850,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,16
+2009-10,2010-01-12,913923,94,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1360,Colorado,2002,802,48, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,31,7.349999999999994,405832,NA,NA,0,Colorado,Baylor,17
+2009-10,2010-01-12,913923,95,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1969,769,33, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.3,26.75,331197,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,96,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1969,769,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,97,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1953,753,16, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,6.05,469234,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,98,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1953,753,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,99,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1947,747,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331197,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,100,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1947,747,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,18
+2009-10,2010-01-12,913923,102,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1940,740,7,Offensive foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,18
+2009-10,2010-01-12,913923,104,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1360,Colorado,1915,715,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458711,NA,NA,0,Colorado,Colorado,19
+2009-10,2010-01-12,913923,105,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1915,715,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,19
+2009-10,2010-01-12,913923,110,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1360,Colorado,1909,709,6,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,20
+2009-10,2010-01-12,913923,111,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,NA,NA,1909,709,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,115,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1360,Colorado,1875,675,34, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,24.950000000000003,400623,NA,NA,0,Colorado,Colorado,20
+2009-10,2010-01-12,913923,116,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,9,4,1313,Baylor,1875,675,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,20
+2009-10,2010-01-12,913923,117,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,13,11,2,1313,Baylor,1866,666,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,Colorado,21
+2009-10,2010-01-12,913923,118,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,15,11,4,1360,Colorado,1830,630,36, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,458711,NA,NA,0,Colorado,Baylor,22
+2009-10,2010-01-12,913923,119,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,15,11,4,1313,Baylor,1815,615,15, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,10.65,329667,NA,NA,0,Baylor,Baylor,23
+2009-10,2010-01-12,913923,120,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,15,11,4,1360,Colorado,1815,615,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,23
+2009-10,2010-01-12,913923,121,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,15,11,4,1360,Colorado,1792,592,23, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,21.349999999999994,329550,NA,NA,0,Colorado,Colorado,24
+2009-10,2010-01-12,913923,122,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,15,11,4,1360,Colorado,1792,592,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,24
+2009-10,2010-01-12,913923,126,0,1,Colorado,Baylor,Buffaloes,Bears,4,4,17,11,6,1360,Colorado,1773,573,19, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,32.8,19.349999999999994,329550,NA,NA,0,Colorado,Baylor,24
+2009-10,2010-01-12,913923,129,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,17,11,6,1313,Baylor,1752,552,21,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,131,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,17,11,6,1313,Baylor,1747,547,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,5.05,398437,NA,NA,0,Baylor,Baylor,25
+2009-10,2010-01-12,913923,132,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,17,11,6,1360,Colorado,1747,547,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,25
+2009-10,2010-01-12,913923,135,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,17,11,6,1313,Baylor,1730,530,17,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,26
+2009-10,2010-01-12,913923,136,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,18,11,7,1360,Colorado,1730,530,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,26
+2009-10,2010-01-12,913923,137,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,18,11,7,1360,Colorado,1730,530,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,26
+2009-10,2010-01-12,913923,138,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,18,11,7,1313,Baylor,1730,530,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,26
+2009-10,2010-01-12,913923,140,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,18,14,4,1313,Baylor,1702,502,28, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.5,29.05,329667,NA,NA,0,Baylor,Colorado,27
+2009-10,2010-01-12,913923,142,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,14,7,1360,Colorado,1680,480,22, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.5,10.849999999999994,400623,NA,NA,0,Colorado,Baylor,28
+2009-10,2010-01-12,913923,145,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,14,7,1360,Colorado,1658,458,22,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,29
+2009-10,2010-01-12,913923,146,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,14,7,NA,NA,1658,458,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,152,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,14,7,1313,Baylor,1631,431,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329668,NA,NA,0,Baylor,Baylor,29
+2009-10,2010-01-12,913923,153,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,14,7,1313,Baylor,1631,431,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,29
+2009-10,2010-01-12,913923,154,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,16,5,1313,Baylor,1627,427,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,26.3,6.65,329668,NA,NA,0,Baylor,Colorado,29
+2009-10,2010-01-12,913923,155,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,16,5,1360,Colorado,1596,396,31, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38,24.049999999999997,512995,NA,NA,0,Colorado,Colorado,30
+2009-10,2010-01-12,913923,156,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,16,5,1313,Baylor,1596,396,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,30
+2009-10,2010-01-12,913923,157,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,19,2,1313,Baylor,1567,367,29, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.7,28.65,398437,NA,NA,0,Baylor,Colorado,31
+2009-10,2010-01-12,913923,158,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,19,2,1360,Colorado,1538,338,29, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,13.950000000000003,458709,NA,NA,0,Colorado,Colorado,32
+2009-10,2010-01-12,913923,159,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,19,2,1313,Baylor,1538,338,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,32
+2009-10,2010-01-12,913923,160,0,1,Colorado,Baylor,Buffaloes,Bears,4,3,21,22,-1,1313,Baylor,1518,318,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5,12.65,398437,NA,NA,0,Baylor,Colorado,33
+2009-10,2010-01-12,913923,164,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,22,-1,1360,Colorado,1514,314,4,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,166,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,22,-1,1360,Colorado,1499,299,15, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,16.650000000000006,405832,NA,NA,0,Colorado,Colorado,34
+2009-10,2010-01-12,913923,167,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,22,-1,1313,Baylor,1499,299,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,34
+2009-10,2010-01-12,913923,169,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,22,-1,1360,Colorado,1495,295,4,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,35
+2009-10,2010-01-12,913923,171,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,25,-4,1313,Baylor,1487,287,8, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.8,21.45,398437,NA,NA,0,Baylor,Colorado,35
+2009-10,2010-01-12,913923,175,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,25,-4,1360,Colorado,1450,250,37, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.5,7.75,512995,NA,NA,0,Colorado,Colorado,36
+2009-10,2010-01-12,913923,176,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,21,25,-4,1360,Colorado,1450,250,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,36
+2009-10,2010-01-12,913923,179,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,23,25,-2,1360,Colorado,1445,245,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Colorado,36
+2009-10,2010-01-12,913923,180,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,23,25,-2,1313,Baylor,1445,245,0,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,36
+2009-10,2010-01-12,913923,181,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,25,-1,1360,Colorado,1445,245,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,36
+2009-10,2010-01-12,913923,189,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,27,-3,1313,Baylor,1411,211,34, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Baylor,37
+2009-10,2010-01-12,913923,190,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,27,-3,1360,Colorado,1411,211,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,37
+2009-10,2010-01-12,913923,191,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,27,-3,NA,NA,1411,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,192,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1313,Baylor,1411,211,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,37
+2009-10,2010-01-12,913923,198,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1313,Baylor,1358,158,53, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,19.15,329667,NA,NA,0,Baylor,Baylor,38
+2009-10,2010-01-12,913923,199,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1360,Colorado,1358,158,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,38
+2009-10,2010-01-12,913923,200,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1360,Colorado,1334,134,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512998,NA,NA,0,Colorado,Colorado,39
+2009-10,2010-01-12,913923,201,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1313,Baylor,1334,134,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,39
+2009-10,2010-01-12,913923,203,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1313,Baylor,1329,129,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,26.35,398437,NA,NA,0,Baylor,Baylor,40
+2009-10,2010-01-12,913923,204,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1360,Colorado,1329,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,40
+2009-10,2010-01-12,913923,206,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1360,Colorado,1313,113,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,41
+2009-10,2010-01-12,913923,207,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,28,-4,1313,Baylor,1313,113,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,41
+2009-10,2010-01-12,913923,208,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,24,30,-6,1313,Baylor,1296,96,17, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329668,NA,NA,0,Baylor,Colorado,42
+2009-10,2010-01-12,913923,209,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,26,30,-4,1360,Colorado,1267,67,29, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,32.2,18.75,513002,NA,NA,0,Colorado,Colorado,43
+2009-10,2010-01-12,913923,213,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,26,30,-4,1313,Baylor,1239,39,28,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,43
+2009-10,2010-01-12,913923,214,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,26,30,-4,1360,Colorado,1239,39,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,43
+2009-10,2010-01-12,913923,217,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,27,30,-3,1360,Colorado,1239,39,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,43
+2009-10,2010-01-12,913923,219,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,27,32,-5,1313,Baylor,1211,11,28, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329667,NA,NA,0,Baylor,Colorado,44
+2009-10,2010-01-12,913923,220,0,1,Colorado,Baylor,Buffaloes,Bears,3,3,27,32,-5,NA,NA,1200,0,11,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,224,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Colorado,45
+2009-10,2010-01-12,913923,226,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1360,Colorado,1189,1189,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512998,NA,NA,0,Colorado,Colorado,46
+2009-10,2010-01-12,913923,227,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1313,Baylor,1189,1189,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,46
+2009-10,2010-01-12,913923,228,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1313,Baylor,1183,1183,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,13.3,24.95,398437,NA,NA,0,Baylor,Baylor,47
+2009-10,2010-01-12,913923,229,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1360,Colorado,1183,1183,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,47
+2009-10,2010-01-12,913923,230,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1360,Colorado,1157,1157,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,5.650000000000006,458711,NA,NA,0,Colorado,Colorado,48
+2009-10,2010-01-12,913923,231,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,27,32,-5,1313,Baylor,1157,1157,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,48
+2009-10,2010-01-12,913923,232,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,29,32,-3,1360,Colorado,1133,1133,24, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,512995,NA,NA,0,Colorado,Baylor,49
+2009-10,2010-01-12,913923,233,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,29,34,-5,1313,Baylor,1098,1098,35, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26,11.25,329667,NA,NA,0,Baylor,Colorado,50
+2009-10,2010-01-12,913923,234,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,34,-3,1360,Colorado,1080,1080,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400623,NA,NA,0,Colorado,Baylor,51
+2009-10,2010-01-12,913923,238,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,36,-5,1313,Baylor,1047,1047,33, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,20.8,13.15,331197,NA,NA,0,Baylor,Colorado,52
+2009-10,2010-01-12,913923,239,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,36,-5,1360,Colorado,1000,1000,47, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.700000000000003,22.25,405832,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-01-12,913923,240,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,36,-5,1360,Colorado,1000,1000,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-01-12,913923,241,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,36,-5,1360,Colorado,995,995,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-01-12,913923,242,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,31,36,-5,1360,Colorado,995,995,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,53
+2009-10,2010-01-12,913923,243,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,33,36,-3,1360,Colorado,991,991,4, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,31.7,18.549999999999997,405832,NA,NA,0,Colorado,Baylor,53
+2009-10,2010-01-12,913923,244,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,33,38,-5,1313,Baylor,974,974,17, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329668,NA,NA,0,Baylor,Colorado,54
+2009-10,2010-01-12,913923,245,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,36,38,-2,1360,Colorado,950,950,24, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,6.950000000000003,458711,NA,NA,0,Colorado,Baylor,55
+2009-10,2010-01-12,913923,246,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,36,38,-2,1313,Baylor,917,917,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329667,NA,NA,0,Baylor,Baylor,56
+2009-10,2010-01-12,913923,247,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,36,38,-2,1360,Colorado,917,917,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,56
+2009-10,2010-01-12,913923,248,0,2,Colorado,Baylor,Buffaloes,Bears,4,4,38,38,0,1360,Colorado,909,909,8, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31.8,5.049999999999997,400623,NA,NA,0,Colorado,Baylor,57
+2009-10,2010-01-12,913923,253,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,38,0,1313,Baylor,902,902,7,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,257,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,38,0,1360,Colorado,890,890,12,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,58
+2009-10,2010-01-12,913923,258,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,38,0,NA,NA,890,890,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,260,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1313,Baylor,884,884,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,Colorado,58
+2009-10,2010-01-12,913923,261,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1360,Colorado,859,859,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400623,NA,NA,0,Colorado,Colorado,59
+2009-10,2010-01-12,913923,262,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1313,Baylor,859,859,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,59
+2009-10,2010-01-12,913923,264,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1360,Colorado,839,839,20,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,60
+2009-10,2010-01-12,913923,266,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1313,Baylor,822,822,17, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,12.65,469235,NA,NA,0,Baylor,Colorado,60
+2009-10,2010-01-12,913923,283,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1313,Baylor,797,797,25,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2009-10,2010-01-12,913923,285,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1360,Colorado,794,794,3, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,33,18.950000000000003,405832,NA,NA,0,Colorado,Colorado,61
+2009-10,2010-01-12,913923,286,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,38,40,-2,1360,Colorado,794,794,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2009-10,2010-01-12,913923,288,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,40,40,0,1360,Colorado,787,787,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,61
+2009-10,2010-01-12,913923,289,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,40,40,0,1313,Baylor,787,787,0,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,61
+2009-10,2010-01-12,913923,292,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,41,40,1,1360,Colorado,787,787,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,61
+2009-10,2010-01-12,913923,294,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,41,42,-1,1313,Baylor,769,769,18, makes a jump shot from 1 foot out.,made,FALSE,FALSE,Jump Shot,25.8,5.65,331197,NA,NA,0,Baylor,Colorado,62
+2009-10,2010-01-12,913923,296,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,41,42,-1,1313,Baylor,757,757,12,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,63
+2009-10,2010-01-12,913923,298,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,42,1,1360,Colorado,751,751,6, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,28.8,11.25,405832,NA,NA,0,Colorado,Baylor,63
+2009-10,2010-01-12,913923,299.5,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,42,1,1313,Baylor,751,751,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398437,NA,NA,0,Baylor,Baylor,64
+2009-10,2010-01-12,913923,300.25,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,42,1,1313,Baylor,751,751,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,64
+2009-10,2010-01-12,913923,301,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,42,1,1313,Baylor,727,727,24, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,7.35,398437,NA,NA,0,Baylor,Baylor,64
+2009-10,2010-01-12,913923,305,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1313,Baylor,714,714,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331197,NA,NA,0,Baylor,Colorado,64
+2009-10,2010-01-12,913923,330,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1360,Colorado,712,712,2,Offensive foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,65
+2009-10,2010-01-12,913923,331,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,NA,NA,712,712,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,338,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1313,Baylor,694,694,18,Offensive foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,66
+2009-10,2010-01-12,913923,341,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1313,Baylor,684,684,10,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,67
+2009-10,2010-01-12,913923,342,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1360,Colorado,684,684,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,67
+2009-10,2010-01-12,913923,345,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1360,Colorado,684,684,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,67
+2009-10,2010-01-12,913923,346,0,2,Colorado,Baylor,Buffaloes,Bears,4,3,43,44,-1,1313,Baylor,684,684,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,67
+2009-10,2010-01-12,913923,357,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,43,44,-1,1360,Colorado,664,664,20,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,364,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,43,44,-1,1313,Baylor,649,649,15,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,68
+2009-10,2010-01-12,913923,366,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,43,44,-1,1313,Baylor,621,621,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,28.85,398437,NA,NA,0,Baylor,Baylor,68
+2009-10,2010-01-12,913923,367,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,43,44,-1,1313,Baylor,621,621,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,68
+2009-10,2010-01-12,913923,368,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,43,46,-3,1313,Baylor,616,616,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,331197,NA,NA,0,Baylor,Colorado,68
+2009-10,2010-01-12,913923,369,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,46,46,0,1360,Colorado,591,591,25, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.5,16.049999999999997,329550,NA,NA,0,Colorado,Baylor,69
+2009-10,2010-01-12,913923,370,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,46,48,-2,1313,Baylor,571,571,20, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469234,NA,NA,0,Baylor,Colorado,70
+2009-10,2010-01-12,913923,371,0,2,Colorado,Baylor,Buffaloes,Bears,3,3,48,48,0,1360,Colorado,533,533,38, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,512995,NA,NA,0,Colorado,Baylor,71
+2009-10,2010-01-12,913923,386,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,48,48,0,1313,Baylor,520,520,13,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,391,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,50,48,2,1360,Colorado,488,488,32, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.3,9.849999999999994,400623,NA,NA,0,Colorado,Baylor,72
+2009-10,2010-01-12,913923,397,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,50,48,2,1360,Colorado,448,448,40,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,73
+2009-10,2010-01-12,913923,398,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,50,48,2,NA,NA,448,448,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,400,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,50,51,-1,1313,Baylor,438,438,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,41.7,19.95,398437,NA,NA,0,Baylor,Colorado,73
+2009-10,2010-01-12,913923,401,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,52,51,1,1360,Colorado,405,405,33, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,38.8,3.75,329550,NA,NA,0,Colorado,Baylor,74
+2009-10,2010-01-12,913923,422,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1360,Colorado,387,387,18, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.299999999999997,4.849999999999994,458711,NA,NA,0,Colorado,Baylor,75
+2009-10,2010-01-12,913923,423,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1313,Baylor,374,374,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,18.95,469235,NA,NA,0,Baylor,Baylor,76
+2009-10,2010-01-12,913923,424,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1313,Baylor,374,374,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,76
+2009-10,2010-01-12,913923,425,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1313,Baylor,368,368,6, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,10.8,16.45,398437,NA,NA,0,Baylor,Baylor,76
+2009-10,2010-01-12,913923,426,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1360,Colorado,368,368,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,76
+2009-10,2010-01-12,913923,428,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1360,Colorado,351,351,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,13.549999999999997,329550,NA,NA,0,Colorado,Colorado,77
+2009-10,2010-01-12,913923,429,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1313,Baylor,351,351,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,77
+2009-10,2010-01-12,913923,430,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1313,Baylor,343,343,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,23.7,29.25,329667,NA,NA,0,Baylor,Baylor,78
+2009-10,2010-01-12,913923,431,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,55,51,4,1360,Colorado,343,343,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,78
+2009-10,2010-01-12,913923,433,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,57,51,6,1360,Colorado,338,338,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Colorado,79
+2009-10,2010-01-12,913923,434,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,57,51,6,1313,Baylor,336,336,2,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,79
+2009-10,2010-01-12,913923,437,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,57,51,6,1360,Colorado,336,336,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,79
+2009-10,2010-01-12,913923,438,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,57,51,6,1313,Baylor,336,336,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,79
+2009-10,2010-01-12,913923,449,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,57,51,6,1313,Baylor,324,324,12,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,80
+2009-10,2010-01-12,913923,454,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,58,51,7,1360,Colorado,324,324,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,80
+2009-10,2010-01-12,913923,455,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,51,8,1360,Colorado,324,324,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,80
+2009-10,2010-01-12,913923,459,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,53,6,1313,Baylor,309,309,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Baylor,81
+2009-10,2010-01-12,913923,460,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,53,6,1360,Colorado,309,309,0,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,81
+2009-10,2010-01-12,913923,461,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,54,5,1313,Baylor,309,309,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,81
+2009-10,2010-01-12,913923,463,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,54,5,1360,Colorado,279,279,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,21.349999999999994,458711,NA,NA,0,Colorado,Colorado,82
+2009-10,2010-01-12,913923,464,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,54,5,1313,Baylor,279,279,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,82
+2009-10,2010-01-12,913923,468,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,59,54,5,1313,Baylor,263,263,16,Offensive foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,83
+2009-10,2010-01-12,913923,470,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,1360,Colorado,241,241,22, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,3.8499999999999943,512995,NA,NA,0,Colorado,Baylor,84
+2009-10,2010-01-12,913923,471,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,1313,Baylor,233,233,8, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,11.65,329667,NA,NA,0,Baylor,Baylor,85
+2009-10,2010-01-12,913923,472,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,1313,Baylor,233,233,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,85
+2009-10,2010-01-12,913923,481,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,1360,Colorado,221,221,12,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,85
+2009-10,2010-01-12,913923,482,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,NA,NA,221,221,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,485,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,54,7,1313,Baylor,221,221,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,85
+2009-10,2010-01-12,913923,488,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,55,6,1313,Baylor,221,221,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,85
+2009-10,2010-01-12,913923,490,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,55,6,1360,Colorado,201,201,20, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,21.650000000000006,400623,NA,NA,0,Colorado,Colorado,86
+2009-10,2010-01-12,913923,491,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,55,6,1313,Baylor,201,201,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,86
+2009-10,2010-01-12,913923,492,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,55,6,1313,Baylor,193,193,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,2.95,329667,NA,NA,0,Baylor,Baylor,87
+2009-10,2010-01-12,913923,493,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,61,55,6,1360,Colorado,193,193,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,87
+2009-10,2010-01-12,913923,494,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,55,9,1360,Colorado,164,164,29, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.5,17.450000000000003,400623,NA,NA,0,Colorado,Baylor,88
+2009-10,2010-01-12,913923,495,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,55,9,1313,Baylor,155,155,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398437,NA,NA,0,Baylor,Baylor,89
+2009-10,2010-01-12,913923,496,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,55,9,1313,Baylor,155,155,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,89
+2009-10,2010-01-12,913923,498,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,55,9,1360,Colorado,149,149,6,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,89
+2009-10,2010-01-12,913923,499,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,55,9,1313,Baylor,149,149,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,89
+2009-10,2010-01-12,913923,502,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,64,56,8,1313,Baylor,149,149,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,89
+2009-10,2010-01-12,913923,504,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1360,Colorado,131,131,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,405832,NA,NA,0,Colorado,Baylor,90
+2009-10,2010-01-12,913923,506,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1313,Baylor,116,116,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329667,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,507,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1313,Baylor,116,116,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,508,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1360,Colorado,113,113,3,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,511,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1313,Baylor,113,113,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,512,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1313,Baylor,113,113,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,515,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,56,10,1360,Colorado,112,112,1,Personal foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,516,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,57,9,1313,Baylor,112,112,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-01-12,913923,517,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,58,8,1313,Baylor,112,112,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,91
+2009-10,2010-01-12,913923,519,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,58,8,1360,Colorado,104,104,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512995,NA,NA,0,Colorado,Colorado,92
+2009-10,2010-01-12,913923,520,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,58,8,1313,Baylor,104,104,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,92
+2009-10,2010-01-12,913923,522,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,58,8,1313,Baylor,95,95,9,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,93
+2009-10,2010-01-12,913923,523,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,66,58,8,1360,Colorado,95,95,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,93
+2009-10,2010-01-12,913923,526,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,67,58,9,1360,Colorado,95,95,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,93
+2009-10,2010-01-12,913923,529,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,67,58,9,1360,Colorado,87,87,8,Shooting foul committed by Buffaloes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,94
+2009-10,2010-01-12,913923,530,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,67,59,8,1313,Baylor,87,87,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,94
+2009-10,2010-01-12,913923,531,0,2,Colorado,Baylor,Buffaloes,Bears,3,2,67,60,7,1313,Baylor,87,87,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,94
+2009-10,2010-01-12,913923,532,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,67,60,7,1360,Colorado,87,87,0,Buffaloes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,535,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,67,60,7,1313,Baylor,83,83,4,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,95
+2009-10,2010-01-12,913923,536,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,68,60,8,1360,Colorado,83,83,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,95
+2009-10,2010-01-12,913923,537,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,69,60,9,1360,Colorado,83,83,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,95
+2009-10,2010-01-12,913923,539,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,69,60,9,1313,Baylor,77,77,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331197,NA,NA,0,Baylor,Baylor,96
+2009-10,2010-01-12,913923,540,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,69,60,9,1313,Baylor,77,77,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,96
+2009-10,2010-01-12,913923,544,0,2,Colorado,Baylor,Buffaloes,Bears,2,2,69,62,7,1313,Baylor,72,72,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398438,NA,NA,0,Baylor,Colorado,96
+2009-10,2010-01-12,913923,545,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,69,62,7,1313,Baylor,72,72,0,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,547,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,69,62,7,1313,Baylor,71,71,1,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,97
+2009-10,2010-01-12,913923,548,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,70,62,8,1360,Colorado,71,71,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,97
+2009-10,2010-01-12,913923,549,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,71,62,9,1360,Colorado,71,71,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,97
+2009-10,2010-01-12,913923,551,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,71,65,6,1313,Baylor,64,64,7, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.2,28.85,329667,NA,NA,0,Baylor,Colorado,98
+2009-10,2010-01-12,913923,556,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,71,65,6,1313,Baylor,58,58,6,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,99
+2009-10,2010-01-12,913923,557,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,72,65,7,1360,Colorado,58,58,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,99
+2009-10,2010-01-12,913923,558,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,73,65,8,1360,Colorado,58,58,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,99
+2009-10,2010-01-12,913923,560,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,73,65,8,1313,Baylor,53,53,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.7,23.25,329667,NA,NA,0,Baylor,Colorado,100
+2009-10,2010-01-12,913923,563,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,73,65,8,1313,Baylor,49,49,4,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,101
+2009-10,2010-01-12,913923,564,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,65,9,1360,Colorado,49,49,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,101
+2009-10,2010-01-12,913923,565,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,65,9,1360,Colorado,49,49,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,101
+2009-10,2010-01-12,913923,566,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,65,9,1313,Baylor,49,49,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,101
+2009-10,2010-01-12,913923,568,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1313,Baylor,44,44,5, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,44,19.55,329667,NA,NA,0,Baylor,Colorado,102
+2009-10,2010-01-12,913923,574,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1313,Baylor,43,43,1,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,103
+2009-10,2010-01-12,913923,575,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1360,Colorado,43,43,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,103
+2009-10,2010-01-12,913923,578,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1360,Colorado,43,43,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,103
+2009-10,2010-01-12,913923,579,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1313,Baylor,43,43,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,103
+2009-10,2010-01-12,913923,582,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1313,Baylor,39,39,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,23.05,329667,NA,NA,0,Baylor,Baylor,104
+2009-10,2010-01-12,913923,583,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1360,Colorado,39,39,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,104
+2009-10,2010-01-12,913923,586,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1313,Baylor,32,32,7,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,105
+2009-10,2010-01-12,913923,589,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,74,68,6,1360,Colorado,32,32,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,105
+2009-10,2010-01-12,913923,592,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,75,68,7,1360,Colorado,32,32,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,105
+2009-10,2010-01-12,913923,597,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,75,68,7,1313,Baylor,23,23,9,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,106
+2009-10,2010-01-12,913923,598,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,75,68,7,1360,Colorado,23,23,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,106
+2009-10,2010-01-12,913923,601,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,76,68,8,1360,Colorado,23,23,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,106
+2009-10,2010-01-12,913923,603,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,76,68,8,1313,Baylor,21,21,2, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20,10.05,329667,NA,NA,0,Baylor,Baylor,107
+2009-10,2010-01-12,913923,604,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,76,68,8,1360,Colorado,21,21,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Colorado,107
+2009-10,2010-01-12,913923,606,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,76,68,8,1313,Baylor,15,15,6,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,108
+2009-10,2010-01-12,913923,607,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,77,68,9,1360,Colorado,15,15,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,108
+2009-10,2010-01-12,913923,608,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,78,68,10,1360,Colorado,15,15,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Baylor,108
+2009-10,2010-01-12,913923,611,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,78,71,7,1313,Baylor,5,5,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.699999999999999,8.15,331197,NA,NA,0,Baylor,Colorado,109
+2009-10,2010-01-12,913923,613,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,78,71,7,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-12,913923,614,0,2,Colorado,Baylor,Buffaloes,Bears,2,1,78,71,7,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Colorado,Colorado,NA

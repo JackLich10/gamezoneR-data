@@ -1,0 +1,307 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-03-12,962436,1,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Xavier,NA
+2009-10,2010-03-12,962436,5,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,0,0,0,1715,Xavier,2373,1173,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24,29.849999999999994,469338,NA,NA,0,Xavier,Xavier,1
+2009-10,2010-03-12,962436,10,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,2,0,2,1715,Xavier,2332,1132,41, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329708,NA,NA,0,Xavier,Dayton,1
+2009-10,2010-03-12,962436,12,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,2,2,0,1379,Dayton,2315,1115,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395656,NA,NA,0,Dayton,Xavier,2
+2009-10,2010-03-12,962436,13,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,2,2,0,1379,Dayton,2281,1081,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395656,NA,NA,0,Dayton,Dayton,3
+2009-10,2010-03-12,962436,14,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,2,2,0,1715,Xavier,2281,1081,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,3
+2009-10,2010-03-12,962436,16,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,2,2,1715,Xavier,2260,1060,21, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.8,10.049999999999997,401082,NA,NA,0,Xavier,Dayton,4
+2009-10,2010-03-12,962436,19,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,2,2,1379,Dayton,2255,1055,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462745,NA,NA,0,Dayton,Dayton,5
+2009-10,2010-03-12,962436,20,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,2,2,1715,Xavier,2255,1055,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,5
+2009-10,2010-03-12,962436,31,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,2,2,1715,Xavier,2231,1031,24,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,6
+2009-10,2010-03-12,962436,32,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,3,1,1379,Dayton,2231,1031,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,6
+2009-10,2010-03-12,962436,33,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,4,4,0,1379,Dayton,2231,1031,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,6
+2009-10,2010-03-12,962436,36,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,4,2,1715,Xavier,2216,1016,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469338,NA,NA,0,Xavier,Dayton,7
+2009-10,2010-03-12,962436,37,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,4,2,1379,Dayton,2207,1007,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,24.35,462744,NA,NA,0,Dayton,Dayton,8
+2009-10,2010-03-12,962436,38,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,4,2,1715,Xavier,2207,1007,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,8
+2009-10,2010-03-12,962436,39,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,4,2,1715,Xavier,2195,995,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,25.150000000000006,401687,NA,NA,0,Xavier,Xavier,9
+2009-10,2010-03-12,962436,40,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,4,2,1379,Dayton,2195,995,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,9
+2009-10,2010-03-12,962436,43,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,7,-1,1379,Dayton,2182,982,13, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32.8,29.25,329395,NA,NA,0,Dayton,Xavier,10
+2009-10,2010-03-12,962436,44,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,6,9,-3,1379,Dayton,2167,967,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329395,NA,NA,0,Dayton,Xavier,11
+2009-10,2010-03-12,962436,45,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,9,-1,1715,Xavier,2158,958,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329512,NA,NA,0,Xavier,Dayton,12
+2009-10,2010-03-12,962436,46,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,9,-1,1379,Dayton,2146,946,12, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,35,17.65,395656,NA,NA,0,Dayton,Dayton,13
+2009-10,2010-03-12,962436,47,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,9,-1,1715,Xavier,2146,946,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,13
+2009-10,2010-03-12,962436,48,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,11,-3,1379,Dayton,2139,939,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,462744,NA,NA,0,Dayton,Xavier,14
+2009-10,2010-03-12,962436,49,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,11,-3,1715,Xavier,2110,910,29, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,29.650000000000006,401082,NA,NA,0,Xavier,Xavier,15
+2009-10,2010-03-12,962436,50,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,11,-3,1379,Dayton,2110,910,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,15
+2009-10,2010-03-12,962436,51,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,13,-5,1379,Dayton,2096,896,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,395656,NA,NA,0,Dayton,Xavier,16
+2009-10,2010-03-12,962436,53,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,13,-5,1715,Xavier,2074,874,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.8,23.25,469338,NA,NA,0,Xavier,Xavier,17
+2009-10,2010-03-12,962436,54,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,13,-5,1715,Xavier,2074,874,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,17
+2009-10,2010-03-12,962436,56,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,13,-5,NA,NA,2071,871,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,58,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,8,13,-5,1379,Dayton,2071,871,0,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,17
+2009-10,2010-03-12,962436,59,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,9,13,-4,1715,Xavier,2071,871,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,17
+2009-10,2010-03-12,962436,60,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,13,-3,1715,Xavier,2071,871,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,17
+2009-10,2010-03-12,962436,65,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2060,860,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,462751,NA,NA,0,Dayton,Xavier,18
+2009-10,2010-03-12,962436,69,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2036,836,24,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,19
+2009-10,2010-03-12,962436,71,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,2020,820,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469339,NA,NA,0,Xavier,Xavier,19
+2009-10,2010-03-12,962436,72,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2020,820,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,19
+2009-10,2010-03-12,962436,78,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,2013,813,7,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,20
+2009-10,2010-03-12,962436,78.75,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2013,813,0, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329389,NA,NA,0,Dayton,Dayton,20
+2009-10,2010-03-12,962436,79.5,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2013,813,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,20
+2009-10,2010-03-12,962436,81,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,2010,810,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329389,NA,NA,0,Dayton,Dayton,20
+2009-10,2010-03-12,962436,82,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,2010,810,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,20
+2009-10,2010-03-12,962436,85,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,1991,791,19, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,23.5,8.150000000000006,469337,NA,NA,0,Xavier,Xavier,21
+2009-10,2010-03-12,962436,86,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,1991,791,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,21
+2009-10,2010-03-12,962436,88,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,1978,778,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401082,NA,NA,0,Xavier,Xavier,21
+2009-10,2010-03-12,962436,89,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1379,Dayton,1978,778,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,21
+2009-10,2010-03-12,962436,92,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,1976,776,2,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,22
+2009-10,2010-03-12,962436,100,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,15,-5,1715,Xavier,1965,765,11,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,22
+2009-10,2010-03-12,962436,102,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,18,-8,1379,Dayton,1960,760,5, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.7,8.15,462747,NA,NA,0,Dayton,Xavier,22
+2009-10,2010-03-12,962436,104,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,18,-8,1715,Xavier,1931,731,29, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.299999999999997,14.349999999999994,401687,NA,NA,0,Xavier,Xavier,23
+2009-10,2010-03-12,962436,105,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,10,18,-8,1715,Xavier,1931,731,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,23
+2009-10,2010-03-12,962436,106,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,1715,Xavier,1921,721,10, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,24.5,8.150000000000006,469337,NA,NA,0,Xavier,Dayton,23
+2009-10,2010-03-12,962436,109,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,1379,Dayton,1908,708,13,Offensive foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,24
+2009-10,2010-03-12,962436,110,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,NA,NA,1908,708,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,121,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,1715,Xavier,1883,683,25, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,24.8,8.349999999999994,329708,NA,NA,0,Xavier,Dayton,25
+2009-10,2010-03-12,962436,127,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,1379,Dayton,1859,659,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395656,NA,NA,0,Dayton,Dayton,26
+2009-10,2010-03-12,962436,131,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,18,-6,1715,Xavier,1856,656,3,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,26
+2009-10,2010-03-12,962436,132,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,19,-7,1379,Dayton,1856,656,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,26
+2009-10,2010-03-12,962436,133,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,12,20,-8,1379,Dayton,1856,656,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,26
+2009-10,2010-03-12,962436,135,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,20,-6,1715,Xavier,1832,632,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469338,NA,NA,0,Xavier,Dayton,27
+2009-10,2010-03-12,962436,138,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,20,-6,1715,Xavier,1815,615,17,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,28
+2009-10,2010-03-12,962436,139,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,21,-7,1379,Dayton,1815,615,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,28
+2009-10,2010-03-12,962436,140,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,21,-7,1379,Dayton,1815,615,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,28
+2009-10,2010-03-12,962436,141,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,21,-7,1715,Xavier,1815,615,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,28
+2009-10,2010-03-12,962436,146,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,23,-9,1379,Dayton,1805,605,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395656,NA,NA,0,Dayton,Xavier,29
+2009-10,2010-03-12,962436,149,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,14,23,-9,1379,Dayton,1784,584,21,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,30
+2009-10,2010-03-12,962436,151,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,17,23,-6,1715,Xavier,1774,574,10, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.200000000000003,21.150000000000006,401082,NA,NA,0,Xavier,Dayton,30
+2009-10,2010-03-12,962436,155,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,17,23,-6,1379,Dayton,1761,561,13,Offensive foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,31
+2009-10,2010-03-12,962436,160,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,17,23,-6,1379,Dayton,1751,551,10,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,32
+2009-10,2010-03-12,962436,162,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,17,23,-6,1379,Dayton,1728,528,23, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.3,6.05,296944,NA,NA,0,Dayton,Dayton,32
+2009-10,2010-03-12,962436,163,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,17,23,-6,1715,Xavier,1728,528,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,32
+2009-10,2010-03-12,962436,167,1,1,Xavier,Dayton,Musketeers,Flyers,4,4,19,23,-4,1715,Xavier,1720,520,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,469339,NA,NA,0,Xavier,Dayton,33
+2009-10,2010-03-12,962436,168,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,23,-4,1715,Xavier,1720,520,0,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,174,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1379,Dayton,1706,506,14, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.8,25.75,462744,NA,NA,0,Dayton,Xavier,34
+2009-10,2010-03-12,962436,175.5,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1715,Xavier,1693,493,13, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,4.25,401082,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,176.25,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1715,Xavier,1693,493,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,180,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1715,Xavier,1690,490,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329512,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,190,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1715,Xavier,1690,490,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,191,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1715,Xavier,1689,489,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,194,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,19,26,-7,1379,Dayton,1689,489,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,35
+2009-10,2010-03-12,962436,195,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,26,-6,1715,Xavier,1689,489,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,35
+2009-10,2010-03-12,962436,209,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,26,-6,1715,Xavier,1664,464,25, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.299999999999997,22.849999999999994,469339,NA,NA,0,Xavier,Xavier,36
+2009-10,2010-03-12,962436,210,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,26,-6,1379,Dayton,1664,464,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,36
+2009-10,2010-03-12,962436,216,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,29,-9,1379,Dayton,1634,434,30, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,47.2,10.25,329395,NA,NA,0,Dayton,Xavier,37
+2009-10,2010-03-12,962436,217,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,29,-9,NA,NA,1634,434,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,225,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,20,29,-9,1715,Xavier,1613,413,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329512,NA,NA,0,Xavier,Xavier,38
+2009-10,2010-03-12,962436,229,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1715,Xavier,1602,402,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469339,NA,NA,0,Xavier,Dayton,38
+2009-10,2010-03-12,962436,240,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1715,Xavier,1559,359,43, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.700000000000003,17.25,401687,NA,NA,0,Xavier,Xavier,39
+2009-10,2010-03-12,962436,241,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1379,Dayton,1559,359,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,39
+2009-10,2010-03-12,962436,245,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1715,Xavier,1554,354,5,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,40
+2009-10,2010-03-12,962436,246,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1379,Dayton,1554,354,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,40
+2009-10,2010-03-12,962436,248,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1379,Dayton,1554,354,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,40
+2009-10,2010-03-12,962436,249,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1715,Xavier,1554,354,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,40
+2009-10,2010-03-12,962436,251,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1715,Xavier,1543,343,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401082,NA,NA,0,Xavier,Xavier,41
+2009-10,2010-03-12,962436,252,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1379,Dayton,1543,343,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,41
+2009-10,2010-03-12,962436,269,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,22,29,-7,1379,Dayton,1492,292,51,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,42
+2009-10,2010-03-12,962436,270,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,23,29,-6,1715,Xavier,1492,292,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,42
+2009-10,2010-03-12,962436,271,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,29,-5,1715,Xavier,1492,292,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,42
+2009-10,2010-03-12,962436,275,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,31,-7,1379,Dayton,1483,283,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395656,NA,NA,0,Dayton,Dayton,43
+2009-10,2010-03-12,962436,276,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,31,-7,1715,Xavier,1483,283,0,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,43
+2009-10,2010-03-12,962436,277,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,31,-7,1379,Dayton,1483,283,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,43
+2009-10,2010-03-12,962436,278,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,31,-7,1715,Xavier,1483,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,43
+2009-10,2010-03-12,962436,288,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,24,31,-7,1379,Dayton,1472,272,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,8.95,462747,NA,NA,0,Dayton,Xavier,44
+2009-10,2010-03-12,962436,294,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,26,31,-5,1715,Xavier,1464,264,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469338,NA,NA,0,Xavier,Xavier,45
+2009-10,2010-03-12,962436,295,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,26,31,-5,1379,Dayton,1464,264,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,45
+2009-10,2010-03-12,962436,296,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1715,Xavier,1464,264,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,45
+2009-10,2010-03-12,962436,298,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1715,Xavier,1450,250,14, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.200000000000003,7.75,469338,NA,NA,0,Xavier,Xavier,46
+2009-10,2010-03-12,962436,299,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1450,250,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,46
+2009-10,2010-03-12,962436,301,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1715,Xavier,1432,232,18,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-03-12,962436,302,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,NA,NA,1432,232,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,303,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1432,232,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-03-12,962436,305,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1432,232,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-03-12,962436,306,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1432,232,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-03-12,962436,311,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1415,215,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,23.65,462744,NA,NA,0,Dayton,Dayton,47
+2009-10,2010-03-12,962436,312,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1715,Xavier,1415,215,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,47
+2009-10,2010-03-12,962436,317,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1379,Dayton,1411,211,4,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,48
+2009-10,2010-03-12,962436,318,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,27,31,-4,1715,Xavier,1411,211,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,48
+2009-10,2010-03-12,962436,320,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,31,-3,1715,Xavier,1411,211,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,48
+2009-10,2010-03-12,962436,329,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1395,195,16, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,462744,NA,NA,0,Dayton,Xavier,49
+2009-10,2010-03-12,962436,338,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1715,Xavier,1355,155,40, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,25.3,9.650000000000006,329708,NA,NA,0,Xavier,Xavier,50
+2009-10,2010-03-12,962436,339,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1355,155,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,50
+2009-10,2010-03-12,962436,340,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1344,144,11, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,14.95,329395,NA,NA,0,Dayton,Dayton,51
+2009-10,2010-03-12,962436,341,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1715,Xavier,1344,144,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,51
+2009-10,2010-03-12,962436,342,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1715,Xavier,1327,127,17, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,23.5,7.75,329708,NA,NA,0,Xavier,Xavier,52
+2009-10,2010-03-12,962436,343,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1327,127,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,52
+2009-10,2010-03-12,962436,344.5,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1319,119,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395656,NA,NA,0,Dayton,Dayton,53
+2009-10,2010-03-12,962436,345.25,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1715,Xavier,1319,119,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,53
+2009-10,2010-03-12,962436,354,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,28,33,-5,1379,Dayton,1316,116,3,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,54
+2009-10,2010-03-12,962436,355,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,29,33,-4,1715,Xavier,1316,116,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,54
+2009-10,2010-03-12,962436,356,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,30,33,-3,1715,Xavier,1316,116,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,54
+2009-10,2010-03-12,962436,363,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,30,35,-5,1379,Dayton,1305,105,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,395657,NA,NA,0,Dayton,Xavier,55
+2009-10,2010-03-12,962436,369,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,30,35,-5,1715,Xavier,1275,75,30, misses a hook shot from 2 feet out.,missed,FALSE,FALSE,Hook Shot,24,6.650000000000006,401082,NA,NA,0,Xavier,Xavier,56
+2009-10,2010-03-12,962436,370,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,30,35,-5,1715,Xavier,1275,75,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,56
+2009-10,2010-03-12,962436,373,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,32,35,-3,1715,Xavier,1273,73,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Xavier,56
+2009-10,2010-03-12,962436,374,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,32,35,-3,1379,Dayton,1273,73,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,56
+2009-10,2010-03-12,962436,375,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,33,35,-2,1715,Xavier,1273,73,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,56
+2009-10,2010-03-12,962436,377,1,1,Xavier,Dayton,Musketeers,Flyers,3,4,33,38,-5,1379,Dayton,1253,53,20, makes a 3-point jump shot from 28 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32.8,31.95,462744,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-03-12,962436,379,1,1,Xavier,Dayton,Musketeers,Flyers,3,3,33,38,-5,1379,Dayton,1245,45,8,Flyers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,383,1,1,Xavier,Dayton,Musketeers,Flyers,3,3,33,38,-5,1715,Xavier,1238,38,7,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-03-12,962436,383.5,1,1,Xavier,Dayton,Musketeers,Flyers,3,3,33,38,-5,1715,Xavier,1238,38,0,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-03-12,962436,384,1,1,Xavier,Dayton,Musketeers,Flyers,3,3,33,39,-6,1379,Dayton,1238,38,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,57
+2009-10,2010-03-12,962436,385,1,1,Xavier,Dayton,Musketeers,Flyers,3,3,33,40,-7,1379,Dayton,1238,38,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,57
+2009-10,2010-03-12,962436,392,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,33,40,-7,1715,Xavier,1227,27,11,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,396,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,33,40,-7,1379,Dayton,1206,6,21,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,58
+2009-10,2010-03-12,962436,397,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,34,40,-6,1715,Xavier,1206,6,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,58
+2009-10,2010-03-12,962436,398,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,35,40,-5,1715,Xavier,1206,6,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,58
+2009-10,2010-03-12,962436,401,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,35,40,-5,1379,Dayton,1201,1,5, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,11.05,462747,NA,NA,0,Dayton,Dayton,59
+2009-10,2010-03-12,962436,404,1,1,Xavier,Dayton,Musketeers,Flyers,2,3,35,40,-5,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,406,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Dayton,59
+2009-10,2010-03-12,962436,408,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,1379,Dayton,1185,1185,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,3.75,329395,NA,NA,0,Dayton,Dayton,60
+2009-10,2010-03-12,962436,409,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,1379,Dayton,1185,1185,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,60
+2009-10,2010-03-12,962436,410,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,1379,Dayton,1178,1178,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13.5,13.75,395656,NA,NA,0,Dayton,Dayton,60
+2009-10,2010-03-12,962436,411,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,1715,Xavier,1178,1178,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,60
+2009-10,2010-03-12,962436,412,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,40,-5,1715,Xavier,1159,1159,19, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14.799999999999997,28.450000000000003,469338,NA,NA,0,Xavier,Dayton,61
+2009-10,2010-03-12,962436,414,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,35,42,-7,1379,Dayton,1136,1136,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329389,NA,NA,0,Dayton,Xavier,62
+2009-10,2010-03-12,962436,415,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,38,42,-4,1715,Xavier,1128,1128,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.7,23.25,401687,NA,NA,0,Xavier,Dayton,63
+2009-10,2010-03-12,962436,416,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,38,44,-6,1379,Dayton,1119,1119,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329396,NA,NA,0,Dayton,Xavier,64
+2009-10,2010-03-12,962436,417,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1715,Xavier,1102,1102,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Dayton,65
+2009-10,2010-03-12,962436,418,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1379,Dayton,1092,1092,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,22.05,462744,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,419,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1379,Dayton,1092,1092,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,426,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1715,Xavier,1083,1083,9,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,435,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1379,Dayton,1074,1074,9, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.3,21.35,329395,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,436,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1379,Dayton,1074,1074,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,438,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,44,-4,1715,Xavier,1073,1073,1,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,440,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,45,-5,1379,Dayton,1073,1073,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,66
+2009-10,2010-03-12,962436,441,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,1073,1073,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,66
+2009-10,2010-03-12,962436,445,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,1059,1059,14,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,67
+2009-10,2010-03-12,962436,454,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,1045,1045,14,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,67
+2009-10,2010-03-12,962436,465,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,1018,1018,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,10.25,329395,NA,NA,0,Dayton,Dayton,67
+2009-10,2010-03-12,962436,466,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1715,Xavier,1018,1018,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,67
+2009-10,2010-03-12,962436,470,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,1000,1000,18,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,68
+2009-10,2010-03-12,962436,486,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1715,Xavier,992,992,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,8.75,401082,NA,NA,0,Xavier,Xavier,68
+2009-10,2010-03-12,962436,487,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,46,-6,1379,Dayton,992,992,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,68
+2009-10,2010-03-12,962436,492,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,48,-8,1379,Dayton,988,988,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329389,NA,NA,0,Dayton,Dayton,69
+2009-10,2010-03-12,962436,493,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,48,-8,1715,Xavier,988,988,0,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,69
+2009-10,2010-03-12,962436,494,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,49,-9,1379,Dayton,988,988,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,69
+2009-10,2010-03-12,962436,505,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,49,-9,1379,Dayton,975,975,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,296944,NA,NA,0,Dayton,Dayton,70
+2009-10,2010-03-12,962436,506,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,49,-9,1715,Xavier,975,975,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,70
+2009-10,2010-03-12,962436,509,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,40,49,-9,1379,Dayton,967,967,8,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,71
+2009-10,2010-03-12,962436,510,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,41,49,-8,1715,Xavier,967,967,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,71
+2009-10,2010-03-12,962436,511,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,49,-7,1715,Xavier,967,967,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,71
+2009-10,2010-03-12,962436,513,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,51,-9,1379,Dayton,949,949,18, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,25,7.75,395657,NA,NA,0,Dayton,Xavier,72
+2009-10,2010-03-12,962436,514,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,51,-9,1715,Xavier,935,935,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469338,NA,NA,0,Xavier,Xavier,73
+2009-10,2010-03-12,962436,515,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,51,-9,1379,Dayton,935,935,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,73
+2009-10,2010-03-12,962436,519,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,51,-9,NA,NA,929,929,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,522,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,51,-9,1715,Xavier,907,907,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329708,NA,NA,0,Xavier,Dayton,74
+2009-10,2010-03-12,962436,530,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1379,Dayton,889,889,18, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.7,10.45,462747,NA,NA,0,Dayton,Xavier,75
+2009-10,2010-03-12,962436,532,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1715,Xavier,867,867,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,7.950000000000003,469337,NA,NA,0,Xavier,Dayton,76
+2009-10,2010-03-12,962436,539,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1379,Dayton,835,835,32, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,29.05,395656,NA,NA,0,Dayton,Dayton,77
+2009-10,2010-03-12,962436,540,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1715,Xavier,835,835,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,77
+2009-10,2010-03-12,962436,541,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1379,Dayton,822,822,13, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,395656,NA,NA,0,Dayton,Dayton,78
+2009-10,2010-03-12,962436,542,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1379,Dayton,822,822,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,78
+2009-10,2010-03-12,962436,544,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,54,-12,1715,Xavier,810,810,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329708,NA,NA,0,Xavier,Dayton,78
+2009-10,2010-03-12,962436,552,1,2,Xavier,Dayton,Musketeers,Flyers,4,4,42,56,-14,1379,Dayton,795,795,15, makes a hook shot from 2 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,24.8,6.95,395656,NA,NA,0,Dayton,Xavier,79
+2009-10,2010-03-12,962436,567,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,42,56,-14,1715,Xavier,770,770,25,Musketeers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,576,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,42,56,-14,1379,Dayton,753,753,17,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,80
+2009-10,2010-03-12,962436,578,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,44,56,-12,1715,Xavier,711,711,42, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401082,NA,NA,0,Xavier,Dayton,80
+2009-10,2010-03-12,962436,579,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,44,59,-15,1379,Dayton,677,677,34, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.8,8.75,329395,NA,NA,0,Dayton,Xavier,81
+2009-10,2010-03-12,962436,581,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,44,59,-15,1379,Dayton,654,654,23,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,82
+2009-10,2010-03-12,962436,582,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,44,59,-15,NA,NA,654,654,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,583,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,45,59,-14,1715,Xavier,654,654,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,82
+2009-10,2010-03-12,962436,584,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,46,59,-13,1715,Xavier,654,654,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,82
+2009-10,2010-03-12,962436,589,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,46,59,-13,1715,Xavier,637,637,17,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,83
+2009-10,2010-03-12,962436,590,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,46,60,-14,1379,Dayton,637,637,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,83
+2009-10,2010-03-12,962436,591,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,46,61,-15,1379,Dayton,637,637,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,83
+2009-10,2010-03-12,962436,597,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1715,Xavier,614,614,23, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,39.3,25.75,469338,NA,NA,0,Xavier,Dayton,84
+2009-10,2010-03-12,962436,601,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1715,Xavier,597,597,17,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,85
+2009-10,2010-03-12,962436,613,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1379,Dayton,576,576,21,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,85
+2009-10,2010-03-12,962436,614,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1715,Xavier,576,576,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,85
+2009-10,2010-03-12,962436,615,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1379,Dayton,576,576,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,85
+2009-10,2010-03-12,962436,627,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1379,Dayton,549,549,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,27.85,462744,NA,NA,0,Dayton,Dayton,86
+2009-10,2010-03-12,962436,628,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,49,61,-12,1715,Xavier,549,549,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,86
+2009-10,2010-03-12,962436,631,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,51,61,-10,1715,Xavier,544,544,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401082,NA,NA,0,Xavier,Xavier,87
+2009-10,2010-03-12,962436,632,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,51,61,-10,1379,Dayton,544,544,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,87
+2009-10,2010-03-12,962436,634,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,52,61,-9,1715,Xavier,544,544,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,87
+2009-10,2010-03-12,962436,642,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,52,61,-9,1379,Dayton,523,523,21,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,87
+2009-10,2010-03-12,962436,643,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,53,61,-8,1715,Xavier,523,523,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,87
+2009-10,2010-03-12,962436,644,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1715,Xavier,523,523,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,87
+2009-10,2010-03-12,962436,652,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1715,Xavier,502,502,21,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,88
+2009-10,2010-03-12,962436,655,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1379,Dayton,489,489,13, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,26.95,462747,NA,NA,0,Dayton,Dayton,88
+2009-10,2010-03-12,962436,656,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1715,Xavier,489,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,88
+2009-10,2010-03-12,962436,657,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1715,Xavier,477,477,12, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,13.950000000000003,469338,NA,NA,0,Xavier,Xavier,89
+2009-10,2010-03-12,962436,658,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1379,Dayton,477,477,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,89
+2009-10,2010-03-12,962436,661,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1379,Dayton,464,464,13,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,90
+2009-10,2010-03-12,962436,662,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,NA,NA,464,464,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,663,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,54,61,-7,1715,Xavier,464,464,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,90
+2009-10,2010-03-12,962436,665,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,55,61,-6,1715,Xavier,464,464,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,90
+2009-10,2010-03-12,962436,670,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,55,61,-6,1715,Xavier,445,445,19,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,91
+2009-10,2010-03-12,962436,672,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,55,62,-7,1379,Dayton,445,445,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,91
+2009-10,2010-03-12,962436,673,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,55,63,-8,1379,Dayton,445,445,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,91
+2009-10,2010-03-12,962436,677,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,55,63,-8,1379,Dayton,427,427,18,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,92
+2009-10,2010-03-12,962436,678,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,56,63,-7,1715,Xavier,427,427,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,92
+2009-10,2010-03-12,962436,679,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,427,427,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,92
+2009-10,2010-03-12,962436,681,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1379,Dayton,400,400,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,15.8,16.65,395656,NA,NA,0,Dayton,Dayton,93
+2009-10,2010-03-12,962436,682,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,400,400,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,93
+2009-10,2010-03-12,962436,683,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,389,389,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,31.7,28.450000000000003,469338,NA,NA,0,Xavier,Xavier,94
+2009-10,2010-03-12,962436,684,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1379,Dayton,389,389,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,94
+2009-10,2010-03-12,962436,687,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1379,Dayton,377,377,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.3,6.25,329395,NA,NA,0,Dayton,Xavier,95
+2009-10,2010-03-12,962436,689,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1379,Dayton,377,377,0,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,96
+2009-10,2010-03-12,962436,690,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,377,377,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,96
+2009-10,2010-03-12,962436,692,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,377,377,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,96
+2009-10,2010-03-12,962436,693,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,57,63,-6,1715,Xavier,377,377,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,96
+2009-10,2010-03-12,962436,700,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,63,-4,1715,Xavier,353,353,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401082,NA,NA,0,Xavier,Dayton,96
+2009-10,2010-03-12,962436,704,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,63,-4,1379,Dayton,339,339,14,Offensive foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,97
+2009-10,2010-03-12,962436,709,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,63,-4,1715,Xavier,317,317,22,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,98
+2009-10,2010-03-12,962436,710,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,64,-5,1379,Dayton,317,317,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,98
+2009-10,2010-03-12,962436,711,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,65,-6,1379,Dayton,317,317,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,98
+2009-10,2010-03-12,962436,714,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,65,-6,1715,Xavier,297,297,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,13,25.75,401687,NA,NA,0,Xavier,Xavier,99
+2009-10,2010-03-12,962436,715,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,65,-6,1715,Xavier,297,297,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,99
+2009-10,2010-03-12,962436,717,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,59,65,-6,1379,Dayton,294,294,3,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,99
+2009-10,2010-03-12,962436,718,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1715,Xavier,294,294,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,99
+2009-10,2010-03-12,962436,719,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1715,Xavier,294,294,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,99
+2009-10,2010-03-12,962436,720,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1379,Dayton,294,294,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,99
+2009-10,2010-03-12,962436,727,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1379,Dayton,288,288,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462745,NA,NA,0,Dayton,Dayton,100
+2009-10,2010-03-12,962436,728,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1379,Dayton,288,288,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,100
+2009-10,2010-03-12,962436,734,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1715,Xavier,283,283,5,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,100
+2009-10,2010-03-12,962436,735,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1379,Dayton,283,283,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,100
+2009-10,2010-03-12,962436,737,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1379,Dayton,283,283,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,100
+2009-10,2010-03-12,962436,738,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,60,65,-5,1715,Xavier,283,283,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,100
+2009-10,2010-03-12,962436,742,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,62,65,-3,1715,Xavier,259,259,24, makes a hook shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,23.8,8.950000000000003,329708,NA,NA,0,Xavier,Dayton,101
+2009-10,2010-03-12,962436,743,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,62,65,-3,1379,Dayton,231,231,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,462751,NA,NA,0,Dayton,Dayton,102
+2009-10,2010-03-12,962436,744,1,2,Xavier,Dayton,Musketeers,Flyers,3,4,62,65,-3,1715,Xavier,231,231,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,102
+2009-10,2010-03-12,962436,746,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,62,65,-3,1715,Xavier,220,220,11,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,749,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,65,-1,1715,Xavier,211,211,9, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,29,9.150000000000006,469338,NA,NA,0,Xavier,Dayton,103
+2009-10,2010-03-12,962436,752,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,65,-1,NA,NA,208,208,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,764,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,65,-1,1379,Dayton,177,177,31, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,21.85,462747,NA,NA,0,Dayton,Dayton,104
+2009-10,2010-03-12,962436,765,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,65,-1,1379,Dayton,177,177,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,104
+2009-10,2010-03-12,962436,767,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,65,-1,1715,Xavier,176,176,1,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,104
+2009-10,2010-03-12,962436,768,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,66,-2,1379,Dayton,176,176,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,104
+2009-10,2010-03-12,962436,769,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,66,-2,1379,Dayton,176,176,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Dayton,104
+2009-10,2010-03-12,962436,770,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,64,66,-2,1715,Xavier,176,176,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,104
+2009-10,2010-03-12,962436,772,1,2,Xavier,Dayton,Musketeers,Flyers,2,4,66,66,0,1715,Xavier,159,159,17, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26.7,10.849999999999994,401082,NA,NA,0,Xavier,Dayton,105
+2009-10,2010-03-12,962436,774,1,2,Xavier,Dayton,Musketeers,Flyers,2,3,66,66,0,1379,Dayton,145,145,14,Flyers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,780,1,2,Xavier,Dayton,Musketeers,Flyers,2,3,66,66,0,1379,Dayton,128,128,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,24.8,5.45,329395,NA,NA,0,Dayton,Dayton,106
+2009-10,2010-03-12,962436,781,1,2,Xavier,Dayton,Musketeers,Flyers,2,3,66,66,0,1715,Xavier,128,128,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,106
+2009-10,2010-03-12,962436,795,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,66,66,0,1715,Xavier,123,123,5,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,806,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,66,66,0,1715,Xavier,97,97,26, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,22.650000000000006,469338,NA,NA,0,Xavier,Xavier,107
+2009-10,2010-03-12,962436,816,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,68,66,2,1715,Xavier,82,82,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469338,NA,NA,0,Xavier,Xavier,107
+2009-10,2010-03-12,962436,817,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,68,66,2,1379,Dayton,82,82,0,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,107
+2009-10,2010-03-12,962436,818,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,69,66,3,1715,Xavier,82,82,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,107
+2009-10,2010-03-12,962436,820,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,69,68,1,1379,Dayton,69,69,13, makes a hook shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25.5,9.35,395656,NA,NA,0,Dayton,Xavier,108
+2009-10,2010-03-12,962436,830,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,69,68,1,1379,Dayton,37,37,32,Shooting foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,109
+2009-10,2010-03-12,962436,831,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,69,68,1,1715,Xavier,37,37,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,109
+2009-10,2010-03-12,962436,833,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,70,68,2,1715,Xavier,37,37,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,109
+2009-10,2010-03-12,962436,842,1,2,Xavier,Dayton,Musketeers,Flyers,1,3,70,68,2,1379,Dayton,34,34,3,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,110
+2009-10,2010-03-12,962436,843,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,70,68,2,1379,Dayton,34,34,0,Flyers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,845,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,71,68,3,1715,Xavier,34,34,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,110
+2009-10,2010-03-12,962436,846,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,72,68,4,1715,Xavier,34,34,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,110
+2009-10,2010-03-12,962436,850,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,72,68,4,1379,Dayton,32,32,2,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,111
+2009-10,2010-03-12,962436,852,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,73,68,5,1715,Xavier,32,32,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,111
+2009-10,2010-03-12,962436,853,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,74,68,6,1715,Xavier,32,32,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,111
+2009-10,2010-03-12,962436,855,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,74,68,6,1379,Dayton,24,24,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.3,25.95,329395,NA,NA,0,Dayton,Dayton,112
+2009-10,2010-03-12,962436,856,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,74,68,6,1715,Xavier,24,24,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,112
+2009-10,2010-03-12,962436,865,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,74,68,6,1379,Dayton,21,21,3,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,113
+2009-10,2010-03-12,962436,866,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,75,68,7,1715,Xavier,21,21,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,113
+2009-10,2010-03-12,962436,867,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,76,68,8,1715,Xavier,21,21,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,113
+2009-10,2010-03-12,962436,879,1,2,Xavier,Dayton,Musketeers,Flyers,1,2,76,70,6,1379,Dayton,12,12,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329395,NA,NA,0,Dayton,Xavier,114
+2009-10,2010-03-12,962436,880,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,76,70,6,1379,Dayton,12,12,0,Flyers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,892,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,76,70,6,1379,Dayton,10,10,2, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,9.15,462747,NA,NA,0,Dayton,Dayton,115
+2009-10,2010-03-12,962436,893,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,76,70,6,1715,Xavier,10,10,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Dayton,Xavier,115
+2009-10,2010-03-12,962436,903,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,76,70,6,1379,Dayton,8,8,2,Personal foul committed by Flyers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,116
+2009-10,2010-03-12,962436,904,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,77,70,7,1715,Xavier,8,8,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,116
+2009-10,2010-03-12,962436,905,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,78,70,8,1715,Xavier,8,8,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Dayton,116
+2009-10,2010-03-12,962436,911,1,2,Xavier,Dayton,Musketeers,Flyers,1,1,78,73,5,1379,Dayton,2,2,6, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.7,29.45,329395,NA,NA,0,Dayton,Xavier,117
+2009-10,2010-03-12,962436,912,1,2,Xavier,Dayton,Musketeers,Flyers,0,1,78,73,5,1715,Xavier,2,2,0,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,914,1,2,Xavier,Dayton,Musketeers,Flyers,0,1,78,73,5,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-12,962436,915,1,2,Xavier,Dayton,Musketeers,Flyers,0,1,78,73,5,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,NA

@@ -1,0 +1,233 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-16,928562,1,0,1,Rice,Memphis,Owls,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Memphis,NA
+2009-10,2010-01-16,928562,7,0,1,Rice,Memphis,Owls,Tigers,4,4,0,0,0,1493,Memphis,2367,1167,33, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,24.75,329996,NA,NA,0,Memphis,Memphis,1
+2009-10,2010-01-16,928562,8,0,1,Rice,Memphis,Owls,Tigers,4,4,0,2,-2,1493,Memphis,2362,1162,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,25.7,7.75,329997,NA,NA,0,Memphis,Rice,1
+2009-10,2010-01-16,928562,9,0,1,Rice,Memphis,Owls,Tigers,4,4,2,2,0,1582,Rice,2340,1140,22, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22.7,7.150000000000006,339839,NA,NA,0,Rice,Memphis,2
+2009-10,2010-01-16,928562,10,0,1,Rice,Memphis,Owls,Tigers,4,4,2,5,-3,1493,Memphis,2316,1116,24, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,48.3,4.25,467272,NA,NA,0,Memphis,Rice,3
+2009-10,2010-01-16,928562,11,0,1,Rice,Memphis,Owls,Tigers,4,4,2,5,-3,1582,Rice,2293,1093,23, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,16.25,399614,NA,NA,0,Rice,Memphis,4
+2009-10,2010-01-16,928562,12,0,1,Rice,Memphis,Owls,Tigers,4,4,2,7,-5,1493,Memphis,2278,1078,15, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.5,9.85,467272,NA,NA,0,Memphis,Rice,5
+2009-10,2010-01-16,928562,15,0,1,Rice,Memphis,Owls,Tigers,4,4,2,7,-5,1493,Memphis,2263,1063,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2009-10,2010-01-16,928562,16,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2263,1063,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2009-10,2010-01-16,928562,17,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2263,1063,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,6
+2009-10,2010-01-16,928562,19,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2237,1037,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Rice,6
+2009-10,2010-01-16,928562,20,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2232,1032,5, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27,7.349999999999994,506617,NA,NA,0,Rice,Memphis,6
+2009-10,2010-01-16,928562,21,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1493,Memphis,2225,1025,7, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,36.5,31.75,329519,NA,NA,0,Memphis,Rice,7
+2009-10,2010-01-16,928562,29,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2202,1002,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,14.349999999999994,473209,NA,NA,0,Rice,Memphis,8
+2009-10,2010-01-16,928562,30,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1493,Memphis,2190,990,12, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39.2,6.95,329519,NA,NA,0,Memphis,Rice,9
+2009-10,2010-01-16,928562,31,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1582,Rice,2168,968,22, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,8.700000000000003,27.349999999999994,473209,NA,NA,0,Rice,Memphis,10
+2009-10,2010-01-16,928562,32,0,1,Rice,Memphis,Owls,Tigers,4,4,3,7,-4,1493,Memphis,2158,958,10, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,15.35,524963,NA,NA,0,Memphis,Memphis,11
+2009-10,2010-01-16,928562,33,0,1,Rice,Memphis,Owls,Tigers,4,4,3,9,-6,1493,Memphis,2153,953,5, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,18.2,15.35,467272,NA,NA,0,Memphis,Rice,11
+2009-10,2010-01-16,928562,34,0,1,Rice,Memphis,Owls,Tigers,4,4,5,9,-4,1582,Rice,2136,936,17, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506617,NA,NA,0,Rice,Memphis,12
+2009-10,2010-01-16,928562,35,0,1,Rice,Memphis,Owls,Tigers,4,4,5,9,-4,1493,Memphis,2106,906,30, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,14.35,329997,NA,NA,0,Memphis,Rice,13
+2009-10,2010-01-16,928562,36,0,1,Rice,Memphis,Owls,Tigers,4,4,5,9,-4,1582,Rice,2089,889,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,9.849999999999994,399614,NA,NA,0,Rice,Memphis,14
+2009-10,2010-01-16,928562,37,0,1,Rice,Memphis,Owls,Tigers,4,4,5,11,-6,1493,Memphis,2084,884,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,Rice,15
+2009-10,2010-01-16,928562,40,0,1,Rice,Memphis,Owls,Tigers,4,4,5,11,-6,1493,Memphis,2061,861,23,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,16
+2009-10,2010-01-16,928562,41,0,1,Rice,Memphis,Owls,Tigers,4,4,5,11,-6,NA,NA,2061,861,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,43,0,1,Rice,Memphis,Owls,Tigers,4,4,6,11,-5,1582,Rice,2061,861,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,16
+2009-10,2010-01-16,928562,44,0,1,Rice,Memphis,Owls,Tigers,4,4,6,11,-5,1582,Rice,2061,861,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,16
+2009-10,2010-01-16,928562,49,0,1,Rice,Memphis,Owls,Tigers,4,4,6,14,-8,1493,Memphis,2045,845,16, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26.7,30.05,467272,NA,NA,0,Memphis,Rice,17
+2009-10,2010-01-16,928562,52,0,1,Rice,Memphis,Owls,Tigers,4,4,6,14,-8,1493,Memphis,2005,805,40,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,18
+2009-10,2010-01-16,928562,53,0,1,Rice,Memphis,Owls,Tigers,4,4,7,14,-7,1582,Rice,2005,805,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,18
+2009-10,2010-01-16,928562,54,0,1,Rice,Memphis,Owls,Tigers,4,4,8,14,-6,1582,Rice,2005,805,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,18
+2009-10,2010-01-16,928562,60,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1493,Memphis,1985,785,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,Rice,19
+2009-10,2010-01-16,928562,61,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1582,Rice,1950,750,35, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,7.75,506616,NA,NA,0,Rice,Memphis,20
+2009-10,2010-01-16,928562,62,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1493,Memphis,1942,742,8, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,9.5,27.85,467272,NA,NA,0,Memphis,Memphis,21
+2009-10,2010-01-16,928562,71,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1582,Rice,1925,725,17,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,21
+2009-10,2010-01-16,928562,76,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1493,Memphis,1904,704,21, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,13.55,329996,NA,NA,0,Memphis,Rice,21
+2009-10,2010-01-16,928562,77,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1582,Rice,1896,696,8, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,8.349999999999994,506617,NA,NA,0,Rice,Rice,22
+2009-10,2010-01-16,928562,81,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,NA,NA,1894,694,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,86,0,1,Rice,Memphis,Owls,Tigers,4,4,8,16,-8,1582,Rice,1880,680,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339839,NA,NA,0,Rice,Rice,22
+2009-10,2010-01-16,928562,87,0,1,Rice,Memphis,Owls,Tigers,4,4,10,16,-6,1582,Rice,1874,674,6, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,25.2,8.150000000000006,506617,NA,NA,0,Rice,Memphis,22
+2009-10,2010-01-16,928562,90,0,1,Rice,Memphis,Owls,Tigers,4,4,10,16,-6,1493,Memphis,1851,651,23,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,23
+2009-10,2010-01-16,928562,95,0,1,Rice,Memphis,Owls,Tigers,4,4,10,16,-6,1582,Rice,1825,625,26,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,23
+2009-10,2010-01-16,928562,96,0,1,Rice,Memphis,Owls,Tigers,4,4,10,17,-7,1493,Memphis,1825,625,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,23
+2009-10,2010-01-16,928562,97,0,1,Rice,Memphis,Owls,Tigers,4,4,10,17,-7,1493,Memphis,1825,625,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,23
+2009-10,2010-01-16,928562,99,0,1,Rice,Memphis,Owls,Tigers,4,4,10,17,-7,1582,Rice,1815,615,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,23.849999999999994,458971,NA,NA,0,Rice,Rice,24
+2009-10,2010-01-16,928562,108,0,1,Rice,Memphis,Owls,Tigers,4,4,12,17,-5,1582,Rice,1804,604,11, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,25.7,12.75,506616,NA,NA,0,Rice,Memphis,24
+2009-10,2010-01-16,928562,109,0,1,Rice,Memphis,Owls,Tigers,4,4,12,20,-8,1493,Memphis,1790,590,14, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,43.2,20.95,329996,NA,NA,0,Memphis,Rice,25
+2009-10,2010-01-16,928562,114,0,1,Rice,Memphis,Owls,Tigers,4,4,14,20,-6,1582,Rice,1767,567,23, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,36.5,16.849999999999994,399613,NA,NA,0,Rice,Rice,26
+2009-10,2010-01-16,928562,118,0,1,Rice,Memphis,Owls,Tigers,4,4,14,20,-6,1493,Memphis,1752,552,15,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,26
+2009-10,2010-01-16,928562,119,0,1,Rice,Memphis,Owls,Tigers,4,4,15,20,-5,1582,Rice,1752,552,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,26
+2009-10,2010-01-16,928562,120,0,1,Rice,Memphis,Owls,Tigers,4,4,16,20,-4,1582,Rice,1752,552,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,26
+2009-10,2010-01-16,928562,125,0,1,Rice,Memphis,Owls,Tigers,4,4,16,20,-4,1493,Memphis,1740,540,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24,30.05,329519,NA,NA,0,Memphis,Rice,27
+2009-10,2010-01-16,928562,126,0,1,Rice,Memphis,Owls,Tigers,4,4,19,20,-1,1582,Rice,1730,530,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,23.7,30.25,339839,NA,NA,0,Rice,Memphis,28
+2009-10,2010-01-16,928562,130,0,1,Rice,Memphis,Owls,Tigers,4,3,19,20,-1,1493,Memphis,1727,527,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,138,0,1,Rice,Memphis,Owls,Tigers,4,3,19,20,-1,1493,Memphis,1703,503,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,16.45,329996,NA,NA,0,Memphis,Memphis,29
+2009-10,2010-01-16,928562,139,0,1,Rice,Memphis,Owls,Tigers,4,3,19,20,-1,1493,Memphis,1700,500,3, misses a jump shot from 2 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,7.35,464840,NA,NA,0,Memphis,Memphis,29
+2009-10,2010-01-16,928562,148,0,1,Rice,Memphis,Owls,Tigers,4,3,19,20,-1,1582,Rice,1699,499,1,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,29
+2009-10,2010-01-16,928562,149,0,1,Rice,Memphis,Owls,Tigers,4,3,19,21,-2,1493,Memphis,1699,499,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,29
+2009-10,2010-01-16,928562,150,0,1,Rice,Memphis,Owls,Tigers,4,3,19,22,-3,1493,Memphis,1699,499,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,29
+2009-10,2010-01-16,928562,155,0,1,Rice,Memphis,Owls,Tigers,4,3,21,22,-1,1582,Rice,1679,479,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Memphis,30
+2009-10,2010-01-16,928562,157,0,1,Rice,Memphis,Owls,Tigers,4,3,21,22,-1,1582,Rice,1665,465,14,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,31
+2009-10,2010-01-16,928562,158,0,1,Rice,Memphis,Owls,Tigers,4,3,21,22,-1,NA,NA,1665,465,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,160,0,1,Rice,Memphis,Owls,Tigers,4,3,21,23,-2,1493,Memphis,1665,465,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,31
+2009-10,2010-01-16,928562,161,0,1,Rice,Memphis,Owls,Tigers,4,3,21,24,-3,1493,Memphis,1665,465,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,31
+2009-10,2010-01-16,928562,170,0,1,Rice,Memphis,Owls,Tigers,4,3,21,27,-6,1493,Memphis,1637,437,28, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,47.3,10.45,329995,NA,NA,0,Memphis,Rice,32
+2009-10,2010-01-16,928562,175,0,1,Rice,Memphis,Owls,Tigers,4,3,21,27,-6,1582,Rice,1614,414,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,23.25,339839,NA,NA,0,Rice,Memphis,33
+2009-10,2010-01-16,928562,178,0,1,Rice,Memphis,Owls,Tigers,4,3,21,27,-6,1493,Memphis,1597,397,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,27,31.15,329996,NA,NA,0,Memphis,Rice,34
+2009-10,2010-01-16,928562,183,0,1,Rice,Memphis,Owls,Tigers,4,3,21,27,-6,1493,Memphis,1596,396,1,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,35
+2009-10,2010-01-16,928562,187,0,1,Rice,Memphis,Owls,Tigers,4,3,23,27,-4,1582,Rice,1574,374,22, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,37.2,14.549999999999997,339839,NA,NA,0,Rice,Memphis,35
+2009-10,2010-01-16,928562,188,0,1,Rice,Memphis,Owls,Tigers,4,3,23,27,-4,1493,Memphis,1562,362,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Rice,36
+2009-10,2010-01-16,928562,192,0,1,Rice,Memphis,Owls,Tigers,4,3,23,27,-4,1493,Memphis,1558,358,4,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,37
+2009-10,2010-01-16,928562,193,0,1,Rice,Memphis,Owls,Tigers,4,3,24,27,-3,1582,Rice,1558,358,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,37
+2009-10,2010-01-16,928562,194,0,1,Rice,Memphis,Owls,Tigers,4,3,24,27,-3,1582,Rice,1558,358,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,37
+2009-10,2010-01-16,928562,196,0,1,Rice,Memphis,Owls,Tigers,4,3,24,29,-5,1493,Memphis,1548,348,10, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22.2,6.95,329995,NA,NA,0,Memphis,Rice,38
+2009-10,2010-01-16,928562,200,0,1,Rice,Memphis,Owls,Tigers,4,3,24,32,-8,1493,Memphis,1495,295,53, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,45.2,13.15,329995,NA,NA,0,Memphis,Rice,39
+2009-10,2010-01-16,928562,202,0,1,Rice,Memphis,Owls,Tigers,4,3,26,32,-6,1582,Rice,1475,275,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458971,NA,NA,0,Rice,Rice,40
+2009-10,2010-01-16,928562,203,0,1,Rice,Memphis,Owls,Tigers,4,3,26,32,-6,1493,Memphis,1475,275,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,40
+2009-10,2010-01-16,928562,204,0,1,Rice,Memphis,Owls,Tigers,4,3,27,32,-5,1582,Rice,1475,275,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,40
+2009-10,2010-01-16,928562,208,0,1,Rice,Memphis,Owls,Tigers,4,3,27,32,-5,1493,Memphis,1455,255,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,21.15,464840,NA,NA,0,Memphis,Memphis,41
+2009-10,2010-01-16,928562,212,0,1,Rice,Memphis,Owls,Tigers,4,3,27,32,-5,1582,Rice,1432,232,23,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,41
+2009-10,2010-01-16,928562,213,0,1,Rice,Memphis,Owls,Tigers,4,3,27,32,-5,NA,NA,1432,232,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,216,0,1,Rice,Memphis,Owls,Tigers,4,3,27,34,-7,1493,Memphis,1430,230,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467272,NA,NA,0,Memphis,Memphis,41
+2009-10,2010-01-16,928562,217,0,1,Rice,Memphis,Owls,Tigers,4,3,27,34,-7,1582,Rice,1430,230,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,41
+2009-10,2010-01-16,928562,219,0,1,Rice,Memphis,Owls,Tigers,4,3,27,35,-8,1493,Memphis,1429,229,1, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,41
+2009-10,2010-01-16,928562,226,0,1,Rice,Memphis,Owls,Tigers,4,3,27,35,-8,1582,Rice,1401,201,28, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,8.950000000000003,473209,NA,NA,0,Rice,Memphis,42
+2009-10,2010-01-16,928562,227,0,1,Rice,Memphis,Owls,Tigers,4,3,27,35,-8,1493,Memphis,1391,191,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Memphis,43
+2009-10,2010-01-16,928562,228,0,1,Rice,Memphis,Owls,Tigers,4,3,27,37,-10,1493,Memphis,1386,186,5, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,25.3,8.15,329997,NA,NA,0,Memphis,Rice,43
+2009-10,2010-01-16,928562,231,0,1,Rice,Memphis,Owls,Tigers,3,3,27,37,-10,1582,Rice,1381,181,5,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,237,0,1,Rice,Memphis,Owls,Tigers,3,3,27,37,-10,1582,Rice,1354,154,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,30.7,17.849999999999994,506616,NA,NA,0,Rice,Memphis,44
+2009-10,2010-01-16,928562,238,0,1,Rice,Memphis,Owls,Tigers,3,3,27,37,-10,1493,Memphis,1324,124,30, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,10.05,329997,NA,NA,0,Memphis,Rice,45
+2009-10,2010-01-16,928562,242,0,1,Rice,Memphis,Owls,Tigers,3,3,27,37,-10,1582,Rice,1288,88,36, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,25.150000000000006,473209,NA,NA,0,Rice,Rice,46
+2009-10,2010-01-16,928562,245,0,1,Rice,Memphis,Owls,Tigers,3,3,27,37,-10,1582,Rice,1270,70,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506617,NA,NA,0,Rice,Memphis,46
+2009-10,2010-01-16,928562,246,0,1,Rice,Memphis,Owls,Tigers,3,3,27,39,-12,1493,Memphis,1263,63,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329997,NA,NA,0,Memphis,Rice,47
+2009-10,2010-01-16,928562,252,0,1,Rice,Memphis,Owls,Tigers,3,3,27,39,-12,1493,Memphis,1246,46,17,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,48
+2009-10,2010-01-16,928562,253,0,1,Rice,Memphis,Owls,Tigers,3,3,28,39,-11,1582,Rice,1246,46,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,48
+2009-10,2010-01-16,928562,254,0,1,Rice,Memphis,Owls,Tigers,3,3,29,39,-10,1582,Rice,1246,46,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,48
+2009-10,2010-01-16,928562,283,0,1,Rice,Memphis,Owls,Tigers,3,3,29,39,-10,1582,Rice,1206,6,40, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,49
+2009-10,2010-01-16,928562,287,0,1,Rice,Memphis,Owls,Tigers,3,3,29,39,-10,NA,NA,1200,0,6,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,288,0,2,Rice,Memphis,Owls,Tigers,4,4,29,39,-10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Rice,49
+2009-10,2010-01-16,928562,290,0,2,Rice,Memphis,Owls,Tigers,4,4,32,39,-7,1582,Rice,1189,1189,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,16.5,27.450000000000003,339839,NA,NA,0,Rice,Memphis,50
+2009-10,2010-01-16,928562,293,0,2,Rice,Memphis,Owls,Tigers,4,4,32,41,-9,1493,Memphis,1172,1172,17, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,23.2,7.15,467272,NA,NA,0,Memphis,Memphis,51
+2009-10,2010-01-16,928562,294,0,2,Rice,Memphis,Owls,Tigers,4,4,32,41,-9,1582,Rice,1172,1172,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,51
+2009-10,2010-01-16,928562,295,0,2,Rice,Memphis,Owls,Tigers,4,4,32,41,-9,1493,Memphis,1172,1172,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,51
+2009-10,2010-01-16,928562,300,0,2,Rice,Memphis,Owls,Tigers,4,4,34,41,-7,1582,Rice,1161,1161,11, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22.7,6.650000000000006,506617,NA,NA,0,Rice,Memphis,52
+2009-10,2010-01-16,928562,301,0,2,Rice,Memphis,Owls,Tigers,4,4,34,41,-7,1493,Memphis,1147,1147,14, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,24,10.25,329997,NA,NA,0,Memphis,Memphis,53
+2009-10,2010-01-16,928562,309,0,2,Rice,Memphis,Owls,Tigers,4,4,34,41,-7,1582,Rice,1140,1140,7,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,53
+2009-10,2010-01-16,928562,312,0,2,Rice,Memphis,Owls,Tigers,4,4,34,44,-10,1493,Memphis,1138,1138,2, makes a 3-point jump shot from 36 feet out.,made,FALSE,TRUE,Jump Shot,3.1999999999999993,33.25,329996,NA,NA,0,Memphis,Rice,53
+2009-10,2010-01-16,928562,316,0,2,Rice,Memphis,Owls,Tigers,4,4,34,44,-10,1493,Memphis,1119,1119,19,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,54
+2009-10,2010-01-16,928562,321,0,2,Rice,Memphis,Owls,Tigers,4,4,34,44,-10,1582,Rice,1087,1087,32, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,6.75,506616,NA,NA,0,Rice,Memphis,54
+2009-10,2010-01-16,928562,322,0,2,Rice,Memphis,Owls,Tigers,4,4,34,47,-13,1493,Memphis,1073,1073,14, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,45.5,16.25,329519,NA,NA,0,Memphis,Rice,55
+2009-10,2010-01-16,928562,324,0,2,Rice,Memphis,Owls,Tigers,4,4,34,47,-13,1582,Rice,1053,1053,20, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,12.75,339839,NA,NA,0,Rice,Rice,56
+2009-10,2010-01-16,928562,325,0,2,Rice,Memphis,Owls,Tigers,4,4,36,47,-11,1582,Rice,1049,1049,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339839,NA,NA,0,Rice,Memphis,56
+2009-10,2010-01-16,928562,327,0,2,Rice,Memphis,Owls,Tigers,4,4,36,47,-11,1493,Memphis,1040,1040,9, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,29,20.95,464840,NA,NA,0,Memphis,Memphis,57
+2009-10,2010-01-16,928562,335,0,2,Rice,Memphis,Owls,Tigers,4,4,36,47,-11,1582,Rice,1027,1027,13,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,57
+2009-10,2010-01-16,928562,336,0,2,Rice,Memphis,Owls,Tigers,4,4,36,47,-11,1493,Memphis,1027,1027,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,57
+2009-10,2010-01-16,928562,337,0,2,Rice,Memphis,Owls,Tigers,4,4,36,48,-12,1493,Memphis,1027,1027,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,57
+2009-10,2010-01-16,928562,344,0,2,Rice,Memphis,Owls,Tigers,4,4,36,48,-12,1493,Memphis,1001,1001,26,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,58
+2009-10,2010-01-16,928562,345,0,2,Rice,Memphis,Owls,Tigers,4,4,36,48,-12,1582,Rice,1001,1001,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,58
+2009-10,2010-01-16,928562,346,0,2,Rice,Memphis,Owls,Tigers,4,4,36,48,-12,1582,Rice,1001,1001,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,58
+2009-10,2010-01-16,928562,349,0,2,Rice,Memphis,Owls,Tigers,4,4,36,48,-12,1493,Memphis,992,992,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10,25.75,467272,NA,NA,0,Memphis,Rice,59
+2009-10,2010-01-16,928562,356,0,2,Rice,Memphis,Owls,Tigers,4,4,38,48,-10,1582,Rice,981,981,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339839,NA,NA,0,Rice,Memphis,60
+2009-10,2010-01-16,928562,358,0,2,Rice,Memphis,Owls,Tigers,4,4,38,48,-10,1493,Memphis,965,965,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,25.15,329995,NA,NA,0,Memphis,Memphis,61
+2009-10,2010-01-16,928562,364,0,2,Rice,Memphis,Owls,Tigers,4,4,38,48,-10,1582,Rice,961,961,4,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,61
+2009-10,2010-01-16,928562,365,0,2,Rice,Memphis,Owls,Tigers,4,4,38,48,-10,1493,Memphis,961,961,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,61
+2009-10,2010-01-16,928562,366,0,2,Rice,Memphis,Owls,Tigers,4,4,38,49,-11,1493,Memphis,961,961,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,61
+2009-10,2010-01-16,928562,373,0,2,Rice,Memphis,Owls,Tigers,4,4,38,49,-11,1493,Memphis,947,947,14,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,62
+2009-10,2010-01-16,928562,374,0,2,Rice,Memphis,Owls,Tigers,4,4,38,49,-11,NA,NA,947,947,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,375,0,2,Rice,Memphis,Owls,Tigers,4,4,39,49,-10,1582,Rice,947,947,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,62
+2009-10,2010-01-16,928562,376,0,2,Rice,Memphis,Owls,Tigers,4,4,40,49,-9,1582,Rice,947,947,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,62
+2009-10,2010-01-16,928562,378,0,2,Rice,Memphis,Owls,Tigers,4,4,43,49,-6,1582,Rice,910,910,37, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.299999999999997,25.549999999999997,506616,NA,NA,0,Rice,Memphis,63
+2009-10,2010-01-16,928562,380,0,2,Rice,Memphis,Owls,Tigers,4,4,43,49,-6,1582,Rice,897,897,13,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,64
+2009-10,2010-01-16,928562,381,0,2,Rice,Memphis,Owls,Tigers,4,4,43,50,-7,1493,Memphis,897,897,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,64
+2009-10,2010-01-16,928562,382,0,2,Rice,Memphis,Owls,Tigers,4,4,43,51,-8,1493,Memphis,897,897,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,64
+2009-10,2010-01-16,928562,386,0,2,Rice,Memphis,Owls,Tigers,4,4,43,51,-8,1582,Rice,863,863,34, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,20.349999999999994,506616,NA,NA,0,Rice,Memphis,65
+2009-10,2010-01-16,928562,392,0,2,Rice,Memphis,Owls,Tigers,4,4,43,51,-8,1582,Rice,860,860,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,66
+2009-10,2010-01-16,928562,396,0,2,Rice,Memphis,Owls,Tigers,4,4,43,51,-8,1493,Memphis,835,835,25, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,27,12.25,329995,NA,NA,0,Memphis,Rice,66
+2009-10,2010-01-16,928562,397,0,2,Rice,Memphis,Owls,Tigers,4,4,43,51,-8,1582,Rice,828,828,7, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,7.950000000000003,399614,NA,NA,0,Rice,Rice,67
+2009-10,2010-01-16,928562,398,0,2,Rice,Memphis,Owls,Tigers,4,4,45,51,-6,1582,Rice,823,823,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506617,NA,NA,0,Rice,Memphis,67
+2009-10,2010-01-16,928562,399,0,2,Rice,Memphis,Owls,Tigers,4,4,45,51,-6,1493,Memphis,817,817,6, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,31,15.15,329996,NA,NA,0,Memphis,Rice,68
+2009-10,2010-01-16,928562,400,0,2,Rice,Memphis,Owls,Tigers,4,4,47,51,-4,1582,Rice,806,806,11, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,26.8,22.25,458971,NA,NA,0,Rice,Memphis,69
+2009-10,2010-01-16,928562,402,0,2,Rice,Memphis,Owls,Tigers,4,3,47,51,-4,1493,Memphis,801,801,5,Tigers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,409,0,2,Rice,Memphis,Owls,Tigers,4,3,47,54,-7,1493,Memphis,776,776,25, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,14.15,329519,NA,NA,0,Memphis,Rice,70
+2009-10,2010-01-16,928562,413,0,2,Rice,Memphis,Owls,Tigers,4,3,47,54,-7,1493,Memphis,755,755,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,21.85,329996,NA,NA,0,Memphis,Rice,71
+2009-10,2010-01-16,928562,414,0,2,Rice,Memphis,Owls,Tigers,4,3,47,54,-7,1582,Rice,733,733,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,19.549999999999997,473209,NA,NA,0,Rice,Memphis,72
+2009-10,2010-01-16,928562,416,0,2,Rice,Memphis,Owls,Tigers,4,3,47,54,-7,1582,Rice,708,708,25,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,73
+2009-10,2010-01-16,928562,417,0,2,Rice,Memphis,Owls,Tigers,4,3,47,54,-7,NA,NA,708,708,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,418,0,2,Rice,Memphis,Owls,Tigers,4,3,47,55,-8,1493,Memphis,708,708,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,73
+2009-10,2010-01-16,928562,419,0,2,Rice,Memphis,Owls,Tigers,4,3,47,56,-9,1493,Memphis,708,708,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,73
+2009-10,2010-01-16,928562,421,0,2,Rice,Memphis,Owls,Tigers,4,3,47,56,-9,1582,Rice,687,687,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,18.25,458971,NA,NA,0,Rice,Rice,74
+2009-10,2010-01-16,928562,429,0,2,Rice,Memphis,Owls,Tigers,4,3,47,56,-9,1493,Memphis,681,681,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,74
+2009-10,2010-01-16,928562,430,0,2,Rice,Memphis,Owls,Tigers,4,3,48,56,-8,1582,Rice,681,681,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,74
+2009-10,2010-01-16,928562,431,0,2,Rice,Memphis,Owls,Tigers,4,3,49,56,-7,1582,Rice,681,681,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,74
+2009-10,2010-01-16,928562,439,0,2,Rice,Memphis,Owls,Tigers,4,3,49,56,-7,1582,Rice,671,671,10,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,75
+2009-10,2010-01-16,928562,440,0,2,Rice,Memphis,Owls,Tigers,4,3,49,57,-8,1493,Memphis,671,671,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,75
+2009-10,2010-01-16,928562,441,0,2,Rice,Memphis,Owls,Tigers,4,3,49,57,-8,1493,Memphis,671,671,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,75
+2009-10,2010-01-16,928562,447,0,2,Rice,Memphis,Owls,Tigers,4,3,49,57,-8,1582,Rice,661,661,10,Offensive foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,76
+2009-10,2010-01-16,928562,458,0,2,Rice,Memphis,Owls,Tigers,4,3,49,57,-8,1493,Memphis,634,634,27,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,77
+2009-10,2010-01-16,928562,461,0,2,Rice,Memphis,Owls,Tigers,3,3,49,57,-8,1582,Rice,632,632,2,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,468,0,2,Rice,Memphis,Owls,Tigers,3,3,49,57,-8,1493,Memphis,619,619,13,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2009-10,2010-01-16,928562,473,0,2,Rice,Memphis,Owls,Tigers,3,3,49,57,-8,1493,Memphis,604,604,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2009-10,2010-01-16,928562,474,0,2,Rice,Memphis,Owls,Tigers,3,3,50,57,-7,1582,Rice,604,604,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,78
+2009-10,2010-01-16,928562,475,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1582,Rice,604,604,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,78
+2009-10,2010-01-16,928562,480,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1493,Memphis,576,576,28,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,79
+2009-10,2010-01-16,928562,484,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1582,Rice,556,556,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26,11.450000000000003,339839,NA,NA,0,Rice,Rice,80
+2009-10,2010-01-16,928562,485,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1582,Rice,550,550,6, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,15.299999999999997,16.049999999999997,399613,NA,NA,0,Rice,Rice,80
+2009-10,2010-01-16,928562,486,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1582,Rice,545,545,5, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,15.349999999999994,399613,NA,NA,0,Rice,Memphis,80
+2009-10,2010-01-16,928562,491,0,2,Rice,Memphis,Owls,Tigers,3,3,51,57,-6,1582,Rice,524,524,21,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,81
+2009-10,2010-01-16,928562,492,0,2,Rice,Memphis,Owls,Tigers,3,3,51,58,-7,1493,Memphis,524,524,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,81
+2009-10,2010-01-16,928562,493,0,2,Rice,Memphis,Owls,Tigers,3,3,51,59,-8,1493,Memphis,524,524,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,81
+2009-10,2010-01-16,928562,498,0,2,Rice,Memphis,Owls,Tigers,2,3,51,59,-8,1582,Rice,502,502,22,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,503,0,2,Rice,Memphis,Owls,Tigers,2,3,51,59,-8,1582,Rice,494,494,8, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,8.549999999999997,458971,NA,NA,0,Rice,Memphis,82
+2009-10,2010-01-16,928562,507,0,2,Rice,Memphis,Owls,Tigers,2,3,51,61,-10,1493,Memphis,480,480,14, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22.3,7.35,467272,NA,NA,0,Memphis,Rice,83
+2009-10,2010-01-16,928562,508,0,2,Rice,Memphis,Owls,Tigers,2,3,51,61,-10,1582,Rice,469,469,11, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22,6.950000000000003,399613,NA,NA,0,Rice,Memphis,84
+2009-10,2010-01-16,928562,510,0,2,Rice,Memphis,Owls,Tigers,2,3,51,61,-10,1582,Rice,457,457,12,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,85
+2009-10,2010-01-16,928562,511,0,2,Rice,Memphis,Owls,Tigers,2,3,51,61,-10,NA,NA,457,457,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,512,0,2,Rice,Memphis,Owls,Tigers,2,3,51,62,-11,1493,Memphis,457,457,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,85
+2009-10,2010-01-16,928562,513,0,2,Rice,Memphis,Owls,Tigers,2,3,51,63,-12,1493,Memphis,457,457,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,85
+2009-10,2010-01-16,928562,515,0,2,Rice,Memphis,Owls,Tigers,2,3,51,63,-12,1582,Rice,438,438,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.200000000000003,24.25,339839,NA,NA,0,Rice,Memphis,86
+2009-10,2010-01-16,928562,518,0,2,Rice,Memphis,Owls,Tigers,2,3,51,63,-12,1582,Rice,435,435,3,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,87
+2009-10,2010-01-16,928562,519,0,2,Rice,Memphis,Owls,Tigers,2,3,51,64,-13,1493,Memphis,435,435,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,87
+2009-10,2010-01-16,928562,520,0,2,Rice,Memphis,Owls,Tigers,2,3,51,65,-14,1493,Memphis,435,435,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,87
+2009-10,2010-01-16,928562,522,0,2,Rice,Memphis,Owls,Tigers,2,3,54,65,-11,1582,Rice,413,413,22, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,1.7999999999999972,7.549999999999997,473209,NA,NA,0,Rice,Memphis,88
+2009-10,2010-01-16,928562,524,0,2,Rice,Memphis,Owls,Tigers,2,3,54,65,-11,1582,Rice,380,380,33,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,89
+2009-10,2010-01-16,928562,525,0,2,Rice,Memphis,Owls,Tigers,2,3,54,65,-11,1493,Memphis,380,380,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,89
+2009-10,2010-01-16,928562,526,0,2,Rice,Memphis,Owls,Tigers,2,3,54,66,-12,1493,Memphis,380,380,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,89
+2009-10,2010-01-16,928562,529,0,2,Rice,Memphis,Owls,Tigers,2,3,54,66,-12,1493,Memphis,378,378,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2009-10,2010-01-16,928562,530,0,2,Rice,Memphis,Owls,Tigers,2,3,55,66,-11,1582,Rice,378,378,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,90
+2009-10,2010-01-16,928562,531,0,2,Rice,Memphis,Owls,Tigers,2,3,56,66,-10,1582,Rice,378,378,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,90
+2009-10,2010-01-16,928562,534,0,2,Rice,Memphis,Owls,Tigers,2,3,56,68,-12,1493,Memphis,350,350,28, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506598,NA,NA,0,Memphis,Memphis,91
+2009-10,2010-01-16,928562,535,0,2,Rice,Memphis,Owls,Tigers,2,3,56,68,-12,1582,Rice,350,350,0,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,91
+2009-10,2010-01-16,928562,536,0,2,Rice,Memphis,Owls,Tigers,2,3,56,69,-13,1493,Memphis,350,350,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,91
+2009-10,2010-01-16,928562,540,0,2,Rice,Memphis,Owls,Tigers,2,3,56,69,-13,1582,Rice,333,333,17, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,8,25.75,473209,NA,NA,0,Rice,Memphis,92
+2009-10,2010-01-16,928562,551,0,2,Rice,Memphis,Owls,Tigers,2,3,56,69,-13,1493,Memphis,288,288,45, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329995,NA,NA,0,Memphis,Rice,93
+2009-10,2010-01-16,928562,554,0,2,Rice,Memphis,Owls,Tigers,2,3,56,69,-13,1493,Memphis,283,283,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2009-10,2010-01-16,928562,555,0,2,Rice,Memphis,Owls,Tigers,2,3,57,69,-12,1582,Rice,283,283,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,94
+2009-10,2010-01-16,928562,556,0,2,Rice,Memphis,Owls,Tigers,2,3,58,69,-11,1582,Rice,283,283,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,94
+2009-10,2010-01-16,928562,559,0,2,Rice,Memphis,Owls,Tigers,2,3,58,69,-11,1493,Memphis,268,268,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,30,29.65,329519,NA,NA,0,Memphis,Rice,95
+2009-10,2010-01-16,928562,560,0,2,Rice,Memphis,Owls,Tigers,2,3,60,69,-9,1582,Rice,254,254,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506617,NA,NA,0,Rice,Memphis,96
+2009-10,2010-01-16,928562,561,0,2,Rice,Memphis,Owls,Tigers,2,3,60,71,-11,1493,Memphis,223,223,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Rice,97
+2009-10,2010-01-16,928562,562,0,2,Rice,Memphis,Owls,Tigers,2,3,62,71,-9,1582,Rice,202,202,21, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,26.7,6.75,330369,NA,NA,0,Rice,Memphis,98
+2009-10,2010-01-16,928562,563,0,2,Rice,Memphis,Owls,Tigers,2,3,62,74,-12,1493,Memphis,192,192,10, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,8.8,23.85,329995,NA,NA,0,Memphis,Rice,99
+2009-10,2010-01-16,928562,564,0,2,Rice,Memphis,Owls,Tigers,2,3,62,74,-12,1582,Rice,176,176,16, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,24.25,458971,NA,NA,0,Rice,Rice,100
+2009-10,2010-01-16,928562,564.75,0,2,Rice,Memphis,Owls,Tigers,2,3,62,74,-12,1582,Rice,170,170,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,11.849999999999994,399613,NA,NA,0,Rice,Rice,100
+2009-10,2010-01-16,928562,565.5,0,2,Rice,Memphis,Owls,Tigers,2,3,62,74,-12,1582,Rice,169,169,1, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,7.349999999999994,399613,NA,NA,0,Rice,Rice,100
+2009-10,2010-01-16,928562,573,0,2,Rice,Memphis,Owls,Tigers,2,3,64,74,-10,1582,Rice,168,168,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506617,NA,NA,0,Rice,Rice,100
+2009-10,2010-01-16,928562,574,0,2,Rice,Memphis,Owls,Tigers,2,3,64,74,-10,1493,Memphis,168,168,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,100
+2009-10,2010-01-16,928562,577,0,2,Rice,Memphis,Owls,Tigers,2,3,64,74,-10,NA,NA,168,168,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,578,0,2,Rice,Memphis,Owls,Tigers,2,3,64,74,-10,1582,Rice,168,168,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,100
+2009-10,2010-01-16,928562,582,0,2,Rice,Memphis,Owls,Tigers,2,3,64,74,-10,1493,Memphis,133,133,35, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,8.55,467272,NA,NA,0,Memphis,Memphis,101
+2009-10,2010-01-16,928562,583,0,2,Rice,Memphis,Owls,Tigers,2,3,64,76,-12,1493,Memphis,114,114,19, makes a jump shot from 2 feet out.,made,FALSE,FALSE,Jump Shot,26.2,6.75,467272,NA,NA,0,Memphis,Rice,101
+2009-10,2010-01-16,928562,586,0,2,Rice,Memphis,Owls,Tigers,1,3,64,76,-12,1582,Rice,108,108,6,Owls take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,593,0,2,Rice,Memphis,Owls,Tigers,1,3,64,76,-12,1493,Memphis,99,99,9,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2009-10,2010-01-16,928562,594,0,2,Rice,Memphis,Owls,Tigers,1,3,65,76,-11,1582,Rice,99,99,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,102
+2009-10,2010-01-16,928562,595,0,2,Rice,Memphis,Owls,Tigers,1,3,66,76,-10,1582,Rice,99,99,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,102
+2009-10,2010-01-16,928562,599,0,2,Rice,Memphis,Owls,Tigers,1,3,66,76,-10,1582,Rice,91,91,8,Shooting foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,103
+2009-10,2010-01-16,928562,600,0,2,Rice,Memphis,Owls,Tigers,1,3,66,77,-11,1493,Memphis,91,91,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,103
+2009-10,2010-01-16,928562,601,0,2,Rice,Memphis,Owls,Tigers,1,3,66,78,-12,1493,Memphis,91,91,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,103
+2009-10,2010-01-16,928562,602,0,2,Rice,Memphis,Owls,Tigers,1,2,66,78,-12,1493,Memphis,91,91,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,605,0,2,Rice,Memphis,Owls,Tigers,1,2,66,78,-12,1582,Rice,81,81,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,506616,NA,NA,0,Rice,Rice,104
+2009-10,2010-01-16,928562,606,0,2,Rice,Memphis,Owls,Tigers,1,2,66,78,-12,1582,Rice,77,77,4, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,10.650000000000006,473209,NA,NA,0,Rice,Rice,104
+2009-10,2010-01-16,928562,612,0,2,Rice,Memphis,Owls,Tigers,1,2,66,78,-12,1582,Rice,75,75,2, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,14.150000000000006,339839,NA,NA,0,Rice,Memphis,104
+2009-10,2010-01-16,928562,616,0,2,Rice,Memphis,Owls,Tigers,1,2,66,78,-12,1582,Rice,62,62,13,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,105
+2009-10,2010-01-16,928562,618,0,2,Rice,Memphis,Owls,Tigers,1,2,66,79,-13,1493,Memphis,62,62,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,105
+2009-10,2010-01-16,928562,619,0,2,Rice,Memphis,Owls,Tigers,1,2,66,79,-13,1493,Memphis,62,62,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,105
+2009-10,2010-01-16,928562,622,0,2,Rice,Memphis,Owls,Tigers,1,2,66,79,-13,1493,Memphis,51,51,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,106
+2009-10,2010-01-16,928562,623,0,2,Rice,Memphis,Owls,Tigers,1,2,67,79,-12,1582,Rice,51,51,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,106
+2009-10,2010-01-16,928562,624,0,2,Rice,Memphis,Owls,Tigers,1,2,68,79,-11,1582,Rice,51,51,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Memphis,106
+2009-10,2010-01-16,928562,627,0,2,Rice,Memphis,Owls,Tigers,1,2,68,79,-11,1582,Rice,49,49,2,Personal foul committed by Owls.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,107
+2009-10,2010-01-16,928562,628,0,2,Rice,Memphis,Owls,Tigers,1,2,68,79,-11,1493,Memphis,49,49,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,107
+2009-10,2010-01-16,928562,629,0,2,Rice,Memphis,Owls,Tigers,1,2,68,80,-12,1493,Memphis,49,49,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Rice,107
+2009-10,2010-01-16,928562,640,0,2,Rice,Memphis,Owls,Tigers,1,2,68,80,-12,1493,Memphis,5,5,44, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,16.05,329996,NA,NA,0,Memphis,NA,108
+2009-10,2010-01-16,928562,643,0,2,Rice,Memphis,Owls,Tigers,1,2,68,80,-12,NA,NA,0,0,5,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-16,928562,644,0,2,Rice,Memphis,Owls,Tigers,1,2,68,80,-12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Rice,Rice,NA

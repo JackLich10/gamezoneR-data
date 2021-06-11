@@ -1,0 +1,198 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-27,1005491,1,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,NA
+2010-11,2010-11-27,1005491,3,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,0,0,0,1669,USC,2380,1180,20, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,9.35,549961,NA,NA,0,USC,Nebraska,1
+2010-11,2010-11-27,1005491,4,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,0,0,0,1527,Nebraska,2352,1152,28, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,1.7999999999999972,4.650000000000006,548690,NA,NA,0,Nebraska,Nebraska,2
+2010-11,2010-11-27,1005491,5,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,0,0,0,1527,Nebraska,2301,1101,51, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,21.7,8.349999999999994,506122,NA,NA,0,Nebraska,USC,2
+2010-11,2010-11-27,1005491,6,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,0,2,-2,1669,USC,2272,1072,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329673,NA,NA,0,USC,Nebraska,3
+2010-11,2010-11-27,1005491,8,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,2,0,1527,Nebraska,2259,1059,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506130,NA,NA,0,Nebraska,USC,4
+2010-11,2010-11-27,1005491,11,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,2,0,1527,Nebraska,2249,1049,10,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,5
+2010-11,2010-11-27,1005491,13,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,2,0,1669,USC,2232,1032,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,20.75,549961,NA,NA,0,USC,USC,5
+2010-11,2010-11-27,1005491,14,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,4,-2,1669,USC,2218,1018,14, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,21.3,10.05,329673,NA,NA,0,USC,Nebraska,5
+2010-11,2010-11-27,1005491,15,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1669,USC,2213,1013,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21.7,7.95,549961,NA,NA,0,USC,Nebraska,6
+2010-11,2010-11-27,1005491,16,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1527,Nebraska,2202,1002,11, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,26.7,8.549999999999997,506122,NA,NA,0,Nebraska,Nebraska,7
+2010-11,2010-11-27,1005491,26,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1527,Nebraska,2182,982,20,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,7
+2010-11,2010-11-27,1005491,34,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1527,Nebraska,2175,975,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,37,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,NA,NA,2158,958,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,40,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1669,USC,2143,943,15, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,21.8,8.15,457598,NA,NA,0,USC,Nebraska,8
+2010-11,2010-11-27,1005491,43,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1527,Nebraska,2137,937,6, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.3,9.549999999999997,506130,NA,NA,0,Nebraska,Nebraska,9
+2010-11,2010-11-27,1005491,45,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,6,-4,1527,Nebraska,2133,933,4, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,28.8,8.549999999999997,506131,NA,NA,0,Nebraska,USC,9
+2010-11,2010-11-27,1005491,46,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1669,USC,2121,921,12, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.8,11.25,329673,NA,NA,0,USC,Nebraska,10
+2010-11,2010-11-27,1005491,48,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1669,USC,2112,912,9,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,11
+2010-11,2010-11-27,1005491,50,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1527,Nebraska,2095,895,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,38.2,5.049999999999997,519370,NA,NA,0,Nebraska,Nebraska,11
+2010-11,2010-11-27,1005491,51,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1527,Nebraska,2081,881,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21,11.25,506131,NA,NA,0,Nebraska,USC,11
+2010-11,2010-11-27,1005491,53,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1669,USC,2076,876,5, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,9.35,329673,NA,NA,0,USC,Nebraska,12
+2010-11,2010-11-27,1005491,55,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1527,Nebraska,2072,872,4, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,24.349999999999994,506122,NA,NA,0,Nebraska,Nebraska,13
+2010-11,2010-11-27,1005491,58,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,8,-6,1527,Nebraska,2051,851,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,18.450000000000003,506131,NA,NA,0,Nebraska,USC,13
+2010-11,2010-11-27,1005491,73,0,1,Nebraska,USC,Cornhuskers,Trojans,4,4,2,10,-8,1669,USC,2015,815,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Nebraska,14
+2010-11,2010-11-27,1005491,80,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,2,10,-8,1527,Nebraska,2012,812,3,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,82,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,2,10,-8,1527,Nebraska,1977,777,35, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,23,20.950000000000003,506130,NA,NA,0,Nebraska,USC,15
+2010-11,2010-11-27,1005491,84,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,2,10,-8,1669,USC,1948,748,29, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,24.7,11.05,457598,NA,NA,0,USC,Nebraska,16
+2010-11,2010-11-27,1005491,85,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,2,10,-8,1527,Nebraska,1946,746,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,88,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,4,10,-6,1527,Nebraska,1942,742,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403780,NA,NA,0,Nebraska,Nebraska,17
+2010-11,2010-11-27,1005491,89,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,4,10,-6,1669,USC,1942,742,0,Shooting foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,17
+2010-11,2010-11-27,1005491,90,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,5,10,-5,1527,Nebraska,1942,742,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,17
+2010-11,2010-11-27,1005491,92,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,5,13,-8,1669,USC,1919,719,23, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,10.3,27.45,549964,NA,NA,0,USC,Nebraska,18
+2010-11,2010-11-27,1005491,93,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,7,13,-6,1527,Nebraska,1904,704,15, makes a hook shot from 2 feet out.,made,FALSE,FALSE,Hook Shot,27.2,6.25,548688,NA,NA,0,Nebraska,USC,19
+2010-11,2010-11-27,1005491,94,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,7,15,-8,1669,USC,1872,672,32, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,10,12.25,395373,NA,NA,0,USC,Nebraska,20
+2010-11,2010-11-27,1005491,95,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,7,15,-8,1527,Nebraska,1847,647,25, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7.299999999999997,5.650000000000006,403773,NA,NA,0,Nebraska,USC,21
+2010-11,2010-11-27,1005491,97,0,1,Nebraska,USC,Cornhuskers,Trojans,3,4,7,18,-11,1669,USC,1836,636,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,8.95,457597,NA,NA,0,USC,Nebraska,22
+2010-11,2010-11-27,1005491,103,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1831,631,5,Cornhuskers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,107,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1803,603,28,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,23
+2010-11,2010-11-27,1005491,112,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,NA,NA,1799,599,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,113,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1669,USC,1799,599,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,114,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1799,599,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,117,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1776,576,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,13.549999999999997,506121,NA,NA,0,Nebraska,Nebraska,24
+2010-11,2010-11-27,1005491,118,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1776,576,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,119,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,18,-11,1527,Nebraska,1776,576,0,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,24
+2010-11,2010-11-27,1005491,121,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,20,-13,1669,USC,1751,551,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549960,NA,NA,0,USC,Nebraska,25
+2010-11,2010-11-27,1005491,123,0,1,Nebraska,USC,Cornhuskers,Trojans,2,4,7,22,-15,1669,USC,1740,540,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Nebraska,26
+2010-11,2010-11-27,1005491,130,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,7,22,-15,1527,Nebraska,1734,534,6,Cornhuskers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,131,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,7,22,-15,1527,Nebraska,1734,534,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,134,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,7,22,-15,1669,USC,1726,526,8,Personal Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,27
+2010-11,2010-11-27,1005491,135,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,7,22,-15,1527,Nebraska,1726,526,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,137,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1527,Nebraska,1712,512,14, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,22.8,29.049999999999997,481213,NA,NA,0,Nebraska,USC,27
+2010-11,2010-11-27,1005491,139,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1527,Nebraska,1698,498,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,141,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1669,USC,1695,495,3, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,20.2,8.55,457598,NA,NA,0,USC,Nebraska,28
+2010-11,2010-11-27,1005491,143,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1527,Nebraska,1682,482,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,20.75,481213,NA,NA,0,Nebraska,Nebraska,29
+2010-11,2010-11-27,1005491,149,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1527,Nebraska,1680,480,2,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,29
+2010-11,2010-11-27,1005491,150,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,NA,NA,1675,475,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,152,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1669,USC,1652,452,23, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,7,23.45,549961,NA,NA,0,USC,USC,30
+2010-11,2010-11-27,1005491,154,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,22,-12,1669,USC,1647,447,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,156,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,24,-14,1669,USC,1633,433,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457597,NA,NA,0,USC,Nebraska,30
+2010-11,2010-11-27,1005491,161,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,24,-14,1527,Nebraska,1615,415,18, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,18.75,403780,NA,NA,0,Nebraska,USC,31
+2010-11,2010-11-27,1005491,162,0,1,Nebraska,USC,Cornhuskers,Trojans,1,4,10,27,-17,1669,USC,1606,406,9, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,13.35,457597,NA,NA,0,USC,Nebraska,32
+2010-11,2010-11-27,1005491,164,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,10,27,-17,1527,Nebraska,1598,398,8,Cornhuskers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,166,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,10,29,-19,1669,USC,1547,347,51, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,10.7,6.75,549961,NA,NA,0,USC,Nebraska,33
+2010-11,2010-11-27,1005491,168,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,10,29,-19,1669,USC,1534,334,13,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,34
+2010-11,2010-11-27,1005491,169,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,10,29,-19,1527,Nebraska,1534,334,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,171,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,12,29,-17,1527,Nebraska,1526,326,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,USC,34
+2010-11,2010-11-27,1005491,172,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,12,32,-20,1669,USC,1510,310,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40,23.85,457598,NA,NA,0,USC,Nebraska,35
+2010-11,2010-11-27,1005491,174,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,12,32,-20,1669,USC,1500,300,10,Personal Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,36
+2010-11,2010-11-27,1005491,177,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,12,32,-20,1527,Nebraska,1490,290,10,Offensive foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,36
+2010-11,2010-11-27,1005491,179,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1527,Nebraska,1469,269,21, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,37.8,25.150000000000006,506130,NA,NA,0,Nebraska,USC,37
+2010-11,2010-11-27,1005491,181,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1669,USC,1464,264,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,184,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1669,USC,1443,243,21, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,24,9.55,457598,NA,NA,0,USC,USC,38
+2010-11,2010-11-27,1005491,185,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1669,USC,1443,243,0,Offensive foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Nebraska,38
+2010-11,2010-11-27,1005491,193,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,NA,NA,1436,236,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,198,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1669,USC,1395,195,41, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,27.45,457598,NA,NA,0,USC,Nebraska,39
+2010-11,2010-11-27,1005491,199,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1669,USC,1395,195,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,40
+2010-11,2010-11-27,1005491,200,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,32,-17,1527,Nebraska,1395,195,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,40
+2010-11,2010-11-27,1005491,202,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,15,34,-19,1669,USC,1376,176,19, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.2,5.85,329673,NA,NA,0,USC,Nebraska,40
+2010-11,2010-11-27,1005491,203,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,17,34,-17,1527,Nebraska,1359,159,17, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,27.8,6.25,506122,NA,NA,0,Nebraska,USC,41
+2010-11,2010-11-27,1005491,204,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,17,37,-20,1669,USC,1326,126,33, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47.3,3.35,549960,NA,NA,0,USC,Nebraska,42
+2010-11,2010-11-27,1005491,206,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,17,37,-20,1669,USC,1310,110,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457598,NA,NA,0,USC,Nebraska,43
+2010-11,2010-11-27,1005491,207,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,19,37,-18,1527,Nebraska,1304,104,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506130,NA,NA,0,Nebraska,USC,44
+2010-11,2010-11-27,1005491,208,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,19,37,-18,1669,USC,1304,104,0,Shooting Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,45
+2010-11,2010-11-27,1005491,209,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,20,37,-17,1527,Nebraska,1304,104,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,45
+2010-11,2010-11-27,1005491,212,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,20,37,-17,1669,USC,1294,94,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,220,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,23,37,-14,1527,Nebraska,1282,82,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,43.3,15.349999999999994,548690,NA,NA,0,Nebraska,USC,46
+2010-11,2010-11-27,1005491,221,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,23,37,-14,1669,USC,1260,60,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,30.05,457598,NA,NA,0,USC,USC,47
+2010-11,2010-11-27,1005491,222,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,23,39,-16,1669,USC,1255,55,5, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.2,7.75,549960,NA,NA,0,USC,Nebraska,47
+2010-11,2010-11-27,1005491,223,0,1,Nebraska,USC,Cornhuskers,Trojans,0,4,26,39,-13,1527,Nebraska,1241,41,14, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,3.200000000000003,13.349999999999994,548690,NA,NA,0,Nebraska,USC,48
+2010-11,2010-11-27,1005491,236,0,1,Nebraska,USC,Cornhuskers,Trojans,0,3,26,39,-13,1669,USC,1225,25,16,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,239,0,1,Nebraska,USC,Cornhuskers,Trojans,0,3,26,39,-13,1669,USC,1201,1,24, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,22.85,549964,NA,NA,0,USC,USC,49
+2010-11,2010-11-27,1005491,241,0,1,Nebraska,USC,Cornhuskers,Trojans,0,3,26,39,-13,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,242,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,26,39,-13,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,49
+2010-11,2010-11-27,1005491,246,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,26,41,-15,1669,USC,1175,1175,25, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,27.2,7.15,457598,NA,NA,0,USC,Nebraska,50
+2010-11,2010-11-27,1005491,248,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,26,41,-15,1669,USC,1161,1161,14,Shooting Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,51
+2010-11,2010-11-27,1005491,249,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,26,41,-15,1527,Nebraska,1161,1161,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,51
+2010-11,2010-11-27,1005491,250,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,26,41,-15,1669,USC,1161,1161,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,251,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,27,41,-14,1527,Nebraska,1161,1161,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,51
+2010-11,2010-11-27,1005491,255,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,27,41,-14,1527,Nebraska,1119,1119,42, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,17.25,506120,NA,NA,0,Nebraska,USC,52
+2010-11,2010-11-27,1005491,256,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,27,43,-16,1669,USC,1100,1100,19, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,31.2,17.25,329673,NA,NA,0,USC,Nebraska,53
+2010-11,2010-11-27,1005491,257,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,29,43,-14,1527,Nebraska,1087,1087,13, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,31.7,8.549999999999997,506122,NA,NA,0,Nebraska,USC,54
+2010-11,2010-11-27,1005491,258,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,29,43,-14,1669,USC,1049,1049,38, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.5,4.85,549964,NA,NA,0,USC,Nebraska,55
+2010-11,2010-11-27,1005491,259,0,2,Nebraska,USC,Cornhuskers,Trojans,4,4,31,43,-12,1527,Nebraska,1037,1037,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506120,NA,NA,0,Nebraska,USC,56
+2010-11,2010-11-27,1005491,261,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,31,43,-12,1669,USC,1025,1025,12,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,265,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,31,43,-12,1669,USC,1011,1011,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,USC,57
+2010-11,2010-11-27,1005491,266,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,31,43,-12,1669,USC,993,993,18, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,5.85,457598,NA,NA,0,USC,Nebraska,57
+2010-11,2010-11-27,1005491,267,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,33,43,-10,1527,Nebraska,988,988,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403773,NA,NA,0,Nebraska,USC,58
+2010-11,2010-11-27,1005491,268,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,33,46,-13,1669,USC,958,958,30, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,4.5,18.45,457597,NA,NA,0,USC,Nebraska,59
+2010-11,2010-11-27,1005491,269,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,35,46,-11,1527,Nebraska,939,939,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506122,NA,NA,0,Nebraska,USC,60
+2010-11,2010-11-27,1005491,271,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,35,46,-11,NA,NA,928,928,11,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,275,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,35,46,-11,1527,Nebraska,887,887,41, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,4.25,548690,NA,NA,0,Nebraska,Nebraska,61
+2010-11,2010-11-27,1005491,276,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,37,46,-9,1527,Nebraska,879,879,8, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,20.8,7.549999999999997,506122,NA,NA,0,Nebraska,USC,61
+2010-11,2010-11-27,1005491,277,0,2,Nebraska,USC,Cornhuskers,Trojans,4,3,39,46,-7,1527,Nebraska,860,860,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506130,NA,NA,0,Nebraska,USC,62
+2010-11,2010-11-27,1005491,282,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,39,46,-7,1669,USC,852,852,8,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,285,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,39,46,-7,1669,USC,829,829,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,6.75,457597,NA,NA,0,USC,USC,63
+2010-11,2010-11-27,1005491,286,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,39,46,-7,1669,USC,829,829,0,Offensive foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Nebraska,63
+2010-11,2010-11-27,1005491,288,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,39,46,-7,1527,Nebraska,808,808,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.3,29.650000000000006,506130,NA,NA,0,Nebraska,Nebraska,64
+2010-11,2010-11-27,1005491,289,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,41,46,-5,1527,Nebraska,803,803,5, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.8,8.950000000000003,548690,NA,NA,0,Nebraska,USC,64
+2010-11,2010-11-27,1005491,290,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,41,46,-5,1669,USC,773,773,30, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,20.15,457598,NA,NA,0,USC,Nebraska,65
+2010-11,2010-11-27,1005491,292,0,2,Nebraska,USC,Cornhuskers,Trojans,4,2,44,46,-2,1527,Nebraska,760,760,13, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,40.2,23.849999999999994,519370,NA,NA,0,Nebraska,USC,66
+2010-11,2010-11-27,1005491,293,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,44,46,-2,1669,USC,760,760,0,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,296,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,44,48,-4,1669,USC,738,738,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457597,NA,NA,0,USC,Nebraska,67
+2010-11,2010-11-27,1005491,297,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,44,48,-4,1527,Nebraska,738,738,0,Shooting Block Foul foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,68
+2010-11,2010-11-27,1005491,298,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,44,49,-5,1669,USC,738,738,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Nebraska,68
+2010-11,2010-11-27,1005491,299,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,44,49,-5,1527,Nebraska,738,738,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,306,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,731,731,7, makes a tip shot from 7 feet out.,made,FALSE,FALSE,Tip Shot,17.700000000000003,6.049999999999997,506122,NA,NA,0,Nebraska,USC,69
+2010-11,2010-11-27,1005491,309,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,NA,NA,708,708,23,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,312,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,701,701,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,314,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,701,701,0,Personal Block Foul foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,70
+2010-11,2010-11-27,1005491,315,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,667,667,34, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19,7.349999999999994,548688,NA,NA,0,Nebraska,USC,70
+2010-11,2010-11-27,1005491,316,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1669,USC,640,640,27, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,10.65,457597,NA,NA,0,USC,Nebraska,71
+2010-11,2010-11-27,1005491,320,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1669,USC,629,629,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,321,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1669,USC,629,629,0,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,72
+2010-11,2010-11-27,1005491,323,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,627,627,2, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21,6.450000000000003,506131,NA,NA,0,Nebraska,Nebraska,72
+2010-11,2010-11-27,1005491,324,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1527,Nebraska,609,609,18, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28,7.950000000000003,506131,NA,NA,0,Nebraska,USC,72
+2010-11,2010-11-27,1005491,325,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,49,-3,1669,USC,602,602,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,549964,NA,NA,0,USC,USC,73
+2010-11,2010-11-27,1005491,326,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,51,-5,1669,USC,597,597,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329673,NA,NA,0,USC,Nebraska,73
+2010-11,2010-11-27,1005491,328,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,46,51,-5,1527,Nebraska,591,591,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,330,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,48,51,-3,1527,Nebraska,583,583,8, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,29.8,6.450000000000003,548688,NA,NA,0,Nebraska,USC,74
+2010-11,2010-11-27,1005491,331,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,48,51,-3,1669,USC,560,560,23, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,12.95,457598,NA,NA,0,USC,Nebraska,75
+2010-11,2010-11-27,1005491,332,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,48,51,-3,1527,Nebraska,540,540,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.700000000000003,25.349999999999994,519370,NA,NA,0,Nebraska,Nebraska,76
+2010-11,2010-11-27,1005491,334,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,48,51,-3,1669,USC,534,534,6,Shooting Block Foul foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Nebraska,76
+2010-11,2010-11-27,1005491,335,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,51,-2,1527,Nebraska,534,534,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,76
+2010-11,2010-11-27,1005491,336,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,51,-2,1527,Nebraska,534,534,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,337,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,51,-2,1527,Nebraska,534,534,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,76
+2010-11,2010-11-27,1005491,339,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,53,-4,1669,USC,526,526,8, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19,9.65,329673,NA,NA,0,USC,Nebraska,77
+2010-11,2010-11-27,1005491,344,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,53,-4,1527,Nebraska,504,504,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,346,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,53,-4,1669,USC,476,476,28, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,5.25,549961,NA,NA,0,USC,USC,78
+2010-11,2010-11-27,1005491,347,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,55,-6,1669,USC,467,467,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549961,NA,NA,0,USC,Nebraska,78
+2010-11,2010-11-27,1005491,348,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,55,-6,1527,Nebraska,459,459,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,18.450000000000003,506130,NA,NA,0,Nebraska,Nebraska,79
+2010-11,2010-11-27,1005491,350,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,49,55,-6,1527,Nebraska,451,451,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,352,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1527,Nebraska,450,450,1, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,41.8,18.75,481213,NA,NA,0,Nebraska,USC,79
+2010-11,2010-11-27,1005491,354,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,431,431,19, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,13,16.25,457597,NA,NA,0,USC,USC,80
+2010-11,2010-11-27,1005491,355,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,431,431,0, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,21.2,7.55,329673,NA,NA,0,USC,USC,80
+2010-11,2010-11-27,1005491,364,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1527,Nebraska,425,425,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,365,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1527,Nebraska,425,425,0,Shooting foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,80
+2010-11,2010-11-27,1005491,366,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,NA,NA,425,425,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,368,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,406,406,19, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,9.55,329673,NA,NA,0,USC,USC,80
+2010-11,2010-11-27,1005491,370,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,393,393,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,29.05,457597,NA,NA,0,USC,USC,80
+2010-11,2010-11-27,1005491,371,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,393,393,0,Offensive foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Nebraska,80
+2010-11,2010-11-27,1005491,373,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1527,Nebraska,387,387,6, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,6.450000000000003,506122,NA,NA,0,Nebraska,USC,81
+2010-11,2010-11-27,1005491,374,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,356,356,31, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,11.05,549964,NA,NA,0,USC,USC,82
+2010-11,2010-11-27,1005491,375,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,52,55,-3,1669,USC,351,351,5, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14.3,13.75,549964,NA,NA,0,USC,Nebraska,82
+2010-11,2010-11-27,1005491,376,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1527,Nebraska,333,333,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,506122,NA,NA,0,Nebraska,USC,83
+2010-11,2010-11-27,1005491,378,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1527,Nebraska,325,325,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,387,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1527,Nebraska,313,313,12,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,84
+2010-11,2010-11-27,1005491,388,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1527,Nebraska,313,313,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,391,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1669,USC,288,288,25,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,84
+2010-11,2010-11-27,1005491,392,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,54,55,-1,1669,USC,288,288,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,393,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,55,55,0,1527,Nebraska,288,288,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,84
+2010-11,2010-11-27,1005491,394,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,55,55,0,1669,USC,288,288,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,395,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,56,55,1,1527,Nebraska,288,288,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,USC,84
+2010-11,2010-11-27,1005491,397,0,2,Nebraska,USC,Cornhuskers,Trojans,4,1,58,55,3,1527,Nebraska,264,264,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506130,NA,NA,0,Nebraska,USC,85
+2010-11,2010-11-27,1005491,402,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,58,55,3,1669,USC,254,254,10,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,404,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,58,55,3,1669,USC,231,231,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,27.15,549964,NA,NA,0,USC,USC,86
+2010-11,2010-11-27,1005491,416,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,58,55,3,NA,NA,208,208,23,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,418,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,58,55,3,1669,USC,174,174,34, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,18.55,457598,NA,NA,0,USC,Nebraska,86
+2010-11,2010-11-27,1005491,420,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,58,55,3,1669,USC,160,160,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,422,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1527,Nebraska,144,144,16, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,33.8,19.75,506131,NA,NA,0,Nebraska,USC,87
+2010-11,2010-11-27,1005491,424,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1527,Nebraska,123,123,21,Personal foul committed by Cornhuskers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,88
+2010-11,2010-11-27,1005491,425,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1669,USC,123,123,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,427,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1669,USC,123,123,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,12.25,549961,NA,NA,0,USC,USC,88
+2010-11,2010-11-27,1005491,443,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1669,USC,76,76,47, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,9.65,549964,NA,NA,0,USC,Nebraska,88
+2010-11,2010-11-27,1005491,444,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1527,Nebraska,45,45,31, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,1.5,7.75,506121,NA,NA,0,Nebraska,USC,89
+2010-11,2010-11-27,1005491,445,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1669,USC,38,38,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,12.7,5.85,457598,NA,NA,0,USC,Nebraska,90
+2010-11,2010-11-27,1005491,447,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1669,USC,24,24,14,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,91
+2010-11,2010-11-27,1005491,448,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,55,5,1527,Nebraska,24,24,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,91
+2010-11,2010-11-27,1005491,451,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,57,3,1669,USC,11,11,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549964,NA,NA,0,USC,Nebraska,91
+2010-11,2010-11-27,1005491,456,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,57,3,1527,Nebraska,7,7,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,457,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,57,3,1527,Nebraska,7,7,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-11-27,1005491,458,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,1669,USC,7,7,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,Nebraska,92
+2010-11,2010-11-27,1005491,463,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,1669,USC,6,6,1,Personal foul committed by Trojans.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,93
+2010-11,2010-11-27,1005491,464,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,1527,Nebraska,6,6,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,93
+2010-11,2010-11-27,1005491,466,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,1669,USC,1,1,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,21.45,549964,NA,NA,0,USC,NA,93
+2010-11,2010-11-27,1005491,467,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-27,1005491,468,0,2,Nebraska,USC,Cornhuskers,Trojans,4,0,60,58,2,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Nebraska,Nebraska,NA

@@ -1,0 +1,287 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-11-14,1006269,1,0,1,Purdue,Howard,Boilermakers,Bison,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Howard,NA
+2010-11,2010-11-14,1006269,4,0,1,Purdue,Howard,Boilermakers,Bison,4,4,0,0,0,1577,Purdue,2361,1161,39,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,1
+2010-11,2010-11-14,1006269,5,0,1,Purdue,Howard,Boilermakers,Bison,4,4,0,1,-1,1438,Howard,2361,1161,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,1
+2010-11,2010-11-14,1006269,6,0,1,Purdue,Howard,Boilermakers,Bison,4,4,0,2,-2,1438,Howard,2361,1161,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,1
+2010-11,2010-11-14,1006269,9,0,1,Purdue,Howard,Boilermakers,Bison,4,4,0,2,-2,1438,Howard,2334,1134,27,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,2
+2010-11,2010-11-14,1006269,10,0,1,Purdue,Howard,Boilermakers,Bison,4,4,1,2,-1,1577,Purdue,2334,1134,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,2
+2010-11,2010-11-14,1006269,11,0,1,Purdue,Howard,Boilermakers,Bison,4,4,2,2,0,1577,Purdue,2334,1134,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,2
+2010-11,2010-11-14,1006269,15,0,1,Purdue,Howard,Boilermakers,Bison,4,4,2,4,-2,1438,Howard,2309,1109,25, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,36.3,12.05,524877,NA,NA,0,Howard,Purdue,3
+2010-11,2010-11-14,1006269,16,0,1,Purdue,Howard,Boilermakers,Bison,4,4,2,4,-2,1577,Purdue,2293,1093,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,30.8,27.650000000000006,398424,NA,NA,0,Purdue,Purdue,4
+2010-11,2010-11-14,1006269,17,0,1,Purdue,Howard,Boilermakers,Bison,4,4,2,4,-2,1577,Purdue,2293,1093,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,4
+2010-11,2010-11-14,1006269,18,0,1,Purdue,Howard,Boilermakers,Bison,4,4,5,4,1,1577,Purdue,2273,1073,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.2,8.950000000000003,471928,NA,NA,0,Purdue,Howard,4
+2010-11,2010-11-14,1006269,19,0,1,Purdue,Howard,Boilermakers,Bison,4,4,5,4,1,1438,Howard,2240,1040,33, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25,8.95,524877,NA,NA,0,Howard,Howard,5
+2010-11,2010-11-14,1006269,20,0,1,Purdue,Howard,Boilermakers,Bison,4,4,5,4,1,1577,Purdue,2240,1040,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,5
+2010-11,2010-11-14,1006269,22,0,1,Purdue,Howard,Boilermakers,Bison,4,4,5,4,1,1577,Purdue,2228,1028,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,470258,NA,NA,0,Purdue,Howard,6
+2010-11,2010-11-14,1006269,27,0,1,Purdue,Howard,Boilermakers,Bison,4,4,5,6,-1,1438,Howard,2215,1015,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,570391,NA,NA,0,Howard,Purdue,7
+2010-11,2010-11-14,1006269,28,0,1,Purdue,Howard,Boilermakers,Bison,4,4,7,6,1,1577,Purdue,2194,994,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398422,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,32,0,1,Purdue,Howard,Boilermakers,Bison,4,4,7,6,1,1438,Howard,2161,961,33,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,33,0,1,Purdue,Howard,Boilermakers,Bison,4,4,8,6,2,1577,Purdue,2161,961,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,34,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2161,961,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,35,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2161,961,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,36,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2161,961,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,38,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2153,953,8, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24,12.049999999999997,398424,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,39,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2153,953,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,40,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2150,950,3, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.5,11.049999999999997,398424,NA,NA,0,Purdue,Purdue,8
+2010-11,2010-11-14,1006269,41,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2150,950,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,8
+2010-11,2010-11-14,1006269,42,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2131,931,19, misses a jump shot from 23 feet out.,missed,FALSE,FALSE,Jump Shot,27,28.25,524877,NA,NA,0,Howard,Howard,9
+2010-11,2010-11-14,1006269,43,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2131,931,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,9
+2010-11,2010-11-14,1006269,49,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,NA,NA,2119,919,12,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,54,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2109,909,10, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,13.95,478360,NA,NA,0,Howard,Howard,9
+2010-11,2010-11-14,1006269,55,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2109,909,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,9
+2010-11,2010-11-14,1006269,56,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1577,Purdue,2095,895,14, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,8.349999999999994,398422,NA,NA,0,Purdue,Purdue,10
+2010-11,2010-11-14,1006269,57,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2095,895,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,10
+2010-11,2010-11-14,1006269,59,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,6,3,1438,Howard,2080,880,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,15.65,524877,NA,NA,0,Howard,Howard,11
+2010-11,2010-11-14,1006269,62,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,8,1,1438,Howard,2069,869,11, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25,14.25,524877,NA,NA,0,Howard,Purdue,11
+2010-11,2010-11-14,1006269,64,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,8,1,1438,Howard,2046,846,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,412060,NA,NA,0,Howard,Howard,12
+2010-11,2010-11-14,1006269,65,0,1,Purdue,Howard,Boilermakers,Bison,4,4,9,8,1,1438,Howard,2046,846,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,12
+2010-11,2010-11-14,1006269,66,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1438,Howard,2046,846,0,Bison take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,70,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1577,Purdue,2039,839,7,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,12
+2010-11,2010-11-14,1006269,75,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1438,Howard,2016,816,23, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,7.35,524877,NA,NA,0,Howard,Howard,12
+2010-11,2010-11-14,1006269,76,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1577,Purdue,2016,816,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,12
+2010-11,2010-11-14,1006269,77,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1438,Howard,2016,816,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,13
+2010-11,2010-11-14,1006269,80,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1577,Purdue,2004,804,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,470257,NA,NA,0,Purdue,Purdue,13
+2010-11,2010-11-14,1006269,84,0,1,Purdue,Howard,Boilermakers,Bison,4,3,9,8,1,1577,Purdue,2000,800,4, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,13
+2010-11,2010-11-14,1006269,90,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,8,2,1577,Purdue,2000,800,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,13
+2010-11,2010-11-14,1006269,92,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,10,0,1438,Howard,1985,785,15, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12,18.25,570391,NA,NA,0,Howard,Purdue,14
+2010-11,2010-11-14,1006269,93,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,10,0,1577,Purdue,1971,771,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.700000000000003,24.549999999999997,549547,NA,NA,0,Purdue,Purdue,15
+2010-11,2010-11-14,1006269,94,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,10,0,1438,Howard,1971,771,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,15
+2010-11,2010-11-14,1006269,96,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,10,0,1438,Howard,1960,760,11, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,7.15,570391,NA,NA,0,Howard,Howard,16
+2010-11,2010-11-14,1006269,99,0,1,Purdue,Howard,Boilermakers,Bison,4,3,10,12,-2,1438,Howard,1957,757,3, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,22.7,8.35,412060,NA,NA,0,Howard,Purdue,16
+2010-11,2010-11-14,1006269,100,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1577,Purdue,1948,748,9, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26,8.25,398424,NA,NA,0,Purdue,Howard,17
+2010-11,2010-11-14,1006269,107,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1438,Howard,1940,740,8,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,18
+2010-11,2010-11-14,1006269,113,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1438,Howard,1928,728,12,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,18
+2010-11,2010-11-14,1006269,116,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1577,Purdue,1923,723,5,Offensive foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,18
+2010-11,2010-11-14,1006269,118,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1438,Howard,1918,718,5, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24,15.55,412060,NA,NA,0,Howard,Howard,19
+2010-11,2010-11-14,1006269,119,0,1,Purdue,Howard,Boilermakers,Bison,4,3,12,12,0,1577,Purdue,1918,718,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,19
+2010-11,2010-11-14,1006269,120,0,1,Purdue,Howard,Boilermakers,Bison,4,3,15,12,3,1577,Purdue,1905,705,13, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.200000000000003,22.849999999999994,470256,NA,NA,0,Purdue,Howard,20
+2010-11,2010-11-14,1006269,122,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1438,Howard,1900,700,5,Bison take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,125,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1438,Howard,1874,674,26, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.2,7.15,478360,NA,NA,0,Howard,Howard,21
+2010-11,2010-11-14,1006269,126,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1874,674,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,21
+2010-11,2010-11-14,1006269,127,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1863,663,11, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,7.75,471926,NA,NA,0,Purdue,Purdue,22
+2010-11,2010-11-14,1006269,128,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1863,663,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,22
+2010-11,2010-11-14,1006269,129,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1856,656,7, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22,8.25,549547,NA,NA,0,Purdue,Purdue,22
+2010-11,2010-11-14,1006269,130,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,NA,NA,1856,656,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,138,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1829,629,27, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,30.549999999999997,470256,NA,NA,0,Purdue,Purdue,22
+2010-11,2010-11-14,1006269,139,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1438,Howard,1829,629,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,22
+2010-11,2010-11-14,1006269,141,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1814,614,15,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,23
+2010-11,2010-11-14,1006269,143,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1577,Purdue,1776,576,38, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,23.849999999999994,470261,NA,NA,0,Purdue,Purdue,23
+2010-11,2010-11-14,1006269,144,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,12,3,1438,Howard,1776,576,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,23
+2010-11,2010-11-14,1006269,147,0,1,Purdue,Howard,Boilermakers,Bison,4,2,15,14,1,1438,Howard,1758,558,18, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,27,7.25,570391,NA,NA,0,Howard,Purdue,24
+2010-11,2010-11-14,1006269,148,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1577,Purdue,1745,545,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,515554,NA,NA,0,Purdue,Howard,25
+2010-11,2010-11-14,1006269,149,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1438,Howard,1733,533,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,27,29.65,524880,NA,NA,0,Howard,Howard,26
+2010-11,2010-11-14,1006269,150,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1577,Purdue,1733,533,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,26
+2010-11,2010-11-14,1006269,151,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1438,Howard,1712,512,21, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,27,8.15,524877,NA,NA,0,Howard,Howard,27
+2010-11,2010-11-14,1006269,152,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1577,Purdue,1712,512,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,27
+2010-11,2010-11-14,1006269,155,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1438,Howard,1701,501,11,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,28
+2010-11,2010-11-14,1006269,156,0,1,Purdue,Howard,Boilermakers,Bison,4,2,17,14,3,1577,Purdue,1701,501,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,28
+2010-11,2010-11-14,1006269,158,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,1577,Purdue,1701,501,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,28
+2010-11,2010-11-14,1006269,160,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,1438,Howard,1656,456,45, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.5,6.75,524876,NA,NA,0,Howard,Howard,29
+2010-11,2010-11-14,1006269,161,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,1577,Purdue,1656,456,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,29
+2010-11,2010-11-14,1006269,162,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,1577,Purdue,1647,447,9, misses a jump shot from 23 feet out.,missed,FALSE,FALSE,Jump Shot,26,28.25,398422,NA,NA,0,Purdue,Purdue,30
+2010-11,2010-11-14,1006269,163,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,1577,Purdue,1647,447,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,30
+2010-11,2010-11-14,1006269,165,0,1,Purdue,Howard,Boilermakers,Bison,4,2,18,14,4,NA,NA,1639,439,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,172,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1635,435,4, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,25.3,14.349999999999994,398424,NA,NA,0,Purdue,Howard,30
+2010-11,2010-11-14,1006269,185,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1609,409,26, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,18,11.25,398422,NA,NA,0,Purdue,Purdue,31
+2010-11,2010-11-14,1006269,186,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1609,409,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,31
+2010-11,2010-11-14,1006269,188,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1605,405,4, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,13.75,398422,NA,NA,0,Purdue,Purdue,31
+2010-11,2010-11-14,1006269,189,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1438,Howard,1605,405,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,31
+2010-11,2010-11-14,1006269,192,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1574,374,31,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,32
+2010-11,2010-11-14,1006269,194,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1438,Howard,1567,367,7, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.25,412060,NA,NA,0,Howard,Howard,32
+2010-11,2010-11-14,1006269,195,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1567,367,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,32
+2010-11,2010-11-14,1006269,197,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1556,356,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.8,30.35,471928,NA,NA,0,Purdue,Purdue,33
+2010-11,2010-11-14,1006269,198,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1577,Purdue,1556,356,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,33
+2010-11,2010-11-14,1006269,199,0,1,Purdue,Howard,Boilermakers,Bison,4,2,20,14,6,1438,Howard,1555,355,1,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,33
+2010-11,2010-11-14,1006269,200,0,1,Purdue,Howard,Boilermakers,Bison,4,2,21,14,7,1577,Purdue,1555,355,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,33
+2010-11,2010-11-14,1006269,201,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1555,355,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,33
+2010-11,2010-11-14,1006269,206,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1526,326,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,30.25,398424,NA,NA,0,Purdue,Howard,34
+2010-11,2010-11-14,1006269,210,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1499,299,27, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,28.2,6.65,570391,NA,NA,0,Howard,Howard,35
+2010-11,2010-11-14,1006269,214,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1493,293,6,Personal Block Foul foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Howard,35
+2010-11,2010-11-14,1006269,216,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1471,271,22, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,20.5,24.75,570391,NA,NA,0,Howard,Howard,35
+2010-11,2010-11-14,1006269,217,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1471,271,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,35
+2010-11,2010-11-14,1006269,219,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1465,265,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,21.35,524880,NA,NA,0,Howard,Howard,35
+2010-11,2010-11-14,1006269,220,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1465,265,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,35
+2010-11,2010-11-14,1006269,221,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1465,265,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,36
+2010-11,2010-11-14,1006269,222,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1465,265,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,36
+2010-11,2010-11-14,1006269,223,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1465,265,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,36
+2010-11,2010-11-14,1006269,225,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1438,Howard,1449,249,16, misses a jump shot from 23 feet out.,missed,FALSE,FALSE,Jump Shot,19,27.25,570391,NA,NA,0,Howard,Howard,37
+2010-11,2010-11-14,1006269,226,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1449,249,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,37
+2010-11,2010-11-14,1006269,227,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1441,241,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,470257,NA,NA,0,Purdue,Purdue,38
+2010-11,2010-11-14,1006269,228,0,1,Purdue,Howard,Boilermakers,Bison,4,2,22,14,8,1577,Purdue,1441,241,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,38
+2010-11,2010-11-14,1006269,229,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,1577,Purdue,1437,237,4, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,22,6.75,398422,NA,NA,0,Purdue,Howard,38
+2010-11,2010-11-14,1006269,231,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,1577,Purdue,1417,217,20,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,39
+2010-11,2010-11-14,1006269,232,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,NA,NA,1417,217,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,233,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,1438,Howard,1417,217,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,39
+2010-11,2010-11-14,1006269,235,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,1438,Howard,1417,217,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,39
+2010-11,2010-11-14,1006269,236,0,1,Purdue,Howard,Boilermakers,Bison,4,2,24,14,10,1577,Purdue,1417,217,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,39
+2010-11,2010-11-14,1006269,238,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,14,12,1577,Purdue,1402,202,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398422,NA,NA,0,Purdue,Howard,40
+2010-11,2010-11-14,1006269,242,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,14,12,1577,Purdue,1390,190,12,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,41
+2010-11,2010-11-14,1006269,243,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,15,11,1438,Howard,1390,190,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,41
+2010-11,2010-11-14,1006269,244,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,16,10,1438,Howard,1390,190,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,41
+2010-11,2010-11-14,1006269,253,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,18,8,1438,Howard,1369,169,21, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,27,7.75,478360,NA,NA,0,Howard,Howard,42
+2010-11,2010-11-14,1006269,254,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,18,8,1577,Purdue,1369,169,0,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,42
+2010-11,2010-11-14,1006269,255,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,18,8,1438,Howard,1369,169,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,42
+2010-11,2010-11-14,1006269,256,0,1,Purdue,Howard,Boilermakers,Bison,4,2,26,18,8,1577,Purdue,1369,169,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,42
+2010-11,2010-11-14,1006269,258,0,1,Purdue,Howard,Boilermakers,Bison,4,2,29,18,11,1577,Purdue,1352,152,17, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,27.2,29.849999999999994,470261,NA,NA,0,Purdue,Purdue,43
+2010-11,2010-11-14,1006269,260,0,1,Purdue,Howard,Boilermakers,Bison,4,2,29,18,11,1438,Howard,1323,123,29,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,43
+2010-11,2010-11-14,1006269,261,0,1,Purdue,Howard,Boilermakers,Bison,4,2,30,18,12,1577,Purdue,1323,123,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,43
+2010-11,2010-11-14,1006269,262,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,18,13,1577,Purdue,1323,123,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,43
+2010-11,2010-11-14,1006269,265,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,18,13,1438,Howard,1313,113,10, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,7,6.25,524881,NA,NA,0,Howard,Howard,44
+2010-11,2010-11-14,1006269,266,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,18,13,1438,Howard,1313,113,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,44
+2010-11,2010-11-14,1006269,267,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,18,13,1438,Howard,1313,113,0, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,8.15,524877,NA,NA,0,Howard,Howard,44
+2010-11,2010-11-14,1006269,271,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,18,13,1438,Howard,1298,98,15, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,19.5,11.85,478360,NA,NA,0,Howard,Howard,44
+2010-11,2010-11-14,1006269,274,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,21,10,1438,Howard,1281,81,17, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.8,6.65,478360,NA,NA,0,Howard,Purdue,44
+2010-11,2010-11-14,1006269,279,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,21,10,1438,Howard,1259,59,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,17.65,478360,NA,NA,0,Howard,Howard,45
+2010-11,2010-11-14,1006269,280,0,1,Purdue,Howard,Boilermakers,Bison,4,2,31,21,10,1577,Purdue,1259,59,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,45
+2010-11,2010-11-14,1006269,281,0,1,Purdue,Howard,Boilermakers,Bison,4,2,34,21,13,1577,Purdue,1252,52,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37,25.25,549547,NA,NA,0,Purdue,Howard,46
+2010-11,2010-11-14,1006269,282,0,1,Purdue,Howard,Boilermakers,Bison,4,2,34,21,13,1438,Howard,1217,17,35, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,18.25,478360,NA,NA,0,Howard,Howard,47
+2010-11,2010-11-14,1006269,283,0,1,Purdue,Howard,Boilermakers,Bison,4,2,34,21,13,1577,Purdue,1217,17,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,47
+2010-11,2010-11-14,1006269,286,0,1,Purdue,Howard,Boilermakers,Bison,4,2,37,21,16,1577,Purdue,1203,3,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.200000000000003,21.150000000000006,398424,NA,NA,0,Purdue,Howard,48
+2010-11,2010-11-14,1006269,287,0,1,Purdue,Howard,Boilermakers,Bison,4,2,37,21,16,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,293,0,2,Purdue,Howard,Boilermakers,Bison,4,4,37,21,16,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Purdue,49
+2010-11,2010-11-14,1006269,295,0,2,Purdue,Howard,Boilermakers,Bison,4,4,40,21,19,1577,Purdue,1183,1183,17, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.299999999999997,5.849999999999994,470256,NA,NA,0,Purdue,Howard,50
+2010-11,2010-11-14,1006269,296,0,2,Purdue,Howard,Boilermakers,Bison,4,4,40,21,19,1438,Howard,1163,1163,20, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,7.75,570391,NA,NA,0,Howard,Howard,51
+2010-11,2010-11-14,1006269,297,0,2,Purdue,Howard,Boilermakers,Bison,4,4,40,21,19,1577,Purdue,1163,1163,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,51
+2010-11,2010-11-14,1006269,301,0,2,Purdue,Howard,Boilermakers,Bison,4,4,40,21,19,1438,Howard,1145,1145,18, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,16.85,524877,NA,NA,0,Howard,Howard,52
+2010-11,2010-11-14,1006269,306,0,2,Purdue,Howard,Boilermakers,Bison,4,4,40,23,17,1438,Howard,1109,1109,36, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,29.7,20.15,524877,NA,NA,0,Howard,Purdue,52
+2010-11,2010-11-14,1006269,307,0,2,Purdue,Howard,Boilermakers,Bison,4,4,43,23,20,1577,Purdue,1097,1097,12, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.8,21.849999999999994,471928,NA,NA,0,Purdue,Howard,53
+2010-11,2010-11-14,1006269,308,0,2,Purdue,Howard,Boilermakers,Bison,4,4,43,23,20,1438,Howard,1078,1078,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,8.55,478360,NA,NA,0,Howard,Howard,54
+2010-11,2010-11-14,1006269,309,0,2,Purdue,Howard,Boilermakers,Bison,4,4,43,23,20,1577,Purdue,1078,1078,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,54
+2010-11,2010-11-14,1006269,310,0,2,Purdue,Howard,Boilermakers,Bison,4,4,46,23,23,1577,Purdue,1071,1071,7, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39,24.25,398424,NA,NA,0,Purdue,Howard,55
+2010-11,2010-11-14,1006269,312,0,2,Purdue,Howard,Boilermakers,Bison,4,3,46,23,23,1438,Howard,1067,1067,4,Bison take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,320,0,2,Purdue,Howard,Boilermakers,Bison,4,3,46,23,23,1577,Purdue,1052,1052,15,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,56
+2010-11,2010-11-14,1006269,322,0,2,Purdue,Howard,Boilermakers,Bison,4,3,46,25,21,1438,Howard,1027,1027,25, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,34.8,21.15,524877,NA,NA,0,Howard,Purdue,56
+2010-11,2010-11-14,1006269,324,0,2,Purdue,Howard,Boilermakers,Bison,4,3,46,25,21,1438,Howard,1016,1016,11,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,57
+2010-11,2010-11-14,1006269,325,0,2,Purdue,Howard,Boilermakers,Bison,4,3,46,25,21,1577,Purdue,1016,1016,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,57
+2010-11,2010-11-14,1006269,327,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,1016,1016,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,57
+2010-11,2010-11-14,1006269,330,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,992,992,24, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14,19.15,524877,NA,NA,0,Howard,Howard,58
+2010-11,2010-11-14,1006269,331,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,992,992,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,58
+2010-11,2010-11-14,1006269,332,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,992,992,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,59
+2010-11,2010-11-14,1006269,336,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,965,965,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,471926,NA,NA,0,Purdue,Purdue,59
+2010-11,2010-11-14,1006269,337,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,965,965,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,59
+2010-11,2010-11-14,1006269,344,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,NA,NA,958,958,7,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,346,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,945,945,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.3,30.049999999999997,471928,NA,NA,0,Purdue,Purdue,60
+2010-11,2010-11-14,1006269,347,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,945,945,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,60
+2010-11,2010-11-14,1006269,350,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,920,920,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,6.950000000000003,471928,NA,NA,0,Purdue,Purdue,61
+2010-11,2010-11-14,1006269,351,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,920,920,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,61
+2010-11,2010-11-14,1006269,353,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,887,887,33, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11,24.05,524880,NA,NA,0,Howard,Howard,62
+2010-11,2010-11-14,1006269,354,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,887,887,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,62
+2010-11,2010-11-14,1006269,357,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,880,880,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36,26.349999999999994,398424,NA,NA,0,Purdue,Purdue,63
+2010-11,2010-11-14,1006269,358,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,880,880,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,63
+2010-11,2010-11-14,1006269,359,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,880,880,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,63
+2010-11,2010-11-14,1006269,362,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,873,873,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,6.950000000000003,470257,NA,NA,0,Purdue,Purdue,63
+2010-11,2010-11-14,1006269,363,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,873,873,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,63
+2010-11,2010-11-14,1006269,365,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,848,848,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,6.05,524876,NA,NA,0,Howard,Howard,64
+2010-11,2010-11-14,1006269,366,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,848,848,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,64
+2010-11,2010-11-14,1006269,368,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1438,Howard,842,842,6,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,65
+2010-11,2010-11-14,1006269,369,0,2,Purdue,Howard,Boilermakers,Bison,4,3,47,25,22,1577,Purdue,842,842,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,65
+2010-11,2010-11-14,1006269,371,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,25,23,1577,Purdue,842,842,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,65
+2010-11,2010-11-14,1006269,374,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,25,23,1438,Howard,829,829,13, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,7.75,524877,NA,NA,0,Howard,Howard,66
+2010-11,2010-11-14,1006269,375,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,25,23,1438,Howard,829,829,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,66
+2010-11,2010-11-14,1006269,376,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,25,23,1577,Purdue,829,829,0,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,66
+2010-11,2010-11-14,1006269,377,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,26,22,1438,Howard,829,829,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,66
+2010-11,2010-11-14,1006269,378,0,2,Purdue,Howard,Boilermakers,Bison,4,3,48,27,21,1438,Howard,829,829,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,66
+2010-11,2010-11-14,1006269,382,0,2,Purdue,Howard,Boilermakers,Bison,4,3,50,27,23,1577,Purdue,818,818,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,549547,NA,NA,0,Purdue,Howard,67
+2010-11,2010-11-14,1006269,383,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,797,797,21, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398424,NA,NA,0,Purdue,Howard,68
+2010-11,2010-11-14,1006269,391,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1438,Howard,776,776,21, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,8.95,576953,NA,NA,0,Howard,Howard,69
+2010-11,2010-11-14,1006269,392,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,776,776,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,69
+2010-11,2010-11-14,1006269,396,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1438,Howard,768,768,8,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,70
+2010-11,2010-11-14,1006269,398,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,762,762,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.5,6.75,549547,NA,NA,0,Purdue,Purdue,70
+2010-11,2010-11-14,1006269,399,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,762,762,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,70
+2010-11,2010-11-14,1006269,402,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,751,751,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,470257,NA,NA,0,Purdue,Purdue,70
+2010-11,2010-11-14,1006269,403,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1438,Howard,751,751,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,70
+2010-11,2010-11-14,1006269,405,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1438,Howard,743,743,8, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,9.35,524877,NA,NA,0,Howard,Howard,71
+2010-11,2010-11-14,1006269,406,0,2,Purdue,Howard,Boilermakers,Bison,4,3,52,27,25,1577,Purdue,743,743,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,71
+2010-11,2010-11-14,1006269,409,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,740,740,3, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,470257,NA,NA,0,Purdue,Howard,72
+2010-11,2010-11-14,1006269,411,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1438,Howard,713,713,27, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,7.35,576953,NA,NA,0,Howard,Howard,73
+2010-11,2010-11-14,1006269,412,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,713,713,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,73
+2010-11,2010-11-14,1006269,413,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,705,705,8, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,13.349999999999994,398424,NA,NA,0,Purdue,Howard,74
+2010-11,2010-11-14,1006269,415,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,705,705,0,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,75
+2010-11,2010-11-14,1006269,420,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,NA,NA,705,705,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,434,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1438,Howard,693,693,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,9.15,570391,NA,NA,0,Howard,Howard,75
+2010-11,2010-11-14,1006269,435,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,693,693,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,75
+2010-11,2010-11-14,1006269,436,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1577,Purdue,686,686,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17.299999999999997,28.049999999999997,470261,NA,NA,0,Purdue,Purdue,76
+2010-11,2010-11-14,1006269,437,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,27,27,1438,Howard,686,686,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,76
+2010-11,2010-11-14,1006269,438,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,29,25,1438,Howard,678,678,8, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,23,7.25,524876,NA,NA,0,Howard,Purdue,77
+2010-11,2010-11-14,1006269,439,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,29,25,1577,Purdue,667,667,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,24.549999999999997,470257,NA,NA,0,Purdue,Purdue,78
+2010-11,2010-11-14,1006269,440,0,2,Purdue,Howard,Boilermakers,Bison,4,3,54,29,25,1438,Howard,667,667,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,78
+2010-11,2010-11-14,1006269,445,0,2,Purdue,Howard,Boilermakers,Bison,4,2,54,29,25,1438,Howard,645,645,22,Bison take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,447,0,2,Purdue,Howard,Boilermakers,Bison,4,2,54,31,23,1438,Howard,631,631,14, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.8,8.75,524876,NA,NA,0,Howard,Purdue,79
+2010-11,2010-11-14,1006269,448,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1577,Purdue,620,620,11, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,33.8,6.450000000000003,549550,NA,NA,0,Purdue,Howard,80
+2010-11,2010-11-14,1006269,456,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1438,Howard,602,602,18, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,9.65,524876,NA,NA,0,Howard,Howard,81
+2010-11,2010-11-14,1006269,457,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1438,Howard,602,602,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,81
+2010-11,2010-11-14,1006269,458,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1438,Howard,595,595,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,12.25,524876,NA,NA,0,Howard,Howard,81
+2010-11,2010-11-14,1006269,459,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1577,Purdue,595,595,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,81
+2010-11,2010-11-14,1006269,461,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1577,Purdue,587,587,8, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,16.650000000000006,549547,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,462,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1577,Purdue,587,587,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,463,0,2,Purdue,Howard,Boilermakers,Bison,4,2,56,31,25,1438,Howard,587,587,0,Shooting foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,464,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,587,587,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,465,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,587,587,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,466,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,587,587,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,82
+2010-11,2010-11-14,1006269,471,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,581,581,6,Offensive foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,82
+2010-11,2010-11-14,1006269,473,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,551,551,30, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.3,9.85,524877,NA,NA,0,Howard,Howard,83
+2010-11,2010-11-14,1006269,474,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,551,551,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,83
+2010-11,2010-11-14,1006269,475,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,523,523,28, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,25,19.95,570390,NA,NA,0,Howard,Howard,84
+2010-11,2010-11-14,1006269,476,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,523,523,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,84
+2010-11,2010-11-14,1006269,478,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,503,503,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,470258,NA,NA,0,Purdue,Purdue,85
+2010-11,2010-11-14,1006269,479,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,503,503,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,85
+2010-11,2010-11-14,1006269,481,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,489,489,14, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,15.55,524880,NA,NA,0,Howard,Howard,85
+2010-11,2010-11-14,1006269,482,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,489,489,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,85
+2010-11,2010-11-14,1006269,484,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,480,480,9, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,6.75,470261,NA,NA,0,Purdue,Purdue,86
+2010-11,2010-11-14,1006269,485,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,480,480,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,86
+2010-11,2010-11-14,1006269,486,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,480,480,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,86
+2010-11,2010-11-14,1006269,493,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,NA,NA,474,474,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,495,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,474,474,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,86
+2010-11,2010-11-14,1006269,496,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,474,474,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,86
+2010-11,2010-11-14,1006269,499,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,464,464,10,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,502,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,449,449,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,12.75,570390,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,503,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,449,449,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,504,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,448,448,1, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.8,8.55,524877,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,505,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,448,448,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,508,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,444,444,4,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,510,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1438,Howard,433,433,11, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,11.85,570390,NA,NA,0,Howard,Howard,87
+2010-11,2010-11-14,1006269,511,0,2,Purdue,Howard,Boilermakers,Bison,4,2,57,31,26,1577,Purdue,433,433,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,87
+2010-11,2010-11-14,1006269,512,0,2,Purdue,Howard,Boilermakers,Bison,4,2,59,31,28,1577,Purdue,425,425,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,549547,NA,NA,0,Purdue,Howard,88
+2010-11,2010-11-14,1006269,519,0,2,Purdue,Howard,Boilermakers,Bison,4,2,59,33,26,1438,Howard,401,401,24, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.5,8.35,524880,NA,NA,0,Howard,Purdue,89
+2010-11,2010-11-14,1006269,520,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1577,Purdue,377,377,24, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.299999999999997,11.049999999999997,470261,NA,NA,0,Purdue,Howard,90
+2010-11,2010-11-14,1006269,521,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1438,Howard,350,350,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,12.05,524877,NA,NA,0,Howard,Howard,91
+2010-11,2010-11-14,1006269,522,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1577,Purdue,350,350,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,91
+2010-11,2010-11-14,1006269,523,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1577,Purdue,341,341,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,13.950000000000003,549547,NA,NA,0,Purdue,Purdue,92
+2010-11,2010-11-14,1006269,524,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1438,Howard,341,341,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,92
+2010-11,2010-11-14,1006269,525,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1438,Howard,331,331,10, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,6.95,524876,NA,NA,0,Howard,Howard,93
+2010-11,2010-11-14,1006269,526,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1438,Howard,331,331,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,93
+2010-11,2010-11-14,1006269,536,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,33,29,1577,Purdue,292,292,39,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,93
+2010-11,2010-11-14,1006269,537,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,34,28,1438,Howard,292,292,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,93
+2010-11,2010-11-14,1006269,538,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,35,27,1438,Howard,292,292,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,93
+2010-11,2010-11-14,1006269,540,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,35,27,1577,Purdue,268,268,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.299999999999997,24.25,471926,NA,NA,0,Purdue,Purdue,94
+2010-11,2010-11-14,1006269,541,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,35,27,1438,Howard,268,268,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,94
+2010-11,2010-11-14,1006269,552,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,35,27,1577,Purdue,245,245,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,471926,NA,NA,0,Purdue,Howard,95
+2010-11,2010-11-14,1006269,557,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1438,Howard,227,227,18, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12,7.55,570391,NA,NA,0,Howard,Purdue,96
+2010-11,2010-11-14,1006269,559,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1438,Howard,209,209,18,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,97
+2010-11,2010-11-14,1006269,560,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,NA,NA,209,209,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,564,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1577,Purdue,209,209,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,97
+2010-11,2010-11-14,1006269,565,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1438,Howard,209,209,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Howard,97
+2010-11,2010-11-14,1006269,568,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1438,Howard,207,207,2, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,98
+2010-11,2010-11-14,1006269,569,0,2,Purdue,Howard,Boilermakers,Bison,4,2,62,37,25,1577,Purdue,207,207,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,98
+2010-11,2010-11-14,1006269,571,0,2,Purdue,Howard,Boilermakers,Bison,4,2,64,37,27,1577,Purdue,197,197,10, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,515554,NA,NA,0,Purdue,Howard,99
+2010-11,2010-11-14,1006269,574,0,2,Purdue,Howard,Boilermakers,Bison,4,2,67,37,30,1577,Purdue,171,171,26, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.8,10.049999999999997,470256,NA,NA,0,Purdue,Howard,100
+2010-11,2010-11-14,1006269,576,0,2,Purdue,Howard,Boilermakers,Bison,4,2,67,37,30,1577,Purdue,146,146,25,Personal foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,101
+2010-11,2010-11-14,1006269,577,0,2,Purdue,Howard,Boilermakers,Bison,4,2,67,37,30,1438,Howard,146,146,0,Personal foul committed by Bison.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,101
+2010-11,2010-11-14,1006269,579,0,2,Purdue,Howard,Boilermakers,Bison,4,2,70,37,33,1577,Purdue,132,132,14, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.8,29.650000000000006,470261,NA,NA,0,Purdue,Howard,101
+2010-11,2010-11-14,1006269,580,0,2,Purdue,Howard,Boilermakers,Bison,4,2,70,37,33,1438,Howard,112,112,20, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,25,14.15,524881,NA,NA,0,Howard,Howard,102
+2010-11,2010-11-14,1006269,581,0,2,Purdue,Howard,Boilermakers,Bison,4,2,70,37,33,1577,Purdue,112,112,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,102
+2010-11,2010-11-14,1006269,582,0,2,Purdue,Howard,Boilermakers,Bison,4,2,73,37,36,1577,Purdue,104,104,8, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,21,28.650000000000006,470261,NA,NA,0,Purdue,Howard,103
+2010-11,2010-11-14,1006269,583,0,2,Purdue,Howard,Boilermakers,Bison,4,2,73,39,34,1438,Howard,89,89,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,570390,NA,NA,0,Howard,Purdue,104
+2010-11,2010-11-14,1006269,584,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,39,37,1577,Purdue,71,71,18, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.2,17.450000000000003,470256,NA,NA,0,Purdue,Howard,105
+2010-11,2010-11-14,1006269,586,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,39,37,1438,Howard,32,32,39, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,9.35,524881,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,587,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,39,37,1438,Howard,32,32,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,588,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,32,32,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,589,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,32,32,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,590,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,32,32,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,593,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1577,Purdue,31,31,1,Shooting foul committed by Boilermakers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,594,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,31,31,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,23,8.35,576953,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,596,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,31,31,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,598,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1438,Howard,31,31,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Howard,106
+2010-11,2010-11-14,1006269,599,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,1577,Purdue,31,31,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Howard,Purdue,106
+2010-11,2010-11-14,1006269,601,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,NA,NA,0,0,31,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-11-14,1006269,602,0,2,Purdue,Howard,Boilermakers,Bison,4,2,76,40,36,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Purdue,Purdue,NA

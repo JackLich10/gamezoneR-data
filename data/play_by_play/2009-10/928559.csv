@@ -1,0 +1,285 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-24,928559,1,0,1,Houston,Memphis,Cougars,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Houston,NA
+2009-10,2010-02-24,928559,4,0,1,Houston,Memphis,Cougars,Tigers,4,4,0,0,0,1436,Houston,2395,1195,5, misses a hook shot from 1 foot out.,missed,FALSE,FALSE,Hook Shot,25.8,5.650000000000006,513055,NA,NA,0,Houston,Houston,1
+2009-10,2010-02-24,928559,6,0,1,Houston,Memphis,Cougars,Tigers,4,4,0,0,0,1436,Houston,2376,1176,19, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,16.700000000000003,20.549999999999997,464832,NA,NA,0,Houston,Houston,1
+2009-10,2010-02-24,928559,7,0,1,Houston,Memphis,Cougars,Tigers,4,4,2,0,2,1436,Houston,2373,1173,3, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,27.2,22.450000000000003,329688,NA,NA,0,Houston,Memphis,1
+2009-10,2010-02-24,928559,12,0,1,Houston,Memphis,Cougars,Tigers,4,4,2,0,2,1436,Houston,2340,1140,33, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,19.2,6.650000000000006,513055,NA,NA,0,Houston,Memphis,2
+2009-10,2010-02-24,928559,13,0,1,Houston,Memphis,Cougars,Tigers,4,4,2,0,2,1493,Memphis,2332,1132,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Memphis,3
+2009-10,2010-02-24,928559,14,0,1,Houston,Memphis,Cougars,Tigers,4,4,2,2,0,1493,Memphis,2318,1118,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,Houston,3
+2009-10,2010-02-24,928559,14.75,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1436,Houston,2306,1106,12, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,11.5,12.75,513049,NA,NA,0,Houston,Memphis,4
+2009-10,2010-02-24,928559,15.5,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1493,Memphis,2300,1100,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,13.95,467272,NA,NA,0,Memphis,Memphis,5
+2009-10,2010-02-24,928559,16,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1493,Memphis,2288,1088,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30.3,28.65,329995,NA,NA,0,Memphis,Houston,5
+2009-10,2010-02-24,928559,19,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1436,Houston,2272,1072,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464831,NA,NA,0,Houston,Memphis,6
+2009-10,2010-02-24,928559,20,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1493,Memphis,2257,1057,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,8.35,467272,NA,NA,0,Memphis,Memphis,7
+2009-10,2010-02-24,928559,26,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,2,2,1436,Houston,2219,1019,38,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,7
+2009-10,2010-02-24,928559,27,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,3,1,1493,Memphis,2219,1019,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,7
+2009-10,2010-02-24,928559,28,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,4,0,1493,Memphis,2219,1019,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,7
+2009-10,2010-02-24,928559,31,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,4,0,1493,Memphis,2212,1012,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,8
+2009-10,2010-02-24,928559,32,0,1,Houston,Memphis,Cougars,Tigers,4,4,4,4,0,1436,Houston,2212,1012,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,8
+2009-10,2010-02-24,928559,33,0,1,Houston,Memphis,Cougars,Tigers,4,4,5,4,1,1436,Houston,2212,1012,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,8
+2009-10,2010-02-24,928559,36,0,1,Houston,Memphis,Cougars,Tigers,4,4,7,4,3,1436,Houston,2206,1006,6, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,19.3,11.049999999999997,464831,NA,NA,0,Houston,Memphis,9
+2009-10,2010-02-24,928559,37,0,1,Houston,Memphis,Cougars,Tigers,4,4,9,4,5,1436,Houston,2185,985,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464831,NA,NA,0,Houston,Memphis,10
+2009-10,2010-02-24,928559,38,0,1,Houston,Memphis,Cougars,Tigers,4,4,9,4,5,1493,Memphis,2167,967,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,13.75,329995,NA,NA,0,Memphis,Houston,11
+2009-10,2010-02-24,928559,39,0,1,Houston,Memphis,Cougars,Tigers,4,4,9,4,5,1436,Houston,2159,959,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,16.650000000000006,464831,NA,NA,0,Houston,Houston,12
+2009-10,2010-02-24,928559,52,0,1,Houston,Memphis,Cougars,Tigers,4,4,9,4,5,NA,NA,2143,943,16,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,58,0,1,Houston,Memphis,Cougars,Tigers,4,4,9,4,5,1436,Houston,2135,935,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15,26.950000000000003,464831,NA,NA,0,Houston,Houston,12
+2009-10,2010-02-24,928559,61,0,1,Houston,Memphis,Cougars,Tigers,4,4,11,4,7,1436,Houston,2121,921,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Memphis,12
+2009-10,2010-02-24,928559,63,0,1,Houston,Memphis,Cougars,Tigers,4,4,11,4,7,1493,Memphis,2115,915,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,64,0,1,Houston,Memphis,Cougars,Tigers,4,4,11,4,7,1493,Memphis,2115,915,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,65,0,1,Houston,Memphis,Cougars,Tigers,4,4,11,4,7,1493,Memphis,2110,910,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,23.25,464842,NA,NA,0,Memphis,Houston,13
+2009-10,2010-02-24,928559,66,0,1,Houston,Memphis,Cougars,Tigers,4,4,13,4,9,1436,Houston,2104,904,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329688,NA,NA,0,Houston,Memphis,14
+2009-10,2010-02-24,928559,68,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2099,899,5,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,71,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2099,899,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,72.5,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2094,894,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464840,NA,NA,0,Memphis,Memphis,15
+2009-10,2010-02-24,928559,73,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2093,893,1, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,8.3,13.55,329996,NA,NA,0,Memphis,Houston,15
+2009-10,2010-02-24,928559,75,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2084,884,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,76,0,1,Houston,Memphis,Cougars,Tigers,4,3,13,4,9,1493,Memphis,2084,884,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,78,0,1,Houston,Memphis,Cougars,Tigers,4,3,15,4,11,1436,Houston,2083,883,1, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513049,NA,NA,0,Houston,Memphis,16
+2009-10,2010-02-24,928559,79,0,1,Houston,Memphis,Cougars,Tigers,4,3,15,4,11,1493,Memphis,2077,877,6, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,20.8,7.95,464840,NA,NA,0,Memphis,Houston,17
+2009-10,2010-02-24,928559,98,0,1,Houston,Memphis,Cougars,Tigers,4,3,15,4,11,1436,Houston,2022,822,55, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21.3,28.450000000000003,464832,NA,NA,0,Houston,Memphis,18
+2009-10,2010-02-24,928559,99,0,1,Houston,Memphis,Cougars,Tigers,4,3,15,7,8,1493,Memphis,2010,810,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.5,10.05,329996,NA,NA,0,Memphis,Houston,19
+2009-10,2010-02-24,928559,101,0,1,Houston,Memphis,Cougars,Tigers,3,3,15,7,8,1436,Houston,2007,807,3,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,102,0,1,Houston,Memphis,Cougars,Tigers,3,3,15,7,8,1493,Memphis,2007,807,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,104,0,1,Houston,Memphis,Cougars,Tigers,3,3,15,7,8,1436,Houston,1995,795,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,11.049999999999997,329688,NA,NA,0,Houston,Houston,20
+2009-10,2010-02-24,928559,105,0,1,Houston,Memphis,Cougars,Tigers,3,3,17,7,10,1436,Houston,1971,771,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Memphis,20
+2009-10,2010-02-24,928559,106,0,1,Houston,Memphis,Cougars,Tigers,3,3,19,7,12,1436,Houston,1966,766,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464831,NA,NA,0,Houston,Memphis,21
+2009-10,2010-02-24,928559,142,0,1,Houston,Memphis,Cougars,Tigers,3,3,19,7,12,NA,NA,1894,694,72,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,146,0,1,Houston,Memphis,Cougars,Tigers,3,3,19,7,12,1493,Memphis,1889,689,5, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,18.05,464840,NA,NA,0,Memphis,Houston,22
+2009-10,2010-02-24,928559,148,0,1,Houston,Memphis,Cougars,Tigers,3,3,19,7,12,1493,Memphis,1859,659,30,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,23
+2009-10,2010-02-24,928559,149,0,1,Houston,Memphis,Cougars,Tigers,3,3,19,7,12,1493,Memphis,1859,659,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,150,0,1,Houston,Memphis,Cougars,Tigers,3,3,20,7,13,1436,Houston,1859,659,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,23
+2009-10,2010-02-24,928559,151,0,1,Houston,Memphis,Cougars,Tigers,3,3,20,7,13,1436,Houston,1859,659,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,23
+2009-10,2010-02-24,928559,153,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,7,15,1436,Houston,1849,649,10, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13.5,9.150000000000006,329688,NA,NA,0,Houston,Memphis,23
+2009-10,2010-02-24,928559,156,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,7,15,1493,Memphis,1835,635,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,158,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1493,Memphis,1822,622,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506598,NA,NA,0,Memphis,Houston,24
+2009-10,2010-02-24,928559,159,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1436,Houston,1800,600,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,16.849999999999994,329688,NA,NA,0,Houston,Memphis,25
+2009-10,2010-02-24,928559,160,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1493,Memphis,1787,587,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18.5,9.65,329995,NA,NA,0,Memphis,Houston,26
+2009-10,2010-02-24,928559,162,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1493,Memphis,1781,581,6,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,27
+2009-10,2010-02-24,928559,163,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1436,Houston,1781,581,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,27
+2009-10,2010-02-24,928559,164,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1493,Memphis,1781,581,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,165,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1493,Memphis,1781,581,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,166,0,1,Houston,Memphis,Cougars,Tigers,3,3,22,9,13,1436,Houston,1781,581,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,167,0,1,Houston,Memphis,Cougars,Tigers,3,3,23,9,14,1436,Houston,1781,581,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,27
+2009-10,2010-02-24,928559,172,0,1,Houston,Memphis,Cougars,Tigers,3,3,23,9,14,1493,Memphis,1762,562,19,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,27
+2009-10,2010-02-24,928559,173,0,1,Houston,Memphis,Cougars,Tigers,3,3,24,9,15,1436,Houston,1762,562,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,27
+2009-10,2010-02-24,928559,174,0,1,Houston,Memphis,Cougars,Tigers,3,3,25,9,16,1436,Houston,1762,562,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,27
+2009-10,2010-02-24,928559,176,0,1,Houston,Memphis,Cougars,Tigers,3,3,25,12,13,1493,Memphis,1746,546,16, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44,12.95,329519,NA,NA,0,Memphis,Houston,28
+2009-10,2010-02-24,928559,177,0,1,Houston,Memphis,Cougars,Tigers,3,3,25,12,13,1436,Houston,1720,520,26, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13.200000000000003,10.650000000000006,513055,NA,NA,0,Houston,Houston,29
+2009-10,2010-02-24,928559,178,0,1,Houston,Memphis,Cougars,Tigers,3,3,25,12,13,1436,Houston,1708,508,12, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,29,25.549999999999997,329688,NA,NA,0,Houston,Memphis,29
+2009-10,2010-02-24,928559,179,0,1,Houston,Memphis,Cougars,Tigers,3,3,25,12,13,1493,Memphis,1702,502,6, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,14.8,7.35,524960,NA,NA,0,Memphis,Houston,30
+2009-10,2010-02-24,928559,180,0,1,Houston,Memphis,Cougars,Tigers,3,3,27,12,15,1436,Houston,1688,488,14, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,32,22.849999999999994,295326,NA,NA,0,Houston,Memphis,31
+2009-10,2010-02-24,928559,182,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1493,Memphis,1672,472,16,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,185,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1436,Houston,1664,464,8,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,32
+2009-10,2010-02-24,928559,192,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,NA,NA,1658,458,6,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,195,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1493,Memphis,1650,450,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,196,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1493,Memphis,1650,450,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,199,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1436,Houston,1646,446,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,201,0,1,Houston,Memphis,Cougars,Tigers,3,2,27,12,15,1436,Houston,1619,419,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464832,NA,NA,0,Houston,Houston,32
+2009-10,2010-02-24,928559,202,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,12,17,1436,Houston,1613,413,6, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,25.3,1.75,513052,NA,NA,0,Houston,Memphis,32
+2009-10,2010-02-24,928559,204,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,12,17,1436,Houston,1608,408,5,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,33
+2009-10,2010-02-24,928559,206,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,12,17,1493,Memphis,1608,408,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,209,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,12,17,1436,Houston,1603,403,5,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,33
+2009-10,2010-02-24,928559,210,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,13,16,1493,Memphis,1603,403,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,33
+2009-10,2010-02-24,928559,211,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,13,16,1493,Memphis,1603,403,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,33
+2009-10,2010-02-24,928559,213,0,1,Houston,Memphis,Cougars,Tigers,3,2,29,13,16,1493,Memphis,1596,396,7, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,20.3,4.25,329995,NA,NA,0,Memphis,Houston,33
+2009-10,2010-02-24,928559,214,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,13,18,1436,Houston,1580,380,16, makes a jump shot.,made,FALSE,FALSE,Jump Shot,25,5.25,464831,NA,NA,0,Houston,Memphis,34
+2009-10,2010-02-24,928559,216,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,13,18,1493,Memphis,1567,367,13, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.3,8.95,464840,NA,NA,0,Memphis,Houston,35
+2009-10,2010-02-24,928559,217,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,13,18,1436,Houston,1561,361,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,2.3499999999999943,464831,NA,NA,0,Houston,Memphis,36
+2009-10,2010-02-24,928559,219,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,13,18,1436,Houston,1550,350,11,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,37
+2009-10,2010-02-24,928559,220,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,13,18,1436,Houston,1550,350,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,223,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,14,17,1493,Memphis,1550,350,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,37
+2009-10,2010-02-24,928559,224,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,15,16,1493,Memphis,1550,350,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,37
+2009-10,2010-02-24,928559,226,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,15,16,1436,Houston,1529,329,21, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,24.549999999999997,464831,NA,NA,0,Houston,Memphis,38
+2009-10,2010-02-24,928559,227,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,17,14,1493,Memphis,1515,315,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Memphis,39
+2009-10,2010-02-24,928559,229,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,17,14,1436,Houston,1511,311,4,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,39
+2009-10,2010-02-24,928559,230,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,18,13,1493,Memphis,1511,311,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,39
+2009-10,2010-02-24,928559,231,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,18,13,1493,Memphis,1511,311,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,232,0,1,Houston,Memphis,Cougars,Tigers,3,2,31,18,13,1436,Houston,1511,311,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,234,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,18,15,1436,Houston,1502,302,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Memphis,40
+2009-10,2010-02-24,928559,235,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,18,15,1493,Memphis,1490,290,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Houston,41
+2009-10,2010-02-24,928559,236,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,18,15,1436,Houston,1465,265,25, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,27.8,4.450000000000003,513055,NA,NA,0,Houston,Memphis,42
+2009-10,2010-02-24,928559,238,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,18,15,1436,Houston,1457,257,8,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,43
+2009-10,2010-02-24,928559,239,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,18,15,1436,Houston,1457,257,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,240,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,19,14,1493,Memphis,1457,257,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,43
+2009-10,2010-02-24,928559,241,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,20,13,1493,Memphis,1457,257,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,44
+2009-10,2010-02-24,928559,243,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,20,13,1436,Houston,1429,229,28, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,16.299999999999997,15.150000000000006,329688,NA,NA,0,Houston,Memphis,45
+2009-10,2010-02-24,928559,244,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,22,11,1493,Memphis,1421,221,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467272,NA,NA,0,Memphis,Memphis,46
+2009-10,2010-02-24,928559,246,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,22,11,1436,Houston,1418,218,3,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,46
+2009-10,2010-02-24,928559,257,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,22,11,NA,NA,1408,208,10,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,258,0,1,Houston,Memphis,Cougars,Tigers,3,2,33,22,11,1493,Memphis,1408,208,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,46
+2009-10,2010-02-24,928559,260,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,22,14,1436,Houston,1387,187,21, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,6.700000000000003,17.25,464831,NA,NA,0,Houston,Memphis,47
+2009-10,2010-02-24,928559,262,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,22,14,1436,Houston,1370,170,17,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,264,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,22,14,1493,Memphis,1362,162,8, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,20.2,6.45,467272,NA,NA,0,Memphis,Memphis,48
+2009-10,2010-02-24,928559,267,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,22,14,1436,Houston,1359,159,3,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,48
+2009-10,2010-02-24,928559,268,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,24,12,1493,Memphis,1359,159,0, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.2,1.5499999999999998,524963,NA,NA,0,Memphis,Houston,48
+2009-10,2010-02-24,928559,269,0,1,Houston,Memphis,Cougars,Tigers,3,2,36,24,12,1493,Memphis,1359,159,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,49
+2009-10,2010-02-24,928559,271,0,1,Houston,Memphis,Cougars,Tigers,3,2,39,24,15,1436,Houston,1349,149,10, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,9.700000000000003,21.650000000000006,464831,NA,NA,0,Houston,Memphis,50
+2009-10,2010-02-24,928559,272,0,1,Houston,Memphis,Cougars,Tigers,3,2,39,26,13,1493,Memphis,1327,127,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,524963,NA,NA,0,Memphis,Houston,51
+2009-10,2010-02-24,928559,273,0,1,Houston,Memphis,Cougars,Tigers,3,2,39,26,13,1436,Houston,1300,100,27, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,27,13.549999999999997,295326,NA,NA,0,Houston,Houston,52
+2009-10,2010-02-24,928559,274,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,26,15,1436,Houston,1297,97,3, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513049,NA,NA,0,Houston,Memphis,52
+2009-10,2010-02-24,928559,276,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,26,15,1436,Houston,1285,85,12,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,53
+2009-10,2010-02-24,928559,277,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,27,14,1493,Memphis,1285,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,53
+2009-10,2010-02-24,928559,278,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,27,14,1493,Memphis,1285,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,279,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,27,14,1436,Houston,1285,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,280,0,1,Houston,Memphis,Cougars,Tigers,3,2,41,28,13,1493,Memphis,1285,85,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,53
+2009-10,2010-02-24,928559,282,0,1,Houston,Memphis,Cougars,Tigers,3,2,43,28,15,1436,Houston,1272,72,13, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,30.2,20.549999999999997,513049,NA,NA,0,Houston,Memphis,54
+2009-10,2010-02-24,928559,283,0,1,Houston,Memphis,Cougars,Tigers,3,2,43,28,15,1493,Memphis,1261,61,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,2.95,329996,NA,NA,0,Memphis,Houston,55
+2009-10,2010-02-24,928559,284,0,1,Houston,Memphis,Cougars,Tigers,3,2,43,28,15,1436,Houston,1225,25,36, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,14.349999999999994,513050,NA,NA,0,Houston,Memphis,56
+2009-10,2010-02-24,928559,287,0,1,Houston,Memphis,Cougars,Tigers,3,2,43,28,15,NA,NA,1200,0,25,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,506,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,28,15,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Memphis,57
+2009-10,2010-02-24,928559,508,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,28,15,1493,Memphis,1199,1199,1, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,21.65,464840,NA,NA,0,Memphis,Houston,58
+2009-10,2010-02-24,928559,509,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,28,15,1436,Houston,1179,1179,20, misses a hook shot from 4 feet out.,missed,FALSE,FALSE,Hook Shot,22.2,3.1500000000000057,513055,NA,NA,0,Houston,Memphis,59
+2009-10,2010-02-24,928559,515,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,28,15,1436,Houston,1164,1164,15,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,60
+2009-10,2010-02-24,928559,516,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,29,14,1493,Memphis,1164,1164,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,60
+2009-10,2010-02-24,928559,517,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,29,14,1493,Memphis,1164,1164,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,60
+2009-10,2010-02-24,928559,519,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,29,14,1493,Memphis,1143,1143,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,28.45,329996,NA,NA,0,Memphis,Memphis,60
+2009-10,2010-02-24,928559,520,0,2,Houston,Memphis,Cougars,Tigers,4,4,43,31,12,1493,Memphis,1136,1136,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329519,NA,NA,0,Memphis,Houston,60
+2009-10,2010-02-24,928559,522,0,2,Houston,Memphis,Cougars,Tigers,3,4,43,31,12,1436,Houston,1129,1129,7,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,523,0,2,Houston,Memphis,Cougars,Tigers,3,4,43,31,12,1493,Memphis,1129,1129,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,526,0,2,Houston,Memphis,Cougars,Tigers,3,4,43,31,12,1436,Houston,1121,1121,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,528,0,2,Houston,Memphis,Cougars,Tigers,3,4,43,31,12,1493,Memphis,1108,1108,13, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,14.15,464840,NA,NA,0,Memphis,Houston,61
+2009-10,2010-02-24,928559,530,0,2,Houston,Memphis,Cougars,Tigers,3,4,43,31,12,1493,Memphis,1099,1099,9,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,62
+2009-10,2010-02-24,928559,533,0,2,Houston,Memphis,Cougars,Tigers,3,4,45,31,14,1436,Houston,1093,1093,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Memphis,62
+2009-10,2010-02-24,928559,534,0,2,Houston,Memphis,Cougars,Tigers,3,4,45,31,14,1493,Memphis,1079,1079,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Houston,63
+2009-10,2010-02-24,928559,535,0,2,Houston,Memphis,Cougars,Tigers,3,4,47,31,16,1436,Houston,1058,1058,21, makes a hook shot from 2 feet out.,made,FALSE,FALSE,Hook Shot,26.5,6.950000000000003,513055,NA,NA,0,Houston,Houston,64
+2009-10,2010-02-24,928559,537,0,2,Houston,Memphis,Cougars,Tigers,3,4,47,31,16,1493,Memphis,1054,1054,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,64
+2009-10,2010-02-24,928559,538,0,2,Houston,Memphis,Cougars,Tigers,3,4,47,31,16,1493,Memphis,1054,1054,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,541,0,2,Houston,Memphis,Cougars,Tigers,3,4,47,31,16,1436,Houston,1054,1054,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,64
+2009-10,2010-02-24,928559,543,0,2,Houston,Memphis,Cougars,Tigers,3,4,47,33,14,1493,Memphis,1047,1047,7, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,27.5,6.05,464840,NA,NA,0,Memphis,Houston,65
+2009-10,2010-02-24,928559,544,0,2,Houston,Memphis,Cougars,Tigers,3,4,49,33,16,1436,Houston,1040,1040,7, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,11.200000000000003,9.349999999999994,464831,NA,NA,0,Houston,Houston,66
+2009-10,2010-02-24,928559,546,0,2,Houston,Memphis,Cougars,Tigers,3,4,49,33,16,1493,Memphis,1037,1037,3,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,66
+2009-10,2010-02-24,928559,547,0,2,Houston,Memphis,Cougars,Tigers,3,4,50,33,17,1436,Houston,1037,1037,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,66
+2009-10,2010-02-24,928559,549,0,2,Houston,Memphis,Cougars,Tigers,3,4,50,36,14,1493,Memphis,1036,1036,1, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,6.199999999999999,13.75,329519,NA,NA,0,Memphis,Houston,67
+2009-10,2010-02-24,928559,550,0,2,Houston,Memphis,Cougars,Tigers,3,4,53,36,17,1436,Houston,1017,1017,19, makes a 3-point jump shot from 20 feet out.,made,FALSE,TRUE,Jump Shot,5.799999999999997,12.049999999999997,295326,NA,NA,0,Houston,Memphis,68
+2009-10,2010-02-24,928559,552,0,2,Houston,Memphis,Cougars,Tigers,3,4,53,36,17,1436,Houston,1006,1006,11,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,69
+2009-10,2010-02-24,928559,557,0,2,Houston,Memphis,Cougars,Tigers,3,4,53,36,17,1493,Memphis,994,994,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,12.05,329519,NA,NA,0,Memphis,Memphis,69
+2009-10,2010-02-24,928559,558,0,2,Houston,Memphis,Cougars,Tigers,3,4,53,38,15,1493,Memphis,991,991,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506598,NA,NA,0,Memphis,Houston,69
+2009-10,2010-02-24,928559,560,0,2,Houston,Memphis,Cougars,Tigers,3,4,53,38,15,1493,Memphis,983,983,8,Technical foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,70
+2009-10,2010-02-24,928559,562,0,2,Houston,Memphis,Cougars,Tigers,3,4,54,38,16,1436,Houston,983,983,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,70
+2009-10,2010-02-24,928559,563,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,38,17,1436,Houston,983,983,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,70
+2009-10,2010-02-24,928559,568,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,38,17,1436,Houston,953,953,30,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,71
+2009-10,2010-02-24,928559,575,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,38,17,NA,NA,947,947,6,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,576,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,39,16,1493,Memphis,947,947,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,71
+2009-10,2010-02-24,928559,577,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,40,15,1493,Memphis,947,947,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,71
+2009-10,2010-02-24,928559,579,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,42,13,1493,Memphis,946,946,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Houston,72
+2009-10,2010-02-24,928559,580,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,42,13,1436,Houston,925,925,21, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.7,14.349999999999994,329688,NA,NA,0,Houston,Memphis,73
+2009-10,2010-02-24,928559,581,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,42,13,1493,Memphis,916,916,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,9,10.45,464840,NA,NA,0,Memphis,Houston,74
+2009-10,2010-02-24,928559,583,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,42,13,1493,Memphis,907,907,9,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,75
+2009-10,2010-02-24,928559,584,0,2,Houston,Memphis,Cougars,Tigers,3,4,55,42,13,1436,Houston,907,907,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,75
+2009-10,2010-02-24,928559,585,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,42,14,1436,Houston,907,907,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,75
+2009-10,2010-02-24,928559,587,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1493,Memphis,893,893,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,506598,NA,NA,0,Memphis,Houston,76
+2009-10,2010-02-24,928559,588,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1436,Houston,875,875,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.799999999999997,11.25,464831,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,590,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1493,Memphis,849,849,26,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,591,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1493,Memphis,849,849,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,592,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1493,Memphis,849,849,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,594,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1436,Houston,838,838,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,11.049999999999997,464831,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,598,0,2,Houston,Memphis,Cougars,Tigers,3,4,56,44,12,1493,Memphis,824,824,14,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,600,0,2,Houston,Memphis,Cougars,Tigers,3,4,58,44,14,1436,Houston,818,818,6, makes a hook shot from 3 feet out.,made,FALSE,FALSE,Hook Shot,28.3,4.849999999999994,464831,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,602,0,2,Houston,Memphis,Cougars,Tigers,3,4,58,44,14,1493,Memphis,813,813,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,77
+2009-10,2010-02-24,928559,603,0,2,Houston,Memphis,Cougars,Tigers,3,4,58,44,14,1493,Memphis,813,813,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,604,0,2,Houston,Memphis,Cougars,Tigers,3,4,59,44,15,1436,Houston,813,813,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,77
+2009-10,2010-02-24,928559,606,0,2,Houston,Memphis,Cougars,Tigers,3,4,59,44,15,1493,Memphis,805,805,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329519,NA,NA,0,Memphis,Houston,78
+2009-10,2010-02-24,928559,607,0,2,Houston,Memphis,Cougars,Tigers,3,4,61,44,17,1436,Houston,773,773,32, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464831,NA,NA,0,Houston,Memphis,79
+2009-10,2010-02-24,928559,609,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,770,770,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,612,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,762,762,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,613,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,762,762,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,617,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,NA,NA,750,750,12,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,618,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,750,750,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,619,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,750,750,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,622,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,746,746,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,624,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,745,745,1, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.7,8.75,329519,NA,NA,0,Memphis,Houston,80
+2009-10,2010-02-24,928559,627,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,728,728,17,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,81
+2009-10,2010-02-24,928559,628,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,728,728,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,629,0,2,Houston,Memphis,Cougars,Tigers,3,3,61,44,17,1493,Memphis,728,728,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,630,0,2,Houston,Memphis,Cougars,Tigers,3,3,62,44,18,1436,Houston,728,728,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,81
+2009-10,2010-02-24,928559,631,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,44,19,1436,Houston,728,728,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,81
+2009-10,2010-02-24,928559,634,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,44,19,1436,Houston,714,714,14,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,82
+2009-10,2010-02-24,928559,636,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,47,16,1493,Memphis,697,697,17, makes a 3-point jump shot from 28 feet out.,made,FALSE,TRUE,Jump Shot,18.2,32.15,464842,NA,NA,0,Memphis,Houston,82
+2009-10,2010-02-24,928559,637,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,47,16,1436,Houston,680,680,17, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,29.2,7.950000000000003,513055,NA,NA,0,Houston,Memphis,83
+2009-10,2010-02-24,928559,638,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,49,14,1493,Memphis,663,663,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Memphis,84
+2009-10,2010-02-24,928559,640,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,49,14,1436,Houston,659,659,4,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,84
+2009-10,2010-02-24,928559,641,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,49,14,1493,Memphis,659,659,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,642,0,2,Houston,Memphis,Cougars,Tigers,3,3,63,50,13,1493,Memphis,659,659,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,84
+2009-10,2010-02-24,928559,645,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,50,16,1436,Houston,644,644,15, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,39.7,21.150000000000006,464831,NA,NA,0,Houston,Memphis,85
+2009-10,2010-02-24,928559,647,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,50,16,1436,Houston,628,628,16,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,86
+2009-10,2010-02-24,928559,649,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,50,16,1436,Houston,628,628,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,652,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,50,16,1436,Houston,620,620,8,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,86
+2009-10,2010-02-24,928559,653,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,51,15,1493,Memphis,620,620,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,86
+2009-10,2010-02-24,928559,654,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,51,15,1493,Memphis,620,620,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,86
+2009-10,2010-02-24,928559,656,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,51,15,1493,Memphis,618,618,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467272,NA,NA,0,Memphis,Memphis,86
+2009-10,2010-02-24,928559,659,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,51,15,1493,Memphis,601,601,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,29,28.25,329995,NA,NA,0,Memphis,Houston,86
+2009-10,2010-02-24,928559,661,0,2,Houston,Memphis,Cougars,Tigers,3,3,66,51,15,1493,Memphis,595,595,6,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,87
+2009-10,2010-02-24,928559,698,0,2,Houston,Memphis,Cougars,Tigers,3,3,67,51,16,1436,Houston,559,559,36, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,87
+2009-10,2010-02-24,928559,699,0,2,Houston,Memphis,Cougars,Tigers,3,3,68,51,17,1436,Houston,559,559,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,87
+2009-10,2010-02-24,928559,701,0,2,Houston,Memphis,Cougars,Tigers,3,3,68,51,17,1436,Houston,551,551,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,21.849999999999994,329688,NA,NA,0,Houston,Houston,88
+2009-10,2010-02-24,928559,703,0,2,Houston,Memphis,Cougars,Tigers,3,3,68,51,17,1493,Memphis,541,541,10,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,88
+2009-10,2010-02-24,928559,704,0,2,Houston,Memphis,Cougars,Tigers,3,3,69,51,18,1436,Houston,541,541,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,88
+2009-10,2010-02-24,928559,705,0,2,Houston,Memphis,Cougars,Tigers,3,3,70,51,19,1436,Houston,541,541,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,88
+2009-10,2010-02-24,928559,707,0,2,Houston,Memphis,Cougars,Tigers,3,3,72,51,21,1436,Houston,527,527,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464831,NA,NA,0,Houston,Memphis,89
+2009-10,2010-02-24,928559,709,0,2,Houston,Memphis,Cougars,Tigers,3,2,72,51,21,1493,Memphis,521,521,6,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,711,0,2,Houston,Memphis,Cougars,Tigers,3,2,72,53,19,1493,Memphis,510,510,11, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464842,NA,NA,0,Memphis,Houston,90
+2009-10,2010-02-24,928559,713,0,2,Houston,Memphis,Cougars,Tigers,3,2,72,53,19,1493,Memphis,501,501,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,715,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,53,22,1436,Houston,494,494,7, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.700000000000003,9.150000000000006,329688,NA,NA,0,Houston,Memphis,91
+2009-10,2010-02-24,928559,716,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,53,22,1493,Memphis,479,479,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464840,NA,NA,0,Memphis,Memphis,92
+2009-10,2010-02-24,928559,717,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,53,22,1493,Memphis,473,473,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,9.55,329519,NA,NA,0,Memphis,Houston,92
+2009-10,2010-02-24,928559,718,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,53,22,1436,Houston,466,466,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,3.549999999999997,513050,NA,NA,0,Houston,Memphis,93
+2009-10,2010-02-24,928559,719,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,55,20,1493,Memphis,453,453,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329996,NA,NA,0,Memphis,Houston,94
+2009-10,2010-02-24,928559,720,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,55,20,1436,Houston,420,420,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513050,NA,NA,0,Houston,Memphis,95
+2009-10,2010-02-24,928559,721,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,57,18,1493,Memphis,414,414,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464840,NA,NA,0,Memphis,Houston,96
+2009-10,2010-02-24,928559,724,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,57,18,NA,NA,379,379,35,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,744,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,57,18,1493,Memphis,379,379,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,28.7,29.05,464842,NA,NA,0,Memphis,Memphis,97
+2009-10,2010-02-24,928559,745,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,59,16,1493,Memphis,373,373,6, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,23.2,1.1500000000000004,464840,NA,NA,0,Memphis,Houston,97
+2009-10,2010-02-24,928559,746,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,59,16,1436,Houston,329,329,44, misses a dunk from 4 feet out.,missed,FALSE,FALSE,Dunk Shot,24.7,1.1500000000000057,513055,NA,NA,0,Houston,Memphis,98
+2009-10,2010-02-24,928559,747,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,61,14,1493,Memphis,322,322,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464842,NA,NA,0,Memphis,Houston,99
+2009-10,2010-02-24,928559,748.5,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,61,14,1493,Memphis,320,320,2, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,24.7,1.5499999999999998,464840,NA,NA,0,Memphis,Memphis,100
+2009-10,2010-02-24,928559,749,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,61,14,1436,Houston,319,319,1,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,100
+2009-10,2010-02-24,928559,751,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,62,13,1493,Memphis,319,319,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,100
+2009-10,2010-02-24,928559,756,0,2,Houston,Memphis,Cougars,Tigers,3,2,75,62,13,1493,Memphis,315,315,4,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,101
+2009-10,2010-02-24,928559,757,0,2,Houston,Memphis,Cougars,Tigers,3,2,76,62,14,1436,Houston,315,315,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,101
+2009-10,2010-02-24,928559,758,0,2,Houston,Memphis,Cougars,Tigers,3,2,77,62,15,1436,Houston,315,315,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,101
+2009-10,2010-02-24,928559,760,0,2,Houston,Memphis,Cougars,Tigers,3,2,77,64,13,1493,Memphis,313,313,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329995,NA,NA,0,Memphis,Houston,102
+2009-10,2010-02-24,928559,762,0,2,Houston,Memphis,Cougars,Tigers,3,2,77,64,13,1493,Memphis,273,273,40,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,765,0,2,Houston,Memphis,Cougars,Tigers,2,2,77,64,13,1436,Houston,259,259,14,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,767,0,2,Houston,Memphis,Cougars,Tigers,2,2,79,64,15,1436,Houston,257,257,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Houston,103
+2009-10,2010-02-24,928559,769,0,2,Houston,Memphis,Cougars,Tigers,2,2,79,64,15,1493,Memphis,254,254,3,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,103
+2009-10,2010-02-24,928559,770,0,2,Houston,Memphis,Cougars,Tigers,2,2,79,64,15,1436,Houston,254,254,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,103
+2009-10,2010-02-24,928559,773,0,2,Houston,Memphis,Cougars,Tigers,2,2,79,64,15,1493,Memphis,252,252,2, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,30,5.05,464842,NA,NA,0,Memphis,Houston,104
+2009-10,2010-02-24,928559,776,0,2,Houston,Memphis,Cougars,Tigers,2,2,79,64,15,1493,Memphis,247,247,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,105
+2009-10,2010-02-24,928559,777,0,2,Houston,Memphis,Cougars,Tigers,2,2,80,64,16,1436,Houston,247,247,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,105
+2009-10,2010-02-24,928559,778,0,2,Houston,Memphis,Cougars,Tigers,2,2,81,64,17,1436,Houston,247,247,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,105
+2009-10,2010-02-24,928559,783,0,2,Houston,Memphis,Cougars,Tigers,2,2,81,67,14,1493,Memphis,243,243,4, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,42.5,19.15,464842,NA,NA,0,Memphis,Houston,106
+2009-10,2010-02-24,928559,785,0,2,Houston,Memphis,Cougars,Tigers,2,2,81,67,14,1493,Memphis,236,236,7,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,107
+2009-10,2010-02-24,928559,787,0,2,Houston,Memphis,Cougars,Tigers,2,2,81,67,14,NA,NA,235,235,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,814,0,2,Houston,Memphis,Cougars,Tigers,2,2,81,67,14,1436,Houston,235,235,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,107
+2009-10,2010-02-24,928559,820,0,2,Houston,Memphis,Cougars,Tigers,2,2,82,67,15,1436,Houston,235,235,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,107
+2009-10,2010-02-24,928559,821,0,2,Houston,Memphis,Cougars,Tigers,2,2,82,67,15,1493,Memphis,230,230,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,16.25,464842,NA,NA,0,Memphis,Houston,107
+2009-10,2010-02-24,928559,823,0,2,Houston,Memphis,Cougars,Tigers,2,2,85,67,18,1436,Houston,211,211,19, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.3,21.349999999999994,513050,NA,NA,0,Houston,Memphis,108
+2009-10,2010-02-24,928559,824.5,0,2,Houston,Memphis,Cougars,Tigers,2,2,85,67,18,1493,Memphis,197,197,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464842,NA,NA,0,Memphis,Memphis,109
+2009-10,2010-02-24,928559,825,0,2,Houston,Memphis,Cougars,Tigers,2,2,85,69,16,1493,Memphis,185,185,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,467272,NA,NA,0,Memphis,Houston,109
+2009-10,2010-02-24,928559,830,0,2,Houston,Memphis,Cougars,Tigers,2,2,85,69,16,1493,Memphis,164,164,21,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,110
+2009-10,2010-02-24,928559,860,0,2,Houston,Memphis,Cougars,Tigers,2,2,85,69,16,1493,Memphis,135,135,29,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,862,0,2,Houston,Memphis,Cougars,Tigers,2,2,88,69,19,1436,Houston,127,127,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,5.25,329688,NA,NA,0,Houston,Memphis,111
+2009-10,2010-02-24,928559,864,0,2,Houston,Memphis,Cougars,Tigers,2,2,88,69,19,1493,Memphis,117,117,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-02-24,928559,865,0,2,Houston,Memphis,Cougars,Tigers,2,2,88,69,19,1493,Memphis,117,117,0,Technical foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Houston,112
+2009-10,2010-02-24,928559,866,0,2,Houston,Memphis,Cougars,Tigers,2,2,89,69,20,1436,Houston,117,117,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,113
+2009-10,2010-02-24,928559,867,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,69,21,1436,Houston,117,117,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,113
+2009-10,2010-02-24,928559,871,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,69,21,1436,Houston,113,113,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464831,NA,NA,0,Houston,Houston,114
+2009-10,2010-02-24,928559,872.5,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,69,21,1493,Memphis,110,110,3,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,114
+2009-10,2010-02-24,928559,873,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,71,19,1493,Memphis,108,108,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329995,NA,NA,0,Memphis,Memphis,114
+2009-10,2010-02-24,928559,874,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,71,19,1436,Houston,108,108,0,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,114
+2009-10,2010-02-24,928559,875,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,71,19,1493,Memphis,108,108,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Memphis,Memphis,114
+2009-10,2010-02-24,928559,878,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,71,19,1493,Memphis,106,106,2,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,114
+2009-10,2010-02-24,928559,880,0,2,Houston,Memphis,Cougars,Tigers,2,2,90,71,19,1436,Houston,106,106,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,114
+2009-10,2010-02-24,928559,881,0,2,Houston,Memphis,Cougars,Tigers,2,2,91,71,20,1436,Houston,106,106,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,114
+2009-10,2010-02-24,928559,884,0,2,Houston,Memphis,Cougars,Tigers,2,2,91,73,18,1493,Memphis,100,100,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,464842,NA,NA,0,Memphis,Houston,115
+2009-10,2010-02-24,928559,886,0,2,Houston,Memphis,Cougars,Tigers,2,2,91,73,18,1493,Memphis,87,87,13,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,116
+2009-10,2010-02-24,928559,887,0,2,Houston,Memphis,Cougars,Tigers,2,2,91,73,18,1436,Houston,87,87,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,116
+2009-10,2010-02-24,928559,888,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,73,19,1436,Houston,87,87,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Memphis,116
+2009-10,2010-02-24,928559,890,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,73,19,1493,Memphis,87,87,0, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,8.75,464842,NA,NA,0,Memphis,Memphis,117
+2009-10,2010-02-24,928559,891,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,73,19,1493,Memphis,81,81,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,18.55,464842,NA,NA,0,Memphis,Houston,117
+2009-10,2010-02-24,928559,894,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,73,19,1436,Houston,41,41,40, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,21,28.450000000000003,513050,NA,NA,0,Houston,Memphis,118
+2009-10,2010-02-24,928559,895,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,73,19,1493,Memphis,27,27,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,19.75,329996,NA,NA,0,Memphis,Memphis,119
+2009-10,2010-02-24,928559,896,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,75,17,1493,Memphis,22,22,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329996,NA,NA,0,Memphis,Houston,119
+2009-10,2010-02-24,928559,896.75,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,75,17,1436,Houston,2,2,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.5,30.35,513055,NA,NA,0,Houston,NA,120
+2009-10,2010-02-24,928559,897,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,75,17,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-24,928559,898,0,2,Houston,Memphis,Cougars,Tigers,2,2,92,75,17,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,NA

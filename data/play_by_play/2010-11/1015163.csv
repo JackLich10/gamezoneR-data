@@ -1,0 +1,225 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-12,1015163,1,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulane,NA
+2010-11,2011-02-12,1015163,14,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,2,-2,1661,Tulane,2364,1164,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Houston,1
+2010-11,2011-02-12,1015163,17,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,2,-2,1436,Houston,2324,1124,40, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,14.299999999999997,23.049999999999997,399606,NA,NA,0,Houston,Tulane,2
+2010-11,2011-02-12,1015163,20,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,5,-5,1661,Tulane,2295,1095,29, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.800000000000001,16.85,512092,NA,NA,0,Tulane,Houston,3
+2010-11,2011-02-12,1015163,21,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,5,-5,1436,Houston,2275,1075,20, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,19.950000000000003,513053,NA,NA,0,Houston,Tulane,4
+2010-11,2011-02-12,1015163,23,0,1,Houston,Tulane,Cougars,Green Wave,4,4,0,8,-8,1661,Tulane,2264,1064,11, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,25,30.05,330027,NA,NA,0,Tulane,Houston,5
+2010-11,2011-02-12,1015163,25,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1436,Houston,2261,1061,3,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,31,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1661,Tulane,2242,1042,19,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,6
+2010-11,2011-02-12,1015163,34,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1436,Houston,2220,1020,22, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,20.950000000000003,553545,NA,NA,0,Houston,Tulane,6
+2010-11,2011-02-12,1015163,36,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1436,Houston,2217,1017,3,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,7
+2010-11,2011-02-12,1015163,39,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1661,Tulane,2199,999,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Houston,7
+2010-11,2011-02-12,1015163,44,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1436,Houston,2175,975,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513053,NA,NA,0,Houston,Houston,8
+2010-11,2011-02-12,1015163,45,0,1,Houston,Tulane,Cougars,Green Wave,3,4,0,8,-8,1436,Houston,2172,972,3, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,26.3,9.349999999999994,513053,NA,NA,0,Houston,Houston,8
+2010-11,2011-02-12,1015163,46,0,1,Houston,Tulane,Cougars,Green Wave,3,4,2,8,-6,1436,Houston,2169,969,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553545,NA,NA,0,Houston,Tulane,8
+2010-11,2011-02-12,1015163,54,0,1,Houston,Tulane,Cougars,Green Wave,3,4,2,8,-6,NA,NA,2149,949,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,59,0,1,Houston,Tulane,Cougars,Green Wave,3,4,2,8,-6,1436,Houston,2133,933,16, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,12.049999999999997,513049,NA,NA,0,Houston,Houston,9
+2010-11,2011-02-12,1015163,61,0,1,Houston,Tulane,Cougars,Green Wave,3,4,4,8,-4,1436,Houston,2131,931,2, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513049,NA,NA,0,Houston,Tulane,9
+2010-11,2011-02-12,1015163,64,0,1,Houston,Tulane,Cougars,Green Wave,3,4,4,8,-4,1436,Houston,2110,910,21,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,65,0,1,Houston,Tulane,Cougars,Green Wave,3,4,4,8,-4,1661,Tulane,2110,910,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,67,0,1,Houston,Tulane,Cougars,Green Wave,3,4,7,8,-1,1436,Houston,2090,890,20, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7.299999999999997,18.450000000000003,513053,NA,NA,0,Houston,Tulane,10
+2010-11,2011-02-12,1015163,69,0,1,Houston,Tulane,Cougars,Green Wave,3,4,7,8,-1,1661,Tulane,2066,866,24, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.3,8.95,332680,NA,NA,0,Tulane,Houston,11
+2010-11,2011-02-12,1015163,70,0,1,Houston,Tulane,Cougars,Green Wave,3,4,9,8,1,1436,Houston,2043,843,23, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,37.3,7.549999999999997,553545,NA,NA,0,Houston,Tulane,12
+2010-11,2011-02-12,1015163,71,0,1,Houston,Tulane,Cougars,Green Wave,3,4,9,11,-2,1661,Tulane,2024,824,19, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,33.5,28.25,458973,NA,NA,0,Tulane,Houston,13
+2010-11,2011-02-12,1015163,73,0,1,Houston,Tulane,Cougars,Green Wave,3,4,9,11,-2,1436,Houston,2002,802,22, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,23.849999999999994,553545,NA,NA,0,Houston,Houston,14
+2010-11,2011-02-12,1015163,74,0,1,Houston,Tulane,Cougars,Green Wave,3,4,9,11,-2,1661,Tulane,2002,802,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,79,0,1,Houston,Tulane,Cougars,Green Wave,3,4,9,11,-2,1661,Tulane,1984,784,18,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,85,0,1,Houston,Tulane,Cougars,Green Wave,3,4,11,11,0,1436,Houston,1971,771,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513049,NA,NA,0,Houston,Houston,14
+2010-11,2011-02-12,1015163,87,0,1,Houston,Tulane,Cougars,Green Wave,3,4,11,11,0,1661,Tulane,1971,771,0,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,14
+2010-11,2011-02-12,1015163,88,0,1,Houston,Tulane,Cougars,Green Wave,3,4,11,11,0,1436,Houston,1971,771,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,89,0,1,Houston,Tulane,Cougars,Green Wave,3,4,12,11,1,1436,Houston,1971,771,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,14
+2010-11,2011-02-12,1015163,94,0,1,Houston,Tulane,Cougars,Green Wave,3,4,12,11,1,1661,Tulane,1956,756,15,Offensive foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,15
+2010-11,2011-02-12,1015163,96,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,11,4,1436,Houston,1937,737,19, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,22.2,28.450000000000003,513054,NA,NA,0,Houston,Tulane,16
+2010-11,2011-02-12,1015163,97,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,14,1,1661,Tulane,1920,720,17, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,2.8000000000000007,4.45,458973,NA,NA,0,Tulane,Houston,17
+2010-11,2011-02-12,1015163,102,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,14,1,NA,NA,1898,698,22,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,108,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,14,1,1661,Tulane,1876,676,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6,16.85,399678,NA,NA,0,Tulane,Tulane,18
+2010-11,2011-02-12,1015163,111,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,14,1,1436,Houston,1873,673,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,114,0,1,Houston,Tulane,Cougars,Green Wave,3,4,15,14,1,1661,Tulane,1866,666,7, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,31.7,30.25,512092,NA,NA,0,Tulane,Houston,18
+2010-11,2011-02-12,1015163,115,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,14,4,1436,Houston,1854,654,12, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,24.2,29.25,513053,NA,NA,0,Houston,Tulane,19
+2010-11,2011-02-12,1015163,117,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,14,4,1661,Tulane,1838,638,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458973,NA,NA,0,Tulane,Tulane,20
+2010-11,2011-02-12,1015163,118,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,14,4,1661,Tulane,1838,638,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,121,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,14,4,1436,Houston,1830,630,8,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,20
+2010-11,2011-02-12,1015163,126,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,14,4,1436,Houston,1819,619,11,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,20
+2010-11,2011-02-12,1015163,127,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,15,3,1661,Tulane,1819,619,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,20
+2010-11,2011-02-12,1015163,128,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,15,3,1436,Houston,1819,619,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,129,0,1,Houston,Tulane,Cougars,Green Wave,3,4,18,15,3,1661,Tulane,1819,619,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,20
+2010-11,2011-02-12,1015163,135,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,15,5,1436,Houston,1801,601,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Tulane,21
+2010-11,2011-02-12,1015163,136,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,17,3,1661,Tulane,1784,584,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,Houston,22
+2010-11,2011-02-12,1015163,137,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,17,3,1436,Houston,1770,570,14, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,19.150000000000006,513050,NA,NA,0,Houston,Tulane,23
+2010-11,2011-02-12,1015163,139,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,17,3,1436,Houston,1759,559,11,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,24
+2010-11,2011-02-12,1015163,140,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1661,Tulane,1759,559,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,24
+2010-11,2011-02-12,1015163,141,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1661,Tulane,1759,559,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,142,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1661,Tulane,1759,559,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,24
+2010-11,2011-02-12,1015163,147,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1436,Houston,1744,544,15,Offensive foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,25
+2010-11,2011-02-12,1015163,151,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1661,Tulane,1730,530,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Houston,26
+2010-11,2011-02-12,1015163,152,0,1,Houston,Tulane,Cougars,Green Wave,3,4,20,18,2,1436,Houston,1720,520,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,21.650000000000006,553550,NA,NA,0,Houston,Houston,27
+2010-11,2011-02-12,1015163,153,0,1,Houston,Tulane,Cougars,Green Wave,3,4,22,18,4,1436,Houston,1716,516,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513055,NA,NA,0,Houston,Tulane,27
+2010-11,2011-02-12,1015163,154,0,1,Houston,Tulane,Cougars,Green Wave,3,4,24,18,6,1436,Houston,1678,478,38, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,29.5,25.549999999999997,553547,NA,NA,0,Houston,Tulane,28
+2010-11,2011-02-12,1015163,155,0,1,Houston,Tulane,Cougars,Green Wave,3,4,24,18,6,1661,Tulane,1652,452,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Houston,29
+2010-11,2011-02-12,1015163,160,0,1,Houston,Tulane,Cougars,Green Wave,3,4,27,18,9,1436,Houston,1644,444,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,3,5.25,553550,NA,NA,0,Houston,Tulane,30
+2010-11,2011-02-12,1015163,161,0,1,Houston,Tulane,Cougars,Green Wave,3,3,27,18,9,1661,Tulane,1644,444,0,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,169,0,1,Houston,Tulane,Cougars,Green Wave,3,3,27,18,9,NA,NA,1634,434,10,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,176,0,1,Houston,Tulane,Cougars,Green Wave,3,3,27,18,9,1661,Tulane,1630,430,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512092,NA,NA,0,Tulane,Houston,31
+2010-11,2011-02-12,1015163,183,0,1,Houston,Tulane,Cougars,Green Wave,3,3,29,18,11,1436,Houston,1620,420,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399606,NA,NA,0,Houston,Houston,32
+2010-11,2011-02-12,1015163,185,0,1,Houston,Tulane,Cougars,Green Wave,3,3,29,18,11,1661,Tulane,1620,420,0,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,32
+2010-11,2011-02-12,1015163,186,0,1,Houston,Tulane,Cougars,Green Wave,3,3,30,18,12,1436,Houston,1620,420,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,32
+2010-11,2011-02-12,1015163,192,0,1,Houston,Tulane,Cougars,Green Wave,3,3,30,18,12,1661,Tulane,1593,393,27, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,11.85,553759,NA,NA,0,Tulane,Houston,33
+2010-11,2011-02-12,1015163,194,0,1,Houston,Tulane,Cougars,Green Wave,3,3,30,18,12,1436,Houston,1567,367,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399606,NA,NA,0,Houston,Houston,34
+2010-11,2011-02-12,1015163,196,0,1,Houston,Tulane,Cougars,Green Wave,3,3,32,18,14,1436,Houston,1558,358,9, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,11,21.25,399606,NA,NA,0,Houston,Houston,34
+2010-11,2011-02-12,1015163,199,0,1,Houston,Tulane,Cougars,Green Wave,3,3,32,18,14,1661,Tulane,1536,336,22,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,34
+2010-11,2011-02-12,1015163,200,0,1,Houston,Tulane,Cougars,Green Wave,3,3,32,18,14,1436,Houston,1536,336,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,34
+2010-11,2011-02-12,1015163,203,0,1,Houston,Tulane,Cougars,Green Wave,3,3,33,18,15,1436,Houston,1536,336,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,34
+2010-11,2011-02-12,1015163,205,0,1,Houston,Tulane,Cougars,Green Wave,3,3,33,20,13,1661,Tulane,1514,314,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,Houston,35
+2010-11,2011-02-12,1015163,206,0,1,Houston,Tulane,Cougars,Green Wave,3,3,35,20,15,1436,Houston,1479,279,35, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,19.2,18.950000000000003,553545,NA,NA,0,Houston,Tulane,36
+2010-11,2011-02-12,1015163,212,0,1,Houston,Tulane,Cougars,Green Wave,3,3,35,20,15,1661,Tulane,1457,257,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44,17.05,399678,NA,NA,0,Tulane,Houston,37
+2010-11,2011-02-12,1015163,214,0,1,Houston,Tulane,Cougars,Green Wave,3,3,37,20,17,1436,Houston,1446,246,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513049,NA,NA,0,Houston,Tulane,38
+2010-11,2011-02-12,1015163,215,0,1,Houston,Tulane,Cougars,Green Wave,3,2,37,20,17,1661,Tulane,1446,246,0,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,223,0,1,Houston,Tulane,Cougars,Green Wave,3,2,37,23,14,1661,Tulane,1436,236,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46,8.55,330027,NA,NA,0,Tulane,Houston,39
+2010-11,2011-02-12,1015163,225,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,23,16,1436,Houston,1413,213,23, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,28.7,16.450000000000003,513049,NA,NA,0,Houston,Tulane,40
+2010-11,2011-02-12,1015163,227,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,23,16,1661,Tulane,1387,187,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512092,NA,NA,0,Tulane,Tulane,41
+2010-11,2011-02-12,1015163,229,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,25,14,1661,Tulane,1385,185,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332680,NA,NA,0,Tulane,Tulane,41
+2010-11,2011-02-12,1015163,232,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,25,14,1436,Houston,1383,183,2,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,41
+2010-11,2011-02-12,1015163,233,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,25,14,NA,NA,1383,183,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,234,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,26,13,1661,Tulane,1383,183,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,41
+2010-11,2011-02-12,1015163,240,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,26,13,1436,Houston,1369,169,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553545,NA,NA,0,Houston,Tulane,42
+2010-11,2011-02-12,1015163,242,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,26,13,1436,Houston,1361,161,8,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,43
+2010-11,2011-02-12,1015163,243,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,26,13,1661,Tulane,1361,161,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,43
+2010-11,2011-02-12,1015163,249,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,26,13,1436,Houston,1325,125,36, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,22.2,12.450000000000003,513049,NA,NA,0,Houston,Tulane,44
+2010-11,2011-02-12,1015163,258,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,29,10,1661,Tulane,1291,91,34, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,2.8000000000000007,4.25,330027,NA,NA,0,Tulane,Houston,45
+2010-11,2011-02-12,1015163,262,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,29,10,1436,Houston,1275,75,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513049,NA,NA,0,Houston,Houston,46
+2010-11,2011-02-12,1015163,264,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,29,10,1436,Houston,1271,71,4, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,19.8,10.049999999999997,513049,NA,NA,0,Houston,Tulane,46
+2010-11,2011-02-12,1015163,266,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,29,10,1661,Tulane,1263,63,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Tulane,47
+2010-11,2011-02-12,1015163,267,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,31,8,1661,Tulane,1259,59,4, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,27.5,10.45,458974,NA,NA,0,Tulane,Houston,47
+2010-11,2011-02-12,1015163,268,0,1,Houston,Tulane,Cougars,Green Wave,3,2,39,31,8,1436,Houston,1241,41,18, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,21,24.049999999999997,513053,NA,NA,0,Houston,Houston,48
+2010-11,2011-02-12,1015163,271,0,1,Houston,Tulane,Cougars,Green Wave,3,2,41,31,10,1436,Houston,1208,8,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513049,NA,NA,0,Houston,Tulane,48
+2010-11,2011-02-12,1015163,272,0,1,Houston,Tulane,Cougars,Green Wave,3,2,41,31,10,1661,Tulane,1202,2,6, misses a 3-point jump shot from 40 feet out.,missed,FALSE,TRUE,Jump Shot,15,43.75,512092,NA,NA,0,Tulane,Tulane,49
+2010-11,2011-02-12,1015163,273,0,1,Houston,Tulane,Cougars,Green Wave,3,2,41,31,10,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,274,0,2,Houston,Tulane,Cougars,Green Wave,4,4,41,31,10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Tulane,49
+2010-11,2011-02-12,1015163,277,0,2,Houston,Tulane,Cougars,Green Wave,4,4,41,31,10,1661,Tulane,1189,1189,11, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,31.5,14.35,458974,NA,NA,0,Tulane,Houston,50
+2010-11,2011-02-12,1015163,278,0,2,Houston,Tulane,Cougars,Green Wave,4,4,43,31,12,1436,Houston,1172,1172,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513049,NA,NA,0,Houston,Tulane,51
+2010-11,2011-02-12,1015163,282,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,31,14,1436,Houston,1137,1137,35, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,30.3,15.849999999999994,513053,NA,NA,0,Houston,Tulane,52
+2010-11,2011-02-12,1015163,284,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,31,14,1436,Houston,1121,1121,16,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,53
+2010-11,2011-02-12,1015163,285,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,32,13,1661,Tulane,1121,1121,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,53
+2010-11,2011-02-12,1015163,286,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,32,13,1661,Tulane,1121,1121,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,53
+2010-11,2011-02-12,1015163,288,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,32,13,1661,Tulane,1105,1105,16, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,12.75,458974,NA,NA,0,Tulane,Tulane,53
+2010-11,2011-02-12,1015163,290,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,32,13,1661,Tulane,1102,1102,3, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,11.85,458974,NA,NA,0,Tulane,Houston,53
+2010-11,2011-02-12,1015163,294,0,2,Houston,Tulane,Cougars,Green Wave,4,4,45,32,13,1436,Houston,1083,1083,19, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,19.5,6.25,513053,NA,NA,0,Houston,Houston,54
+2010-11,2011-02-12,1015163,295,0,2,Houston,Tulane,Cougars,Green Wave,4,4,47,32,15,1436,Houston,1078,1078,5, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,25.8,9.349999999999994,513049,NA,NA,0,Houston,Tulane,54
+2010-11,2011-02-12,1015163,296,0,2,Houston,Tulane,Cougars,Green Wave,4,4,49,32,17,1436,Houston,1069,1069,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399606,NA,NA,0,Houston,Tulane,55
+2010-11,2011-02-12,1015163,299,0,2,Houston,Tulane,Cougars,Green Wave,4,3,49,32,17,1661,Tulane,1062,1062,7,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,303,0,2,Houston,Tulane,Cougars,Green Wave,4,3,49,34,15,1661,Tulane,1049,1049,13, makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,19.3,12.05,458974,NA,NA,0,Tulane,Houston,56
+2010-11,2011-02-12,1015163,305,0,2,Houston,Tulane,Cougars,Green Wave,4,3,49,34,15,1661,Tulane,1036,1036,13,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,57
+2010-11,2011-02-12,1015163,306,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1436,Houston,1036,1036,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,57
+2010-11,2011-02-12,1015163,307,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1436,Houston,1036,1036,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,57
+2010-11,2011-02-12,1015163,310,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1661,Tulane,1024,1024,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Tulane,58
+2010-11,2011-02-12,1015163,311,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1661,Tulane,1014,1014,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,32,28.05,399678,NA,NA,0,Tulane,Houston,58
+2010-11,2011-02-12,1015163,312,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1436,Houston,1005,1005,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,17.450000000000003,553550,NA,NA,0,Houston,Tulane,59
+2010-11,2011-02-12,1015163,315,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,34,16,1436,Houston,995,995,10,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,60
+2010-11,2011-02-12,1015163,317,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,36,14,1661,Tulane,981,981,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Houston,60
+2010-11,2011-02-12,1015163,320,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,36,14,NA,NA,957,957,24,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,325,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,36,14,1436,Houston,950,950,7, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,15.549999999999997,513053,NA,NA,0,Houston,Tulane,61
+2010-11,2011-02-12,1015163,326,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,36,14,1661,Tulane,939,939,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,14.15,512092,NA,NA,0,Tulane,Tulane,62
+2010-11,2011-02-12,1015163,327,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,39,11,1661,Tulane,932,932,7, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41,21.85,399678,NA,NA,0,Tulane,Houston,62
+2010-11,2011-02-12,1015163,328,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,39,11,1661,Tulane,912,912,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,17.05,399678,NA,NA,0,Tulane,Houston,63
+2010-11,2011-02-12,1015163,330,0,2,Houston,Tulane,Cougars,Green Wave,4,3,50,39,11,1661,Tulane,903,903,9,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,64
+2010-11,2011-02-12,1015163,332,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,39,13,1436,Houston,901,901,2, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,35.7,6.650000000000006,513053,NA,NA,0,Houston,Tulane,64
+2010-11,2011-02-12,1015163,334,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,39,13,1436,Houston,880,880,21,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,65
+2010-11,2011-02-12,1015163,335,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,39,13,1661,Tulane,880,880,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,65
+2010-11,2011-02-12,1015163,336,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1661,Tulane,880,880,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,65
+2010-11,2011-02-12,1015163,339,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1436,Houston,855,855,25, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,9.150000000000006,513053,NA,NA,0,Houston,Tulane,66
+2010-11,2011-02-12,1015163,342,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1661,Tulane,820,820,35, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,9.55,487636,NA,NA,0,Tulane,Tulane,67
+2010-11,2011-02-12,1015163,343,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1661,Tulane,814,814,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,48.2,11.25,399678,NA,NA,0,Tulane,Houston,67
+2010-11,2011-02-12,1015163,347,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1436,Houston,789,789,25, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37.2,7.549999999999997,513049,NA,NA,0,Houston,Houston,68
+2010-11,2011-02-12,1015163,348,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1436,Houston,789,789,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,350,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1436,Houston,782,782,7, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,19.950000000000003,513053,NA,NA,0,Houston,Tulane,68
+2010-11,2011-02-12,1015163,352,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1436,Houston,779,779,3,Personal foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,69
+2010-11,2011-02-12,1015163,354,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1661,Tulane,753,753,26, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,11.85,553759,NA,NA,0,Tulane,Houston,69
+2010-11,2011-02-12,1015163,356,0,2,Houston,Tulane,Cougars,Green Wave,4,3,52,40,12,1661,Tulane,738,738,15,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,70
+2010-11,2011-02-12,1015163,357,0,2,Houston,Tulane,Cougars,Green Wave,4,3,53,40,13,1436,Houston,738,738,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,70
+2010-11,2011-02-12,1015163,358,0,2,Houston,Tulane,Cougars,Green Wave,4,3,53,40,13,1436,Houston,738,738,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,70
+2010-11,2011-02-12,1015163,362,0,2,Houston,Tulane,Cougars,Green Wave,4,3,53,40,13,1661,Tulane,727,727,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47,4.05,330027,NA,NA,0,Tulane,Houston,71
+2010-11,2011-02-12,1015163,367,0,2,Houston,Tulane,Cougars,Green Wave,4,2,53,40,13,1661,Tulane,712,712,15,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,369,0,2,Houston,Tulane,Cougars,Green Wave,4,2,53,40,13,1436,Houston,695,695,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.8,27.349999999999994,513050,NA,NA,0,Houston,Houston,72
+2010-11,2011-02-12,1015163,370,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,40,15,1436,Houston,690,690,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553545,NA,NA,0,Houston,Tulane,72
+2010-11,2011-02-12,1015163,375,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,40,15,1661,Tulane,662,662,28, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,28.25,330027,NA,NA,0,Tulane,Tulane,73
+2010-11,2011-02-12,1015163,376,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,40,15,1661,Tulane,658,658,4, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,27.5,8.15,332680,NA,NA,0,Tulane,Houston,73
+2010-11,2011-02-12,1015163,380,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,40,15,1661,Tulane,652,652,6,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,74
+2010-11,2011-02-12,1015163,381,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,40,15,NA,NA,652,652,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,385,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,42,13,1661,Tulane,636,636,16, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,28,12.25,458974,NA,NA,0,Tulane,Houston,74
+2010-11,2011-02-12,1015163,387,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,42,13,1661,Tulane,622,622,14,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,75
+2010-11,2011-02-12,1015163,388,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,42,13,1436,Houston,622,622,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,75
+2010-11,2011-02-12,1015163,389,0,2,Houston,Tulane,Cougars,Green Wave,4,2,55,42,13,1436,Houston,622,622,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,75
+2010-11,2011-02-12,1015163,392,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1436,Houston,601,601,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553545,NA,NA,0,Houston,Tulane,75
+2010-11,2011-02-12,1015163,393,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1661,Tulane,582,582,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,13.15,458974,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,395,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1436,Houston,579,579,3,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,396,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1661,Tulane,579,579,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,397,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1661,Tulane,579,579,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,403,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1436,Houston,574,574,5,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,404,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,42,15,1661,Tulane,574,574,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,76
+2010-11,2011-02-12,1015163,405,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,43,14,1661,Tulane,574,574,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,76
+2010-11,2011-02-12,1015163,407,0,2,Houston,Tulane,Cougars,Green Wave,4,2,57,45,12,1661,Tulane,559,559,15, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,458974,NA,NA,0,Tulane,Houston,77
+2010-11,2011-02-12,1015163,408,0,2,Houston,Tulane,Cougars,Green Wave,4,2,59,45,14,1436,Houston,545,545,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513055,NA,NA,0,Houston,Tulane,78
+2010-11,2011-02-12,1015163,409,0,2,Houston,Tulane,Cougars,Green Wave,4,2,59,45,14,1661,Tulane,529,529,16, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,12.25,458974,NA,NA,0,Tulane,Houston,79
+2010-11,2011-02-12,1015163,410,0,2,Houston,Tulane,Cougars,Green Wave,4,2,59,45,14,1436,Houston,522,522,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399606,NA,NA,0,Houston,Houston,80
+2010-11,2011-02-12,1015163,412,0,2,Houston,Tulane,Cougars,Green Wave,4,2,59,45,14,1436,Houston,516,516,6,Offensive foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,80
+2010-11,2011-02-12,1015163,414,0,2,Houston,Tulane,Cougars,Green Wave,4,2,59,45,14,1661,Tulane,499,499,17, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,12.75,330027,NA,NA,0,Tulane,Houston,81
+2010-11,2011-02-12,1015163,417,0,2,Houston,Tulane,Cougars,Green Wave,4,2,61,45,16,1436,Houston,463,463,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513050,NA,NA,0,Houston,Houston,82
+2010-11,2011-02-12,1015163,418,0,2,Houston,Tulane,Cougars,Green Wave,4,2,61,45,16,1661,Tulane,463,463,0,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,82
+2010-11,2011-02-12,1015163,420,0,2,Houston,Tulane,Cougars,Green Wave,4,2,61,45,16,NA,NA,462,462,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,422,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,45,17,1436,Houston,462,462,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,82
+2010-11,2011-02-12,1015163,428,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,48,14,1661,Tulane,450,450,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,5.45,330027,NA,NA,0,Tulane,Houston,83
+2010-11,2011-02-12,1015163,429,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,48,14,1436,Houston,436,436,14, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,13.799999999999997,20.549999999999997,513053,NA,NA,0,Houston,Houston,84
+2010-11,2011-02-12,1015163,430,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,48,14,1436,Houston,431,431,5, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,13.950000000000003,513053,NA,NA,0,Houston,Tulane,84
+2010-11,2011-02-12,1015163,432,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,48,14,1436,Houston,427,427,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,434,0,2,Houston,Tulane,Cougars,Green Wave,4,2,62,51,11,1661,Tulane,395,395,32, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,36.7,25.55,512092,NA,NA,0,Tulane,Houston,85
+2010-11,2011-02-12,1015163,435,0,2,Houston,Tulane,Cougars,Green Wave,4,2,64,51,13,1436,Houston,363,363,32, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513050,NA,NA,0,Houston,Tulane,86
+2010-11,2011-02-12,1015163,437,0,2,Houston,Tulane,Cougars,Green Wave,4,2,64,51,13,1661,Tulane,346,346,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.5,27.85,458974,NA,NA,0,Tulane,Tulane,87
+2010-11,2011-02-12,1015163,442,0,2,Houston,Tulane,Cougars,Green Wave,4,2,64,51,13,1661,Tulane,312,312,34, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,20.2,30.35,330027,NA,NA,0,Tulane,Houston,87
+2010-11,2011-02-12,1015163,444,0,2,Houston,Tulane,Cougars,Green Wave,4,2,64,51,13,1661,Tulane,278,278,34,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,88
+2010-11,2011-02-12,1015163,445,0,2,Houston,Tulane,Cougars,Green Wave,4,2,65,51,14,1436,Houston,278,278,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,88
+2010-11,2011-02-12,1015163,446,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,51,15,1436,Houston,278,278,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,88
+2010-11,2011-02-12,1015163,448,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,51,15,1661,Tulane,261,261,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,332680,NA,NA,0,Tulane,Houston,89
+2010-11,2011-02-12,1015163,451,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,51,15,1436,Houston,237,237,24,Offensive foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,90
+2010-11,2011-02-12,1015163,452,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,51,15,NA,NA,237,237,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,458,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,51,15,1661,Tulane,198,198,39,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,464,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,53,13,1661,Tulane,179,179,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458974,NA,NA,0,Tulane,Houston,91
+2010-11,2011-02-12,1015163,466,0,2,Houston,Tulane,Cougars,Green Wave,4,2,66,53,13,1661,Tulane,168,168,11,Shooting foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,92
+2010-11,2011-02-12,1015163,467,0,2,Houston,Tulane,Cougars,Green Wave,4,2,67,53,14,1436,Houston,168,168,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,92
+2010-11,2011-02-12,1015163,468,0,2,Houston,Tulane,Cougars,Green Wave,4,2,67,53,14,1661,Tulane,168,168,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-12,1015163,469,0,2,Houston,Tulane,Cougars,Green Wave,4,2,68,53,15,1436,Houston,168,168,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,92
+2010-11,2011-02-12,1015163,474,0,2,Houston,Tulane,Cougars,Green Wave,4,2,68,56,12,1661,Tulane,150,150,18, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.5,30.05,330027,NA,NA,0,Tulane,Houston,93
+2010-11,2011-02-12,1015163,482,0,2,Houston,Tulane,Cougars,Green Wave,3,2,68,56,12,1436,Houston,150,150,0,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,490,0,2,Houston,Tulane,Cougars,Green Wave,3,2,68,56,12,1661,Tulane,128,128,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15,28.05,399678,NA,NA,0,Tulane,Tulane,94
+2010-11,2011-02-12,1015163,491,0,2,Houston,Tulane,Cougars,Green Wave,3,2,68,59,9,1661,Tulane,123,123,5, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,5.699999999999999,18.75,512092,NA,NA,0,Tulane,Houston,94
+2010-11,2011-02-12,1015163,493,0,2,Houston,Tulane,Cougars,Green Wave,3,1,68,59,9,1661,Tulane,119,119,4,Green Wave take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,497,0,2,Houston,Tulane,Cougars,Green Wave,3,1,68,59,9,1661,Tulane,113,113,6,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,95
+2010-11,2011-02-12,1015163,498,0,2,Houston,Tulane,Cougars,Green Wave,3,1,69,59,10,1436,Houston,113,113,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,95
+2010-11,2011-02-12,1015163,499,0,2,Houston,Tulane,Cougars,Green Wave,3,1,70,59,11,1436,Houston,113,113,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,95
+2010-11,2011-02-12,1015163,503,0,2,Houston,Tulane,Cougars,Green Wave,3,1,70,59,11,1661,Tulane,101,101,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458974,NA,NA,0,Tulane,Houston,96
+2010-11,2011-02-12,1015163,505,0,2,Houston,Tulane,Cougars,Green Wave,2,1,70,59,11,1436,Houston,92,92,9,Cougars take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,508,0,2,Houston,Tulane,Cougars,Green Wave,2,1,70,59,11,1661,Tulane,85,85,7,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,97
+2010-11,2011-02-12,1015163,509,0,2,Houston,Tulane,Cougars,Green Wave,2,1,71,59,12,1436,Houston,85,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,97
+2010-11,2011-02-12,1015163,510,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,59,13,1436,Houston,85,85,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,97
+2010-11,2011-02-12,1015163,512,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,62,10,1661,Tulane,75,75,10, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.6999999999999993,7.35,330027,NA,NA,0,Tulane,Tulane,98
+2010-11,2011-02-12,1015163,514,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,62,10,1436,Houston,67,67,8,Shooting foul committed by Cougars.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,98
+2010-11,2011-02-12,1015163,515,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,62,10,1661,Tulane,67,67,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,98
+2010-11,2011-02-12,1015163,516,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,62,10,1661,Tulane,67,67,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Houston,98
+2010-11,2011-02-12,1015163,519,0,2,Houston,Tulane,Cougars,Green Wave,2,1,72,62,10,1661,Tulane,62,62,5,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,99
+2010-11,2011-02-12,1015163,520,0,2,Houston,Tulane,Cougars,Green Wave,2,1,73,62,11,1436,Houston,62,62,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,99
+2010-11,2011-02-12,1015163,521,0,2,Houston,Tulane,Cougars,Green Wave,2,1,74,62,12,1436,Houston,62,62,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,99
+2010-11,2011-02-12,1015163,525,0,2,Houston,Tulane,Cougars,Green Wave,2,1,74,65,9,1661,Tulane,53,53,9, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,34.2,29.25,512092,NA,NA,0,Tulane,Houston,100
+2010-11,2011-02-12,1015163,528,0,2,Houston,Tulane,Cougars,Green Wave,2,1,74,65,9,1661,Tulane,53,53,0,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,101
+2010-11,2011-02-12,1015163,529,0,2,Houston,Tulane,Cougars,Green Wave,2,1,75,65,10,1436,Houston,53,53,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,101
+2010-11,2011-02-12,1015163,530,0,2,Houston,Tulane,Cougars,Green Wave,2,1,76,65,11,1436,Houston,53,53,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,101
+2010-11,2011-02-12,1015163,535,0,2,Houston,Tulane,Cougars,Green Wave,2,1,76,68,8,1661,Tulane,39,39,14, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,6.25,330027,NA,NA,0,Tulane,Houston,102
+2010-11,2011-02-12,1015163,538,0,2,Houston,Tulane,Cougars,Green Wave,2,1,76,68,8,1661,Tulane,38,38,1,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,103
+2010-11,2011-02-12,1015163,539,0,2,Houston,Tulane,Cougars,Green Wave,2,1,77,68,9,1436,Houston,38,38,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,103
+2010-11,2011-02-12,1015163,540,0,2,Houston,Tulane,Cougars,Green Wave,2,1,78,68,10,1436,Houston,38,38,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,103
+2010-11,2011-02-12,1015163,542,0,2,Houston,Tulane,Cougars,Green Wave,2,1,78,68,10,1661,Tulane,23,23,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,15.35,512092,NA,NA,0,Tulane,Houston,104
+2010-11,2011-02-12,1015163,544,0,2,Houston,Tulane,Cougars,Green Wave,2,1,78,68,10,1661,Tulane,20,20,3,Personal foul committed by Green Wave.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,105
+2010-11,2011-02-12,1015163,545,0,2,Houston,Tulane,Cougars,Green Wave,2,1,79,68,11,1436,Houston,20,20,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Houston,105
+2010-11,2011-02-12,1015163,546,0,2,Houston,Tulane,Cougars,Green Wave,2,1,79,68,11,1436,Houston,20,20,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Houston,Tulane,105
+2010-11,2011-02-12,1015163,549,0,2,Houston,Tulane,Cougars,Green Wave,2,1,79,68,11,1661,Tulane,13,13,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39,26.55,512092,NA,NA,0,Tulane,NA,106
+2010-11,2011-02-12,1015163,553,0,2,Houston,Tulane,Cougars,Green Wave,2,1,79,68,11,NA,NA,0,0,13,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-12,1015163,554,0,2,Houston,Tulane,Cougars,Green Wave,2,1,79,68,11,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Tulane,Tulane,NA

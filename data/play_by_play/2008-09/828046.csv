@@ -1,0 +1,241 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2008-09,2009-02-26,828046,1,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,NA
+2008-09,2009-02-26,828046,9,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,2,0,2,1627,Stanford,2385,1185,15, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,395377,NA,NA,0,Stanford,UCLA,1
+2008-09,2009-02-26,828046,11,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,2,3,-1,1668,UCLA,2362,1162,23, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.8,20.35,457576,NA,NA,0,UCLA,Stanford,2
+2008-09,2009-02-26,828046,13,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,2,3,-1,1668,UCLA,2320,1120,42, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,15.85,457576,NA,NA,0,UCLA,UCLA,3
+2008-09,2009-02-26,828046,14,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,2,3,-1,1627,Stanford,2320,1120,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,3
+2008-09,2009-02-26,828046,15,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,4,3,1,1627,Stanford,2300,1100,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,395377,NA,NA,0,Stanford,UCLA,4
+2008-09,2009-02-26,828046,16,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,4,6,-2,1668,UCLA,2283,1083,17, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.199999999999999,21.85,263232,NA,NA,0,UCLA,Stanford,5
+2008-09,2009-02-26,828046,17,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,7,6,1,1627,Stanford,2254,1054,29, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,9.799999999999997,22.849999999999994,295412,NA,NA,0,Stanford,UCLA,6
+2008-09,2009-02-26,828046,21,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,7,6,1,1627,Stanford,2235,1035,19,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,7
+2008-09,2009-02-26,828046,39,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,9,6,3,1627,Stanford,2208,1008,27, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,27.7,16.25,295414,NA,NA,0,Stanford,UCLA,7
+2008-09,2009-02-26,828046,43,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,9,8,1,1668,UCLA,2191,991,17, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,7.199999999999999,13.35,350583,NA,NA,0,UCLA,Stanford,8
+2008-09,2009-02-26,828046,44,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,12,8,4,1627,Stanford,2179,979,12, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.3,15.549999999999997,295414,NA,NA,0,Stanford,UCLA,9
+2008-09,2009-02-26,828046,45,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,12,8,4,1668,UCLA,2156,956,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457576,NA,NA,0,UCLA,UCLA,10
+2008-09,2009-02-26,828046,46,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,12,8,4,1627,Stanford,2156,956,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,10
+2008-09,2009-02-26,828046,47,0,1,Stanford,UCLA,Cardinal,Bruins,4,4,15,8,7,1627,Stanford,2141,941,15, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,25.2,29.25,330046,NA,NA,0,Stanford,UCLA,11
+2008-09,2009-02-26,828046,53,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,15,8,7,1668,UCLA,2140,940,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,56,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,15,8,7,1668,UCLA,2131,931,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,19.35,263232,NA,NA,0,UCLA,UCLA,12
+2008-09,2009-02-26,828046,57,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,15,8,7,1627,Stanford,2131,931,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,12
+2008-09,2009-02-26,828046,58,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,1627,Stanford,2104,904,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295412,NA,NA,0,Stanford,UCLA,13
+2008-09,2009-02-26,828046,59,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,1668,UCLA,2080,880,24, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,37,6.25,350583,NA,NA,0,UCLA,UCLA,14
+2008-09,2009-02-26,828046,60,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,1627,Stanford,2080,880,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,14
+2008-09,2009-02-26,828046,63,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,1668,UCLA,2073,873,7,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,15
+2008-09,2009-02-26,828046,64,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,NA,NA,2073,873,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,68,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,17,8,9,1627,Stanford,2065,865,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,395377,NA,NA,0,Stanford,Stanford,15
+2008-09,2009-02-26,828046,71,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,19,8,11,1627,Stanford,2063,863,2, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,15,5.049999999999997,330046,NA,NA,0,Stanford,UCLA,15
+2008-09,2009-02-26,828046,72,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,19,10,9,1668,UCLA,2037,837,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295432,NA,NA,0,UCLA,Stanford,16
+2008-09,2009-02-26,828046,73,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,21,10,11,1627,Stanford,2012,812,25, makes a hook shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25.3,10.450000000000003,395377,NA,NA,0,Stanford,UCLA,17
+2008-09,2009-02-26,828046,77,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,10,14,1627,Stanford,1962,762,50, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,21.450000000000003,295412,NA,NA,0,Stanford,UCLA,18
+2008-09,2009-02-26,828046,78,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1668,UCLA,1938,738,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,457568,NA,NA,0,UCLA,Stanford,19
+2008-09,2009-02-26,828046,81,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1627,Stanford,1920,720,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,30.75,295412,NA,NA,0,Stanford,Stanford,20
+2008-09,2009-02-26,828046,85,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1668,UCLA,1913,713,7,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,20
+2008-09,2009-02-26,828046,86,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,NA,NA,1913,713,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,87,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1627,Stanford,1913,713,0,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,20
+2008-09,2009-02-26,828046,96,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1668,UCLA,1885,685,28, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,16.2,28.25,295435,NA,NA,0,UCLA,UCLA,21
+2008-09,2009-02-26,828046,97,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1668,UCLA,1885,685,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2008-09,2009-02-26,828046,112,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,24,12,12,1668,UCLA,1869,669,16,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,21
+2008-09,2009-02-26,828046,113,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,25,12,13,1627,Stanford,1869,669,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,21
+2008-09,2009-02-26,828046,114,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,12,14,1627,Stanford,1869,669,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,21
+2008-09,2009-02-26,828046,116,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,12,14,1627,Stanford,1865,665,4, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25.2,12.049999999999997,457561,NA,NA,0,Stanford,Stanford,22
+2008-09,2009-02-26,828046,117,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,12,14,1668,UCLA,1865,665,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,22
+2008-09,2009-02-26,828046,118,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,15,11,1668,UCLA,1856,656,9, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.8,7.95,295435,NA,NA,0,UCLA,Stanford,23
+2008-09,2009-02-26,828046,121,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,15,11,1627,Stanford,1830,630,26, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4,5.849999999999994,457561,NA,NA,0,Stanford,Stanford,24
+2008-09,2009-02-26,828046,122,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,15,11,1668,UCLA,1830,630,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,24
+2008-09,2009-02-26,828046,123,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,15,11,1627,Stanford,1830,630,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2008-09,2009-02-26,828046,132,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,15,11,1627,Stanford,1796,596,34,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2008-09,2009-02-26,828046,133,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,16,10,1668,UCLA,1796,596,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2008-09,2009-02-26,828046,134,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,17,9,1668,UCLA,1796,596,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,25
+2008-09,2009-02-26,828046,142,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,17,9,1627,Stanford,1783,583,13, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40,6.25,295414,NA,NA,0,Stanford,Stanford,26
+2008-09,2009-02-26,828046,143,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,17,9,1668,UCLA,1783,583,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,26
+2008-09,2009-02-26,828046,144,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1668,UCLA,1762,562,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,263232,NA,NA,0,UCLA,Stanford,27
+2008-09,2009-02-26,828046,146,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1627,Stanford,1730,530,32, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,12.049999999999997,295415,NA,NA,0,Stanford,Stanford,28
+2008-09,2009-02-26,828046,147,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1668,UCLA,1730,530,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,28
+2008-09,2009-02-26,828046,155,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1668,UCLA,1713,513,17, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.3,7.55,295434,NA,NA,0,UCLA,UCLA,29
+2008-09,2009-02-26,828046,156,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1627,Stanford,1713,513,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,29
+2008-09,2009-02-26,828046,157,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1627,Stanford,1704,504,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,16.650000000000006,330046,NA,NA,0,Stanford,Stanford,30
+2008-09,2009-02-26,828046,158,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,19,7,1668,UCLA,1704,504,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,30
+2008-09,2009-02-26,828046,159,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,21,5,1668,UCLA,1697,497,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295434,NA,NA,0,UCLA,Stanford,31
+2008-09,2009-02-26,828046,160,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,21,5,1627,Stanford,1682,482,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330046,NA,NA,0,Stanford,Stanford,32
+2008-09,2009-02-26,828046,161,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,21,5,1668,UCLA,1682,482,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,32
+2008-09,2009-02-26,828046,162,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,21,5,1668,UCLA,1674,474,8, misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,30.8,9.55,295434,NA,NA,0,UCLA,UCLA,33
+2008-09,2009-02-26,828046,163,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,26,21,5,1627,Stanford,1674,474,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,33
+2008-09,2009-02-26,828046,164,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,21,8,1627,Stanford,1665,465,9, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.799999999999997,11.450000000000003,281732,NA,NA,0,Stanford,UCLA,34
+2008-09,2009-02-26,828046,165,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,21,8,1668,UCLA,1642,442,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,14.15,350583,NA,NA,0,UCLA,UCLA,35
+2008-09,2009-02-26,828046,166,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,21,8,1627,Stanford,1642,442,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,35
+2008-09,2009-02-26,828046,167,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,21,8,1627,Stanford,1615,415,27, misses a jump shot from 22 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,26.950000000000003,295415,NA,NA,0,Stanford,Stanford,36
+2008-09,2009-02-26,828046,168,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,21,8,1668,UCLA,1615,415,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,36
+2008-09,2009-02-26,828046,169,0,1,Stanford,UCLA,Cardinal,Bruins,4,3,29,23,6,1668,UCLA,1606,406,9, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,30,7.35,263232,NA,NA,0,UCLA,Stanford,37
+2008-09,2009-02-26,828046,173,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,29,23,6,1627,Stanford,1603,403,3,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,177,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,29,23,6,1627,Stanford,1572,372,31, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,13.75,295414,NA,NA,0,Stanford,Stanford,38
+2008-09,2009-02-26,828046,178,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,29,23,6,1627,Stanford,1572,372,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,38
+2008-09,2009-02-26,828046,179,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,31,23,8,1627,Stanford,1568,368,4, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,23,6.450000000000003,330046,NA,NA,0,Stanford,UCLA,38
+2008-09,2009-02-26,828046,180,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,31,26,5,1668,UCLA,1551,351,17, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,40.2,21.85,457576,NA,NA,0,UCLA,Stanford,39
+2008-09,2009-02-26,828046,181,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,26,7,1627,Stanford,1526,326,25, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13.700000000000003,11.25,330046,NA,NA,0,Stanford,UCLA,40
+2008-09,2009-02-26,828046,184,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,26,7,NA,NA,1503,303,23,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,187,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,26,7,1627,Stanford,1479,279,24, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,26.150000000000006,295414,NA,NA,0,Stanford,Stanford,41
+2008-09,2009-02-26,828046,188,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,26,7,1668,UCLA,1479,279,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,41
+2008-09,2009-02-26,828046,189,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,29,4,1668,UCLA,1474,274,5, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,5.5,15.55,263232,NA,NA,0,UCLA,Stanford,42
+2008-09,2009-02-26,828046,192,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,33,29,4,1668,UCLA,1462,262,12,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,43
+2008-09,2009-02-26,828046,194,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,29,6,1627,Stanford,1450,250,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,303550,NA,NA,0,Stanford,UCLA,43
+2008-09,2009-02-26,828046,196,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,29,6,1627,Stanford,1431,231,19,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,44
+2008-09,2009-02-26,828046,197,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,29,6,NA,NA,1431,231,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,198,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,30,5,1668,UCLA,1431,231,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,44
+2008-09,2009-02-26,828046,199,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1431,231,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,44
+2008-09,2009-02-26,828046,207,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1627,Stanford,1414,214,17, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29,7.349999999999994,330046,NA,NA,0,Stanford,Stanford,45
+2008-09,2009-02-26,828046,208,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1627,Stanford,1414,214,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,45
+2008-09,2009-02-26,828046,209,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1627,Stanford,1410,210,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330046,NA,NA,0,Stanford,Stanford,45
+2008-09,2009-02-26,828046,210,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1410,210,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,45
+2008-09,2009-02-26,828046,214,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1382,182,28, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30.3,7.15,457568,NA,NA,0,UCLA,UCLA,46
+2008-09,2009-02-26,828046,215,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1627,Stanford,1382,182,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,46
+2008-09,2009-02-26,828046,220,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1627,Stanford,1369,169,13,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2008-09,2009-02-26,828046,226,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1350,150,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,23.85,295432,NA,NA,0,UCLA,UCLA,47
+2008-09,2009-02-26,828046,227,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1350,150,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2008-09,2009-02-26,828046,232,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,31,4,1668,UCLA,1346,146,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,350583,NA,NA,0,UCLA,UCLA,47
+2008-09,2009-02-26,828046,236,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,33,2,1668,UCLA,1334,134,12, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,32.7,9.15,295432,NA,NA,0,UCLA,Stanford,47
+2008-09,2009-02-26,828046,240,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,33,2,1627,Stanford,1314,114,20,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,48
+2008-09,2009-02-26,828046,242,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,33,2,1668,UCLA,1299,99,15, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,7.15,295432,NA,NA,0,UCLA,UCLA,49
+2008-09,2009-02-26,828046,243,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,33,2,1668,UCLA,1299,99,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,49
+2008-09,2009-02-26,828046,244,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,35,0,1668,UCLA,1292,92,7, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,33,21.45,263232,NA,NA,0,UCLA,Stanford,49
+2008-09,2009-02-26,828046,249,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,35,0,1668,UCLA,1272,72,20,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,50
+2008-09,2009-02-26,828046,253,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,35,0,1627,Stanford,1258,58,14,Offensive foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,50
+2008-09,2009-02-26,828046,257,0,1,Stanford,UCLA,Cardinal,Bruins,3,3,35,37,-2,1668,UCLA,1248,48,10, makes a jump shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,31.7,9.65,457568,NA,NA,0,UCLA,Stanford,51
+2008-09,2009-02-26,828046,270,0,1,Stanford,UCLA,Cardinal,Bruins,2,3,35,37,-2,1627,Stanford,1224,24,24,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,272,0,1,Stanford,UCLA,Cardinal,Bruins,2,3,38,37,1,1627,Stanford,1204,4,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4,7.950000000000003,303550,NA,NA,0,Stanford,UCLA,52
+2008-09,2009-02-26,828046,273,0,1,Stanford,UCLA,Cardinal,Bruins,2,3,38,37,1,NA,NA,1200,0,4,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,274,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,37,1,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Stanford,53
+2008-09,2009-02-26,828046,283,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,37,1,1627,Stanford,1184,1184,16, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,39,17.849999999999994,295414,NA,NA,0,Stanford,UCLA,54
+2008-09,2009-02-26,828046,286,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,37,1,1668,UCLA,1168,1168,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295434,NA,NA,0,UCLA,UCLA,55
+2008-09,2009-02-26,828046,287,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,37,1,1668,UCLA,1168,1168,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,55
+2008-09,2009-02-26,828046,288,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,39,-1,1668,UCLA,1164,1164,4, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,26.3,14.55,263232,NA,NA,0,UCLA,Stanford,55
+2008-09,2009-02-26,828046,290,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,38,39,-1,1668,UCLA,1153,1153,11,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,56
+2008-09,2009-02-26,828046,291,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,39,39,0,1627,Stanford,1153,1153,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,56
+2008-09,2009-02-26,828046,292,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,40,39,1,1627,Stanford,1153,1153,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,56
+2008-09,2009-02-26,828046,294,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,40,41,-1,1668,UCLA,1145,1145,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295434,NA,NA,0,UCLA,Stanford,57
+2008-09,2009-02-26,828046,307,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,40,41,-1,1627,Stanford,1118,1118,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295415,NA,NA,0,Stanford,Stanford,58
+2008-09,2009-02-26,828046,308,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,40,41,-1,1668,UCLA,1118,1118,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,58
+2008-09,2009-02-26,828046,309,0,2,Stanford,UCLA,Cardinal,Bruins,4,4,40,43,-3,1668,UCLA,1111,1111,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295434,NA,NA,0,UCLA,Stanford,59
+2008-09,2009-02-26,828046,313,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,40,43,-3,1627,Stanford,1102,1102,9,Cardinal take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,317,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,40,46,-6,1668,UCLA,1086,1086,16, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.199999999999999,12.95,263232,NA,NA,0,UCLA,Stanford,60
+2008-09,2009-02-26,828046,318,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,42,46,-4,1627,Stanford,1068,1068,18, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,24.8,11.25,395377,NA,NA,0,Stanford,UCLA,61
+2008-09,2009-02-26,828046,324,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,42,46,-4,1668,UCLA,1028,1028,40, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,3.55,263232,NA,NA,0,UCLA,UCLA,62
+2008-09,2009-02-26,828046,325,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,42,46,-4,1627,Stanford,1028,1028,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,62
+2008-09,2009-02-26,828046,331,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,44,46,-2,1627,Stanford,1025,1025,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295412,NA,NA,0,Stanford,Stanford,63
+2008-09,2009-02-26,828046,332,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,44,46,-2,1668,UCLA,1025,1025,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,63
+2008-09,2009-02-26,828046,333,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1627,Stanford,1025,1025,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,63
+2008-09,2009-02-26,828046,336,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1668,UCLA,1001,1001,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,23.05,350583,NA,NA,0,UCLA,UCLA,64
+2008-09,2009-02-26,828046,337,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1627,Stanford,1001,1001,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,64
+2008-09,2009-02-26,828046,340,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1627,Stanford,990,990,11, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,14.150000000000006,295415,NA,NA,0,Stanford,UCLA,65
+2008-09,2009-02-26,828046,348,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1668,UCLA,973,973,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,UCLA,66
+2008-09,2009-02-26,828046,349,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1627,Stanford,973,973,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,66
+2008-09,2009-02-26,828046,350,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1627,Stanford,955,955,18, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39,6.049999999999997,330046,NA,NA,0,Stanford,Stanford,67
+2008-09,2009-02-26,828046,351,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,46,-1,1668,UCLA,955,955,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,67
+2008-09,2009-02-26,828046,352,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,48,-3,1668,UCLA,945,945,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,295434,NA,NA,0,UCLA,Stanford,68
+2008-09,2009-02-26,828046,355,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,48,-3,1668,UCLA,928,928,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,69
+2008-09,2009-02-26,828046,356,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,45,48,-3,NA,NA,928,928,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,357,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,46,48,-2,1627,Stanford,928,928,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,69
+2008-09,2009-02-26,828046,358,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,47,48,-1,1627,Stanford,928,928,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,69
+2008-09,2009-02-26,828046,359,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,48,48,0,1627,Stanford,928,928,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,69
+2008-09,2009-02-26,828046,370,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,48,48,0,1668,UCLA,898,898,30, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,16.25,295432,NA,NA,0,UCLA,UCLA,70
+2008-09,2009-02-26,828046,371,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,48,48,0,1627,Stanford,898,898,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,70
+2008-09,2009-02-26,828046,373,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,48,48,0,1668,UCLA,893,893,5,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,71
+2008-09,2009-02-26,828046,374,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,49,48,1,1627,Stanford,893,893,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,71
+2008-09,2009-02-26,828046,375,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,48,2,1627,Stanford,893,893,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,71
+2008-09,2009-02-26,828046,378,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1668,UCLA,871,871,22, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,23.3,12.45,457568,NA,NA,0,UCLA,UCLA,72
+2008-09,2009-02-26,828046,379,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1627,Stanford,871,871,0,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,72
+2008-09,2009-02-26,828046,380,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1668,UCLA,871,871,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,72
+2008-09,2009-02-26,828046,381,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1627,Stanford,871,871,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,72
+2008-09,2009-02-26,828046,388,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1627,Stanford,844,844,27,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2008-09,2009-02-26,828046,389,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,50,0,1668,UCLA,844,844,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,73
+2008-09,2009-02-26,828046,392,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,51,-1,1668,UCLA,844,844,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,73
+2008-09,2009-02-26,828046,396,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,51,-1,1668,UCLA,800,800,44, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,19.2,15.55,457571,NA,NA,0,UCLA,UCLA,74
+2008-09,2009-02-26,828046,397,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,50,51,-1,1627,Stanford,800,800,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,74
+2008-09,2009-02-26,828046,398,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,51,1,1627,Stanford,784,784,16, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,25.8,23.049999999999997,295412,NA,NA,0,Stanford,UCLA,75
+2008-09,2009-02-26,828046,399,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,1668,UCLA,765,765,19, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.2,21.35,350583,NA,NA,0,UCLA,Stanford,76
+2008-09,2009-02-26,828046,400,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,1627,Stanford,721,721,44, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,22,23.650000000000006,295414,NA,NA,0,Stanford,Stanford,77
+2008-09,2009-02-26,828046,401,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,1668,UCLA,721,721,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,77
+2008-09,2009-02-26,828046,402,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,1668,UCLA,693,693,28, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,10.85,457576,NA,NA,0,UCLA,UCLA,78
+2008-09,2009-02-26,828046,403,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,1627,Stanford,693,693,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,78
+2008-09,2009-02-26,828046,410,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,54,-2,NA,NA,687,687,6,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,415,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,57,-5,1668,UCLA,669,669,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7,20.55,263232,NA,NA,0,UCLA,Stanford,79
+2008-09,2009-02-26,828046,421,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,52,57,-5,1668,UCLA,645,645,24,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,80
+2008-09,2009-02-26,828046,423,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,57,-3,1627,Stanford,633,633,12, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,32,8.549999999999997,395377,NA,NA,0,Stanford,UCLA,80
+2008-09,2009-02-26,828046,428,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,57,-3,1627,Stanford,615,615,18,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2008-09,2009-02-26,828046,431,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,57,-3,1668,UCLA,591,591,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,28.85,295432,NA,NA,0,UCLA,UCLA,81
+2008-09,2009-02-26,828046,432,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,57,-3,1668,UCLA,591,591,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,81
+2008-09,2009-02-26,828046,433,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1668,UCLA,586,586,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295434,NA,NA,0,UCLA,Stanford,81
+2008-09,2009-02-26,828046,435,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1668,UCLA,576,576,10,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,82
+2008-09,2009-02-26,828046,437,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1627,Stanford,573,573,3, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.700000000000003,11.049999999999997,330046,NA,NA,0,Stanford,Stanford,82
+2008-09,2009-02-26,828046,438,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1668,UCLA,573,573,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,82
+2008-09,2009-02-26,828046,438.5,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1668,UCLA,561,561,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,350583,NA,NA,0,UCLA,UCLA,83
+2008-09,2009-02-26,828046,439.25,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,54,59,-5,1627,Stanford,561,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,83
+2008-09,2009-02-26,828046,440.125,0,2,Stanford,UCLA,Cardinal,Bruins,3,4,57,59,-2,1627,Stanford,555,555,6, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.5,12.950000000000003,281732,NA,NA,0,Stanford,UCLA,84
+2008-09,2009-02-26,828046,461,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,57,59,-2,1668,UCLA,554,554,1,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,471,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,57,61,-4,1668,UCLA,538,538,16, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,23.2,10.45,295432,NA,NA,0,UCLA,Stanford,85
+2008-09,2009-02-26,828046,474,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,57,61,-4,1627,Stanford,518,518,20, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,31,7.349999999999994,295412,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,475,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,57,61,-4,1627,Stanford,518,518,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,478,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,57,61,-4,1668,UCLA,516,516,2,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,479,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1627,Stanford,516,516,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,480,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1627,Stanford,516,516,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,481,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1627,Stanford,516,516,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,485,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1627,Stanford,510,510,6, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,5.049999999999997,330046,NA,NA,0,Stanford,Stanford,86
+2008-09,2009-02-26,828046,486,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1668,UCLA,510,510,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,86
+2008-09,2009-02-26,828046,494,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,61,-3,1627,Stanford,482,482,28,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,87
+2008-09,2009-02-26,828046,496,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,63,-5,1668,UCLA,450,450,32, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,6.5,6.45,350583,NA,NA,0,UCLA,Stanford,87
+2008-09,2009-02-26,828046,499,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,63,-5,1668,UCLA,433,433,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,88
+2008-09,2009-02-26,828046,500,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,58,63,-5,NA,NA,433,433,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,501,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,59,63,-4,1627,Stanford,433,433,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,88
+2008-09,2009-02-26,828046,502,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,59,63,-4,1627,Stanford,433,433,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,88
+2008-09,2009-02-26,828046,503,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,59,63,-4,1668,UCLA,433,433,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,88
+2008-09,2009-02-26,828046,509,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,59,63,-4,1668,UCLA,406,406,27, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,18.2,28.45,295435,NA,NA,0,UCLA,UCLA,89
+2008-09,2009-02-26,828046,510,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,59,63,-4,1627,Stanford,406,406,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,89
+2008-09,2009-02-26,828046,511,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,63,-2,1627,Stanford,382,382,24, makes a hook shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,23,10.650000000000006,395377,NA,NA,0,Stanford,UCLA,90
+2008-09,2009-02-26,828046,512,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,63,-2,1668,UCLA,361,361,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295432,NA,NA,0,UCLA,UCLA,91
+2008-09,2009-02-26,828046,513,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,63,-2,1668,UCLA,361,361,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,91
+2008-09,2009-02-26,828046,514,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,65,-4,1668,UCLA,357,357,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Stanford,91
+2008-09,2009-02-26,828046,515,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,65,-4,1627,Stanford,341,341,16, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,24.049999999999997,303550,NA,NA,0,Stanford,Stanford,92
+2008-09,2009-02-26,828046,516,0,2,Stanford,UCLA,Cardinal,Bruins,3,3,61,65,-4,1668,UCLA,341,341,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,92
+2008-09,2009-02-26,828046,519,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,61,65,-4,1668,UCLA,325,325,16,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,522,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,61,67,-6,1668,UCLA,306,306,19, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19.7,10.05,457576,NA,NA,0,UCLA,Stanford,93
+2008-09,2009-02-26,828046,523,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,61,67,-6,1668,UCLA,275,275,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295432,NA,NA,0,UCLA,UCLA,94
+2008-09,2009-02-26,828046,524,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,61,67,-6,1668,UCLA,275,275,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,94
+2008-09,2009-02-26,828046,525,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,61,69,-8,1668,UCLA,270,270,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,263232,NA,NA,0,UCLA,Stanford,94
+2008-09,2009-02-26,828046,526,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,63,69,-6,1627,Stanford,244,244,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,281732,NA,NA,0,Stanford,UCLA,95
+2008-09,2009-02-26,828046,528,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,63,69,-6,1627,Stanford,217,217,27,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,96
+2008-09,2009-02-26,828046,529,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,63,69,-6,NA,NA,217,217,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,530,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,63,69,-6,1668,UCLA,217,217,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,96
+2008-09,2009-02-26,828046,533,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,63,70,-7,1668,UCLA,217,217,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,96
+2008-09,2009-02-26,828046,535,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,65,70,-5,1627,Stanford,204,204,13, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,21,7.150000000000006,295412,NA,NA,0,Stanford,UCLA,97
+2008-09,2009-02-26,828046,536,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,65,70,-5,1668,UCLA,184,184,20, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,3.85,263232,NA,NA,0,UCLA,UCLA,98
+2008-09,2009-02-26,828046,537,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,65,70,-5,1668,UCLA,184,184,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,98
+2008-09,2009-02-26,828046,538,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,65,72,-7,1668,UCLA,180,180,4, makes a tip shot from 1 foot out.,made,FALSE,FALSE,Tip Shot,25.7,6.05,295434,NA,NA,0,UCLA,Stanford,98
+2008-09,2009-02-26,828046,539,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,67,72,-5,1627,Stanford,168,168,12, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,395377,NA,NA,0,Stanford,UCLA,99
+2008-09,2009-02-26,828046,541,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,67,72,-5,1668,UCLA,129,129,39, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,25.95,350583,NA,NA,0,UCLA,Stanford,100
+2008-09,2009-02-26,828046,549,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,67,72,-5,1668,UCLA,105,105,24,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,101
+2008-09,2009-02-26,828046,550,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,68,72,-4,1627,Stanford,105,105,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,101
+2008-09,2009-02-26,828046,551,0,2,Stanford,UCLA,Cardinal,Bruins,3,2,69,72,-3,1627,Stanford,105,105,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,101
+2008-09,2009-02-26,828046,552,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1627,Stanford,105,105,0,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,557,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1627,Stanford,85,85,20,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2008-09,2009-02-26,828046,560,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1668,UCLA,58,58,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,16.45,350583,NA,NA,0,UCLA,UCLA,102
+2008-09,2009-02-26,828046,561,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1668,UCLA,58,58,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2008-09,2009-02-26,828046,563,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1627,Stanford,58,58,0,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2008-09,2009-02-26,828046,564,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1668,UCLA,58,58,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2008-09,2009-02-26,828046,565,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1627,Stanford,58,58,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,102
+2008-09,2009-02-26,828046,572,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1668,UCLA,41,41,17,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,103
+2008-09,2009-02-26,828046,573,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,69,72,-3,1627,Stanford,41,41,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,103
+2008-09,2009-02-26,828046,576,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,70,72,-2,1627,Stanford,41,41,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,103
+2008-09,2009-02-26,828046,580,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,70,72,-2,1627,Stanford,14,14,27,Shooting foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2008-09,2009-02-26,828046,581,0,2,Stanford,UCLA,Cardinal,Bruins,2,2,70,73,-3,1668,UCLA,14,14,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,104
+2008-09,2009-02-26,828046,582,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,73,-3,1627,Stanford,14,14,0,Cardinal take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,583,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,74,-4,1668,UCLA,14,14,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,104
+2008-09,2009-02-26,828046,588,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,74,-4,1627,Stanford,4,4,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.299999999999997,27.450000000000003,295412,NA,NA,0,Stanford,Stanford,105
+2008-09,2009-02-26,828046,589,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,74,-4,1627,Stanford,4,4,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,105
+2008-09,2009-02-26,828046,593,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,74,-4,1668,UCLA,3,3,1,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,105
+2008-09,2009-02-26,828046,594,0,2,Stanford,UCLA,Cardinal,Bruins,1,2,70,74,-4,1627,Stanford,3,3,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,105
+2008-09,2009-02-26,828046,597,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,70,74,-4,1627,Stanford,3,3,0,Cardinal take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,598,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,74,-3,1627,Stanford,3,3,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,UCLA,105
+2008-09,2009-02-26,828046,606,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,74,-3,1627,Stanford,2,2,1,Personal foul committed by Cardinal.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,106
+2008-09,2009-02-26,828046,607,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,75,-4,1668,UCLA,2,2,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,106
+2008-09,2009-02-26,828046,608,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,76,-5,1668,UCLA,2,2,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Stanford,107
+2008-09,2009-02-26,828046,610,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,76,-5,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2008-09,2009-02-26,828046,611,0,2,Stanford,UCLA,Cardinal,Bruins,0,2,71,76,-5,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Stanford,Stanford,NA

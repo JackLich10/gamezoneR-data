@@ -1,0 +1,311 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-01-03,926554,1,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,NA
+2009-10,2010-01-03,926554,6,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1388,Duke,2382,1182,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.700000000000003,25.75,398429,NA,NA,0,Duke,Duke,1
+2009-10,2010-01-03,926554,7,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1388,Duke,2382,1182,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,1
+2009-10,2010-01-03,926554,8,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1355,Clemson,2377,1177,5,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,1
+2009-10,2010-01-03,926554,10,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1388,Duke,2372,1172,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,1
+2009-10,2010-01-03,926554,11,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1355,Clemson,2372,1172,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,1
+2009-10,2010-01-03,926554,12,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1355,Clemson,2350,1150,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330453,NA,NA,0,Clemson,Clemson,2
+2009-10,2010-01-03,926554,13,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,0,0,1355,Clemson,2350,1150,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,2
+2009-10,2010-01-03,926554,14,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,2,-2,1355,Clemson,2345,1145,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399620,NA,NA,0,Clemson,Duke,2
+2009-10,2010-01-03,926554,22,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,2,-2,1355,Clemson,2323,1123,22, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,17.85,330455,NA,NA,0,Clemson,Clemson,3
+2009-10,2010-01-03,926554,23,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,0,2,-2,1388,Duke,2323,1123,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,3
+2009-10,2010-01-03,926554,24,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1388,Duke,2313,1113,10, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,39.2,12.650000000000006,398428,NA,NA,0,Duke,Clemson,4
+2009-10,2010-01-03,926554,27,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1355,Clemson,2280,1080,33, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9,20.95,330453,NA,NA,0,Clemson,Clemson,5
+2009-10,2010-01-03,926554,28,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1355,Clemson,2280,1080,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,5
+2009-10,2010-01-03,926554,29,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1355,Clemson,2269,1069,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,18.55,399630,NA,NA,0,Clemson,Clemson,5
+2009-10,2010-01-03,926554,30,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1388,Duke,2269,1069,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,5
+2009-10,2010-01-03,926554,32,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,2,0,1388,Duke,2255,1055,14,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,6
+2009-10,2010-01-03,926554,34,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,4,-2,1355,Clemson,2242,1042,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Duke,7
+2009-10,2010-01-03,926554,36,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,4,-2,1388,Duke,2226,1026,16, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,16.25,398428,NA,NA,0,Duke,Duke,8
+2009-10,2010-01-03,926554,37,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,2,4,-2,1388,Duke,2226,1026,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,8
+2009-10,2010-01-03,926554,38,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,4,4,0,1388,Duke,2223,1023,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467271,NA,NA,0,Duke,Duke,8
+2009-10,2010-01-03,926554,39,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,4,4,0,1355,Clemson,2223,1023,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,8
+2009-10,2010-01-03,926554,40,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,5,4,1,1388,Duke,2223,1023,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,8
+2009-10,2010-01-03,926554,43,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,5,4,1,1355,Clemson,2202,1002,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,21.35,467268,NA,NA,0,Clemson,Duke,9
+2009-10,2010-01-03,926554,45,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,5,4,1,1355,Clemson,2198,998,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,46,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,5,4,1,1355,Clemson,2198,998,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,47,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,5,4,1,1355,Clemson,2198,998,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,49,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,7,4,3,1388,Duke,2188,988,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329890,NA,NA,0,Duke,Clemson,10
+2009-10,2010-01-03,926554,52,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,7,4,3,1355,Clemson,2169,969,19, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,18.75,399630,NA,NA,0,Clemson,Clemson,11
+2009-10,2010-01-03,926554,53,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,7,4,3,1388,Duke,2169,969,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,11
+2009-10,2010-01-03,926554,56,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2125,925,44, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.2,17.650000000000006,398429,NA,NA,0,Duke,Clemson,12
+2009-10,2010-01-03,926554,57,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2113,913,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,36.3,25.35,510769,NA,NA,0,Clemson,Clemson,13
+2009-10,2010-01-03,926554,58,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2113,913,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,13
+2009-10,2010-01-03,926554,61,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2105,905,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.3,30.049999999999997,329889,NA,NA,0,Duke,Duke,14
+2009-10,2010-01-03,926554,62,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2105,905,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,14
+2009-10,2010-01-03,926554,63,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2077,877,28, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,19.35,510769,NA,NA,0,Clemson,Clemson,15
+2009-10,2010-01-03,926554,64,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2077,877,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,15
+2009-10,2010-01-03,926554,65,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2069,869,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329889,NA,NA,0,Duke,Duke,16
+2009-10,2010-01-03,926554,66,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2069,869,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,16
+2009-10,2010-01-03,926554,68,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,NA,NA,2061,861,8,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,69,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2061,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,70,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2061,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,71,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2061,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,72,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2061,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,73,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2061,861,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,76,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2042,842,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16.7,27.45,467269,NA,NA,0,Clemson,Clemson,17
+2009-10,2010-01-03,926554,81,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2018,818,24, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,399620,NA,NA,0,Clemson,Clemson,17
+2009-10,2010-01-03,926554,82,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2018,818,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,17
+2009-10,2010-01-03,926554,83,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,2013,813,5, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,11.05,467268,NA,NA,0,Clemson,Clemson,17
+2009-10,2010-01-03,926554,84,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,2013,813,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,17
+2009-10,2010-01-03,926554,86,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,1999,799,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510790,NA,NA,0,Duke,Clemson,18
+2009-10,2010-01-03,926554,92,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,1968,768,31,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,107,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,1942,742,26,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,108,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,1942,742,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,114,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,1926,726,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,118,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1355,Clemson,1911,711,15, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,12.25,399630,NA,NA,0,Clemson,Clemson,19
+2009-10,2010-01-03,926554,119,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,10,4,6,1388,Duke,1911,711,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,19
+2009-10,2010-01-03,926554,120,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,4,8,1388,Duke,1901,701,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329890,NA,NA,0,Duke,Clemson,20
+2009-10,2010-01-03,926554,124,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,4,8,1388,Duke,1889,689,12,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,21
+2009-10,2010-01-03,926554,125,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,4,8,NA,NA,1889,689,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,126,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,5,7,1355,Clemson,1889,689,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,21
+2009-10,2010-01-03,926554,127,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1889,689,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,21
+2009-10,2010-01-03,926554,129,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1388,Duke,1872,672,17, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,16.650000000000006,329890,NA,NA,0,Duke,Duke,22
+2009-10,2010-01-03,926554,130,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1872,672,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,22
+2009-10,2010-01-03,926554,132,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1863,663,9,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,23
+2009-10,2010-01-03,926554,134,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1388,Duke,1836,636,27, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,6.049999999999997,518947,NA,NA,0,Duke,Duke,24
+2009-10,2010-01-03,926554,135,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1836,636,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,24
+2009-10,2010-01-03,926554,136,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1830,630,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467268,NA,NA,0,Clemson,Clemson,25
+2009-10,2010-01-03,926554,137,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1388,Duke,1830,630,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,25
+2009-10,2010-01-03,926554,139,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1822,622,8,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,26
+2009-10,2010-01-03,926554,140,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1355,Clemson,1822,622,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,141,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,12,6,6,1388,Duke,1822,622,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,142,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,13,6,7,1388,Duke,1822,622,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,26
+2009-10,2010-01-03,926554,143,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1388,Duke,1822,622,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,26
+2009-10,2010-01-03,926554,144,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1355,Clemson,1822,622,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,145,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1388,Duke,1822,622,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,146,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1388,Duke,1822,622,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,156,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1355,Clemson,1790,590,32, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,29.85,399630,NA,NA,0,Clemson,Clemson,27
+2009-10,2010-01-03,926554,157,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,6,8,1355,Clemson,1790,590,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,27
+2009-10,2010-01-03,926554,158,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,8,6,1355,Clemson,1781,581,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330453,NA,NA,0,Clemson,Duke,27
+2009-10,2010-01-03,926554,165,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,14,10,4,1355,Clemson,1752,552,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,467268,NA,NA,0,Clemson,Duke,28
+2009-10,2010-01-03,926554,166,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1388,Duke,1733,533,19, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12.799999999999997,19.549999999999997,329889,NA,NA,0,Duke,Clemson,29
+2009-10,2010-01-03,926554,170,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1704,504,29,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,30
+2009-10,2010-01-03,926554,171,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1704,504,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,172,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1704,504,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,175,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1388,Duke,1701,501,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510790,NA,NA,0,Duke,Clemson,30
+2009-10,2010-01-03,926554,186,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1388,Duke,1685,485,16,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,31
+2009-10,2010-01-03,926554,188,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1668,468,17, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,16,23.65,467268,NA,NA,0,Clemson,Clemson,31
+2009-10,2010-01-03,926554,189,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1388,Duke,1668,468,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,31
+2009-10,2010-01-03,926554,191,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1655,455,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,192,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1655,455,0,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,32
+2009-10,2010-01-03,926554,193,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,NA,NA,1655,455,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,194,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1655,455,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,197,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1355,Clemson,1650,450,5,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,32
+2009-10,2010-01-03,926554,199,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,16,10,6,1388,Duke,1650,450,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,32
+2009-10,2010-01-03,926554,203,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1650,450,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,32
+2009-10,2010-01-03,926554,216,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1597,397,53,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,217,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1597,397,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,218,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1597,397,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,220,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1573,373,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330453,NA,NA,0,Clemson,Clemson,33
+2009-10,2010-01-03,926554,221,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1573,373,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,33
+2009-10,2010-01-03,926554,223,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1567,367,6, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.3,11.05,510768,NA,NA,0,Clemson,Duke,33
+2009-10,2010-01-03,926554,225,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1565,365,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,226,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1565,365,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,236,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1553,353,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,237,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1553,353,0, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.799999999999997,5.25,329889,NA,NA,0,Duke,Clemson,34
+2009-10,2010-01-03,926554,251,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1532,332,21,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,35
+2009-10,2010-01-03,926554,252,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1532,332,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,259,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1513,313,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26,14.950000000000003,398428,NA,NA,0,Duke,Duke,36
+2009-10,2010-01-03,926554,260,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1513,313,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,36
+2009-10,2010-01-03,926554,262,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1494,294,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330453,NA,NA,0,Clemson,Clemson,37
+2009-10,2010-01-03,926554,265,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1477,277,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.3,26.75,399630,NA,NA,0,Clemson,Clemson,37
+2009-10,2010-01-03,926554,266,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1477,277,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,37
+2009-10,2010-01-03,926554,268,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1471,271,6,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,37
+2009-10,2010-01-03,926554,269,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1471,271,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,271,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1355,Clemson,1445,245,26, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11,4.05,467268,NA,NA,0,Clemson,Clemson,37
+2009-10,2010-01-03,926554,272,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,17,10,7,1388,Duke,1445,245,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,37
+2009-10,2010-01-03,926554,273,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,20,10,10,1388,Duke,1429,229,16, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.200000000000003,20.950000000000003,398428,NA,NA,0,Duke,Clemson,38
+2009-10,2010-01-03,926554,276,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,20,10,10,1355,Clemson,1419,219,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510766,NA,NA,0,Clemson,Clemson,39
+2009-10,2010-01-03,926554,277,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,20,10,10,1388,Duke,1419,219,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,39
+2009-10,2010-01-03,926554,278,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,20,10,10,1388,Duke,1411,211,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.7,29.450000000000003,398429,NA,NA,0,Duke,Duke,40
+2009-10,2010-01-03,926554,279,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,20,10,10,1388,Duke,1411,211,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,40
+2009-10,2010-01-03,926554,281,0,1,Duke,Clemson,Blue Devils,Tigers,4,4,22,10,12,1388,Duke,1406,206,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Clemson,40
+2009-10,2010-01-03,926554,282,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1355,Clemson,1406,206,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,283,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1388,Duke,1406,206,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,286,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1355,Clemson,1402,202,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,290,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1355,Clemson,1381,181,21, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,9,13.95,399630,NA,NA,0,Clemson,Clemson,41
+2009-10,2010-01-03,926554,291,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1388,Duke,1381,181,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,41
+2009-10,2010-01-03,926554,297,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,1355,Clemson,1368,168,13,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,42
+2009-10,2010-01-03,926554,298,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,22,10,12,NA,NA,1368,168,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,299,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,23,10,13,1388,Duke,1368,168,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,42
+2009-10,2010-01-03,926554,300,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,23,10,13,1388,Duke,1368,168,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,42
+2009-10,2010-01-03,926554,301,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,23,10,13,1355,Clemson,1368,168,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,42
+2009-10,2010-01-03,926554,306,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,23,10,13,1355,Clemson,1356,156,12,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,43
+2009-10,2010-01-03,926554,307,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,24,10,14,1388,Duke,1356,156,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,43
+2009-10,2010-01-03,926554,308,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,10,15,1388,Duke,1356,156,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,43
+2009-10,2010-01-03,926554,310,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,12,13,1355,Clemson,1344,144,12, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.2,14.95,510769,NA,NA,0,Clemson,Duke,44
+2009-10,2010-01-03,926554,312,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,12,13,1388,Duke,1326,126,18, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.3,14.950000000000003,398428,NA,NA,0,Duke,Duke,45
+2009-10,2010-01-03,926554,313,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,12,13,1388,Duke,1326,126,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,45
+2009-10,2010-01-03,926554,314,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,12,13,1388,Duke,1326,126,0, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,24.5,10.450000000000003,510790,NA,NA,0,Duke,Clemson,45
+2009-10,2010-01-03,926554,316,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,25,12,13,1388,Duke,1326,126,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,46
+2009-10,2010-01-03,926554,323,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,27,12,15,1388,Duke,1283,83,43, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Clemson,46
+2009-10,2010-01-03,926554,324,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,27,12,15,1355,Clemson,1264,64,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,15.85,510768,NA,NA,0,Clemson,Clemson,47
+2009-10,2010-01-03,926554,325,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,27,12,15,1388,Duke,1264,64,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,47
+2009-10,2010-01-03,926554,330,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,27,12,15,1355,Clemson,1262,62,2,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,48
+2009-10,2010-01-03,926554,331,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,28,12,16,1388,Duke,1262,62,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,48
+2009-10,2010-01-03,926554,332,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,29,12,17,1388,Duke,1262,62,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,48
+2009-10,2010-01-03,926554,338,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,29,12,17,1355,Clemson,1236,36,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510766,NA,NA,0,Clemson,Clemson,49
+2009-10,2010-01-03,926554,339,0,1,Duke,Clemson,Blue Devils,Tigers,4,3,29,12,17,1388,Duke,1236,36,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,49
+2009-10,2010-01-03,926554,344,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,29,12,17,1388,Duke,1235,35,1,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,348,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,29,12,17,1355,Clemson,1217,17,18,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,50
+2009-10,2010-01-03,926554,349,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,29,12,17,1388,Duke,1217,17,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,50
+2009-10,2010-01-03,926554,352,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,30,12,18,1388,Duke,1217,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,50
+2009-10,2010-01-03,926554,355,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,30,12,18,1355,Clemson,1205,5,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42,18.55,510769,NA,NA,0,Clemson,Clemson,51
+2009-10,2010-01-03,926554,358,0,1,Duke,Clemson,Blue Devils,Tigers,3,3,30,12,18,NA,NA,1200,0,5,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,359,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,12,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Clemson,51
+2009-10,2010-01-03,926554,364,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,14,16,1355,Clemson,1164,1164,36, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,399620,NA,NA,0,Clemson,Duke,52
+2009-10,2010-01-03,926554,368,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,14,16,1388,Duke,1124,1124,40, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,14.75,398428,NA,NA,0,Duke,Duke,53
+2009-10,2010-01-03,926554,369,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,14,16,1355,Clemson,1124,1124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,53
+2009-10,2010-01-03,926554,381,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,16,14,1355,Clemson,1119,1119,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Duke,54
+2009-10,2010-01-03,926554,383,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,16,14,1388,Duke,1116,1116,3, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.700000000000003,22.650000000000006,398428,NA,NA,0,Duke,Duke,55
+2009-10,2010-01-03,926554,384,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,16,14,1355,Clemson,1116,1116,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,55
+2009-10,2010-01-03,926554,386,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,16,14,1388,Duke,1108,1108,8,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,56
+2009-10,2010-01-03,926554,387,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,17,13,1355,Clemson,1108,1108,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,56
+2009-10,2010-01-03,926554,388,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,18,12,1355,Clemson,1108,1108,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,56
+2009-10,2010-01-03,926554,396,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,18,12,1388,Duke,1083,1083,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.2,29.450000000000003,329889,NA,NA,0,Duke,Duke,57
+2009-10,2010-01-03,926554,397,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,18,12,1355,Clemson,1083,1083,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,57
+2009-10,2010-01-03,926554,398,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,18,12,1388,Duke,1077,1077,6,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,58
+2009-10,2010-01-03,926554,399,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,19,11,1355,Clemson,1077,1077,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,58
+2009-10,2010-01-03,926554,400,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,20,10,1355,Clemson,1077,1077,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,58
+2009-10,2010-01-03,926554,401,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,20,10,1355,Clemson,1077,1077,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,403,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,20,10,1388,Duke,1054,1054,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,19.349999999999994,329889,NA,NA,0,Duke,Duke,59
+2009-10,2010-01-03,926554,404,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,20,10,1355,Clemson,1054,1054,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,59
+2009-10,2010-01-03,926554,408,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,22,8,1355,Clemson,1044,1044,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330453,NA,NA,0,Clemson,Clemson,60
+2009-10,2010-01-03,926554,409,0,2,Duke,Clemson,Blue Devils,Tigers,4,4,30,22,8,1388,Duke,1044,1044,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,60
+2009-10,2010-01-03,926554,410,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,30,22,8,1388,Duke,1044,1044,0,Blue Devils take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,411,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,30,23,7,1355,Clemson,1044,1044,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,60
+2009-10,2010-01-03,926554,414,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,32,23,9,1388,Duke,1022,1022,22, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,23,14.349999999999994,329889,NA,NA,0,Duke,Clemson,61
+2009-10,2010-01-03,926554,416,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,32,23,9,1355,Clemson,976,976,46,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,62
+2009-10,2010-01-03,926554,417,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,32,23,9,1355,Clemson,976,976,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,418,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,32,23,9,1355,Clemson,976,976,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,420,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,23,12,1388,Duke,967,967,9, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.700000000000003,11.650000000000006,329889,NA,NA,0,Duke,Clemson,63
+2009-10,2010-01-03,926554,424,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,25,10,1355,Clemson,954,954,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510766,NA,NA,0,Clemson,Duke,64
+2009-10,2010-01-03,926554,425,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,25,10,NA,NA,954,954,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,432,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,25,10,1355,Clemson,943,943,11,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,65
+2009-10,2010-01-03,926554,434,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,25,10,1388,Duke,939,939,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.200000000000003,23.049999999999997,398428,NA,NA,0,Duke,Duke,65
+2009-10,2010-01-03,926554,435,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,35,25,10,1355,Clemson,939,939,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,65
+2009-10,2010-01-03,926554,436,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1388,Duke,926,926,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Clemson,66
+2009-10,2010-01-03,926554,438,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,910,910,16,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,67
+2009-10,2010-01-03,926554,455,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,893,893,17,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,68
+2009-10,2010-01-03,926554,456,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,893,893,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,458,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1388,Duke,881,881,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,68
+2009-10,2010-01-03,926554,459,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,881,881,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,68
+2009-10,2010-01-03,926554,460,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,869,869,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,4.65,467268,NA,NA,0,Clemson,Clemson,69
+2009-10,2010-01-03,926554,461,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1388,Duke,869,869,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,69
+2009-10,2010-01-03,926554,463,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,849,849,20,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,70
+2009-10,2010-01-03,926554,464,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1355,Clemson,849,849,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,466,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1388,Duke,838,838,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,5.450000000000003,329889,NA,NA,0,Duke,Duke,70
+2009-10,2010-01-03,926554,467,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,37,25,12,1388,Duke,838,838,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,70
+2009-10,2010-01-03,926554,469,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,39,25,14,1388,Duke,831,831,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,510790,NA,NA,0,Duke,Clemson,70
+2009-10,2010-01-03,926554,470,0,2,Duke,Clemson,Blue Devils,Tigers,3,4,42,25,17,1388,Duke,828,828,3, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7.200000000000003,19.150000000000006,329889,NA,NA,0,Duke,Clemson,71
+2009-10,2010-01-03,926554,471,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,42,25,17,1355,Clemson,828,828,0,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,479,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,42,25,17,1388,Duke,804,804,24,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,72
+2009-10,2010-01-03,926554,480,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,42,26,16,1355,Clemson,804,804,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,72
+2009-10,2010-01-03,926554,481,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,42,27,15,1355,Clemson,804,804,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,72
+2009-10,2010-01-03,926554,484,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,27,17,1388,Duke,801,801,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Clemson,73
+2009-10,2010-01-03,926554,487,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,27,17,1388,Duke,796,796,5,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,74
+2009-10,2010-01-03,926554,488,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,28,16,1355,Clemson,796,796,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,74
+2009-10,2010-01-03,926554,489,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,28,16,1388,Duke,796,796,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,490,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,29,15,1355,Clemson,796,796,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,74
+2009-10,2010-01-03,926554,500,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,29,15,1388,Duke,773,773,23,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,74
+2009-10,2010-01-03,926554,501,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,29,15,1355,Clemson,773,773,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,74
+2009-10,2010-01-03,926554,504,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,773,773,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,74
+2009-10,2010-01-03,926554,506,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,760,760,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,5.450000000000003,518947,NA,NA,0,Duke,Duke,75
+2009-10,2010-01-03,926554,507,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,760,760,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,75
+2009-10,2010-01-03,926554,508,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,743,743,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,22.05,467268,NA,NA,0,Clemson,Clemson,76
+2009-10,2010-01-03,926554,509,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,743,743,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,76
+2009-10,2010-01-03,926554,510,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,729,729,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17.7,27.85,330453,NA,NA,0,Clemson,Clemson,76
+2009-10,2010-01-03,926554,511,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,729,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,76
+2009-10,2010-01-03,926554,514,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,NA,NA,713,713,16,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,515,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,713,713,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,516,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,713,713,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,519,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,711,711,2, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12,24.549999999999997,398429,NA,NA,0,Duke,Duke,77
+2009-10,2010-01-03,926554,520,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1388,Duke,711,711,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2009-10,2010-01-03,926554,521,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,44,30,14,1355,Clemson,711,711,0,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2009-10,2010-01-03,926554,522,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1388,Duke,711,711,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,77
+2009-10,2010-01-03,926554,523,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1388,Duke,711,711,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,77
+2009-10,2010-01-03,926554,527,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1388,Duke,710,710,1,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,78
+2009-10,2010-01-03,926554,528,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1388,Duke,710,710,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,529,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1355,Clemson,710,710,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,78
+2009-10,2010-01-03,926554,530,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1388,Duke,710,710,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,78
+2009-10,2010-01-03,926554,539,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,45,30,15,1355,Clemson,697,697,13,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,79
+2009-10,2010-01-03,926554,540,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,46,30,16,1388,Duke,697,697,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,79
+2009-10,2010-01-03,926554,541,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,30,17,1388,Duke,697,697,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,79
+2009-10,2010-01-03,926554,543,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,33,14,1355,Clemson,683,683,14, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,13.8,25.35,330455,NA,NA,0,Clemson,Duke,80
+2009-10,2010-01-03,926554,547,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,33,14,1388,Duke,658,658,25,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,81
+2009-10,2010-01-03,926554,553,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1355,Clemson,638,638,20, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,24.8,10.25,330453,NA,NA,0,Clemson,Duke,82
+2009-10,2010-01-03,926554,559,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1388,Duke,599,599,39, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329890,NA,NA,0,Duke,Duke,83
+2009-10,2010-01-03,926554,560,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1355,Clemson,599,599,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,83
+2009-10,2010-01-03,926554,561,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1388,Duke,598,598,1,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,84
+2009-10,2010-01-03,926554,562,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1355,Clemson,598,598,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,84
+2009-10,2010-01-03,926554,563,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1388,Duke,598,598,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,84
+2009-10,2010-01-03,926554,571,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,47,35,12,1355,Clemson,586,586,12,Shooting foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,85
+2009-10,2010-01-03,926554,572,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,48,35,13,1388,Duke,586,586,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,85
+2009-10,2010-01-03,926554,574,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,49,35,14,1388,Duke,586,586,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,85
+2009-10,2010-01-03,926554,582,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,49,35,14,1388,Duke,577,577,9,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,86
+2009-10,2010-01-03,926554,583,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,49,36,13,1355,Clemson,577,577,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,86
+2009-10,2010-01-03,926554,584,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,49,37,12,1355,Clemson,577,577,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,86
+2009-10,2010-01-03,926554,589,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,51,37,14,1388,Duke,565,565,12, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,27.8,12.950000000000003,398428,NA,NA,0,Duke,Clemson,87
+2009-10,2010-01-03,926554,590,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,51,40,11,1355,Clemson,555,555,10, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.5,10.25,510769,NA,NA,0,Clemson,Duke,88
+2009-10,2010-01-03,926554,591,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,53,40,13,1388,Duke,540,540,15, makes a hook shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,25.7,9.549999999999997,467271,NA,NA,0,Duke,Clemson,89
+2009-10,2010-01-03,926554,593,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,53,40,13,1355,Clemson,508,508,32, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,330453,NA,NA,0,Clemson,Clemson,90
+2009-10,2010-01-03,926554,594,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,53,40,13,1388,Duke,508,508,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,90
+2009-10,2010-01-03,926554,595,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,40,15,1388,Duke,481,481,27, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,16.200000000000003,16.650000000000006,398429,NA,NA,0,Duke,Clemson,91
+2009-10,2010-01-03,926554,598,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,42,13,1355,Clemson,474,474,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399630,NA,NA,0,Clemson,Clemson,92
+2009-10,2010-01-03,926554,599,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,42,13,1388,Duke,474,474,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,92
+2009-10,2010-01-03,926554,600,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,42,13,NA,NA,474,474,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,601,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,42,13,1355,Clemson,474,474,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,92
+2009-10,2010-01-03,926554,602,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,42,13,1388,Duke,474,474,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,92
+2009-10,2010-01-03,926554,618,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,44,11,1355,Clemson,432,432,42, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330453,NA,NA,0,Clemson,Duke,93
+2009-10,2010-01-03,926554,620,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,55,44,11,1355,Clemson,417,417,15,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,94
+2009-10,2010-01-03,926554,621,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,56,44,12,1388,Duke,417,417,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,94
+2009-10,2010-01-03,926554,622,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,57,44,13,1388,Duke,417,417,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,94
+2009-10,2010-01-03,926554,624,0,2,Duke,Clemson,Blue Devils,Tigers,3,3,59,44,15,1388,Duke,378,378,39, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,398429,NA,NA,0,Duke,Clemson,95
+2009-10,2010-01-03,926554,629,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,59,44,15,1355,Clemson,372,372,6,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,636,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,59,44,15,1355,Clemson,363,363,9,Offensive foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,96
+2009-10,2010-01-03,926554,638,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,61,44,17,1388,Duke,344,344,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Clemson,97
+2009-10,2010-01-03,926554,642,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,61,44,17,1388,Duke,324,324,20,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,98
+2009-10,2010-01-03,926554,643,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,61,45,16,1355,Clemson,324,324,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,98
+2009-10,2010-01-03,926554,644,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,61,45,16,1355,Clemson,324,324,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,98
+2009-10,2010-01-03,926554,645,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,61,45,16,1388,Duke,324,324,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,98
+2009-10,2010-01-03,926554,654,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,45,18,1388,Duke,298,298,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329889,NA,NA,0,Duke,Clemson,99
+2009-10,2010-01-03,926554,655,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,47,16,1355,Clemson,272,272,26, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,399620,NA,NA,0,Clemson,Duke,100
+2009-10,2010-01-03,926554,656,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,47,16,1355,Clemson,252,252,20, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,25,12.65,330453,NA,NA,0,Clemson,Clemson,101
+2009-10,2010-01-03,926554,657,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,47,16,1388,Duke,252,252,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,101
+2009-10,2010-01-03,926554,659,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,47,16,1355,Clemson,228,228,24,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2010-01-03,926554,660,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,63,47,16,NA,NA,228,228,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,661,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,47,17,1388,Duke,228,228,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2010-01-03,926554,662,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,47,17,1388,Duke,228,228,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,663,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,47,17,1388,Duke,228,228,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2009-10,2010-01-03,926554,664,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,47,17,1355,Clemson,228,228,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,102
+2009-10,2010-01-03,926554,672,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,47,17,1388,Duke,206,206,22,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,103
+2009-10,2010-01-03,926554,673,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,48,16,1355,Clemson,206,206,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,103
+2009-10,2010-01-03,926554,674,0,2,Duke,Clemson,Blue Devils,Tigers,3,2,64,49,15,1355,Clemson,206,206,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,103
+2009-10,2010-01-03,926554,680,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,64,49,15,1388,Duke,186,186,20,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,681,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,64,49,15,1355,Clemson,186,186,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,682,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,64,49,15,1355,Clemson,186,186,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,684,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,49,18,1388,Duke,176,176,10, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,37.5,25.349999999999994,398429,NA,NA,0,Duke,Clemson,104
+2009-10,2010-01-03,926554,685,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,49,18,1355,Clemson,157,157,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,4.45,330455,NA,NA,0,Clemson,Clemson,105
+2009-10,2010-01-03,926554,686,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,49,18,1355,Clemson,157,157,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,105
+2009-10,2010-01-03,926554,692,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,49,18,1388,Duke,143,143,14,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,105
+2009-10,2010-01-03,926554,693,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,49,18,1355,Clemson,143,143,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,105
+2009-10,2010-01-03,926554,696,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,67,50,17,1355,Clemson,143,143,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,105
+2009-10,2010-01-03,926554,698,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,70,50,20,1388,Duke,110,110,33, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.799999999999997,21.450000000000003,329889,NA,NA,0,Duke,Clemson,106
+2009-10,2010-01-03,926554,700,0,2,Duke,Clemson,Blue Devils,Tigers,2,2,70,53,17,1355,Clemson,87,87,23, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,13.7,24.95,399630,NA,NA,0,Clemson,Duke,107
+2009-10,2010-01-03,926554,704,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,70,53,17,1355,Clemson,84,84,3,Tigers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,708,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,70,53,17,1355,Clemson,59,59,25,Personal foul committed by Tigers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,108
+2009-10,2010-01-03,926554,709,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,70,53,17,1388,Duke,59,59,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,710,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,70,53,17,1355,Clemson,59,59,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,711,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,71,53,18,1388,Duke,59,59,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,108
+2009-10,2010-01-03,926554,712,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,71,53,18,1355,Clemson,59,59,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,713,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,71,53,18,1355,Clemson,59,59,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-01-03,926554,714,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,72,53,19,1388,Duke,59,59,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Clemson,108
+2009-10,2010-01-03,926554,721,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,72,53,19,1355,Clemson,45,45,14, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,14.75,467269,NA,NA,0,Clemson,Clemson,109
+2009-10,2010-01-03,926554,722,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,72,53,19,1355,Clemson,45,45,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,109
+2009-10,2010-01-03,926554,723,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,72,53,19,1355,Clemson,37,37,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467266,NA,NA,0,Clemson,Clemson,109
+2009-10,2010-01-03,926554,724,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,72,53,19,1388,Duke,37,37,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Duke,109
+2009-10,2010-01-03,926554,726,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,74,53,21,1388,Duke,12,12,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Clemson,110
+2009-10,2010-01-03,926554,727,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,74,53,21,NA,NA,0,0,12,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-01-03,926554,728,0,2,Duke,Clemson,Blue Devils,Tigers,2,1,74,53,21,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Clemson,Clemson,NA

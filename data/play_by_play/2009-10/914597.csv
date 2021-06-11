@@ -1,0 +1,194 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-02-11,914597,1,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,NA
+2009-10,2010-02-11,914597,5,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,0,0,0,1562,Oregon,2379,1179,21,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,1
+2009-10,2010-02-11,914597,6,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,1,0,1,1291,Arizona,2379,1179,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,1
+2009-10,2010-02-11,914597,7,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,1,0,1,1291,Arizona,2379,1179,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,1
+2009-10,2010-02-11,914597,9,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,1,0,1,1562,Oregon,2371,1171,8, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,19.2,31.75,330061,NA,NA,0,Oregon,Oregon,2
+2009-10,2010-02-11,914597,10,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,1,2,-1,1562,Oregon,2362,1162,9, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,14,8.95,403002,NA,NA,0,Oregon,Arizona,2
+2009-10,2010-02-11,914597,12,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,1,2,-1,1562,Oregon,2332,1132,30,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,3
+2009-10,2010-02-11,914597,13,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,2,2,0,1291,Arizona,2332,1132,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,3
+2009-10,2010-02-11,914597,14,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,2,1,1291,Arizona,2332,1132,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,3
+2009-10,2010-02-11,914597,21,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,4,-1,1562,Oregon,2318,1118,14, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457352,NA,NA,0,Oregon,Arizona,4
+2009-10,2010-02-11,914597,22,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,4,-1,1291,Arizona,2306,1106,12, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,24.349999999999994,457338,NA,NA,0,Arizona,Oregon,5
+2009-10,2010-02-11,914597,23,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1562,Oregon,2299,1099,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403002,NA,NA,0,Oregon,Arizona,6
+2009-10,2010-02-11,914597,24,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1291,Arizona,2278,1078,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12,24.349999999999994,395394,NA,NA,0,Arizona,Oregon,7
+2009-10,2010-02-11,914597,25,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1562,Oregon,2270,1070,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509248,NA,NA,0,Oregon,Oregon,8
+2009-10,2010-02-11,914597,29,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1291,Arizona,2269,1069,1,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,8
+2009-10,2010-02-11,914597,31,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1562,Oregon,2266,1066,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457352,NA,NA,0,Oregon,Oregon,8
+2009-10,2010-02-11,914597,32,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,3,6,-3,1562,Oregon,2235,1035,31, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14,18.95,509250,NA,NA,0,Oregon,Arizona,8
+2009-10,2010-02-11,914597,36,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,5,6,-1,1291,Arizona,2222,1022,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,9
+2009-10,2010-02-11,914597,41,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,5,8,-3,1562,Oregon,2199,999,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509248,NA,NA,0,Oregon,Arizona,10
+2009-10,2010-02-11,914597,45,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,5,8,-3,1562,Oregon,2161,961,38, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,35.5,13.95,403002,NA,NA,0,Oregon,Arizona,11
+2009-10,2010-02-11,914597,46,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,5,8,-3,1291,Arizona,2145,945,16, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.8,21.349999999999994,329709,NA,NA,0,Arizona,Arizona,12
+2009-10,2010-02-11,914597,47,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,7,8,-1,1291,Arizona,2141,941,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509166,NA,NA,0,Arizona,Oregon,12
+2009-10,2010-02-11,914597,48,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,8,1,1291,Arizona,2124,924,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,Oregon,13
+2009-10,2010-02-11,914597,51,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,8,1,NA,NA,2122,922,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,68,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,8,1,1562,Oregon,2089,889,33, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,22.8,10.05,457352,NA,NA,0,Oregon,Arizona,14
+2009-10,2010-02-11,914597,69,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,8,1,1291,Arizona,2077,877,12, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,11.25,509169,NA,NA,0,Arizona,Oregon,15
+2009-10,2010-02-11,914597,70,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,10,-1,1562,Oregon,2067,867,10, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,30.7,22.45,330061,NA,NA,0,Oregon,Arizona,16
+2009-10,2010-02-11,914597,71,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,10,-1,1291,Arizona,2036,836,31, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.200000000000003,7.150000000000006,509168,NA,NA,0,Arizona,Arizona,17
+2009-10,2010-02-11,914597,72,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,10,-1,1291,Arizona,2032,832,4, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,21.3,30.049999999999997,329709,NA,NA,0,Arizona,Oregon,17
+2009-10,2010-02-11,914597,73,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,12,-3,1562,Oregon,2023,823,9, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,32.2,18.75,509248,NA,NA,0,Oregon,Arizona,18
+2009-10,2010-02-11,914597,74,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,12,-3,1291,Arizona,1997,797,26, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.700000000000003,5.849999999999994,329709,NA,NA,0,Arizona,Oregon,19
+2009-10,2010-02-11,914597,86,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,12,-3,1562,Oregon,1984,784,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.800000000000001,21.85,330061,NA,NA,0,Oregon,Arizona,20
+2009-10,2010-02-11,914597,93,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,9,12,-3,1562,Oregon,1976,776,8,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,21
+2009-10,2010-02-11,914597,94,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,12,-2,1291,Arizona,1976,776,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,21
+2009-10,2010-02-11,914597,95,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,12,-2,1291,Arizona,1976,776,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,21
+2009-10,2010-02-11,914597,102,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,12,-2,1562,Oregon,1965,765,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457355,NA,NA,0,Oregon,Oregon,22
+2009-10,2010-02-11,914597,103,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,14,-4,1562,Oregon,1962,762,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457355,NA,NA,0,Oregon,Arizona,22
+2009-10,2010-02-11,914597,105,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,14,-4,1291,Arizona,1948,748,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457338,NA,NA,0,Arizona,Oregon,23
+2009-10,2010-02-11,914597,107,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,14,-4,1562,Oregon,1937,737,11, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,7.15,509248,NA,NA,0,Oregon,Oregon,24
+2009-10,2010-02-11,914597,108.5,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,10,14,-4,1562,Oregon,1935,735,2, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,7.95,457351,NA,NA,0,Oregon,Arizona,24
+2009-10,2010-02-11,914597,109,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,12,14,-2,1291,Arizona,1913,713,22, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,24.2,14.950000000000003,509165,NA,NA,0,Arizona,Oregon,25
+2009-10,2010-02-11,914597,110,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,12,16,-4,1562,Oregon,1899,699,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457355,NA,NA,0,Oregon,Arizona,26
+2009-10,2010-02-11,914597,112,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,16,-1,1291,Arizona,1875,675,24, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,17.200000000000003,28.25,457337,NA,NA,0,Arizona,Oregon,27
+2009-10,2010-02-11,914597,114,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,16,-1,1562,Oregon,1864,664,11, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,10.45,330061,NA,NA,0,Oregon,Arizona,28
+2009-10,2010-02-11,914597,115,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,16,-1,1291,Arizona,1858,658,6, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,9.700000000000003,21.650000000000006,457337,NA,NA,0,Arizona,Oregon,29
+2009-10,2010-02-11,914597,117,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,16,-1,1562,Oregon,1836,636,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,23.05,457355,NA,NA,0,Oregon,Arizona,30
+2009-10,2010-02-11,914597,118,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,15,16,-1,1291,Arizona,1823,623,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.200000000000003,7.549999999999997,457338,NA,NA,0,Arizona,Arizona,31
+2009-10,2010-02-11,914597,119,0,1,Arizona,Oregon,Wildcats,Ducks,4,4,17,16,1,1291,Arizona,1820,620,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,Oregon,31
+2009-10,2010-02-11,914597,123,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,17,16,1,1562,Oregon,1820,620,0,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,138,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,17,16,1,NA,NA,1800,600,20,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,150,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,16,4,1291,Arizona,1768,568,32, makes a 3-point jump shot from 27 feet out.,made,FALSE,TRUE,Jump Shot,36.8,29.25,329709,NA,NA,0,Arizona,Oregon,32
+2009-10,2010-02-11,914597,151,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,16,4,1562,Oregon,1757,557,11, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.7,24.75,483475,NA,NA,0,Oregon,Arizona,33
+2009-10,2010-02-11,914597,152,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,16,4,1291,Arizona,1734,534,23, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,14.299999999999997,26.950000000000003,329709,NA,NA,0,Arizona,Oregon,34
+2009-10,2010-02-11,914597,153,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1725,525,9, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,10.3,7.75,509249,NA,NA,0,Oregon,Arizona,35
+2009-10,2010-02-11,914597,159,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1665,465,60, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,25.15,330061,NA,NA,0,Oregon,Arizona,36
+2009-10,2010-02-11,914597,163,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1663,463,2,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,37
+2009-10,2010-02-11,914597,164,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,NA,NA,1663,463,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,177,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1646,446,17,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,37
+2009-10,2010-02-11,914597,190,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1291,Arizona,1638,438,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509168,NA,NA,0,Arizona,Oregon,37
+2009-10,2010-02-11,914597,202,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1625,425,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457353,NA,NA,0,Oregon,Arizona,38
+2009-10,2010-02-11,914597,204,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1291,Arizona,1619,419,6,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,39
+2009-10,2010-02-11,914597,223,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,20,18,2,1562,Oregon,1599,399,20, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,10.25,403002,NA,NA,0,Oregon,Arizona,40
+2009-10,2010-02-11,914597,228,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,22,18,4,1291,Arizona,1575,375,24, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,26.7,11.450000000000003,395394,NA,NA,0,Arizona,Oregon,41
+2009-10,2010-02-11,914597,232,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,22,18,4,1291,Arizona,1565,365,10,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,42
+2009-10,2010-02-11,914597,244,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,22,20,2,1562,Oregon,1552,352,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403002,NA,NA,0,Oregon,Arizona,42
+2009-10,2010-02-11,914597,245,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,22,20,2,1291,Arizona,1536,336,16, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,28,18.25,509166,NA,NA,0,Arizona,Arizona,43
+2009-10,2010-02-11,914597,246,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,22,20,2,1291,Arizona,1524,324,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509166,NA,NA,0,Arizona,Arizona,43
+2009-10,2010-02-11,914597,247,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,24,20,4,1291,Arizona,1521,321,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509167,NA,NA,0,Arizona,Oregon,43
+2009-10,2010-02-11,914597,248,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,24,20,4,1562,Oregon,1500,300,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,20.95,457353,NA,NA,0,Oregon,Arizona,44
+2009-10,2010-02-11,914597,249,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,24,20,4,1291,Arizona,1478,278,22, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,14.950000000000003,509167,NA,NA,0,Arizona,Arizona,45
+2009-10,2010-02-11,914597,251,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,24,20,4,1562,Oregon,1468,268,10,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,45
+2009-10,2010-02-11,914597,260,0,1,Arizona,Oregon,Wildcats,Ducks,4,3,26,20,6,1291,Arizona,1454,254,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329709,NA,NA,0,Arizona,Oregon,45
+2009-10,2010-02-11,914597,262,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,26,20,6,1562,Oregon,1451,251,3,Ducks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,271,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,26,20,6,1562,Oregon,1440,240,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509248,NA,NA,0,Oregon,Oregon,46
+2009-10,2010-02-11,914597,272,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,26,22,4,1562,Oregon,1433,233,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403002,NA,NA,0,Oregon,Arizona,46
+2009-10,2010-02-11,914597,274,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,26,22,4,1291,Arizona,1414,214,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,26.5,11.049999999999997,509169,NA,NA,0,Arizona,Arizona,47
+2009-10,2010-02-11,914597,277,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,26,22,4,NA,NA,1411,211,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,290,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,28,22,6,1291,Arizona,1397,197,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,47
+2009-10,2010-02-11,914597,291,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,28,22,6,1562,Oregon,1385,185,12, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,29.5,32.15,330061,NA,NA,0,Oregon,Arizona,48
+2009-10,2010-02-11,914597,292,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,28,22,6,1291,Arizona,1370,170,15, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.7,8.150000000000006,457338,NA,NA,0,Arizona,Oregon,49
+2009-10,2010-02-11,914597,293,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,28,22,6,1562,Oregon,1349,149,21, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,17.65,509248,NA,NA,0,Oregon,Arizona,50
+2009-10,2010-02-11,914597,295,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,28,22,6,1562,Oregon,1346,146,3,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,51
+2009-10,2010-02-11,914597,296,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,29,22,7,1291,Arizona,1346,146,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,51
+2009-10,2010-02-11,914597,297,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,30,22,8,1291,Arizona,1346,146,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,51
+2009-10,2010-02-11,914597,308,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,33,22,11,1291,Arizona,1323,123,23, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,3.799999999999997,8.549999999999997,329709,NA,NA,0,Arizona,Oregon,52
+2009-10,2010-02-11,914597,309,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,33,25,8,1562,Oregon,1307,107,16, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.3,13.95,509249,NA,NA,0,Oregon,Arizona,53
+2009-10,2010-02-11,914597,310,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,36,25,11,1291,Arizona,1271,71,36, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45,10.450000000000003,457337,NA,NA,0,Arizona,Oregon,54
+2009-10,2010-02-11,914597,311,0,1,Arizona,Oregon,Wildcats,Ducks,4,2,36,28,8,1562,Oregon,1228,28,43, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,7,17.05,457355,NA,NA,0,Oregon,Arizona,55
+2009-10,2010-02-11,914597,315,0,1,Arizona,Oregon,Wildcats,Ducks,3,2,36,28,8,1291,Arizona,1221,21,7,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,318,0,1,Arizona,Oregon,Wildcats,Ducks,3,2,36,28,8,1291,Arizona,1202,2,19,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,56
+2009-10,2010-02-11,914597,320,0,1,Arizona,Oregon,Wildcats,Ducks,3,2,36,28,8,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,321,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,36,28,8,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Arizona,57
+2009-10,2010-02-11,914597,331,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,38,28,10,1291,Arizona,1180,1180,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,58
+2009-10,2010-02-11,914597,334,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,38,28,10,1291,Arizona,1154,1154,26,Offensive foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,59
+2009-10,2010-02-11,914597,339,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,38,28,10,1291,Arizona,1125,1125,29, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,24.049999999999997,329709,NA,NA,0,Arizona,Arizona,60
+2009-10,2010-02-11,914597,346,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,38,28,10,1291,Arizona,1122,1122,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509166,NA,NA,0,Arizona,Arizona,60
+2009-10,2010-02-11,914597,350,0,2,Arizona,Oregon,Wildcats,Ducks,4,4,40,28,12,1291,Arizona,1106,1106,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,60
+2009-10,2010-02-11,914597,353,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,28,12,1562,Oregon,1101,1101,5,Ducks take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,365,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,28,12,1291,Arizona,1077,1077,24, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,18.950000000000003,457338,NA,NA,0,Arizona,Oregon,61
+2009-10,2010-02-11,914597,367,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,28,12,1291,Arizona,1067,1067,10,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,62
+2009-10,2010-02-11,914597,368,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,28,12,1562,Oregon,1067,1067,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,62
+2009-10,2010-02-11,914597,369,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,29,11,1562,Oregon,1067,1067,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,62
+2009-10,2010-02-11,914597,371,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,40,29,11,1291,Arizona,1055,1055,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6,19.950000000000003,395394,NA,NA,0,Arizona,Arizona,63
+2009-10,2010-02-11,914597,372,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,42,29,13,1291,Arizona,1046,1046,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,63
+2009-10,2010-02-11,914597,373,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,42,29,13,1562,Oregon,1028,1028,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40,22.45,509248,NA,NA,0,Oregon,Arizona,64
+2009-10,2010-02-11,914597,374,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,44,29,15,1291,Arizona,1015,1015,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,65
+2009-10,2010-02-11,914597,381,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,44,29,15,1562,Oregon,1005,1005,10,Offensive foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,66
+2009-10,2010-02-11,914597,393,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,46,29,17,1291,Arizona,987,987,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457355,NA,NA,0,Arizona,Arizona,67
+2009-10,2010-02-11,914597,394,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,46,29,17,1562,Oregon,987,987,0,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,67
+2009-10,2010-02-11,914597,395,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,47,29,18,1291,Arizona,987,987,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,67
+2009-10,2010-02-11,914597,406,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,47,31,16,1562,Oregon,976,976,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509248,NA,NA,0,Oregon,Arizona,68
+2009-10,2010-02-11,914597,415,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,47,33,14,1562,Oregon,946,946,30, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.7,8.95,457353,NA,NA,0,Oregon,Arizona,69
+2009-10,2010-02-11,914597,416,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,47,33,14,1291,Arizona,928,928,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,13.75,457338,NA,NA,0,Arizona,Arizona,70
+2009-10,2010-02-11,914597,417,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,49,33,16,1291,Arizona,920,920,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509166,NA,NA,0,Arizona,Oregon,70
+2009-10,2010-02-11,914597,420,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,49,33,16,1291,Arizona,913,913,7,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,71
+2009-10,2010-02-11,914597,421,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,49,33,16,NA,NA,913,913,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,425,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,49,33,16,1291,Arizona,900,900,13,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,71
+2009-10,2010-02-11,914597,427,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,49,33,16,1562,Oregon,897,897,3, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.8,23.05,457353,NA,NA,0,Oregon,Arizona,71
+2009-10,2010-02-11,914597,428,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,33,19,1291,Arizona,883,883,14, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,7.150000000000006,509167,NA,NA,0,Arizona,Oregon,72
+2009-10,2010-02-11,914597,434,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,35,17,1562,Oregon,866,866,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509250,NA,NA,0,Oregon,Oregon,73
+2009-10,2010-02-11,914597,435,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,35,17,1291,Arizona,866,866,0,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,73
+2009-10,2010-02-11,914597,436,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,36,16,1562,Oregon,866,866,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,73
+2009-10,2010-02-11,914597,438,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,36,16,1291,Arizona,855,855,11, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.299999999999997,6.450000000000003,329709,NA,NA,0,Arizona,Arizona,74
+2009-10,2010-02-11,914597,447,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,52,36,16,1562,Oregon,843,843,12,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,74
+2009-10,2010-02-11,914597,449,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,36,18,1291,Arizona,816,816,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509166,NA,NA,0,Arizona,Oregon,74
+2009-10,2010-02-11,914597,450,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,36,18,1562,Oregon,796,796,20, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,13.15,457353,NA,NA,0,Oregon,Oregon,75
+2009-10,2010-02-11,914597,451,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,39,15,1562,Oregon,792,792,4, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,34,29.25,330061,NA,NA,0,Oregon,Arizona,75
+2009-10,2010-02-11,914597,452,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,39,15,1291,Arizona,769,769,23, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,8.549999999999997,509167,NA,NA,0,Arizona,Arizona,76
+2009-10,2010-02-11,914597,456,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,39,15,1562,Oregon,768,768,1,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,76
+2009-10,2010-02-11,914597,465,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,54,39,15,1291,Arizona,759,759,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,26.150000000000006,457338,NA,NA,0,Arizona,Arizona,76
+2009-10,2010-02-11,914597,466,0,2,Arizona,Oregon,Wildcats,Ducks,4,3,56,39,17,1291,Arizona,754,754,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,76
+2009-10,2010-02-11,914597,472,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,56,39,17,1291,Arizona,753,753,1,Wildcats take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,475,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,56,41,15,1562,Oregon,740,740,13, makes a hook shot from 8 feet out.,made,FALSE,FALSE,Hook Shot,22.8,13.35,457352,NA,NA,0,Oregon,Arizona,77
+2009-10,2010-02-11,914597,476,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1291,Arizona,728,728,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509165,NA,NA,0,Arizona,Oregon,78
+2009-10,2010-02-11,914597,477,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,718,718,10, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,16,27.15,330061,NA,NA,0,Oregon,Oregon,79
+2009-10,2010-02-11,914597,479,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,NA,NA,701,701,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,497,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1291,Arizona,648,648,53,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,79
+2009-10,2010-02-11,914597,498,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,648,648,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,79
+2009-10,2010-02-11,914597,499,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,648,648,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,79
+2009-10,2010-02-11,914597,507,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1291,Arizona,636,636,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,23.049999999999997,457338,NA,NA,0,Arizona,Oregon,80
+2009-10,2010-02-11,914597,508,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,627,627,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11,8.15,403002,NA,NA,0,Oregon,Oregon,81
+2009-10,2010-02-11,914597,511,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1291,Arizona,616,616,11,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,81
+2009-10,2010-02-11,914597,512,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,616,616,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,81
+2009-10,2010-02-11,914597,513,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,616,616,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,81
+2009-10,2010-02-11,914597,517,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1562,Oregon,593,593,23,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,82
+2009-10,2010-02-11,914597,521,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,41,17,1291,Arizona,580,580,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,18.450000000000003,509167,NA,NA,0,Arizona,Oregon,82
+2009-10,2010-02-11,914597,522,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,58,44,14,1562,Oregon,564,564,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,10.5,24.35,457353,NA,NA,0,Oregon,Arizona,83
+2009-10,2010-02-11,914597,523,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,44,16,1291,Arizona,540,540,24, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509168,NA,NA,0,Arizona,Oregon,84
+2009-10,2010-02-11,914597,537,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,44,16,1291,Arizona,524,524,16,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,85
+2009-10,2010-02-11,914597,538,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,44,16,1562,Oregon,524,524,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,85
+2009-10,2010-02-11,914597,539,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,60,45,15,1562,Oregon,524,524,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,85
+2009-10,2010-02-11,914597,543,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,45,17,1291,Arizona,513,513,11, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,22.8,13.950000000000003,509167,NA,NA,0,Arizona,Oregon,86
+2009-10,2010-02-11,914597,544,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,45,17,1562,Oregon,501,501,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,20.75,457353,NA,NA,0,Oregon,Oregon,87
+2009-10,2010-02-11,914597,550,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,45,17,1291,Arizona,493,493,8,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,87
+2009-10,2010-02-11,914597,551,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,46,16,1562,Oregon,493,493,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,87
+2009-10,2010-02-11,914597,552,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,47,15,1562,Oregon,493,493,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,87
+2009-10,2010-02-11,914597,554,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,47,15,1291,Arizona,482,482,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.700000000000003,25.75,329709,NA,NA,0,Arizona,Oregon,88
+2009-10,2010-02-11,914597,555,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,47,15,1562,Oregon,463,463,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,8.15,483475,NA,NA,0,Oregon,Oregon,89
+2009-10,2010-02-11,914597,556,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,62,47,15,1562,Oregon,443,443,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,19.15,457355,NA,NA,0,Oregon,Arizona,89
+2009-10,2010-02-11,914597,557,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,47,17,1291,Arizona,420,420,23, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,27.8,13.549999999999997,509167,NA,NA,0,Arizona,Oregon,90
+2009-10,2010-02-11,914597,563,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1562,Oregon,415,415,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457355,NA,NA,0,Oregon,Arizona,91
+2009-10,2010-02-11,914597,565,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,NA,NA,415,415,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,584,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1291,Arizona,393,393,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,509165,NA,NA,0,Arizona,Oregon,92
+2009-10,2010-02-11,914597,585,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1562,Oregon,383,383,10, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,7.35,403002,NA,NA,0,Oregon,Oregon,93
+2009-10,2010-02-11,914597,588,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1562,Oregon,345,345,38, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,14.8,12.65,403002,NA,NA,0,Oregon,Arizona,93
+2009-10,2010-02-11,914597,589,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1291,Arizona,323,323,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,8.950000000000003,457337,NA,NA,0,Arizona,Oregon,94
+2009-10,2010-02-11,914597,590,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1562,Oregon,311,311,12, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,20.15,483475,NA,NA,0,Oregon,Arizona,95
+2009-10,2010-02-11,914597,593,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,64,49,15,1562,Oregon,299,299,12,Shooting foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2009-10,2010-02-11,914597,594,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,65,49,16,1291,Arizona,299,299,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,96
+2009-10,2010-02-11,914597,595,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,66,49,17,1291,Arizona,299,299,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,96
+2009-10,2010-02-11,914597,598,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,66,49,17,1291,Arizona,289,289,10,Personal foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2009-10,2010-02-11,914597,599,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,66,49,17,1562,Oregon,289,289,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,97
+2009-10,2010-02-11,914597,600,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,66,50,16,1562,Oregon,289,289,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,97
+2009-10,2010-02-11,914597,602,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,50,18,1291,Arizona,268,268,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,509169,NA,NA,0,Arizona,Oregon,98
+2009-10,2010-02-11,914597,605,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,50,18,1291,Arizona,251,251,17,Shooting foul committed by Wildcats.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,99
+2009-10,2010-02-11,914597,606,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,51,17,1562,Oregon,251,251,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Oregon,99
+2009-10,2010-02-11,914597,607,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,68,52,16,1562,Oregon,251,251,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Oregon,Arizona,99
+2009-10,2010-02-11,914597,609,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,52,18,1291,Arizona,221,221,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,395394,NA,NA,0,Arizona,Oregon,100
+2009-10,2010-02-11,914597,610,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,52,18,1562,Oregon,208,208,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,15.7,20.75,509249,NA,NA,0,Oregon,Oregon,101
+2009-10,2010-02-11,914597,615,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,52,18,NA,NA,205,205,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,619,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,170,170,35, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,509249,NA,NA,0,Oregon,Arizona,101
+2009-10,2010-02-11,914597,622,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,153,153,17,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,102
+2009-10,2010-02-11,914597,623,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1291,Arizona,153,153,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,102
+2009-10,2010-02-11,914597,632,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,143,143,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,12,24.35,457353,NA,NA,0,Oregon,Arizona,103
+2009-10,2010-02-11,914597,635,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1291,Arizona,111,111,32, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,14.75,329709,NA,NA,0,Arizona,Arizona,104
+2009-10,2010-02-11,914597,645,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,86,86,25,Personal foul committed by Ducks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,104
+2009-10,2010-02-11,914597,646,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1291,Arizona,86,86,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Oregon,104
+2009-10,2010-02-11,914597,650,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,79,79,7, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,14.75,483475,NA,NA,0,Oregon,Oregon,105
+2009-10,2010-02-11,914597,651,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1562,Oregon,76,76,3, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.3,8.15,457355,NA,NA,0,Oregon,Arizona,105
+2009-10,2010-02-11,914597,657,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,54,16,1291,Arizona,40,40,36, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,27.8,17.049999999999997,457338,NA,NA,0,Arizona,Oregon,106
+2009-10,2010-02-11,914597,658,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,57,13,1562,Oregon,32,32,8, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,21,30.55,483475,NA,NA,0,Oregon,Arizona,107
+2009-10,2010-02-11,914597,662,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,57,13,NA,NA,0,0,32,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-02-11,914597,663,0,2,Arizona,Oregon,Wildcats,Ducks,3,3,70,57,13,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Arizona,Arizona,NA

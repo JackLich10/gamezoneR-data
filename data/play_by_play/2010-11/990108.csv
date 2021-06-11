@@ -1,0 +1,240 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-18,990108,1,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Iowa,NA
+2010-11,2010-12-18,990108,9,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,2,-2,1449,Iowa,2370,1170,30, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,7,2.95,469224,NA,NA,0,Iowa,Drake,1
+2010-11,2010-12-18,990108,10,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,2,-2,1386,Drake,2353,1153,17, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36,12.25,508733,NA,NA,0,Drake,Iowa,2
+2010-11,2010-12-18,990108,11,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,2,-2,1386,Drake,2353,1153,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,3
+2010-11,2010-12-18,990108,14,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,2,-2,1386,Drake,2324,1124,29,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,3
+2010-11,2010-12-18,990108,15,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,3,-3,1449,Iowa,2324,1124,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,3
+2010-11,2010-12-18,990108,16,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,4,-4,1449,Iowa,2324,1124,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,3
+2010-11,2010-12-18,990108,18,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,4,-4,1386,Drake,2297,1097,27, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,21,33.25,567418,NA,NA,0,Drake,Iowa,4
+2010-11,2010-12-18,990108,19,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,4,-4,1449,Iowa,2288,1088,9, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5,18.45,506036,NA,NA,0,Iowa,Iowa,5
+2010-11,2010-12-18,990108,20,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,6,-6,1449,Iowa,2282,1082,6, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,14.7,12.95,484192,NA,NA,0,Iowa,Drake,5
+2010-11,2010-12-18,990108,22,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,6,-6,1449,Iowa,2250,1050,32,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,6
+2010-11,2010-12-18,990108,23,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,6,-6,1449,Iowa,2243,1043,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,13,12.25,402413,NA,NA,0,Iowa,Iowa,6
+2010-11,2010-12-18,990108,24,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,8,-8,1449,Iowa,2243,1043,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469224,NA,NA,0,Iowa,Iowa,6
+2010-11,2010-12-18,990108,26,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,8,-8,1386,Drake,2240,1040,3,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,6
+2010-11,2010-12-18,990108,27,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,9,-9,1449,Iowa,2240,1040,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,6
+2010-11,2010-12-18,990108,31,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,9,-9,1449,Iowa,2231,1031,9, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,6.300000000000001,3.35,553559,NA,NA,0,Iowa,Iowa,7
+2010-11,2010-12-18,990108,33,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,9,-9,1449,Iowa,2215,1015,16,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,7
+2010-11,2010-12-18,990108,36,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,9,-9,1386,Drake,2199,999,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,38,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,9,-9,1386,Drake,2188,988,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,13.75,567418,NA,NA,0,Drake,Iowa,8
+2010-11,2010-12-18,990108,39,0,1,Drake,Iowa,Bulldogs,Hawkeyes,4,4,0,12,-12,1449,Iowa,2181,981,7, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,2.5,4.85,469224,NA,NA,0,Iowa,Drake,9
+2010-11,2010-12-18,990108,43,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,12,-12,1386,Drake,2155,955,26,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,47,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,12,-12,NA,NA,2153,953,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,53,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,12,-12,1449,Iowa,2146,946,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,23,28.25,506036,NA,NA,0,Iowa,Iowa,10
+2010-11,2010-12-18,990108,54,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1449,Iowa,2138,938,8, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,26.5,17.85,506036,NA,NA,0,Iowa,Drake,10
+2010-11,2010-12-18,990108,55,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1386,Drake,2117,917,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567413,NA,NA,0,Drake,Iowa,11
+2010-11,2010-12-18,990108,56,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1449,Iowa,2112,912,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,1.3000000000000007,2.95,469224,NA,NA,0,Iowa,Drake,12
+2010-11,2010-12-18,990108,58,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1449,Iowa,2107,907,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,13
+2010-11,2010-12-18,990108,60,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1386,Drake,2089,889,18, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,23,32.25,508732,NA,NA,0,Drake,Drake,13
+2010-11,2010-12-18,990108,63,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,0,14,-14,1386,Drake,2078,878,11, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,37.2,29.650000000000006,338860,NA,NA,0,Drake,Drake,13
+2010-11,2010-12-18,990108,66,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,3,14,-11,1386,Drake,2062,862,16, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,8,19.549999999999997,508731,NA,NA,0,Drake,Iowa,13
+2010-11,2010-12-18,990108,67,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,3,16,-13,1449,Iowa,2052,852,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Drake,14
+2010-11,2010-12-18,990108,68,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,3,16,-13,1386,Drake,2024,824,28, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,21,33.25,338860,NA,NA,0,Drake,Drake,15
+2010-11,2010-12-18,990108,69,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,5,16,-11,1386,Drake,2017,817,7, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.299999999999997,8.75,508731,NA,NA,0,Drake,Iowa,15
+2010-11,2010-12-18,990108,71,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,5,16,-11,1449,Iowa,2005,805,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,72,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,5,16,-11,1449,Iowa,2005,805,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,74,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,5,16,-11,1449,Iowa,1996,796,9, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,5.25,484192,NA,NA,0,Iowa,Drake,16
+2010-11,2010-12-18,990108,75,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1986,786,10, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,16,9.25,338860,NA,NA,0,Drake,Iowa,17
+2010-11,2010-12-18,990108,77,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1948,748,38,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,80,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1932,732,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,81,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1932,732,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,82,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1932,732,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,83,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1932,732,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,85,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1930,730,2, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,19,35.25,508728,NA,NA,0,Drake,Iowa,18
+2010-11,2010-12-18,990108,87,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1920,720,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,90,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1386,Drake,1918,718,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,19
+2010-11,2010-12-18,990108,95,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,NA,NA,1901,701,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,99,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1898,698,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,100.5,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1896,696,2, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19,7.25,553557,NA,NA,0,Iowa,Iowa,19
+2010-11,2010-12-18,990108,101.25,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1896,696,0, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9,5.25,469225,NA,NA,0,Iowa,Iowa,19
+2010-11,2010-12-18,990108,102,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,7,16,-9,1449,Iowa,1896,696,0, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.3,5.85,469225,NA,NA,0,Iowa,Drake,19
+2010-11,2010-12-18,990108,104,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,9,16,-7,1386,Drake,1889,689,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,508728,NA,NA,0,Drake,Iowa,20
+2010-11,2010-12-18,990108,105,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,9,19,-10,1449,Iowa,1866,666,23, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,1,6.25,506036,NA,NA,0,Iowa,Drake,21
+2010-11,2010-12-18,990108,106,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,9,19,-10,1386,Drake,1850,650,16, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,5.049999999999997,567418,NA,NA,0,Drake,Iowa,22
+2010-11,2010-12-18,990108,107,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,9,19,-10,1449,Iowa,1842,642,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3,5.25,553558,NA,NA,0,Iowa,Drake,23
+2010-11,2010-12-18,990108,108,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,11,19,-8,1386,Drake,1832,632,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,395389,NA,NA,0,Drake,Iowa,24
+2010-11,2010-12-18,990108,110,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,11,19,-8,1386,Drake,1805,605,27,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,25
+2010-11,2010-12-18,990108,114,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,11,19,-8,1449,Iowa,1803,603,2,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,25
+2010-11,2010-12-18,990108,117,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,11,19,-8,1449,Iowa,1788,588,15,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,26
+2010-11,2010-12-18,990108,141,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,11,19,-8,1386,Drake,1788,588,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,26
+2010-11,2010-12-18,990108,142,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1765,565,23, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,26
+2010-11,2010-12-18,990108,145,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1758,558,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,148,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1747,547,11,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,27
+2010-11,2010-12-18,990108,149,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1747,547,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,152,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1739,539,8,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,27
+2010-11,2010-12-18,990108,155,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1736,536,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,157,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1733,533,3, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,9.65,553557,NA,NA,0,Iowa,Drake,28
+2010-11,2010-12-18,990108,158,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1722,522,11, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,4.650000000000006,567418,NA,NA,0,Drake,Iowa,29
+2010-11,2010-12-18,990108,160,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1717,517,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,163,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1714,514,3,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,30
+2010-11,2010-12-18,990108,166,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,NA,NA,1676,476,38,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,167,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1449,Iowa,1676,476,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,170,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1662,462,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,171,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,12,19,-7,1386,Drake,1662,462,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,173,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,15,19,-4,1386,Drake,1661,461,1, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,45.7,11.450000000000003,338860,NA,NA,0,Drake,Iowa,31
+2010-11,2010-12-18,990108,175,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,15,19,-4,1386,Drake,1639,439,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,177,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1638,438,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567418,NA,NA,0,Drake,Iowa,32
+2010-11,2010-12-18,990108,178,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1608,408,30, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.300000000000001,14.75,506036,NA,NA,0,Iowa,Drake,33
+2010-11,2010-12-18,990108,180,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1596,396,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,182,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1594,394,2, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.200000000000003,13.75,338860,NA,NA,0,Drake,Iowa,34
+2010-11,2010-12-18,990108,184,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1585,385,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,185,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1585,385,0,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,35
+2010-11,2010-12-18,990108,186,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1585,385,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,187,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1585,385,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,224,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1551,351,34,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,225,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1551,351,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,36
+2010-11,2010-12-18,990108,227,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1449,Iowa,1533,333,18, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,7.95,469225,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,230,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,19,-2,1386,Drake,1522,322,11,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,231,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1449,Iowa,1522,322,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,232,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1449,Iowa,1522,322,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,237,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1386,Drake,1512,312,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,240,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1386,Drake,1511,311,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,241,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1386,Drake,1511,311,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,242,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1449,Iowa,1511,311,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,247,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,20,-3,1386,Drake,1508,308,3,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,248,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,21,-4,1449,Iowa,1508,308,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,249,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,21,-4,1449,Iowa,1508,308,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,252,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,21,-4,1386,Drake,1503,303,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,255,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,21,-4,1386,Drake,1498,298,5,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,283,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,21,-4,1449,Iowa,1471,271,27, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2010-12-18,990108,284,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1449,Iowa,1471,271,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,37
+2010-11,2010-12-18,990108,287,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1386,Drake,1462,262,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,288,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1386,Drake,1462,262,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,290,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1449,Iowa,1457,257,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,11.65,469224,NA,NA,0,Iowa,Drake,38
+2010-11,2010-12-18,990108,292,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1386,Drake,1451,251,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,294,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1386,Drake,1449,249,2, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,16.849999999999994,508731,NA,NA,0,Drake,Iowa,39
+2010-11,2010-12-18,990108,297,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,1449,Iowa,1446,246,3,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,40
+2010-11,2010-12-18,990108,301,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,17,22,-5,NA,NA,1430,230,16,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,302,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,18,22,-4,1386,Drake,1430,230,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,41
+2010-11,2010-12-18,990108,303,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1386,Drake,1430,230,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,42
+2010-11,2010-12-18,990108,306,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1449,Iowa,1427,227,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,310,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1449,Iowa,1394,194,33, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,469224,NA,NA,0,Iowa,Iowa,43
+2010-11,2010-12-18,990108,311,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1449,Iowa,1364,164,30, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,5,23.05,469224,NA,NA,0,Iowa,Drake,43
+2010-11,2010-12-18,990108,312,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1386,Drake,1349,149,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,20.950000000000003,338860,NA,NA,0,Drake,Drake,44
+2010-11,2010-12-18,990108,313,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1386,Drake,1345,145,4, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,25,10.25,508733,NA,NA,0,Drake,Iowa,44
+2010-11,2010-12-18,990108,314,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1449,Iowa,1333,133,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3.1999999999999993,11.45,469224,NA,NA,0,Iowa,Drake,45
+2010-11,2010-12-18,990108,315,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,4,19,22,-3,1386,Drake,1309,109,24, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,21.450000000000003,567413,NA,NA,0,Drake,Iowa,46
+2010-11,2010-12-18,990108,319,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,3,19,22,-3,1449,Iowa,1273,73,36,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,324,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,3,19,22,-3,1386,Drake,1254,54,19,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,326,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,3,19,24,-5,1449,Iowa,1200,0,54, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,28,24.25,484192,NA,NA,0,Iowa,Drake,47
+2010-11,2010-12-18,990108,328,0,1,Drake,Iowa,Bulldogs,Hawkeyes,3,3,19,24,-5,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,345,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,48
+2010-11,2010-12-18,990108,348,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1449,Iowa,1199,1199,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,349,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1449,Iowa,1199,1199,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,350,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1449,Iowa,1199,1199,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,351,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1386,Drake,1199,1199,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,353,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1449,Iowa,1197,1197,2, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,21,34.25,484192,NA,NA,0,Iowa,Drake,49
+2010-11,2010-12-18,990108,354,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,19,24,-5,1386,Drake,1185,1185,12, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,8.549999999999997,567413,NA,NA,0,Drake,Drake,50
+2010-11,2010-12-18,990108,355,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,22,24,-2,1386,Drake,1176,1176,9, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.7,20.950000000000003,338860,NA,NA,0,Drake,Iowa,50
+2010-11,2010-12-18,990108,356,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,22,27,-5,1449,Iowa,1114,1114,62, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,4,17.25,469224,NA,NA,0,Iowa,Drake,51
+2010-11,2010-12-18,990108,357,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,22,27,-5,1449,Iowa,1106,1106,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11,5.65,506036,NA,NA,0,Iowa,Iowa,52
+2010-11,2010-12-18,990108,358,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,22,27,-5,1449,Iowa,1100,1100,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Drake,52
+2010-11,2010-12-18,990108,361,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1386,Drake,1091,1091,9, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,43,19.549999999999997,567418,NA,NA,0,Drake,Iowa,53
+2010-11,2010-12-18,990108,362,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1449,Iowa,1082,1082,9, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,1.8000000000000007,15.35,484192,NA,NA,0,Iowa,Drake,54
+2010-11,2010-12-18,990108,363,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1386,Drake,1074,1074,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,43.5,18.450000000000003,338860,NA,NA,0,Drake,Iowa,55
+2010-11,2010-12-18,990108,366,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1449,Iowa,1067,1067,7, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11,9.15,553559,NA,NA,0,Iowa,Drake,56
+2010-11,2010-12-18,990108,367,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1386,Drake,1063,1063,4, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,12.049999999999997,508732,NA,NA,0,Drake,Iowa,57
+2010-11,2010-12-18,990108,369,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1386,Drake,1041,1041,22,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,58
+2010-11,2010-12-18,990108,370,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,27,-2,1449,Iowa,1041,1041,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,58
+2010-11,2010-12-18,990108,371,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,25,28,-3,1449,Iowa,1041,1041,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,58
+2010-11,2010-12-18,990108,373,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,27,28,-1,1386,Drake,1003,1003,38, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,40,9.25,508728,NA,NA,0,Drake,Iowa,59
+2010-11,2010-12-18,990108,378,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,27,28,-1,NA,NA,952,952,51,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,380,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,30,28,2,1386,Drake,950,950,2, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,41.8,20.549999999999997,338860,NA,NA,0,Drake,Iowa,60
+2010-11,2010-12-18,990108,381,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,30,28,2,1449,Iowa,941,941,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Drake,61
+2010-11,2010-12-18,990108,383,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,30,28,2,1449,Iowa,911,911,30,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,385,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,28,4,1386,Drake,910,910,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567418,NA,NA,0,Drake,Iowa,62
+2010-11,2010-12-18,990108,386,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,30,2,1449,Iowa,905,905,5, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,4.45,469224,NA,NA,0,Iowa,Drake,63
+2010-11,2010-12-18,990108,387,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,30,2,1386,Drake,898,898,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,6.049999999999997,567418,NA,NA,0,Drake,Drake,64
+2010-11,2010-12-18,990108,388,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,30,2,1386,Drake,891,891,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,47.5,12.950000000000003,508728,NA,NA,0,Drake,Iowa,64
+2010-11,2010-12-18,990108,390,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,30,2,1449,Iowa,886,886,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,391,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,30,2,1386,Drake,886,886,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,65
+2010-11,2010-12-18,990108,393,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,32,0,1449,Iowa,885,885,1, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,12.5,7.75,553558,NA,NA,0,Iowa,Drake,65
+2010-11,2010-12-18,990108,395,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,32,0,1449,Iowa,833,833,52,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,66
+2010-11,2010-12-18,990108,398,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,32,32,0,1386,Drake,819,819,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,400,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,34,32,2,1386,Drake,797,797,22, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,32,12.650000000000006,567413,NA,NA,0,Drake,Iowa,66
+2010-11,2010-12-18,990108,402,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,34,32,2,1386,Drake,769,769,28,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,67
+2010-11,2010-12-18,990108,403,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,34,33,1,1449,Iowa,769,769,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,67
+2010-11,2010-12-18,990108,404,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,34,34,0,1449,Iowa,769,769,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,67
+2010-11,2010-12-18,990108,406,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,34,36,-2,1449,Iowa,754,754,15, makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,25.5,14.75,553559,NA,NA,0,Iowa,Drake,68
+2010-11,2010-12-18,990108,407,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,36,36,0,1386,Drake,734,734,20, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,41.5,5.049999999999997,567413,NA,NA,0,Drake,Iowa,69
+2010-11,2010-12-18,990108,409,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,36,36,0,1386,Drake,688,688,46,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,70
+2010-11,2010-12-18,990108,410,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,36,36,0,NA,NA,688,688,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,413,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,36,37,-1,1449,Iowa,676,676,12, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,70
+2010-11,2010-12-18,990108,414,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,36,38,-2,1449,Iowa,676,676,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,70
+2010-11,2010-12-18,990108,417,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,38,0,1386,Drake,674,674,2, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,40.5,15.849999999999994,567418,NA,NA,0,Drake,Iowa,71
+2010-11,2010-12-18,990108,419,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,668,668,6, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,3.8000000000000007,17.85,469224,NA,NA,0,Iowa,Drake,72
+2010-11,2010-12-18,990108,420,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,658,658,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553557,NA,NA,0,Iowa,Drake,73
+2010-11,2010-12-18,990108,423,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,649,649,9, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,16.049999999999997,567418,NA,NA,0,Drake,Iowa,74
+2010-11,2010-12-18,990108,425,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,636,636,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,428,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,607,607,29,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,75
+2010-11,2010-12-18,990108,431,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,593,593,14,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,75
+2010-11,2010-12-18,990108,434,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,589,589,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,437,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,585,585,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,442,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,548,548,37, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,20.75,508732,NA,NA,0,Drake,Iowa,75
+2010-11,2010-12-18,990108,443,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,544,544,4, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,19.15,553558,NA,NA,0,Iowa,Drake,76
+2010-11,2010-12-18,990108,447,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,534,534,10,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,77
+2010-11,2010-12-18,990108,454,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,507,507,27,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,77
+2010-11,2010-12-18,990108,456,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1386,Drake,505,505,2, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.2,23.650000000000006,338860,NA,NA,0,Drake,Drake,77
+2010-11,2010-12-18,990108,458,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,500,500,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,461,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,484,484,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,466,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,NA,NA,459,459,25,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,472,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,449,449,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,475,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,38,41,-3,1449,Iowa,437,437,12,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,77
+2010-11,2010-12-18,990108,477,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,41,-1,1386,Drake,435,435,2, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.5,8.349999999999994,508733,NA,NA,0,Drake,Iowa,77
+2010-11,2010-12-18,990108,479,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,41,-1,1449,Iowa,425,425,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,480,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,41,-1,1449,Iowa,425,425,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,484,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,43,-3,1449,Iowa,412,412,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,484192,NA,NA,0,Iowa,Drake,78
+2010-11,2010-12-18,990108,485,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,43,-3,1386,Drake,400,400,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.2,21.450000000000003,508728,NA,NA,0,Drake,Iowa,79
+2010-11,2010-12-18,990108,486,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,45,-5,1449,Iowa,382,382,18, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,553559,NA,NA,0,Iowa,Drake,80
+2010-11,2010-12-18,990108,488,0,2,Drake,Iowa,Bulldogs,Hawkeyes,4,4,40,45,-5,1449,Iowa,377,377,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,507,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,40,45,-5,1386,Drake,377,377,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,510,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,40,45,-5,1386,Drake,351,351,26,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,513,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,40,45,-5,1449,Iowa,345,345,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,514,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,40,45,-5,1449,Iowa,345,345,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,81
+2010-11,2010-12-18,990108,515,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,41,45,-4,1386,Drake,345,345,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,81
+2010-11,2010-12-18,990108,516,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,42,45,-3,1386,Drake,345,345,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,81
+2010-11,2010-12-18,990108,518,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,42,47,-5,1449,Iowa,330,330,15, makes a jump shot from 3 feet out.,made,FALSE,FALSE,Jump Shot,23.8,8.35,402413,NA,NA,0,Iowa,Iowa,82
+2010-11,2010-12-18,990108,520,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,42,47,-5,1386,Drake,327,327,3,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,82
+2010-11,2010-12-18,990108,521,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,42,47,-5,1449,Iowa,327,327,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,82
+2010-11,2010-12-18,990108,523,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,45,47,-2,1386,Drake,312,312,15, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,43.5,18.450000000000003,567418,NA,NA,0,Drake,Iowa,83
+2010-11,2010-12-18,990108,525,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,45,47,-2,1386,Drake,299,299,13,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,84
+2010-11,2010-12-18,990108,526,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,45,48,-3,1449,Iowa,299,299,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,84
+2010-11,2010-12-18,990108,527,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,45,49,-4,1449,Iowa,299,299,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,85
+2010-11,2010-12-18,990108,529,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,49,-2,1386,Drake,268,268,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,508732,NA,NA,0,Drake,Iowa,86
+2010-11,2010-12-18,990108,530,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,51,-4,1449,Iowa,257,257,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553558,NA,NA,0,Iowa,Drake,87
+2010-11,2010-12-18,990108,531,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,51,-4,1386,Drake,225,225,32, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,12.25,567418,NA,NA,0,Drake,Iowa,88
+2010-11,2010-12-18,990108,533,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,51,-4,1449,Iowa,203,203,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,536,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,51,-4,1449,Iowa,200,200,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,538,0,2,Drake,Iowa,Bulldogs,Hawkeyes,3,4,47,53,-6,1449,Iowa,196,196,4, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,10.2,7.35,553557,NA,NA,0,Iowa,Drake,89
+2010-11,2010-12-18,990108,542,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1386,Drake,172,172,24,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,545,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1386,Drake,158,158,14,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,550,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1449,Iowa,148,148,10,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,90
+2010-11,2010-12-18,990108,551,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,NA,NA,148,148,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,552,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1386,Drake,148,148,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Iowa,90
+2010-11,2010-12-18,990108,554,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1449,Iowa,120,120,28, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,3.6999999999999993,20.15,469224,NA,NA,0,Iowa,Iowa,91
+2010-11,2010-12-18,990108,559,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,53,-6,1386,Drake,85,85,35,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2010-11,2010-12-18,990108,560,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,54,-7,1449,Iowa,85,85,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,91
+2010-11,2010-12-18,990108,561,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,4,47,55,-8,1449,Iowa,85,85,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,91
+2010-11,2010-12-18,990108,562,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,55,-8,1449,Iowa,85,85,0,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,564,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,55,-8,1386,Drake,84,84,1, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.7,21.349999999999994,483392,NA,NA,0,Drake,Iowa,92
+2010-11,2010-12-18,990108,566,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,55,-8,1386,Drake,60,60,24,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,93
+2010-11,2010-12-18,990108,567,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,55,-8,1449,Iowa,60,60,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,93
+2010-11,2010-12-18,990108,569,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,57,-10,1449,Iowa,48,48,12, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,469224,NA,NA,0,Iowa,Drake,93
+2010-11,2010-12-18,990108,570.5,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,57,-10,1386,Drake,43,43,5, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43,18.25,338860,NA,NA,0,Drake,Drake,94
+2010-11,2010-12-18,990108,572,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,47,57,-10,1386,Drake,43,43,0, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,41.7,23.849999999999994,338860,NA,NA,0,Drake,Drake,94
+2010-11,2010-12-18,990108,574,0,2,Drake,Iowa,Bulldogs,Hawkeyes,2,3,50,57,-7,1386,Drake,37,37,6, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,39.3,26.950000000000003,338860,NA,NA,0,Drake,Iowa,94
+2010-11,2010-12-18,990108,580,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,57,-7,1386,Drake,34,34,3,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,583,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,57,-7,1386,Drake,34,34,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,95
+2010-11,2010-12-18,990108,584,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,57,-7,1386,Drake,34,34,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2010-12-18,990108,585,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,57,-7,1449,Iowa,34,34,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,95
+2010-11,2010-12-18,990108,586,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,58,-8,1449,Iowa,34,34,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,95
+2010-11,2010-12-18,990108,588,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,50,58,-8,1386,Drake,21,21,13, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,29.8,31.950000000000003,338860,NA,NA,0,Drake,Drake,96
+2010-11,2010-12-18,990108,589,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,58,-6,1386,Drake,5,5,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567413,NA,NA,0,Drake,Iowa,96
+2010-11,2010-12-18,990108,598,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,58,-6,1386,Drake,5,5,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,97
+2010-11,2010-12-18,990108,599,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,58,-6,1449,Iowa,4,4,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,97
+2010-11,2010-12-18,990108,600,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,59,-7,1449,Iowa,4,4,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Drake,97
+2010-11,2010-12-18,990108,601,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,59,-7,1386,Drake,2,2,2, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,35,8.25,567413,NA,NA,0,Drake,Drake,98
+2010-11,2010-12-18,990108,602,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,59,-7,1386,Drake,2,2,0, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,24.25,567413,NA,NA,0,Drake,NA,98
+2010-11,2010-12-18,990108,603,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,59,-7,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-18,990108,608,0,2,Drake,Iowa,Bulldogs,Hawkeyes,1,3,52,59,-7,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Drake,Drake,NA

@@ -1,0 +1,215 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-11-21,919937,1,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,NA
+2009-10,2009-11-21,919937,3,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,0,3,-3,1420,Georgia,2386,1186,14, makes a 3-point jump shot from 20 feet out.,made,FALSE,TRUE,Jump Shot,5.5,10.05,466774,NA,NA,0,Georgia,UAB,1
+2009-10,2009-11-21,919937,4,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,2,3,-1,1303,UAB,2362,1162,24, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,26.3,9.849999999999994,483133,NA,NA,0,UAB,Georgia,2
+2009-10,2009-11-21,919937,12,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,2,3,-1,1303,UAB,2334,1134,28, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,17.650000000000006,330032,NA,NA,0,UAB,UAB,3
+2009-10,2009-11-21,919937,13,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,4,3,1,1303,UAB,2328,1128,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338887,NA,NA,0,UAB,Georgia,3
+2009-10,2009-11-21,919937,14,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,4,3,1,1420,Georgia,2318,1118,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403001,NA,NA,0,Georgia,UAB,4
+2009-10,2009-11-21,919937,15,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,4,3,1,1303,UAB,2308,1108,10, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,7.549999999999997,330032,NA,NA,0,UAB,UAB,5
+2009-10,2009-11-21,919937,16,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,6,3,3,1303,UAB,2302,1102,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330032,NA,NA,0,UAB,UAB,5
+2009-10,2009-11-21,919937,23,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,6,3,3,1420,Georgia,2282,1082,20,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,5
+2009-10,2009-11-21,919937,24,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,6,3,3,1303,UAB,2282,1082,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,5
+2009-10,2009-11-21,919937,25,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,7,3,4,1303,UAB,2282,1082,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,5
+2009-10,2009-11-21,919937,31,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,7,3,4,1420,Georgia,2273,1073,9,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,6
+2009-10,2009-11-21,919937,36,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,7,3,4,1303,UAB,2257,1057,16, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,23.3,19.950000000000003,413779,NA,NA,0,UAB,UAB,7
+2009-10,2009-11-21,919937,37,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,7,3,4,1303,UAB,2250,1050,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,UAB,7
+2009-10,2009-11-21,919937,55,0,1,UAB,Georgia,Blazers,Bulldogs,4,4,10,3,7,1303,UAB,2213,1013,37, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,20.5,29.450000000000003,399809,NA,NA,0,UAB,Georgia,7
+2009-10,2009-11-21,919937,58,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,10,3,7,1420,Georgia,2202,1002,11,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,62,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,3,9,1303,UAB,2191,991,11, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,32.7,24.950000000000003,330032,NA,NA,0,UAB,Georgia,8
+2009-10,2009-11-21,919937,70,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,3,9,1303,UAB,2185,985,6,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,9
+2009-10,2009-11-21,919937,71,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,4,8,1420,Georgia,2185,985,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,9
+2009-10,2009-11-21,919937,72,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,4,8,1420,Georgia,2185,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,73,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,4,8,1420,Georgia,2185,985,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,74,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,12,4,8,1420,Georgia,2185,985,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,9
+2009-10,2009-11-21,919937,87,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,4,10,1303,UAB,2174,974,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Georgia,10
+2009-10,2009-11-21,919937,96,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,4,10,1303,UAB,2162,962,12,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,11
+2009-10,2009-11-21,919937,99,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,4,10,1420,Georgia,2151,951,11,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,11
+2009-10,2009-11-21,919937,100,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,4,10,NA,NA,2151,951,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,101,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,4,10,1303,UAB,2151,951,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,108,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,14,6,8,1420,Georgia,2124,924,27, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,37.3,6.45,403004,NA,NA,0,Georgia,UAB,12
+2009-10,2009-11-21,919937,109,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,17,6,11,1303,UAB,2092,892,32, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,11,25.950000000000003,413779,NA,NA,0,UAB,Georgia,13
+2009-10,2009-11-21,919937,110,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,19,6,13,1303,UAB,2057,857,35, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Georgia,14
+2009-10,2009-11-21,919937,112,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,19,6,13,1420,Georgia,2036,836,21, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,8.95,466777,NA,NA,0,Georgia,UAB,15
+2009-10,2009-11-21,919937,113,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,19,6,13,1420,Georgia,2034,834,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,117,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,19,6,13,1303,UAB,2021,821,13, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,26.349999999999994,413779,NA,NA,0,UAB,UAB,16
+2009-10,2009-11-21,919937,119,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,19,6,13,1420,Georgia,2010,810,11,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2009-10,2009-11-21,919937,120,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,20,6,14,1303,UAB,2010,810,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,16
+2009-10,2009-11-21,919937,121,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,21,6,15,1303,UAB,2010,810,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,16
+2009-10,2009-11-21,919937,123,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,21,6,15,1420,Georgia,1990,790,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,19,19.15,466777,NA,NA,0,Georgia,UAB,17
+2009-10,2009-11-21,919937,124,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,23,6,17,1303,UAB,1978,778,12, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,14,22.849999999999994,295947,NA,NA,0,UAB,Georgia,18
+2009-10,2009-11-21,919937,128,0,1,UAB,Georgia,Blazers,Bulldogs,4,3,23,6,17,1420,Georgia,1962,762,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,132,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,6,17,1420,Georgia,1962,762,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,134,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1420,Georgia,1947,747,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,UAB,19
+2009-10,2009-11-21,919937,136,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1303,UAB,1930,730,17, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,26.349999999999994,295947,NA,NA,0,UAB,Georgia,20
+2009-10,2009-11-21,919937,137,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1303,UAB,1926,726,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,141,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1420,Georgia,1912,712,14, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,32,7.55,466777,NA,NA,0,Georgia,UAB,21
+2009-10,2009-11-21,919937,142,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1303,UAB,1903,703,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,Georgia,22
+2009-10,2009-11-21,919937,143,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1420,Georgia,1894,694,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466775,NA,NA,0,Georgia,Georgia,23
+2009-10,2009-11-21,919937,144,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1420,Georgia,1890,690,4, misses a jump shot from 3 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,7.15,466775,NA,NA,0,Georgia,UAB,23
+2009-10,2009-11-21,919937,147,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,8,15,1303,UAB,1828,628,62, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295959,NA,NA,0,UAB,Georgia,24
+2009-10,2009-11-21,919937,150,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,1420,Georgia,1821,621,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,UAB,25
+2009-10,2009-11-21,919937,151,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,NA,NA,1821,621,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,153,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,1420,Georgia,1821,621,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,154,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,1420,Georgia,1821,621,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,161,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,1303,UAB,1799,599,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.3,30.35,399809,NA,NA,0,UAB,Georgia,26
+2009-10,2009-11-21,919937,163,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,10,13,1303,UAB,1790,590,9,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,27
+2009-10,2009-11-21,919937,165,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,12,11,1420,Georgia,1773,573,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,UAB,27
+2009-10,2009-11-21,919937,167,0,1,UAB,Georgia,Blazers,Bulldogs,4,2,23,15,8,1420,Georgia,1709,509,64, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.5,8.95,466774,NA,NA,0,Georgia,UAB,28
+2009-10,2009-11-21,919937,168,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1303,UAB,1708,508,1,Blazers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,169,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1420,Georgia,1708,508,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,170,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1303,UAB,1708,508,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,171,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1420,Georgia,1708,508,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,175,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1303,UAB,1690,490,18, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,22.5,11.25,330032,NA,NA,0,UAB,Georgia,29
+2009-10,2009-11-21,919937,176,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1303,UAB,1689,489,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,30
+2009-10,2009-11-21,919937,178,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1420,Georgia,1654,454,35, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,15.55,403004,NA,NA,0,Georgia,UAB,30
+2009-10,2009-11-21,919937,179,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1303,UAB,1644,444,10, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,20.2,14.950000000000003,330032,NA,NA,0,UAB,Georgia,31
+2009-10,2009-11-21,919937,180,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,15,8,1420,Georgia,1638,438,6, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,15.65,466774,NA,NA,0,Georgia,Georgia,32
+2009-10,2009-11-21,919937,181,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,17,6,1420,Georgia,1633,433,5, makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,23.3,14.95,466775,NA,NA,0,Georgia,UAB,32
+2009-10,2009-11-21,919937,182,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,23,17,6,1303,UAB,1602,402,31, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,32.8,30.549999999999997,413779,NA,NA,0,UAB,UAB,33
+2009-10,2009-11-21,919937,183,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,17,8,1303,UAB,1586,386,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399809,NA,NA,0,UAB,Georgia,33
+2009-10,2009-11-21,919937,184,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1560,360,26, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,27.2,15.85,466775,NA,NA,0,Georgia,UAB,34
+2009-10,2009-11-21,919937,186,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1537,337,23,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,35
+2009-10,2009-11-21,919937,187,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,NA,NA,1537,337,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,189,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1303,UAB,1512,312,25, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,7.299999999999997,11.049999999999997,338887,NA,NA,0,UAB,Georgia,35
+2009-10,2009-11-21,919937,192,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1500,300,12,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,36
+2009-10,2009-11-21,919937,193,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1500,300,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,201,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1303,UAB,1478,278,22, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,17.5,15.549999999999997,483133,NA,NA,0,UAB,UAB,37
+2009-10,2009-11-21,919937,203,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1466,266,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,206,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1303,UAB,1450,250,16, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.7,8.349999999999994,330032,NA,NA,0,UAB,UAB,37
+2009-10,2009-11-21,919937,207,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,25,19,6,1420,Georgia,1448,248,2,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,37
+2009-10,2009-11-21,919937,208,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,26,19,7,1303,UAB,1448,248,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,37
+2009-10,2009-11-21,919937,209,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,27,19,8,1303,UAB,1448,248,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,37
+2009-10,2009-11-21,919937,213,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,27,19,8,1420,Georgia,1426,226,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,20.75,509442,NA,NA,0,Georgia,UAB,38
+2009-10,2009-11-21,919937,215,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,27,19,8,1303,UAB,1403,203,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,338887,NA,NA,0,UAB,UAB,39
+2009-10,2009-11-21,919937,217,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,27,19,8,1420,Georgia,1403,203,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,39
+2009-10,2009-11-21,919937,218,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,27,19,8,NA,NA,1403,203,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,219,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,28,19,9,1303,UAB,1403,203,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,39
+2009-10,2009-11-21,919937,220,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,29,19,10,1303,UAB,1403,203,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,39
+2009-10,2009-11-21,919937,223,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,29,19,10,1420,Georgia,1388,188,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16,11.85,466775,NA,NA,0,Georgia,Georgia,40
+2009-10,2009-11-21,919937,224,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,29,19,10,1303,UAB,1387,187,1,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,40
+2009-10,2009-11-21,919937,226,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,29,19,10,1420,Georgia,1362,162,25, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,39.8,8.15,466777,NA,NA,0,Georgia,UAB,40
+2009-10,2009-11-21,919937,230,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,32,19,13,1303,UAB,1326,126,36, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,44.7,13.150000000000006,338887,NA,NA,0,UAB,Georgia,41
+2009-10,2009-11-21,919937,233,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,32,19,13,1303,UAB,1303,103,23,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,42
+2009-10,2009-11-21,919937,236,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,32,19,13,1420,Georgia,1276,76,27, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18,6.45,466774,NA,NA,0,Georgia,UAB,42
+2009-10,2009-11-21,919937,238,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,32,19,13,1420,Georgia,1269,69,7,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,43
+2009-10,2009-11-21,919937,239,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,33,19,14,1303,UAB,1269,69,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,43
+2009-10,2009-11-21,919937,240,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,33,19,14,1303,UAB,1269,69,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,43
+2009-10,2009-11-21,919937,242,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,33,19,14,1303,UAB,1250,50,19, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,22.3,31.35,513462,NA,NA,0,UAB,UAB,43
+2009-10,2009-11-21,919937,243,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,19,16,1303,UAB,1244,44,6, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.3,8.150000000000006,295959,NA,NA,0,UAB,Georgia,43
+2009-10,2009-11-21,919937,245,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,19,16,1420,Georgia,1217,17,27, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,31.15,466774,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,246,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,19,16,1303,UAB,1214,14,3,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,247,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,20,15,1420,Georgia,1214,14,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,248,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,20,15,1420,Georgia,1214,14,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,266,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,20,15,1303,UAB,1205,5,9,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,267,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,21,14,1420,Georgia,1205,5,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,268,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,21,14,1420,Georgia,1205,5,0, misses free throw 2 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,44
+2009-10,2009-11-21,919937,269,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,22,13,1420,Georgia,1205,5,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,44
+2009-10,2009-11-21,919937,272,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,22,13,1303,UAB,1200,0,5, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,23,18.450000000000003,399809,NA,NA,0,UAB,Georgia,45
+2009-10,2009-11-21,919937,276,0,1,UAB,Georgia,Blazers,Bulldogs,3,2,35,22,13,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,277,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,22,13,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,46
+2009-10,2009-11-21,919937,292,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,22,13,1420,Georgia,1170,1170,30, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.7,7.75,466777,NA,NA,0,Georgia,Georgia,47
+2009-10,2009-11-21,919937,293,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,22,13,1303,UAB,1169,1169,1,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,47
+2009-10,2009-11-21,919937,294,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,23,12,1420,Georgia,1169,1169,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,47
+2009-10,2009-11-21,919937,295,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1420,Georgia,1169,1169,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,47
+2009-10,2009-11-21,919937,297,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1303,UAB,1156,1156,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330032,NA,NA,0,UAB,Georgia,48
+2009-10,2009-11-21,919937,300,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1303,UAB,1139,1139,17,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,49
+2009-10,2009-11-21,919937,301,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1303,UAB,1139,1139,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,303,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1420,Georgia,1117,1117,22, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18.8,10.25,466777,NA,NA,0,Georgia,UAB,49
+2009-10,2009-11-21,919937,304,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1303,UAB,1087,1087,30, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,13.75,295947,NA,NA,0,UAB,UAB,50
+2009-10,2009-11-21,919937,308,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,35,24,11,1420,Georgia,1063,1063,24,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2009-10,2009-11-21,919937,309,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,36,24,12,1303,UAB,1063,1063,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2009-10,2009-11-21,919937,310,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,37,24,13,1303,UAB,1063,1063,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,50
+2009-10,2009-11-21,919937,311,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,37,24,13,1420,Georgia,1063,1063,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,312,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,24,14,1303,UAB,1063,1063,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,50
+2009-10,2009-11-21,919937,314,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,26,12,1420,Georgia,1048,1048,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Georgia,51
+2009-10,2009-11-21,919937,320,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,26,12,1303,UAB,1020,1020,28,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,51
+2009-10,2009-11-21,919937,321,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,26,12,1420,Georgia,1020,1020,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,322,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,27,11,1420,Georgia,1020,1020,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,51
+2009-10,2009-11-21,919937,323,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,38,28,10,1420,Georgia,1020,1020,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,51
+2009-10,2009-11-21,919937,327,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,41,28,13,1303,UAB,1002,1002,18, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,15.5,26.75,330032,NA,NA,0,UAB,Georgia,52
+2009-10,2009-11-21,919937,328,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,41,30,11,1420,Georgia,966,966,36, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,5.300000000000001,4.85,466778,NA,NA,0,Georgia,UAB,53
+2009-10,2009-11-21,919937,330,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,41,30,11,1303,UAB,949,949,17, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,10.650000000000006,295959,NA,NA,0,UAB,UAB,54
+2009-10,2009-11-21,919937,333,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,41,30,11,NA,NA,947,947,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,335,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,43,30,13,1303,UAB,942,942,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,330032,NA,NA,0,UAB,Georgia,54
+2009-10,2009-11-21,919937,340,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,43,30,13,1303,UAB,925,925,17,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,55
+2009-10,2009-11-21,919937,347,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,43,30,13,1303,UAB,911,911,14,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,55
+2009-10,2009-11-21,919937,348,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,43,30,13,1420,Georgia,911,911,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,55
+2009-10,2009-11-21,919937,349,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,43,31,12,1420,Georgia,911,911,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,55
+2009-10,2009-11-21,919937,352,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,31,15,1303,UAB,876,876,35, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,6.75,330032,NA,NA,0,UAB,Georgia,56
+2009-10,2009-11-21,919937,353,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,31,15,1420,Georgia,861,861,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29,14.55,466775,NA,NA,0,Georgia,UAB,57
+2009-10,2009-11-21,919937,354,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,31,15,1303,UAB,849,849,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,21.150000000000006,399809,NA,NA,0,UAB,Georgia,58
+2009-10,2009-11-21,919937,355,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,33,13,1420,Georgia,825,825,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331185,NA,NA,0,Georgia,UAB,59
+2009-10,2009-11-21,919937,357,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,33,13,1420,Georgia,802,802,23,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,60
+2009-10,2009-11-21,919937,358,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,46,33,13,1303,UAB,802,802,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,60
+2009-10,2009-11-21,919937,359,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,47,33,14,1303,UAB,802,802,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,60
+2009-10,2009-11-21,919937,366,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,47,35,12,1420,Georgia,781,781,21, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,19.7,7.75,466774,NA,NA,0,Georgia,UAB,61
+2009-10,2009-11-21,919937,367,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,47,35,12,1303,UAB,768,768,13, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,12.25,338887,NA,NA,0,UAB,Georgia,62
+2009-10,2009-11-21,919937,375,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,47,35,12,1420,Georgia,744,744,24,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,63
+2009-10,2009-11-21,919937,379,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,47,35,12,1420,Georgia,733,733,11,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,64
+2009-10,2009-11-21,919937,380,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,48,35,13,1303,UAB,733,733,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,64
+2009-10,2009-11-21,919937,381,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,49,35,14,1303,UAB,733,733,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,64
+2009-10,2009-11-21,919937,385,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,49,35,14,NA,NA,717,717,16,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,392,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,49,35,14,1420,Georgia,700,700,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.2,29.25,466777,NA,NA,0,Georgia,Georgia,65
+2009-10,2009-11-21,919937,393,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,49,37,12,1420,Georgia,671,671,29, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,31.2,10.25,303074,NA,NA,0,Georgia,UAB,65
+2009-10,2009-11-21,919937,394,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1303,UAB,635,635,36, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,11.799999999999997,24.950000000000003,413779,NA,NA,0,UAB,Georgia,66
+2009-10,2009-11-21,919937,396,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1303,UAB,620,620,15,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,67
+2009-10,2009-11-21,919937,400,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1420,Georgia,613,613,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466775,NA,NA,0,Georgia,Georgia,67
+2009-10,2009-11-21,919937,401,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1420,Georgia,610,610,3, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,5,10.05,466774,NA,NA,0,Georgia,Georgia,67
+2009-10,2009-11-21,919937,408,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1420,Georgia,588,588,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,25.2,28.65,466774,NA,NA,0,Georgia,UAB,67
+2009-10,2009-11-21,919937,409,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1303,UAB,584,584,4, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,9.650000000000006,413779,NA,NA,0,UAB,Georgia,68
+2009-10,2009-11-21,919937,410,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,37,15,1303,UAB,584,584,0,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,69
+2009-10,2009-11-21,919937,411,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,38,14,1420,Georgia,584,584,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,69
+2009-10,2009-11-21,919937,412,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,39,13,1420,Georgia,584,584,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,69
+2009-10,2009-11-21,919937,414,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,39,13,1303,UAB,552,552,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,18.049999999999997,338887,NA,NA,0,UAB,Georgia,70
+2009-10,2009-11-21,919937,415,0,2,UAB,Georgia,Blazers,Bulldogs,4,4,52,41,11,1420,Georgia,538,538,14, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,30,8.95,509438,NA,NA,0,Georgia,UAB,71
+2009-10,2009-11-21,919937,417,0,2,UAB,Georgia,Blazers,Bulldogs,3,4,52,41,11,1303,UAB,534,534,4,Blazers take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,419,0,2,UAB,Georgia,Blazers,Bulldogs,3,4,54,41,13,1303,UAB,509,509,25, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,20,18.049999999999997,330032,NA,NA,0,UAB,Georgia,72
+2009-10,2009-11-21,919937,424,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,54,41,13,1420,Georgia,498,498,11,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,429,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,54,41,13,1303,UAB,486,486,12,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,73
+2009-10,2009-11-21,919937,430,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,54,42,12,1420,Georgia,486,486,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,73
+2009-10,2009-11-21,919937,431,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,54,42,12,1420,Georgia,486,486,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-11-21,919937,432,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,54,43,11,1420,Georgia,486,486,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,73
+2009-10,2009-11-21,919937,440,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,43,14,1303,UAB,454,454,32, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,45.7,6.650000000000006,330032,NA,NA,0,UAB,Georgia,74
+2009-10,2009-11-21,919937,442,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,43,14,1420,Georgia,452,452,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,75
+2009-10,2009-11-21,919937,445,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,43,14,NA,NA,452,452,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,447,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,43,14,1303,UAB,445,445,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,483133,NA,NA,0,UAB,UAB,75
+2009-10,2009-11-21,919937,454,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,43,14,1303,UAB,430,430,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399809,NA,NA,0,UAB,Georgia,75
+2009-10,2009-11-21,919937,455,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,57,45,12,1420,Georgia,409,409,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,UAB,76
+2009-10,2009-11-21,919937,456,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,60,45,15,1303,UAB,377,377,32, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,36.7,27.349999999999994,413779,NA,NA,0,UAB,Georgia,77
+2009-10,2009-11-21,919937,458,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,60,45,15,1303,UAB,338,338,39,Shooting foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,78
+2009-10,2009-11-21,919937,459,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,60,47,13,1420,Georgia,338,338,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,UAB,78
+2009-10,2009-11-21,919937,460,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,60,47,13,1420,Georgia,338,338,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,79
+2009-10,2009-11-21,919937,476,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,47,15,1303,UAB,301,301,37, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,24.3,16.25,330032,NA,NA,0,UAB,Georgia,80
+2009-10,2009-11-21,919937,477,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,47,15,1420,Georgia,273,273,28, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,403004,NA,NA,0,Georgia,UAB,81
+2009-10,2009-11-21,919937,482,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,47,15,1420,Georgia,273,273,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,82
+2009-10,2009-11-21,919937,487,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,47,15,1303,UAB,238,238,35,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,82
+2009-10,2009-11-21,919937,488,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,47,15,NA,NA,238,238,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,489,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,48,14,1420,Georgia,238,238,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,82
+2009-10,2009-11-21,919937,490,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,48,14,1420,Georgia,238,238,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,82
+2009-10,2009-11-21,919937,493,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,48,14,1303,UAB,206,206,32, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,35.3,28.25,338887,NA,NA,0,UAB,Georgia,83
+2009-10,2009-11-21,919937,494,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,48,14,1420,Georgia,199,199,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466775,NA,NA,0,Georgia,Georgia,84
+2009-10,2009-11-21,919937,496,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,48,14,1303,UAB,195,195,4,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,84
+2009-10,2009-11-21,919937,497,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,49,13,1420,Georgia,195,195,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,84
+2009-10,2009-11-21,919937,498,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,62,50,12,1420,Georgia,195,195,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,84
+2009-10,2009-11-21,919937,505,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,50,14,1303,UAB,187,187,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330032,NA,NA,0,UAB,UAB,85
+2009-10,2009-11-21,919937,506,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,50,14,1420,Georgia,187,187,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,85
+2009-10,2009-11-21,919937,507,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,50,14,1303,UAB,187,187,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,85
+2009-10,2009-11-21,919937,516,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,50,14,1420,Georgia,175,175,12, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.8,29.25,466777,NA,NA,0,Georgia,Georgia,86
+2009-10,2009-11-21,919937,517.5,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,52,12,1420,Georgia,166,166,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,UAB,86
+2009-10,2009-11-21,919937,518,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,52,12,1303,UAB,149,149,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38,24.349999999999994,338887,NA,NA,0,UAB,UAB,87
+2009-10,2009-11-21,919937,520,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,64,52,12,1420,Georgia,136,136,13,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,87
+2009-10,2009-11-21,919937,525,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,65,52,13,1303,UAB,136,136,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,87
+2009-10,2009-11-21,919937,526,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,66,52,14,1303,UAB,136,136,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,Georgia,87
+2009-10,2009-11-21,919937,531,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,66,52,14,1420,Georgia,124,124,12, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,10.85,466777,NA,NA,0,Georgia,Georgia,88
+2009-10,2009-11-21,919937,532,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,66,52,14,1420,Georgia,122,122,2,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,88
+2009-10,2009-11-21,919937,535,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,68,52,16,1303,UAB,107,107,15, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,338887,NA,NA,0,UAB,Georgia,89
+2009-10,2009-11-21,919937,536,0,2,UAB,Georgia,Blazers,Bulldogs,3,3,70,52,18,1303,UAB,79,79,28, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,338887,NA,NA,0,UAB,Georgia,90
+2009-10,2009-11-21,919937,539,0,2,UAB,Georgia,Blazers,Bulldogs,3,2,70,52,18,1420,Georgia,67,67,12,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,540,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,70,52,18,1420,Georgia,67,67,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,547,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,70,52,18,1303,UAB,60,60,7,Personal foul committed by Blazers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,91
+2009-10,2009-11-21,919937,548,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,70,53,17,1420,Georgia,60,60,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,91
+2009-10,2009-11-21,919937,549,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,70,54,16,1420,Georgia,60,60,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,UAB,91
+2009-10,2009-11-21,919937,551,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,72,54,18,1303,UAB,39,39,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,338887,NA,NA,0,UAB,Georgia,92
+2009-10,2009-11-21,919937,558,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,72,56,16,1420,Georgia,16,16,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466774,NA,NA,0,Georgia,UAB,93
+2009-10,2009-11-21,919937,565,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,72,56,16,NA,NA,0,0,16,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-11-21,919937,566,0,2,UAB,Georgia,Blazers,Bulldogs,3,1,72,56,16,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UAB,UAB,NA

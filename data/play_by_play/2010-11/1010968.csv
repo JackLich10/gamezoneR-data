@@ -1,0 +1,264 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-02-24,1010968,1,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Georgia,NA
+2010-11,2011-02-24,1010968,9,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1420,Georgia,2384,1184,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466777,NA,NA,0,Georgia,Georgia,1
+2010-11,2011-02-24,1010968,10,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1407,Florida,2384,1184,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,1
+2010-11,2011-02-24,1010968,11,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1407,Florida,2358,1158,26, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,2
+2010-11,2011-02-24,1010968,12,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1407,Florida,2358,1158,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,2
+2010-11,2011-02-24,1010968,13,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1407,Florida,2353,1153,5, misses a hook shot from 3 feet out.,missed,FALSE,FALSE,Hook Shot,27.5,7.150000000000006,400602,NA,NA,0,Florida,Florida,2
+2010-11,2011-02-24,1010968,14,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,0,0,1420,Georgia,2353,1153,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,2
+2010-11,2011-02-24,1010968,15,0,1,Florida,Georgia,Gators,Bulldogs,4,4,0,2,-2,1420,Georgia,2341,1141,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Florida,3
+2010-11,2011-02-24,1010968,23,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,2,1,1407,Florida,2322,1122,19, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,26,30.25,460865,NA,NA,0,Florida,Georgia,4
+2010-11,2011-02-24,1010968,24,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,4,-1,1420,Georgia,2303,1103,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,5
+2010-11,2011-02-24,1010968,25,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,4,-1,1407,Florida,2281,1081,22, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,11,12.049999999999997,551994,NA,NA,0,Florida,Florida,6
+2010-11,2011-02-24,1010968,26,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,4,-1,1420,Georgia,2281,1081,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,6
+2010-11,2011-02-24,1010968,27,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,6,-3,1420,Georgia,2269,1069,12, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,16.7,23.85,466775,NA,NA,0,Georgia,Florida,7
+2010-11,2011-02-24,1010968,33,0,1,Florida,Georgia,Gators,Bulldogs,4,4,3,6,-3,1420,Georgia,2245,1045,24,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,8
+2010-11,2011-02-24,1010968,34,0,1,Florida,Georgia,Gators,Bulldogs,4,4,4,6,-2,1407,Florida,2245,1045,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,8
+2010-11,2011-02-24,1010968,35,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1407,Florida,2245,1045,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,8
+2010-11,2011-02-24,1010968,36,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2245,1045,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,37,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1407,Florida,2245,1045,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,38,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1407,Florida,2245,1045,0, misses free throw 3 of 3.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,8
+2010-11,2011-02-24,1010968,39,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2245,1045,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,8
+2010-11,2011-02-24,1010968,46,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2224,1024,21, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,12.95,466777,NA,NA,0,Georgia,Georgia,9
+2010-11,2011-02-24,1010968,49,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2200,1000,24, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33,8.35,411373,NA,NA,0,Georgia,Georgia,9
+2010-11,2011-02-24,1010968,50,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2200,1000,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,9
+2010-11,2011-02-24,1010968,51,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2195,995,5, misses a tip shot from 1 foot out.,missed,FALSE,FALSE,Tip Shot,25.2,5.85,403001,NA,NA,0,Georgia,Georgia,9
+2010-11,2011-02-24,1010968,52,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,6,-1,1420,Georgia,2195,995,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,9
+2010-11,2011-02-24,1010968,53,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,8,-3,1420,Georgia,2190,990,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,9
+2010-11,2011-02-24,1010968,54,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,8,-3,1407,Florida,2175,975,15, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.2,7.549999999999997,332667,NA,NA,0,Florida,Florida,10
+2010-11,2011-02-24,1010968,55,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,8,-3,1420,Georgia,2175,975,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,10
+2010-11,2011-02-24,1010968,56,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,8,-3,1420,Georgia,2160,960,15, misses a tip shot from 7 feet out.,missed,FALSE,FALSE,Tip Shot,28,11.25,411373,NA,NA,0,Georgia,Georgia,11
+2010-11,2011-02-24,1010968,57,0,1,Florida,Georgia,Gators,Bulldogs,4,4,5,8,-3,1407,Florida,2160,960,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,11
+2010-11,2011-02-24,1010968,58,0,1,Florida,Georgia,Gators,Bulldogs,4,4,7,8,-1,1407,Florida,2154,954,6, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,9.700000000000003,18.450000000000003,460865,NA,NA,0,Florida,Georgia,12
+2010-11,2011-02-24,1010968,59,0,1,Florida,Georgia,Gators,Bulldogs,4,4,7,8,-1,1420,Georgia,2124,924,30, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,21.65,411373,NA,NA,0,Georgia,Georgia,13
+2010-11,2011-02-24,1010968,60,0,1,Florida,Georgia,Gators,Bulldogs,4,4,7,8,-1,1407,Florida,2124,924,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,13
+2010-11,2011-02-24,1010968,61,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,8,2,1407,Florida,2096,896,28, makes a 3-point jump shot from 28 feet out.,made,FALSE,TRUE,Jump Shot,30.2,32.55,460865,NA,NA,0,Florida,Georgia,14
+2010-11,2011-02-24,1010968,62,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,8,2,1420,Georgia,2063,863,33, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466777,NA,NA,0,Georgia,Georgia,15
+2010-11,2011-02-24,1010968,63,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,8,2,1407,Florida,2063,863,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,15
+2010-11,2011-02-24,1010968,64,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,8,2,1407,Florida,2051,851,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512752,NA,NA,0,Florida,Florida,16
+2010-11,2011-02-24,1010968,65,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,8,2,1420,Georgia,2051,851,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,16
+2010-11,2011-02-24,1010968,66,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,10,0,1420,Georgia,2038,838,13, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,22,25.95,466775,NA,NA,0,Georgia,Florida,17
+2010-11,2011-02-24,1010968,67,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1420,Georgia,2012,812,26, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Florida,18
+2010-11,2011-02-24,1010968,69,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1407,Florida,1973,773,39, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,17.299999999999997,10.049999999999997,460865,NA,NA,0,Florida,Florida,19
+2010-11,2011-02-24,1010968,70,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1420,Georgia,1973,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,19
+2010-11,2011-02-24,1010968,72,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1407,Florida,1970,770,3,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,20
+2010-11,2011-02-24,1010968,73,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,NA,NA,1970,770,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,76,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1407,Florida,1969,769,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,77,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,12,-2,1407,Florida,1969,769,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,83,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,14,-4,1420,Georgia,1955,755,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Florida,20
+2010-11,2011-02-24,1010968,84,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,14,-4,1407,Florida,1929,729,26, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,12.299999999999997,13.75,551992,NA,NA,0,Florida,Florida,21
+2010-11,2011-02-24,1010968,85,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,14,-4,1420,Georgia,1929,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,21
+2010-11,2011-02-24,1010968,86,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,1420,Georgia,1907,707,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Florida,22
+2010-11,2011-02-24,1010968,88,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,1407,Florida,1881,681,26, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,10.700000000000003,26.150000000000006,512752,NA,NA,0,Florida,Florida,23
+2010-11,2011-02-24,1010968,89,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,1407,Florida,1881,681,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,23
+2010-11,2011-02-24,1010968,90,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,1420,Georgia,1877,677,4,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,23
+2010-11,2011-02-24,1010968,91,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,NA,NA,1877,677,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,92,0,1,Florida,Georgia,Gators,Bulldogs,4,4,10,16,-6,1407,Florida,1877,677,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,93,0,1,Florida,Georgia,Gators,Bulldogs,4,4,11,16,-5,1407,Florida,1877,677,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,23
+2010-11,2011-02-24,1010968,94,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,16,-4,1407,Florida,1877,677,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,23
+2010-11,2011-02-24,1010968,96,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,18,-6,1420,Georgia,1826,626,51, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,37.5,12.05,550496,NA,NA,0,Georgia,Florida,24
+2010-11,2011-02-24,1010968,97,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,21,-9,1420,Georgia,1800,600,26, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,20.25,550496,NA,NA,0,Georgia,Florida,25
+2010-11,2011-02-24,1010968,98,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,21,-9,1407,Florida,1780,580,20, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,5.299999999999997,19.549999999999997,460865,NA,NA,0,Florida,Florida,26
+2010-11,2011-02-24,1010968,99,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,21,-9,1420,Georgia,1780,580,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,26
+2010-11,2011-02-24,1010968,100,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,21,-9,1407,Florida,1771,571,9, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.700000000000003,11.25,400599,NA,NA,0,Florida,Florida,27
+2010-11,2011-02-24,1010968,101,0,1,Florida,Georgia,Gators,Bulldogs,4,4,12,21,-9,1420,Georgia,1771,571,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,27
+2010-11,2011-02-24,1010968,105,0,1,Florida,Georgia,Gators,Bulldogs,3,4,12,21,-9,1407,Florida,1766,566,5,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,107,0,1,Florida,Georgia,Gators,Bulldogs,3,4,14,21,-7,1407,Florida,1752,552,14, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,24.5,13.75,512752,NA,NA,0,Florida,Georgia,28
+2010-11,2011-02-24,1010968,118,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,21,-5,1407,Florida,1691,491,61, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Georgia,29
+2010-11,2011-02-24,1010968,119,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,21,-5,1420,Georgia,1673,473,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,7.35,466775,NA,NA,0,Georgia,Georgia,30
+2010-11,2011-02-24,1010968,120,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,21,-5,1407,Florida,1673,473,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,30
+2010-11,2011-02-24,1010968,121,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,21,-5,1407,Florida,1657,457,16, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,12.650000000000006,400602,NA,NA,0,Florida,Florida,31
+2010-11,2011-02-24,1010968,122,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,21,-5,1420,Georgia,1657,457,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,31
+2010-11,2011-02-24,1010968,123,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,23,-7,1420,Georgia,1649,449,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,466775,NA,NA,0,Georgia,Florida,32
+2010-11,2011-02-24,1010968,124,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,23,-7,1407,Florida,1616,416,33, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17.700000000000003,29.450000000000003,460865,NA,NA,0,Florida,Florida,33
+2010-11,2011-02-24,1010968,125,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,23,-7,1407,Florida,1616,416,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,33
+2010-11,2011-02-24,1010968,126,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,1420,Georgia,1606,406,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,33
+2010-11,2011-02-24,1010968,127,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,1407,Florida,1594,394,12, misses a tip shot from 2 feet out.,missed,FALSE,FALSE,Tip Shot,25.7,7.549999999999997,512752,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-24,1010968,128,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,1407,Florida,1594,394,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,34
+2010-11,2011-02-24,1010968,130,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,1407,Florida,1589,389,5, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,24.8,8.150000000000006,512752,NA,NA,0,Florida,Georgia,34
+2010-11,2011-02-24,1010968,132,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,NA,NA,1589,389,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,136,0,1,Florida,Georgia,Gators,Bulldogs,3,4,16,25,-9,1420,Georgia,1581,381,8,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,35
+2010-11,2011-02-24,1010968,138,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,25,-7,1407,Florida,1577,377,4, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Georgia,36
+2010-11,2011-02-24,1010968,152,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,25,-7,1407,Florida,1532,332,45,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,37
+2010-11,2011-02-24,1010968,153,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,25,-7,1407,Florida,1532,332,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,154,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,25,-7,1407,Florida,1532,332,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,156,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1420,Georgia,1518,318,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,20.55,466774,NA,NA,0,Georgia,Florida,37
+2010-11,2011-02-24,1010968,159,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1407,Florida,1470,270,48, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400599,NA,NA,0,Florida,Florida,38
+2010-11,2011-02-24,1010968,160,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1420,Georgia,1470,270,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,38
+2010-11,2011-02-24,1010968,164,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1420,Georgia,1464,264,6,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,39
+2010-11,2011-02-24,1010968,170,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1420,Georgia,1441,241,23,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,171,0,1,Florida,Georgia,Gators,Bulldogs,3,4,18,28,-10,1407,Florida,1441,241,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,173,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,28,-8,1407,Florida,1437,237,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460865,NA,NA,0,Florida,Georgia,40
+2010-11,2011-02-24,1010968,176,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,28,-8,1420,Georgia,1415,215,22, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,12.8,26.75,550496,NA,NA,0,Georgia,Georgia,41
+2010-11,2011-02-24,1010968,177,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,28,-8,1420,Georgia,1415,215,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,41
+2010-11,2011-02-24,1010968,178,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,30,-10,1420,Georgia,1404,204,11, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Georgia,41
+2010-11,2011-02-24,1010968,179,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,30,-10,1407,Florida,1404,204,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,41
+2010-11,2011-02-24,1010968,180,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,30,-10,NA,NA,1404,204,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,181,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1420,Georgia,1404,204,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,41
+2010-11,2011-02-24,1010968,183,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1407,Florida,1386,186,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25,16.049999999999997,400602,NA,NA,0,Florida,Florida,42
+2010-11,2011-02-24,1010968,184,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1420,Georgia,1386,186,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,42
+2010-11,2011-02-24,1010968,185,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1420,Georgia,1367,167,19, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,20.55,550496,NA,NA,0,Georgia,Georgia,43
+2010-11,2011-02-24,1010968,186,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1407,Florida,1367,167,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,43
+2010-11,2011-02-24,1010968,187,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1407,Florida,1359,159,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512752,NA,NA,0,Florida,Florida,44
+2010-11,2011-02-24,1010968,188,0,1,Florida,Georgia,Gators,Bulldogs,3,4,20,31,-11,1420,Georgia,1359,159,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,44
+2010-11,2011-02-24,1010968,189,0,1,Florida,Georgia,Gators,Bulldogs,3,4,22,31,-9,1407,Florida,1325,125,34, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,551992,NA,NA,0,Florida,Georgia,45
+2010-11,2011-02-24,1010968,193,0,1,Florida,Georgia,Gators,Bulldogs,3,3,22,31,-9,1420,Georgia,1316,116,9,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,194,0,1,Florida,Georgia,Gators,Bulldogs,3,3,22,31,-9,1407,Florida,1316,116,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,196,0,1,Florida,Georgia,Gators,Bulldogs,3,3,22,31,-9,1420,Georgia,1286,86,30, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,5.25,466777,NA,NA,0,Georgia,Georgia,46
+2010-11,2011-02-24,1010968,197,0,1,Florida,Georgia,Gators,Bulldogs,3,3,22,31,-9,1407,Florida,1286,86,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,46
+2010-11,2011-02-24,1010968,198,0,1,Florida,Georgia,Gators,Bulldogs,3,3,24,31,-7,1407,Florida,1274,74,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Georgia,47
+2010-11,2011-02-24,1010968,199,0,1,Florida,Georgia,Gators,Bulldogs,3,3,24,33,-9,1420,Georgia,1241,41,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,411373,NA,NA,0,Georgia,Florida,48
+2010-11,2011-02-24,1010968,203,0,1,Florida,Georgia,Gators,Bulldogs,3,3,24,33,-9,1407,Florida,1204,4,37, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,22,31.25,400599,NA,NA,0,Florida,Florida,49
+2010-11,2011-02-24,1010968,204,0,1,Florida,Georgia,Gators,Bulldogs,3,3,24,33,-9,1407,Florida,1204,4,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,49
+2010-11,2011-02-24,1010968,206,0,1,Florida,Georgia,Gators,Bulldogs,3,3,26,33,-7,1407,Florida,1202,2,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Georgia,49
+2010-11,2011-02-24,1010968,207,0,1,Florida,Georgia,Gators,Bulldogs,3,3,26,33,-7,NA,NA,1200,0,2,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,210,0,2,Florida,Georgia,Gators,Bulldogs,4,4,26,33,-7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Florida,50
+2010-11,2011-02-24,1010968,212,0,2,Florida,Georgia,Gators,Bulldogs,4,4,26,33,-7,1407,Florida,1179,1179,21, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,26.5,29.25,460865,NA,NA,0,Florida,Florida,51
+2010-11,2011-02-24,1010968,213,0,2,Florida,Georgia,Gators,Bulldogs,4,4,26,33,-7,1420,Georgia,1179,1179,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,51
+2010-11,2011-02-24,1010968,214,0,2,Florida,Georgia,Gators,Bulldogs,4,4,28,33,-5,1407,Florida,1168,1168,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,400599,NA,NA,0,Florida,Georgia,52
+2010-11,2011-02-24,1010968,215,0,2,Florida,Georgia,Gators,Bulldogs,4,4,28,33,-5,1420,Georgia,1129,1129,39, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,466777,NA,NA,0,Georgia,Georgia,53
+2010-11,2011-02-24,1010968,216,0,2,Florida,Georgia,Gators,Bulldogs,4,4,28,33,-5,1407,Florida,1129,1129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,53
+2010-11,2011-02-24,1010968,218,0,2,Florida,Georgia,Gators,Bulldogs,4,4,28,33,-5,1407,Florida,1116,1116,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,15.700000000000003,20.950000000000003,512752,NA,NA,0,Florida,Florida,54
+2010-11,2011-02-24,1010968,219,0,2,Florida,Georgia,Gators,Bulldogs,4,4,28,33,-5,1407,Florida,1116,1116,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,54
+2010-11,2011-02-24,1010968,220,0,2,Florida,Georgia,Gators,Bulldogs,4,4,30,33,-3,1407,Florida,1113,1113,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Georgia,54
+2010-11,2011-02-24,1010968,221,0,2,Florida,Georgia,Gators,Bulldogs,4,3,30,33,-3,1420,Georgia,1113,1113,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,223,0,2,Florida,Georgia,Gators,Bulldogs,4,3,30,35,-5,1420,Georgia,1092,1092,21, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,26.3,24.25,466775,NA,NA,0,Georgia,Florida,55
+2010-11,2011-02-24,1010968,224,0,2,Florida,Georgia,Gators,Bulldogs,4,3,32,35,-3,1407,Florida,1074,1074,18, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,41.5,8.75,400602,NA,NA,0,Florida,Georgia,56
+2010-11,2011-02-24,1010968,225,0,2,Florida,Georgia,Gators,Bulldogs,4,3,32,35,-3,1420,Georgia,1043,1043,31, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,11.85,466777,NA,NA,0,Georgia,Georgia,57
+2010-11,2011-02-24,1010968,226,0,2,Florida,Georgia,Gators,Bulldogs,4,3,32,35,-3,1407,Florida,1043,1043,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,57
+2010-11,2011-02-24,1010968,227,0,2,Florida,Georgia,Gators,Bulldogs,4,3,35,35,0,1407,Florida,1021,1021,22, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,21.7,29.049999999999997,400599,NA,NA,0,Florida,Georgia,58
+2010-11,2011-02-24,1010968,230,0,2,Florida,Georgia,Gators,Bulldogs,4,3,35,35,0,1407,Florida,997,997,24,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,59
+2010-11,2011-02-24,1010968,232,0,2,Florida,Georgia,Gators,Bulldogs,4,3,35,37,-2,1420,Georgia,985,985,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Florida,59
+2010-11,2011-02-24,1010968,233,0,2,Florida,Georgia,Gators,Bulldogs,4,3,37,37,0,1407,Florida,960,960,25, makes a jump shot from 12 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.5,16.849999999999994,551992,NA,NA,0,Florida,Georgia,60
+2010-11,2011-02-24,1010968,234,0,2,Florida,Georgia,Gators,Bulldogs,4,3,37,40,-3,1420,Georgia,926,926,34, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,14.8,28.25,411373,NA,NA,0,Georgia,Florida,61
+2010-11,2011-02-24,1010968,240,0,2,Florida,Georgia,Gators,Bulldogs,4,3,37,40,-3,NA,NA,903,903,23,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,241,0,2,Florida,Georgia,Gators,Bulldogs,4,3,37,40,-3,1420,Georgia,903,903,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,62
+2010-11,2011-02-24,1010968,242,0,2,Florida,Georgia,Gators,Bulldogs,4,3,38,40,-2,1407,Florida,903,903,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,62
+2010-11,2011-02-24,1010968,243,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,903,903,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,62
+2010-11,2011-02-24,1010968,245,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1420,Georgia,884,884,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,41.3,22.85,411373,NA,NA,0,Georgia,Georgia,63
+2010-11,2011-02-24,1010968,246,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,884,884,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,63
+2010-11,2011-02-24,1010968,247,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,854,854,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45,16.650000000000006,512752,NA,NA,0,Florida,Florida,64
+2010-11,2011-02-24,1010968,248,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,854,854,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,64
+2010-11,2011-02-24,1010968,251,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,846,846,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,43.7,20.349999999999994,400599,NA,NA,0,Florida,Florida,64
+2010-11,2011-02-24,1010968,252,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1420,Georgia,846,846,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,64
+2010-11,2011-02-24,1010968,258,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1420,Georgia,835,835,11, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,15.85,466775,NA,NA,0,Georgia,Georgia,65
+2010-11,2011-02-24,1010968,259,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,40,-1,1407,Florida,835,835,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,65
+2010-11,2011-02-24,1010968,261,0,2,Florida,Georgia,Gators,Bulldogs,4,3,39,42,-3,1420,Georgia,811,811,24, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,550499,NA,NA,0,Georgia,Florida,66
+2010-11,2011-02-24,1010968,263,0,2,Florida,Georgia,Gators,Bulldogs,4,3,41,42,-1,1407,Florida,793,793,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,332667,NA,NA,0,Florida,Florida,67
+2010-11,2011-02-24,1010968,264,0,2,Florida,Georgia,Gators,Bulldogs,4,3,41,42,-1,1420,Georgia,793,793,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,67
+2010-11,2011-02-24,1010968,265,0,2,Florida,Georgia,Gators,Bulldogs,4,3,42,42,0,1407,Florida,793,793,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,67
+2010-11,2011-02-24,1010968,268,0,2,Florida,Georgia,Gators,Bulldogs,4,2,42,42,0,1420,Georgia,791,791,2,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,270,0,2,Florida,Georgia,Gators,Bulldogs,4,2,44,42,2,1407,Florida,774,774,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,460865,NA,NA,0,Florida,Georgia,68
+2010-11,2011-02-24,1010968,283,0,2,Florida,Georgia,Gators,Bulldogs,4,1,44,42,2,1420,Georgia,737,737,37,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,285,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,42,5,1407,Florida,730,730,7, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.200000000000003,23.25,400599,NA,NA,0,Florida,Georgia,69
+2010-11,2011-02-24,1010968,287,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,42,5,1420,Georgia,700,700,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466777,NA,NA,0,Georgia,Georgia,70
+2010-11,2011-02-24,1010968,288,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,42,5,1420,Georgia,700,700,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,70
+2010-11,2011-02-24,1010968,295,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1420,Georgia,694,694,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Georgia,70
+2010-11,2011-02-24,1010968,296,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,694,694,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,70
+2010-11,2011-02-24,1010968,297,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,NA,NA,694,694,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,299,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1420,Georgia,694,694,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,70
+2010-11,2011-02-24,1010968,300,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,694,694,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,70
+2010-11,2011-02-24,1010968,301,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,631,631,63, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,39.3,23.849999999999994,512752,NA,NA,0,Florida,Florida,71
+2010-11,2011-02-24,1010968,302,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1420,Georgia,631,631,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,71
+2010-11,2011-02-24,1010968,303,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1420,Georgia,623,623,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.8,22.45,466777,NA,NA,0,Georgia,Georgia,72
+2010-11,2011-02-24,1010968,304,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,623,623,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,72
+2010-11,2011-02-24,1010968,305,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,617,617,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.799999999999997,23.849999999999994,460865,NA,NA,0,Florida,Florida,73
+2010-11,2011-02-24,1010968,306,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1407,Florida,617,617,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,73
+2010-11,2011-02-24,1010968,317,0,2,Florida,Georgia,Gators,Bulldogs,4,1,47,44,3,1420,Georgia,610,610,7,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,73
+2010-11,2011-02-24,1010968,319,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,44,5,1407,Florida,609,609,1, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Georgia,73
+2010-11,2011-02-24,1010968,320,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,46,3,1420,Georgia,570,570,39, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,74
+2010-11,2011-02-24,1010968,321,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,46,3,1407,Florida,565,565,5, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,22.450000000000003,400599,NA,NA,0,Florida,Florida,75
+2010-11,2011-02-24,1010968,322,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,46,3,1407,Florida,565,565,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,75
+2010-11,2011-02-24,1010968,324,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,46,3,1407,Florida,558,558,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400602,NA,NA,0,Florida,Florida,75
+2010-11,2011-02-24,1010968,325,0,2,Florida,Georgia,Gators,Bulldogs,4,1,49,46,3,1420,Georgia,558,558,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,75
+2010-11,2011-02-24,1010968,334,0,2,Florida,Georgia,Gators,Bulldogs,4,1,51,46,5,1407,Florida,550,550,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,512752,NA,NA,0,Florida,Florida,76
+2010-11,2011-02-24,1010968,335,0,2,Florida,Georgia,Gators,Bulldogs,4,1,51,46,5,1420,Georgia,550,550,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,76
+2010-11,2011-02-24,1010968,336,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,46,6,1407,Florida,550,550,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,76
+2010-11,2011-02-24,1010968,342,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,48,4,1420,Georgia,532,532,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,403004,NA,NA,0,Georgia,Georgia,77
+2010-11,2011-02-24,1010968,343,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,48,4,1407,Florida,532,532,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,77
+2010-11,2011-02-24,1010968,344,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,532,532,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,77
+2010-11,2011-02-24,1010968,352,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,520,520,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,357,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,499,499,21, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,403004,NA,NA,0,Georgia,Georgia,78
+2010-11,2011-02-24,1010968,358,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,499,499,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,78
+2010-11,2011-02-24,1010968,359,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,499,499,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,363,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1407,Florida,460,460,39, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,460865,NA,NA,0,Florida,Florida,78
+2010-11,2011-02-24,1010968,364,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1420,Georgia,460,460,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,78
+2010-11,2011-02-24,1010968,367,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,NA,NA,451,451,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,368,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,49,3,1407,Florida,451,451,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,79
+2010-11,2011-02-24,1010968,370,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,50,2,1420,Georgia,450,450,1, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,79
+2010-11,2011-02-24,1010968,371,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,51,1,1420,Georgia,450,450,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,79
+2010-11,2011-02-24,1010968,372,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,51,1,1420,Georgia,450,450,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,373,0,2,Florida,Georgia,Gators,Bulldogs,4,1,52,51,1,1420,Georgia,450,450,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,375,0,2,Florida,Georgia,Gators,Bulldogs,4,1,55,51,4,1407,Florida,434,434,16, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.3,18.049999999999997,512752,NA,NA,0,Florida,Georgia,80
+2010-11,2011-02-24,1010968,379,0,2,Florida,Georgia,Gators,Bulldogs,4,1,55,53,2,1420,Georgia,405,405,29, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,81
+2010-11,2011-02-24,1010968,380,0,2,Florida,Georgia,Gators,Bulldogs,4,1,58,53,5,1407,Florida,395,395,10, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.2,24.25,512752,NA,NA,0,Florida,Georgia,82
+2010-11,2011-02-24,1010968,385,0,2,Florida,Georgia,Gators,Bulldogs,4,1,58,53,5,1407,Florida,368,368,27,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,387,0,2,Florida,Georgia,Gators,Bulldogs,4,1,61,53,8,1407,Florida,349,349,19, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,17.299999999999997,29.049999999999997,512752,NA,NA,0,Florida,Georgia,83
+2010-11,2011-02-24,1010968,388,0,2,Florida,Georgia,Gators,Bulldogs,4,1,61,53,8,1420,Georgia,323,323,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,43.2,17.65,411373,NA,NA,0,Georgia,Georgia,84
+2010-11,2011-02-24,1010968,389,0,2,Florida,Georgia,Gators,Bulldogs,4,1,61,53,8,1407,Florida,323,323,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,84
+2010-11,2011-02-24,1010968,397,0,2,Florida,Georgia,Gators,Bulldogs,4,1,63,53,10,1407,Florida,309,309,14, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,400602,NA,NA,0,Florida,Georgia,85
+2010-11,2011-02-24,1010968,398,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,53,10,1420,Georgia,309,309,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,399,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,53,10,1420,Georgia,309,309,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,401,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,53,10,1420,Georgia,279,279,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,466775,NA,NA,0,Georgia,Georgia,86
+2010-11,2011-02-24,1010968,402,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,53,10,1420,Georgia,279,279,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,86
+2010-11,2011-02-24,1010968,403,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,55,8,1420,Georgia,275,275,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Florida,86
+2010-11,2011-02-24,1010968,404,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,55,8,1407,Florida,261,261,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.8,28.450000000000003,512752,NA,NA,0,Florida,Florida,87
+2010-11,2011-02-24,1010968,405,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,55,8,1420,Georgia,261,261,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,87
+2010-11,2011-02-24,1010968,407,0,2,Florida,Georgia,Gators,Bulldogs,4,0,63,57,6,1420,Georgia,252,252,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,466777,NA,NA,0,Georgia,Florida,88
+2010-11,2011-02-24,1010968,409,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,1407,Florida,251,251,1,Gators take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,415,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,1407,Florida,247,247,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,421.5,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,1407,Florida,223,223,24, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42,18.25,460865,NA,NA,0,Florida,Florida,89
+2010-11,2011-02-24,1010968,424.75,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,1420,Georgia,223,223,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,89
+2010-11,2011-02-24,1010968,428,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,NA,NA,218,218,5,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,444,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,57,6,1407,Florida,217,217,1,Personal foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,90
+2010-11,2011-02-24,1010968,445,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,58,5,1420,Georgia,217,217,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,90
+2010-11,2011-02-24,1010968,446,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1420,Georgia,217,217,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,90
+2010-11,2011-02-24,1010968,449,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1407,Florida,207,207,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-02-24,1010968,467,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1407,Florida,188,188,19, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,91
+2010-11,2011-02-24,1010968,469,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1420,Georgia,188,188,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,91
+2010-11,2011-02-24,1010968,470,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1407,Florida,188,188,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,91
+2010-11,2011-02-24,1010968,471,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1420,Georgia,188,188,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,91
+2010-11,2011-02-24,1010968,480,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1407,Florida,158,158,30,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,92
+2010-11,2011-02-24,1010968,481,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1420,Georgia,158,158,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,92
+2010-11,2011-02-24,1010968,483,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1420,Georgia,158,158,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,92
+2010-11,2011-02-24,1010968,484,0,2,Florida,Georgia,Gators,Bulldogs,3,0,63,59,4,1407,Florida,158,158,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,92
+2010-11,2011-02-24,1010968,489,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,141,141,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400599,NA,NA,0,Florida,Georgia,93
+2010-11,2011-02-24,1010968,490,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,124,124,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,6.450000000000003,460865,NA,NA,0,Florida,Florida,94
+2010-11,2011-02-24,1010968,491,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,124,124,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,94
+2010-11,2011-02-24,1010968,492,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1420,Georgia,117,117,7, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,7,23.45,466774,NA,NA,0,Georgia,Georgia,94
+2010-11,2011-02-24,1010968,493,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,117,117,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,94
+2010-11,2011-02-24,1010968,495,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,101,101,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,512752,NA,NA,0,Florida,Florida,95
+2010-11,2011-02-24,1010968,496,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1407,Florida,101,101,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,95
+2010-11,2011-02-24,1010968,498,0,2,Florida,Georgia,Gators,Bulldogs,3,0,65,59,6,1420,Georgia,100,100,1,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,95
+2010-11,2011-02-24,1010968,499,0,2,Florida,Georgia,Gators,Bulldogs,3,0,66,59,7,1407,Florida,100,100,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,95
+2010-11,2011-02-24,1010968,500,0,2,Florida,Georgia,Gators,Bulldogs,3,0,67,59,8,1407,Florida,100,100,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,95
+2010-11,2011-02-24,1010968,506,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1407,Florida,79,79,21, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-24,1010968,507,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1420,Georgia,79,79,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-24,1010968,508,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1407,Florida,79,79,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,96
+2010-11,2011-02-24,1010968,509,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1420,Georgia,79,79,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,96
+2010-11,2011-02-24,1010968,511,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1420,Georgia,75,75,4, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.5,25.15,466775,NA,NA,0,Georgia,Georgia,97
+2010-11,2011-02-24,1010968,512,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1407,Florida,75,75,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,97
+2010-11,2011-02-24,1010968,514,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1420,Georgia,63,63,12, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,24,16.25,466777,NA,NA,0,Georgia,Georgia,98
+2010-11,2011-02-24,1010968,515,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,59,9,1420,Georgia,63,63,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,98
+2010-11,2011-02-24,1010968,516,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,61,7,1420,Georgia,62,62,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,466775,NA,NA,0,Georgia,Florida,98
+2010-11,2011-02-24,1010968,517,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,62,6,1420,Georgia,62,62,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,99
+2010-11,2011-02-24,1010968,518,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,62,6,1407,Florida,62,62,0,Shooting foul committed by Gators.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,99
+2010-11,2011-02-24,1010968,527,0,2,Florida,Georgia,Gators,Bulldogs,3,0,68,62,6,1420,Georgia,53,53,9,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,99
+2010-11,2011-02-24,1010968,528,0,2,Florida,Georgia,Gators,Bulldogs,3,0,69,62,7,1407,Florida,53,53,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,99
+2010-11,2011-02-24,1010968,529,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1407,Florida,53,53,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,99
+2010-11,2011-02-24,1010968,532,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,39,39,14, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,36.2,27.45,466774,NA,NA,0,Georgia,Georgia,100
+2010-11,2011-02-24,1010968,533,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,39,39,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Georgia,100
+2010-11,2011-02-24,1010968,537,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,36,36,3, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,17.2,28.85,466777,NA,NA,0,Georgia,Georgia,100
+2010-11,2011-02-24,1010968,538,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1407,Florida,36,36,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,100
+2010-11,2011-02-24,1010968,540,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1407,Florida,35,35,1, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,101
+2010-11,2011-02-24,1010968,541,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,35,35,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,101
+2010-11,2011-02-24,1010968,544,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,33,33,2,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,102
+2010-11,2011-02-24,1010968,552,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,26,26,7, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14.2,16.65,466775,NA,NA,0,Georgia,Georgia,102
+2010-11,2011-02-24,1010968,553,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1407,Florida,26,26,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,102
+2010-11,2011-02-24,1010968,555,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1407,Florida,25,25,1, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,103
+2010-11,2011-02-24,1010968,557,0,2,Florida,Georgia,Gators,Bulldogs,3,0,70,62,8,1420,Georgia,25,25,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,103
+2010-11,2011-02-24,1010968,558,0,2,Florida,Georgia,Gators,Bulldogs,3,0,71,62,9,1407,Florida,25,25,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Georgia,103
+2010-11,2011-02-24,1010968,560,0,2,Florida,Georgia,Gators,Bulldogs,3,0,71,62,9,1420,Georgia,18,18,7, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.8,23.65,466774,NA,NA,0,Georgia,Georgia,104
+2010-11,2011-02-24,1010968,561,0,2,Florida,Georgia,Gators,Bulldogs,3,0,71,62,9,1407,Florida,18,18,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Georgia,Florida,104
+2010-11,2011-02-24,1010968,565,0,2,Florida,Georgia,Gators,Bulldogs,3,0,71,62,9,NA,NA,0,0,18,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-02-24,1010968,566,0,2,Florida,Georgia,Gators,Bulldogs,3,0,71,62,9,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Florida,Florida,NA

@@ -1,0 +1,288 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-29,908051,1,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Belmont,NA
+2009-10,2009-12-29,908051,3,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,0,0,0,1311,Belmont,2372,1172,28, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,34.5,18.75,504523,NA,NA,0,Belmont,Belmont,1
+2009-10,2009-12-29,908051,4,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,0,0,0,1456,Kansas,2372,1172,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,1
+2009-10,2009-12-29,908051,7,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,0,0,0,1311,Belmont,2351,1151,21,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,2
+2009-10,2009-12-29,908051,27,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,2,0,2,1456,Kansas,2317,1117,34, makes a jump shot from 20 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,8.799999999999997,16.650000000000006,330350,NA,NA,0,Kansas,Belmont,2
+2009-10,2009-12-29,908051,30,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,2,0,2,1311,Belmont,2298,1098,19, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,9.55,504525,NA,NA,0,Belmont,Belmont,3
+2009-10,2009-12-29,908051,31,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,2,0,2,1456,Kansas,2298,1098,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,3
+2009-10,2009-12-29,908051,40,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,2,0,2,1311,Belmont,2295,1095,3,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,4
+2009-10,2009-12-29,908051,41,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,3,0,3,1456,Kansas,2295,1095,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,4
+2009-10,2009-12-29,908051,42,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2295,1095,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,4
+2009-10,2009-12-29,908051,45,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2288,1088,7,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,5
+2009-10,2009-12-29,908051,47,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1311,Belmont,2273,1073,15, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,25.95,302291,NA,NA,0,Belmont,Belmont,5
+2009-10,2009-12-29,908051,48,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2273,1073,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,5
+2009-10,2009-12-29,908051,52,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2260,1060,13,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,6
+2009-10,2009-12-29,908051,53,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1311,Belmont,2260,1060,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,6
+2009-10,2009-12-29,908051,55,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2260,1060,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,56,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1311,Belmont,2260,1060,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,6
+2009-10,2009-12-29,908051,57,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2260,1060,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,6
+2009-10,2009-12-29,908051,60,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,4,0,4,1456,Kansas,2256,1056,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,74,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1456,Kansas,2234,1034,22, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.200000000000003,9.150000000000006,513058,NA,NA,0,Kansas,Belmont,7
+2009-10,2009-12-29,908051,78,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2210,1010,24, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458843,NA,NA,0,Belmont,Belmont,8
+2009-10,2009-12-29,908051,81,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2205,1005,5, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,16.25,504523,NA,NA,0,Belmont,Belmont,8
+2009-10,2009-12-29,908051,82,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1456,Kansas,2205,1005,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,8
+2009-10,2009-12-29,908051,85,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1456,Kansas,2187,987,18, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10,21.349999999999994,513058,NA,NA,0,Kansas,Kansas,9
+2009-10,2009-12-29,908051,86,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2187,987,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,9
+2009-10,2009-12-29,908051,87,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1456,Kansas,2187,987,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,89,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2157,957,30, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,12.95,458843,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,90,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2157,957,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,91,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2151,951,6, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,11.25,302291,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,92,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2151,951,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,93,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1311,Belmont,2147,947,4, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,22.2,12.25,458843,NA,NA,0,Belmont,Belmont,10
+2009-10,2009-12-29,908051,94,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,7,0,7,1456,Kansas,2147,947,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,10
+2009-10,2009-12-29,908051,95,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,9,0,9,1456,Kansas,2139,939,8, makes a jump shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28,10.650000000000006,469089,NA,NA,0,Kansas,Belmont,11
+2009-10,2009-12-29,908051,96,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,9,0,9,1311,Belmont,2130,930,9, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,26.7,12.25,458843,NA,NA,0,Belmont,Belmont,12
+2009-10,2009-12-29,908051,97,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,9,0,9,1456,Kansas,2130,930,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,12
+2009-10,2009-12-29,908051,98,0,1,Kansas,Belmont,Jayhawks,Bruins,4,4,11,0,11,1456,Kansas,2121,921,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,469089,NA,NA,0,Kansas,Belmont,13
+2009-10,2009-12-29,908051,104,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,0,11,1311,Belmont,2117,917,4,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,109,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,0,11,1311,Belmont,2104,904,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,5.25,458844,NA,NA,0,Belmont,Belmont,14
+2009-10,2009-12-29,908051,110,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,0,11,1456,Kansas,2104,904,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,14
+2009-10,2009-12-29,908051,111,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,2084,884,20, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.2,10.45,458842,NA,NA,0,Belmont,Kansas,15
+2009-10,2009-12-29,908051,114,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,2070,870,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,15.349999999999994,330350,NA,NA,0,Kansas,Kansas,16
+2009-10,2009-12-29,908051,116,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,NA,NA,2070,870,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,118,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,2053,853,17, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,7.75,513058,NA,NA,0,Kansas,Kansas,16
+2009-10,2009-12-29,908051,119,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,2053,853,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,16
+2009-10,2009-12-29,908051,120,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,2037,837,16, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,8.95,458844,NA,NA,0,Belmont,Belmont,17
+2009-10,2009-12-29,908051,121,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,2037,837,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,17
+2009-10,2009-12-29,908051,122,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,2024,824,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,10.200000000000003,14.75,330353,NA,NA,0,Kansas,Kansas,18
+2009-10,2009-12-29,908051,123,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,2024,824,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,18
+2009-10,2009-12-29,908051,124,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,2014,814,10, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,42.5,17.25,336785,NA,NA,0,Belmont,Belmont,19
+2009-10,2009-12-29,908051,125,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,2014,814,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,19
+2009-10,2009-12-29,908051,127,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,1993,793,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,330353,NA,NA,0,Kansas,Kansas,20
+2009-10,2009-12-29,908051,128,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,1993,793,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,20
+2009-10,2009-12-29,908051,129,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1311,Belmont,1993,793,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,20
+2009-10,2009-12-29,908051,130,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,1993,793,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,20
+2009-10,2009-12-29,908051,132,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,11,3,8,1456,Kansas,1993,793,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,133,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,3,9,1456,Kansas,1993,793,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,20
+2009-10,2009-12-29,908051,135,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1311,Belmont,1978,778,15, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,19.8,9.85,504523,NA,NA,0,Belmont,Kansas,21
+2009-10,2009-12-29,908051,136,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1456,Kansas,1955,755,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469085,NA,NA,0,Kansas,Kansas,22
+2009-10,2009-12-29,908051,137,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1456,Kansas,1955,755,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,22
+2009-10,2009-12-29,908051,138,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1456,Kansas,1946,746,9,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,22
+2009-10,2009-12-29,908051,139,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1456,Kansas,1943,743,3, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.5,9.349999999999994,469085,NA,NA,0,Kansas,Kansas,22
+2009-10,2009-12-29,908051,140,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1311,Belmont,1943,743,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,22
+2009-10,2009-12-29,908051,146,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1311,Belmont,1927,727,16, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,30,9.15,399615,NA,NA,0,Belmont,Belmont,23
+2009-10,2009-12-29,908051,147,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,5,7,1311,Belmont,1927,727,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,23
+2009-10,2009-12-29,908051,147.25,0,1,Kansas,Belmont,Jayhawks,Bruins,4,3,12,7,5,1311,Belmont,1924,724,3, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,22.5,7.55,411087,NA,NA,0,Belmont,Kansas,23
+2009-10,2009-12-29,908051,147.5,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,7,5,1456,Kansas,1923,723,1,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,165,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,7,5,1456,Kansas,1908,708,15, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,45.2,8.75,513058,NA,NA,0,Kansas,Kansas,24
+2009-10,2009-12-29,908051,166,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,7,5,1311,Belmont,1908,708,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,24
+2009-10,2009-12-29,908051,169,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,7,5,1456,Kansas,1903,703,5,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,25
+2009-10,2009-12-29,908051,170,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,7,5,NA,NA,1903,703,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,172,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,9,3,1311,Belmont,1898,698,5, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,302291,NA,NA,0,Belmont,Kansas,25
+2009-10,2009-12-29,908051,175,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,9,3,1456,Kansas,1880,680,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,17.650000000000006,469089,NA,NA,0,Kansas,Kansas,26
+2009-10,2009-12-29,908051,176,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,9,3,1456,Kansas,1880,680,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,26
+2009-10,2009-12-29,908051,177,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,12,9,3,1311,Belmont,1880,680,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,26
+2009-10,2009-12-29,908051,179,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,13,9,4,1456,Kansas,1880,680,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,26
+2009-10,2009-12-29,908051,180,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,9,5,1456,Kansas,1880,680,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,26
+2009-10,2009-12-29,908051,184,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,9,5,1311,Belmont,1865,665,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,28.8,15.65,504523,NA,NA,0,Belmont,Belmont,27
+2009-10,2009-12-29,908051,187,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,12,2,1311,Belmont,1857,657,8, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.800000000000001,7.55,504523,NA,NA,0,Belmont,Kansas,27
+2009-10,2009-12-29,908051,190,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,12,2,1456,Kansas,1838,638,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.700000000000003,26.950000000000003,513058,NA,NA,0,Kansas,Belmont,28
+2009-10,2009-12-29,908051,198,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,12,2,1311,Belmont,1802,602,36, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.3,8.95,504525,NA,NA,0,Belmont,Belmont,29
+2009-10,2009-12-29,908051,199,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,12,2,1311,Belmont,1802,602,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,29
+2009-10,2009-12-29,908051,202,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,12,2,1456,Kansas,1798,598,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,204,0,1,Kansas,Belmont,Jayhawks,Bruins,3,3,14,15,-1,1311,Belmont,1786,586,12, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43.2,14.35,336785,NA,NA,0,Belmont,Kansas,29
+2009-10,2009-12-29,908051,210,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,14,15,-1,1456,Kansas,1781,581,5,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,211,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,14,15,-1,1456,Kansas,1781,581,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,214,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,14,15,-1,1456,Kansas,1768,568,13,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,219,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,16,15,1,1456,Kansas,1753,553,15, makes a hook shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,31,7.349999999999994,398443,NA,NA,0,Kansas,Belmont,30
+2009-10,2009-12-29,908051,221,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,16,15,1,1311,Belmont,1733,533,20, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,18.2,27.45,504523,NA,NA,0,Belmont,Belmont,31
+2009-10,2009-12-29,908051,222,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,16,15,1,1311,Belmont,1733,533,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,31
+2009-10,2009-12-29,908051,223,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,16,15,1,1311,Belmont,1733,533,0, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.85,302291,NA,NA,0,Belmont,Belmont,31
+2009-10,2009-12-29,908051,224,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,16,15,1,1456,Kansas,1733,533,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,31
+2009-10,2009-12-29,908051,226,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,19,15,4,1456,Kansas,1731,531,2, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35.8,25.75,330350,NA,NA,0,Kansas,Belmont,32
+2009-10,2009-12-29,908051,236,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,19,15,4,1311,Belmont,1709,509,22, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,7.15,302291,NA,NA,0,Belmont,Belmont,33
+2009-10,2009-12-29,908051,237,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,19,15,4,1311,Belmont,1709,509,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,33
+2009-10,2009-12-29,908051,238,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,21,15,6,1456,Kansas,1684,484,25, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469083,NA,NA,0,Kansas,Belmont,33
+2009-10,2009-12-29,908051,242,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,21,15,6,1311,Belmont,1670,470,14,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,34
+2009-10,2009-12-29,908051,243,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,21,15,6,NA,NA,1670,470,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,250,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,21,15,6,1311,Belmont,1639,439,31,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,35
+2009-10,2009-12-29,908051,251,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,21,15,6,1456,Kansas,1639,439,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,35
+2009-10,2009-12-29,908051,253,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,15,7,1456,Kansas,1639,439,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,35
+2009-10,2009-12-29,908051,256,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,15,7,1311,Belmont,1607,407,32, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.5,24.95,504526,NA,NA,0,Belmont,Belmont,36
+2009-10,2009-12-29,908051,257,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,15,7,1456,Kansas,1607,407,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,36
+2009-10,2009-12-29,908051,259,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,18,4,1311,Belmont,1599,399,8, makes a 3-point jump shot from 20 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.5,10.65,458843,NA,NA,0,Belmont,Kansas,37
+2009-10,2009-12-29,908051,260,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,18,4,1456,Kansas,1571,371,28, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,6.650000000000006,469085,NA,NA,0,Kansas,Kansas,38
+2009-10,2009-12-29,908051,261,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,18,4,1311,Belmont,1571,371,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,38
+2009-10,2009-12-29,908051,262,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,18,4,1311,Belmont,1563,363,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,458842,NA,NA,0,Belmont,Belmont,39
+2009-10,2009-12-29,908051,263,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,22,18,4,1456,Kansas,1563,363,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,39
+2009-10,2009-12-29,908051,264,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,18,7,1456,Kansas,1552,352,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,36.8,24.349999999999994,330353,NA,NA,0,Kansas,Belmont,40
+2009-10,2009-12-29,908051,265,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,18,7,1456,Kansas,1533,333,19, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,14.299999999999997,17.049999999999997,330353,NA,NA,0,Kansas,Kansas,41
+2009-10,2009-12-29,908051,266,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,18,7,1311,Belmont,1533,333,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,41
+2009-10,2009-12-29,908051,269,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,18,7,1456,Kansas,1521,321,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,270,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,18,7,1456,Kansas,1521,321,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,272,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,25,21,4,1311,Belmont,1514,314,7, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.8,5.65,504523,NA,NA,0,Belmont,Kansas,42
+2009-10,2009-12-29,908051,273,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,27,21,6,1456,Kansas,1491,291,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469085,NA,NA,0,Kansas,Belmont,43
+2009-10,2009-12-29,908051,278,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,21,8,1456,Kansas,1460,260,31, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513057,NA,NA,0,Kansas,Belmont,44
+2009-10,2009-12-29,908051,281,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,21,8,1311,Belmont,1442,242,18,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,45
+2009-10,2009-12-29,908051,282,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,21,8,1456,Kansas,1442,242,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,286,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,21,8,1456,Kansas,1422,222,20,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,46
+2009-10,2009-12-29,908051,287,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,21,8,NA,NA,1422,222,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,291,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,23,6,1311,Belmont,1395,195,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399615,NA,NA,0,Belmont,Belmont,47
+2009-10,2009-12-29,908051,292,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,23,6,1456,Kansas,1395,195,0,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,47
+2009-10,2009-12-29,908051,293,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,24,5,1311,Belmont,1395,195,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,47
+2009-10,2009-12-29,908051,295,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,24,5,1456,Kansas,1378,178,17, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,13.700000000000003,14.349999999999994,469085,NA,NA,0,Kansas,Kansas,48
+2009-10,2009-12-29,908051,296,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,24,5,1311,Belmont,1378,178,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,48
+2009-10,2009-12-29,908051,301,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,24,5,1456,Kansas,1372,172,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,304,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,24,5,1456,Kansas,1369,169,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,306,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,29,26,3,1311,Belmont,1353,153,16, makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,28,13.95,458843,NA,NA,0,Belmont,Kansas,49
+2009-10,2009-12-29,908051,307,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,32,26,6,1456,Kansas,1334,134,19, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40,21.150000000000006,398441,NA,NA,0,Kansas,Belmont,50
+2009-10,2009-12-29,908051,314,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,34,26,8,1456,Kansas,1308,108,26, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.2,23.849999999999994,398443,NA,NA,0,Kansas,Belmont,51
+2009-10,2009-12-29,908051,315,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,34,26,8,1311,Belmont,1290,90,18, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,29.3,28.65,399615,NA,NA,0,Belmont,Belmont,52
+2009-10,2009-12-29,908051,316,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,34,26,8,1456,Kansas,1290,90,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,52
+2009-10,2009-12-29,908051,318,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1277,77,13, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469089,NA,NA,0,Kansas,Kansas,53
+2009-10,2009-12-29,908051,322,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1311,Belmont,1265,65,12,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,53
+2009-10,2009-12-29,908051,323,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1265,65,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,53
+2009-10,2009-12-29,908051,324,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1311,Belmont,1265,65,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,53
+2009-10,2009-12-29,908051,341,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1235,35,30, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,16.5,6.25,398443,NA,NA,0,Kansas,Kansas,54
+2009-10,2009-12-29,908051,342,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1235,35,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,54
+2009-10,2009-12-29,908051,343,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1222,22,13, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,24,11.049999999999997,513058,NA,NA,0,Kansas,Kansas,54
+2009-10,2009-12-29,908051,344,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1311,Belmont,1222,22,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,54
+2009-10,2009-12-29,908051,346,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1311,Belmont,1205,5,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,9.35,504523,NA,NA,0,Belmont,Kansas,55
+2009-10,2009-12-29,908051,348,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1205,5,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,350,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,1456,Kansas,1200,0,5, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,30.549999999999997,330350,NA,NA,0,Kansas,Kansas,56
+2009-10,2009-12-29,908051,352,0,1,Kansas,Belmont,Jayhawks,Bruins,2,3,36,26,10,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,353,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,36,26,10,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Kansas,56
+2009-10,2009-12-29,908051,355,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1456,Kansas,1175,1175,25, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398443,NA,NA,0,Kansas,Belmont,57
+2009-10,2009-12-29,908051,356,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1311,Belmont,1134,1134,41, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,14.75,336785,NA,NA,0,Belmont,Belmont,58
+2009-10,2009-12-29,908051,357,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1456,Kansas,1134,1134,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,58
+2009-10,2009-12-29,908051,358,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1456,Kansas,1124,1124,10, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,26.2,25.549999999999997,398443,NA,NA,0,Kansas,Kansas,59
+2009-10,2009-12-29,908051,359,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1311,Belmont,1124,1124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,59
+2009-10,2009-12-29,908051,360,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1311,Belmont,1111,1111,13, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,26.7,12.95,458843,NA,NA,0,Belmont,Belmont,60
+2009-10,2009-12-29,908051,361,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1456,Kansas,1111,1111,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,60
+2009-10,2009-12-29,908051,364,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,38,26,12,1311,Belmont,1094,1094,17,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,61
+2009-10,2009-12-29,908051,367,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,40,26,14,1456,Kansas,1076,1076,18, makes a jump shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,19.5,10.450000000000003,469089,NA,NA,0,Kansas,Belmont,61
+2009-10,2009-12-29,908051,371,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,40,26,14,1456,Kansas,1046,1046,30,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,62
+2009-10,2009-12-29,908051,379,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,40,26,14,1311,Belmont,1017,1017,29, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.2,15.55,458843,NA,NA,0,Belmont,Belmont,62
+2009-10,2009-12-29,908051,380,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,40,26,14,1456,Kansas,1017,1017,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,62
+2009-10,2009-12-29,908051,381,0,2,Kansas,Belmont,Jayhawks,Bruins,4,4,42,26,16,1456,Kansas,1009,1009,8, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,17.200000000000003,22.450000000000003,469083,NA,NA,0,Kansas,Belmont,63
+2009-10,2009-12-29,908051,383,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,42,26,16,1311,Belmont,997,997,12,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,385,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,44,26,18,1456,Kansas,965,965,32, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,17.799999999999997,20.549999999999997,513058,NA,NA,0,Kansas,Belmont,64
+2009-10,2009-12-29,908051,388,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,44,26,18,1311,Belmont,945,945,20, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,18.95,504526,NA,NA,0,Belmont,Kansas,65
+2009-10,2009-12-29,908051,390,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,44,26,18,1311,Belmont,945,945,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-12-29,908051,391,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,44,26,18,NA,NA,945,945,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,395,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,46,26,20,1456,Kansas,924,924,21, makes a jump shot from 5 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,21.2,8.349999999999994,469089,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-12-29,908051,398,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,46,26,20,1311,Belmont,899,899,25,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-12-29,908051,399,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,26,21,1456,Kansas,899,899,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-12-29,908051,400,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,26,21,1456,Kansas,899,899,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,66
+2009-10,2009-12-29,908051,401,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,26,21,1311,Belmont,899,899,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,66
+2009-10,2009-12-29,908051,406,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,26,21,1311,Belmont,876,876,23, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18.7,9.55,302291,NA,NA,0,Belmont,Belmont,67
+2009-10,2009-12-29,908051,407,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,26,21,1311,Belmont,876,876,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,67
+2009-10,2009-12-29,908051,408,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,47,28,19,1311,Belmont,871,871,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,302291,NA,NA,0,Belmont,Kansas,67
+2009-10,2009-12-29,908051,410,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1456,Kansas,862,862,9, makes a jump shot from 18 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,16.799999999999997,21.150000000000006,469089,NA,NA,0,Kansas,Belmont,68
+2009-10,2009-12-29,908051,412,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1311,Belmont,851,851,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,24.7,29.85,302291,NA,NA,0,Belmont,Belmont,69
+2009-10,2009-12-29,908051,413,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1456,Kansas,851,851,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,69
+2009-10,2009-12-29,908051,416,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1456,Kansas,838,838,13, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,37.2,23.849999999999994,513058,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,417,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1456,Kansas,838,838,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,418,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,49,28,21,1311,Belmont,838,838,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,419,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,838,838,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,420,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,838,838,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,421,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,838,838,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,422,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,838,838,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,423,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,838,838,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,70
+2009-10,2009-12-29,908051,428,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,835,835,3, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,31.2,9.650000000000006,513057,NA,NA,0,Kansas,Belmont,70
+2009-10,2009-12-29,908051,430,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,835,835,0,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,71
+2009-10,2009-12-29,908051,431,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,835,835,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,437,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1311,Belmont,813,813,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,33.7,27.45,302291,NA,NA,0,Belmont,Belmont,71
+2009-10,2009-12-29,908051,438,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,813,813,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,71
+2009-10,2009-12-29,908051,439,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,806,806,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469083,NA,NA,0,Kansas,Kansas,72
+2009-10,2009-12-29,908051,440,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1311,Belmont,806,806,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,72
+2009-10,2009-12-29,908051,441,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1311,Belmont,791,791,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10,21.85,504526,NA,NA,0,Belmont,Belmont,73
+2009-10,2009-12-29,908051,442,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,791,791,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,73
+2009-10,2009-12-29,908051,445,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1311,Belmont,783,783,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,504523,NA,NA,0,Belmont,Belmont,74
+2009-10,2009-12-29,908051,446,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,50,28,22,1456,Kansas,783,783,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,74
+2009-10,2009-12-29,908051,452,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1456,Kansas,779,779,4, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513057,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-12-29,908051,453,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1311,Belmont,779,779,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-12-29,908051,456,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1456,Kansas,779,779,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-12-29,908051,457,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1456,Kansas,779,779,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-12-29,908051,463,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1456,Kansas,765,765,14, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,44.3,10.25,398441,NA,NA,0,Kansas,Kansas,75
+2009-10,2009-12-29,908051,464,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,28,24,1311,Belmont,765,765,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,75
+2009-10,2009-12-29,908051,465,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1311,Belmont,745,745,20, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,458844,NA,NA,0,Belmont,Kansas,76
+2009-10,2009-12-29,908051,466,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1456,Kansas,727,727,18, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,12.049999999999997,469083,NA,NA,0,Kansas,Kansas,77
+2009-10,2009-12-29,908051,467,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1311,Belmont,727,727,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,77
+2009-10,2009-12-29,908051,471,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1456,Kansas,722,722,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,472.5,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1311,Belmont,717,717,5, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,4.05,336785,NA,NA,0,Belmont,Belmont,78
+2009-10,2009-12-29,908051,473.25,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1456,Kansas,717,717,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,78
+2009-10,2009-12-29,908051,475.625,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,1311,Belmont,717,717,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,79
+2009-10,2009-12-29,908051,477.3125,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,52,30,22,NA,NA,717,717,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,490,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,54,30,24,1456,Kansas,689,689,28, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,21.3,18.25,330350,NA,NA,0,Kansas,Belmont,79
+2009-10,2009-12-29,908051,493,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,30,26,1456,Kansas,664,664,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398441,NA,NA,0,Kansas,Belmont,80
+2009-10,2009-12-29,908051,496,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,30,26,1456,Kansas,643,643,21,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,81
+2009-10,2009-12-29,908051,497,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,31,25,1311,Belmont,643,643,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,81
+2009-10,2009-12-29,908051,498,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,31,25,1311,Belmont,643,643,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,81
+2009-10,2009-12-29,908051,499,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,31,25,1456,Kansas,643,643,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,81
+2009-10,2009-12-29,908051,506,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,31,25,1456,Kansas,619,619,24, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,8.549999999999997,457334,NA,NA,0,Kansas,Belmont,82
+2009-10,2009-12-29,908051,515,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,610,610,9, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,21.2,8.35,504525,NA,NA,0,Belmont,Belmont,83
+2009-10,2009-12-29,908051,516,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1456,Kansas,610,610,0,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,83
+2009-10,2009-12-29,908051,517,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,610,610,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,83
+2009-10,2009-12-29,908051,522,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,609,609,1,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,84
+2009-10,2009-12-29,908051,523,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1456,Kansas,609,609,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,84
+2009-10,2009-12-29,908051,524,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,609,609,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,84
+2009-10,2009-12-29,908051,526,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,599,599,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,504525,NA,NA,0,Belmont,Belmont,85
+2009-10,2009-12-29,908051,527,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,33,23,1311,Belmont,599,599,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,85
+2009-10,2009-12-29,908051,528,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,56,35,21,1311,Belmont,591,591,8, makes a jump shot from 4 feet out.,made,FALSE,FALSE,Jump Shot,24.7,8.95,458843,NA,NA,0,Belmont,Kansas,85
+2009-10,2009-12-29,908051,529,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,58,35,23,1456,Kansas,574,574,17, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,18.3,22.25,330350,NA,NA,0,Kansas,Belmont,86
+2009-10,2009-12-29,908051,533,0,2,Kansas,Belmont,Jayhawks,Bruins,4,3,58,37,21,1311,Belmont,552,552,22, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,34.8,15.65,504523,NA,NA,0,Belmont,Kansas,87
+2009-10,2009-12-29,908051,535,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1456,Kansas,531,531,21,Jayhawks take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,537,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1456,Kansas,524,524,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,17,27.349999999999994,330350,NA,NA,0,Kansas,Kansas,88
+2009-10,2009-12-29,908051,538,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1311,Belmont,524,524,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,88
+2009-10,2009-12-29,908051,541,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1311,Belmont,507,507,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,21.65,411085,NA,NA,0,Belmont,Belmont,89
+2009-10,2009-12-29,908051,544,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1311,Belmont,497,497,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42,20.75,411085,NA,NA,0,Belmont,Belmont,89
+2009-10,2009-12-29,908051,545,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1311,Belmont,497,497,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,89
+2009-10,2009-12-29,908051,552,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,58,37,21,1456,Kansas,489,489,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,554,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,60,37,23,1456,Kansas,483,483,6, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513059,NA,NA,0,Kansas,Belmont,89
+2009-10,2009-12-29,908051,560,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,60,39,21,1311,Belmont,443,443,40, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,20.2,18.45,458842,NA,NA,0,Belmont,Kansas,90
+2009-10,2009-12-29,908051,561,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,62,39,23,1456,Kansas,426,426,17, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513058,NA,NA,0,Kansas,Kansas,91
+2009-10,2009-12-29,908051,564,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,62,39,23,1311,Belmont,415,415,11,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,91
+2009-10,2009-12-29,908051,565,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,62,39,23,1456,Kansas,415,415,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,566,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,63,39,24,1456,Kansas,415,415,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,91
+2009-10,2009-12-29,908051,567,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,63,39,24,1456,Kansas,415,415,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,92
+2009-10,2009-12-29,908051,568,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,63,39,24,1311,Belmont,415,415,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,92
+2009-10,2009-12-29,908051,573,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,63,39,24,1311,Belmont,400,400,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,504525,NA,NA,0,Belmont,Belmont,93
+2009-10,2009-12-29,908051,574,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,63,39,24,1456,Kansas,400,400,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,93
+2009-10,2009-12-29,908051,576,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,65,39,26,1456,Kansas,388,388,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,513059,NA,NA,0,Kansas,Kansas,94
+2009-10,2009-12-29,908051,579,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,65,39,26,1311,Belmont,373,373,15,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,94
+2009-10,2009-12-29,908051,580,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1456,Kansas,373,373,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,94
+2009-10,2009-12-29,908051,581,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1456,Kansas,373,373,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,94
+2009-10,2009-12-29,908051,582,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1311,Belmont,373,373,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,94
+2009-10,2009-12-29,908051,587,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1456,Kansas,367,367,6,Personal foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,95
+2009-10,2009-12-29,908051,589,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1311,Belmont,354,354,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.5,7.75,411085,NA,NA,0,Belmont,Belmont,95
+2009-10,2009-12-29,908051,590,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,39,27,1456,Kansas,354,354,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,95
+2009-10,2009-12-29,908051,593,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1311,Belmont,331,331,23, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,302291,NA,NA,0,Belmont,Kansas,96
+2009-10,2009-12-29,908051,596,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1456,Kansas,311,311,20, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,19.950000000000003,483116,NA,NA,0,Kansas,Kansas,97
+2009-10,2009-12-29,908051,597,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1311,Belmont,311,311,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,97
+2009-10,2009-12-29,908051,598,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1311,Belmont,292,292,19, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16.2,12.25,336785,NA,NA,0,Belmont,Belmont,98
+2009-10,2009-12-29,908051,599,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1456,Kansas,292,292,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,98
+2009-10,2009-12-29,908051,606,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1311,Belmont,260,260,32,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2009-12-29,908051,607,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,66,41,25,1456,Kansas,260,260,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,99
+2009-10,2009-12-29,908051,609,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,67,41,26,1456,Kansas,260,260,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,99
+2009-10,2009-12-29,908051,612,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,67,41,26,1311,Belmont,248,248,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.199999999999999,5.65,504523,NA,NA,0,Belmont,Belmont,100
+2009-10,2009-12-29,908051,613,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,67,41,26,1456,Kansas,248,248,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,100
+2009-10,2009-12-29,908051,616,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,67,41,26,1311,Belmont,245,245,3, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.3,12.45,504523,NA,NA,0,Belmont,Belmont,101
+2009-10,2009-12-29,908051,619,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,67,44,23,1311,Belmont,242,242,3, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,39.2,23.45,458842,NA,NA,0,Belmont,Kansas,101
+2009-10,2009-12-29,908051,620,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,70,44,26,1456,Kansas,228,228,14, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,41.3,18.549999999999997,483116,NA,NA,0,Kansas,Belmont,102
+2009-10,2009-12-29,908051,621,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,70,44,26,1311,Belmont,216,216,12, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10,7.35,458843,NA,NA,0,Belmont,Belmont,103
+2009-10,2009-12-29,908051,622,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,70,44,26,1456,Kansas,216,216,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,103
+2009-10,2009-12-29,908051,624,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,44,28,1456,Kansas,205,205,11, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,513059,NA,NA,0,Kansas,Belmont,104
+2009-10,2009-12-29,908051,628,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,44,28,1456,Kansas,199,199,6,Shooting foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,105
+2009-10,2009-12-29,908051,629,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,44,28,NA,NA,199,199,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,630,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,44,28,1311,Belmont,199,199,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Belmont,105
+2009-10,2009-12-29,908051,632,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,45,27,1311,Belmont,199,199,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,105
+2009-10,2009-12-29,908051,635,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,72,45,27,1456,Kansas,192,192,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,638,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1456,Kansas,185,185,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398443,NA,NA,0,Kansas,Belmont,106
+2009-10,2009-12-29,908051,650,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1311,Belmont,161,161,24, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,4.300000000000001,7.35,411087,NA,NA,0,Belmont,Belmont,107
+2009-10,2009-12-29,908051,651,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1456,Kansas,161,161,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,107
+2009-10,2009-12-29,908051,655,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1456,Kansas,144,144,17,Offensive foul committed by Jayhawks.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,108
+2009-10,2009-12-29,908051,658,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1456,Kansas,133,133,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,661,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,45,29,1456,Kansas,127,127,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-29,908051,666,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,48,26,1311,Belmont,121,121,6, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45.8,8.35,411085,NA,NA,0,Belmont,Kansas,109
+2009-10,2009-12-29,908051,670,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,48,26,1456,Kansas,70,70,51, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398441,NA,NA,0,Kansas,Kansas,110
+2009-10,2009-12-29,908051,671,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,48,26,1311,Belmont,70,70,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Belmont,110
+2009-10,2009-12-29,908051,673,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,74,51,23,1311,Belmont,54,54,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,31.7,28.25,458842,NA,NA,0,Belmont,Kansas,111
+2009-10,2009-12-29,908051,675,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,76,51,25,1456,Kansas,46,46,8, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,457334,NA,NA,0,Kansas,Belmont,112
+2009-10,2009-12-29,908051,678,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,78,51,27,1456,Kansas,32,32,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,483116,NA,NA,0,Kansas,Belmont,113
+2009-10,2009-12-29,908051,685,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,81,51,30,1456,Kansas,13,13,19, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.3,13.950000000000003,483116,NA,NA,0,Kansas,Belmont,114
+2009-10,2009-12-29,908051,686,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,81,51,30,1311,Belmont,3,3,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,31.3,27.45,458842,NA,NA,0,Belmont,Belmont,115
+2009-10,2009-12-29,908051,687,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,81,51,30,1456,Kansas,3,3,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Belmont,Kansas,115
+2009-10,2009-12-29,908051,688,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,81,51,30,NA,NA,0,0,3,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-29,908051,689,0,2,Kansas,Belmont,Jayhawks,Bruins,3,3,81,51,30,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Kansas,Kansas,NA

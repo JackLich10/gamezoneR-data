@@ -1,0 +1,230 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-27,914744,1,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,NA
+2009-10,2009-12-27,914744,5,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,3,0,3,1668,UCLA,2381,1181,19, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,27.8,29.450000000000003,457569,NA,NA,0,UCLA,Delaware State,1
+2009-10,2009-12-27,914744,7,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,3,0,3,1381,Delaware State,2338,1138,43, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,7.75,352505,NA,NA,0,Delaware State,Delaware State,2
+2009-10,2009-12-27,914744,9,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,3,2,1,1381,Delaware State,2306,1106,32, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,38.5,5.65,477664,NA,NA,0,Delaware State,UCLA,2
+2009-10,2009-12-27,914744,11,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,3,2,1,1668,UCLA,2279,1079,27, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,15.299999999999997,17.049999999999997,350583,NA,NA,0,UCLA,Delaware State,3
+2009-10,2009-12-27,914744,12,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,3,2,1,1381,Delaware State,2257,1057,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8.5,13.35,418549,NA,NA,0,Delaware State,UCLA,4
+2009-10,2009-12-27,914744,13,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,2,3,1668,UCLA,2247,1047,10, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,33.2,22.049999999999997,457571,NA,NA,0,UCLA,Delaware State,5
+2009-10,2009-12-27,914744,15,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,2,3,1381,Delaware State,2220,1020,27, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,38.8,17.45,477664,NA,NA,0,Delaware State,Delaware State,6
+2009-10,2009-12-27,914744,17,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,2,3,1668,UCLA,2198,998,22,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,6
+2009-10,2009-12-27,914744,18,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,2,3,1381,Delaware State,2198,998,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,6
+2009-10,2009-12-27,914744,19,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1381,Delaware State,2198,998,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,6
+2009-10,2009-12-27,914744,21,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1668,UCLA,2185,985,13, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,23.450000000000003,457569,NA,NA,0,UCLA,Delaware State,7
+2009-10,2009-12-27,914744,29,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1381,Delaware State,2162,962,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,418549,NA,NA,0,Delaware State,UCLA,8
+2009-10,2009-12-27,914744,37,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,NA,NA,2154,954,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,39,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1668,UCLA,2139,939,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.299999999999997,18.049999999999997,457571,NA,NA,0,UCLA,Delaware State,9
+2009-10,2009-12-27,914744,41,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1381,Delaware State,2108,908,31, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,42.8,9.65,329518,NA,NA,0,Delaware State,UCLA,10
+2009-10,2009-12-27,914744,45,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1381,Delaware State,2078,878,30,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,11
+2009-10,2009-12-27,914744,46,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,5,3,2,1668,UCLA,2078,878,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,11
+2009-10,2009-12-27,914744,47,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,6,3,3,1668,UCLA,2078,878,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,11
+2009-10,2009-12-27,914744,50,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,6,3,3,1381,Delaware State,2071,871,7,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,54,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,6,5,1,1381,Delaware State,2060,860,11, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,19,8.75,304917,NA,NA,0,Delaware State,UCLA,12
+2009-10,2009-12-27,914744,55,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,8,5,3,1668,UCLA,2046,846,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,295435,NA,NA,0,UCLA,Delaware State,13
+2009-10,2009-12-27,914744,60,0,1,UCLA,Delaware State,Bruins,Hornets,4,4,10,5,5,1668,UCLA,2024,824,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457571,NA,NA,0,UCLA,Delaware State,14
+2009-10,2009-12-27,914744,62,0,1,UCLA,Delaware State,Bruins,Hornets,4,3,10,5,5,1381,Delaware State,2023,823,1,Hornets take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,64,0,1,UCLA,Delaware State,Bruins,Hornets,4,3,10,5,5,1381,Delaware State,1995,795,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,352505,NA,NA,0,Delaware State,UCLA,15
+2009-10,2009-12-27,914744,65,0,1,UCLA,Delaware State,Bruins,Hornets,4,3,10,5,5,1668,UCLA,1984,784,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.3,23.650000000000006,295435,NA,NA,0,UCLA,Delaware State,16
+2009-10,2009-12-27,914744,67,0,1,UCLA,Delaware State,Bruins,Hornets,4,3,10,8,2,1381,Delaware State,1975,775,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,18.5,27.85,352505,NA,NA,0,Delaware State,UCLA,17
+2009-10,2009-12-27,914744,69,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,10,8,2,1668,UCLA,1973,773,2,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,72,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,10,8,2,1381,Delaware State,1967,767,6,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,18
+2009-10,2009-12-27,914744,75,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,10,8,2,1668,UCLA,1961,761,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,77,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1668,UCLA,1960,760,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513492,NA,NA,0,UCLA,Delaware State,18
+2009-10,2009-12-27,914744,79,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1381,Delaware State,1929,729,31, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,19.8,11.25,352505,NA,NA,0,Delaware State,UCLA,19
+2009-10,2009-12-27,914744,81,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1668,UCLA,1923,723,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,UCLA,20
+2009-10,2009-12-27,914744,89,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,NA,NA,1915,715,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,92,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1668,UCLA,1912,712,3, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,15.150000000000006,350583,NA,NA,0,UCLA,UCLA,20
+2009-10,2009-12-27,914744,93,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1668,UCLA,1901,701,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,95,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,8,4,1668,UCLA,1899,699,2, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,22.5,28.849999999999994,513492,NA,NA,0,UCLA,Delaware State,20
+2009-10,2009-12-27,914744,98,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,10,2,1381,Delaware State,1876,676,23, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,26.5,12.25,352505,NA,NA,0,Delaware State,UCLA,21
+2009-10,2009-12-27,914744,100,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,10,2,1668,UCLA,1839,639,37,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,101,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,12,10,2,1381,Delaware State,1839,639,0,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,22
+2009-10,2009-12-27,914744,102,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,13,10,3,1668,UCLA,1839,639,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,22
+2009-10,2009-12-27,914744,103,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,14,10,4,1668,UCLA,1839,639,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,22
+2009-10,2009-12-27,914744,104,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,14,10,4,1381,Delaware State,1839,639,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,107,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,14,10,4,1381,Delaware State,1838,638,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,112,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,14,10,4,1381,Delaware State,1828,628,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,117,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,16,10,6,1668,UCLA,1817,617,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513492,NA,NA,0,UCLA,Delaware State,23
+2009-10,2009-12-27,914744,127,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,16,10,6,1381,Delaware State,1777,577,40, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,13.35,521595,NA,NA,0,Delaware State,UCLA,24
+2009-10,2009-12-27,914744,128,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,18,10,8,1668,UCLA,1770,570,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350583,NA,NA,0,UCLA,Delaware State,25
+2009-10,2009-12-27,914744,131,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,18,10,8,1381,Delaware State,1741,541,29, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,40.7,24.55,352505,NA,NA,0,Delaware State,UCLA,26
+2009-10,2009-12-27,914744,132,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,18,10,8,1668,UCLA,1730,530,11, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,12.950000000000003,295435,NA,NA,0,UCLA,Delaware State,27
+2009-10,2009-12-27,914744,134,0,1,UCLA,Delaware State,Bruins,Hornets,3,3,18,10,8,1381,Delaware State,1718,518,12, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43.3,14.75,352505,NA,NA,0,Delaware State,UCLA,28
+2009-10,2009-12-27,914744,140,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,18,10,8,1668,UCLA,1713,513,5,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,142,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1703,503,10, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,457578,NA,NA,0,UCLA,Delaware State,29
+2009-10,2009-12-27,914744,144,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1381,Delaware State,1673,473,30,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,150,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1381,Delaware State,1664,464,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,152,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1381,Delaware State,1662,462,2, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31,9.15,521588,NA,NA,0,Delaware State,UCLA,30
+2009-10,2009-12-27,914744,154,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,NA,NA,1661,461,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,157,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1652,452,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,295435,NA,NA,0,UCLA,Delaware State,31
+2009-10,2009-12-27,914744,158,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1381,Delaware State,1644,444,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521585,NA,NA,0,Delaware State,UCLA,32
+2009-10,2009-12-27,914744,160,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1633,433,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,165,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1624,424,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,169,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1621,421,3, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,30,28.849999999999994,457569,NA,NA,0,UCLA,UCLA,33
+2009-10,2009-12-27,914744,171,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,20,10,10,1668,UCLA,1613,413,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,173,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,22,10,12,1668,UCLA,1612,412,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,33
+2009-10,2009-12-27,914744,175,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,22,10,12,1381,Delaware State,1595,395,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,2.8000000000000007,6.65,521585,NA,NA,0,Delaware State,UCLA,34
+2009-10,2009-12-27,914744,179,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,22,10,12,1668,UCLA,1584,384,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,183,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,22,10,12,1381,Delaware State,1570,370,14,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2009-10,2009-12-27,914744,184,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1668,UCLA,1570,370,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2009-10,2009-12-27,914744,185,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1668,UCLA,1570,370,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2009-10,2009-12-27,914744,200,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1381,Delaware State,1539,339,31,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,201,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1381,Delaware State,1539,339,0,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2009-10,2009-12-27,914744,202,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1668,UCLA,1539,339,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2009-10,2009-12-27,914744,203,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1668,UCLA,1539,339,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,204,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,23,10,13,1668,UCLA,1539,339,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,205,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1668,UCLA,1539,339,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,35
+2009-10,2009-12-27,914744,210,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1381,Delaware State,1514,314,25, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,19.7,15.35,329518,NA,NA,0,Delaware State,UCLA,36
+2009-10,2009-12-27,914744,213,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1381,Delaware State,1505,305,9,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,37
+2009-10,2009-12-27,914744,214,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1381,Delaware State,1505,305,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,215,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1381,Delaware State,1505,305,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,217,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,24,10,14,1668,UCLA,1497,297,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,47.2,6.450000000000003,350583,NA,NA,0,UCLA,UCLA,37
+2009-10,2009-12-27,914744,218,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,10,16,1668,UCLA,1493,293,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,37
+2009-10,2009-12-27,914744,220,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,10,16,1381,Delaware State,1471,271,22,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,221,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,10,16,1668,UCLA,1471,271,0,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,38
+2009-10,2009-12-27,914744,222,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,10,16,1381,Delaware State,1471,271,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,224,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,12,14,1381,Delaware State,1454,254,17, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,30.3,21.35,409955,NA,NA,0,Delaware State,UCLA,38
+2009-10,2009-12-27,914744,234,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,12,14,1381,Delaware State,1411,211,43,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2009-10,2009-12-27,914744,235,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,26,12,14,NA,NA,1411,211,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,236,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,27,12,15,1668,UCLA,1411,211,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,39
+2009-10,2009-12-27,914744,237,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,12,16,1668,UCLA,1411,211,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,39
+2009-10,2009-12-27,914744,240,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,14,14,1381,Delaware State,1385,185,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,521596,NA,NA,0,Delaware State,Delaware State,40
+2009-10,2009-12-27,914744,241,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,14,14,1668,UCLA,1385,185,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,40
+2009-10,2009-12-27,914744,242,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,14,14,1668,UCLA,1385,185,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,243,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,15,13,1381,Delaware State,1385,185,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,40
+2009-10,2009-12-27,914744,245,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,15,13,1381,Delaware State,1349,149,36, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,30.2,10.85,409955,NA,NA,0,Delaware State,Delaware State,41
+2009-10,2009-12-27,914744,246,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,28,17,11,1381,Delaware State,1346,146,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,521596,NA,NA,0,Delaware State,UCLA,41
+2009-10,2009-12-27,914744,247,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,17,13,1668,UCLA,1324,124,22, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,350583,NA,NA,0,UCLA,Delaware State,42
+2009-10,2009-12-27,914744,251,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,17,13,1668,UCLA,1304,104,20,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,43
+2009-10,2009-12-27,914744,252,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,18,12,1381,Delaware State,1304,104,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,43
+2009-10,2009-12-27,914744,253,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,18,12,1668,UCLA,1304,104,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,254,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,18,12,1668,UCLA,1304,104,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,255,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,19,11,1381,Delaware State,1304,104,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,43
+2009-10,2009-12-27,914744,261,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,19,11,1668,UCLA,1293,93,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,266,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,19,11,1668,UCLA,1288,88,5,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,271,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,30,19,11,1668,UCLA,1272,72,16, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,27.7,21.349999999999994,457569,NA,NA,0,UCLA,UCLA,44
+2009-10,2009-12-27,914744,273,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,32,19,13,1668,UCLA,1271,71,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457578,NA,NA,0,UCLA,UCLA,44
+2009-10,2009-12-27,914744,274,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,32,19,13,1381,Delaware State,1271,71,0,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,44
+2009-10,2009-12-27,914744,275,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,33,19,14,1668,UCLA,1271,71,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,44
+2009-10,2009-12-27,914744,281,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,35,19,16,1668,UCLA,1254,54,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Delaware State,45
+2009-10,2009-12-27,914744,284,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,35,19,16,1381,Delaware State,1218,18,36, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,10.85,409955,NA,NA,0,Delaware State,UCLA,46
+2009-10,2009-12-27,914744,285,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,38,19,19,1668,UCLA,1207,7,11, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47.3,6.450000000000003,513492,NA,NA,0,UCLA,Delaware State,47
+2009-10,2009-12-27,914744,286,0,1,UCLA,Delaware State,Bruins,Hornets,2,3,38,19,19,NA,NA,1200,0,7,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,287,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,38,19,19,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,48
+2009-10,2009-12-27,914744,293,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,40,19,21,1668,UCLA,1164,1164,36, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,49
+2009-10,2009-12-27,914744,294,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,40,19,21,1381,Delaware State,1153,1153,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,304917,NA,NA,0,Delaware State,UCLA,50
+2009-10,2009-12-27,914744,295,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,40,19,21,1668,UCLA,1143,1143,10, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.700000000000003,8.549999999999997,350583,NA,NA,0,UCLA,Delaware State,51
+2009-10,2009-12-27,914744,296,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,40,21,19,1381,Delaware State,1117,1117,26, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,409955,NA,NA,0,Delaware State,UCLA,52
+2009-10,2009-12-27,914744,298,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,40,21,19,1668,UCLA,1107,1107,10,Offensive foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,53
+2009-10,2009-12-27,914744,300,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1668,UCLA,1088,1088,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,457569,NA,NA,0,UCLA,Delaware State,54
+2009-10,2009-12-27,914744,302,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1381,Delaware State,1061,1061,27, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,41.2,6.95,477664,NA,NA,0,Delaware State,UCLA,55
+2009-10,2009-12-27,914744,304,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1381,Delaware State,1059,1059,2,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,56
+2009-10,2009-12-27,914744,308,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1668,UCLA,1045,1045,14,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,56
+2009-10,2009-12-27,914744,309,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1381,Delaware State,1045,1045,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,56
+2009-10,2009-12-27,914744,310,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,21,21,1668,UCLA,1045,1045,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,311,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,42,22,20,1381,Delaware State,1045,1045,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,56
+2009-10,2009-12-27,914744,315,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,45,22,23,1668,UCLA,1024,1024,21, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,4.200000000000003,8.349999999999994,513490,NA,NA,0,UCLA,Delaware State,57
+2009-10,2009-12-27,914744,316,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,45,22,23,1381,Delaware State,1006,1006,18, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,32,23.25,477664,NA,NA,0,Delaware State,UCLA,58
+2009-10,2009-12-27,914744,318,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,45,22,23,1381,Delaware State,999,999,7,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2009-10,2009-12-27,914744,324,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,45,22,23,1381,Delaware State,973,973,26,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2009-10,2009-12-27,914744,325,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,46,22,24,1668,UCLA,973,973,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,59
+2009-10,2009-12-27,914744,326,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,46,22,24,1381,Delaware State,973,973,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,327,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,47,22,25,1668,UCLA,973,973,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,59
+2009-10,2009-12-27,914744,331,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,932,932,41, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,60
+2009-10,2009-12-27,914744,333,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,906,906,26, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,33,20.35,329518,NA,NA,0,Delaware State,Delaware State,61
+2009-10,2009-12-27,914744,340,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,885,885,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521596,NA,NA,0,Delaware State,Delaware State,61
+2009-10,2009-12-27,914744,341,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,884,884,1, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521596,NA,NA,0,Delaware State,Delaware State,61
+2009-10,2009-12-27,914744,343,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,NA,NA,883,883,1,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,347,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,865,865,18,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,61
+2009-10,2009-12-27,914744,349,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,856,856,9, misses a jump shot from 6 feet out.,missed,FALSE,FALSE,Jump Shot,25,11.05,304917,NA,NA,0,Delaware State,UCLA,61
+2009-10,2009-12-27,914744,350,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,843,843,13, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.2,5.849999999999994,513482,NA,NA,0,UCLA,Delaware State,62
+2009-10,2009-12-27,914744,352,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,836,836,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329518,NA,NA,0,Delaware State,Delaware State,63
+2009-10,2009-12-27,914744,355,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,833,833,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,359,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,813,813,20, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,22.2,30.95,352505,NA,NA,0,Delaware State,Delaware State,63
+2009-10,2009-12-27,914744,361,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,798,798,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,363,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1381,Delaware State,792,792,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521596,NA,NA,0,Delaware State,UCLA,63
+2009-10,2009-12-27,914744,367,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,49,22,27,1668,UCLA,777,777,15,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,369,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,22,29,1668,UCLA,776,776,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350583,NA,NA,0,UCLA,Delaware State,64
+2009-10,2009-12-27,914744,376,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,22,29,1381,Delaware State,749,749,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521596,NA,NA,0,Delaware State,Delaware State,65
+2009-10,2009-12-27,914744,378,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1381,Delaware State,748,748,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,521596,NA,NA,0,Delaware State,Delaware State,65
+2009-10,2009-12-27,914744,379,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1668,UCLA,748,748,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,65
+2009-10,2009-12-27,914744,380,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1381,Delaware State,748,748,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,65
+2009-10,2009-12-27,914744,383,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1381,Delaware State,747,747,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,387,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1668,UCLA,737,737,10, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,27.5,11.849999999999994,295435,NA,NA,0,UCLA,UCLA,66
+2009-10,2009-12-27,914744,389,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1668,UCLA,734,734,3, misses a tip shot from 4 feet out.,missed,FALSE,FALSE,Tip Shot,25.7,8.950000000000003,295435,NA,NA,0,UCLA,Delaware State,66
+2009-10,2009-12-27,914744,395,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,1381,Delaware State,718,718,16,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,399,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,24,27,NA,NA,715,715,3,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,401,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1381,Delaware State,702,702,13, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,25.3,12.65,352505,NA,NA,0,Delaware State,UCLA,67
+2009-10,2009-12-27,914744,404,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,665,665,37, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,29.2,8.75,457578,NA,NA,0,UCLA,UCLA,68
+2009-10,2009-12-27,914744,405,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,663,663,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513492,NA,NA,0,UCLA,UCLA,68
+2009-10,2009-12-27,914744,406,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,658,658,5, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,28.8,29.849999999999994,295435,NA,NA,0,UCLA,Delaware State,68
+2009-10,2009-12-27,914744,409,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,645,645,13,Personal foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,69
+2009-10,2009-12-27,914744,410,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1381,Delaware State,645,645,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,411,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,645,645,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,412,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,645,645,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,418,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,26,25,1668,UCLA,612,612,33,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,69
+2009-10,2009-12-27,914744,419,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,27,24,1381,Delaware State,612,612,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,69
+2009-10,2009-12-27,914744,420,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,27,24,1668,UCLA,612,612,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,421,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,28,23,1381,Delaware State,612,612,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,69
+2009-10,2009-12-27,914744,424,0,2,UCLA,Delaware State,Bruins,Hornets,4,4,51,30,21,1381,Delaware State,607,607,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,409955,NA,NA,0,Delaware State,UCLA,70
+2009-10,2009-12-27,914744,426,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,51,30,21,1668,UCLA,604,604,3,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,430,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,51,30,21,1381,Delaware State,590,590,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521585,NA,NA,0,Delaware State,Delaware State,71
+2009-10,2009-12-27,914744,431,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,51,30,21,1381,Delaware State,588,588,2, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,521585,NA,NA,0,Delaware State,UCLA,71
+2009-10,2009-12-27,914744,432,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,30,23,1668,UCLA,582,582,6, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513492,NA,NA,0,UCLA,Delaware State,72
+2009-10,2009-12-27,914744,434,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,30,23,1381,Delaware State,564,564,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,304917,NA,NA,0,Delaware State,Delaware State,73
+2009-10,2009-12-27,914744,436,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,32,21,1381,Delaware State,563,563,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,304917,NA,NA,0,Delaware State,Delaware State,73
+2009-10,2009-12-27,914744,437,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,32,21,1668,UCLA,563,563,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,73
+2009-10,2009-12-27,914744,438,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,32,21,1381,Delaware State,563,563,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,439,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,32,21,1668,UCLA,563,563,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,440,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,53,33,20,1381,Delaware State,563,563,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,73
+2009-10,2009-12-27,914744,444,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,33,22,1668,UCLA,539,539,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,350583,NA,NA,0,UCLA,Delaware State,74
+2009-10,2009-12-27,914744,446,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,33,22,1381,Delaware State,531,531,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,452,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,35,20,1381,Delaware State,524,524,7, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,20,8.15,352505,NA,NA,0,Delaware State,UCLA,75
+2009-10,2009-12-27,914744,454,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,35,20,1381,Delaware State,514,514,10,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,76
+2009-10,2009-12-27,914744,455,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,35,20,1668,UCLA,514,514,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,458,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,55,35,20,1381,Delaware State,510,510,4,Personal foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,76
+2009-10,2009-12-27,914744,465,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,57,35,22,1668,UCLA,504,504,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,76
+2009-10,2009-12-27,914744,466,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,57,35,22,1381,Delaware State,491,491,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329518,NA,NA,0,Delaware State,UCLA,77
+2009-10,2009-12-27,914744,471,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,35,24,1668,UCLA,460,460,31, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513492,NA,NA,0,UCLA,Delaware State,78
+2009-10,2009-12-27,914744,473,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,35,24,1668,UCLA,449,449,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,476,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,35,24,NA,NA,447,447,2,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,478,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,37,22,1381,Delaware State,438,438,9, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,304917,NA,NA,0,Delaware State,UCLA,79
+2009-10,2009-12-27,914744,480,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,37,22,1668,UCLA,427,427,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,485,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,37,22,1668,UCLA,418,418,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513478,NA,NA,0,UCLA,Delaware State,80
+2009-10,2009-12-27,914744,486,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,39,20,1381,Delaware State,388,388,30, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,11.7,6.95,304917,NA,NA,0,Delaware State,UCLA,81
+2009-10,2009-12-27,914744,488,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,39,20,1668,UCLA,378,378,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,491,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,39,20,1668,UCLA,375,375,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,497,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,39,20,1668,UCLA,355,355,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513478,NA,NA,0,UCLA,Delaware State,82
+2009-10,2009-12-27,914744,499,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,41,18,1381,Delaware State,346,346,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,352505,NA,NA,0,Delaware State,Delaware State,83
+2009-10,2009-12-27,914744,500,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,41,18,1668,UCLA,346,346,0,Shooting foul committed by Bruins.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,Delaware State,83
+2009-10,2009-12-27,914744,501,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,41,18,1668,UCLA,346,346,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,502,0,2,UCLA,Delaware State,Bruins,Hornets,3,4,59,42,17,1381,Delaware State,346,346,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Delaware State,UCLA,83
+2009-10,2009-12-27,914744,508,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,59,42,17,1381,Delaware State,341,341,5,Hornets take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,511,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,59,42,17,1668,UCLA,337,337,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,516,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,59,42,17,1381,Delaware State,332,332,5,Shooting foul committed by Hornets.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2009-10,2009-12-27,914744,517,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,42,18,1668,UCLA,332,332,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,84
+2009-10,2009-12-27,914744,518,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,42,18,1668,UCLA,332,332,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,Delaware State,84
+2009-10,2009-12-27,914744,524,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,44,16,1381,Delaware State,313,313,19, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329518,NA,NA,0,Delaware State,UCLA,85
+2009-10,2009-12-27,914744,527,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,46,14,1381,Delaware State,284,284,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,304917,NA,NA,0,Delaware State,UCLA,86
+2009-10,2009-12-27,914744,529,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,46,14,1668,UCLA,273,273,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,530,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,46,14,1668,UCLA,273,273,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,532,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,60,46,14,1381,Delaware State,255,255,18, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,40,15.85,329518,NA,NA,0,Delaware State,UCLA,87
+2009-10,2009-12-27,914744,533,0,2,UCLA,Delaware State,Bruins,Hornets,3,3,62,46,16,1668,UCLA,247,247,8, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,88
+2009-10,2009-12-27,914744,535,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,62,46,16,1381,Delaware State,236,236,11,Hornets take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,537,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,62,46,16,1381,Delaware State,224,224,12, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,40.5,20.15,329518,NA,NA,0,Delaware State,UCLA,89
+2009-10,2009-12-27,914744,538,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,1668,UCLA,197,197,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513482,NA,NA,0,UCLA,Delaware State,90
+2009-10,2009-12-27,914744,539,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,1668,UCLA,163,163,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457569,NA,NA,0,UCLA,UCLA,91
+2009-10,2009-12-27,914744,544,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,1668,UCLA,141,141,22, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,18.950000000000003,295435,NA,NA,0,UCLA,UCLA,91
+2009-10,2009-12-27,914744,546,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,1668,UCLA,109,109,32, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.299999999999997,6.650000000000006,350583,NA,NA,0,UCLA,UCLA,91
+2009-10,2009-12-27,914744,550,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,NA,NA,101,101,8,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,553,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,64,46,18,1668,UCLA,93,93,8,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,555,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1668,UCLA,88,88,5, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,32.7,6.650000000000006,513490,NA,NA,0,UCLA,Delaware State,91
+2009-10,2009-12-27,914744,556,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1381,Delaware State,79,79,9, misses a jump shot from 21 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,24.95,409955,NA,NA,0,Delaware State,UCLA,92
+2009-10,2009-12-27,914744,557,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1668,UCLA,68,68,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.7,5.650000000000006,513490,NA,NA,0,UCLA,Delaware State,93
+2009-10,2009-12-27,914744,561,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1381,Delaware State,53,53,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,352505,NA,NA,0,Delaware State,UCLA,94
+2009-10,2009-12-27,914744,562,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1668,UCLA,52,52,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,565,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1668,UCLA,42,42,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2009-12-27,914744,570,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,46,20,1668,UCLA,29,29,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,457578,NA,NA,0,UCLA,Delaware State,95
+2009-10,2009-12-27,914744,572,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,49,17,1381,Delaware State,21,21,8, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,6.5,16.85,352505,NA,NA,0,Delaware State,UCLA,96
+2009-10,2009-12-27,914744,576,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,49,17,NA,NA,0,0,21,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-27,914744,577,0,2,UCLA,Delaware State,Bruins,Hornets,3,2,66,49,17,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,NA

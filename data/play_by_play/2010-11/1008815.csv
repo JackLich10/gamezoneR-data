@@ -1,0 +1,261 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-01-04,1008815,1,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Ohio State,NA
+2010-11,2011-01-04,1008815,7,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1449,Iowa,2389,1189,11,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,1
+2010-11,2011-01-04,1008815,8,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1557,Ohio State,2389,1189,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,1
+2010-11,2011-01-04,1008815,10,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1557,Ohio State,2389,1189,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,1
+2010-11,2011-01-04,1008815,11,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1449,Iowa,2389,1189,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,1
+2010-11,2011-01-04,1008815,22,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1557,Ohio State,2346,1146,43, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,16,6.25,468573,NA,NA,0,Ohio State,Iowa,2
+2010-11,2011-01-04,1008815,26,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,0,0,0,1557,Ohio State,2317,1117,29,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,3
+2010-11,2011-01-04,1008815,28,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,2,0,2,1449,Iowa,2314,1114,3, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Ohio State,3
+2010-11,2011-01-04,1008815,31,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,2,0,2,1557,Ohio State,2291,1091,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,16.65,398065,NA,NA,0,Ohio State,Ohio State,4
+2010-11,2011-01-04,1008815,32,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,2,0,2,1449,Iowa,2291,1091,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,4
+2010-11,2011-01-04,1008815,33,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,0,4,1449,Iowa,2283,1083,8, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,553559,NA,NA,0,Iowa,Ohio State,5
+2010-11,2011-01-04,1008815,34,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,0,4,1557,Ohio State,2266,1066,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,24.5,29.05,552403,NA,NA,0,Ohio State,Ohio State,6
+2010-11,2011-01-04,1008815,35,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,0,4,1557,Ohio State,2266,1066,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,6
+2010-11,2011-01-04,1008815,36,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1557,Ohio State,2259,1059,7, makes a jump shot from 21 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.2,26.75,468573,NA,NA,0,Ohio State,Iowa,6
+2010-11,2011-01-04,1008815,37,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1449,Iowa,2240,1040,19, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,14.75,402413,NA,NA,0,Iowa,Iowa,7
+2010-11,2011-01-04,1008815,38,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1557,Ohio State,2240,1040,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,7
+2010-11,2011-01-04,1008815,39,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1557,Ohio State,2226,1026,14, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30.2,8.15,552403,NA,NA,0,Ohio State,Ohio State,8
+2010-11,2011-01-04,1008815,40,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1449,Iowa,2226,1026,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,8
+2010-11,2011-01-04,1008815,41,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1449,Iowa,2216,1016,10, misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,30.8,11.849999999999994,484192,NA,NA,0,Iowa,Iowa,9
+2010-11,2011-01-04,1008815,42,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,2,2,1557,Ohio State,2216,1016,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,9
+2010-11,2011-01-04,1008815,43,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,4,4,0,1557,Ohio State,2209,1009,7, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398067,NA,NA,0,Ohio State,Iowa,10
+2010-11,2011-01-04,1008815,44,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,6,4,2,1449,Iowa,2182,982,27, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,41.3,7.349999999999994,553559,NA,NA,0,Iowa,Ohio State,11
+2010-11,2011-01-04,1008815,45,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,6,4,2,1557,Ohio State,2163,963,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329470,NA,NA,0,Ohio State,Ohio State,12
+2010-11,2011-01-04,1008815,46,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,6,4,2,1449,Iowa,2163,963,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,12
+2010-11,2011-01-04,1008815,47,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,6,4,2,1449,Iowa,2157,957,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553557,NA,NA,0,Iowa,Iowa,13
+2010-11,2011-01-04,1008815,48,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,6,4,2,1449,Iowa,2157,957,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,13
+2010-11,2011-01-04,1008815,49,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,4,4,1449,Iowa,2153,953,4, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,25.5,8.950000000000003,402413,NA,NA,0,Iowa,Ohio State,13
+2010-11,2011-01-04,1008815,50,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,6,2,1557,Ohio State,2139,939,14, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,14
+2010-11,2011-01-04,1008815,52,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,6,2,1557,Ohio State,2112,912,27,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,15
+2010-11,2011-01-04,1008815,53,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,6,2,NA,NA,2112,912,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,56,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,6,2,1557,Ohio State,2112,912,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,57,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,8,6,2,1449,Iowa,2112,912,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,15
+2010-11,2011-01-04,1008815,59,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,9,6,3,1449,Iowa,2112,912,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,15
+2010-11,2011-01-04,1008815,68,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,9,6,3,1449,Iowa,2052,852,60, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,26.3,18.549999999999997,553557,NA,NA,0,Iowa,Iowa,16
+2010-11,2011-01-04,1008815,69,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,9,6,3,1449,Iowa,2052,852,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,16
+2010-11,2011-01-04,1008815,71,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,11,6,5,1449,Iowa,2051,851,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553559,NA,NA,0,Iowa,Iowa,16
+2010-11,2011-01-04,1008815,72,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,11,6,5,1557,Ohio State,2051,851,0,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,16
+2010-11,2011-01-04,1008815,73,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,6,6,1449,Iowa,2051,851,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,16
+2010-11,2011-01-04,1008815,79,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,9,3,1557,Ohio State,2026,826,25, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.3,8.75,329470,NA,NA,0,Ohio State,Iowa,17
+2010-11,2011-01-04,1008815,81,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,9,3,1557,Ohio State,2005,805,21,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,18
+2010-11,2011-01-04,1008815,82,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,9,3,1449,Iowa,2005,805,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,86,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,9,3,1557,Ohio State,2002,802,3,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,18
+2010-11,2011-01-04,1008815,87,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,12,9,3,1557,Ohio State,2002,802,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,88,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,13,9,4,1449,Iowa,2002,802,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,18
+2010-11,2011-01-04,1008815,89,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,13,9,4,1449,Iowa,2002,802,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,90,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1449,Iowa,2002,802,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,18
+2010-11,2011-01-04,1008815,93,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1449,Iowa,1996,796,6,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,19
+2010-11,2011-01-04,1008815,95,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1557,Ohio State,1990,790,6, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,11.7,24.35,468573,NA,NA,0,Ohio State,Ohio State,19
+2010-11,2011-01-04,1008815,96,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1557,Ohio State,1990,790,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,19
+2010-11,2011-01-04,1008815,98,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1557,Ohio State,1982,782,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,19
+2010-11,2011-01-04,1008815,99,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,14,9,5,1449,Iowa,1982,782,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,19
+2010-11,2011-01-04,1008815,107,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,9,8,1449,Iowa,1940,740,42, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.2,15.349999999999994,484192,NA,NA,0,Iowa,Ohio State,20
+2010-11,2011-01-04,1008815,108,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,12,5,1557,Ohio State,1930,730,10, makes a 3-point jump shot from 21 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.8,17.25,398065,NA,NA,0,Ohio State,Iowa,21
+2010-11,2011-01-04,1008815,110,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,12,5,NA,NA,1917,717,13,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,116,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,14,3,1557,Ohio State,1896,696,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,22
+2010-11,2011-01-04,1008815,117,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,14,3,1449,Iowa,1869,669,27, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.2,18.25,469224,NA,NA,0,Iowa,Iowa,23
+2010-11,2011-01-04,1008815,118,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,14,3,1557,Ohio State,1869,669,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,23
+2010-11,2011-01-04,1008815,120,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,14,3,1557,Ohio State,1859,659,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,124,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1557,Ohio State,1853,653,6, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.199999999999999,17.45,398065,NA,NA,0,Ohio State,Iowa,24
+2010-11,2011-01-04,1008815,127,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1847,647,6,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,130,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1844,644,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,135,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1828,628,16, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,26,14.549999999999997,553558,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-01-04,1008815,136,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1828,628,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-01-04,1008815,138,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1817,617,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,144,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1794,594,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.799999999999997,18.25,553557,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-01-04,1008815,145,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1449,Iowa,1794,594,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-01-04,1008815,148,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,17,17,0,1557,Ohio State,1783,583,11,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,25
+2010-11,2011-01-04,1008815,150,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,20,17,3,1449,Iowa,1779,579,4, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6.299999999999997,17.049999999999997,469224,NA,NA,0,Iowa,Ohio State,25
+2010-11,2011-01-04,1008815,152,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,20,17,3,1557,Ohio State,1762,562,17, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,41.5,19.55,552405,NA,NA,0,Ohio State,Ohio State,26
+2010-11,2011-01-04,1008815,153,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,20,17,3,1557,Ohio State,1762,562,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,26
+2010-11,2011-01-04,1008815,154,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,20,19,1,1557,Ohio State,1755,555,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,26
+2010-11,2011-01-04,1008815,155,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,22,19,3,1449,Iowa,1739,539,16, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,39,7.349999999999994,402413,NA,NA,0,Iowa,Ohio State,27
+2010-11,2011-01-04,1008815,156,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,22,19,3,1557,Ohio State,1714,514,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,42.2,19.75,329470,NA,NA,0,Ohio State,Ohio State,28
+2010-11,2011-01-04,1008815,157,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,22,19,3,1557,Ohio State,1714,514,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,28
+2010-11,2011-01-04,1008815,158,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,22,21,1,1557,Ohio State,1710,510,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552405,NA,NA,0,Ohio State,Iowa,28
+2010-11,2011-01-04,1008815,159,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,24,21,3,1449,Iowa,1686,486,24, makes a jump shot from 19 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,5.799999999999997,6.450000000000003,553558,NA,NA,0,Iowa,Ohio State,29
+2010-11,2011-01-04,1008815,161,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,24,21,3,NA,NA,1671,471,15,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,168,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,24,21,3,1449,Iowa,1631,431,40, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Iowa,30
+2010-11,2011-01-04,1008815,169,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,24,21,3,1449,Iowa,1631,431,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,30
+2010-11,2011-01-04,1008815,170,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,26,21,5,1449,Iowa,1627,427,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553559,NA,NA,0,Iowa,Ohio State,30
+2010-11,2011-01-04,1008815,171,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,26,23,3,1557,Ohio State,1614,414,13, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18,6.65,552403,NA,NA,0,Ohio State,Iowa,31
+2010-11,2011-01-04,1008815,172,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,26,23,3,1449,Iowa,1602,402,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484192,NA,NA,0,Iowa,Iowa,32
+2010-11,2011-01-04,1008815,173,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,26,23,3,1557,Ohio State,1602,402,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,32
+2010-11,2011-01-04,1008815,175,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,26,23,3,1557,Ohio State,1590,390,12,Flagrant foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,33
+2010-11,2011-01-04,1008815,176,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,27,23,4,1449,Iowa,1590,390,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,34
+2010-11,2011-01-04,1008815,177,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,27,23,4,1557,Ohio State,1590,390,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,178,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,23,5,1449,Iowa,1590,390,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,34
+2010-11,2011-01-04,1008815,181,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,23,5,1557,Ohio State,1589,389,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,190,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,23,5,1449,Iowa,1573,373,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Ohio State,35
+2010-11,2011-01-04,1008815,194,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1567,367,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329470,NA,NA,0,Ohio State,Iowa,36
+2010-11,2011-01-04,1008815,195,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1551,351,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553558,NA,NA,0,Iowa,Iowa,37
+2010-11,2011-01-04,1008815,196,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1551,351,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,37
+2010-11,2011-01-04,1008815,197,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1546,346,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,37
+2010-11,2011-01-04,1008815,198,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1546,346,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,37
+2010-11,2011-01-04,1008815,200,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1536,336,10,Offensive foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,38
+2010-11,2011-01-04,1008815,201,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1536,336,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,205,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1524,324,12,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,209,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1507,307,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,39,6.25,402413,NA,NA,0,Iowa,Iowa,39
+2010-11,2011-01-04,1008815,210,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1507,307,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,39
+2010-11,2011-01-04,1008815,211,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1486,286,21, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,15.65,398065,NA,NA,0,Ohio State,Ohio State,40
+2010-11,2011-01-04,1008815,212,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1486,286,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,40
+2010-11,2011-01-04,1008815,213,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1482,282,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398067,NA,NA,0,Ohio State,Ohio State,40
+2010-11,2011-01-04,1008815,214,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1482,282,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,40
+2010-11,2011-01-04,1008815,216,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1475,275,7, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,43,16.849999999999994,553558,NA,NA,0,Iowa,Iowa,41
+2010-11,2011-01-04,1008815,217,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1475,275,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,41
+2010-11,2011-01-04,1008815,218,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1471,271,4,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,42
+2010-11,2011-01-04,1008815,223,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1438,238,33, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,15.150000000000006,484192,NA,NA,0,Iowa,Iowa,42
+2010-11,2011-01-04,1008815,224,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1438,238,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,42
+2010-11,2011-01-04,1008815,227,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,NA,NA,1423,223,15,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,232,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1413,213,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,43
+2010-11,2011-01-04,1008815,233,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1413,213,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,43
+2010-11,2011-01-04,1008815,234,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1409,209,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,43
+2010-11,2011-01-04,1008815,235,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1409,209,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,43
+2010-11,2011-01-04,1008815,244,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1557,Ohio State,1391,191,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.5,23.25,552399,NA,NA,0,Ohio State,Ohio State,44
+2010-11,2011-01-04,1008815,245,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1391,191,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,44
+2010-11,2011-01-04,1008815,249,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1368,168,23, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,11.5,14.950000000000003,553559,NA,NA,0,Iowa,Iowa,45
+2010-11,2011-01-04,1008815,250,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,28,25,3,1449,Iowa,1368,168,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,45
+2010-11,2011-01-04,1008815,251,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,30,25,5,1449,Iowa,1363,163,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Ohio State,45
+2010-11,2011-01-04,1008815,252,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,30,25,5,1557,Ohio State,1342,142,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,46
+2010-11,2011-01-04,1008815,253,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,30,25,5,1449,Iowa,1342,142,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,46
+2010-11,2011-01-04,1008815,254,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,25,7,1449,Iowa,1324,124,18, makes a hook shot from 8 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,33.3,6.650000000000006,553559,NA,NA,0,Iowa,Ohio State,47
+2010-11,2011-01-04,1008815,255,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1557,Ohio State,1304,104,20, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,30.3,9.55,552403,NA,NA,0,Ohio State,Iowa,48
+2010-11,2011-01-04,1008815,256,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1449,Iowa,1291,91,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44,14.549999999999997,553558,NA,NA,0,Iowa,Iowa,49
+2010-11,2011-01-04,1008815,257,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1449,Iowa,1291,91,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,49
+2010-11,2011-01-04,1008815,260,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1449,Iowa,1288,88,3,Offensive foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,49
+2010-11,2011-01-04,1008815,264,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1557,Ohio State,1277,77,11,Offensive foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,50
+2010-11,2011-01-04,1008815,266,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1449,Iowa,1263,63,14, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,27.2,28.25,469224,NA,NA,0,Iowa,Iowa,51
+2010-11,2011-01-04,1008815,267,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1557,Ohio State,1263,63,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,51
+2010-11,2011-01-04,1008815,270,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,27,5,1449,Iowa,1246,46,17,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,52
+2010-11,2011-01-04,1008815,272,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,32,29,3,1557,Ohio State,1241,41,5, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398067,NA,NA,0,Ohio State,Iowa,52
+2010-11,2011-01-04,1008815,280,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,1449,Iowa,1201,1,40, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10,22.25,484192,NA,NA,0,Iowa,Ohio State,53
+2010-11,2011-01-04,1008815,282,0,1,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,284,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Ohio State,54
+2010-11,2011-01-04,1008815,286,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,1557,Ohio State,1186,1186,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,55
+2010-11,2011-01-04,1008815,287,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,1449,Iowa,1186,1186,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,55
+2010-11,2011-01-04,1008815,288,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,1449,Iowa,1179,1179,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484192,NA,NA,0,Iowa,Iowa,56
+2010-11,2011-01-04,1008815,289,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,29,6,1557,Ohio State,1179,1179,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,56
+2010-11,2011-01-04,1008815,290,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,31,4,1557,Ohio State,1170,1170,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,57
+2010-11,2011-01-04,1008815,291,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,31,4,1449,Iowa,1153,1153,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553559,NA,NA,0,Iowa,Iowa,58
+2010-11,2011-01-04,1008815,292,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,31,4,1557,Ohio State,1153,1153,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,58
+2010-11,2011-01-04,1008815,293,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,33,2,1557,Ohio State,1140,1140,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,59
+2010-11,2011-01-04,1008815,295,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,33,2,1449,Iowa,1107,1107,33, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,23.2,12.650000000000006,553557,NA,NA,0,Iowa,Iowa,60
+2010-11,2011-01-04,1008815,296,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,33,2,1449,Iowa,1107,1107,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2010-11,2011-01-04,1008815,299,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,35,33,2,1557,Ohio State,1105,1105,2,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2010-11,2011-01-04,1008815,300,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,33,3,1449,Iowa,1105,1105,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2010-11,2011-01-04,1008815,301,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,33,3,1449,Iowa,1105,1105,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,60
+2010-11,2011-01-04,1008815,302,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,33,3,1557,Ohio State,1105,1105,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,60
+2010-11,2011-01-04,1008815,308,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,36,0,1557,Ohio State,1094,1094,11, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,24.3,29.45,468573,NA,NA,0,Ohio State,Iowa,61
+2010-11,2011-01-04,1008815,311,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,36,0,1557,Ohio State,1083,1083,11,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,62
+2010-11,2011-01-04,1008815,312,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,36,0,1557,Ohio State,1083,1083,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,316,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,36,0,1449,Iowa,1068,1068,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,31.3,12.75,553557,NA,NA,0,Iowa,Iowa,62
+2010-11,2011-01-04,1008815,317,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,36,0,1557,Ohio State,1068,1068,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,62
+2010-11,2011-01-04,1008815,321,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,4,4,36,38,-2,1557,Ohio State,1059,1059,9, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,63
+2010-11,2011-01-04,1008815,322,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,36,38,-2,1449,Iowa,1056,1056,3,Hawkeyes take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,327,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,38,38,0,1449,Iowa,1024,1024,32, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,19.7,8.349999999999994,402413,NA,NA,0,Iowa,Ohio State,64
+2010-11,2011-01-04,1008815,328,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,38,38,0,1557,Ohio State,998,998,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.7,20.75,398065,NA,NA,0,Ohio State,Ohio State,65
+2010-11,2011-01-04,1008815,329,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,38,38,0,1449,Iowa,998,998,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,65
+2010-11,2011-01-04,1008815,330,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,40,38,2,1449,Iowa,991,991,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,402413,NA,NA,0,Iowa,Ohio State,66
+2010-11,2011-01-04,1008815,331,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,40,40,0,1557,Ohio State,945,945,46, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398065,NA,NA,0,Ohio State,Iowa,67
+2010-11,2011-01-04,1008815,334,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,40,40,0,1557,Ohio State,931,931,14,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,68
+2010-11,2011-01-04,1008815,335,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,40,40,0,NA,NA,931,931,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,336,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,41,40,1,1449,Iowa,931,931,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,68
+2010-11,2011-01-04,1008815,337,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1449,Iowa,931,931,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,68
+2010-11,2011-01-04,1008815,339,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1557,Ohio State,903,903,28, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,69
+2010-11,2011-01-04,1008815,340,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1557,Ohio State,903,903,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,69
+2010-11,2011-01-04,1008815,341,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1557,Ohio State,899,899,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,69
+2010-11,2011-01-04,1008815,342,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1557,Ohio State,899,899,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,69
+2010-11,2011-01-04,1008815,344,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,40,2,1557,Ohio State,890,890,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329470,NA,NA,0,Ohio State,Ohio State,69
+2010-11,2011-01-04,1008815,350,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,42,42,0,1557,Ohio State,884,884,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329470,NA,NA,0,Ohio State,Iowa,69
+2010-11,2011-01-04,1008815,351,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,42,3,1449,Iowa,856,856,28, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.5,18.049999999999997,469224,NA,NA,0,Iowa,Ohio State,70
+2010-11,2011-01-04,1008815,352,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,44,1,1557,Ohio State,837,837,19, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,71
+2010-11,2011-01-04,1008815,354,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,44,1,1449,Iowa,827,827,10,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,355,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,44,1,1449,Iowa,827,827,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-01-04,1008815,359,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,46,-1,1557,Ohio State,815,815,12, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,72
+2010-11,2011-01-04,1008815,360,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,46,-1,1449,Iowa,790,790,25, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,39.5,15.349999999999994,402413,NA,NA,0,Iowa,Iowa,73
+2010-11,2011-01-04,1008815,361,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,46,-1,1557,Ohio State,790,790,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,73
+2010-11,2011-01-04,1008815,362,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,49,-4,1557,Ohio State,779,779,11, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,42.2,21.15,329470,NA,NA,0,Ohio State,Iowa,74
+2010-11,2011-01-04,1008815,364,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,49,-4,1557,Ohio State,757,757,22,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,75
+2010-11,2011-01-04,1008815,368,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,49,-4,1557,Ohio State,739,739,18, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,30.3,6.05,552403,NA,NA,0,Ohio State,Ohio State,75
+2010-11,2011-01-04,1008815,369,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,49,-4,1557,Ohio State,739,739,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,75
+2010-11,2011-01-04,1008815,370,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1557,Ohio State,735,735,4, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,26.8,8.55,398067,NA,NA,0,Ohio State,Iowa,75
+2010-11,2011-01-04,1008815,371,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1449,Iowa,718,718,17, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.7,12.75,402413,NA,NA,0,Iowa,Iowa,76
+2010-11,2011-01-04,1008815,372,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1557,Ohio State,718,718,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,76
+2010-11,2011-01-04,1008815,373,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1557,Ohio State,705,705,13, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.300000000000001,20.35,552399,NA,NA,0,Ohio State,Ohio State,77
+2010-11,2011-01-04,1008815,374,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1449,Iowa,705,705,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,77
+2010-11,2011-01-04,1008815,376,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,1449,Iowa,694,694,11,Shooting foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,78
+2010-11,2011-01-04,1008815,377,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,51,-6,NA,NA,694,694,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,378,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,694,694,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,78
+2010-11,2011-01-04,1008815,379,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,694,694,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,78
+2010-11,2011-01-04,1008815,380,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1449,Iowa,694,694,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,78
+2010-11,2011-01-04,1008815,387,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1449,Iowa,669,669,25, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.700000000000003,15.849999999999994,553558,NA,NA,0,Iowa,Iowa,79
+2010-11,2011-01-04,1008815,388,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,669,669,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,79
+2010-11,2011-01-04,1008815,390,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1449,Iowa,667,667,2,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,80
+2010-11,2011-01-04,1008815,393,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,651,651,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,552403,NA,NA,0,Ohio State,Ohio State,80
+2010-11,2011-01-04,1008815,394,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1449,Iowa,651,651,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,80
+2010-11,2011-01-04,1008815,397,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1449,Iowa,640,640,11,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,81
+2010-11,2011-01-04,1008815,401,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,606,606,34, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17.8,12.25,552399,NA,NA,0,Ohio State,Ohio State,81
+2010-11,2011-01-04,1008815,402,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,52,-7,1557,Ohio State,606,606,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,81
+2010-11,2011-01-04,1008815,407,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,55,-10,1557,Ohio State,577,577,29, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.5,29.85,398065,NA,NA,0,Ohio State,Iowa,81
+2010-11,2011-01-04,1008815,415,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,3,4,45,58,-13,1557,Ohio State,519,519,58, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,46.5,5.45,398065,NA,NA,0,Ohio State,Iowa,82
+2010-11,2011-01-04,1008815,416,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,45,58,-13,1449,Iowa,517,517,2,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,419,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,45,58,-13,1449,Iowa,501,501,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,553558,NA,NA,0,Iowa,Iowa,83
+2010-11,2011-01-04,1008815,425,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,45,58,-13,1557,Ohio State,498,498,3,Personal foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,83
+2010-11,2011-01-04,1008815,428,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,47,58,-11,1449,Iowa,476,476,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553558,NA,NA,0,Iowa,Iowa,83
+2010-11,2011-01-04,1008815,429,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,47,58,-11,1557,Ohio State,476,476,0,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,83
+2010-11,2011-01-04,1008815,430,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,47,58,-11,NA,NA,476,476,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,431,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,58,-10,1449,Iowa,476,476,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,83
+2010-11,2011-01-04,1008815,433,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1557,Ohio State,469,469,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,552405,NA,NA,0,Ohio State,Iowa,84
+2010-11,2011-01-04,1008815,435,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1449,Iowa,452,452,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484192,NA,NA,0,Iowa,Iowa,85
+2010-11,2011-01-04,1008815,436,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1449,Iowa,452,452,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,85
+2010-11,2011-01-04,1008815,437,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1449,Iowa,449,449,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402413,NA,NA,0,Iowa,Iowa,85
+2010-11,2011-01-04,1008815,441,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1557,Ohio State,448,448,1,Shooting foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,85
+2010-11,2011-01-04,1008815,442,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,48,60,-12,1449,Iowa,448,448,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,85
+2010-11,2011-01-04,1008815,444,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1449,Iowa,448,448,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,85
+2010-11,2011-01-04,1008815,450,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1557,Ohio State,420,420,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,25.3,29.05,329470,NA,NA,0,Ohio State,Ohio State,86
+2010-11,2011-01-04,1008815,452,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1449,Iowa,419,419,1,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,86
+2010-11,2011-01-04,1008815,455,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1557,Ohio State,393,393,26, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,46.8,5.65,398065,NA,NA,0,Ohio State,Ohio State,86
+2010-11,2011-01-04,1008815,456,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1557,Ohio State,393,393,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,86
+2010-11,2011-01-04,1008815,459,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1449,Iowa,371,371,22, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,11.299999999999997,24.549999999999997,469224,NA,NA,0,Iowa,Iowa,86
+2010-11,2011-01-04,1008815,460,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1557,Ohio State,371,371,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,86
+2010-11,2011-01-04,1008815,461,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,60,-11,1449,Iowa,371,371,0,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,87
+2010-11,2011-01-04,1008815,465,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,49,62,-13,1557,Ohio State,354,354,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552403,NA,NA,0,Ohio State,Iowa,87
+2010-11,2011-01-04,1008815,466,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,51,62,-11,1449,Iowa,337,337,17, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,33.3,9.650000000000006,469224,NA,NA,0,Iowa,Ohio State,88
+2010-11,2011-01-04,1008815,468,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,51,62,-11,1557,Ohio State,323,323,14,Offensive foul committed by Buckeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,89
+2010-11,2011-01-04,1008815,479,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,2,4,54,62,-8,1449,Iowa,307,307,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.799999999999997,25.349999999999994,469224,NA,NA,0,Iowa,Ohio State,90
+2010-11,2011-01-04,1008815,480,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,54,62,-8,1449,Iowa,306,306,1,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,483,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,54,62,-8,1449,Iowa,291,291,15,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,91
+2010-11,2011-01-04,1008815,487,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,54,64,-10,1557,Ohio State,280,280,11, makes a jump shot from 17 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,12.5,17.05,552399,NA,NA,0,Ohio State,Iowa,91
+2010-11,2011-01-04,1008815,488,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,56,64,-8,1449,Iowa,266,266,14, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,18.2,8.349999999999994,484192,NA,NA,0,Iowa,Ohio State,92
+2010-11,2011-01-04,1008815,489,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,56,66,-10,1557,Ohio State,243,243,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,468573,NA,NA,0,Ohio State,Iowa,93
+2010-11,2011-01-04,1008815,490,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,66,-8,1449,Iowa,234,234,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,553559,NA,NA,0,Iowa,Ohio State,94
+2010-11,2011-01-04,1008815,492,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,66,-8,1449,Iowa,211,211,23,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,95
+2010-11,2011-01-04,1008815,493,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,66,-8,NA,NA,211,211,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,494,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1557,Ohio State,211,211,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,95
+2010-11,2011-01-04,1008815,495,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1557,Ohio State,211,211,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,95
+2010-11,2011-01-04,1008815,496,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1449,Iowa,211,211,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,95
+2010-11,2011-01-04,1008815,501,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1449,Iowa,189,189,22, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,484192,NA,NA,0,Iowa,Iowa,96
+2010-11,2011-01-04,1008815,502,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1449,Iowa,189,189,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,96
+2010-11,2011-01-04,1008815,503,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1449,Iowa,184,184,5, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,27,7.349999999999994,553559,NA,NA,0,Iowa,Iowa,96
+2010-11,2011-01-04,1008815,504,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,58,67,-9,1557,Ohio State,184,184,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Ohio State,96
+2010-11,2011-01-04,1008815,505,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,60,67,-7,1449,Iowa,156,156,28, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,27.2,12.75,484192,NA,NA,0,Iowa,Ohio State,97
+2010-11,2011-01-04,1008815,507,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,4,60,69,-9,1557,Ohio State,143,143,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552399,NA,NA,0,Ohio State,Iowa,98
+2010-11,2011-01-04,1008815,508,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,3,60,69,-9,1557,Ohio State,142,142,1,Buckeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,510,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,3,60,69,-9,1557,Ohio State,108,108,34, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,46,4.25,468573,NA,NA,0,Ohio State,Ohio State,99
+2010-11,2011-01-04,1008815,511,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,3,60,69,-9,1557,Ohio State,108,108,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,99
+2010-11,2011-01-04,1008815,512,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,3,62,69,-7,1449,Iowa,98,98,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,553559,NA,NA,0,Iowa,Ohio State,99
+2010-11,2011-01-04,1008815,515,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,1,3,65,69,-4,1449,Iowa,68,68,30, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.8,29.049999999999997,469224,NA,NA,0,Iowa,Ohio State,100
+2010-11,2011-01-04,1008815,521,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,3,65,69,-4,1449,Iowa,65,65,3,Hawkeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,525,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,3,65,71,-6,1557,Ohio State,35,35,30, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329470,NA,NA,0,Ohio State,Iowa,101
+2010-11,2011-01-04,1008815,528,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,3,68,71,-3,1449,Iowa,27,27,8, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,43,17.049999999999997,553558,NA,NA,0,Iowa,Ohio State,102
+2010-11,2011-01-04,1008815,537,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,71,-3,1557,Ohio State,22,22,5,Buckeyes take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,542,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,71,-3,1449,Iowa,17,17,5,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,103
+2010-11,2011-01-04,1008815,543,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,72,-4,1557,Ohio State,17,17,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,103
+2010-11,2011-01-04,1008815,544,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,1557,Ohio State,17,17,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,103
+2010-11,2011-01-04,1008815,550,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,1449,Iowa,8,8,9,Personal foul committed by Hawkeyes.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,104
+2010-11,2011-01-04,1008815,551,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,1557,Ohio State,8,8,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Ohio State,104
+2010-11,2011-01-04,1008815,552,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,1449,Iowa,8,8,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Ohio State,Iowa,104
+2010-11,2011-01-04,1008815,557,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,1449,Iowa,4,4,4, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,23.849999999999994,484192,NA,NA,0,Iowa,NA,105
+2010-11,2011-01-04,1008815,559,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,NA,NA,0,0,4,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-01-04,1008815,560,0,2,Iowa,Ohio State,Hawkeyes,Buckeyes,0,2,68,73,-5,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Iowa,Iowa,NA

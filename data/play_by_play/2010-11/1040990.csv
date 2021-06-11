@@ -1,0 +1,275 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2011-03-10,1040990,1,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Marshall,NA
+2010-11,2011-03-10,1040990,5,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,2,-2,1486,Marshall,2378,1178,22, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,42.3,5.25,400592,NA,NA,0,Marshall,UTEP,1
+2010-11,2011-03-10,1040990,6,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,2,-2,1654,UTEP,2358,1158,20, misses a 3-point jump shot from 20 feet out.,missed,FALSE,TRUE,Jump Shot,4.799999999999997,5.849999999999994,330051,NA,NA,0,UTEP,Marshall,2
+2010-11,2011-03-10,1040990,9,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,2,-2,1654,UTEP,2345,1145,13,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,3
+2010-11,2011-03-10,1040990,10,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,2,-2,1486,Marshall,2345,1145,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,3
+2010-11,2011-03-10,1040990,11,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,0,2,-2,1486,Marshall,2345,1145,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,3
+2010-11,2011-03-10,1040990,13,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,3,2,1,1654,UTEP,2326,1126,19, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,19.7,29.450000000000003,330051,NA,NA,0,UTEP,Marshall,4
+2010-11,2011-03-10,1040990,14,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,3,5,-2,1486,Marshall,2314,1114,12, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,47,5.85,400592,NA,NA,0,Marshall,UTEP,5
+2010-11,2011-03-10,1040990,15,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,3,5,-2,1654,UTEP,2300,1100,14, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,31.8,30.950000000000003,399793,NA,NA,0,UTEP,UTEP,6
+2010-11,2011-03-10,1040990,16,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,3,5,-2,1654,UTEP,2293,1093,7, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,13.799999999999997,28.25,330051,NA,NA,0,UTEP,UTEP,6
+2010-11,2011-03-10,1040990,17,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,5,5,0,1654,UTEP,2281,1081,12, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,19.7,24.75,329549,NA,NA,0,UTEP,Marshall,6
+2010-11,2011-03-10,1040990,18,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,5,5,0,1486,Marshall,2261,1061,20, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,37.5,14.15,513235,NA,NA,0,Marshall,UTEP,7
+2010-11,2011-03-10,1040990,19,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,5,5,0,1654,UTEP,2245,1045,16, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,21.650000000000006,329549,NA,NA,0,UTEP,UTEP,8
+2010-11,2011-03-10,1040990,20,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,7,5,2,1654,UTEP,2236,1036,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399793,NA,NA,0,UTEP,Marshall,8
+2010-11,2011-03-10,1040990,21,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,7,5,2,1486,Marshall,2218,1018,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,37.8,13.75,464838,NA,NA,0,Marshall,UTEP,9
+2010-11,2011-03-10,1040990,22,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,7,5,2,1654,UTEP,2212,1012,6, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,17.25,399793,NA,NA,0,UTEP,UTEP,10
+2010-11,2011-03-10,1040990,26,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,9,5,4,1654,UTEP,2197,997,15, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399798,NA,NA,0,UTEP,Marshall,10
+2010-11,2011-03-10,1040990,27,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,9,5,4,1486,Marshall,2197,997,0,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,11
+2010-11,2011-03-10,1040990,28,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,10,5,5,1654,UTEP,2197,997,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,11
+2010-11,2011-03-10,1040990,29,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,10,5,5,1654,UTEP,2197,997,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,11
+2010-11,2011-03-10,1040990,32,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,10,5,5,1486,Marshall,2197,997,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,35,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1654,UTEP,2196,996,1, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399800,NA,NA,0,UTEP,Marshall,11
+2010-11,2011-03-10,1040990,38,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1486,Marshall,2180,980,16, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,40.2,6.75,400592,NA,NA,0,Marshall,UTEP,12
+2010-11,2011-03-10,1040990,40,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1486,Marshall,2178,978,2,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,13
+2010-11,2011-03-10,1040990,41,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1486,Marshall,2178,978,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,43,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1654,UTEP,2164,964,14, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,27.349999999999994,399798,NA,NA,0,UTEP,Marshall,13
+2010-11,2011-03-10,1040990,45,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1654,UTEP,2156,956,8,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,14
+2010-11,2011-03-10,1040990,46,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,NA,NA,2156,956,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,48,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1486,Marshall,2154,954,2, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.8,25.75,464835,NA,NA,0,Marshall,UTEP,14
+2010-11,2011-03-10,1040990,49,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1654,UTEP,2139,939,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,8.799999999999997,13.950000000000003,330051,NA,NA,0,UTEP,UTEP,15
+2010-11,2011-03-10,1040990,50,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1654,UTEP,2126,926,13, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,7.349999999999994,399800,NA,NA,0,UTEP,Marshall,15
+2010-11,2011-03-10,1040990,51,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,5,7,1486,Marshall,2119,919,7, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,21.35,464835,NA,NA,0,Marshall,Marshall,16
+2010-11,2011-03-10,1040990,52,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,7,5,1486,Marshall,2113,913,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464838,NA,NA,0,Marshall,UTEP,16
+2010-11,2011-03-10,1040990,53,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,12,9,3,1486,Marshall,2088,888,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464838,NA,NA,0,Marshall,UTEP,17
+2010-11,2011-03-10,1040990,54,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1654,UTEP,2065,865,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399798,NA,NA,0,UTEP,Marshall,18
+2010-11,2011-03-10,1040990,58,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1654,UTEP,2041,841,24,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,19
+2010-11,2011-03-10,1040990,59,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1486,Marshall,2041,841,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,60,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1654,UTEP,2041,841,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,61,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1486,Marshall,2041,841,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,64,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1486,Marshall,2034,834,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,9,24.75,464837,NA,NA,0,Marshall,Marshall,19
+2010-11,2011-03-10,1040990,67,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,9,5,1486,Marshall,2029,829,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,403008,NA,NA,0,Marshall,Marshall,19
+2010-11,2011-03-10,1040990,69,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,14,11,3,1486,Marshall,2026,826,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464319,NA,NA,0,Marshall,UTEP,19
+2010-11,2011-03-10,1040990,78,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,11,5,1654,UTEP,2005,805,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399791,NA,NA,0,UTEP,Marshall,20
+2010-11,2011-03-10,1040990,79,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,1486,Marshall,1979,779,26, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,13.8,6.75,464835,NA,NA,0,Marshall,UTEP,21
+2010-11,2011-03-10,1040990,80,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,1654,UTEP,1959,759,20, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,25.8,11.049999999999997,399791,NA,NA,0,UTEP,Marshall,22
+2010-11,2011-03-10,1040990,82,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,1486,Marshall,1940,740,19, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.5,11.85,513235,NA,NA,0,Marshall,UTEP,23
+2010-11,2011-03-10,1040990,89,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,NA,NA,1914,714,26,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,92,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,1654,UTEP,1913,713,1, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,8.349999999999994,329549,NA,NA,0,UTEP,UTEP,24
+2010-11,2011-03-10,1040990,94,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,16,13,3,1486,Marshall,1912,712,1,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,24
+2010-11,2011-03-10,1040990,95,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,17,13,4,1654,UTEP,1912,712,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,24
+2010-11,2011-03-10,1040990,96,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,13,5,1654,UTEP,1912,712,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,24
+2010-11,2011-03-10,1040990,100,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,13,5,1654,UTEP,1894,694,18,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,25
+2010-11,2011-03-10,1040990,101,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,14,4,1486,Marshall,1894,694,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,25
+2010-11,2011-03-10,1040990,102,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1486,Marshall,1894,694,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,25
+2010-11,2011-03-10,1040990,104,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1654,UTEP,1883,683,11, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,38.3,16.849999999999994,399793,NA,NA,0,UTEP,Marshall,26
+2010-11,2011-03-10,1040990,107,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1654,UTEP,1872,672,11,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,27
+2010-11,2011-03-10,1040990,108,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1486,Marshall,1872,672,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,109,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1654,UTEP,1872,672,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,110,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1486,Marshall,1872,672,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,112,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,18,15,3,1486,Marshall,1856,656,16, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,16.85,513235,NA,NA,0,Marshall,UTEP,27
+2010-11,2011-03-10,1040990,113,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,20,15,5,1654,UTEP,1847,647,9, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,28.5,11.049999999999997,399791,NA,NA,0,UTEP,Marshall,28
+2010-11,2011-03-10,1040990,116,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,20,15,5,1486,Marshall,1826,626,21,Offensive foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,29
+2010-11,2011-03-10,1040990,117,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,20,15,5,1486,Marshall,1826,626,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,123,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,22,15,7,1654,UTEP,1803,603,23, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,27,10.849999999999994,399791,NA,NA,0,UTEP,Marshall,30
+2010-11,2011-03-10,1040990,124,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,22,15,7,1486,Marshall,1780,580,23, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.3000000000000007,5.65,464838,NA,NA,0,Marshall,UTEP,31
+2010-11,2011-03-10,1040990,126,1,1,UTEP,Marshall,Miners,Thundering Herd,4,4,25,15,10,1654,UTEP,1768,568,12, makes a 3-point jump shot from 21 feet out.,made,FALSE,TRUE,Jump Shot,46.2,7.75,399798,NA,NA,0,UTEP,Marshall,32
+2010-11,2011-03-10,1040990,129,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,25,15,10,1486,Marshall,1765,565,3,Thundering Herd take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,130,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,25,15,10,1654,UTEP,1765,565,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,133,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,25,15,10,1486,Marshall,1761,561,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,138,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,25,17,8,1486,Marshall,1742,542,19, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,26.7,17.45,464835,NA,NA,0,Marshall,UTEP,33
+2010-11,2011-03-10,1040990,141,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,27,17,10,1654,UTEP,1722,522,20, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,552313,NA,NA,0,UTEP,Marshall,34
+2010-11,2011-03-10,1040990,142,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,27,17,10,1486,Marshall,1698,498,24, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,18.2,6.95,552389,NA,NA,0,Marshall,UTEP,35
+2010-11,2011-03-10,1040990,145,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,27,17,10,1486,Marshall,1682,482,16,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,36
+2010-11,2011-03-10,1040990,146,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,28,17,11,1654,UTEP,1682,482,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,36
+2010-11,2011-03-10,1040990,147,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,28,17,11,1486,Marshall,1682,482,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,148,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,1654,UTEP,1682,482,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,36
+2010-11,2011-03-10,1040990,152,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,1486,Marshall,1668,468,14, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,28,17.05,513235,NA,NA,0,Marshall,Marshall,37
+2010-11,2011-03-10,1040990,153,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,1486,Marshall,1666,466,2, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.8,12.75,513235,NA,NA,0,Marshall,UTEP,37
+2010-11,2011-03-10,1040990,159,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,NA,NA,1657,457,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,161,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,1654,UTEP,1655,455,2, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,12.25,399798,NA,NA,0,UTEP,Marshall,38
+2010-11,2011-03-10,1040990,162,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,29,17,12,1486,Marshall,1643,443,12, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,3,10.25,464835,NA,NA,0,Marshall,UTEP,39
+2010-11,2011-03-10,1040990,170,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,31,17,14,1654,UTEP,1617,417,26, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,24,16.450000000000003,399793,NA,NA,0,UTEP,Marshall,40
+2010-11,2011-03-10,1040990,172,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,31,17,14,1654,UTEP,1597,397,20, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399800,NA,NA,0,UTEP,UTEP,41
+2010-11,2011-03-10,1040990,174,1,1,UTEP,Marshall,Miners,Thundering Herd,4,3,33,17,16,1654,UTEP,1596,396,1, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,26.5,8.950000000000003,399800,NA,NA,0,UTEP,Marshall,41
+2010-11,2011-03-10,1040990,177,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,33,17,16,1486,Marshall,1594,394,2,Thundering Herd take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,179,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,33,17,16,1486,Marshall,1583,383,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,180,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,33,17,16,1486,Marshall,1583,383,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,182,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,33,17,16,1486,Marshall,1578,378,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464319,NA,NA,0,Marshall,Marshall,42
+2010-11,2011-03-10,1040990,183,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,33,17,16,1486,Marshall,1573,373,5, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,34.2,29.85,464837,NA,NA,0,Marshall,UTEP,42
+2010-11,2011-03-10,1040990,184,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,35,17,18,1654,UTEP,1568,368,5, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399800,NA,NA,0,UTEP,Marshall,43
+2010-11,2011-03-10,1040990,188,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,35,17,18,1486,Marshall,1543,343,25, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.3,9.15,403008,NA,NA,0,Marshall,UTEP,44
+2010-11,2011-03-10,1040990,191,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,35,17,18,1486,Marshall,1536,336,7,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,45
+2010-11,2011-03-10,1040990,192,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,35,17,18,1654,UTEP,1536,336,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,45
+2010-11,2011-03-10,1040990,193,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,36,17,19,1654,UTEP,1536,336,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,45
+2010-11,2011-03-10,1040990,194,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,36,17,19,1654,UTEP,1536,336,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,196,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,17,21,1654,UTEP,1532,332,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,399800,NA,NA,0,UTEP,Marshall,46
+2010-11,2011-03-10,1040990,199,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,17,21,1654,UTEP,1511,311,21,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,47
+2010-11,2011-03-10,1040990,200,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,18,20,1486,Marshall,1511,311,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,47
+2010-11,2011-03-10,1040990,201,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,18,20,1486,Marshall,1511,311,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,202,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1486,Marshall,1511,311,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,47
+2010-11,2011-03-10,1040990,207,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1486,Marshall,1484,284,27, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464838,NA,NA,0,Marshall,UTEP,48
+2010-11,2011-03-10,1040990,209,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1486,Marshall,1482,282,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,214,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1654,UTEP,1471,271,11,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,49
+2010-11,2011-03-10,1040990,217,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1654,UTEP,1460,260,11,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,218,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,38,19,19,1486,Marshall,1460,260,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,227,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,41,19,22,1654,UTEP,1445,245,15, makes a 3-point jump shot from 22 feet out.,made,FALSE,TRUE,Jump Shot,4.5,12.950000000000003,329549,NA,NA,0,UTEP,Marshall,50
+2010-11,2011-03-10,1040990,228,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,41,19,22,1486,Marshall,1426,226,19, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,14,13.95,464835,NA,NA,0,Marshall,UTEP,51
+2010-11,2011-03-10,1040990,231,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,41,19,22,1654,UTEP,1420,220,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329549,NA,NA,0,UTEP,Marshall,52
+2010-11,2011-03-10,1040990,234,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,41,21,20,1486,Marshall,1409,209,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513235,NA,NA,0,Marshall,UTEP,53
+2010-11,2011-03-10,1040990,235,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,21,23,1654,UTEP,1376,176,33, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,25.3,31.549999999999997,399793,NA,NA,0,UTEP,Marshall,54
+2010-11,2011-03-10,1040990,238,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,21,23,1654,UTEP,1358,158,18,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,55
+2010-11,2011-03-10,1040990,239,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,21,23,NA,NA,1358,158,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,240,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,21,23,1486,Marshall,1358,158,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,55
+2010-11,2011-03-10,1040990,241,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,22,22,1486,Marshall,1358,158,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,55
+2010-11,2011-03-10,1040990,244,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,22,22,1654,UTEP,1343,143,15, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,14.700000000000003,6.650000000000006,330051,NA,NA,0,UTEP,Marshall,56
+2010-11,2011-03-10,1040990,245,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,44,24,20,1486,Marshall,1325,125,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513235,NA,NA,0,Marshall,UTEP,57
+2010-11,2011-03-10,1040990,246,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1654,UTEP,1308,108,17, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,20.3,6.950000000000003,399791,NA,NA,0,UTEP,Marshall,58
+2010-11,2011-03-10,1040990,247,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1486,Marshall,1288,88,20, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,42.8,22.85,513235,NA,NA,0,Marshall,Marshall,59
+2010-11,2011-03-10,1040990,249,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1654,UTEP,1285,85,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,250,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1654,UTEP,1285,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,251,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1486,Marshall,1285,85,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,254,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1486,Marshall,1278,78,7, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.5,14.55,464838,NA,NA,0,Marshall,Marshall,59
+2010-11,2011-03-10,1040990,261,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,24,22,1654,UTEP,1263,63,15,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,59
+2010-11,2011-03-10,1040990,262,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,25,21,1486,Marshall,1263,63,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,59
+2010-11,2011-03-10,1040990,263,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,25,21,1486,Marshall,1263,63,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,60
+2010-11,2011-03-10,1040990,266,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,25,21,1486,Marshall,1261,61,2, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,29.5,9.15,552389,NA,NA,0,Marshall,UTEP,60
+2010-11,2011-03-10,1040990,267,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,25,21,1486,Marshall,1260,60,1,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,272,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,25,21,1654,UTEP,1237,37,23, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.3,14.349999999999994,399793,NA,NA,0,UTEP,Marshall,61
+2010-11,2011-03-10,1040990,275,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,27,19,1486,Marshall,1204,4,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552389,NA,NA,0,Marshall,Marshall,62
+2010-11,2011-03-10,1040990,276,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,27,19,1654,UTEP,1204,4,0,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,62
+2010-11,2011-03-10,1040990,277,1,1,UTEP,Marshall,Miners,Thundering Herd,4,2,46,28,18,1486,Marshall,1204,4,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,62
+2010-11,2011-03-10,1040990,278,1,1,UTEP,Marshall,Miners,Thundering Herd,3,2,46,28,18,1654,UTEP,1204,4,0,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,280,1,1,UTEP,Marshall,Miners,Thundering Herd,3,2,46,28,18,1654,UTEP,1201,1,3, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4,12.650000000000006,552313,NA,NA,0,UTEP,Marshall,63
+2010-11,2011-03-10,1040990,282,1,1,UTEP,Marshall,Miners,Thundering Herd,3,2,46,28,18,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,283,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,28,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Marshall,64
+2010-11,2011-03-10,1040990,286,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,30,16,1486,Marshall,1179,1179,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400592,NA,NA,0,Marshall,UTEP,65
+2010-11,2011-03-10,1040990,293,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,30,16,1654,UTEP,1151,1151,28,Offensive foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,66
+2010-11,2011-03-10,1040990,297,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1486,Marshall,1128,1128,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,403008,NA,NA,0,Marshall,UTEP,67
+2010-11,2011-03-10,1040990,298,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1654,UTEP,1115,1115,13, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,17.450000000000003,399793,NA,NA,0,UTEP,Marshall,68
+2010-11,2011-03-10,1040990,300,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1486,Marshall,1104,1104,11, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,25.5,30.55,513235,NA,NA,0,Marshall,UTEP,69
+2010-11,2011-03-10,1040990,304,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1654,UTEP,1068,1068,36, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,42.3,7.150000000000006,399798,NA,NA,0,UTEP,Marshall,70
+2010-11,2011-03-10,1040990,306,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1486,Marshall,1059,1059,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464838,NA,NA,0,Marshall,UTEP,71
+2010-11,2011-03-10,1040990,309,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1654,UTEP,1056,1056,3,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,311,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1654,UTEP,1043,1043,13, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,27.3,13.349999999999994,399800,NA,NA,0,UTEP,Marshall,72
+2010-11,2011-03-10,1040990,313,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,32,14,1486,Marshall,1029,1029,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400592,NA,NA,0,Marshall,Marshall,73
+2010-11,2011-03-10,1040990,315,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,34,12,1486,Marshall,1028,1028,1, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,403008,NA,NA,0,Marshall,UTEP,73
+2010-11,2011-03-10,1040990,323,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,34,12,1654,UTEP,993,993,35, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,44.8,10.450000000000003,399800,NA,NA,0,UTEP,UTEP,74
+2010-11,2011-03-10,1040990,326,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,34,12,1654,UTEP,980,980,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,23.8,30.35,399793,NA,NA,0,UTEP,Marshall,74
+2010-11,2011-03-10,1040990,329,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,36,10,1486,Marshall,966,966,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,400592,NA,NA,0,Marshall,Marshall,75
+2010-11,2011-03-10,1040990,330,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,36,10,1654,UTEP,966,966,0,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,75
+2010-11,2011-03-10,1040990,331,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,37,9,1486,Marshall,966,966,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,75
+2010-11,2011-03-10,1040990,332,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,46,37,9,1486,Marshall,966,966,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,336,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,48,37,11,1654,UTEP,955,955,11, makes a hook shot from 6 feet out.,made,FALSE,FALSE,Hook Shot,19.7,7.75,329549,NA,NA,0,UTEP,Marshall,76
+2010-11,2011-03-10,1040990,339,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,48,37,11,1486,Marshall,936,936,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464838,NA,NA,0,Marshall,UTEP,77
+2010-11,2011-03-10,1040990,342,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,48,37,11,1486,Marshall,929,929,7,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,78
+2010-11,2011-03-10,1040990,343,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,48,37,11,NA,NA,929,929,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,344,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,48,37,11,1654,UTEP,929,929,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,78
+2010-11,2011-03-10,1040990,345,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,49,37,12,1654,UTEP,929,929,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,78
+2010-11,2011-03-10,1040990,347,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,49,39,10,1486,Marshall,898,898,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513235,NA,NA,0,Marshall,UTEP,79
+2010-11,2011-03-10,1040990,348,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,49,39,10,1654,UTEP,876,876,22, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,23.049999999999997,399793,NA,NA,0,UTEP,Marshall,80
+2010-11,2011-03-10,1040990,349,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,49,42,7,1486,Marshall,863,863,13, makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,38.5,24.35,400592,NA,NA,0,Marshall,UTEP,81
+2010-11,2011-03-10,1040990,351,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1654,UTEP,827,827,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,330051,NA,NA,0,UTEP,UTEP,82
+2010-11,2011-03-10,1040990,352,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1486,Marshall,827,827,0,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,82
+2010-11,2011-03-10,1040990,353,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1486,Marshall,827,827,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,354,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1654,UTEP,827,827,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,355,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1654,UTEP,827,827,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,82
+2010-11,2011-03-10,1040990,357,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1486,Marshall,820,820,7, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.7,25.15,464837,NA,NA,0,Marshall,UTEP,83
+2010-11,2011-03-10,1040990,358,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,42,9,1654,UTEP,802,802,18, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,7.349999999999994,399791,NA,NA,0,UTEP,Marshall,84
+2010-11,2011-03-10,1040990,359,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,51,44,7,1486,Marshall,789,789,13, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,403008,NA,NA,0,Marshall,UTEP,85
+2010-11,2011-03-10,1040990,360,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,53,44,9,1654,UTEP,764,764,25, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,28.5,10.450000000000003,399791,NA,NA,0,UTEP,Marshall,86
+2010-11,2011-03-10,1040990,361,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,53,44,9,1486,Marshall,734,734,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.199999999999999,16.45,464837,NA,NA,0,Marshall,UTEP,87
+2010-11,2011-03-10,1040990,362,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,44,11,1654,UTEP,727,727,7, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329549,NA,NA,0,UTEP,Marshall,88
+2010-11,2011-03-10,1040990,366,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,44,11,1654,UTEP,695,695,32,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,89
+2010-11,2011-03-10,1040990,367,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,44,11,NA,NA,695,695,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,368,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1486,Marshall,695,695,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,89
+2010-11,2011-03-10,1040990,369,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1486,Marshall,695,695,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,370,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1486,Marshall,695,695,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,89
+2010-11,2011-03-10,1040990,374,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1654,UTEP,678,678,17, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399793,NA,NA,0,UTEP,Marshall,90
+2010-11,2011-03-10,1040990,375,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1486,Marshall,667,667,11, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,26,31.15,464838,NA,NA,0,Marshall,UTEP,91
+2010-11,2011-03-10,1040990,378,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,55,45,10,1486,Marshall,659,659,8,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,92
+2010-11,2011-03-10,1040990,379,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,56,45,11,1654,UTEP,659,659,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,92
+2010-11,2011-03-10,1040990,380,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,56,45,11,1654,UTEP,659,659,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,381,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,56,45,11,1654,UTEP,659,659,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,382,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,56,45,11,1486,Marshall,659,659,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,383,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,56,45,11,1654,UTEP,659,659,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,92
+2010-11,2011-03-10,1040990,385,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,45,14,1654,UTEP,633,633,26, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,10.799999999999997,25.349999999999994,330051,NA,NA,0,UTEP,Marshall,92
+2010-11,2011-03-10,1040990,389,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,45,14,1654,UTEP,610,610,23,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,93
+2010-11,2011-03-10,1040990,390,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,46,13,1486,Marshall,610,610,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,93
+2010-11,2011-03-10,1040990,391,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,46,13,1654,UTEP,610,610,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,392,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,46,13,1486,Marshall,610,610,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,393,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,47,12,1486,Marshall,610,610,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,93
+2010-11,2011-03-10,1040990,398,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,47,12,1486,Marshall,594,594,16,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,94
+2010-11,2011-03-10,1040990,399,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,59,47,12,1654,UTEP,594,594,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,94
+2010-11,2011-03-10,1040990,400,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,60,47,13,1654,UTEP,594,594,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,94
+2010-11,2011-03-10,1040990,402,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,60,49,11,1486,Marshall,579,579,15, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,13.7,18.75,403008,NA,NA,0,Marshall,UTEP,95
+2010-11,2011-03-10,1040990,404,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,60,49,11,1486,Marshall,549,549,30,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,96
+2010-11,2011-03-10,1040990,405,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,60,49,11,1654,UTEP,549,549,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,96
+2010-11,2011-03-10,1040990,406,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,61,49,12,1654,UTEP,549,549,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,96
+2010-11,2011-03-10,1040990,410,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,61,49,12,1486,Marshall,526,526,23,Offensive foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,97
+2010-11,2011-03-10,1040990,415,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,61,49,12,1654,UTEP,499,499,27, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,9.549999999999997,552313,NA,NA,0,UTEP,UTEP,98
+2010-11,2011-03-10,1040990,416,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,63,49,14,1654,UTEP,496,496,3, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,18.7,6.650000000000006,399800,NA,NA,0,UTEP,Marshall,98
+2010-11,2011-03-10,1040990,420,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,63,51,12,1486,Marshall,478,478,18, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,25.7,18.55,403008,NA,NA,0,Marshall,UTEP,99
+2010-11,2011-03-10,1040990,423,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,63,51,12,1654,UTEP,447,447,31, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399793,NA,NA,0,UTEP,UTEP,100
+2010-11,2011-03-10,1040990,424,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,65,51,14,1654,UTEP,445,445,2, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,552313,NA,NA,0,UTEP,Marshall,100
+2010-11,2011-03-10,1040990,433,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,65,51,14,1486,Marshall,430,430,15, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,25.3,16.45,403008,NA,NA,0,Marshall,UTEP,101
+2010-11,2011-03-10,1040990,434,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,65,51,14,1654,UTEP,412,412,18, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,40.7,7.349999999999994,399793,NA,NA,0,UTEP,Marshall,102
+2010-11,2011-03-10,1040990,437,1,2,UTEP,Marshall,Miners,Thundering Herd,4,4,65,51,14,1486,Marshall,395,395,17, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,12.2,14.35,400592,NA,NA,0,Marshall,UTEP,103
+2010-11,2011-03-10,1040990,441,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1654,UTEP,376,376,19,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,444,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1654,UTEP,358,358,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,27.150000000000006,399800,NA,NA,0,UTEP,UTEP,104
+2010-11,2011-03-10,1040990,446,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,NA,NA,354,354,4,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,447,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1486,Marshall,354,354,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,448,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1486,Marshall,354,354,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,450,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1654,UTEP,347,347,7, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,24.950000000000003,329549,NA,NA,0,UTEP,Marshall,104
+2010-11,2011-03-10,1040990,452,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1486,Marshall,321,321,26, misses a jump shot from 5 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,8.35,513235,NA,NA,0,Marshall,UTEP,105
+2010-11,2011-03-10,1040990,455,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1486,Marshall,318,318,3,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,106
+2010-11,2011-03-10,1040990,456,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,65,51,14,1486,Marshall,318,318,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,457,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,51,15,1654,UTEP,318,318,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,106
+2010-11,2011-03-10,1040990,458,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,51,15,1654,UTEP,318,318,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,107
+2010-11,2011-03-10,1040990,464,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,53,13,1486,Marshall,284,284,34, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464835,NA,NA,0,Marshall,Marshall,108
+2010-11,2011-03-10,1040990,467,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,53,13,1654,UTEP,247,247,37,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,108
+2010-11,2011-03-10,1040990,468,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,54,12,1486,Marshall,247,247,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,108
+2010-11,2011-03-10,1040990,469,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,54,12,1654,UTEP,247,247,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,470,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,54,12,1486,Marshall,247,247,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,471,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,55,11,1486,Marshall,247,247,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,108
+2010-11,2011-03-10,1040990,475,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,55,11,1486,Marshall,237,237,10,Shooting foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,109
+2010-11,2011-03-10,1040990,476,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,55,11,NA,NA,237,237,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,477,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,66,55,11,1486,Marshall,237,237,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,478,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,67,55,12,1654,UTEP,237,237,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,109
+2010-11,2011-03-10,1040990,479,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,68,55,13,1654,UTEP,237,237,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,109
+2010-11,2011-03-10,1040990,481,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,68,55,13,1654,UTEP,203,203,34, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,38.5,7.75,330051,NA,NA,0,UTEP,Marshall,110
+2010-11,2011-03-10,1040990,482,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,68,57,11,1486,Marshall,186,186,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464838,NA,NA,0,Marshall,UTEP,111
+2010-11,2011-03-10,1040990,483,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,68,57,11,1654,UTEP,151,151,35, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,329549,NA,NA,0,UTEP,Marshall,112
+2010-11,2011-03-10,1040990,486,1,2,UTEP,Marshall,Miners,Thundering Herd,3,4,68,59,9,1486,Marshall,140,140,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464838,NA,NA,0,Marshall,UTEP,113
+2010-11,2011-03-10,1040990,488,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,68,59,9,1486,Marshall,139,139,1,Thundering Herd take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,492,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,68,59,9,1654,UTEP,104,104,35, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,399798,NA,NA,0,UTEP,Marshall,114
+2010-11,2011-03-10,1040990,494,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,68,59,9,1486,Marshall,91,91,13, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,15.7,28.25,513235,NA,NA,0,Marshall,UTEP,115
+2010-11,2011-03-10,1040990,497,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,68,59,9,1486,Marshall,87,87,4,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,116
+2010-11,2011-03-10,1040990,498,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,68,59,9,1486,Marshall,87,87,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,499,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,59,10,1654,UTEP,87,87,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,116
+2010-11,2011-03-10,1040990,500,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,59,10,1654,UTEP,87,87,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,117
+2010-11,2011-03-10,1040990,504,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,59,10,1654,UTEP,74,74,13,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,118
+2010-11,2011-03-10,1040990,510,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,59,10,1486,Marshall,66,66,8, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2.3000000000000007,7.95,464838,NA,NA,0,Marshall,Marshall,118
+2010-11,2011-03-10,1040990,514,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,59,10,1654,UTEP,61,61,5,Personal foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,118
+2010-11,2011-03-10,1040990,515,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,60,9,1486,Marshall,61,61,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,118
+2010-11,2011-03-10,1040990,516,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,61,8,1486,Marshall,61,61,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,119
+2010-11,2011-03-10,1040990,517,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,61,8,1486,Marshall,61,61,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,518,1,2,UTEP,Marshall,Miners,Thundering Herd,3,3,69,61,8,1486,Marshall,61,61,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,519,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,69,61,8,1654,UTEP,61,61,0,Miners take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,523,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,71,61,10,1654,UTEP,50,50,11, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,399798,NA,NA,0,UTEP,Marshall,120
+2010-11,2011-03-10,1040990,525,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,71,61,10,1486,Marshall,45,45,5, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,20.35,464838,NA,NA,0,Marshall,UTEP,121
+2010-11,2011-03-10,1040990,527,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,71,61,10,1486,Marshall,42,42,3,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,122
+2010-11,2011-03-10,1040990,528,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,72,61,11,1654,UTEP,42,42,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,122
+2010-11,2011-03-10,1040990,529,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,72,61,11,1486,Marshall,42,42,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,530,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,72,61,11,1486,Marshall,42,42,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,531,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,73,61,12,1654,UTEP,42,42,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,122
+2010-11,2011-03-10,1040990,535,1,2,UTEP,Marshall,Miners,Thundering Herd,2,3,73,63,10,1486,Marshall,37,37,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,464835,NA,NA,0,Marshall,UTEP,123
+2010-11,2011-03-10,1040990,536,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,73,63,10,1486,Marshall,37,37,0,Thundering Herd take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,538,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,73,63,10,1486,Marshall,36,36,1,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,124
+2010-11,2011-03-10,1040990,539,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,74,63,11,1654,UTEP,36,36,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,124
+2010-11,2011-03-10,1040990,540,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,63,12,1654,UTEP,36,36,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,124
+2010-11,2011-03-10,1040990,544,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,63,12,1654,UTEP,30,30,6,Shooting foul committed by Miners.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,125
+2010-11,2011-03-10,1040990,545,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,63,12,1654,UTEP,30,30,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,546,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,64,11,1486,Marshall,30,30,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,125
+2010-11,2011-03-10,1040990,547,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,65,10,1486,Marshall,30,30,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,UTEP,125
+2010-11,2011-03-10,1040990,552,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,65,10,1486,Marshall,21,21,9,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,553,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,75,65,10,1486,Marshall,21,21,0,Personal foul committed by Thundering Herd.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,126
+2010-11,2011-03-10,1040990,554,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,76,65,11,1654,UTEP,21,21,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,UTEP,126
+2010-11,2011-03-10,1040990,555,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,1654,UTEP,21,21,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UTEP,Marshall,126
+2010-11,2011-03-10,1040990,556,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,1486,Marshall,21,21,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,559,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,1486,Marshall,15,15,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,464838,NA,NA,0,Marshall,NA,127
+2010-11,2011-03-10,1040990,561,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,1654,UTEP,13,13,2,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,562,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,1654,UTEP,13,13,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2010-11,2011-03-10,1040990,568,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,NA,NA,0,0,13,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2011-03-10,1040990,569,1,2,UTEP,Marshall,Miners,Thundering Herd,2,2,77,65,12,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Marshall,Marshall,NA

@@ -1,0 +1,243 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2009-12-19,922922,1,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Butler,NA
+2009-10,2009-12-19,922922,4,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,3,0,3,1324,Butler,2371,1171,29, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.200000000000003,19.75,477667,NA,NA,0,Butler,Xavier,1
+2009-10,2009-12-19,922922,5,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,3,2,1,1715,Xavier,2340,1140,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Butler,2
+2009-10,2009-12-19,922922,6,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,5,2,3,1324,Butler,2318,1118,22, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Xavier,3
+2009-10,2009-12-19,922922,11,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,5,2,3,1715,Xavier,2283,1083,35, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,8.15,329708,NA,NA,0,Xavier,Xavier,4
+2009-10,2009-12-19,922922,12,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,5,2,3,1324,Butler,2283,1083,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,4
+2009-10,2009-12-19,922922,15,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,5,2,3,1715,Xavier,2274,1074,9,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,5
+2009-10,2009-12-19,922922,16,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,6,2,4,1324,Butler,2274,1074,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,5
+2009-10,2009-12-19,922922,17,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1324,Butler,2274,1074,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,5
+2009-10,2009-12-19,922922,24,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1715,Xavier,2244,1044,30, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.2,11.85,469338,NA,NA,0,Xavier,Xavier,6
+2009-10,2009-12-19,922922,25,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1715,Xavier,2244,1044,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,6
+2009-10,2009-12-19,922922,26,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1324,Butler,2244,1044,0,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,6
+2009-10,2009-12-19,922922,32,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1715,Xavier,2213,1013,31, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,12.75,401082,NA,NA,0,Xavier,Xavier,6
+2009-10,2009-12-19,922922,33,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,7,2,5,1324,Butler,2213,1013,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,6
+2009-10,2009-12-19,922922,34,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,2,7,1324,Butler,2198,998,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,401058,NA,NA,0,Butler,Xavier,7
+2009-10,2009-12-19,922922,35,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2180,980,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Butler,8
+2009-10,2009-12-19,922922,38,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2161,961,19,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,9
+2009-10,2009-12-19,922922,46,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2146,946,15, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,45.3,14.15,401082,NA,NA,0,Xavier,Xavier,10
+2009-10,2009-12-19,922922,47,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2146,946,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,10
+2009-10,2009-12-19,922922,49,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2135,935,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,339496,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-19,922922,50,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2135,935,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-19,922922,51,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2135,935,0,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-19,922922,52,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,NA,NA,2135,935,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,58,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2135,935,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-19,922922,60,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2135,935,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,11
+2009-10,2009-12-19,922922,61,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2135,935,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,11
+2009-10,2009-12-19,922922,76,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2123,923,12,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,12
+2009-10,2009-12-19,922922,77,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2123,923,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,12
+2009-10,2009-12-19,922922,79,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2123,923,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,12
+2009-10,2009-12-19,922922,80,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2123,923,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,12
+2009-10,2009-12-19,922922,93,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2108,908,15,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,13
+2009-10,2009-12-19,922922,114,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1715,Xavier,2085,885,23, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,23.45,469339,NA,NA,0,Xavier,Xavier,14
+2009-10,2009-12-19,922922,115,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,9,4,5,1324,Butler,2085,885,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,14
+2009-10,2009-12-19,922922,122,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,12,4,8,1324,Butler,2072,872,13, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,24.3,30.75,477667,NA,NA,0,Butler,Xavier,15
+2009-10,2009-12-19,922922,123,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,12,4,8,1715,Xavier,2064,864,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469337,NA,NA,0,Xavier,Xavier,16
+2009-10,2009-12-19,922922,124,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,12,4,8,1324,Butler,2064,864,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,16
+2009-10,2009-12-19,922922,128,0,1,Butler,Xavier,Bulldogs,Musketeers,4,4,15,4,11,1324,Butler,2060,860,4, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,24.5,30.35,477669,NA,NA,0,Butler,Xavier,17
+2009-10,2009-12-19,922922,129,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,15,4,11,1324,Butler,2060,860,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,141,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,15,6,9,1715,Xavier,2026,826,34, makes a jump shot from 19 feet out.,made,FALSE,FALSE,Jump Shot,31,22.85,469339,NA,NA,0,Xavier,Butler,18
+2009-10,2009-12-19,922922,143,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,18,6,12,1324,Butler,2005,805,21, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,14,27.349999999999994,339496,NA,NA,0,Butler,Xavier,19
+2009-10,2009-12-19,922922,144,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,18,6,12,1715,Xavier,1989,789,16, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,14.95,469339,NA,NA,0,Xavier,Xavier,20
+2009-10,2009-12-19,922922,145,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,18,6,12,1324,Butler,1989,789,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,20
+2009-10,2009-12-19,922922,146,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,6,14,1324,Butler,1973,773,16, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,477667,NA,NA,0,Butler,Xavier,21
+2009-10,2009-12-19,922922,147,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,8,12,1715,Xavier,1957,757,16, makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,27,18.05,401082,NA,NA,0,Xavier,Butler,22
+2009-10,2009-12-19,922922,149,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,8,12,1715,Xavier,1934,734,23,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,23
+2009-10,2009-12-19,922922,161,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,10,10,1715,Xavier,1908,708,26, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,22.8,20.55,469338,NA,NA,0,Xavier,Butler,23
+2009-10,2009-12-19,922922,162,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,10,10,1324,Butler,1892,692,16, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44,15.650000000000006,477666,NA,NA,0,Butler,Butler,24
+2009-10,2009-12-19,922922,163,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,10,10,1715,Xavier,1892,692,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,24
+2009-10,2009-12-19,922922,164,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,20,12,8,1715,Xavier,1883,683,9, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,469337,NA,NA,0,Xavier,Butler,25
+2009-10,2009-12-19,922922,165,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1853,653,30, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,45,15.849999999999994,401059,NA,NA,0,Butler,Xavier,26
+2009-10,2009-12-19,922922,167,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1847,647,6,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,27
+2009-10,2009-12-19,922922,168,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,NA,NA,1847,647,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,175,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1824,624,23, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.7,8.55,401687,NA,NA,0,Xavier,Xavier,27
+2009-10,2009-12-19,922922,176,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1824,624,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,27
+2009-10,2009-12-19,922922,186,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1782,582,42, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,16.2,13.75,344692,NA,NA,0,Xavier,Xavier,28
+2009-10,2009-12-19,922922,187,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1782,582,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,28
+2009-10,2009-12-19,922922,188,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1761,561,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,20.8,30.25,330417,NA,NA,0,Butler,Butler,29
+2009-10,2009-12-19,922922,189,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1761,561,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,29
+2009-10,2009-12-19,922922,190,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1742,542,19, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,36.8,26.15,469339,NA,NA,0,Xavier,Xavier,30
+2009-10,2009-12-19,922922,191,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1742,542,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,30
+2009-10,2009-12-19,922922,195,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1324,Butler,1734,534,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.5,25.75,401059,NA,NA,0,Butler,Butler,31
+2009-10,2009-12-19,922922,197,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1734,534,0,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,31
+2009-10,2009-12-19,922922,212,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,23,12,11,1715,Xavier,1725,525,9,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,31
+2009-10,2009-12-19,922922,214,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,24,12,12,1324,Butler,1725,525,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,31
+2009-10,2009-12-19,922922,215,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,12,13,1324,Butler,1725,525,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,31
+2009-10,2009-12-19,922922,219,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,12,13,1715,Xavier,1713,513,12, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.2,13.15,401082,NA,NA,0,Xavier,Xavier,32
+2009-10,2009-12-19,922922,220,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,12,13,1715,Xavier,1713,513,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,32
+2009-10,2009-12-19,922922,221,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1715,Xavier,1709,509,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401082,NA,NA,0,Xavier,Butler,32
+2009-10,2009-12-19,922922,222,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1324,Butler,1690,490,19, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,16.700000000000003,26.349999999999994,339496,NA,NA,0,Butler,Butler,33
+2009-10,2009-12-19,922922,223,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1715,Xavier,1690,490,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,33
+2009-10,2009-12-19,922922,224,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1715,Xavier,1677,477,13, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.8000000000000007,6.75,401687,NA,NA,0,Xavier,Xavier,34
+2009-10,2009-12-19,922922,225,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1324,Butler,1677,477,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,34
+2009-10,2009-12-19,922922,226,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1324,Butler,1669,469,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477669,NA,NA,0,Butler,Butler,35
+2009-10,2009-12-19,922922,227,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,25,14,11,1324,Butler,1669,469,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,35
+2009-10,2009-12-19,922922,228,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,27,14,13,1324,Butler,1662,462,7, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,26.8,8.75,477669,NA,NA,0,Butler,Xavier,35
+2009-10,2009-12-19,922922,229,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,27,14,13,1324,Butler,1653,453,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-19,922922,230,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,27,14,13,1324,Butler,1653,453,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,36
+2009-10,2009-12-19,922922,231,0,1,Butler,Xavier,Bulldogs,Musketeers,3,4,29,14,15,1324,Butler,1650,450,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,Xavier,36
+2009-10,2009-12-19,922922,240,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,29,14,15,1715,Xavier,1650,450,0,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,246,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,29,16,13,1715,Xavier,1619,419,31, makes a jump shot from 5 feet out.,made,FALSE,FALSE,Jump Shot,24.7,9.85,401082,NA,NA,0,Xavier,Xavier,37
+2009-10,2009-12-19,922922,247,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,29,16,13,1324,Butler,1619,419,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,37
+2009-10,2009-12-19,922922,248,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,29,16,13,NA,NA,1619,419,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,250,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,29,17,12,1715,Xavier,1619,419,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,37
+2009-10,2009-12-19,922922,252,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,17,15,1324,Butler,1603,403,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.700000000000003,25.150000000000006,477667,NA,NA,0,Butler,Xavier,38
+2009-10,2009-12-19,922922,253,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,17,15,1715,Xavier,1581,381,22, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,30.5,7.95,469337,NA,NA,0,Xavier,Xavier,39
+2009-10,2009-12-19,922922,254,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,17,15,1324,Butler,1581,381,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,39
+2009-10,2009-12-19,922922,256,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,17,15,1324,Butler,1568,368,13, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.3,25.75,339496,NA,NA,0,Butler,Butler,40
+2009-10,2009-12-19,922922,257,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,17,15,1715,Xavier,1568,368,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,40
+2009-10,2009-12-19,922922,258,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,32,20,12,1715,Xavier,1558,358,10, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,44.8,16.65,401687,NA,NA,0,Xavier,Butler,41
+2009-10,2009-12-19,922922,259,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,34,20,14,1324,Butler,1537,337,21, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Xavier,42
+2009-10,2009-12-19,922922,260,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,34,23,11,1715,Xavier,1516,316,21, makes a 3-point jump shot from 27 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.5,27.65,469340,NA,NA,0,Xavier,Butler,43
+2009-10,2009-12-19,922922,261,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,34,23,11,1324,Butler,1491,291,25, misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,32.2,9.650000000000006,401058,NA,NA,0,Butler,Butler,44
+2009-10,2009-12-19,922922,262,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,34,23,11,1715,Xavier,1491,291,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,44
+2009-10,2009-12-19,922922,266,0,1,Butler,Xavier,Bulldogs,Musketeers,3,3,34,26,8,1715,Xavier,1483,283,8, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8.8,24.95,469340,NA,NA,0,Xavier,Butler,45
+2009-10,2009-12-19,922922,267,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,34,26,8,1324,Butler,1483,283,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,269,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1465,265,18, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,401058,NA,NA,0,Butler,Xavier,46
+2009-10,2009-12-19,922922,276,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1453,253,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469337,NA,NA,0,Xavier,Butler,47
+2009-10,2009-12-19,922922,283,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1435,235,18, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,16.5,17.650000000000006,477669,NA,NA,0,Butler,Butler,48
+2009-10,2009-12-19,922922,284,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1435,235,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,48
+2009-10,2009-12-19,922922,291,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1431,231,4,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,49
+2009-10,2009-12-19,922922,292,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,NA,NA,1431,231,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,293,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1431,231,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,49
+2009-10,2009-12-19,922922,294,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1431,231,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,49
+2009-10,2009-12-19,922922,300,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1412,212,19, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,32.5,12.650000000000006,477667,NA,NA,0,Butler,Butler,50
+2009-10,2009-12-19,922922,301,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1412,212,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,50
+2009-10,2009-12-19,922922,304,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1409,209,3,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,50
+2009-10,2009-12-19,922922,306,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1385,185,24, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,38.7,23.450000000000003,401058,NA,NA,0,Butler,Butler,50
+2009-10,2009-12-19,922922,307,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1385,185,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,50
+2009-10,2009-12-19,922922,311,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1380,180,5,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,51
+2009-10,2009-12-19,922922,312,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1380,180,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,51
+2009-10,2009-12-19,922922,313,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1380,180,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,51
+2009-10,2009-12-19,922922,328,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1715,Xavier,1338,138,42, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,22.7,16.25,401082,NA,NA,0,Xavier,Xavier,52
+2009-10,2009-12-19,922922,329,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1338,138,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,52
+2009-10,2009-12-19,922922,332,0,1,Butler,Xavier,Bulldogs,Musketeers,2,3,36,26,10,1324,Butler,1317,117,21, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.299999999999997,22.049999999999997,477670,NA,NA,0,Butler,Xavier,53
+2009-10,2009-12-19,922922,338,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,36,26,10,1715,Xavier,1297,97,20,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,340,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,36,26,10,1715,Xavier,1292,92,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,38.5,25.55,469340,NA,NA,0,Xavier,Xavier,54
+2009-10,2009-12-19,922922,341,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,36,26,10,1715,Xavier,1292,92,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,54
+2009-10,2009-12-19,922922,346,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,36,26,10,1715,Xavier,1274,74,18,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,54
+2009-10,2009-12-19,922922,347,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,37,26,11,1324,Butler,1274,74,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,54
+2009-10,2009-12-19,922922,348,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,26,12,1324,Butler,1274,74,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,54
+2009-10,2009-12-19,922922,351,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,26,12,1715,Xavier,1262,62,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401687,NA,NA,0,Xavier,Xavier,55
+2009-10,2009-12-19,922922,352,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,26,12,1715,Xavier,1262,62,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,55
+2009-10,2009-12-19,922922,353,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,28,10,1715,Xavier,1258,58,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,469337,NA,NA,0,Xavier,Butler,55
+2009-10,2009-12-19,922922,360,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,28,10,1715,Xavier,1245,45,13,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-19,922922,361,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,38,28,10,1324,Butler,1245,45,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,56
+2009-10,2009-12-19,922922,364,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,28,11,1324,Butler,1245,45,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,56
+2009-10,2009-12-19,922922,367,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,30,9,1715,Xavier,1216,16,29, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469337,NA,NA,0,Xavier,Butler,57
+2009-10,2009-12-19,922922,382,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,30,9,1324,Butler,1201,1,15,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,58
+2009-10,2009-12-19,922922,383,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,31,8,1715,Xavier,1201,1,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,58
+2009-10,2009-12-19,922922,399,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,32,7,1715,Xavier,1201,1,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,58
+2009-10,2009-12-19,922922,401,0,1,Butler,Xavier,Bulldogs,Musketeers,2,2,39,32,7,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,403,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,32,7,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Xavier,59
+2009-10,2009-12-19,922922,405,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,34,5,1715,Xavier,1189,1189,11, makes a hook shot from 11 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,23,15.65,329708,NA,NA,0,Xavier,Butler,60
+2009-10,2009-12-19,922922,412,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,36,3,1715,Xavier,1148,1148,41, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,17.8,9.85,401082,NA,NA,0,Xavier,Butler,61
+2009-10,2009-12-19,922922,436,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,36,3,1715,Xavier,1113,1113,35, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,18,8.75,329708,NA,NA,0,Xavier,Xavier,62
+2009-10,2009-12-19,922922,441,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,36,3,1324,Butler,1101,1101,12,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,62
+2009-10,2009-12-19,922922,443,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,36,3,1715,Xavier,1085,1085,16, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,28.5,11.85,469338,NA,NA,0,Xavier,Xavier,62
+2009-10,2009-12-19,922922,444,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,36,3,1715,Xavier,1085,1085,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,62
+2009-10,2009-12-19,922922,445,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,38,1,1715,Xavier,1082,1082,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Butler,62
+2009-10,2009-12-19,922922,447,0,2,Butler,Xavier,Bulldogs,Musketeers,4,4,39,41,-2,1715,Xavier,1060,1060,22, makes a 3-point jump shot from 26 feet out.,made,FALSE,TRUE,Jump Shot,35.2,28.65,401082,NA,NA,0,Xavier,Butler,63
+2009-10,2009-12-19,922922,451,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,39,41,-2,1324,Butler,1057,1057,3,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,454,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,39,41,-2,1324,Butler,1039,1039,18, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,29.7,11.849999999999994,401058,NA,NA,0,Butler,Butler,64
+2009-10,2009-12-19,922922,455,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,39,41,-2,1715,Xavier,1039,1039,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,64
+2009-10,2009-12-19,922922,456,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,39,43,-4,1715,Xavier,1032,1032,7, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,401082,NA,NA,0,Xavier,Butler,65
+2009-10,2009-12-19,922922,457,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,43,-2,1324,Butler,1008,1008,24, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,27.7,13.75,339496,NA,NA,0,Butler,Xavier,66
+2009-10,2009-12-19,922922,478,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,45,-4,1715,Xavier,991,991,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Butler,67
+2009-10,2009-12-19,922922,482,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,45,-4,1715,Xavier,967,967,24,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,68
+2009-10,2009-12-19,922922,485,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,45,-4,1324,Butler,965,965,2,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,68
+2009-10,2009-12-19,922922,497,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,45,-4,1324,Butler,942,942,23, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,37.7,10.450000000000003,477667,NA,NA,0,Butler,Xavier,69
+2009-10,2009-12-19,922922,499,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,45,-4,NA,NA,942,942,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,501,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,47,-6,1715,Xavier,931,931,11, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469337,NA,NA,0,Xavier,Butler,70
+2009-10,2009-12-19,922922,504,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,47,-6,1715,Xavier,911,911,20,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,71
+2009-10,2009-12-19,922922,509,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,47,-6,1715,Xavier,908,908,3,Shooting foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,71
+2009-10,2009-12-19,922922,510,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,41,47,-6,1324,Butler,908,908,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,71
+2009-10,2009-12-19,922922,513,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,42,47,-5,1324,Butler,908,908,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,71
+2009-10,2009-12-19,922922,515,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,42,47,-5,1715,Xavier,888,888,20, misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,401082,NA,NA,0,Xavier,Xavier,72
+2009-10,2009-12-19,922922,516,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,42,47,-5,1324,Butler,888,888,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,72
+2009-10,2009-12-19,922922,519,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,42,47,-5,1324,Butler,875,875,13,Offensive foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,73
+2009-10,2009-12-19,922922,525,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,42,47,-5,1715,Xavier,860,860,15,Offensive foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,74
+2009-10,2009-12-19,922922,530,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,47,-2,1324,Butler,844,844,16, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,7.799999999999997,21.849999999999994,477667,NA,NA,0,Butler,Xavier,75
+2009-10,2009-12-19,922922,531,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,50,-5,1715,Xavier,821,821,23, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,40.7,25.15,469338,NA,NA,0,Xavier,Butler,76
+2009-10,2009-12-19,922922,536,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,50,-5,1715,Xavier,809,809,12,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,77
+2009-10,2009-12-19,922922,541,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,50,-5,1324,Butler,798,798,11, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,45.8,7.150000000000006,339496,NA,NA,0,Butler,Butler,77
+2009-10,2009-12-19,922922,544,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,50,-5,1324,Butler,791,791,7, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,30.3,19.549999999999997,477669,NA,NA,0,Butler,Butler,77
+2009-10,2009-12-19,922922,545,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,45,50,-5,1324,Butler,791,791,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,77
+2009-10,2009-12-19,922922,546,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,47,50,-3,1324,Butler,788,788,3, makes a tip shot from 4 feet out.,made,FALSE,FALSE,Tip Shot,22.7,8.349999999999994,401058,NA,NA,0,Butler,Xavier,77
+2009-10,2009-12-19,922922,547,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,47,52,-5,1715,Xavier,774,774,14, makes a hook shot from 7 feet out.,made,FALSE,FALSE,Hook Shot,22.7,12.25,469337,NA,NA,0,Xavier,Butler,78
+2009-10,2009-12-19,922922,549,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,49,52,-3,1324,Butler,752,752,22, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,401058,NA,NA,0,Butler,Xavier,79
+2009-10,2009-12-19,922922,551,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,51,52,-1,1324,Butler,721,721,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,Xavier,80
+2009-10,2009-12-19,922922,552,0,2,Butler,Xavier,Bulldogs,Musketeers,3,4,51,54,-3,1715,Xavier,685,685,36, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,469337,NA,NA,0,Xavier,Butler,81
+2009-10,2009-12-19,922922,555,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1715,Xavier,681,681,4,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,575,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1715,Xavier,660,660,21,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-19,922922,576,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,NA,NA,660,660,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,583,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1324,Butler,642,642,18, misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,16.049999999999997,330417,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-19,922922,584,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1324,Butler,642,642,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-19,922922,585,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1715,Xavier,642,642,0,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-19,922922,586,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1324,Butler,642,642,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,82
+2009-10,2009-12-19,922922,587,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1715,Xavier,642,642,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,82
+2009-10,2009-12-19,922922,594,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,54,-3,1324,Butler,624,624,18,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,83
+2009-10,2009-12-19,922922,601,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1715,Xavier,614,614,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469339,NA,NA,0,Xavier,Butler,83
+2009-10,2009-12-19,922922,602,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,577,577,37, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,37.5,29.849999999999994,401059,NA,NA,0,Butler,Butler,84
+2009-10,2009-12-19,922922,603,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,577,577,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,84
+2009-10,2009-12-19,922922,604,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,556,556,21, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,38.2,26.349999999999994,477669,NA,NA,0,Butler,Butler,84
+2009-10,2009-12-19,922922,605,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1715,Xavier,556,556,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,84
+2009-10,2009-12-19,922922,608,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1715,Xavier,543,543,13,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,85
+2009-10,2009-12-19,922922,609,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,543,543,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,85
+2009-10,2009-12-19,922922,610,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1715,Xavier,543,543,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,85
+2009-10,2009-12-19,922922,617,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1715,Xavier,517,517,26, misses a 3-point jump shot from 31 feet out.,missed,FALSE,TRUE,Jump Shot,15.3,34.85,401082,NA,NA,0,Xavier,Xavier,86
+2009-10,2009-12-19,922922,618,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,517,517,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,86
+2009-10,2009-12-19,922922,619,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,499,499,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,7.299999999999997,22.25,401059,NA,NA,0,Butler,Butler,87
+2009-10,2009-12-19,922922,620,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,51,56,-5,1324,Butler,499,499,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,87
+2009-10,2009-12-19,922922,621,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1324,Butler,494,494,5, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,477669,NA,NA,0,Butler,Xavier,87
+2009-10,2009-12-19,922922,624,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1715,Xavier,459,459,35, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12,7.95,469339,NA,NA,0,Xavier,Butler,88
+2009-10,2009-12-19,922922,626,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,NA,NA,459,459,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,630,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1324,Butler,441,441,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,401058,NA,NA,0,Butler,Butler,89
+2009-10,2009-12-19,922922,631,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1715,Xavier,441,441,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,89
+2009-10,2009-12-19,922922,633,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1324,Butler,433,433,8,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,90
+2009-10,2009-12-19,922922,640,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,56,-3,1324,Butler,414,414,19,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,90
+2009-10,2009-12-19,922922,648,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,53,58,-5,1715,Xavier,374,374,40, makes a jump shot from 21 feet out.,made,FALSE,FALSE,Jump Shot,24.5,26.35,401082,NA,NA,0,Xavier,Butler,90
+2009-10,2009-12-19,922922,649,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,58,-2,1324,Butler,349,349,25, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,9.200000000000003,24.25,401057,NA,NA,0,Butler,Xavier,91
+2009-10,2009-12-19,922922,650,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,58,-2,1715,Xavier,313,313,36, misses a jump shot from 20 feet out.,missed,FALSE,FALSE,Jump Shot,8.5,17.05,401082,NA,NA,0,Xavier,Xavier,92
+2009-10,2009-12-19,922922,651,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,58,-2,1715,Xavier,313,313,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,92
+2009-10,2009-12-19,922922,662,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,60,-4,1715,Xavier,313,313,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329708,NA,NA,0,Xavier,Xavier,92
+2009-10,2009-12-19,922922,663,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,60,-4,1324,Butler,313,313,0,Shooting foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,92
+2009-10,2009-12-19,922922,665,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,60,-4,1715,Xavier,313,313,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,92
+2009-10,2009-12-19,922922,666,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,56,60,-4,1324,Butler,313,313,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,92
+2009-10,2009-12-19,922922,672,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,58,60,-2,1324,Butler,298,298,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,339496,NA,NA,0,Butler,Xavier,93
+2009-10,2009-12-19,922922,686,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,58,60,-2,1715,Xavier,247,247,51,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,94
+2009-10,2009-12-19,922922,687,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,59,60,-1,1324,Butler,247,247,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,94
+2009-10,2009-12-19,922922,688,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,60,0,1324,Butler,247,247,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,94
+2009-10,2009-12-19,922922,692,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,60,0,1324,Butler,220,220,27,Personal foul committed by Bulldogs.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,95
+2009-10,2009-12-19,922922,693,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,60,0,NA,NA,220,220,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,694,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,61,-1,1715,Xavier,220,220,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,95
+2009-10,2009-12-19,922922,695,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,62,-2,1715,Xavier,220,220,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,95
+2009-10,2009-12-19,922922,697,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,62,-2,1324,Butler,201,201,19, misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,5.25,477667,NA,NA,0,Butler,Butler,96
+2009-10,2009-12-19,922922,698,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,62,-2,1324,Butler,201,201,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,96
+2009-10,2009-12-19,922922,708,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,60,62,-2,1715,Xavier,200,200,1,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,96
+2009-10,2009-12-19,922922,709,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,61,62,-1,1324,Butler,200,200,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,96
+2009-10,2009-12-19,922922,710,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,62,62,0,1324,Butler,200,200,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,96
+2009-10,2009-12-19,922922,712,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,62,62,0,1715,Xavier,166,166,34, misses a 3-point jump shot from 29 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,34.45,401082,NA,NA,0,Xavier,Xavier,97
+2009-10,2009-12-19,922922,713,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,62,62,0,1324,Butler,166,166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Butler,97
+2009-10,2009-12-19,922922,714,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,62,62,0,1324,Butler,155,155,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,477667,NA,NA,0,Butler,Butler,98
+2009-10,2009-12-19,922922,715,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,62,62,0,1324,Butler,155,155,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,98
+2009-10,2009-12-19,922922,716,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,64,62,2,1324,Butler,153,153,2, makes a tip shot from 3 feet out.,made,FALSE,FALSE,Tip Shot,24.8,8.75,477667,NA,NA,0,Butler,Xavier,98
+2009-10,2009-12-19,922922,717,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,64,64,0,1715,Xavier,136,136,17, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,30.2,11.85,401082,NA,NA,0,Xavier,Butler,99
+2009-10,2009-12-19,922922,720,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,64,64,0,1715,Xavier,111,111,25,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,100
+2009-10,2009-12-19,922922,721,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,64,64,0,1324,Butler,111,111,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,100
+2009-10,2009-12-19,922922,724,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,65,64,1,1324,Butler,111,111,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,100
+2009-10,2009-12-19,922922,727,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,65,66,-1,1715,Xavier,92,92,19, makes a hook shot from 6 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,29.3,9.35,329708,NA,NA,0,Xavier,Butler,101
+2009-10,2009-12-19,922922,737,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,65,68,-3,1715,Xavier,48,48,44, makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,37.8,15.65,401082,NA,NA,0,Xavier,Butler,102
+2009-10,2009-12-19,922922,759,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,65,68,-3,1715,Xavier,39,39,9,Personal foul committed by Musketeers.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,103
+2009-10,2009-12-19,922922,760,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,66,68,-2,1324,Butler,39,39,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,103
+2009-10,2009-12-19,922922,761,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,67,68,-1,1324,Butler,39,39,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Xavier,103
+2009-10,2009-12-19,922922,773,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,67,68,-1,1324,Butler,31,31,8, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.700000000000003,11.25,477669,NA,NA,0,Butler,Butler,104
+2009-10,2009-12-19,922922,774,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,67,68,-1,1324,Butler,31,31,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,104
+2009-10,2009-12-19,922922,781,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,67,68,-1,1324,Butler,5,5,26, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,8.5,23.049999999999997,339496,NA,NA,0,Butler,Butler,104
+2009-10,2009-12-19,922922,782,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,67,68,-1,1324,Butler,5,5,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Butler,Butler,104
+2009-10,2009-12-19,922922,793,0,2,Butler,Xavier,Bulldogs,Musketeers,3,3,69,68,1,1324,Butler,1,1,4, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,477667,NA,NA,0,Butler,Xavier,104
+2009-10,2009-12-19,922922,794,0,2,Butler,Xavier,Bulldogs,Musketeers,3,2,69,68,1,1715,Xavier,1,1,0,Musketeers take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,796,0,2,Butler,Xavier,Bulldogs,Musketeers,3,2,69,68,1,NA,NA,1,1,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,798,0,2,Butler,Xavier,Bulldogs,Musketeers,3,2,69,68,1,NA,NA,0,0,1,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2009-12-19,922922,799,0,2,Butler,Xavier,Bulldogs,Musketeers,3,2,69,68,1,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Xavier,Xavier,NA

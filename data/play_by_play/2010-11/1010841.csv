@@ -1,0 +1,282 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2010-11,2010-12-20,1010841,1,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Elon,NA
+2010-11,2010-12-20,1010841,5,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,0,2,-2,1401,Elon,2386,1186,14, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410162,NA,NA,0,Elon,Elon,1
+2010-11,2010-12-20,1010841,7,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,0,2,-2,1388,Duke,2379,1179,7,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,1
+2010-11,2010-12-20,1010841,8,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,0,2,-2,1401,Elon,2379,1179,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,1
+2010-11,2010-12-20,1010841,9,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,0,2,-2,1401,Elon,2379,1179,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,1
+2010-11,2010-12-20,1010841,13,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,3,2,1,1388,Duke,2365,1165,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,11.5,24.950000000000003,398429,NA,NA,0,Duke,Elon,1
+2010-11,2010-12-20,1010841,16,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,3,2,1,1401,Elon,2314,1114,51, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,16.65,521865,NA,NA,0,Elon,Elon,2
+2010-11,2010-12-20,1010841,17,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,3,2,1,1388,Duke,2314,1114,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,2
+2010-11,2010-12-20,1010841,18,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2304,1104,10, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510790,NA,NA,0,Duke,Elon,3
+2010-11,2010-12-20,1010841,22,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1401,Elon,2274,1074,30, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,7.699999999999999,20.95,475434,NA,NA,0,Elon,Elon,4
+2010-11,2010-12-20,1010841,23,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2274,1074,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,4
+2010-11,2010-12-20,1010841,25,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2274,1074,0, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,24.950000000000003,463135,NA,NA,0,Duke,Duke,5
+2010-11,2010-12-20,1010841,26,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1401,Elon,2274,1074,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,5
+2010-11,2010-12-20,1010841,28,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1401,Elon,2263,1063,11, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,5.800000000000001,16.45,521868,NA,NA,0,Elon,Elon,6
+2010-11,2010-12-20,1010841,29,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2263,1063,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,6
+2010-11,2010-12-20,1010841,33,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2259,1059,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,7
+2010-11,2010-12-20,1010841,34,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2259,1059,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,7
+2010-11,2010-12-20,1010841,35,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1388,Duke,2254,1054,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398429,NA,NA,0,Duke,Duke,7
+2010-11,2010-12-20,1010841,36,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,2,3,1401,Elon,2254,1054,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,7
+2010-11,2010-12-20,1010841,37,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,5,5,0,1401,Elon,2238,1038,16, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,6,18.25,521868,NA,NA,0,Elon,Duke,8
+2010-11,2010-12-20,1010841,38,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,7,5,2,1388,Duke,2223,1023,15, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,23,15.25,398429,NA,NA,0,Duke,Elon,9
+2010-11,2010-12-20,1010841,46,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,7,5,2,1401,Elon,2166,966,57,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,10
+2010-11,2010-12-20,1010841,50,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,7,8,-1,1401,Elon,2165,965,1, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2,11.25,567429,NA,NA,0,Elon,Duke,10
+2010-11,2010-12-20,1010841,80,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,10,8,2,1388,Duke,2122,922,43, makes a 3-point jump shot from 29 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,29.25,518947,NA,NA,0,Duke,Elon,11
+2010-11,2010-12-20,1010841,86,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,10,8,2,NA,NA,2097,897,25,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,88,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,12,8,4,1388,Duke,2092,892,5, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Elon,12
+2010-11,2010-12-20,1010841,89,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,12,8,4,1388,Duke,2063,863,29, misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,44,16.25,398428,NA,NA,0,Duke,Duke,13
+2010-11,2010-12-20,1010841,90,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,12,8,4,1388,Duke,2063,863,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-12-20,1010841,92,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,12,8,4,1401,Elon,2055,855,8,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-12-20,1010841,96,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,13,8,5,1388,Duke,2055,855,0, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-12-20,1010841,97,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,14,8,6,1388,Duke,2055,855,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,13
+2010-11,2010-12-20,1010841,98,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,15,8,7,1388,Duke,2055,855,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,13
+2010-11,2010-12-20,1010841,103,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,15,8,7,1401,Elon,2037,837,18,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,14
+2010-11,2010-12-20,1010841,104,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,16,8,8,1388,Duke,2037,837,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,14
+2010-11,2010-12-20,1010841,105,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1388,Duke,2037,837,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,14
+2010-11,2010-12-20,1010841,108,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1388,Duke,2031,831,6,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,15
+2010-11,2010-12-20,1010841,114,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1388,Duke,1997,797,34, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,46.5,18.049999999999997,518947,NA,NA,0,Duke,Duke,15
+2010-11,2010-12-20,1010841,115,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1388,Duke,1997,797,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,15
+2010-11,2010-12-20,1010841,116,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1401,Elon,1997,797,0,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,15
+2010-11,2010-12-20,1010841,117,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,17,8,9,1388,Duke,1997,797,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,15
+2010-11,2010-12-20,1010841,119,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,18,8,10,1388,Duke,1997,797,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,15
+2010-11,2010-12-20,1010841,121,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,18,8,10,1401,Elon,1967,767,30, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,5.5,21.65,410160,NA,NA,0,Elon,Elon,16
+2010-11,2010-12-20,1010841,122,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,18,8,10,1388,Duke,1967,767,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,16
+2010-11,2010-12-20,1010841,123,0,1,Duke,Elon,Blue Devils,Phoenix,4,4,21,8,13,1388,Duke,1955,755,12, makes a 3-point jump shot from 28 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38,30.25,398428,NA,NA,0,Duke,Elon,17
+2010-11,2010-12-20,1010841,125,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,21,8,13,1401,Elon,1948,748,7,Phoenix take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,128,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,21,8,13,1401,Elon,1929,729,19, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410160,NA,NA,0,Elon,Elon,18
+2010-11,2010-12-20,1010841,129,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,21,8,13,1388,Duke,1929,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,18
+2010-11,2010-12-20,1010841,132,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,8,15,1388,Duke,1887,687,42, makes a tip shot.,made,FALSE,FALSE,Tip Shot,26,6.25,510790,NA,NA,0,Duke,Elon,19
+2010-11,2010-12-20,1010841,133,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1401,Elon,1864,664,23, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,410160,NA,NA,0,Elon,Duke,20
+2010-11,2010-12-20,1010841,135,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,510790,NA,NA,0,Duke,Duke,21
+2010-11,2010-12-20,1010841,136,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,21
+2010-11,2010-12-20,1010841,138,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1401,Elon,1854,654,0, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,27.2,22.05,475434,NA,NA,0,Elon,Elon,21
+2010-11,2010-12-20,1010841,139,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,21
+2010-11,2010-12-20,1010841,140,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,47.7,22.049999999999997,463135,NA,NA,0,Duke,Duke,22
+2010-11,2010-12-20,1010841,141,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,22
+2010-11,2010-12-20,1010841,142,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,44.5,17.450000000000003,518947,NA,NA,0,Duke,Duke,22
+2010-11,2010-12-20,1010841,143,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1854,654,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,22
+2010-11,2010-12-20,1010841,144,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,NA,NA,1854,654,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,147,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,10,13,1388,Duke,1847,647,7,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,22
+2010-11,2010-12-20,1010841,149,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,23,12,11,1401,Elon,1836,636,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567431,NA,NA,0,Elon,Duke,22
+2010-11,2010-12-20,1010841,151,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,24,12,12,1388,Duke,1824,624,12, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,23
+2010-11,2010-12-20,1010841,152,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,12,13,1388,Duke,1824,624,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,23
+2010-11,2010-12-20,1010841,153,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,12,13,1401,Elon,1824,624,0,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,23
+2010-11,2010-12-20,1010841,155,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,12,13,1401,Elon,1816,616,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410162,NA,NA,0,Elon,Elon,23
+2010-11,2010-12-20,1010841,156,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,12,13,1388,Duke,1816,616,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,23
+2010-11,2010-12-20,1010841,158,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,12,13,1388,Duke,1805,605,11,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,24
+2010-11,2010-12-20,1010841,160,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,25,14,11,1401,Elon,1790,590,15, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,340698,NA,NA,0,Elon,Duke,24
+2010-11,2010-12-20,1010841,165,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,27,14,13,1388,Duke,1760,560,30, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398428,NA,NA,0,Duke,Duke,25
+2010-11,2010-12-20,1010841,166,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,27,14,13,1401,Elon,1760,560,0,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,25
+2010-11,2010-12-20,1010841,167,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,14,14,1388,Duke,1760,560,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,25
+2010-11,2010-12-20,1010841,169,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,16,12,1401,Elon,1750,550,10, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,14.3,15.15,567432,NA,NA,0,Elon,Duke,26
+2010-11,2010-12-20,1010841,170,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,16,12,1388,Duke,1737,537,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,27
+2010-11,2010-12-20,1010841,171,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,16,12,1401,Elon,1737,537,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,27
+2010-11,2010-12-20,1010841,176,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,16,12,1388,Duke,1703,503,34, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467271,NA,NA,0,Duke,Duke,28
+2010-11,2010-12-20,1010841,177,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,28,16,12,1401,Elon,1703,503,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,28
+2010-11,2010-12-20,1010841,178,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1680,480,23, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,510784,NA,NA,0,Duke,Elon,29
+2010-11,2010-12-20,1010841,180,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1652,452,28, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,24.549999999999997,398429,NA,NA,0,Duke,Duke,30
+2010-11,2010-12-20,1010841,181,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1652,452,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,30
+2010-11,2010-12-20,1010841,182,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,NA,NA,1652,452,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,184,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1640,440,12, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,14.5,18.45,567431,NA,NA,0,Elon,Elon,30
+2010-11,2010-12-20,1010841,185,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1640,440,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,30
+2010-11,2010-12-20,1010841,186,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1623,423,17, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,25,19.349999999999994,398428,NA,NA,0,Duke,Duke,31
+2010-11,2010-12-20,1010841,187,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1623,423,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,31
+2010-11,2010-12-20,1010841,190,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1577,377,46, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,4.699999999999999,16.25,521868,NA,NA,0,Elon,Elon,32
+2010-11,2010-12-20,1010841,191,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1577,377,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,32
+2010-11,2010-12-20,1010841,192,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1570,370,7, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,15.2,15.65,567429,NA,NA,0,Elon,Elon,33
+2010-11,2010-12-20,1010841,193,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1388,Duke,1570,370,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,33
+2010-11,2010-12-20,1010841,198,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1534,334,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,410160,NA,NA,0,Elon,Elon,34
+2010-11,2010-12-20,1010841,199,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,16,14,1401,Elon,1534,334,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,34
+2010-11,2010-12-20,1010841,200,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,30,18,12,1401,Elon,1528,328,6, makes a tip shot from 2 feet out.,made,FALSE,FALSE,Tip Shot,25.7,7.35,410160,NA,NA,0,Elon,Duke,34
+2010-11,2010-12-20,1010841,201,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,32,18,14,1388,Duke,1513,313,15, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,518947,NA,NA,0,Duke,Elon,35
+2010-11,2010-12-20,1010841,202,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,32,18,14,1401,Elon,1492,292,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567429,NA,NA,0,Elon,Elon,36
+2010-11,2010-12-20,1010841,203,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,32,18,14,1388,Duke,1492,292,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,36
+2010-11,2010-12-20,1010841,205,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,34,18,16,1388,Duke,1479,279,13, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Elon,37
+2010-11,2010-12-20,1010841,206,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,34,18,16,1401,Elon,1479,279,0,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,38
+2010-11,2010-12-20,1010841,208,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,34,20,14,1401,Elon,1468,268,11, makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,11.7,14.15,567429,NA,NA,0,Elon,Duke,38
+2010-11,2010-12-20,1010841,210,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,34,20,14,1388,Duke,1461,261,7, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,39
+2010-11,2010-12-20,1010841,211,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,34,20,14,1401,Elon,1461,261,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,39
+2010-11,2010-12-20,1010841,214,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,36,20,16,1388,Duke,1447,247,14, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,34.8,8.349999999999994,518947,NA,NA,0,Duke,Elon,40
+2010-11,2010-12-20,1010841,215,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,36,20,16,NA,NA,1437,237,10,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,218,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,36,20,16,1388,Duke,1435,235,2,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,41
+2010-11,2010-12-20,1010841,219,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,36,21,15,1401,Elon,1435,235,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,41
+2010-11,2010-12-20,1010841,220,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,36,22,14,1401,Elon,1435,235,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,41
+2010-11,2010-12-20,1010841,222,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,22,16,1388,Duke,1424,224,11, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,467271,NA,NA,0,Duke,Elon,42
+2010-11,2010-12-20,1010841,224,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,22,16,1388,Duke,1417,217,7, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,43
+2010-11,2010-12-20,1010841,225,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,22,16,1388,Duke,1417,217,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,43
+2010-11,2010-12-20,1010841,226,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,22,16,1388,Duke,1417,217,0,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,43
+2010-11,2010-12-20,1010841,227,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,23,15,1401,Elon,1417,217,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,43
+2010-11,2010-12-20,1010841,228,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,38,24,14,1401,Elon,1417,217,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,43
+2010-11,2010-12-20,1010841,235,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,40,24,16,1388,Duke,1403,203,14, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,467271,NA,NA,0,Duke,Duke,44
+2010-11,2010-12-20,1010841,236,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,40,24,16,1401,Elon,1403,203,0,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,44
+2010-11,2010-12-20,1010841,238,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,40,24,16,1388,Duke,1403,203,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,44
+2010-11,2010-12-20,1010841,239,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,40,24,16,1401,Elon,1403,203,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,44
+2010-11,2010-12-20,1010841,241,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,40,24,16,1401,Elon,1390,190,13,Offensive foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,45
+2010-11,2010-12-20,1010841,243,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,42,24,18,1388,Duke,1377,177,13, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,22,19.75,463135,NA,NA,0,Duke,Elon,46
+2010-11,2010-12-20,1010841,244,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,42,24,18,1401,Elon,1355,155,22, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,27,33.25,567429,NA,NA,0,Elon,Elon,47
+2010-11,2010-12-20,1010841,245,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,42,24,18,1388,Duke,1355,155,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,47
+2010-11,2010-12-20,1010841,251,0,1,Duke,Elon,Blue Devils,Phoenix,4,3,44,24,20,1388,Duke,1323,123,32, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,510784,NA,NA,0,Duke,Elon,48
+2010-11,2010-12-20,1010841,252,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,24,20,1401,Elon,1322,122,1,Phoenix take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,255,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,24,20,1388,Duke,1319,119,3,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,49
+2010-11,2010-12-20,1010841,256,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,25,19,1401,Elon,1319,119,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,49
+2010-11,2010-12-20,1010841,257,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1401,Elon,1319,119,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,49
+2010-11,2010-12-20,1010841,259,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1388,Duke,1304,104,15, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,26,23.25,467271,NA,NA,0,Duke,Duke,50
+2010-11,2010-12-20,1010841,260,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1401,Elon,1304,104,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,50
+2010-11,2010-12-20,1010841,264,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1401,Elon,1268,68,36, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567431,NA,NA,0,Elon,Elon,51
+2010-11,2010-12-20,1010841,265,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1388,Duke,1268,68,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,51
+2010-11,2010-12-20,1010841,268,0,1,Duke,Elon,Blue Devils,Phoenix,4,2,44,26,18,1388,Duke,1266,66,2,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,52
+2010-11,2010-12-20,1010841,269,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,44,26,18,1388,Duke,1266,66,0,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,270,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,44,27,17,1401,Elon,1266,66,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,52
+2010-11,2010-12-20,1010841,271,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,44,28,16,1401,Elon,1266,66,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,52
+2010-11,2010-12-20,1010841,273,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,47,28,19,1388,Duke,1257,57,9, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,5.799999999999997,19.150000000000006,463135,NA,NA,0,Duke,Elon,53
+2010-11,2010-12-20,1010841,274,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,47,28,19,1401,Elon,1241,41,16, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,14,16.25,567429,NA,NA,0,Elon,Elon,54
+2010-11,2010-12-20,1010841,275,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,47,28,19,1388,Duke,1241,41,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,54
+2010-11,2010-12-20,1010841,276,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,49,28,21,1388,Duke,1210,10,31, makes a jump shot from 15 feet out.,made,FALSE,FALSE,Jump Shot,39.5,9.650000000000006,398428,NA,NA,0,Duke,Elon,55
+2010-11,2010-12-20,1010841,276.5,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,49,31,18,1401,Elon,1200,0,10, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,30,28.25,410162,NA,NA,0,Elon,Duke,56
+2010-11,2010-12-20,1010841,277,0,1,Duke,Elon,Blue Devils,Phoenix,3,2,49,31,18,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,282,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,31,18,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Duke,57
+2010-11,2010-12-20,1010841,284,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,31,18,1388,Duke,1185,1185,15, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467271,NA,NA,0,Duke,Duke,58
+2010-11,2010-12-20,1010841,285,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,31,18,1401,Elon,1185,1185,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,58
+2010-11,2010-12-20,1010841,287,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,31,18,1388,Duke,1177,1177,8,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,59
+2010-11,2010-12-20,1010841,289,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,34,15,1401,Elon,1167,1167,10, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.2,24.95,475434,NA,NA,0,Elon,Duke,59
+2010-11,2010-12-20,1010841,292,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,34,15,1401,Elon,1133,1133,34, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,23.7,15.55,410162,NA,NA,0,Elon,Elon,60
+2010-11,2010-12-20,1010841,293,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,34,15,1388,Duke,1133,1133,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,60
+2010-11,2010-12-20,1010841,294,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,34,15,1388,Duke,1124,1124,9, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,21.3,16.650000000000006,398428,NA,NA,0,Duke,Duke,61
+2010-11,2010-12-20,1010841,295,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,34,15,1401,Elon,1124,1124,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,61
+2010-11,2010-12-20,1010841,296,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1401,Elon,1111,1111,13, makes a jump shot from 15 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,14,16.05,521868,NA,NA,0,Elon,Duke,62
+2010-11,2010-12-20,1010841,297,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1388,Duke,1093,1093,18, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,467271,NA,NA,0,Duke,Duke,63
+2010-11,2010-12-20,1010841,298,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1401,Elon,1093,1093,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,63
+2010-11,2010-12-20,1010841,302,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1388,Duke,1083,1083,10, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.299999999999997,4.849999999999994,398428,NA,NA,0,Duke,Elon,64
+2010-11,2010-12-20,1010841,304,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1388,Duke,1083,1083,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,65
+2010-11,2010-12-20,1010841,307,0,2,Duke,Elon,Blue Devils,Phoenix,4,4,49,36,13,1388,Duke,1067,1067,16,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,65
+2010-11,2010-12-20,1010841,308,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,49,36,13,1388,Duke,1067,1067,0,Blue Devils take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,312,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1388,Duke,1050,1050,17, makes a 3-point jump shot from 27 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,26,32.25,463135,NA,NA,0,Duke,Elon,65
+2010-11,2010-12-20,1010841,314,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1388,Duke,1032,1032,18,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,66
+2010-11,2010-12-20,1010841,321,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1401,Elon,1017,1017,15, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.7,22.85,567429,NA,NA,0,Elon,Elon,66
+2010-11,2010-12-20,1010841,322,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1401,Elon,1017,1017,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,66
+2010-11,2010-12-20,1010841,323,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1401,Elon,1007,1007,10, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,22.5,6.45,475434,NA,NA,0,Elon,Elon,66
+2010-11,2010-12-20,1010841,324,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,36,16,1401,Elon,1007,1007,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,66
+2010-11,2010-12-20,1010841,326,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,39,13,1401,Elon,987,987,20, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,15.2,29.05,475434,NA,NA,0,Elon,Duke,66
+2010-11,2010-12-20,1010841,329,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,39,13,1388,Duke,986,986,1, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,4.700000000000003,17.25,510784,NA,NA,0,Duke,Duke,67
+2010-11,2010-12-20,1010841,330,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,39,13,1388,Duke,986,986,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,67
+2010-11,2010-12-20,1010841,331,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,39,13,1401,Elon,985,985,1,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,67
+2010-11,2010-12-20,1010841,332,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,52,39,13,1401,Elon,985,985,0,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,67
+2010-11,2010-12-20,1010841,334,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,55,39,16,1388,Duke,971,971,14, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,1,6.25,398428,NA,NA,0,Duke,Elon,67
+2010-11,2010-12-20,1010841,339,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,55,39,16,1401,Elon,958,958,13,Offensive foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,68
+2010-11,2010-12-20,1010841,340,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,55,39,16,NA,NA,958,958,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,342,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,55,41,14,1401,Elon,942,942,16, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,567429,NA,NA,0,Elon,Duke,69
+2010-11,2010-12-20,1010841,343,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,57,41,16,1388,Duke,909,909,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,510784,NA,NA,0,Duke,Elon,70
+2010-11,2010-12-20,1010841,344,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,57,43,14,1401,Elon,893,893,16, makes a jump shot from 7 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28,11.25,567429,NA,NA,0,Elon,Duke,71
+2010-11,2010-12-20,1010841,347,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,57,43,14,1401,Elon,881,881,12,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,72
+2010-11,2010-12-20,1010841,350,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,57,43,14,1401,Elon,879,879,2,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,72
+2010-11,2010-12-20,1010841,351,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,58,43,15,1388,Duke,879,879,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,72
+2010-11,2010-12-20,1010841,352,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,59,43,16,1388,Duke,879,879,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,72
+2010-11,2010-12-20,1010841,353,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,59,43,16,1388,Duke,879,879,0,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,73
+2010-11,2010-12-20,1010841,358,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,59,43,16,1401,Elon,850,850,29,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2010-11,2010-12-20,1010841,359,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,60,43,17,1388,Duke,850,850,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,73
+2010-11,2010-12-20,1010841,360,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,43,18,1388,Duke,850,850,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,73
+2010-11,2010-12-20,1010841,362,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1401,Elon,827,827,23, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,17,21.35,410162,NA,NA,0,Elon,Duke,74
+2010-11,2010-12-20,1010841,364,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1388,Duke,816,816,11, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,75
+2010-11,2010-12-20,1010841,365,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1388,Duke,816,816,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,75
+2010-11,2010-12-20,1010841,368,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1401,Elon,804,804,12,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,75
+2010-11,2010-12-20,1010841,370,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1388,Duke,801,801,3, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,11.200000000000003,26.150000000000006,463135,NA,NA,0,Duke,Duke,75
+2010-11,2010-12-20,1010841,371,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1401,Elon,801,801,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,75
+2010-11,2010-12-20,1010841,372,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1401,Elon,790,790,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567432,NA,NA,0,Elon,Elon,76
+2010-11,2010-12-20,1010841,373,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,61,45,16,1388,Duke,790,790,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,76
+2010-11,2010-12-20,1010841,374,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,63,45,18,1388,Duke,768,768,22, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,18.7,11.049999999999997,518947,NA,NA,0,Duke,Elon,77
+2010-11,2010-12-20,1010841,375,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,63,45,18,1401,Elon,760,760,8, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,16.65,567432,NA,NA,0,Elon,Elon,78
+2010-11,2010-12-20,1010841,376,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,63,45,18,1388,Duke,760,760,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,78
+2010-11,2010-12-20,1010841,378,0,2,Duke,Elon,Blue Devils,Phoenix,3,4,65,45,20,1388,Duke,743,743,17, makes a jump shot from 10 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,17.5,11.650000000000006,398428,NA,NA,0,Duke,Elon,79
+2010-11,2010-12-20,1010841,379,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,65,45,20,1401,Elon,742,742,1,Phoenix take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,381,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,65,48,17,1401,Elon,735,735,7, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,32,30.25,521868,NA,NA,0,Elon,Duke,80
+2010-11,2010-12-20,1010841,383,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,707,707,28, makes a 3-point jump shot from 30 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.5,25.549999999999997,398428,NA,NA,0,Duke,Elon,81
+2010-11,2010-12-20,1010841,385,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1401,Elon,696,696,11, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,19.35,521868,NA,NA,0,Elon,Elon,82
+2010-11,2010-12-20,1010841,386,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,696,696,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,82
+2010-11,2010-12-20,1010841,387,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,696,696,0,Offensive foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,83
+2010-11,2010-12-20,1010841,388,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,NA,NA,696,696,0,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,390,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1401,Elon,671,671,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567431,NA,NA,0,Elon,Elon,84
+2010-11,2010-12-20,1010841,391,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,671,671,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,84
+2010-11,2010-12-20,1010841,392,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,654,654,17, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,20.549999999999997,510790,NA,NA,0,Duke,Duke,85
+2010-11,2010-12-20,1010841,393,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1401,Elon,654,654,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,85
+2010-11,2010-12-20,1010841,394,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1401,Elon,631,631,23, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,567431,NA,NA,0,Elon,Elon,86
+2010-11,2010-12-20,1010841,395,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,631,631,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,86
+2010-11,2010-12-20,1010841,397,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1401,Elon,609,609,22,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2010-11,2010-12-20,1010841,398,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,68,48,20,1388,Duke,609,609,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,87
+2010-11,2010-12-20,1010841,400,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,48,21,1388,Duke,609,609,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,87
+2010-11,2010-12-20,1010841,402,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,51,18,1401,Elon,593,593,16, makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,13.5,25.95,410162,NA,NA,0,Elon,Duke,88
+2010-11,2010-12-20,1010841,403,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,51,18,1388,Duke,568,568,25, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398428,NA,NA,0,Duke,Duke,89
+2010-11,2010-12-20,1010841,404,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,51,18,1401,Elon,568,568,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,89
+2010-11,2010-12-20,1010841,405,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,51,18,1401,Elon,550,550,18, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,43.8,22.25,410162,NA,NA,0,Elon,Elon,90
+2010-11,2010-12-20,1010841,406,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,51,18,1401,Elon,550,550,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,90
+2010-11,2010-12-20,1010841,407,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,53,16,1401,Elon,542,542,8, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567431,NA,NA,0,Elon,Duke,90
+2010-11,2010-12-20,1010841,409,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,53,16,1388,Duke,536,536,6, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,11.700000000000003,14.75,510784,NA,NA,0,Duke,Elon,91
+2010-11,2010-12-20,1010841,413,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,53,16,1388,Duke,534,534,2,Shooting foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,92
+2010-11,2010-12-20,1010841,424,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,54,15,1401,Elon,524,524,10, makes free throw 1 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,92
+2010-11,2010-12-20,1010841,425,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,55,14,1401,Elon,524,524,0, makes free throw 2 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,92
+2010-11,2010-12-20,1010841,426,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,69,56,13,1401,Elon,524,524,0, makes free throw 3 of 3.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,92
+2010-11,2010-12-20,1010841,428,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,71,56,15,1388,Duke,515,515,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Elon,93
+2010-11,2010-12-20,1010841,429,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,71,58,13,1401,Elon,497,497,18, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567430,NA,NA,0,Elon,Duke,94
+2010-11,2010-12-20,1010841,430,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,73,58,15,1388,Duke,481,481,16, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398429,NA,NA,0,Duke,Elon,95
+2010-11,2010-12-20,1010841,431,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,73,60,13,1401,Elon,456,456,25, makes a jump shot from 14 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,39,7.25,567431,NA,NA,0,Elon,Duke,96
+2010-11,2010-12-20,1010841,434,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,73,60,13,NA,NA,447,447,9,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,435,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,74,60,14,1388,Duke,447,447,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,97
+2010-11,2010-12-20,1010841,436,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1388,Duke,447,447,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,97
+2010-11,2010-12-20,1010841,438,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1401,Elon,429,429,18, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45.7,15.85,475434,NA,NA,0,Elon,Elon,98
+2010-11,2010-12-20,1010841,439,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1388,Duke,429,429,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,98
+2010-11,2010-12-20,1010841,440,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1388,Duke,418,418,11, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,15,28.25,518947,NA,NA,0,Duke,Duke,99
+2010-11,2010-12-20,1010841,441,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1401,Elon,418,418,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,99
+2010-11,2010-12-20,1010841,445,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,60,15,1388,Duke,392,392,26,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,100
+2010-11,2010-12-20,1010841,446,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,61,14,1401,Elon,392,392,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,100
+2010-11,2010-12-20,1010841,447,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,62,13,1401,Elon,392,392,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,100
+2010-11,2010-12-20,1010841,450,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,62,13,1401,Elon,367,367,25, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,28.7,14.15,567432,NA,NA,0,Elon,Elon,101
+2010-11,2010-12-20,1010841,451,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,62,13,1388,Duke,367,367,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,101
+2010-11,2010-12-20,1010841,454,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,75,62,13,1401,Elon,364,364,3,Shooting foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,102
+2010-11,2010-12-20,1010841,455,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,78,62,16,1388,Duke,364,364,0, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,12.700000000000003,24.75,518947,NA,NA,0,Duke,Elon,102
+2010-11,2010-12-20,1010841,456,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,79,62,17,1388,Duke,364,364,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,103
+2010-11,2010-12-20,1010841,459,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,79,62,17,1401,Elon,352,352,12,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,104
+2010-11,2010-12-20,1010841,460,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,80,62,18,1388,Duke,352,352,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,104
+2010-11,2010-12-20,1010841,461,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,81,62,19,1388,Duke,352,352,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,104
+2010-11,2010-12-20,1010841,463,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,81,62,19,1401,Elon,318,318,34, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,44.7,23.45,567430,NA,NA,0,Elon,Elon,105
+2010-11,2010-12-20,1010841,464,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,81,62,19,1388,Duke,318,318,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,105
+2010-11,2010-12-20,1010841,466,0,2,Duke,Elon,Blue Devils,Phoenix,3,3,83,62,21,1388,Duke,309,309,9, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14,6.650000000000006,398429,NA,NA,0,Duke,Elon,106
+2010-11,2010-12-20,1010841,467,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,62,21,1401,Elon,309,309,0,Phoenix take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,469,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,64,19,1401,Elon,297,297,12, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,567431,NA,NA,0,Elon,Duke,107
+2010-11,2010-12-20,1010841,476,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,64,19,1388,Duke,267,267,30,Personal foul committed by Blue Devils.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,108
+2010-11,2010-12-20,1010841,477,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,65,18,1401,Elon,267,267,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,108
+2010-11,2010-12-20,1010841,478,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1401,Elon,267,267,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,108
+2010-11,2010-12-20,1010841,480,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1388,Duke,252,252,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,6.299999999999997,22.25,398428,NA,NA,0,Duke,Duke,109
+2010-11,2010-12-20,1010841,481,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1401,Elon,252,252,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,109
+2010-11,2010-12-20,1010841,483,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1401,Elon,231,231,21, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,33.5,20.35,475434,NA,NA,0,Elon,Elon,110
+2010-11,2010-12-20,1010841,484,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1388,Duke,231,231,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,110
+2010-11,2010-12-20,1010841,485,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,NA,NA,228,228,3,Official's timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,488,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1388,Duke,223,223,5, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,10.200000000000003,23.650000000000006,510784,NA,NA,0,Duke,Duke,111
+2010-11,2010-12-20,1010841,489,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1388,Duke,223,223,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,111
+2010-11,2010-12-20,1010841,490,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,83,66,17,1401,Elon,223,223,0,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,111
+2010-11,2010-12-20,1010841,491,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,84,66,18,1388,Duke,223,223,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,111
+2010-11,2010-12-20,1010841,492,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,85,66,19,1388,Duke,223,223,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,111
+2010-11,2010-12-20,1010841,495,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,85,66,19,1401,Elon,196,196,27, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,33.7,20.55,567431,NA,NA,0,Elon,Duke,112
+2010-11,2010-12-20,1010841,498,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,88,66,22,1388,Duke,185,185,11, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,38.8,25.75,518947,NA,NA,0,Duke,Elon,113
+2010-11,2010-12-20,1010841,501,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,91,66,25,1388,Duke,167,167,18, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,8,21.849999999999994,398429,NA,NA,0,Duke,Elon,114
+2010-11,2010-12-20,1010841,504,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,94,66,28,1388,Duke,148,148,19, makes a 3-point jump shot from 26 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,35,30.25,510784,NA,NA,0,Duke,Elon,115
+2010-11,2010-12-20,1010841,506,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,94,66,28,1401,Elon,130,130,18,Offensive foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,116
+2010-11,2010-12-20,1010841,510,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,94,66,28,1401,Elon,124,124,6, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,34.7,17.45,475434,NA,NA,0,Elon,Elon,117
+2010-11,2010-12-20,1010841,511,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,94,66,28,1401,Elon,124,124,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,117
+2010-11,2010-12-20,1010841,512,0,2,Duke,Elon,Blue Devils,Phoenix,3,2,94,68,26,1401,Elon,124,124,0, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567431,NA,NA,0,Elon,Duke,117
+2010-11,2010-12-20,1010841,513,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,94,68,26,1388,Duke,124,124,0,Blue Devils take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,516,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,94,68,26,1401,Elon,112,112,12,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,118
+2010-11,2010-12-20,1010841,517,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,95,68,27,1388,Duke,112,112,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,118
+2010-11,2010-12-20,1010841,518,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,96,68,28,1388,Duke,112,112,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,118
+2010-11,2010-12-20,1010841,523,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,96,68,28,1401,Elon,112,112,0, misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,10.8,15.85,410162,NA,NA,0,Elon,Elon,119
+2010-11,2010-12-20,1010841,524,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,96,68,28,1401,Elon,112,112,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Elon,119
+2010-11,2010-12-20,1010841,525,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,96,70,26,1401,Elon,112,112,0, makes a jump shot from 18 feet out.,made,FALSE,FALSE,Jump Shot,32.5,21.15,567429,NA,NA,0,Elon,Duke,119
+2010-11,2010-12-20,1010841,545,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,96,70,26,1401,Elon,86,86,26,Personal foul committed by Phoenix.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,120
+2010-11,2010-12-20,1010841,551,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,97,70,27,1388,Duke,81,81,5, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,120
+2010-11,2010-12-20,1010841,552,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,70,28,1388,Duke,81,81,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Elon,120
+2010-11,2010-12-20,1010841,560,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,1401,Elon,54,54,27, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,567429,NA,NA,0,Elon,Duke,121
+2010-11,2010-12-20,1010841,562,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,1388,Duke,32,32,22, misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,29,21.650000000000006,551767,NA,NA,0,Duke,Duke,122
+2010-11,2010-12-20,1010841,563,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,1388,Duke,32,32,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,122
+2010-11,2010-12-20,1010841,567,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,1401,Elon,17,17,15, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,44.2,20.95,567429,NA,NA,0,Elon,Elon,122
+2010-11,2010-12-20,1010841,568,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,1388,Duke,17,17,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Elon,Duke,122
+2010-11,2010-12-20,1010841,569,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,NA,NA,0,0,17,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2010-11,2010-12-20,1010841,570,0,2,Duke,Elon,Blue Devils,Phoenix,2,2,98,72,26,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Duke,Duke,NA

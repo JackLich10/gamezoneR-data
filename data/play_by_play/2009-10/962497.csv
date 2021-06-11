@@ -1,0 +1,308 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2009-10,2010-03-11,962497,1,1,1,Baylor,Texas,Bears,Longhorns,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Baylor,NA
+2009-10,2010-03-11,962497,6,1,1,Baylor,Texas,Bears,Longhorns,4,4,0,0,0,1651,Texas,2381,1181,19,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,1
+2009-10,2010-03-11,962497,7,1,1,Baylor,Texas,Bears,Longhorns,4,4,1,0,1,1313,Baylor,2381,1181,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,1
+2009-10,2010-03-11,962497,8,1,1,Baylor,Texas,Bears,Longhorns,4,4,2,0,2,1313,Baylor,2381,1181,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,1
+2009-10,2010-03-11,962497,13,1,1,Baylor,Texas,Bears,Longhorns,4,4,2,0,2,1313,Baylor,2359,1159,22,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,2
+2009-10,2010-03-11,962497,15,1,1,Baylor,Texas,Bears,Longhorns,4,4,2,2,0,1651,Texas,2356,1156,3, makes a jump shot from 16 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,8.8,4.85,329527,NA,NA,0,Texas,Baylor,2
+2009-10,2010-03-11,962497,16,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,2,2,1313,Baylor,2328,1128,28, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,33,6.75,331197,NA,NA,0,Baylor,Texas,3
+2009-10,2010-03-11,962497,18,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,4,0,1651,Texas,2308,1108,20, makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,32.8,17.05,513607,NA,NA,0,Texas,Baylor,4
+2009-10,2010-03-11,962497,19,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,4,0,1313,Baylor,2294,1094,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329668,NA,NA,0,Baylor,Baylor,5
+2009-10,2010-03-11,962497,20,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,4,0,1651,Texas,2294,1094,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,5
+2009-10,2010-03-11,962497,24,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,4,0,1313,Baylor,2287,1087,7,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,6
+2009-10,2010-03-11,962497,25,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,5,-1,1651,Texas,2287,1087,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,6
+2009-10,2010-03-11,962497,26,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,5,-1,1651,Texas,2287,1087,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,6
+2009-10,2010-03-11,962497,27,1,1,Baylor,Texas,Bears,Longhorns,4,4,4,5,-1,1313,Baylor,2287,1087,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,6
+2009-10,2010-03-11,962497,29,1,1,Baylor,Texas,Bears,Longhorns,4,4,6,5,1,1313,Baylor,2263,1063,24, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,18.3,8.549999999999997,329667,NA,NA,0,Baylor,Texas,7
+2009-10,2010-03-11,962497,30,1,1,Baylor,Texas,Bears,Longhorns,4,4,6,5,1,1651,Texas,2249,1049,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,8
+2009-10,2010-03-11,962497,31,1,1,Baylor,Texas,Bears,Longhorns,4,4,6,5,1,1651,Texas,2249,1049,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,8
+2009-10,2010-03-11,962497,32,1,1,Baylor,Texas,Bears,Longhorns,4,4,6,5,1,1651,Texas,2245,1045,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,8
+2009-10,2010-03-11,962497,33,1,1,Baylor,Texas,Bears,Longhorns,4,4,6,5,1,1313,Baylor,2245,1045,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,8
+2009-10,2010-03-11,962497,34,1,1,Baylor,Texas,Bears,Longhorns,4,4,9,5,4,1313,Baylor,2240,1040,5, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,5.799999999999997,18.549999999999997,329667,NA,NA,0,Baylor,Texas,9
+2009-10,2010-03-11,962497,35,1,1,Baylor,Texas,Bears,Longhorns,4,4,9,7,2,1651,Texas,2219,1019,21, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,513607,NA,NA,0,Texas,Baylor,10
+2009-10,2010-03-11,962497,36,1,1,Baylor,Texas,Bears,Longhorns,4,4,11,7,4,1313,Baylor,2209,1009,10, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329668,NA,NA,0,Baylor,Texas,11
+2009-10,2010-03-11,962497,40,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1313,Baylor,2179,979,30, makes a 3-point jump shot from 27 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,28,31.75,329667,NA,NA,0,Baylor,Texas,12
+2009-10,2010-03-11,962497,41,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1313,Baylor,2157,957,22, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,24.8,33.25,329667,NA,NA,0,Baylor,Baylor,13
+2009-10,2010-03-11,962497,42,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1651,Texas,2157,957,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,13
+2009-10,2010-03-11,962497,45,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1313,Baylor,2140,940,17,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,14
+2009-10,2010-03-11,962497,45.5,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1651,Texas,2140,940,0,Technical foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,14
+2009-10,2010-03-11,962497,45.5625,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1313,Baylor,2140,940,0,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,14
+2009-10,2010-03-11,962497,45.625,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1651,Texas,2140,940,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,14
+2009-10,2010-03-11,962497,45.75,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,1313,Baylor,2140,940,0,Technical foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,14
+2009-10,2010-03-11,962497,46,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,7,7,NA,NA,2140,940,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,55,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,8,6,1651,Texas,2140,940,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,15
+2009-10,2010-03-11,962497,56,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,9,5,1651,Texas,2140,940,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,15
+2009-10,2010-03-11,962497,61,1,1,Baylor,Texas,Bears,Longhorns,4,4,14,9,5,1651,Texas,2110,910,30,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-03-11,962497,63,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1313,Baylor,2110,910,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-03-11,962497,64,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1313,Baylor,2110,910,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,65,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1313,Baylor,2110,910,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,16
+2009-10,2010-03-11,962497,66,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1651,Texas,2110,910,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,16
+2009-10,2010-03-11,962497,73,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1651,Texas,2101,901,9, misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,12.7,12.65,329527,NA,NA,0,Texas,Baylor,17
+2009-10,2010-03-11,962497,75,1,1,Baylor,Texas,Bears,Longhorns,4,4,15,9,6,1313,Baylor,2097,897,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,77,1,1,Baylor,Texas,Bears,Longhorns,4,4,17,9,8,1313,Baylor,2085,885,12, makes a hook shot from 5 feet out.,made,FALSE,FALSE,Hook Shot,25,9.849999999999994,331197,NA,NA,0,Baylor,Texas,18
+2009-10,2010-03-11,962497,78,1,1,Baylor,Texas,Bears,Longhorns,4,4,17,12,5,1651,Texas,2063,863,22, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.3000000000000007,8.55,329527,NA,NA,0,Texas,Baylor,19
+2009-10,2010-03-11,962497,79,1,1,Baylor,Texas,Bears,Longhorns,4,4,17,12,5,1313,Baylor,2033,833,30, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,37.3,30.25,511658,NA,NA,0,Baylor,Baylor,20
+2009-10,2010-03-11,962497,80,1,1,Baylor,Texas,Bears,Longhorns,4,4,17,12,5,1313,Baylor,2033,833,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,20
+2009-10,2010-03-11,962497,81,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,12,7,1313,Baylor,2028,828,5, makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,21,11.25,511658,NA,NA,0,Baylor,Texas,20
+2009-10,2010-03-11,962497,82,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,2004,804,24, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513607,NA,NA,0,Texas,Baylor,21
+2009-10,2010-03-11,962497,83,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1313,Baylor,1983,783,21, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.8,6.049999999999997,331197,NA,NA,0,Baylor,Baylor,22
+2009-10,2010-03-11,962497,84,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,1983,783,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,22
+2009-10,2010-03-11,962497,85,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,1973,773,10, misses a jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,31.8,6.25,513607,NA,NA,0,Texas,Texas,23
+2009-10,2010-03-11,962497,86,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1313,Baylor,1973,773,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,23
+2009-10,2010-03-11,962497,87,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1313,Baylor,1965,765,8, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,46.2,15.650000000000006,469235,NA,NA,0,Baylor,Baylor,24
+2009-10,2010-03-11,962497,88,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,1965,765,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,24
+2009-10,2010-03-11,962497,89,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,1956,756,9, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,41.8,25.15,513608,NA,NA,0,Texas,Texas,25
+2009-10,2010-03-11,962497,90,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,14,5,1651,Texas,1956,756,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,25
+2009-10,2010-03-11,962497,91,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,16,3,1651,Texas,1953,753,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,402373,NA,NA,0,Texas,Baylor,25
+2009-10,2010-03-11,962497,92,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,16,3,1313,Baylor,1929,729,24, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,23.3,31.15,329667,NA,NA,0,Baylor,Baylor,26
+2009-10,2010-03-11,962497,93,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,16,3,1651,Texas,1929,729,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,26
+2009-10,2010-03-11,962497,94,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,16,3,1651,Texas,1919,719,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329528,NA,NA,0,Texas,Texas,27
+2009-10,2010-03-11,962497,95,1,1,Baylor,Texas,Bears,Longhorns,4,4,19,16,3,1313,Baylor,1919,719,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,27
+2009-10,2010-03-11,962497,96,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,1313,Baylor,1891,691,28, makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,23.3,17.450000000000003,331197,NA,NA,0,Baylor,Texas,28
+2009-10,2010-03-11,962497,97,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,1651,Texas,1872,672,19, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,11.45,513607,NA,NA,0,Texas,Texas,29
+2009-10,2010-03-11,962497,98,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,1313,Baylor,1872,672,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,29
+2009-10,2010-03-11,962497,102,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,1313,Baylor,1856,656,16, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,511658,NA,NA,0,Baylor,Baylor,30
+2009-10,2010-03-11,962497,103,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,1651,Texas,1856,656,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,30
+2009-10,2010-03-11,962497,104,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,16,5,NA,NA,1856,656,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,107,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1841,641,15, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,39.8,25.35,513608,NA,NA,0,Texas,Baylor,31
+2009-10,2010-03-11,962497,111,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1824,624,17,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,32
+2009-10,2010-03-11,962497,115,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1313,Baylor,1806,606,18, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,12.5,27.650000000000006,331197,NA,NA,0,Baylor,Baylor,32
+2009-10,2010-03-11,962497,116,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1806,606,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,32
+2009-10,2010-03-11,962497,124,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1785,585,21, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,33
+2009-10,2010-03-11,962497,125,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1785,585,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,33
+2009-10,2010-03-11,962497,127,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1758,558,27, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,26,7.75,329527,NA,NA,0,Texas,Texas,33
+2009-10,2010-03-11,962497,128,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1313,Baylor,1758,558,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,33
+2009-10,2010-03-11,962497,129,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1313,Baylor,1758,558,0, misses a jump shot from 4 feet out.,missed,FALSE,FALSE,Jump Shot,21.8,7.75,511655,NA,NA,0,Baylor,Texas,34
+2009-10,2010-03-11,962497,135,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1733,533,25, misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,15.2,27.65,513608,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,136,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1733,533,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,139,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1729,529,4,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,141,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1726,526,3, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,24.5,17.65,402373,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,142,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1726,526,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,143,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1722,522,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329526,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,144,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1722,522,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,145,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1717,517,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,400598,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,146,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1717,517,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,148,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1714,514,3, misses a tip shot from 3 feet out.,missed,FALSE,FALSE,Tip Shot,22,6.75,402373,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,149,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1714,514,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,151,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1313,Baylor,1712,512,2,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,152,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,19,2,1651,Texas,1712,512,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,35
+2009-10,2010-03-11,962497,154,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,20,1,1651,Texas,1712,512,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,35
+2009-10,2010-03-11,962497,161,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,20,1,1313,Baylor,1690,490,22, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,22.3,17.25,329667,NA,NA,0,Baylor,Baylor,36
+2009-10,2010-03-11,962497,162,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,20,1,1651,Texas,1690,490,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,36
+2009-10,2010-03-11,962497,163,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,20,1,1651,Texas,1668,468,22, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,6.95,402373,NA,NA,0,Texas,Texas,37
+2009-10,2010-03-11,962497,164,1,1,Baylor,Texas,Bears,Longhorns,4,4,21,20,1,1313,Baylor,1668,468,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,37
+2009-10,2010-03-11,962497,167,1,1,Baylor,Texas,Bears,Longhorns,4,4,23,20,3,1313,Baylor,1662,462,6, makes a jump shot from 3 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,25.7,7.950000000000003,511658,NA,NA,0,Baylor,Baylor,38
+2009-10,2010-03-11,962497,168,1,1,Baylor,Texas,Bears,Longhorns,4,4,23,20,3,1651,Texas,1662,462,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,38
+2009-10,2010-03-11,962497,169,1,1,Baylor,Texas,Bears,Longhorns,4,4,23,20,3,NA,NA,1662,462,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,171,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,20,4,1313,Baylor,1662,462,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,38
+2009-10,2010-03-11,962497,174,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,20,4,1651,Texas,1645,445,17, misses a hook shot from 5 feet out.,missed,FALSE,FALSE,Hook Shot,21,7.55,402373,NA,NA,0,Texas,Texas,39
+2009-10,2010-03-11,962497,175,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,20,4,1651,Texas,1645,445,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,39
+2009-10,2010-03-11,962497,176,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1651,Texas,1641,441,4, dunks.,made,FALSE,FALSE,Dunk Shot,25,5.25,329527,NA,NA,0,Texas,Baylor,39
+2009-10,2010-03-11,962497,177,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1313,Baylor,1608,408,33, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,19,11.849999999999994,469235,NA,NA,0,Baylor,Baylor,40
+2009-10,2010-03-11,962497,178,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1651,Texas,1608,408,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,40
+2009-10,2010-03-11,962497,187,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1651,Texas,1573,373,35, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,32.8,13.95,513607,NA,NA,0,Texas,Texas,41
+2009-10,2010-03-11,962497,189,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1313,Baylor,1573,373,0,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-03-11,962497,190,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,22,2,1651,Texas,1573,373,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,41
+2009-10,2010-03-11,962497,192,1,1,Baylor,Texas,Bears,Longhorns,4,4,24,23,1,1651,Texas,1573,373,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,41
+2009-10,2010-03-11,962497,194,1,1,Baylor,Texas,Bears,Longhorns,4,4,27,23,4,1313,Baylor,1550,350,23, makes a 3-point jump shot from 24 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,4.799999999999997,18.450000000000003,398438,NA,NA,0,Baylor,Texas,42
+2009-10,2010-03-11,962497,195,1,1,Baylor,Texas,Bears,Longhorns,4,4,27,25,2,1651,Texas,1530,330,20, makes a hook shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Hook Shot,24.2,9.15,329529,NA,NA,0,Texas,Baylor,43
+2009-10,2010-03-11,962497,197,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,25,5,1313,Baylor,1504,304,26, makes a 3-point jump shot from 25 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,10.299999999999997,25.75,398438,NA,NA,0,Baylor,Texas,44
+2009-10,2010-03-11,962497,198,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,28,2,1651,Texas,1490,290,14, makes a 3-point jump shot from 22 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,2.8000000000000007,4.45,329527,NA,NA,0,Texas,Baylor,45
+2009-10,2010-03-11,962497,199,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,28,2,1313,Baylor,1473,273,17, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,7.700000000000003,29.849999999999994,329667,NA,NA,0,Baylor,Baylor,46
+2009-10,2010-03-11,962497,200,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,28,2,1651,Texas,1473,273,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,46
+2009-10,2010-03-11,962497,204,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,28,2,1313,Baylor,1470,270,3,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,47
+2009-10,2010-03-11,962497,205,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,29,1,1651,Texas,1470,270,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,47
+2009-10,2010-03-11,962497,206,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,30,0,1651,Texas,1470,270,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,48
+2009-10,2010-03-11,962497,211,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,30,0,1651,Texas,1455,255,15,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,49
+2009-10,2010-03-11,962497,214,1,1,Baylor,Texas,Bears,Longhorns,4,4,30,30,0,1651,Texas,1444,244,11,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,49
+2009-10,2010-03-11,962497,215,1,1,Baylor,Texas,Bears,Longhorns,4,4,31,30,1,1313,Baylor,1444,244,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,49
+2009-10,2010-03-11,962497,216,1,1,Baylor,Texas,Bears,Longhorns,4,4,31,30,1,1651,Texas,1444,244,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,217,1,1,Baylor,Texas,Bears,Longhorns,4,4,32,30,2,1313,Baylor,1444,244,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,49
+2009-10,2010-03-11,962497,219,1,1,Baylor,Texas,Bears,Longhorns,4,4,32,30,2,1651,Texas,1427,227,17, misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,21.2,13.15,329528,NA,NA,0,Texas,Texas,50
+2009-10,2010-03-11,962497,220,1,1,Baylor,Texas,Bears,Longhorns,4,4,32,30,2,1313,Baylor,1427,227,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,50
+2009-10,2010-03-11,962497,223,1,1,Baylor,Texas,Bears,Longhorns,4,4,34,30,4,1313,Baylor,1420,220,7, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,469234,NA,NA,0,Baylor,Baylor,51
+2009-10,2010-03-11,962497,224,1,1,Baylor,Texas,Bears,Longhorns,4,4,34,30,4,1651,Texas,1420,220,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,51
+2009-10,2010-03-11,962497,225,1,1,Baylor,Texas,Bears,Longhorns,4,4,34,30,4,NA,NA,1420,220,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,226,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1313,Baylor,1420,220,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,51
+2009-10,2010-03-11,962497,230,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1651,Texas,1407,207,13, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,52
+2009-10,2010-03-11,962497,231,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1651,Texas,1407,207,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,52
+2009-10,2010-03-11,962497,233,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1651,Texas,1404,204,3, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,52
+2009-10,2010-03-11,962497,234,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1651,Texas,1404,204,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,52
+2009-10,2010-03-11,962497,235,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,30,5,1313,Baylor,1404,204,0,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,52
+2009-10,2010-03-11,962497,236,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,31,4,1651,Texas,1404,204,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,52
+2009-10,2010-03-11,962497,237,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,32,3,1651,Texas,1404,204,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,53
+2009-10,2010-03-11,962497,245,1,1,Baylor,Texas,Bears,Longhorns,4,4,35,32,3,1651,Texas,1381,181,23,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,54
+2009-10,2010-03-11,962497,246,1,1,Baylor,Texas,Bears,Longhorns,4,4,36,32,4,1313,Baylor,1381,181,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,54
+2009-10,2010-03-11,962497,247,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,32,5,1313,Baylor,1381,181,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,54
+2009-10,2010-03-11,962497,249,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,34,3,1651,Texas,1350,150,31, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,513608,NA,NA,0,Texas,Baylor,55
+2009-10,2010-03-11,962497,250,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,34,3,1313,Baylor,1329,129,21, misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,29.8,18.950000000000003,398438,NA,NA,0,Baylor,Baylor,56
+2009-10,2010-03-11,962497,251,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,34,3,1651,Texas,1329,129,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,56
+2009-10,2010-03-11,962497,254,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,34,3,1313,Baylor,1319,119,10,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,57
+2009-10,2010-03-11,962497,255,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,34,3,1313,Baylor,1319,119,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,256,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,35,2,1651,Texas,1319,119,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,57
+2009-10,2010-03-11,962497,257,1,1,Baylor,Texas,Bears,Longhorns,4,4,37,35,2,1651,Texas,1319,119,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,58
+2009-10,2010-03-11,962497,264,1,1,Baylor,Texas,Bears,Longhorns,4,4,39,35,4,1313,Baylor,1299,99,20, makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,22.7,12.75,331197,NA,NA,0,Baylor,Texas,59
+2009-10,2010-03-11,962497,265,1,1,Baylor,Texas,Bears,Longhorns,4,4,39,37,2,1651,Texas,1286,86,13, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,22.5,14.35,513607,NA,NA,0,Texas,Baylor,60
+2009-10,2010-03-11,962497,267,1,1,Baylor,Texas,Bears,Longhorns,4,4,39,37,2,1651,Texas,1281,81,5,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,61
+2009-10,2010-03-11,962497,268,1,1,Baylor,Texas,Bears,Longhorns,4,4,40,37,3,1313,Baylor,1281,81,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,61
+2009-10,2010-03-11,962497,269,1,1,Baylor,Texas,Bears,Longhorns,4,4,41,37,4,1313,Baylor,1281,81,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,61
+2009-10,2010-03-11,962497,271,1,1,Baylor,Texas,Bears,Longhorns,4,4,41,37,4,1651,Texas,1269,69,12, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,26.8,15.35,513608,NA,NA,0,Texas,Texas,62
+2009-10,2010-03-11,962497,272,1,1,Baylor,Texas,Bears,Longhorns,4,4,41,37,4,1313,Baylor,1269,69,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,62
+2009-10,2010-03-11,962497,276,1,1,Baylor,Texas,Bears,Longhorns,3,4,41,37,4,1313,Baylor,1262,62,7,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,281,1,1,Baylor,Texas,Bears,Longhorns,3,4,41,37,4,1313,Baylor,1257,57,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329667,NA,NA,0,Baylor,Baylor,63
+2009-10,2010-03-11,962497,286,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,37,6,1313,Baylor,1247,47,10, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,511658,NA,NA,0,Baylor,Texas,63
+2009-10,2010-03-11,962497,289,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,37,6,1313,Baylor,1236,36,11,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,64
+2009-10,2010-03-11,962497,290,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,38,5,1651,Texas,1236,36,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,64
+2009-10,2010-03-11,962497,291,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,39,4,1651,Texas,1236,36,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,64
+2009-10,2010-03-11,962497,294,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,39,4,1313,Baylor,1203,3,33, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33.3,15.349999999999994,511658,NA,NA,0,Baylor,Texas,65
+2009-10,2010-03-11,962497,296,1,1,Baylor,Texas,Bears,Longhorns,3,4,43,39,4,NA,NA,1200,0,3,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,297,1,2,Baylor,Texas,Bears,Longhorns,4,4,43,39,4,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Texas,66
+2009-10,2010-03-11,962497,316,1,2,Baylor,Texas,Bears,Longhorns,4,4,43,39,4,1651,Texas,1185,1185,15, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,32.2,15.65,513607,NA,NA,0,Texas,Texas,67
+2009-10,2010-03-11,962497,317,1,2,Baylor,Texas,Bears,Longhorns,4,4,43,39,4,1651,Texas,1185,1185,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,67
+2009-10,2010-03-11,962497,318,1,2,Baylor,Texas,Bears,Longhorns,4,4,43,41,2,1651,Texas,1168,1168,17, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,67
+2009-10,2010-03-11,962497,321,1,2,Baylor,Texas,Bears,Longhorns,4,4,45,41,4,1313,Baylor,1155,1155,13, makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,14.700000000000003,7.150000000000006,331197,NA,NA,0,Baylor,Texas,68
+2009-10,2010-03-11,962497,329,1,2,Baylor,Texas,Bears,Longhorns,4,4,47,41,6,1313,Baylor,1120,1120,35, makes a jump shot from 20 feet out.,made,FALSE,FALSE,Jump Shot,35.7,22.650000000000006,398437,NA,NA,0,Baylor,Texas,69
+2009-10,2010-03-11,962497,330,1,2,Baylor,Texas,Bears,Longhorns,4,4,47,41,6,1651,Texas,1106,1106,14, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,402373,NA,NA,0,Texas,Texas,70
+2009-10,2010-03-11,962497,331,1,2,Baylor,Texas,Bears,Longhorns,4,4,47,41,6,1651,Texas,1106,1106,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,70
+2009-10,2010-03-11,962497,332,1,2,Baylor,Texas,Bears,Longhorns,4,4,47,41,6,1651,Texas,1102,1102,4, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329529,NA,NA,0,Texas,Texas,70
+2009-10,2010-03-11,962497,333,1,2,Baylor,Texas,Bears,Longhorns,4,4,47,41,6,1651,Texas,1102,1102,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,70
+2009-10,2010-03-11,962497,334,1,2,Baylor,Texas,Bears,Longhorns,4,4,49,41,8,1313,Baylor,1085,1085,17, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331197,NA,NA,0,Baylor,Texas,70
+2009-10,2010-03-11,962497,337,1,2,Baylor,Texas,Bears,Longhorns,4,3,49,41,8,1651,Texas,1080,1080,5,Longhorns take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,342,1,2,Baylor,Texas,Bears,Longhorns,4,3,49,41,8,1651,Texas,1066,1066,14, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,10.8,29.85,329527,NA,NA,0,Texas,Texas,71
+2009-10,2010-03-11,962497,343,1,2,Baylor,Texas,Bears,Longhorns,4,3,49,41,8,1313,Baylor,1066,1066,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,71
+2009-10,2010-03-11,962497,346,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1313,Baylor,1060,1060,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,398437,NA,NA,0,Baylor,Baylor,72
+2009-10,2010-03-11,962497,347,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1651,Texas,1060,1060,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,72
+2009-10,2010-03-11,962497,348,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1313,Baylor,1060,1060,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,72
+2009-10,2010-03-11,962497,349,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1313,Baylor,1060,1060,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,72
+2009-10,2010-03-11,962497,356,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1651,Texas,1043,1043,17, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,26.95,513608,NA,NA,0,Texas,Texas,72
+2009-10,2010-03-11,962497,357,1,2,Baylor,Texas,Bears,Longhorns,4,3,51,41,10,1313,Baylor,1043,1043,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,72
+2009-10,2010-03-11,962497,358,1,2,Baylor,Texas,Bears,Longhorns,4,3,53,41,12,1313,Baylor,1037,1037,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Texas,73
+2009-10,2010-03-11,962497,361,1,2,Baylor,Texas,Bears,Longhorns,4,2,53,41,12,1651,Texas,1035,1035,2,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,362,1,2,Baylor,Texas,Bears,Longhorns,4,2,53,41,12,1651,Texas,1035,1035,0,Technical foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,74
+2009-10,2010-03-11,962497,364,1,2,Baylor,Texas,Bears,Longhorns,4,2,53,41,12,1651,Texas,1035,1035,0,Technical foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,75
+2009-10,2010-03-11,962497,364,1,2,Baylor,Texas,Bears,Longhorns,4,2,53,41,12,1651,Texas,1035,1035,0,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,75
+2009-10,2010-03-11,962497,366,1,2,Baylor,Texas,Bears,Longhorns,4,2,53,41,12,1313,Baylor,1035,1035,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,75
+2009-10,2010-03-11,962497,368,1,2,Baylor,Texas,Bears,Longhorns,4,2,54,41,13,1313,Baylor,1035,1035,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,75
+2009-10,2010-03-11,962497,373,1,2,Baylor,Texas,Bears,Longhorns,4,2,56,41,15,1313,Baylor,1029,1029,6, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329667,NA,NA,0,Baylor,Texas,76
+2009-10,2010-03-11,962497,375,1,2,Baylor,Texas,Bears,Longhorns,4,2,56,43,13,1651,Texas,1017,1017,12, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,77
+2009-10,2010-03-11,962497,376,1,2,Baylor,Texas,Bears,Longhorns,4,2,56,43,13,1313,Baylor,996,996,21, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,15,14.150000000000006,398437,NA,NA,0,Baylor,Baylor,78
+2009-10,2010-03-11,962497,377,1,2,Baylor,Texas,Bears,Longhorns,4,2,56,43,13,1651,Texas,996,996,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,78
+2009-10,2010-03-11,962497,382,1,2,Baylor,Texas,Bears,Longhorns,4,2,56,43,13,1651,Texas,987,987,9, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513607,NA,NA,0,Texas,Baylor,79
+2009-10,2010-03-11,962497,385,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,43,15,1313,Baylor,975,975,12, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329667,NA,NA,0,Baylor,Texas,80
+2009-10,2010-03-11,962497,390,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,43,15,1651,Texas,951,951,24,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,81
+2009-10,2010-03-11,962497,391,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,43,15,NA,NA,951,951,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,393,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,43,15,1313,Baylor,939,939,12, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,36.7,6.25,331197,NA,NA,0,Baylor,Baylor,81
+2009-10,2010-03-11,962497,394,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,43,15,1651,Texas,939,939,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,81
+2009-10,2010-03-11,962497,395,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,45,13,1651,Texas,918,918,21, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,329527,NA,NA,0,Texas,Baylor,82
+2009-10,2010-03-11,962497,398,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,45,13,1651,Texas,901,901,17,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,83
+2009-10,2010-03-11,962497,400,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,45,13,1313,Baylor,897,897,4, misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,29.2,14.549999999999997,398437,NA,NA,0,Baylor,Baylor,83
+2009-10,2010-03-11,962497,401,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,45,13,1651,Texas,897,897,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,83
+2009-10,2010-03-11,962497,404,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,45,13,1313,Baylor,887,887,10,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2009-10,2010-03-11,962497,405,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,46,12,1651,Texas,887,887,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,84
+2009-10,2010-03-11,962497,406,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1651,Texas,887,887,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,84
+2009-10,2010-03-11,962497,407,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1313,Baylor,887,887,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,408,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1313,Baylor,887,887,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,410,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1313,Baylor,854,854,33, misses a jump shot from 19 feet out.,missed,FALSE,FALSE,Jump Shot,6.799999999999997,9.150000000000006,329667,NA,NA,0,Baylor,Baylor,85
+2009-10,2010-03-11,962497,411,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1651,Texas,854,854,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,85
+2009-10,2010-03-11,962497,415,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1313,Baylor,845,845,9,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-03-11,962497,416,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,47,11,1651,Texas,845,845,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,86
+2009-10,2010-03-11,962497,418,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1651,Texas,845,845,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,86
+2009-10,2010-03-11,962497,422,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1313,Baylor,826,826,19,Personal foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,87
+2009-10,2010-03-11,962497,426,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1651,Texas,821,821,5, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,39.8,28.05,469830,NA,NA,0,Texas,Texas,87
+2009-10,2010-03-11,962497,427,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1313,Baylor,821,821,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,87
+2009-10,2010-03-11,962497,432,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1313,Baylor,810,810,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398438,NA,NA,0,Baylor,Baylor,88
+2009-10,2010-03-11,962497,433,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1313,Baylor,810,810,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,88
+2009-10,2010-03-11,962497,443,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,48,10,1651,Texas,790,790,20,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,88
+2009-10,2010-03-11,962497,445,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,50,8,1651,Texas,768,768,22, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,88
+2009-10,2010-03-11,962497,449,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,50,8,1651,Texas,746,746,22,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,89
+2009-10,2010-03-11,962497,450,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,50,8,1651,Texas,746,746,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,451,1,2,Baylor,Texas,Bears,Longhorns,4,2,58,50,8,1313,Baylor,746,746,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,457,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1313,Baylor,742,742,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Texas,89
+2009-10,2010-03-11,962497,458,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1651,Texas,725,725,17, misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,47.7,7.95,513607,NA,NA,0,Texas,Texas,90
+2009-10,2010-03-11,962497,459,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1651,Texas,725,725,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,90
+2009-10,2010-03-11,962497,460,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1651,Texas,719,719,6, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,329527,NA,NA,0,Texas,Texas,90
+2009-10,2010-03-11,962497,461,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1313,Baylor,719,719,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,90
+2009-10,2010-03-11,962497,466,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1651,Texas,691,691,28,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-03-11,962497,467,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,NA,NA,691,691,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,468,1,2,Baylor,Texas,Bears,Longhorns,4,2,60,50,10,1313,Baylor,691,691,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,91
+2009-10,2010-03-11,962497,470,1,2,Baylor,Texas,Bears,Longhorns,4,2,61,50,11,1313,Baylor,691,691,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,91
+2009-10,2010-03-11,962497,475,1,2,Baylor,Texas,Bears,Longhorns,4,2,61,50,11,1313,Baylor,661,661,30, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398437,NA,NA,0,Baylor,Baylor,92
+2009-10,2010-03-11,962497,476,1,2,Baylor,Texas,Bears,Longhorns,4,2,61,50,11,1651,Texas,661,661,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,92
+2009-10,2010-03-11,962497,477,1,2,Baylor,Texas,Bears,Longhorns,4,2,61,53,8,1651,Texas,652,652,9, makes a 3-point jump shot from 23 feet out.  with the assist.,made,FALSE,TRUE,Jump Shot,3.1999999999999993,12.65,469830,NA,NA,0,Texas,Baylor,93
+2009-10,2010-03-11,962497,480,1,2,Baylor,Texas,Bears,Longhorns,3,2,61,53,8,1313,Baylor,631,631,21,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,484,1,2,Baylor,Texas,Bears,Longhorns,3,2,61,53,8,1313,Baylor,614,614,17,Offensive foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,94
+2009-10,2010-03-11,962497,486,1,2,Baylor,Texas,Bears,Longhorns,3,2,61,53,8,1651,Texas,607,607,7, misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.8,10.25,513607,NA,NA,0,Texas,Texas,95
+2009-10,2010-03-11,962497,487,1,2,Baylor,Texas,Bears,Longhorns,3,2,61,53,8,1313,Baylor,607,607,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,95
+2009-10,2010-03-11,962497,488,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,53,11,1313,Baylor,575,575,32, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,41,24.349999999999994,329667,NA,NA,0,Baylor,Texas,96
+2009-10,2010-03-11,962497,489,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,55,9,1651,Texas,542,542,33, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,97
+2009-10,2010-03-11,962497,490,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,55,9,1651,Texas,513,513,29, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,469830,NA,NA,0,Texas,Texas,98
+2009-10,2010-03-11,962497,491,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,55,9,1651,Texas,513,513,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,98
+2009-10,2010-03-11,962497,492,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,57,7,1651,Texas,510,510,3, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,98
+2009-10,2010-03-11,962497,493,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,57,7,1313,Baylor,502,502,8, misses a 3-point jump shot from 26 feet out.,missed,FALSE,TRUE,Jump Shot,12.700000000000003,28.25,329667,NA,NA,0,Baylor,Baylor,99
+2009-10,2010-03-11,962497,494,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,57,7,1651,Texas,502,502,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,99
+2009-10,2010-03-11,962497,495,1,2,Baylor,Texas,Bears,Longhorns,3,2,64,59,5,1651,Texas,496,496,6, dunks.  with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,329529,NA,NA,0,Texas,Baylor,100
+2009-10,2010-03-11,962497,499,1,2,Baylor,Texas,Bears,Longhorns,2,2,64,59,5,1313,Baylor,491,491,5,Bears take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,501,1,2,Baylor,Texas,Bears,Longhorns,2,2,64,59,5,1313,Baylor,480,480,11, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398437,NA,NA,0,Baylor,Baylor,101
+2009-10,2010-03-11,962497,502,1,2,Baylor,Texas,Bears,Longhorns,2,2,64,59,5,1313,Baylor,480,480,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,101
+2009-10,2010-03-11,962497,503,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1313,Baylor,476,476,4, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Texas,101
+2009-10,2010-03-11,962497,504,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1651,Texas,454,454,22, misses a hook shot from 6 feet out.,missed,FALSE,FALSE,Hook Shot,31.5,5.45,329529,NA,NA,0,Texas,Texas,102
+2009-10,2010-03-11,962497,505,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1313,Baylor,454,454,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,102
+2009-10,2010-03-11,962497,506,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1313,Baylor,444,444,10, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,398437,NA,NA,0,Baylor,Baylor,103
+2009-10,2010-03-11,962497,507,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1651,Texas,444,444,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,103
+2009-10,2010-03-11,962497,508,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1651,Texas,431,431,13, misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37,10.65,513607,NA,NA,0,Texas,Texas,104
+2009-10,2010-03-11,962497,509,1,2,Baylor,Texas,Bears,Longhorns,2,2,66,59,7,1313,Baylor,431,431,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,104
+2009-10,2010-03-11,962497,510,1,2,Baylor,Texas,Bears,Longhorns,2,2,68,59,9,1313,Baylor,425,425,6, makes a jump shot from 4 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,28.5,6.75,329667,NA,NA,0,Baylor,Texas,105
+2009-10,2010-03-11,962497,511,1,2,Baylor,Texas,Bears,Longhorns,2,2,68,61,7,1651,Texas,400,400,25, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329528,NA,NA,0,Texas,Baylor,106
+2009-10,2010-03-11,962497,514,1,2,Baylor,Texas,Bears,Longhorns,2,2,70,61,9,1313,Baylor,384,384,16, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,398437,NA,NA,0,Baylor,Baylor,107
+2009-10,2010-03-11,962497,515,1,2,Baylor,Texas,Bears,Longhorns,2,2,70,61,9,1651,Texas,384,384,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,107
+2009-10,2010-03-11,962497,516,1,2,Baylor,Texas,Bears,Longhorns,2,2,70,61,9,NA,NA,384,384,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,517,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,61,10,1313,Baylor,384,384,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,107
+2009-10,2010-03-11,962497,520,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,63,8,1651,Texas,362,362,22, makes a jump shot from 9 feet out.  with the assist.,made,FALSE,FALSE,Jump Shot,26.2,13.75,329528,NA,NA,0,Texas,Baylor,108
+2009-10,2010-03-11,962497,521,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,63,8,1313,Baylor,326,326,36, misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,21.7,12.25,331197,NA,NA,0,Baylor,Baylor,109
+2009-10,2010-03-11,962497,522,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,63,8,1651,Texas,326,326,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,109
+2009-10,2010-03-11,962497,523,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,63,8,1651,Texas,316,316,10, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,14.3,28.05,469830,NA,NA,0,Texas,Texas,110
+2009-10,2010-03-11,962497,524,1,2,Baylor,Texas,Bears,Longhorns,2,2,71,63,8,1313,Baylor,316,316,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,110
+2009-10,2010-03-11,962497,525,1,2,Baylor,Texas,Bears,Longhorns,2,2,74,63,11,1313,Baylor,310,310,6, makes a 3-point jump shot from 25 feet out.,made,FALSE,TRUE,Jump Shot,12.700000000000003,27.349999999999994,398437,NA,NA,0,Baylor,Texas,111
+2009-10,2010-03-11,962497,529,1,2,Baylor,Texas,Bears,Longhorns,2,2,74,63,11,1313,Baylor,282,282,28,Shooting foul committed by Bears.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-03-11,962497,531,1,2,Baylor,Texas,Bears,Longhorns,2,2,74,63,11,1651,Texas,282,282,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-03-11,962497,533,1,2,Baylor,Texas,Bears,Longhorns,2,2,74,63,11,1651,Texas,282,282,0, misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,112
+2009-10,2010-03-11,962497,534,1,2,Baylor,Texas,Bears,Longhorns,2,2,74,63,11,1313,Baylor,282,282,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,112
+2009-10,2010-03-11,962497,539,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1313,Baylor,262,262,20, makes a layup.  with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,331197,NA,NA,0,Baylor,Baylor,113
+2009-10,2010-03-11,962497,540,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1651,Texas,262,262,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,113
+2009-10,2010-03-11,962497,542,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1313,Baylor,262,262,0, misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,113
+2009-10,2010-03-11,962497,543,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1313,Baylor,262,262,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,113
+2009-10,2010-03-11,962497,555,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1651,Texas,253,253,9, misses a 3-point jump shot from 27 feet out.,missed,FALSE,TRUE,Jump Shot,7.199999999999999,24.95,513607,NA,NA,0,Texas,Texas,113
+2009-10,2010-03-11,962497,556,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1313,Baylor,253,253,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,113
+2009-10,2010-03-11,962497,560,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1651,Texas,246,246,7,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,114
+2009-10,2010-03-11,962497,561,1,2,Baylor,Texas,Bears,Longhorns,2,2,76,63,13,1313,Baylor,246,246,0, misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,114
+2009-10,2010-03-11,962497,563,1,2,Baylor,Texas,Bears,Longhorns,2,2,77,63,14,1313,Baylor,246,246,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,114
+2009-10,2010-03-11,962497,568,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,227,227,19,Longhorns take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,573,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,213,213,14, misses a 3-point jump shot from 30 feet out.,missed,FALSE,TRUE,Jump Shot,40.2,30.95,469830,NA,NA,0,Texas,Texas,115
+2009-10,2010-03-11,962497,574,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1313,Baylor,213,213,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,115
+2009-10,2010-03-11,962497,575,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1313,Baylor,205,205,8, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,331197,NA,NA,0,Baylor,Baylor,116
+2009-10,2010-03-11,962497,576,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,205,205,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,116
+2009-10,2010-03-11,962497,577,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,195,195,10, misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,18.05,513607,NA,NA,0,Texas,Texas,117
+2009-10,2010-03-11,962497,578,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1313,Baylor,195,195,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,117
+2009-10,2010-03-11,962497,582,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,NA,NA,186,186,9,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,587,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,174,174,12, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513608,NA,NA,0,Texas,Texas,118
+2009-10,2010-03-11,962497,594,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,166,166,8, misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,39.2,26.35,469830,NA,NA,0,Texas,Texas,118
+2009-10,2010-03-11,962497,595,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1313,Baylor,166,166,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,118
+2009-10,2010-03-11,962497,597,1,2,Baylor,Texas,Bears,Longhorns,2,1,77,63,14,1651,Texas,163,163,3,Personal foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,119
+2009-10,2010-03-11,962497,598,1,2,Baylor,Texas,Bears,Longhorns,2,1,78,63,15,1313,Baylor,163,163,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,119
+2009-10,2010-03-11,962497,599,1,2,Baylor,Texas,Bears,Longhorns,2,1,79,63,16,1313,Baylor,163,163,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,119
+2009-10,2010-03-11,962497,602,1,2,Baylor,Texas,Bears,Longhorns,2,1,81,63,18,1313,Baylor,130,130,33, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,331197,NA,NA,0,Baylor,Baylor,120
+2009-10,2010-03-11,962497,603,1,2,Baylor,Texas,Bears,Longhorns,2,1,81,63,18,1651,Texas,130,130,0,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,120
+2009-10,2010-03-11,962497,604,1,2,Baylor,Texas,Bears,Longhorns,2,1,81,63,18,1651,Texas,130,130,0,Substitution:  in for .,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2009-10,2010-03-11,962497,605,1,2,Baylor,Texas,Bears,Longhorns,2,1,82,63,19,1313,Baylor,130,130,0, makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,120
+2009-10,2010-03-11,962497,607,1,2,Baylor,Texas,Bears,Longhorns,2,1,82,65,17,1651,Texas,120,120,10, makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,20.8,13.35,513607,NA,NA,0,Texas,Baylor,121
+2009-10,2010-03-11,962497,608,1,2,Baylor,Texas,Bears,Longhorns,2,1,84,65,19,1313,Baylor,86,86,34, makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,20,7.950000000000003,331197,NA,NA,0,Baylor,Texas,122
+2009-10,2010-03-11,962497,609,1,2,Baylor,Texas,Bears,Longhorns,2,1,84,67,17,1651,Texas,77,77,9, makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,329528,NA,NA,0,Texas,Baylor,123
+2009-10,2010-03-11,962497,613,1,2,Baylor,Texas,Bears,Longhorns,2,1,84,67,17,1651,Texas,43,43,34,Shooting foul committed by Longhorns.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,124
+2009-10,2010-03-11,962497,614,1,2,Baylor,Texas,Bears,Longhorns,2,1,85,67,18,1313,Baylor,43,43,0, makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,124
+2009-10,2010-03-11,962497,615,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,1313,Baylor,43,43,0, makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Texas,124
+2009-10,2010-03-11,962497,623,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,1651,Texas,12,12,31, misses a 3-point jump shot from 28 feet out.,missed,FALSE,TRUE,Jump Shot,14.8,31.55,469830,NA,NA,0,Texas,Texas,125
+2009-10,2010-03-11,962497,624,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,1651,Texas,12,12,0, with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Texas,125
+2009-10,2010-03-11,962497,625,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,1651,Texas,7,7,5, misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,513607,NA,NA,0,Texas,Texas,125
+2009-10,2010-03-11,962497,626,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,1313,Baylor,7,7,0, with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Texas,Baylor,125
+2009-10,2010-03-11,962497,627,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,NA,NA,0,0,7,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2009-10,2010-03-11,962497,628,1,2,Baylor,Texas,Bears,Longhorns,2,1,86,67,19,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Baylor,Baylor,NA
