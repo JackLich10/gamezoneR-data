@@ -1,0 +1,320 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1322,Brown,NA,NA,NA,Starting Lineup - Paxson Wojcik,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,NA,NA,NA,Starting Lineup - Bez Mbeng,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,NA,NA,NA,Starting Lineup - Isaiah Kelly,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,NA,NA,NA,Starting Lineup - Azar Swain,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,NA,NA,NA,Starting Lineup - Jalen Gabbidon,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1322,Brown,NA,NA,NA,Starting Lineup - David Mitchell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1322,Brown,NA,NA,NA,Starting Lineup - Tamenang Choh,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1322,Brown,NA,NA,NA,Starting Lineup - Jaylan Gainey,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,NA,NA,NA,Starting Lineup - Matt Knowling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,1,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1322,Brown,NA,NA,NA,Starting Lineup - Dan Friday,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-01-17,2371806,2,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Brown,1
+2021-22,2022-01-17,2371806,3,0,1,Brown,Yale,Bears,Bulldogs,4,4,0,0,0,1716,Yale,2374,1174,26,Shooting foul committed by Jalen Gabbidon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,1
+2021-22,2022-01-17,2371806,4,0,1,Brown,Yale,Bears,Bulldogs,4,4,1,0,1,1322,Brown,2374,1174,0,Tamenang Choh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,1
+2021-22,2022-01-17,2371806,5,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,0,2,1322,Brown,2374,1174,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,1
+2021-22,2022-01-17,2371806,6,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,0,2,1716,Yale,2350,1150,24,Isaiah Kelly misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.2,7.95,1137125,Isaiah Kelly,NA,0,Yale,Yale,2
+2021-22,2022-01-17,2371806,7,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,0,2,1322,Brown,2350,1150,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,2
+2021-22,2022-01-17,2371806,8,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,0,2,1322,Brown,2342,1142,8,Offensive foul committed by Dan Friday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,3
+2021-22,2022-01-17,2371806,9,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,0,2,1322,Brown,2342,1142,0,Dan Friday with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,3
+2021-22,2022-01-17,2371806,10,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,2,0,1716,Yale,2327,1127,15,Bez Mbeng makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1343051,Bez Mbeng,NA,0,Yale,Brown,4
+2021-22,2022-01-17,2371806,11,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,2,0,1322,Brown,2306,1106,21,Dan Friday misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.299999999999997,10.049999999999997,1176239,Dan Friday,NA,0,Brown,Brown,5
+2021-22,2022-01-17,2371806,12,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,2,0,1716,Yale,2306,1106,0,Bez Mbeng with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,5
+2021-22,2022-01-17,2371806,13,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,2,0,1322,Brown,2289,1089,17,Personal foul committed by Paxson Wojcik.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,6
+2021-22,2022-01-17,2371806,14,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,3,-1,1716,Yale,2289,1089,0,Azar Swain makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,6
+2021-22,2022-01-17,2371806,15,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,4,-2,1716,Yale,2289,1089,0,Azar Swain makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,6
+2021-22,2022-01-17,2371806,16,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,4,-2,1322,Brown,2269,1069,20,Isaiah Kelly steals the ball from Tamenang Choh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,7
+2021-22,2022-01-17,2371806,17,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,4,-2,1716,Yale,2265,1065,4,Offensive foul committed by Isaiah Kelly.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,8
+2021-22,2022-01-17,2371806,18,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,4,-2,1716,Yale,2265,1065,0,Isaiah Kelly with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,8
+2021-22,2022-01-17,2371806,19,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,4,-2,1322,Brown,2250,1050,15,Bez Mbeng steals the ball from Dan Friday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,9
+2021-22,2022-01-17,2371806,20,0,1,Brown,Yale,Bears,Bulldogs,4,4,2,7,-5,1716,Yale,2245,1045,5,Azar Swain makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,14.2,25.15,1065768,Azar Swain,NA,0,Yale,Brown,10
+2021-22,2022-01-17,2371806,21,0,1,Brown,Yale,Bears,Bulldogs,4,4,4,7,-3,1322,Brown,2226,1026,19,Paxson Wojcik makes a jump shot from 14 feet out. Tamenang Choh with the assist.,made,FALSE,FALSE,Jump Shot,14,14.650000000000006,1175187,Paxson Wojcik,Tamenang Choh,0,Brown,Yale,11
+2021-22,2022-01-17,2371806,22,0,1,Brown,Yale,Bears,Bulldogs,4,4,4,7,-3,1716,Yale,2201,1001,25,EJ Jarvis misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,11.9,6.45,1176593,EJ Jarvis,NA,0,Yale,Yale,12
+2021-22,2022-01-17,2371806,23,0,1,Brown,Yale,Bears,Bulldogs,4,4,4,7,-3,1322,Brown,2201,1001,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,12
+2021-22,2022-01-17,2371806,24,0,1,Brown,Yale,Bears,Bulldogs,4,4,7,7,0,1322,Brown,2194,994,7,Paxson Wojcik makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,8.600000000000001,20.75,1175187,Paxson Wojcik,NA,0,Brown,Yale,13
+2021-22,2022-01-17,2371806,25,0,1,Brown,Yale,Bears,Bulldogs,4,4,7,9,-2,1716,Yale,2178,978,16,Matt Knowling makes a layup. Azar Swain with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1343056,Matt Knowling,Azar Swain,0,Yale,Brown,14
+2021-22,2022-01-17,2371806,26,0,1,Brown,Yale,Bears,Bulldogs,4,4,7,9,-2,1716,Yale,2161,961,17,Shooting foul committed by Matt Knowling.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,15
+2021-22,2022-01-17,2371806,27,0,1,Brown,Yale,Bears,Bulldogs,4,4,7,9,-2,1322,Brown,2161,961,0,Tamenang Choh misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,15
+2021-22,2022-01-17,2371806,29,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,9,-1,1322,Brown,2161,961,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,15
+2021-22,2022-01-17,2371806,30,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,9,-1,1716,Yale,2138,938,23,Bez Mbeng misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,7.899999999999999,8.75,1343051,Bez Mbeng,NA,0,Yale,Yale,16
+2021-22,2022-01-17,2371806,31,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,9,-1,1716,Yale,2138,938,0,Jalen Gabbidon with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,16
+2021-22,2022-01-17,2371806,32,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,11,-3,1716,Yale,2136,936,2,Jalen Gabbidon makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13.6,10.05,1065767,Jalen Gabbidon,NA,0,Yale,Yale,16
+2021-22,2022-01-17,2371806,33,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,11,-3,1322,Brown,2136,936,0,Shooting foul committed by Kino Lilly Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,16
+2021-22,2022-01-17,2371806,34,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,11,-3,NA,NA,2136,936,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,35,0,1,Brown,Yale,Bears,Bulldogs,4,4,8,12,-4,1716,Yale,2136,936,0,Jalen Gabbidon makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,16
+2021-22,2022-01-17,2371806,36,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,12,-2,1322,Brown,2114,914,22,Jaylan Gainey dunks. Perry Cowan with the assist.,made,FALSE,FALSE,Dunk Shot,25,5.25,1136923,Jaylan Gainey,Perry Cowan,0,Brown,Yale,17
+2021-22,2022-01-17,2371806,37,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,15,-5,1716,Yale,2088,888,26,Azar Swain makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,11.8,23.95,1065768,Azar Swain,NA,0,Yale,Brown,18
+2021-22,2022-01-17,2371806,38,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,15,-5,1322,Brown,2064,864,24,Tamenang Choh with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,19
+2021-22,2022-01-17,2371806,39,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,18,-8,1716,Yale,2040,840,24,Matthue Cotton makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,13.4,25.05,1137121,Matthue Cotton,NA,0,Yale,Brown,20
+2021-22,2022-01-17,2371806,40,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,18,-8,1322,Brown,2016,816,24,Kino Lilly Jr. misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15.600000000000001,12.049999999999997,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,21
+2021-22,2022-01-17,2371806,41,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,18,-8,1322,Brown,2016,816,0,Nana Owusu-Anane with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,21
+2021-22,2022-01-17,2371806,42,0,1,Brown,Yale,Bears,Bulldogs,4,4,10,18,-8,1322,Brown,2012,812,4,Nana Owusu-Anane misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1323664,Nana Owusu-Anane,NA,0,Brown,Brown,21
+2021-22,2022-01-17,2371806,44,0,1,Brown,Yale,Bears,Bulldogs,4,4,13,18,-5,1322,Brown,2004,804,8,Paxson Wojcik makes a 3-point jump shot from 23 feet out. Tamenang Choh with the assist.,made,FALSE,TRUE,Jump Shot,13.600000000000001,25.75,1175187,Paxson Wojcik,Tamenang Choh,0,Brown,Brown,21
+2021-22,2022-01-17,2371806,45,0,1,Brown,Yale,Bears,Bulldogs,4,4,13,18,-5,1716,Yale,2004,804,0,Shooting foul committed by Azar Swain.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,21
+2021-22,2022-01-17,2371806,46,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1322,Brown,2004,804,0,Paxson Wojcik makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,21
+2021-22,2022-01-17,2371806,47,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1716,Yale,1986,786,18,Matthue Cotton misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.399999999999999,17.95,1137121,Matthue Cotton,NA,0,Yale,Yale,22
+2021-22,2022-01-17,2371806,48,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1322,Brown,1986,786,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,22
+2021-22,2022-01-17,2371806,49,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1322,Brown,1981,781,5,Tamenang Choh with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,23
+2021-22,2022-01-17,2371806,50,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1716,Yale,1966,766,15,Nana Owusu-Anane steals the ball from Matthue Cotton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,24
+2021-22,2022-01-17,2371806,51,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1716,Yale,1963,763,3,Shooting foul committed by Isaiah Kelly.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,25
+2021-22,2022-01-17,2371806,52,0,1,Brown,Yale,Bears,Bulldogs,4,4,14,18,-4,1322,Brown,1963,763,0,Perry Cowan misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,25
+2021-22,2022-01-17,2371806,54,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1963,763,0,Perry Cowan makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,25
+2021-22,2022-01-17,2371806,55,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1940,740,23,Matthue Cotton misses a 3-point jump shot from 25 feet out.,missed,FALSE,TRUE,Jump Shot,8.2,23.55,1137121,Matthue Cotton,NA,0,Yale,Yale,26
+2021-22,2022-01-17,2371806,56,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1940,740,0,Matt Knowling with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,26
+2021-22,2022-01-17,2371806,57,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1930,730,10,Personal foul committed by Paxson Wojcik.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,26
+2021-22,2022-01-17,2371806,58,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1921,721,9,Eze Dike with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,26
+2021-22,2022-01-17,2371806,59,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1901,701,20,Nana Owusu-Anane misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,11.899999999999999,6.650000000000006,1323664,Nana Owusu-Anane,NA,0,Brown,Brown,27
+2021-22,2022-01-17,2371806,60,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1901,701,0,Matthue Cotton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,27
+2021-22,2022-01-17,2371806,61,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1883,683,18,Nana Owusu-Anane blocks a Michael Feinberg layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1137122,Michael Feinberg,NA,0,Yale,Yale,28
+2021-22,2022-01-17,2371806,62,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1883,683,0,Perry Cowan with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,28
+2021-22,2022-01-17,2371806,63,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1880,680,3,Personal foul committed by Michael Feinberg.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,29
+2021-22,2022-01-17,2371806,64,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,NA,NA,1880,680,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,65,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1855,655,25,Kino Lilly Jr. misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.200000000000003,9.25,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,29
+2021-22,2022-01-17,2371806,66,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1855,655,0,Eze Dike with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,29
+2021-22,2022-01-17,2371806,67,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1828,628,27,Yussif Basa-Ama misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,16.45,1343057,Yussif Basa-Ama,NA,0,Yale,Yale,30
+2021-22,2022-01-17,2371806,68,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1828,628,0,Nana Owusu-Anane with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,30
+2021-22,2022-01-17,2371806,69,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1322,Brown,1813,613,15,Kino Lilly Jr. misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,14.399999999999999,25.950000000000003,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,31
+2021-22,2022-01-17,2371806,70,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,18,-3,1716,Yale,1813,613,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,31
+2021-22,2022-01-17,2371806,71,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1716,Yale,1796,596,17,Matt Knowling makes a hook shot from 9 feet out.,made,FALSE,FALSE,Hook Shot,24.2,14.25,1343056,Matt Knowling,NA,0,Yale,Brown,32
+2021-22,2022-01-17,2371806,72,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1322,Brown,1773,573,23,Nana Owusu-Anane misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,7.5,18.950000000000003,1323664,Nana Owusu-Anane,NA,0,Brown,Brown,33
+2021-22,2022-01-17,2371806,73,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1716,Yale,1773,573,0,Matthue Cotton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,33
+2021-22,2022-01-17,2371806,74,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1716,Yale,1753,553,20,Matt Knowling misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,10.3,7.75,1343056,Matt Knowling,NA,0,Yale,Yale,34
+2021-22,2022-01-17,2371806,75,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1322,Brown,1753,553,0,Nana Owusu-Anane with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,34
+2021-22,2022-01-17,2371806,76,0,1,Brown,Yale,Bears,Bulldogs,4,4,15,20,-5,1716,Yale,1746,546,7,Shooting foul committed by Eze Dike.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,35
+2021-22,2022-01-17,2371806,77,0,1,Brown,Yale,Bears,Bulldogs,4,4,16,20,-4,1322,Brown,1746,546,0,Kino Lilly Jr. makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,35
+2021-22,2022-01-17,2371806,78,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,20,-3,1322,Brown,1746,546,0,Kino Lilly Jr. makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,35
+2021-22,2022-01-17,2371806,79,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1729,529,17,Jalen Gabbidon makes a 3-point jump shot from 23 feet out. Bez Mbeng with the assist.,made,FALSE,TRUE,Jump Shot,5.100000000000001,17.05,1065767,Jalen Gabbidon,Bez Mbeng,0,Yale,Brown,36
+2021-22,2022-01-17,2371806,80,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1322,Brown,1697,497,32,EJ Jarvis steals the ball from Jaylan Gainey.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,37
+2021-22,2022-01-17,2371806,81,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1697,497,0,Azar Swain misses a 3-point jump shot from 21 feet out.,missed,FALSE,TRUE,Jump Shot,6.800000000000001,16.35,1065768,Azar Swain,NA,0,Yale,Yale,38
+2021-22,2022-01-17,2371806,82,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1322,Brown,1697,497,0,Kino Lilly Jr. with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,38
+2021-22,2022-01-17,2371806,83,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1322,Brown,1697,497,0,Paxson Wojcik misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,4.899999999999999,14.049999999999997,1175187,Paxson Wojcik,NA,0,Brown,Brown,39
+2021-22,2022-01-17,2371806,84,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1697,497,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,39
+2021-22,2022-01-17,2371806,85,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1681,481,16,Azar Swain with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,40
+2021-22,2022-01-17,2371806,86,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1322,Brown,1671,471,10,Tamenang Choh with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,41
+2021-22,2022-01-17,2371806,87,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,NA,NA,1671,471,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,88,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1659,459,12,Jaylan Gainey blocks a EJ Jarvis layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1176593,EJ Jarvis,NA,0,Yale,Yale,42
+2021-22,2022-01-17,2371806,89,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1322,Brown,1659,459,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,42
+2021-22,2022-01-17,2371806,90,0,1,Brown,Yale,Bears,Bulldogs,4,4,17,23,-6,1716,Yale,1659,459,0,Shooting foul committed by EJ Jarvis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,43
+2021-22,2022-01-17,2371806,91,0,1,Brown,Yale,Bears,Bulldogs,4,4,18,23,-5,1322,Brown,1659,459,0,Tamenang Choh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,43
+2021-22,2022-01-17,2371806,92,0,1,Brown,Yale,Bears,Bulldogs,4,4,19,23,-4,1322,Brown,1659,459,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,43
+2021-22,2022-01-17,2371806,93,0,1,Brown,Yale,Bears,Bulldogs,4,4,19,23,-4,1716,Yale,1646,446,13,Jaylan Gainey blocks a Jalen Gabbidon layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1065767,Jalen Gabbidon,NA,0,Yale,Yale,44
+2021-22,2022-01-17,2371806,94,0,1,Brown,Yale,Bears,Bulldogs,4,4,19,23,-4,1322,Brown,1646,446,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,44
+2021-22,2022-01-17,2371806,95,0,1,Brown,Yale,Bears,Bulldogs,4,4,21,23,-2,1322,Brown,1640,440,6,Jaylan Gainey makes a jump shot from 8 feet out. Dan Friday with the assist.,made,FALSE,FALSE,Jump Shot,24,13.349999999999994,1136923,Jaylan Gainey,Dan Friday,0,Brown,Yale,45
+2021-22,2022-01-17,2371806,96,0,1,Brown,Yale,Bears,Bulldogs,4,4,21,23,-2,1716,Yale,1624,424,16,Jaylan Gainey blocks a EJ Jarvis layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1176593,EJ Jarvis,NA,0,Yale,Yale,46
+2021-22,2022-01-17,2371806,97,0,1,Brown,Yale,Bears,Bulldogs,4,4,21,23,-2,1322,Brown,1624,424,0,Kino Lilly Jr. with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,46
+2021-22,2022-01-17,2371806,98,0,1,Brown,Yale,Bears,Bulldogs,4,4,24,23,1,1322,Brown,1615,415,9,Tamenang Choh makes a 3-point jump shot from 24 feet out. Paxson Wojcik with the assist.,made,FALSE,TRUE,Jump Shot,7.299999999999997,20.75,1065739,Tamenang Choh,Paxson Wojcik,0,Brown,Yale,47
+2021-22,2022-01-17,2371806,99,0,1,Brown,Yale,Bears,Bulldogs,4,3,24,23,1,1716,Yale,1607,407,8,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,100,0,1,Brown,Yale,Bears,Bulldogs,4,3,24,23,1,1716,Yale,1586,386,21,Kino Lilly Jr. steals the ball from EJ Jarvis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,48
+2021-22,2022-01-17,2371806,101,0,1,Brown,Yale,Bears,Bulldogs,4,3,24,23,1,1322,Brown,1569,369,17,Bez Mbeng steals the ball from Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,49
+2021-22,2022-01-17,2371806,102,0,1,Brown,Yale,Bears,Bulldogs,4,3,24,23,1,1716,Yale,1559,359,10,Jalen Gabbidon with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,50
+2021-22,2022-01-17,2371806,103,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,23,3,1322,Brown,1538,338,21,Paxson Wojcik makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,14.899999999999999,10.75,1175187,Paxson Wojcik,NA,0,Brown,Yale,51
+2021-22,2022-01-17,2371806,104,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,26,0,1716,Yale,1514,314,24,Jalen Gabbidon makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,7.699999999999999,20.35,1065767,Jalen Gabbidon,NA,0,Yale,Brown,52
+2021-22,2022-01-17,2371806,105,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,26,0,1322,Brown,1483,283,31,Paxson Wojcik misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8,21.25,1175187,Paxson Wojcik,NA,0,Brown,Brown,53
+2021-22,2022-01-17,2371806,106,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,26,0,1716,Yale,1483,283,0,John Poulakidas with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,53
+2021-22,2022-01-17,2371806,107,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,26,0,1322,Brown,1483,283,0,Shooting foul committed by Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,54
+2021-22,2022-01-17,2371806,108,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,27,-1,1716,Yale,1483,283,0,Bez Mbeng makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,54
+2021-22,2022-01-17,2371806,109,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,28,-2,1716,Yale,1483,283,0,Bez Mbeng makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,54
+2021-22,2022-01-17,2371806,110,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,28,-2,1322,Brown,1470,270,13,Tamenang Choh misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.600000000000001,12.049999999999997,1065739,Tamenang Choh,NA,0,Brown,Brown,55
+2021-22,2022-01-17,2371806,111,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,28,-2,1716,Yale,1470,270,0,Yussif Basa-Ama with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,55
+2021-22,2022-01-17,2371806,112,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,28,-2,1716,Yale,1449,249,21,Azar Swain misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11,10.75,1065768,Azar Swain,NA,0,Yale,Yale,56
+2021-22,2022-01-17,2371806,113,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,28,-2,1716,Yale,1449,249,0,Yussif Basa-Ama with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,56
+2021-22,2022-01-17,2371806,114,0,1,Brown,Yale,Bears,Bulldogs,4,3,26,30,-4,1716,Yale,1446,246,3,Yussif Basa-Ama dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,1343057,Yussif Basa-Ama,NA,0,Yale,Brown,56
+2021-22,2022-01-17,2371806,115,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1322,Brown,1446,246,0,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,116,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,NA,NA,1446,246,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,117,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1322,Brown,1425,225,21,Bez Mbeng steals the ball from Kino Lilly Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,57
+2021-22,2022-01-17,2371806,118,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1716,Yale,1402,202,23,Azar Swain misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,13.15,1065768,Azar Swain,NA,0,Yale,Yale,58
+2021-22,2022-01-17,2371806,119,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1322,Brown,1402,202,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,58
+2021-22,2022-01-17,2371806,120,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1322,Brown,1390,190,12,Perry Cowan misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.799999999999997,21.150000000000006,1176233,Perry Cowan,NA,0,Brown,Brown,59
+2021-22,2022-01-17,2371806,122,0,1,Brown,Yale,Bears,Bulldogs,3,3,26,30,-4,1716,Yale,1386,186,4,Shooting foul committed by Bez Mbeng.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,59
+2021-22,2022-01-17,2371806,123,0,1,Brown,Yale,Bears,Bulldogs,3,3,27,30,-3,1322,Brown,1386,186,0,Tamenang Choh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,59
+2021-22,2022-01-17,2371806,124,0,1,Brown,Yale,Bears,Bulldogs,3,3,28,30,-2,1322,Brown,1386,186,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,59
+2021-22,2022-01-17,2371806,125,0,1,Brown,Yale,Bears,Bulldogs,3,3,28,33,-5,1716,Yale,1366,166,20,Bez Mbeng makes a 3-point jump shot from 25 feet out. Matthue Cotton with the assist.,made,FALSE,TRUE,Jump Shot,6,21.25,1343051,Bez Mbeng,Matthue Cotton,0,Yale,Brown,60
+2021-22,2022-01-17,2371806,126,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1322,Brown,1349,149,17,Jaylan Gainey dunks. Dan Friday with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,1136923,Jaylan Gainey,Dan Friday,0,Brown,Yale,61
+2021-22,2022-01-17,2371806,127,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1716,Yale,1327,127,22,Azar Swain with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,62
+2021-22,2022-01-17,2371806,128,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1322,Brown,1299,99,28,Dan Friday misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.100000000000001,12.049999999999997,1176239,Dan Friday,NA,0,Brown,Brown,63
+2021-22,2022-01-17,2371806,129,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1322,Brown,1299,99,0,Dan Friday with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,63
+2021-22,2022-01-17,2371806,130,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1322,Brown,1288,88,11,Kino Lilly Jr. misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12.700000000000003,25.549999999999997,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,63
+2021-22,2022-01-17,2371806,131,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1716,Yale,1288,88,0,Azar Swain with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,63
+2021-22,2022-01-17,2371806,132,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1716,Yale,1272,72,16,Dan Friday steals the ball from Azar Swain.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,64
+2021-22,2022-01-17,2371806,133,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1322,Brown,1266,66,6,Tamenang Choh misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7,21.25,1065739,Tamenang Choh,NA,0,Brown,Brown,65
+2021-22,2022-01-17,2371806,134,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,33,-3,1716,Yale,1266,66,0,Matthue Cotton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,65
+2021-22,2022-01-17,2371806,135,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,35,-5,1716,Yale,1253,53,13,Azar Swain makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1065768,Azar Swain,NA,0,Yale,Brown,66
+2021-22,2022-01-17,2371806,136,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,35,-5,1322,Brown,1253,53,0,Personal foul committed by Kino Lilly Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,67
+2021-22,2022-01-17,2371806,137,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,35,-5,1716,Yale,1253,53,0,Azar Swain misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,67
+2021-22,2022-01-17,2371806,138,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,35,-5,1322,Brown,1253,53,0,Paxson Wojcik with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,67
+2021-22,2022-01-17,2371806,139,0,1,Brown,Yale,Bears,Bulldogs,3,3,30,35,-5,1716,Yale,1244,44,9,Shooting foul committed by Bez Mbeng.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,68
+2021-22,2022-01-17,2371806,140,0,1,Brown,Yale,Bears,Bulldogs,3,3,31,35,-4,1322,Brown,1244,44,0,Tamenang Choh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,68
+2021-22,2022-01-17,2371806,141,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,1322,Brown,1244,44,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,68
+2021-22,2022-01-17,2371806,142,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,1716,Yale,1218,18,26,Azar Swain misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.399999999999999,17.65,1065768,Azar Swain,NA,0,Yale,Yale,69
+2021-22,2022-01-17,2371806,143,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,1322,Brown,1218,18,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,69
+2021-22,2022-01-17,2371806,144,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,1322,Brown,1200,0,18,Paxson Wojcik misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.399999999999999,17.75,1175187,Paxson Wojcik,NA,0,Brown,Brown,70
+2021-22,2022-01-17,2371806,145,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,1716,Yale,1200,0,0,Matthue Cotton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,70
+2021-22,2022-01-17,2371806,146,0,1,Brown,Yale,Bears,Bulldogs,3,3,32,35,-3,NA,NA,1200,0,0,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,147,0,2,Brown,Yale,Bears,Bulldogs,4,4,32,35,-3,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,Yale,71
+2021-22,2022-01-17,2371806,148,0,2,Brown,Yale,Bears,Bulldogs,4,4,32,35,-3,1322,Brown,1184,1184,16,Shooting foul committed by Dan Friday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,72
+2021-22,2022-01-17,2371806,149,0,2,Brown,Yale,Bears,Bulldogs,4,4,32,35,-3,1716,Yale,1184,1184,0,Jalen Gabbidon misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,72
+2021-22,2022-01-17,2371806,151,0,2,Brown,Yale,Bears,Bulldogs,4,4,32,36,-4,1716,Yale,1184,1184,0,Jalen Gabbidon makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,72
+2021-22,2022-01-17,2371806,152,0,2,Brown,Yale,Bears,Bulldogs,4,4,34,36,-2,1322,Brown,1168,1168,16,Jaylan Gainey dunks. Kino Lilly Jr. with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,1136923,Jaylan Gainey,Kino Lilly Jr.,0,Brown,Yale,73
+2021-22,2022-01-17,2371806,153,0,2,Brown,Yale,Bears,Bulldogs,4,4,34,39,-5,1716,Yale,1142,1142,26,Azar Swain makes a 3-point jump shot from 23 feet out.,made,FALSE,TRUE,Jump Shot,6.800000000000001,19.05,1065768,Azar Swain,NA,0,Yale,Brown,74
+2021-22,2022-01-17,2371806,154,0,2,Brown,Yale,Bears,Bulldogs,4,4,34,39,-5,1716,Yale,1127,1127,15,Shooting foul committed by Bez Mbeng.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,75
+2021-22,2022-01-17,2371806,155,0,2,Brown,Yale,Bears,Bulldogs,4,4,35,39,-4,1322,Brown,1127,1127,0,Kino Lilly Jr. makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,75
+2021-22,2022-01-17,2371806,156,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,39,-3,1322,Brown,1127,1127,0,Kino Lilly Jr. makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,75
+2021-22,2022-01-17,2371806,157,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,41,-5,1716,Yale,1111,1111,16,Azar Swain makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,15.5,14.05,1065768,Azar Swain,NA,0,Yale,Brown,76
+2021-22,2022-01-17,2371806,158,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,41,-5,1322,Brown,1094,1094,17,Dan Friday misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176239,Dan Friday,NA,0,Brown,Brown,77
+2021-22,2022-01-17,2371806,159,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,41,-5,1716,Yale,1094,1094,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,77
+2021-22,2022-01-17,2371806,160,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1716,Yale,1080,1080,14,Isaiah Kelly makes a layup. Matt Knowling with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1137125,Isaiah Kelly,Matt Knowling,0,Yale,Brown,78
+2021-22,2022-01-17,2371806,161,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1322,Brown,1051,1051,29,Jaylan Gainey misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,13.100000000000001,8.150000000000006,1136923,Jaylan Gainey,NA,0,Brown,Brown,79
+2021-22,2022-01-17,2371806,162,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1716,Yale,1051,1051,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,79
+2021-22,2022-01-17,2371806,163,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1716,Yale,1032,1032,19,Azar Swain misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,12.5,8.15,1065768,Azar Swain,NA,0,Yale,Yale,80
+2021-22,2022-01-17,2371806,164,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1322,Brown,1032,1032,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,80
+2021-22,2022-01-17,2371806,165,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1716,Yale,1025,1025,7,Shooting foul committed by Jalen Gabbidon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,81
+2021-22,2022-01-17,2371806,166,0,2,Brown,Yale,Bears,Bulldogs,4,4,36,43,-7,1322,Brown,1025,1025,0,Tamenang Choh misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,81
+2021-22,2022-01-17,2371806,168,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1322,Brown,1025,1025,0,Tamenang Choh makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,81
+2021-22,2022-01-17,2371806,169,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1716,Yale,1006,1006,19,Jalen Gabbidon misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,6.600000000000001,19.25,1065767,Jalen Gabbidon,NA,0,Yale,Yale,82
+2021-22,2022-01-17,2371806,170,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1322,Brown,1006,1006,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,82
+2021-22,2022-01-17,2371806,171,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1716,Yale,1001,1001,5,Personal foul committed by Jalen Gabbidon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,83
+2021-22,2022-01-17,2371806,172,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1322,Brown,992,992,9,Isaiah Kelly blocks a Tamenang Choh layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Brown,83
+2021-22,2022-01-17,2371806,174,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1322,Brown,979,979,13,Kino Lilly Jr. misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.6000000000000014,10.549999999999997,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,83
+2021-22,2022-01-17,2371806,175,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1716,Yale,979,979,0,Azar Swain with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,83
+2021-22,2022-01-17,2371806,176,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,43,-6,1322,Brown,967,967,12,Shooting foul committed by Kino Lilly Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,84
+2021-22,2022-01-17,2371806,177,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,44,-7,1716,Yale,967,967,0,Eze Dike makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,84
+2021-22,2022-01-17,2371806,178,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,1716,Yale,967,967,0,Eze Dike makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,84
+2021-22,2022-01-17,2371806,179,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,1322,Brown,947,947,20,David Mitchell misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,13.399999999999999,24.049999999999997,1136924,David Mitchell,NA,0,Brown,Brown,85
+2021-22,2022-01-17,2371806,180,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,1716,Yale,947,947,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,85
+2021-22,2022-01-17,2371806,181,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,1322,Brown,933,933,14,Personal foul committed by Nana Owusu-Anane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,86
+2021-22,2022-01-17,2371806,182,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,NA,NA,933,933,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,183,0,2,Brown,Yale,Bears,Bulldogs,4,4,37,45,-8,1716,Yale,930,930,3,Tamenang Choh steals the ball from Eze Dike.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,86
+2021-22,2022-01-17,2371806,184,0,2,Brown,Yale,Bears,Bulldogs,4,4,39,45,-6,1322,Brown,925,925,5,Tamenang Choh dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Yale,87
+2021-22,2022-01-17,2371806,185,0,2,Brown,Yale,Bears,Bulldogs,4,4,39,47,-8,1716,Yale,909,909,16,Azar Swain makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,14,11.25,1065768,Azar Swain,NA,0,Yale,Yale,88
+2021-22,2022-01-17,2371806,186,0,2,Brown,Yale,Bears,Bulldogs,4,4,39,47,-8,1322,Brown,909,909,0,Shooting foul committed by Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,88
+2021-22,2022-01-17,2371806,187,0,2,Brown,Yale,Bears,Bulldogs,4,4,39,48,-9,1716,Yale,909,909,0,Azar Swain makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,88
+2021-22,2022-01-17,2371806,188,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1322,Brown,892,892,17,Tamenang Choh makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,13.600000000000001,10.549999999999997,1065739,Tamenang Choh,NA,0,Brown,Yale,88
+2021-22,2022-01-17,2371806,189,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1716,Yale,861,861,31,Nana Owusu-Anane steals the ball from Matt Knowling.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,89
+2021-22,2022-01-17,2371806,190,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1322,Brown,850,850,11,Nana Owusu-Anane misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,11.600000000000001,11.849999999999994,1323664,Nana Owusu-Anane,NA,0,Brown,Brown,90
+2021-22,2022-01-17,2371806,191,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1716,Yale,850,850,0,Eze Dike with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,90
+2021-22,2022-01-17,2371806,192,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1716,Yale,825,825,25,Eze Dike misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,6.199999999999999,20.35,1137120,Eze Dike,NA,0,Yale,Yale,91
+2021-22,2022-01-17,2371806,193,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,48,-7,1716,Yale,825,825,0,Matthue Cotton with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,91
+2021-22,2022-01-17,2371806,194,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,50,-9,1716,Yale,808,808,17,Matt Knowling makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,13.6,9.05,1343056,Matt Knowling,NA,0,Yale,Brown,91
+2021-22,2022-01-17,2371806,195,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,50,-9,1322,Brown,786,786,22,Kino Lilly Jr. misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,24.7,14.650000000000006,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,92
+2021-22,2022-01-17,2371806,196,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,50,-9,1716,Yale,786,786,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,92
+2021-22,2022-01-17,2371806,197,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,763,763,23,EJ Jarvis makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1176593,EJ Jarvis,NA,0,Yale,Yale,93
+2021-22,2022-01-17,2371806,198,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,763,763,0,Shooting foul committed by Nana Owusu-Anane.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,93
+2021-22,2022-01-17,2371806,199,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,763,763,0,EJ Jarvis misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,93
+2021-22,2022-01-17,2371806,200,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,763,763,0,Paxson Wojcik with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,93
+2021-22,2022-01-17,2371806,201,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,738,738,25,Kino Lilly Jr. with a turnover - Lost Ball,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,94
+2021-22,2022-01-17,2371806,202,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,722,722,16,Personal foul committed by Dan Friday.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,95
+2021-22,2022-01-17,2371806,203,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,716,716,6,Matthue Cotton misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.100000000000001,16.85,1137121,Matthue Cotton,NA,0,Yale,Yale,95
+2021-22,2022-01-17,2371806,204,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,716,716,0,Michael Feinberg with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,95
+2021-22,2022-01-17,2371806,205,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,714,714,2,Dan Friday blocks a Michael Feinberg layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1137122,Michael Feinberg,NA,0,Yale,Brown,95
+2021-22,2022-01-17,2371806,207,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,714,714,0,Personal foul committed by Matt Knowling.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,96
+2021-22,2022-01-17,2371806,208,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,NA,NA,714,714,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,209,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,697,697,17,Tamenang Choh misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,10.600000000000001,11.349999999999994,1065739,Tamenang Choh,NA,0,Brown,Brown,96
+2021-22,2022-01-17,2371806,210,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,697,697,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,96
+2021-22,2022-01-17,2371806,211,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1322,Brown,680,680,17,Shooting foul committed by Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,97
+2021-22,2022-01-17,2371806,212,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,52,-11,1716,Yale,680,680,0,Matt Knowling misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,97
+2021-22,2022-01-17,2371806,214,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,53,-12,1716,Yale,680,680,0,Matt Knowling makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,97
+2021-22,2022-01-17,2371806,215,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,53,-12,1322,Brown,667,667,13,Bez Mbeng blocks a Kino Lilly Jr. jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,24.4,12.75,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,98
+2021-22,2022-01-17,2371806,217,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,53,-12,1322,Brown,660,660,7,Dan Friday misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176239,Dan Friday,NA,0,Brown,Brown,98
+2021-22,2022-01-17,2371806,218,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,53,-12,1716,Yale,660,660,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,98
+2021-22,2022-01-17,2371806,219,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,53,-12,1322,Brown,653,653,7,Shooting foul committed by Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,99
+2021-22,2022-01-17,2371806,220,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,54,-13,1716,Yale,653,653,0,Azar Swain makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,99
+2021-22,2022-01-17,2371806,221,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1716,Yale,653,653,0,Azar Swain makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,99
+2021-22,2022-01-17,2371806,222,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1322,Brown,638,638,15,Kino Lilly Jr. misses a jump shot from 16 feet out.,missed,FALSE,FALSE,Jump Shot,9.5,8.150000000000006,1323653,Kino Lilly Jr.,NA,0,Brown,Brown,100
+2021-22,2022-01-17,2371806,223,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1322,Brown,638,638,0,Tamenang Choh with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,100
+2021-22,2022-01-17,2371806,224,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1322,Brown,627,627,11,Tamenang Choh misses a jump shot from 8 feet out.,missed,FALSE,FALSE,Jump Shot,25.8,13.150000000000006,1065739,Tamenang Choh,NA,0,Brown,Brown,100
+2021-22,2022-01-17,2371806,225,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1322,Brown,627,627,0,Jaylan Gainey with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,100
+2021-22,2022-01-17,2371806,226,0,2,Brown,Yale,Bears,Bulldogs,4,4,41,55,-14,1716,Yale,626,626,1,Personal foul committed by Isaiah Kelly.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,100
+2021-22,2022-01-17,2371806,227,0,2,Brown,Yale,Bears,Bulldogs,4,4,43,55,-12,1322,Brown,626,626,0,Kino Lilly Jr. makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1323653,Kino Lilly Jr.,NA,0,Brown,Yale,100
+2021-22,2022-01-17,2371806,228,0,2,Brown,Yale,Bears,Bulldogs,4,4,43,55,-12,1716,Yale,601,601,25,Jalen Gabbidon misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1065767,Jalen Gabbidon,NA,0,Yale,Yale,101
+2021-22,2022-01-17,2371806,229,0,2,Brown,Yale,Bears,Bulldogs,4,4,43,55,-12,1716,Yale,601,601,0,Michael Feinberg with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,101
+2021-22,2022-01-17,2371806,230,0,2,Brown,Yale,Bears,Bulldogs,4,4,43,55,-12,1716,Yale,590,590,11,Azar Swain misses a jump shot from 17 feet out.,missed,FALSE,FALSE,Jump Shot,8.399999999999999,7.65,1065768,Azar Swain,NA,0,Yale,Yale,101
+2021-22,2022-01-17,2371806,231,0,2,Brown,Yale,Bears,Bulldogs,4,4,43,55,-12,1322,Brown,590,590,0,Kino Lilly Jr. with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,101
+2021-22,2022-01-17,2371806,232,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,55,-9,1322,Brown,584,584,6,Kino Lilly Jr. makes a 3-point jump shot from 22 feet out. Tamenang Choh with the assist.,made,FALSE,TRUE,Jump Shot,11.399999999999999,23.150000000000006,1323653,Kino Lilly Jr.,Tamenang Choh,0,Brown,Yale,102
+2021-22,2022-01-17,2371806,233,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1716,Yale,558,558,26,Jalen Gabbidon makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1065767,Jalen Gabbidon,NA,0,Yale,Brown,103
+2021-22,2022-01-17,2371806,234,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1322,Brown,529,529,29,Paxson Wojcik misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,12.700000000000003,10.950000000000003,1175187,Paxson Wojcik,NA,0,Brown,Brown,104
+2021-22,2022-01-17,2371806,235,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1716,Yale,529,529,0,Isaiah Kelly with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,104
+2021-22,2022-01-17,2371806,236,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1322,Brown,511,511,18,Shooting foul committed by Kino Lilly Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,105
+2021-22,2022-01-17,2371806,237,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1716,Yale,511,511,0,Jalen Gabbidon misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,105
+2021-22,2022-01-17,2371806,238,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1322,Brown,511,511,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,105
+2021-22,2022-01-17,2371806,239,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1322,Brown,500,500,11,Tamenang Choh misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1065739,Tamenang Choh,NA,0,Brown,Brown,106
+2021-22,2022-01-17,2371806,240,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,57,-11,1716,Yale,500,500,0,Azar Swain with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,106
+2021-22,2022-01-17,2371806,241,0,2,Brown,Yale,Bears,Bulldogs,4,4,46,59,-13,1716,Yale,487,487,13,EJ Jarvis dunks. Michael Feinberg with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,1176593,EJ Jarvis,Michael Feinberg,0,Yale,Brown,107
+2021-22,2022-01-17,2371806,242,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1322,Brown,486,486,1,Bears take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,243,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,NA,NA,486,486,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,244,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1322,Brown,458,458,28,David Mitchell misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1136924,David Mitchell,NA,0,Brown,Brown,108
+2021-22,2022-01-17,2371806,245,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1716,Yale,458,458,0,Azar Swain with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,108
+2021-22,2022-01-17,2371806,246,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1716,Yale,443,443,15,Jalen Gabbidon with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,109
+2021-22,2022-01-17,2371806,247,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,NA,NA,443,443,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,248,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1322,Brown,434,434,9,Tamenang Choh misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,25.5,18.950000000000003,1065739,Tamenang Choh,NA,0,Brown,Brown,110
+2021-22,2022-01-17,2371806,249,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1716,Yale,434,434,0,Bez Mbeng with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,110
+2021-22,2022-01-17,2371806,250,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1716,Yale,406,406,28,Jalen Gabbidon misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,10.3,22.25,1065767,Jalen Gabbidon,NA,0,Yale,Yale,111
+2021-22,2022-01-17,2371806,251,0,2,Brown,Yale,Bears,Bulldogs,3,4,46,59,-13,1322,Brown,406,406,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,111
+2021-22,2022-01-17,2371806,252,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1322,Brown,399,399,7,Tamenang Choh makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Yale,112
+2021-22,2022-01-17,2371806,253,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1322,Brown,371,371,28,Shooting foul committed by David Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,113
+2021-22,2022-01-17,2371806,254,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1716,Yale,371,371,0,Bez Mbeng misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,113
+2021-22,2022-01-17,2371806,256,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1716,Yale,371,371,0,Bez Mbeng misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,113
+2021-22,2022-01-17,2371806,257,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1322,Brown,371,371,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,113
+2021-22,2022-01-17,2371806,258,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1322,Brown,353,353,18,Kino Lilly Jr. with a turnover - Bad Pass,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,114
+2021-22,2022-01-17,2371806,259,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1716,Yale,323,323,30,Azar Swain misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,11.4,10.05,1065768,Azar Swain,NA,0,Yale,Yale,115
+2021-22,2022-01-17,2371806,260,0,2,Brown,Yale,Bears,Bulldogs,3,4,48,59,-11,1322,Brown,323,323,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,115
+2021-22,2022-01-17,2371806,261,0,2,Brown,Yale,Bears,Bulldogs,3,4,50,59,-9,1322,Brown,318,318,5,Tamenang Choh makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Yale,116
+2021-22,2022-01-17,2371806,262,0,2,Brown,Yale,Bears,Bulldogs,3,4,50,59,-9,1716,Yale,303,303,15,Eze Dike misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,3.6000000000000014,9.05,1137120,Eze Dike,NA,0,Yale,Yale,117
+2021-22,2022-01-17,2371806,263,0,2,Brown,Yale,Bears,Bulldogs,3,4,50,59,-9,1322,Brown,303,303,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,117
+2021-22,2022-01-17,2371806,264,0,2,Brown,Yale,Bears,Bulldogs,3,4,50,59,-9,1716,Yale,290,290,13,Personal foul committed by Eze Dike.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,118
+2021-22,2022-01-17,2371806,265,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,59,-7,1322,Brown,278,278,12,Tamenang Choh makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Brown,118
+2021-22,2022-01-17,2371806,266,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,59,-7,1716,Yale,278,278,0,Shooting foul committed by Matt Knowling.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,118
+2021-22,2022-01-17,2371806,267,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,59,-7,1322,Brown,278,278,0,Tamenang Choh misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,118
+2021-22,2022-01-17,2371806,268,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,59,-7,1716,Yale,278,278,0,Matt Knowling with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,118
+2021-22,2022-01-17,2371806,269,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,59,-7,1322,Brown,271,271,7,Shooting foul committed by David Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,119
+2021-22,2022-01-17,2371806,270,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,60,-8,1716,Yale,271,271,0,Bez Mbeng makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,119
+2021-22,2022-01-17,2371806,271,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,60,-8,1716,Yale,271,271,0,Bez Mbeng misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,119
+2021-22,2022-01-17,2371806,272,0,2,Brown,Yale,Bears,Bulldogs,3,4,52,60,-8,1322,Brown,271,271,0,Jaylan Gainey with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,119
+2021-22,2022-01-17,2371806,273,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1322,Brown,261,261,10,Paxson Wojcik makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1175187,Paxson Wojcik,NA,0,Brown,Yale,120
+2021-22,2022-01-17,2371806,274,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,233,233,28,Azar Swain misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,15.3,16.15,1065768,Azar Swain,NA,0,Yale,Yale,121
+2021-22,2022-01-17,2371806,275,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1322,Brown,233,233,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,121
+2021-22,2022-01-17,2371806,276,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1322,Brown,220,220,13,Perry Cowan misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,19.4,28.150000000000006,1176233,Perry Cowan,NA,0,Brown,Brown,122
+2021-22,2022-01-17,2371806,277,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,220,220,0,Bez Mbeng with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,122
+2021-22,2022-01-17,2371806,278,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,198,198,22,Matt Knowling misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,14.7,8.95,1343056,Matt Knowling,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,279,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,198,198,0,Isaiah Kelly with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,280,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,194,194,4,Isaiah Kelly misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1137125,Isaiah Kelly,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,281,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,194,194,0,Isaiah Kelly with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,282,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1322,Brown,193,193,1,Shooting foul committed by Tamenang Choh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,283,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,NA,NA,193,193,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,284,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,193,193,0,Isaiah Kelly misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,286,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,193,193,0,Isaiah Kelly misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,123
+2021-22,2022-01-17,2371806,287,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1322,Brown,193,193,0,Tamenang Choh with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,123
+2021-22,2022-01-17,2371806,288,0,2,Brown,Yale,Bears,Bulldogs,3,4,54,60,-6,1716,Yale,174,174,19,Shooting foul committed by Bez Mbeng.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,124
+2021-22,2022-01-17,2371806,289,0,2,Brown,Yale,Bears,Bulldogs,3,4,55,60,-5,1322,Brown,174,174,0,Kino Lilly Jr. makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,124
+2021-22,2022-01-17,2371806,290,0,2,Brown,Yale,Bears,Bulldogs,3,4,56,60,-4,1322,Brown,174,174,0,Kino Lilly Jr. makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,124
+2021-22,2022-01-17,2371806,291,0,2,Brown,Yale,Bears,Bulldogs,3,4,56,60,-4,1716,Yale,146,146,28,Jaylan Gainey blocks a Bez Mbeng jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.5,6.45,1343051,Bez Mbeng,NA,0,Yale,Brown,125
+2021-22,2022-01-17,2371806,293,0,2,Brown,Yale,Bears,Bulldogs,3,4,56,60,-4,1716,Yale,136,136,10,Shooting foul committed by Jalen Gabbidon.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,126
+2021-22,2022-01-17,2371806,294,0,2,Brown,Yale,Bears,Bulldogs,3,4,57,60,-3,1322,Brown,136,136,0,Tamenang Choh makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,126
+2021-22,2022-01-17,2371806,295,0,2,Brown,Yale,Bears,Bulldogs,3,4,57,60,-3,1322,Brown,136,136,0,Tamenang Choh misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,126
+2021-22,2022-01-17,2371806,296,0,2,Brown,Yale,Bears,Bulldogs,3,4,57,60,-3,1322,Brown,136,136,0,Tamenang Choh with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Brown,126
+2021-22,2022-01-17,2371806,297,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,60,-1,1322,Brown,135,135,1,Tamenang Choh dunks.,made,FALSE,FALSE,Dunk Shot,26,6.25,1065739,Tamenang Choh,NA,0,Brown,Yale,126
+2021-22,2022-01-17,2371806,298,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,60,-1,1322,Brown,112,112,23,Shooting foul committed by David Mitchell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,127
+2021-22,2022-01-17,2371806,299,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,61,-2,1716,Yale,112,112,0,Azar Swain makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,127
+2021-22,2022-01-17,2371806,300,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,62,-3,1716,Yale,112,112,0,Azar Swain makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,127
+2021-22,2022-01-17,2371806,301,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,62,-3,1322,Brown,91,91,21,Paxson Wojcik misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,8.100000000000001,21.150000000000006,1175187,Paxson Wojcik,NA,0,Brown,Brown,128
+2021-22,2022-01-17,2371806,302,0,2,Brown,Yale,Bears,Bulldogs,3,4,59,62,-3,1716,Yale,91,91,0,Bez Mbeng with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Brown,Yale,128
+2021-22,2022-01-17,2371806,303,0,2,Brown,Yale,Bears,Bulldogs,3,3,59,62,-3,1716,Yale,76,76,15,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,304,0,2,Brown,Yale,Bears,Bulldogs,3,3,59,62,-3,1716,Yale,63,63,13,Azar Swain misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,5.300000000000001,17.25,1065768,Azar Swain,NA,0,Yale,Brown,129
+2021-22,2022-01-17,2371806,306,0,2,Brown,Yale,Bears,Bulldogs,3,3,61,62,-1,1322,Brown,46,46,17,Tamenang Choh makes a jump shot from 11 feet out.,made,FALSE,FALSE,Jump Shot,26.8,15.950000000000003,1065739,Tamenang Choh,NA,0,Brown,Yale,130
+2021-22,2022-01-17,2371806,307,0,2,Brown,Yale,Bears,Bulldogs,3,3,61,62,-1,1716,Yale,34,34,12,Jaylan Gainey blocks a Jalen Gabbidon layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1065767,Jalen Gabbidon,NA,0,Yale,Yale,131
+2021-22,2022-01-17,2371806,308,0,2,Brown,Yale,Bears,Bulldogs,3,3,61,62,-1,1716,Yale,34,34,0,Jalen Gabbidon with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,131
+2021-22,2022-01-17,2371806,309,0,2,Brown,Yale,Bears,Bulldogs,3,3,61,64,-3,1716,Yale,28,28,6,Jalen Gabbidon makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1065767,Jalen Gabbidon,NA,0,Yale,Brown,131
+2021-22,2022-01-17,2371806,310,0,2,Brown,Yale,Bears,Bulldogs,2,3,61,64,-3,1322,Brown,20,20,8,Bears take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,311,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,64,-3,1716,Yale,20,20,0,Bulldogs take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,312,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,64,-3,1322,Brown,15,15,5,Kino Lilly Jr. misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,30.1,27.75,1323653,Kino Lilly Jr.,NA,0,Brown,Yale,132
+2021-22,2022-01-17,2371806,314,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,64,-3,1322,Brown,13,13,2,Shooting foul committed by Tamenang Choh.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,133
+2021-22,2022-01-17,2371806,315,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,64,-3,1716,Yale,13,13,0,Matt Knowling misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,133
+2021-22,2022-01-17,2371806,317,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,65,-4,1716,Yale,13,13,0,Matt Knowling makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,133
+2021-22,2022-01-17,2371806,318,0,2,Brown,Yale,Bears,Bulldogs,2,2,61,65,-4,1322,Brown,3,3,10,Tamenang Choh misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1065739,Tamenang Choh,NA,0,Brown,Yale,134
+2021-22,2022-01-17,2371806,320,0,2,Brown,Yale,Bears,Bulldogs,2,1,61,65,-4,1716,Yale,3,3,0,Bulldogs take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,321,0,2,Brown,Yale,Bears,Bulldogs,2,1,61,65,-4,1322,Brown,2,2,1,Personal foul committed by Perry Cowan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,135
+2021-22,2022-01-17,2371806,322,0,2,Brown,Yale,Bears,Bulldogs,2,1,61,66,-5,1716,Yale,2,2,0,Jalen Gabbidon makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,135
+2021-22,2022-01-17,2371806,323,0,2,Brown,Yale,Bears,Bulldogs,2,1,61,66,-5,1716,Yale,2,2,0,Jalen Gabbidon misses free throw 2 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,135
+2021-22,2022-01-17,2371806,324,0,2,Brown,Yale,Bears,Bulldogs,2,1,61,66,-5,1322,Brown,2,2,0,Paxson Wojcik with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Brown,135
+2021-22,2022-01-17,2371806,325,0,2,Brown,Yale,Bears,Bulldogs,2,1,63,66,-3,1322,Brown,0,0,2,Tamenang Choh makes a layup. Dan Friday with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1065739,Tamenang Choh,Dan Friday,0,Brown,Yale,136
+2021-22,2022-01-17,2371806,326,0,2,Brown,Yale,Bears,Bulldogs,2,1,63,66,-3,NA,NA,0,0,0,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-01-17,2371806,327,0,2,Brown,Yale,Bears,Bulldogs,2,1,63,66,-3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,Yale,Yale,NA
