@@ -1,0 +1,314 @@
+season,date,game_id,play_id,neutral,half,home,away,home_name,away_name,home_timeouts,away_timeouts,home_score,away_score,score_diff,team_id,event_team,game_secs_remaining,half_secs_remaining,play_length,desc,shot_outcome,free_throw,three_pt,shot_desc,loc_x,loc_y,shooter_id,shooter,assist,substitution,poss_before,poss_after,poss_number
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Isaiah White,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Jaime Jaquez Jr.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Drew Peterson,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Tyger Campbell,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Jules Bernard,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Cody Riley,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Ethan Anderson,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Boogie Ellis,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,NA,NA,NA,Starting Lineup - Chevez Goodwin,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,1,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,NA,NA,NA,Starting Lineup - Johnny Juzang,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+2021-22,2022-02-12,2397632,2,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,NA,NA,2400,1200,NA,Start of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,UCLA,1
+2021-22,2022-02-12,2397632,3,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,2372,1172,28,Jules Bernard misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,40.9,23.15,1134770,Jules Bernard,NA,0,UCLA,UCLA,1
+2021-22,2022-02-12,2397632,4,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,2372,1172,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,1
+2021-22,2022-02-12,2397632,5,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1669,USC,2349,1149,23,Boogie Ellis misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,35.5,25.049999999999997,1175099,Boogie Ellis,NA,0,USC,USC,2
+2021-22,2022-02-12,2397632,6,0,1,USC,UCLA,Trojans,Bruins,4,4,0,0,0,1668,UCLA,2349,1149,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,2
+2021-22,2022-02-12,2397632,7,0,1,USC,UCLA,Trojans,Bruins,4,4,0,2,-2,1668,UCLA,2338,1138,11,Tyger Campbell makes a jump shot from 8 feet out.,made,FALSE,FALSE,Jump Shot,24.7,13.45,1134772,Tyger Campbell,NA,0,UCLA,USC,3
+2021-22,2022-02-12,2397632,8,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2316,1116,22,Chevez Goodwin makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,953412,Chevez Goodwin,NA,0,USC,UCLA,4
+2021-22,2022-02-12,2397632,9,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2299,1099,17,Ethan Anderson blocks a David Singleton layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1144213,David Singleton,NA,0,UCLA,UCLA,5
+2021-22,2022-02-12,2397632,10,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2299,1099,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,5
+2021-22,2022-02-12,2397632,11,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2293,1093,6,Ethan Anderson misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,2,11.25,1185363,Ethan Anderson,NA,0,USC,USC,6
+2021-22,2022-02-12,2397632,13,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2277,1077,16,Isaiah White misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,35.1,11.150000000000006,1138065,Isaiah White,NA,0,USC,USC,6
+2021-22,2022-02-12,2397632,14,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2277,1077,0,Johnny Juzang with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,6
+2021-22,2022-02-12,2397632,15,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2266,1066,11,Jaime Jaquez Jr. misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,7
+2021-22,2022-02-12,2397632,16,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2266,1066,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,7
+2021-22,2022-02-12,2397632,17,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2253,1053,13,Cody Riley steals the ball from Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,8
+2021-22,2022-02-12,2397632,18,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1668,UCLA,2248,1048,5,Jaime Jaquez Jr. misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,9
+2021-22,2022-02-12,2397632,19,0,1,USC,UCLA,Trojans,Bruins,4,4,2,2,0,1669,USC,2248,1048,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,9
+2021-22,2022-02-12,2397632,20,0,1,USC,UCLA,Trojans,Bruins,4,4,4,2,2,1669,USC,2238,1038,10,Isaiah White makes a layup. Drew Peterson with the assist.,made,FALSE,FALSE,Layup Shot,26,6.25,1138065,Isaiah White,Drew Peterson,0,USC,UCLA,10
+2021-22,2022-02-12,2397632,21,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1668,UCLA,2217,1017,21,Tyger Campbell makes a jump shot from 14 feet out.,made,FALSE,FALSE,Jump Shot,34.8,14.65,1134772,Tyger Campbell,NA,0,UCLA,USC,11
+2021-22,2022-02-12,2397632,22,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1669,USC,2204,1004,13,Boogie Ellis misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,37,9.75,1175099,Boogie Ellis,NA,0,USC,USC,12
+2021-22,2022-02-12,2397632,23,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1668,UCLA,2204,1004,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,12
+2021-22,2022-02-12,2397632,24,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1668,UCLA,2192,992,12,Tyger Campbell misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.9,10.55,1134772,Tyger Campbell,NA,0,UCLA,UCLA,13
+2021-22,2022-02-12,2397632,25,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1669,USC,2192,992,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,13
+2021-22,2022-02-12,2397632,26,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1669,USC,2168,968,24,Isaiah White misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,8.799999999999997,19.650000000000006,1138065,Isaiah White,NA,0,USC,USC,14
+2021-22,2022-02-12,2397632,27,0,1,USC,UCLA,Trojans,Bruins,4,4,4,4,0,1668,UCLA,2168,968,0,Tyger Campbell with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,14
+2021-22,2022-02-12,2397632,28,0,1,USC,UCLA,Trojans,Bruins,4,4,4,6,-2,1668,UCLA,2162,962,6,Johnny Juzang makes a jump shot from 9 feet out. Tyger Campbell with the assist.,made,FALSE,FALSE,Jump Shot,23.7,13.65,1186159,Johnny Juzang,Tyger Campbell,0,UCLA,USC,15
+2021-22,2022-02-12,2397632,29,0,1,USC,UCLA,Trojans,Bruins,4,4,4,6,-2,1669,USC,2137,937,25,Drew Peterson misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134571,Drew Peterson,NA,0,USC,USC,16
+2021-22,2022-02-12,2397632,30,0,1,USC,UCLA,Trojans,Bruins,4,4,4,6,-2,1669,USC,2137,937,0,Drew Peterson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,16
+2021-22,2022-02-12,2397632,31,0,1,USC,UCLA,Trojans,Bruins,4,4,6,6,0,1669,USC,2133,933,4,Drew Peterson makes a layup.,made,FALSE,FALSE,Layup Shot,26,6.25,1134571,Drew Peterson,NA,0,USC,UCLA,16
+2021-22,2022-02-12,2397632,32,0,1,USC,UCLA,Trojans,Bruins,4,4,6,6,0,1669,USC,2117,917,16,Shooting foul committed by Isaiah White.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,17
+2021-22,2022-02-12,2397632,33,0,1,USC,UCLA,Trojans,Bruins,4,4,6,6,0,NA,NA,2117,917,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,34,0,1,USC,UCLA,Trojans,Bruins,4,4,6,7,-1,1668,UCLA,2117,917,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,17
+2021-22,2022-02-12,2397632,35,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1668,UCLA,2117,917,0,Tyger Campbell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,17
+2021-22,2022-02-12,2397632,36,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1669,USC,2093,893,24,Chevez Goodwin misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,953412,Chevez Goodwin,NA,0,USC,USC,18
+2021-22,2022-02-12,2397632,37,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1669,USC,2093,893,0,Ethan Anderson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,18
+2021-22,2022-02-12,2397632,38,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1669,USC,2091,891,2,Ethan Anderson misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1185363,Ethan Anderson,NA,0,USC,USC,18
+2021-22,2022-02-12,2397632,39,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1668,UCLA,2091,891,0,Jaylen Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,18
+2021-22,2022-02-12,2397632,40,0,1,USC,UCLA,Trojans,Bruins,4,4,6,8,-2,1669,USC,2091,891,0,Personal foul committed by Ethan Anderson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,19
+2021-22,2022-02-12,2397632,41,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1668,UCLA,2077,877,14,Johnny Juzang makes a jump shot from 14 feet out. Myles Johnson with the assist.,made,FALSE,FALSE,Jump Shot,36,14.25,1186159,Johnny Juzang,Myles Johnson,0,UCLA,USC,19
+2021-22,2022-02-12,2397632,42,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1669,USC,2059,859,18,Myles Johnson steals the ball from Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,20
+2021-22,2022-02-12,2397632,43,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1668,UCLA,2053,853,6,Drew Peterson blocks a Jules Bernard layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,21
+2021-22,2022-02-12,2397632,44,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1668,UCLA,2053,853,0,Johnny Juzang with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,21
+2021-22,2022-02-12,2397632,45,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1668,UCLA,2040,840,13,Boogie Ellis steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,21
+2021-22,2022-02-12,2397632,46,0,1,USC,UCLA,Trojans,Bruins,4,4,6,10,-4,1668,UCLA,2040,840,0,Personal foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,22
+2021-22,2022-02-12,2397632,47,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1669,USC,2010,810,30,Harrison Hornery makes a 3-point jump shot from 22 feet out. Boogie Ellis with the assist.,made,FALSE,TRUE,Jump Shot,7,19.25,1348258,Harrison Hornery,Boogie Ellis,0,USC,UCLA,22
+2021-22,2022-02-12,2397632,48,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1668,UCLA,1989,789,21,Drew Peterson blocks a Johnny Juzang jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16,10.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,23
+2021-22,2022-02-12,2397632,49,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1668,UCLA,1989,789,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,23
+2021-22,2022-02-12,2397632,50,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1668,UCLA,1984,784,5,Drew Peterson blocks a Johnny Juzang jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,17,11.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,23
+2021-22,2022-02-12,2397632,51,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1669,USC,1984,784,0,Boogie Ellis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,23
+2021-22,2022-02-12,2397632,52,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1669,USC,1974,774,10,Boogie Ellis misses a jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,16.799999999999997,10.950000000000003,1175099,Boogie Ellis,NA,0,USC,USC,24
+2021-22,2022-02-12,2397632,53,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1668,UCLA,1974,774,0,Jaime Jaquez Jr. with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,24
+2021-22,2022-02-12,2397632,54,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1669,USC,1963,763,11,Shooting foul committed by Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2021-22,2022-02-12,2397632,55,0,1,USC,UCLA,Trojans,Bruins,4,4,9,10,-1,1668,UCLA,1963,763,0,Jaylen Clark misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,25
+2021-22,2022-02-12,2397632,57,0,1,USC,UCLA,Trojans,Bruins,4,4,9,11,-2,1668,UCLA,1963,763,0,Jaylen Clark makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,25
+2021-22,2022-02-12,2397632,58,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,1669,USC,1941,741,22,Reese Dixon-Waters makes a 3-point jump shot from 24 feet out. Joshua Morgan with the assist.,made,FALSE,TRUE,Jump Shot,44.8,18.25,1265157,Reese Dixon-Waters,Joshua Morgan,0,USC,UCLA,26
+2021-22,2022-02-12,2397632,59,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,1668,UCLA,1918,718,23,Jaylen Clark misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,39.4,22.35,1231198,Jaylen Clark,NA,0,UCLA,UCLA,27
+2021-22,2022-02-12,2397632,60,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,1669,USC,1918,718,0,Max Agbonkpolo with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,27
+2021-22,2022-02-12,2397632,61,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,1668,UCLA,1916,716,2,Personal foul committed by Myles Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,28
+2021-22,2022-02-12,2397632,62,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,NA,NA,1916,716,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,63,0,1,USC,UCLA,Trojans,Bruins,4,4,12,11,1,1669,USC,1885,685,31,Jules Bernard steals the ball from Joshua Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,28
+2021-22,2022-02-12,2397632,64,0,1,USC,UCLA,Trojans,Bruins,4,4,12,13,-1,1668,UCLA,1876,676,9,Jules Bernard makes a jump shot from 17 feet out.,made,FALSE,FALSE,Jump Shot,17,19.25,1134770,Jules Bernard,NA,0,UCLA,USC,29
+2021-22,2022-02-12,2397632,65,0,1,USC,UCLA,Trojans,Bruins,4,4,15,13,2,1669,USC,1858,658,18,Drew Peterson makes a 3-point jump shot from 23 feet out. Joshua Morgan with the assist.,made,FALSE,TRUE,Jump Shot,15.700000000000003,26.450000000000003,1134571,Drew Peterson,Joshua Morgan,0,USC,UCLA,30
+2021-22,2022-02-12,2397632,66,0,1,USC,UCLA,Trojans,Bruins,4,4,15,13,2,1668,UCLA,1825,625,33,Harrison Hornery blocks a Jaime Jaquez Jr. jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,17.9,17.95,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,31
+2021-22,2022-02-12,2397632,67,0,1,USC,UCLA,Trojans,Bruins,4,4,15,13,2,1668,UCLA,1825,625,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,31
+2021-22,2022-02-12,2397632,68,0,1,USC,UCLA,Trojans,Bruins,4,4,15,15,0,1668,UCLA,1815,615,10,Cody Riley makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1061550,Cody Riley,NA,0,UCLA,USC,31
+2021-22,2022-02-12,2397632,69,0,1,USC,UCLA,Trojans,Bruins,4,4,15,15,0,1668,UCLA,1807,607,8,Personal foul committed by David Singleton.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,32
+2021-22,2022-02-12,2397632,70,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1669,USC,1797,597,10,Reese Dixon-Waters makes a jump shot from 6 feet out.,made,FALSE,FALSE,Jump Shot,21.7,10.75,1265157,Reese Dixon-Waters,NA,0,USC,UCLA,32
+2021-22,2022-02-12,2397632,71,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1669,USC,1780,580,17,Personal foul committed by Reese Dixon-Waters.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2021-22,2022-02-12,2397632,72,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1668,UCLA,1773,573,7,Johnny Juzang misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,35.8,8.75,1186159,Johnny Juzang,NA,0,UCLA,UCLA,33
+2021-22,2022-02-12,2397632,73,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1668,UCLA,1773,573,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,33
+2021-22,2022-02-12,2397632,74,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1668,UCLA,1768,568,5,Max Agbonkpolo steals the ball from Myles Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,33
+2021-22,2022-02-12,2397632,75,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1669,USC,1751,551,17,Boogie Ellis misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.9,20.25,1175099,Boogie Ellis,NA,0,USC,USC,34
+2021-22,2022-02-12,2397632,76,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1668,UCLA,1751,551,0,Myles Johnson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,34
+2021-22,2022-02-12,2397632,77,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1669,USC,1737,537,14,Shooting foul committed by Harrison Hornery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2021-22,2022-02-12,2397632,78,0,1,USC,UCLA,Trojans,Bruins,4,4,17,15,2,1668,UCLA,1737,537,0,Myles Johnson misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,35
+2021-22,2022-02-12,2397632,80,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1668,UCLA,1737,537,0,Myles Johnson makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,35
+2021-22,2022-02-12,2397632,81,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1669,USC,1719,519,18,Drew Peterson misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,34.3,17.049999999999997,1134571,Drew Peterson,NA,0,USC,USC,36
+2021-22,2022-02-12,2397632,82,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1669,USC,1719,519,0,Reese Dixon-Waters with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,36
+2021-22,2022-02-12,2397632,83,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1669,USC,1715,515,4,Reese Dixon-Waters misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1265157,Reese Dixon-Waters,NA,0,USC,USC,36
+2021-22,2022-02-12,2397632,84,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1668,UCLA,1715,515,0,Jaime Jaquez Jr. with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,36
+2021-22,2022-02-12,2397632,85,0,1,USC,UCLA,Trojans,Bruins,4,4,17,16,1,1668,UCLA,1697,497,18,Boogie Ellis steals the ball from Cody Riley.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,37
+2021-22,2022-02-12,2397632,86,0,1,USC,UCLA,Trojans,Bruins,4,4,19,16,3,1669,USC,1683,483,14,Chevez Goodwin makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,953412,Chevez Goodwin,NA,0,USC,UCLA,38
+2021-22,2022-02-12,2397632,87,0,1,USC,UCLA,Trojans,Bruins,4,4,19,16,3,1668,UCLA,1655,455,28,Tyger Campbell misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,36.6,11.45,1134772,Tyger Campbell,NA,0,UCLA,UCLA,39
+2021-22,2022-02-12,2397632,88,0,1,USC,UCLA,Trojans,Bruins,4,4,19,16,3,1669,USC,1655,455,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,39
+2021-22,2022-02-12,2397632,89,0,1,USC,UCLA,Trojans,Bruins,4,4,22,16,6,1669,USC,1634,434,21,Drew Peterson makes a 3-point jump shot from 24 feet out. Boogie Ellis with the assist.,made,FALSE,TRUE,Jump Shot,40.7,23.849999999999994,1134571,Drew Peterson,Boogie Ellis,0,USC,UCLA,40
+2021-22,2022-02-12,2397632,90,0,1,USC,UCLA,Trojans,Bruins,4,4,22,19,3,1668,UCLA,1614,414,20,Cody Riley makes a 3-point jump shot from 22 feet out. Johnny Juzang with the assist.,made,FALSE,TRUE,Jump Shot,17.1,25.75,1061550,Cody Riley,Johnny Juzang,0,UCLA,USC,41
+2021-22,2022-02-12,2397632,91,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1669,USC,1593,393,21,Max Agbonkpolo makes a layup. Reese Dixon-Waters with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1185374,Max Agbonkpolo,Reese Dixon-Waters,0,USC,UCLA,42
+2021-22,2022-02-12,2397632,92,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1668,UCLA,1577,377,16,Boogie Ellis blocks a Cody Riley jump shot from 10 feet out.,missed,FALSE,FALSE,Jump Shot,15.9,8.05,1061550,Cody Riley,NA,0,UCLA,UCLA,43
+2021-22,2022-02-12,2397632,93,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1669,USC,1577,377,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,43
+2021-22,2022-02-12,2397632,94,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1669,USC,1556,356,21,Chevez Goodwin misses a hook shot from 7 feet out.,missed,FALSE,FALSE,Hook Shot,23.6,12.450000000000003,953412,Chevez Goodwin,NA,0,USC,USC,44
+2021-22,2022-02-12,2397632,95,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1668,UCLA,1556,356,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,44
+2021-22,2022-02-12,2397632,96,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,NA,NA,1539,339,17,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,97,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1668,UCLA,1532,332,7,Jules Bernard misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,7.199999999999999,21.45,1134770,Jules Bernard,NA,0,UCLA,UCLA,45
+2021-22,2022-02-12,2397632,98,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1668,UCLA,1532,332,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,45
+2021-22,2022-02-12,2397632,99,0,1,USC,UCLA,Trojans,Bruins,4,4,24,19,5,1668,UCLA,1511,311,21,Ethan Anderson steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,45
+2021-22,2022-02-12,2397632,100,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1669,USC,1489,289,22,Drew Peterson makes a 3-point jump shot from 24 feet out. Ethan Anderson with the assist.,made,FALSE,TRUE,Jump Shot,10,23.25,1134571,Drew Peterson,Ethan Anderson,0,USC,UCLA,46
+2021-22,2022-02-12,2397632,101,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1668,UCLA,1455,255,34,Jules Bernard misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,36.3,15.35,1134770,Jules Bernard,NA,0,UCLA,UCLA,47
+2021-22,2022-02-12,2397632,102,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1668,UCLA,1455,255,0,Jaylen Clark with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,47
+2021-22,2022-02-12,2397632,103,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1668,UCLA,1449,249,6,Jaylen Clark misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1231198,Jaylen Clark,NA,0,UCLA,UCLA,47
+2021-22,2022-02-12,2397632,104,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1669,USC,1449,249,0,Harrison Hornery with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,47
+2021-22,2022-02-12,2397632,105,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1669,USC,1446,246,3,Harrison Hornery misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,42.3,22.549999999999997,1348258,Harrison Hornery,NA,0,USC,USC,48
+2021-22,2022-02-12,2397632,106,0,1,USC,UCLA,Trojans,Bruins,4,4,27,19,8,1668,UCLA,1446,246,0,Myles Johnson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,48
+2021-22,2022-02-12,2397632,107,0,1,USC,UCLA,Trojans,Bruins,4,4,27,21,6,1668,UCLA,1434,234,12,Johnny Juzang makes a jump shot from 16 feet out.,made,FALSE,FALSE,Jump Shot,33.6,18.55,1186159,Johnny Juzang,NA,0,UCLA,USC,49
+2021-22,2022-02-12,2397632,108,0,1,USC,UCLA,Trojans,Bruins,4,4,27,21,6,1669,USC,1400,200,34,Ethan Anderson misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,35.3,13.650000000000006,1185363,Ethan Anderson,NA,0,USC,USC,50
+2021-22,2022-02-12,2397632,109,0,1,USC,UCLA,Trojans,Bruins,4,4,27,21,6,1668,UCLA,1400,200,0,Jaylen Clark with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,50
+2021-22,2022-02-12,2397632,110,0,1,USC,UCLA,Trojans,Bruins,4,4,27,21,6,1669,USC,1382,182,18,Shooting foul committed by Joshua Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2021-22,2022-02-12,2397632,111,0,1,USC,UCLA,Trojans,Bruins,4,4,27,21,6,NA,NA,1382,182,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,112,0,1,USC,UCLA,Trojans,Bruins,4,4,27,22,5,1668,UCLA,1382,182,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,51
+2021-22,2022-02-12,2397632,113,0,1,USC,UCLA,Trojans,Bruins,4,4,27,23,4,1668,UCLA,1382,182,0,Tyger Campbell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,51
+2021-22,2022-02-12,2397632,114,0,1,USC,UCLA,Trojans,Bruins,4,4,29,23,6,1669,USC,1363,163,19,Drew Peterson makes a jump shot from 9 feet out.,made,FALSE,FALSE,Jump Shot,17,8.25,1134571,Drew Peterson,NA,0,USC,UCLA,52
+2021-22,2022-02-12,2397632,115,0,1,USC,UCLA,Trojans,Bruins,4,4,29,23,6,1668,UCLA,1349,149,14,Max Agbonkpolo steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,53
+2021-22,2022-02-12,2397632,116,0,1,USC,UCLA,Trojans,Bruins,4,4,31,23,8,1669,USC,1345,145,4,Ethan Anderson makes a layup. Max Agbonkpolo with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1185363,Ethan Anderson,Max Agbonkpolo,0,USC,UCLA,54
+2021-22,2022-02-12,2397632,117,0,1,USC,UCLA,Trojans,Bruins,4,3,31,23,8,1668,UCLA,1345,145,0,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,118,0,1,USC,UCLA,Trojans,Bruins,4,3,31,26,5,1668,UCLA,1323,123,22,Tyger Campbell makes a 3-point jump shot from 24 feet out. David Singleton with the assist.,made,FALSE,TRUE,Jump Shot,19.5,28.65,1134772,Tyger Campbell,David Singleton,0,UCLA,USC,55
+2021-22,2022-02-12,2397632,119,0,1,USC,UCLA,Trojans,Bruins,4,3,31,26,5,1669,USC,1305,105,18,Offensive foul committed by Chevez Goodwin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,56
+2021-22,2022-02-12,2397632,120,0,1,USC,UCLA,Trojans,Bruins,4,3,31,26,5,1669,USC,1305,105,0,Chevez Goodwin with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,56
+2021-22,2022-02-12,2397632,121,0,1,USC,UCLA,Trojans,Bruins,4,3,31,26,5,1668,UCLA,1292,92,13,Drew Peterson blocks a Johnny Juzang layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,57
+2021-22,2022-02-12,2397632,123,0,1,USC,UCLA,Trojans,Bruins,4,3,31,26,5,1669,USC,1281,81,11,Personal foul committed by Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,57
+2021-22,2022-02-12,2397632,124,0,1,USC,UCLA,Trojans,Bruins,4,3,31,27,4,1668,UCLA,1281,81,0,Tyger Campbell makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,57
+2021-22,2022-02-12,2397632,125,0,1,USC,UCLA,Trojans,Bruins,4,3,31,28,3,1668,UCLA,1281,81,0,Tyger Campbell makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,57
+2021-22,2022-02-12,2397632,126,0,1,USC,UCLA,Trojans,Bruins,4,3,31,28,3,1669,USC,1256,56,25,Max Agbonkpolo misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,16.799999999999997,15.549999999999997,1185374,Max Agbonkpolo,NA,0,USC,USC,58
+2021-22,2022-02-12,2397632,127,0,1,USC,UCLA,Trojans,Bruins,4,3,31,28,3,1668,UCLA,1256,56,0,Myles Johnson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,58
+2021-22,2022-02-12,2397632,128,0,1,USC,UCLA,Trojans,Bruins,4,3,31,31,0,1668,UCLA,1242,42,14,Tyger Campbell makes a 3-point jump shot from 23 feet out. Johnny Juzang with the assist.,made,FALSE,TRUE,Jump Shot,4,13.25,1134772,Tyger Campbell,Johnny Juzang,0,UCLA,USC,59
+2021-22,2022-02-12,2397632,129,0,1,USC,UCLA,Trojans,Bruins,3,3,31,31,0,1669,USC,1241,41,1,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,130,0,1,USC,UCLA,Trojans,Bruins,3,3,33,31,2,1669,USC,1216,16,25,Drew Peterson makes a jump shot from 7 feet out.,made,FALSE,FALSE,Jump Shot,22.7,11.650000000000006,1134571,Drew Peterson,NA,0,USC,UCLA,60
+2021-22,2022-02-12,2397632,131,0,1,USC,UCLA,Trojans,Bruins,3,3,33,31,2,1668,UCLA,1201,1,15,Johnny Juzang misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,16,11.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,61
+2021-22,2022-02-12,2397632,132,0,1,USC,UCLA,Trojans,Bruins,3,3,33,31,2,1669,USC,1201,1,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,61
+2021-22,2022-02-12,2397632,133,0,1,USC,UCLA,Trojans,Bruins,3,3,33,31,2,NA,NA,1200,0,1,End of the 1st Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,134,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,NA,NA,1200,1200,0,Start of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,USC,62
+2021-22,2022-02-12,2397632,135,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1668,UCLA,1188,1188,12,Personal foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,63
+2021-22,2022-02-12,2397632,136,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1669,USC,1173,1173,15,Boogie Ellis misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,6.5,17.950000000000003,1175099,Boogie Ellis,NA,0,USC,USC,63
+2021-22,2022-02-12,2397632,137,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1669,USC,1173,1173,0,Isaiah White with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,63
+2021-22,2022-02-12,2397632,138,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1668,UCLA,1173,1173,0,Personal foul committed by Jules Bernard.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,63
+2021-22,2022-02-12,2397632,139,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1669,USC,1157,1157,16,Chevez Goodwin misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,953412,Chevez Goodwin,NA,0,USC,USC,63
+2021-22,2022-02-12,2397632,140,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1668,UCLA,1157,1157,0,Johnny Juzang with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,63
+2021-22,2022-02-12,2397632,141,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1668,UCLA,1124,1124,33,Jules Bernard misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,34.6,17.05,1134770,Jules Bernard,NA,0,UCLA,UCLA,64
+2021-22,2022-02-12,2397632,142,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1669,USC,1124,1124,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,64
+2021-22,2022-02-12,2397632,143,0,2,USC,UCLA,Trojans,Bruins,4,4,33,31,2,1668,UCLA,1102,1102,22,Shooting foul committed by Myles Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,65
+2021-22,2022-02-12,2397632,144,0,2,USC,UCLA,Trojans,Bruins,4,4,34,31,3,1669,USC,1102,1102,0,Chevez Goodwin makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,65
+2021-22,2022-02-12,2397632,145,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1669,USC,1102,1102,0,Chevez Goodwin makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,65
+2021-22,2022-02-12,2397632,146,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1668,UCLA,1073,1073,29,Johnny Juzang misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,19.6,10.95,1186159,Johnny Juzang,NA,0,UCLA,UCLA,66
+2021-22,2022-02-12,2397632,147,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1669,USC,1073,1073,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,66
+2021-22,2022-02-12,2397632,148,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1669,USC,1063,1063,10,Boogie Ellis misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,35,26.25,1175099,Boogie Ellis,NA,0,USC,USC,67
+2021-22,2022-02-12,2397632,149,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1668,UCLA,1063,1063,0,Johnny Juzang with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,67
+2021-22,2022-02-12,2397632,150,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1669,USC,1042,1042,21,Shooting foul committed by Chevez Goodwin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,68
+2021-22,2022-02-12,2397632,151,0,2,USC,UCLA,Trojans,Bruins,4,4,35,31,4,1668,UCLA,1042,1042,0,Jaime Jaquez Jr. misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,68
+2021-22,2022-02-12,2397632,153,0,2,USC,UCLA,Trojans,Bruins,4,4,35,32,3,1668,UCLA,1042,1042,0,Jaime Jaquez Jr. makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,68
+2021-22,2022-02-12,2397632,154,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,1025,1025,17,Drew Peterson makes a jump shot from 13 feet out.,made,FALSE,FALSE,Jump Shot,15.200000000000003,13.450000000000003,1134571,Drew Peterson,NA,0,USC,UCLA,69
+2021-22,2022-02-12,2397632,155,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,1002,1002,23,Personal foul committed by Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,156,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,994,994,8,Tyger Campbell misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,9.9,23.65,1134772,Tyger Campbell,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,157,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,994,994,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,158,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,989,989,5,Johnny Juzang misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,31.7,10.95,1186159,Johnny Juzang,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,159,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,989,989,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,160,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,982,982,7,Jules Bernard misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.6,21.35,1134770,Jules Bernard,NA,0,UCLA,UCLA,70
+2021-22,2022-02-12,2397632,161,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,982,982,0,Isaiah White with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,70
+2021-22,2022-02-12,2397632,162,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,969,969,13,Johnny Juzang steals the ball from Chevez Goodwin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,71
+2021-22,2022-02-12,2397632,163,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1668,UCLA,964,964,5,Jules Bernard misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.4,21.85,1134770,Jules Bernard,NA,0,UCLA,UCLA,72
+2021-22,2022-02-12,2397632,164,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,964,964,0,Boogie Ellis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,72
+2021-22,2022-02-12,2397632,165,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,1669,USC,960,960,4,Boogie Ellis with a turnover - Traveling,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,73
+2021-22,2022-02-12,2397632,166,0,2,USC,UCLA,Trojans,Bruins,4,4,37,32,5,NA,NA,960,960,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,167,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,958,958,2,Jaime Jaquez Jr. makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,168,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1669,USC,958,958,0,Shooting foul committed by Ethan Anderson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,169,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,958,958,0,Jaime Jaquez Jr. misses free throw 1 of 1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,170,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,958,958,0,Jaime Jaquez Jr. with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,171,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,951,951,7,Jaime Jaquez Jr. misses a jump shot from 9 feet out.,missed,FALSE,FALSE,Jump Shot,22.4,13.45,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,172,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,951,951,0,Myles Johnson with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,173,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,947,947,4,Myles Johnson misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1076717,Myles Johnson,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,174,0,2,USC,UCLA,Trojans,Bruins,4,4,37,34,3,1668,UCLA,947,947,0,Jaime Jaquez Jr. with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,74
+2021-22,2022-02-12,2397632,175,0,2,USC,UCLA,Trojans,Bruins,4,4,37,37,0,1668,UCLA,945,945,2,Johnny Juzang makes a 3-point jump shot from 22 feet out. Tyger Campbell with the assist.,made,FALSE,TRUE,Jump Shot,46.9,9.05,1186159,Johnny Juzang,Tyger Campbell,0,UCLA,USC,74
+2021-22,2022-02-12,2397632,176,0,2,USC,UCLA,Trojans,Bruins,4,4,37,37,0,1669,USC,921,921,24,Isaiah White misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,10.299999999999997,23.150000000000006,1138065,Isaiah White,NA,0,USC,USC,75
+2021-22,2022-02-12,2397632,177,0,2,USC,UCLA,Trojans,Bruins,4,4,37,37,0,1668,UCLA,921,921,0,Myles Johnson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,75
+2021-22,2022-02-12,2397632,178,0,2,USC,UCLA,Trojans,Bruins,4,4,37,37,0,1668,UCLA,910,910,11,Ethan Anderson blocks a Tyger Campbell layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1134772,Tyger Campbell,NA,0,UCLA,UCLA,76
+2021-22,2022-02-12,2397632,179,0,2,USC,UCLA,Trojans,Bruins,4,4,37,37,0,1669,USC,910,910,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,76
+2021-22,2022-02-12,2397632,180,0,2,USC,UCLA,Trojans,Bruins,4,4,40,37,3,1669,USC,903,903,7,Reese Dixon-Waters makes a 3-point jump shot from 23 feet out. Drew Peterson with the assist.,made,FALSE,TRUE,Jump Shot,16.4,26.75,1265157,Reese Dixon-Waters,Drew Peterson,0,USC,UCLA,77
+2021-22,2022-02-12,2397632,181,0,2,USC,UCLA,Trojans,Bruins,4,4,40,37,3,1669,USC,887,887,16,Personal foul committed by Isaiah White.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,78
+2021-22,2022-02-12,2397632,182,0,2,USC,UCLA,Trojans,Bruins,4,4,40,37,3,1668,UCLA,876,876,11,Jules Bernard misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,45,16.25,1134770,Jules Bernard,NA,0,UCLA,UCLA,78
+2021-22,2022-02-12,2397632,183,0,2,USC,UCLA,Trojans,Bruins,4,4,40,37,3,1668,UCLA,876,876,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,78
+2021-22,2022-02-12,2397632,184,0,2,USC,UCLA,Trojans,Bruins,4,4,40,37,3,1669,USC,876,876,0,Personal foul committed by Joshua Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,78
+2021-22,2022-02-12,2397632,185,0,2,USC,UCLA,Trojans,Bruins,4,4,40,39,1,1668,UCLA,867,867,9,Jaime Jaquez Jr. makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,USC,78
+2021-22,2022-02-12,2397632,186,0,2,USC,UCLA,Trojans,Bruins,4,4,40,39,1,1669,USC,847,847,20,Joshua Morgan misses a jump shot from 15 feet out.,missed,FALSE,FALSE,Jump Shot,37.3,14.349999999999994,1191211,Joshua Morgan,NA,0,USC,USC,79
+2021-22,2022-02-12,2397632,187,0,2,USC,UCLA,Trojans,Bruins,4,4,40,39,1,1668,UCLA,847,847,0,Jules Bernard with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,79
+2021-22,2022-02-12,2397632,188,0,2,USC,UCLA,Trojans,Bruins,4,4,40,39,1,1669,USC,821,821,26,Shooting foul committed by Joshua Morgan.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,80
+2021-22,2022-02-12,2397632,189,0,2,USC,UCLA,Trojans,Bruins,4,4,40,40,0,1668,UCLA,821,821,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,80
+2021-22,2022-02-12,2397632,190,0,2,USC,UCLA,Trojans,Bruins,4,4,40,41,-1,1668,UCLA,821,821,0,Tyger Campbell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,80
+2021-22,2022-02-12,2397632,191,0,2,USC,UCLA,Trojans,Bruins,4,4,40,41,-1,1668,UCLA,809,809,12,Shooting foul committed by Jaylen Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,81
+2021-22,2022-02-12,2397632,192,0,2,USC,UCLA,Trojans,Bruins,4,4,40,41,-1,1669,USC,809,809,0,Drew Peterson misses free throw 1 of 2.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,81
+2021-22,2022-02-12,2397632,194,0,2,USC,UCLA,Trojans,Bruins,4,4,41,41,0,1669,USC,809,809,0,Drew Peterson makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,81
+2021-22,2022-02-12,2397632,195,0,2,USC,UCLA,Trojans,Bruins,4,4,41,41,0,1668,UCLA,793,793,16,Johnny Juzang misses a layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,82
+2021-22,2022-02-12,2397632,196,0,2,USC,UCLA,Trojans,Bruins,4,4,41,41,0,1668,UCLA,793,793,0,Cody Riley with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,82
+2021-22,2022-02-12,2397632,197,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1668,UCLA,790,790,3,Jaylen Clark makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1231198,Jaylen Clark,NA,0,UCLA,USC,82
+2021-22,2022-02-12,2397632,198,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1668,UCLA,780,780,10,Personal foul committed by Jaylen Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,83
+2021-22,2022-02-12,2397632,199,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1669,USC,770,770,10,David Singleton steals the ball from Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,83
+2021-22,2022-02-12,2397632,200,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1668,UCLA,761,761,9,Cody Riley misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1061550,Cody Riley,NA,0,UCLA,UCLA,84
+2021-22,2022-02-12,2397632,201,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1669,USC,761,761,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,84
+2021-22,2022-02-12,2397632,202,0,2,USC,UCLA,Trojans,Bruins,4,4,41,43,-2,1669,USC,753,753,8,Jaylen Clark steals the ball from Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,85
+2021-22,2022-02-12,2397632,203,0,2,USC,UCLA,Trojans,Bruins,4,4,41,45,-4,1668,UCLA,748,748,5,Jaylen Clark makes a layup. Cody Riley with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1231198,Jaylen Clark,Cody Riley,0,UCLA,USC,86
+2021-22,2022-02-12,2397632,204,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1669,USC,748,748,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,205,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,NA,NA,748,748,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,206,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1669,USC,728,728,20,Chevez Goodwin misses a hook shot from 9 feet out.,missed,FALSE,FALSE,Hook Shot,26.3,13.650000000000006,953412,Chevez Goodwin,NA,0,USC,USC,87
+2021-22,2022-02-12,2397632,207,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1668,UCLA,728,728,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,87
+2021-22,2022-02-12,2397632,208,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1668,UCLA,698,698,30,Johnny Juzang misses a jump shot from 12 feet out.,missed,FALSE,FALSE,Jump Shot,34.8,12.95,1186159,Johnny Juzang,NA,0,UCLA,UCLA,88
+2021-22,2022-02-12,2397632,209,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1669,USC,698,698,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,88
+2021-22,2022-02-12,2397632,210,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,1668,UCLA,695,695,3,Personal foul committed by Jaylen Clark.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,89
+2021-22,2022-02-12,2397632,211,0,2,USC,UCLA,Trojans,Bruins,3,4,41,45,-4,NA,NA,695,695,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,212,0,2,USC,UCLA,Trojans,Bruins,3,4,43,45,-2,1669,USC,676,676,19,Max Agbonkpolo makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1185374,Max Agbonkpolo,NA,0,USC,UCLA,89
+2021-22,2022-02-12,2397632,213,0,2,USC,UCLA,Trojans,Bruins,3,4,43,45,-2,1668,UCLA,654,654,22,Max Agbonkpolo blocks a Johnny Juzang layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1186159,Johnny Juzang,NA,0,UCLA,UCLA,90
+2021-22,2022-02-12,2397632,214,0,2,USC,UCLA,Trojans,Bruins,3,4,43,45,-2,1669,USC,654,654,0,Max Agbonkpolo with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,90
+2021-22,2022-02-12,2397632,215,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1669,USC,642,642,12,Max Agbonkpolo makes a jump shot from 10 feet out. Ethan Anderson with the assist.,made,FALSE,FALSE,Jump Shot,23.6,14.849999999999994,1185374,Max Agbonkpolo,Ethan Anderson,0,USC,UCLA,91
+2021-22,2022-02-12,2397632,216,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1668,UCLA,616,616,26,Cody Riley misses a hook shot from 8 feet out.,missed,FALSE,FALSE,Hook Shot,28.7,12.25,1061550,Cody Riley,NA,0,UCLA,UCLA,92
+2021-22,2022-02-12,2397632,218,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1668,UCLA,609,609,7,Drew Peterson blocks a Myles Johnson layup.,missed,FALSE,FALSE,Layup Shot,25,5.25,1076717,Myles Johnson,NA,0,UCLA,UCLA,92
+2021-22,2022-02-12,2397632,219,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1669,USC,609,609,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,92
+2021-22,2022-02-12,2397632,220,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1669,USC,579,579,30,Johnny Juzang blocks a Chevez Goodwin jump shot from 7 feet out.,missed,FALSE,FALSE,Jump Shot,20.8,10.950000000000003,953412,Chevez Goodwin,NA,0,USC,USC,93
+2021-22,2022-02-12,2397632,221,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1668,UCLA,579,579,0,Myles Johnson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,93
+2021-22,2022-02-12,2397632,222,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1668,UCLA,568,568,11,Jaime Jaquez Jr. misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,40.4,22.65,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,94
+2021-22,2022-02-12,2397632,223,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1669,USC,568,568,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,94
+2021-22,2022-02-12,2397632,224,0,2,USC,UCLA,Trojans,Bruins,3,4,45,45,0,1668,UCLA,554,554,14,Shooting foul committed by Myles Johnson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,95
+2021-22,2022-02-12,2397632,225,0,2,USC,UCLA,Trojans,Bruins,3,4,46,45,1,1669,USC,554,554,0,Reese Dixon-Waters makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,95
+2021-22,2022-02-12,2397632,226,0,2,USC,UCLA,Trojans,Bruins,3,4,47,45,2,1669,USC,554,554,0,Reese Dixon-Waters makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,95
+2021-22,2022-02-12,2397632,227,0,2,USC,UCLA,Trojans,Bruins,3,4,47,48,-1,1668,UCLA,528,528,26,David Singleton makes a 3-point jump shot from 24 feet out. Jaime Jaquez Jr. with the assist.,made,FALSE,TRUE,Jump Shot,25,29.25,1144213,David Singleton,Jaime Jaquez Jr.,0,UCLA,USC,96
+2021-22,2022-02-12,2397632,228,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,516,516,12,Ethan Anderson makes a 3-point jump shot from 23 feet out. Drew Peterson with the assist.,made,FALSE,TRUE,Jump Shot,18.5,27.25,1185363,Ethan Anderson,Drew Peterson,0,USC,UCLA,97
+2021-22,2022-02-12,2397632,229,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1668,UCLA,484,484,32,Jaime Jaquez Jr. misses a 3-point jump shot from 24 feet out.,missed,FALSE,TRUE,Jump Shot,12,26.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,98
+2021-22,2022-02-12,2397632,230,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,484,484,0,Ethan Anderson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,98
+2021-22,2022-02-12,2397632,231,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,473,473,11,Tyger Campbell steals the ball from Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,99
+2021-22,2022-02-12,2397632,232,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,473,473,0,Personal foul committed by Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2021-22,2022-02-12,2397632,233,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,NA,NA,473,473,0,Official TV timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,234,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1668,UCLA,473,473,0,Tyger Campbell misses free throw 1st of 1-and-1.,missed,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,100
+2021-22,2022-02-12,2397632,235,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,473,473,0,Max Agbonkpolo with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,100
+2021-22,2022-02-12,2397632,236,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,448,448,25,Johnny Juzang steals the ball from Max Agbonkpolo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,101
+2021-22,2022-02-12,2397632,237,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1668,UCLA,444,444,4,Drew Peterson blocks a Jaime Jaquez Jr. layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,102
+2021-22,2022-02-12,2397632,238,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1668,UCLA,444,444,0,David Singleton with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,102
+2021-22,2022-02-12,2397632,239,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1668,UCLA,436,436,8,Tyger Campbell misses a jump shot from 11 feet out.,missed,FALSE,FALSE,Jump Shot,17.3,13.15,1134772,Tyger Campbell,NA,0,UCLA,UCLA,102
+2021-22,2022-02-12,2397632,240,0,2,USC,UCLA,Trojans,Bruins,3,4,50,48,2,1669,USC,436,436,0,Drew Peterson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,102
+2021-22,2022-02-12,2397632,241,0,2,USC,UCLA,Trojans,Bruins,3,4,52,48,4,1669,USC,413,413,23,Drew Peterson makes a jump shot from 12 feet out.,made,FALSE,FALSE,Jump Shot,16.1,13.349999999999994,1134571,Drew Peterson,NA,0,USC,UCLA,103
+2021-22,2022-02-12,2397632,242,0,2,USC,UCLA,Trojans,Bruins,3,4,52,48,4,1668,UCLA,397,397,16,Jaime Jaquez Jr. misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,104
+2021-22,2022-02-12,2397632,243,0,2,USC,UCLA,Trojans,Bruins,3,4,52,48,4,1669,USC,397,397,0,Ethan Anderson with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,104
+2021-22,2022-02-12,2397632,244,0,2,USC,UCLA,Trojans,Bruins,3,4,54,48,6,1669,USC,391,391,6,Ethan Anderson makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1185363,Ethan Anderson,NA,0,USC,UCLA,105
+2021-22,2022-02-12,2397632,245,0,2,USC,UCLA,Trojans,Bruins,3,3,54,48,6,1668,UCLA,384,384,7,Bruins take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,246,0,2,USC,UCLA,Trojans,Bruins,3,3,54,48,6,1668,UCLA,374,374,10,Jaime Jaquez Jr. misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,106
+2021-22,2022-02-12,2397632,247,0,2,USC,UCLA,Trojans,Bruins,3,3,54,48,6,1669,USC,374,374,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,106
+2021-22,2022-02-12,2397632,248,0,2,USC,UCLA,Trojans,Bruins,3,3,54,48,6,1669,USC,354,354,20,Reese Dixon-Waters misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,41.6,21.849999999999994,1265157,Reese Dixon-Waters,NA,0,USC,USC,107
+2021-22,2022-02-12,2397632,249,0,2,USC,UCLA,Trojans,Bruins,3,3,54,48,6,1668,UCLA,354,354,0,David Singleton with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,107
+2021-22,2022-02-12,2397632,250,0,2,USC,UCLA,Trojans,Bruins,3,3,54,50,4,1668,UCLA,342,342,12,Tyger Campbell makes a layup.,made,FALSE,FALSE,Layup Shot,25,5.25,1134772,Tyger Campbell,NA,0,UCLA,UCLA,108
+2021-22,2022-02-12,2397632,251,0,2,USC,UCLA,Trojans,Bruins,3,3,54,50,4,1669,USC,342,342,0,Shooting foul committed by Chevez Goodwin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,108
+2021-22,2022-02-12,2397632,252,0,2,USC,UCLA,Trojans,Bruins,3,3,54,51,3,1668,UCLA,342,342,0,Tyger Campbell makes free throw 1 of 1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,108
+2021-22,2022-02-12,2397632,253,0,2,USC,UCLA,Trojans,Bruins,3,3,57,51,6,1669,USC,315,315,27,Drew Peterson makes a 3-point jump shot from 24 feet out.,made,FALSE,TRUE,Jump Shot,33.1,27.650000000000006,1134571,Drew Peterson,NA,0,USC,UCLA,109
+2021-22,2022-02-12,2397632,254,0,2,USC,UCLA,Trojans,Bruins,3,3,57,51,6,1668,UCLA,292,292,23,Drew Peterson steals the ball from Johnny Juzang.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,110
+2021-22,2022-02-12,2397632,255,0,2,USC,UCLA,Trojans,Bruins,3,3,57,51,6,1668,UCLA,292,292,0,Personal foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2021-22,2022-02-12,2397632,256,0,2,USC,UCLA,Trojans,Bruins,3,3,58,51,7,1669,USC,292,292,0,Drew Peterson makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,111
+2021-22,2022-02-12,2397632,257,0,2,USC,UCLA,Trojans,Bruins,3,3,59,51,8,1669,USC,292,292,0,Drew Peterson makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,111
+2021-22,2022-02-12,2397632,258,0,2,USC,UCLA,Trojans,Bruins,3,3,59,53,6,1668,UCLA,280,280,12,Cody Riley makes a jump shot from 13 feet out. Tyger Campbell with the assist.,made,FALSE,FALSE,Jump Shot,34.8,14.15,1061550,Cody Riley,Tyger Campbell,0,UCLA,USC,112
+2021-22,2022-02-12,2397632,259,0,2,USC,UCLA,Trojans,Bruins,3,3,61,53,8,1669,USC,262,262,18,Chevez Goodwin dunks. Drew Peterson with the assist.,made,FALSE,FALSE,Dunk Shot,26,6.25,953412,Chevez Goodwin,Drew Peterson,0,USC,UCLA,113
+2021-22,2022-02-12,2397632,260,0,2,USC,UCLA,Trojans,Bruins,3,2,61,53,8,1668,UCLA,256,256,6,Bruins take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,261,0,2,USC,UCLA,Trojans,Bruins,3,2,61,53,8,1669,USC,248,248,8,Shooting foul committed by Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2021-22,2022-02-12,2397632,262,0,2,USC,UCLA,Trojans,Bruins,3,2,61,54,7,1668,UCLA,248,248,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,114
+2021-22,2022-02-12,2397632,263,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1668,UCLA,248,248,0,Tyger Campbell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,114
+2021-22,2022-02-12,2397632,264,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1669,USC,220,220,28,Chevez Goodwin misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,953412,Chevez Goodwin,NA,0,USC,USC,115
+2021-22,2022-02-12,2397632,265,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1668,UCLA,220,220,0,Cody Riley with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,115
+2021-22,2022-02-12,2397632,266,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1668,UCLA,212,212,8,Jaime Jaquez Jr. misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,33.9,15.15,1176708,Jaime Jaquez Jr.,NA,0,UCLA,UCLA,116
+2021-22,2022-02-12,2397632,267,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1668,UCLA,212,212,0,Jaylen Clark with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2021-22,2022-02-12,2397632,268,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1668,UCLA,207,207,5,Jaylen Clark misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1231198,Jaylen Clark,NA,0,UCLA,UCLA,116
+2021-22,2022-02-12,2397632,270,0,2,USC,UCLA,Trojans,Bruins,3,2,61,55,6,1669,USC,207,207,0,Shooting foul committed by Drew Peterson.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2021-22,2022-02-12,2397632,271,0,2,USC,UCLA,Trojans,Bruins,3,2,61,56,5,1668,UCLA,207,207,0,Cody Riley makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,116
+2021-22,2022-02-12,2397632,272,0,2,USC,UCLA,Trojans,Bruins,3,2,61,57,4,1668,UCLA,207,207,0,Cody Riley makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,116
+2021-22,2022-02-12,2397632,273,0,2,USC,UCLA,Trojans,Bruins,3,2,61,57,4,1669,USC,177,177,30,Drew Peterson misses a 3-point jump shot from 22 feet out.,missed,FALSE,TRUE,Jump Shot,15.700000000000003,25.25,1134571,Drew Peterson,NA,0,USC,USC,117
+2021-22,2022-02-12,2397632,275,0,2,USC,UCLA,Trojans,Bruins,3,2,61,57,4,1668,UCLA,177,177,0,Personal foul committed by Jaime Jaquez Jr..,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,117
+2021-22,2022-02-12,2397632,276,0,2,USC,UCLA,Trojans,Bruins,3,2,62,57,5,1669,USC,177,177,0,Chevez Goodwin makes free throw 1st of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,117
+2021-22,2022-02-12,2397632,277,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,177,177,0,Chevez Goodwin makes free throw 2nd of 1-and-1.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,117
+2021-22,2022-02-12,2397632,278,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,161,161,16,Tyger Campbell misses a jump shot from 13 feet out.,missed,FALSE,FALSE,Jump Shot,13.4,9.95,1134772,Tyger Campbell,NA,0,UCLA,UCLA,118
+2021-22,2022-02-12,2397632,279,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,161,161,0,Chevez Goodwin with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,118
+2021-22,2022-02-12,2397632,280,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,134,134,27,Ethan Anderson misses a layup.,missed,FALSE,FALSE,Layup Shot,26,6.25,1185363,Ethan Anderson,NA,0,USC,USC,119
+2021-22,2022-02-12,2397632,281,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,134,134,0,Chevez Goodwin with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,119
+2021-22,2022-02-12,2397632,282,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,112,112,22,Drew Peterson misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,24,19.25,1134571,Drew Peterson,NA,0,USC,USC,119
+2021-22,2022-02-12,2397632,283,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,112,112,0,Johnny Juzang with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,119
+2021-22,2022-02-12,2397632,284,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,105,105,7,Offensive foul committed by Johnny Juzang.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,120
+2021-22,2022-02-12,2397632,285,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,105,105,0,Johnny Juzang with a turnover,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,120
+2021-22,2022-02-12,2397632,286,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,81,81,24,Boogie Ellis misses a jump shot from 14 feet out.,missed,FALSE,FALSE,Jump Shot,33.2,17.049999999999997,1175099,Boogie Ellis,NA,0,USC,USC,121
+2021-22,2022-02-12,2397632,287,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,81,81,0,Chevez Goodwin with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,121
+2021-22,2022-02-12,2397632,288,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,58,58,23,Ethan Anderson misses a jump shot from 18 feet out.,missed,FALSE,FALSE,Jump Shot,14.700000000000003,19.950000000000003,1185363,Ethan Anderson,NA,0,USC,USC,121
+2021-22,2022-02-12,2397632,289,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,58,58,0,Boogie Ellis with an offensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,121
+2021-22,2022-02-12,2397632,290,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,56,56,2,Jaime Jaquez Jr. steals the ball from Boogie Ellis.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,121
+2021-22,2022-02-12,2397632,291,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,51,51,5,Johnny Juzang misses a 3-point jump shot from 23 feet out.,missed,FALSE,TRUE,Jump Shot,9.4,22.35,1186159,Johnny Juzang,NA,0,UCLA,UCLA,122
+2021-22,2022-02-12,2397632,292,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1669,USC,51,51,0,Boogie Ellis with a defensive rebound.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,122
+2021-22,2022-02-12,2397632,293,0,2,USC,UCLA,Trojans,Bruins,3,2,63,57,6,1668,UCLA,41,41,10,Shooting foul committed by Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,123
+2021-22,2022-02-12,2397632,294,0,2,USC,UCLA,Trojans,Bruins,3,2,64,57,7,1669,USC,41,41,0,Drew Peterson makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,123
+2021-22,2022-02-12,2397632,295,0,2,USC,UCLA,Trojans,Bruins,3,2,65,57,8,1669,USC,41,41,0,Drew Peterson makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,123
+2021-22,2022-02-12,2397632,296,0,2,USC,UCLA,Trojans,Bruins,3,2,65,59,6,1668,UCLA,34,34,7,Tyger Campbell makes a jump shot from 10 feet out.,made,FALSE,FALSE,Jump Shot,18.1,12.65,1134772,Tyger Campbell,NA,0,UCLA,USC,124
+2021-22,2022-02-12,2397632,297,0,2,USC,UCLA,Trojans,Bruins,3,2,65,59,6,1669,USC,26,26,8,Max Agbonkpolo misses a dunk.,missed,FALSE,FALSE,Dunk Shot,25,5.25,1185374,Max Agbonkpolo,NA,0,USC,USC,125
+2021-22,2022-02-12,2397632,299,0,2,USC,UCLA,Trojans,Bruins,3,2,65,59,6,1669,USC,26,26,0,Technical foul committed by Max Agbonkpolo.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,125
+2021-22,2022-02-12,2397632,300,0,2,USC,UCLA,Trojans,Bruins,3,2,65,59,6,1669,USC,26,26,0,Max Agbonkpolo with a turnover - Offensive Goaltending,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,125
+2021-22,2022-02-12,2397632,301,0,2,USC,UCLA,Trojans,Bruins,3,2,65,60,5,1668,UCLA,26,26,0,Johnny Juzang makes free throw technical.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,126
+2021-22,2022-02-12,2397632,302,0,2,USC,UCLA,Trojans,Bruins,3,2,65,60,5,1669,USC,17,17,9,Shooting foul committed by Chevez Goodwin.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,126
+2021-22,2022-02-12,2397632,303,0,2,USC,UCLA,Trojans,Bruins,3,2,65,61,4,1668,UCLA,17,17,0,Tyger Campbell makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,126
+2021-22,2022-02-12,2397632,304,0,2,USC,UCLA,Trojans,Bruins,3,2,65,62,3,1668,UCLA,17,17,0,Tyger Campbell makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,126
+2021-22,2022-02-12,2397632,305,0,2,USC,UCLA,Trojans,Bruins,2,2,65,62,3,1669,USC,17,17,0,Trojans take a 30-second timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,306,0,2,USC,UCLA,Trojans,Bruins,2,2,65,62,3,1669,USC,13,13,4,Tyger Campbell steals the ball from Harrison Hornery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,UCLA,127
+2021-22,2022-02-12,2397632,307,0,2,USC,UCLA,Trojans,Bruins,2,2,65,62,3,1668,UCLA,7,7,6,Reese Dixon-Waters steals the ball from Tyger Campbell.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,128
+2021-22,2022-02-12,2397632,308,0,2,USC,UCLA,Trojans,Bruins,2,2,67,62,5,1669,USC,5,5,2,Max Agbonkpolo makes a layup. Reese Dixon-Waters with the assist.,made,FALSE,FALSE,Layup Shot,25,5.25,1185374,Max Agbonkpolo,Reese Dixon-Waters,0,USC,UCLA,129
+2021-22,2022-02-12,2397632,309,0,2,USC,UCLA,Trojans,Bruins,2,2,67,62,5,1669,USC,2,2,3,Shooting foul committed by Harrison Hornery.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,130
+2021-22,2022-02-12,2397632,310,0,2,USC,UCLA,Trojans,Bruins,2,2,67,63,4,1668,UCLA,2,2,0,Johnny Juzang makes free throw 1 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,UCLA,130
+2021-22,2022-02-12,2397632,311,0,2,USC,UCLA,Trojans,Bruins,2,2,67,64,3,1668,UCLA,2,2,0,Johnny Juzang makes free throw 2 of 2.,made,TRUE,FALSE,NA,NA,NA,NA,NA,NA,0,UCLA,USC,130
+2021-22,2022-02-12,2397632,312,0,2,USC,UCLA,Trojans,Bruins,1,2,67,64,3,1669,USC,2,2,0,Trojans take a full timeout.,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,313,0,2,USC,UCLA,Trojans,Bruins,1,2,67,64,3,NA,NA,0,0,2,End of the 2nd Half,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,NA,NA,NA
+2021-22,2022-02-12,2397632,314,0,2,USC,UCLA,Trojans,Bruins,1,2,67,64,3,NA,NA,0,0,0,End of the Game,NA,FALSE,FALSE,NA,NA,NA,NA,NA,NA,0,USC,USC,NA
