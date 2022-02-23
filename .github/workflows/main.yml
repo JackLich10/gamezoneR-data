@@ -1,0 +1,24 @@
+name: gamezoneR-data Scheduled Run
+on:
+  # schedule:
+  #   - cron: "0 8 * * *"
+  workflow_dispatch:
+
+jobs:
+    reporter:
+        runs-on: ubuntu-latest
+        name: Updating GameZone data
+        steps:
+          - name: Checkout
+            uses: actions/checkout@v2
+          - name: Install dependencies
+            uses: Rscript install.packages(c("gamezoneR","glue","optparse"))
+          - name: Pull data and update files
+            run: Rscript ./update.R --season 2021-22 --update_schedule TRUE --postseason FALSE --update_pbp TRUE
+          - name: Push updated files
+            uses: test-room-7/action-update-file@v1.5.0
+            with:
+              file-path: ./data/**/*
+              commit-msg: "Updated master_schedules and play_by_play after latest bot run."
+              github-token: ${{ secrets.GITHUB_TOKEN }}
+

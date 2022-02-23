@@ -1,6 +1,5 @@
 ### Update master schedule/play-by-play and push to GitHub repo
 suppressMessages(suppressWarnings(library(gamezoneR)))
-suppressMessages(suppressWarnings(library(git2r)))
 suppressMessages(suppressWarnings(library(glue)))
 suppressMessages(suppressWarnings(library(optparse)))
 
@@ -32,55 +31,17 @@ if (!sn %in% gamezoneR:::available_seasons()) {
 }
 
 # Set working directory
-setwd("/Users/JackLich/Desktop/RStudio/gamezoneR-data")
 
 if (isTRUE(opt$update_schedule)) {
   # Run update to master schedule
-  system(paste0("/Library/Frameworks/R.framework/Resources/bin/Rscript R/master_schedule.R --season ", sn, " --postseason ", opt$postseason))
+  system(paste0("Rscript R/master_schedule.R --season ", sn, " --postseason ", opt$postseason))
   # Rscript R/master_schedule.R (--season "2018-19")
 }
 
 if (isTRUE(opt$update_pbp)) {
   # Run update to play-by-play
   # Rscript R/play_by_play.R (--season "2018-19")
-  system(paste0("/Library/Frameworks/R.framework/Resources/bin/Rscript R/play_by_play.R --season ", sn))
-}
-
-# Set up connection to repository folder
-repo <- git2r::repository('./')
-cred <- git2r::cred_token()
-version <- "0.1.1"
-
-### Update schedule
-git2r::add(repo, glue::glue("data/schedules/*"))
-# Check status
-status <- git2r::status()
-
-if (!rlang::is_empty(status$staged)) {
-  # Commit staged files
-  git2r::commit(repo, message = glue::glue("Updated master schedule {Sys.time()} using gamezoneR version {version}"))
-  # Pull repo
-  git2r::pull(repo, credentials = cred)
-  # Push commit
-  git2r::push(repo, credentials = git2r::cred_user_pass('JackLich10', Sys.getenv("GITHUB_PAT")))
-} else {
-  cat("Nothing to commit in data/schedules.\n")
-}
-
-### Update games
-git2r::add(repo, glue::glue("data/play_by_play/*"))
-# Check status
-status <- git2r::status()
-
-if (!rlang::is_empty(status$staged)) {
-  # Commit staged files
-  git2r::commit(repo, message = glue::glue("Updated play-by-plays {Sys.time()} using gamezoneR version {version}"))
-  # Pull repo
-  git2r::pull(repo, credentials = cred)
-  # Push commit
-  git2r::push(repo, credentials = git2r::cred_user_pass('JackLich10', Sys.getenv("GITHUB_PAT"))) # push commit
-} else {
-  cat("Nothing to commit in data/play_by_play.\n")
+  system(paste0("Rscript R/play_by_play.R --season ", sn))
 }
 
 cat("Completed data update to remote repo for", sn, ".\n")
