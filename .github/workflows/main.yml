@@ -12,7 +12,7 @@ jobs:
           - name: Checkout
             uses: actions/checkout@v2
           - name: Install dependencies
-            uses: Rscript install.packages(c("gamezoneR","glue","optparse"))
+            runs: Rscript install.packages(c("gamezoneR","glue","optparse"))
           - name: Pull data and update files
             run: Rscript ./update.R --season 2021-22 --update_schedule TRUE --postseason FALSE --update_pbp TRUE
           - name: Push updated files
