@@ -14,9 +14,9 @@ jobs:
             uses: r-lib/actions/setup-r@v1
             with:
               r-version: ${{ matrix.r-version }}
-          - name: Install libcurl 
+          - name: Install libcurl
             run: sudo apt-get install libcurl4-openssl-dev libssl-dev libicu-dev libxml2-dev
-          - uses: r-lib/actions/setup-pandoc@v1  
+          - uses: r-lib/actions/setup-pandoc@v1
           - name: Install base dependencies
             run: |
               Rscript -e 'install.packages(c("remotes","glue","optparse","purrr","readr","rvest","usethis"))'
@@ -25,9 +25,14 @@ jobs:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
           - name: Pull data and update files
             run: Rscript ./update.R --season 2021-22 --update_schedule TRUE --postseason FALSE --update_pbp TRUE
+          - name: Commit files
+            run: |
+              git config --local user.email "action@github.com"
+              git config --local user.name "Github Action"
+              git pull
+              git add ./data/.
+              git commit -m "Updated master_schedules and play_by_play after latest bot run." || echo "No changes to commit"
           - name: Push updated files
-            uses: test-room-7/action-update-file@v1.5.0
+            uses: ad-m/github-push-action@master
             with:
-              file-path: ./data/**/*
-              commit-msg: "Updated master_schedules and play_by_play after latest bot run."
-              github-token: ${{ secrets.GITHUB_TOKEN }}
+              github_token: ${{ secrets.GITHUB_TOKEN }}
