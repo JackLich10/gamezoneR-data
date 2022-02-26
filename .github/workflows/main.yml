@@ -10,7 +10,6 @@ jobs:
         name: Updating GameZone data
         steps:
           - uses: actions/checkout@v2
-          - uses: actions/checkout@v2
           - name: Set up R ${{ matrix.r-version }}
             uses: r-lib/actions/setup-r@v1
             with:
