@@ -39,7 +39,7 @@ path <- stringr::str_sub(sn, start = 3) %>%
 # If not just a March Madness update, re-scrape all schedules
 if (isFALSE(opt$postseason)) {
   # Get team schedules for each season
-  team_schedules <- tidyr::crossing(team = cbbdbR::cbb_team_info$team_name,
+  team_schedules <- tidyr::crossing(team = gamezoneR::mbb_team_info$game_zone,
                                     season = c(sn))
 
   # Get all team schedule games
