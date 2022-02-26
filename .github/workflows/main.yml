@@ -10,9 +10,14 @@ jobs:
         name: Updating GameZone data
         steps:
           - uses: actions/checkout@v2
-          - uses: r-lib/actions/setup-r@v1
+          - uses: actions/checkout@v2
+          - name: Set up R ${{ matrix.r-version }}
+            uses: r-lib/actions/setup-r@v1
             with:
               r-version: ${{ matrix.r-version }}
+          - name: Install libcurl 
+            run: sudo apt-get install libcurl4-openssl-dev libssl-dev libicu-dev libxml2-dev
+          - uses: r-lib/actions/setup-pandoc@v1  
           - name: Install base dependencies
             run: |
               Rscript -e 'install.packages(c("remotes","glue","optparse","rvest","usethis"))'
