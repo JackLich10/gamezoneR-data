@@ -19,7 +19,7 @@ jobs:
           - uses: r-lib/actions/setup-pandoc@v1  
           - name: Install base dependencies
             run: |
-              Rscript -e 'install.packages(c("remotes","glue","optparse","rvest","usethis"))'
+              Rscript -e 'install.packages(c("remotes","glue","optparse","purrr","readr","rvest","usethis"))'
               Rscript -e 'remotes::install_github(repo = "JackLich10/gamezoneR")'
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
