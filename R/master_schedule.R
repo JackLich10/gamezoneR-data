@@ -65,12 +65,16 @@ march_madness <- dplyr::tibble(year = as.numeric(paste0("20", stringr::str_sub(s
   dplyr::select(-c(begin, end))
 
 # Get March Madness schedules
-mm_games <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = TRUE)
+mm_games <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = FALSE)
+mm_games_ranked <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = TRUE)
 
 # If there are games, bind them with regular season
 if (nrow(mm_games) > 0) {
+
   mm_games <- mm_games %>%
-    dplyr::distinct(.data$game_id, .keep_all = T) %>%
+    dplyr::filter(!game_id %in% mm_games_ranked$game_id) %>%
+    dplyr::bind_rows(mm_games_ranked) %>%
+    dplyr::distinct(.data$game_id, .keep_all = TRUE) %>%
     dplyr::arrange(.data$game_date)
 
   # Only keep postseason games not already in regular season schedule
@@ -81,7 +85,7 @@ if (nrow(mm_games) > 0) {
 
   # Bind all games together
   all_games <- dplyr::bind_rows(all_games, mm) %>%
-    dplyr::distinct(.data$game_id, .keep_all = T) %>%
+    dplyr::distinct(.data$game_id, .keep_all = TRUE) %>%
     dplyr::arrange(.data$game_date)
 } else {
   cat("No postseason games scheduled for", sn, ".\n")
@@ -95,6 +99,4 @@ readr::write_csv(all_games, path)
 # all_games %>% group_by(season) %>% summarise(max = max(game_date))
 
 cat("Completed master schedule scrape for", sn, ".\n")
-
-
 
