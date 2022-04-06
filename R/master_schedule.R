@@ -65,7 +65,8 @@ march_madness <- dplyr::tibble(year = as.numeric(paste0("20", stringr::str_sub(s
   dplyr::select(-c(begin, end))
 
 # Get March Madness schedules
-mm_games <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = FALSE)
+mm_games <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = FALSE) %>%
+  dplyr::distinct(game_id, .keep_all = TRUE)
 mm_games_ranked <- purrr::map_df(march_madness$date, gamezoneR::gamezone_mbb_master_schedule, ranked_games = TRUE)
 
 # If there are games, bind them with regular season
