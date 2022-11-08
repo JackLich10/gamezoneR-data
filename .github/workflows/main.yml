@@ -24,7 +24,7 @@ jobs:
             env:
               GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
           - name: Pull data and update files
-            run: Rscript ./update.R --season 2021-22 --update_schedule TRUE --postseason FALSE --update_pbp TRUE
+            run: Rscript ./update.R --season 2022-23 --update_schedule TRUE --postseason FALSE --update_pbp TRUE
           - name: Commit files
             run: |
               git config --local user.email "action@github.com"
