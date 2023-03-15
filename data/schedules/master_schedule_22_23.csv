@@ -6139,16 +6139,16 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,3:15 PM ET,2023-03-12,2545937,ESPN,Houston,Memphis,Hou,1436,NA,HoustonCougars,Cougars,65,31-3,Mem,1493,MemphisTigers,Tigers,75,TRUE,26-8,1,NA
 2022-23,3:30 PM ET,2023-03-12,2545947,CBS,Purdue,Penn State,Purdue,1577,TRUE,PurdueBoilermakers,Boilermakers,67,29-5,PSU,1567,PennStateNittanyLions,Nittany Lions,65,NA,22-13,5,NA
 2022-23,12:00 PM ET,2023-03-12,2545832,ESP2,Princeton,Yale,Prince,1575,TRUE,PrincetonTigers,Tigers,74,21-8,Yale,1716,YaleBulldogs,Bulldogs,65,NA,21-8,NA,NA
-2022-23,9:30 PM ET,2023-03-14,2547542,ESPN,Wisconsin,Bradley,Wisc,1703,NA,WisconsinBadgers,Badgers,NA,17-14,Brad,1321,BradleyBraves,Braves,NA,NA,25-9,NA,NA
-2022-23,11:00 PM ET,2023-03-14,2547547,ESP2,Colorado,Seton Hall,Colo,1360,NA,ColoradoBuffaloes,Buffaloes,NA,17-16,SetonH,1599,SetonHallPirates,Pirates,NA,NA,17-15,NA,NA
-2022-23,11:00 PM ET,2023-03-14,2547537,ESPN-U,Washington State,Eastern Washington,WashSt,1686,NA,WashingtonStateCougars,Cougars,NA,17-16,EastWa,1395,EasternWashingtonEagles,Eagles,NA,NA,22-10,NA,NA
-2022-23,7:00 PM ET,2023-03-14,2547544,ESPN-U,Rutgers,Hofstra,Rut,1586,NA,RutgersScarletKnights,Scarlet Knights,NA,19-14,Hof,1434,HofstraPride,Pride,NA,NA,24-9,NA,NA
-2022-23,9:00 PM ET,2023-03-14,2547543,ESP2,Liberty,Villanova,Lib,1467,NA,LibertyFlames,Flames,NA,26-8,Vill,1676,VillanovaWildcats,Wildcats,NA,NA,17-16,NA,NA
-2022-23,7:00 PM ET,2023-03-14,2547551,ESP2,Michigan,Toledo,Mich,1498,NA,MichiganWolverines,Wolverines,NA,17-15,Toledo,1658,ToledoRockets,Rockets,NA,NA,27-7,NA,NA
-2022-23,9:10 PM ET,2023-03-14,2547441,TRU,Mississippi State,Pittsburgh,MissSt,1506,NA,MississippiStateBulldogs,Bulldogs,NA,21-12,Pitt,1570,PittsburghPanthers,Panthers,NA,NA,22-11,NA,NA
-2022-23,6:40 PM ET,2023-03-14,2547438,TRU,Texas A&M-Corpus Christi,Southeast Missouri State,TA&MCC,2003,NA,TexasAMCorpusChristiIslanders,Islanders,NA,23-10,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,NA,NA,19-16,NA,NA
-2022-23,7:30 PM ET,2023-03-14,2547549,ESP+,UAB,Southern Miss,UAB,1303,NA,UABBlazers,Blazers,NA,25-9,SouMis,1607,SouthernMissGoldenEagles,Golden Eagles,NA,NA,25-7,NA,NA
-2022-23,9:00 PM ET,2023-03-14,2547550,ESPN-U,Vanderbilt,Yale,Vandy,1674,NA,VanderbiltCommodores,Commodores,NA,20-14,Yale,1716,YaleBulldogs,Bulldogs,NA,NA,21-8,NA,NA
+2022-23,9:30 PM ET,2023-03-14,2547542,ESPN,Wisconsin,Bradley,Wisc,1703,TRUE,WisconsinBadgers,Badgers,81,18-14,Brad,1321,BradleyBraves,Braves,62,NA,25-10,NA,NA
+2022-23,11:00 PM ET,2023-03-14,2547547,ESP2,Colorado,Seton Hall,Colo,1360,TRUE,ColoradoBuffaloes,Buffaloes,65,18-16,SetonH,1599,SetonHallPirates,Pirates,64,NA,17-16,NA,NA
+2022-23,11:00 PM ET,2023-03-14,2547537,ESPN-U,Washington State,Eastern Washington,WashSt,1686,NA,WashingtonStateCougars,Cougars,74,17-17,EastWa,1395,EasternWashingtonEagles,Eagles,81,TRUE,23-10,NA,NA
+2022-23,7:00 PM ET,2023-03-14,2547544,ESPN-U,Rutgers,Hofstra,Rut,1586,NA,RutgersScarletKnights,Scarlet Knights,86,19-15,Hof,1434,HofstraPride,Pride,88,TRUE,25-9,NA,NA
+2022-23,9:00 PM ET,2023-03-14,2547543,ESP2,Liberty,Villanova,Lib,1467,TRUE,LibertyFlames,Flames,62,27-8,Vill,1676,VillanovaWildcats,Wildcats,57,NA,17-17,NA,NA
+2022-23,7:00 PM ET,2023-03-14,2547551,ESP2,Michigan,Toledo,Mich,1498,TRUE,MichiganWolverines,Wolverines,90,18-15,Toledo,1658,ToledoRockets,Rockets,80,NA,27-8,NA,NA
+2022-23,9:30 PM ET,2023-03-14,2547441,TRU,Mississippi State,Pittsburgh,MissSt,1506,NA,MississippiStateBulldogs,Bulldogs,59,21-13,Pitt,1570,PittsburghPanthers,Panthers,60,TRUE,23-11,NA,NA
+2022-23,6:40 PM ET,2023-03-14,2547438,TRU,Texas A&M-Corpus Christi,Southeast Missouri State,TA&MCC,2003,TRUE,TexasAMCorpusChristiIslanders,Islanders,75,24-10,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,71,NA,19-17,NA,NA
+2022-23,7:30 PM ET,2023-03-14,2547549,ESP+,UAB,Southern Miss,UAB,1303,TRUE,UABBlazers,Blazers,88,26-9,SouMis,1607,SouthernMissGoldenEagles,Golden Eagles,60,NA,25-8,NA,NA
+2022-23,9:00 PM ET,2023-03-14,2547550,ESPN-U,Vanderbilt,Yale,Vandy,1674,TRUE,VanderbiltCommodores,Commodores,71,21-14,Yale,1716,YaleBulldogs,Bulldogs,62,NA,21-9,NA,NA
 2022-23,8:00 PM ET,2023-03-15,2547538,ESP+,North Texas,Alcorn State,NorTx,1541,NA,NorthTexasMeanGreen,Mean Green,NA,26-7,Alc,1286,AlcornStateBraves,Braves,NA,NA,18-13,NA,NA
 2022-23,9:10 PM ET,2023-03-15,2547440,TRU,Arizona State,Nevada,AriSt,1292,NA,ArizonaStateSunDevils,Sun Devils,NA,22-12,Nevada,1529,NevadaWolfPack,Wolf Pack,NA,NA,22-10,NA,NA
 2022-23,9:00 PM ET,2023-03-15,2547545,ESP2,Cincinnati,Virginia Tech,Cin,1353,NA,CincinnatiBearcats,Bearcats,NA,21-12,VaTech,1678,VirginiaTechHokies,Hokies,NA,NA,19-14,NA,NA
@@ -6159,7 +6159,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-03-15,2547536,ESP+,Youngstown State,Oklahoma State,YSU,1717,NA,YoungstownStatePenguins,Penguins,NA,24-9,OkSt,1559,OklahomaStateCowboys,Cowboys,NA,NA,18-15,NA,NA
 2022-23,11:00 PM ET,2023-03-15,2547540,ESP2,Oregon,UC Irvine,Oregon,1562,NA,OregonDucks,Ducks,NA,19-14,UC-Irv,1335,UCIrvineAnteaters,Anteaters,NA,NA,23-11,NA,NA
 2022-23,9:00 PM ET,2023-03-15,2547539,ESP+,Santa Clara,Sam Houston,SantaC,1596,NA,SantaClaraBroncos,Broncos,NA,23-9,SamHou,1589,SamHoustonBearkats,Bearkats,NA,NA,25-7,NA,NA
-2022-23,1:00 AM ET,2023-03-16,2547406,NA,Alabama,NA,Ala,1284,NA,AlabamaCrimsonTide,Crimson Tide,NA,29-5,NA,NA,NA,NA,NA,NA,NA-NA,1,NA
+2022-23,2:45 PM ET,2023-03-16,2547406,CBS,Alabama,Texas A&M-Corpus Christi,Ala,1284,NA,AlabamaCrimsonTide,Crimson Tide,NA,29-5,TA&MCC,2003,TexasAMCorpusChristiIslanders,Islanders,NA,NA,24-10,1,NA
 2022-23,4:10 PM ET,2023-03-16,2547413,TNT,Arizona,Princeton,Ari,1291,NA,ArizonaWildcats,Wildcats,NA,28-6,Prince,1575,PrincetonTigers,Tigers,NA,NA,21-8,8,NA
 2022-23,4:30 PM ET,2023-03-16,2547431,TBS,Arkansas,Illinois,Ark,1293,NA,ArkansasRazorbacks,Razorbacks,NA,20-13,Ill,1443,IllinoisFightingIllini,Fighting Illini,NA,NA,20-12,NA,NA
 2022-23,6:50 PM ET,2023-03-16,2547423,TNT,Iowa,Auburn,Iowa,1449,NA,IowaHawkeyes,Hawkeyes,NA,19-13,Auburn,1299,AuburnTigers,Tigers,NA,NA,20-12,NA,NA
@@ -6173,8 +6173,8 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,12:15 PM ET,2023-03-16,2547407,CBS,Maryland,West Virginia,MD,1488,NA,MarylandTerrapins,Terrapins,NA,21-12,WVU,1689,WestVirginiaMountaineers,Mountaineers,NA,NA,19-14,NA,NA
 2022-23,1:40 PM ET,2023-03-16,2547412,TNT,Missouri,Utah State,Missou,1507,NA,MissouriTigers,Tigers,NA,24-9,UtahSt,1671,UtahStateAggies,Aggies,NA,NA,26-8,23,NA
 2022-23,9:55 PM ET,2023-03-16,2547428,TBS,Texas A&M,Penn State,TexA&M,1652,NA,TexasAMAggies,Aggies,NA,25-9,PSU,1567,PennStateNittanyLions,Nittany Lions,NA,NA,22-13,17,NA
-2022-23,9:40 PM ET,2023-03-16,2547417,CBS,Tennessee,Louisiana,Tenn,1646,NA,TennesseeVolunteers,Volunteers,NA,23-10,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,NA,NA,26-7,17,NA
-2022-23,10:05 PM ET,2023-03-16,2547437,TRU,UCLA,UNC Asheville,UCLA,1668,NA,UCLABruins,Bruins,NA,29-5,NC-Ash,1522,UNCAshevilleBulldogs,Bulldogs,NA,NA,27-7,2,NA
+2022-23,9:40 PM ET,2023-03-16,2547417,CBS,Tennessee,Louisiana,Tenn,1646,NA,TennesseeVolunteers,Volunteers,NA,23-10,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,NA,NA,26-7,20,NA
+2022-23,10:05 PM ET,2023-03-16,2547437,TRU,UCLA,UNC Asheville,UCLA,1668,NA,UCLABruins,Bruins,NA,29-5,NC-Ash,1522,UNCAshevilleBulldogs,Bulldogs,NA,NA,27-7,7,NA
 2022-23,1:30 PM ET,2023-03-17,2547411,TNT,Baylor,UC Santa Barbara,Baylor,1313,NA,BaylorBears,Bears,NA,22-10,UC-SB,1595,UCSantaBarbaraGauchos,Gauchos,NA,NA,27-7,11,NA
 2022-23,4:00 PM ET,2023-03-17,2547410,TNT,Creighton,North Carolina State,Cre,1367,NA,CreightonBluejays,Bluejays,NA,21-12,NCSU,1538,NorthCarolinaStateWolfpack,Wolfpack,NA,NA,23-10,NA,NA
 2022-23,7:25 PM ET,2023-03-17,2547424,TBS,Miami (FL),Drake,Mia-Fl,1496,NA,MiamiFLHurricanes,Hurricanes,NA,25-7,Drake,1386,DrakeBulldogs,Bulldogs,NA,NA,27-7,16,NA
@@ -6182,20 +6182,26 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:35 PM ET,2023-03-17,2547435,TRU,Gonzaga,Grand Canyon,Gonz,1423,NA,GonzagaBulldogs,Bulldogs,NA,28-5,GraCan,1426,GrandCanyonAntelopes,Antelopes,NA,NA,24-11,9,NA
 2022-23,9:55 PM ET,2023-03-17,2547425,TBS,Indiana,Kent State,Ind,1446,NA,IndianaHoosiers,Hoosiers,NA,22-11,KentSt,1458,KentStateGoldenFlashes,Golden Flashes,NA,NA,28-6,21,NA
 2022-23,4:30 PM ET,2023-03-17,2547433,TBS,UConn,Iona,UConn,1363,NA,UConnHuskies,Huskies,NA,25-8,Iona,1448,IonaGaels,Gaels,NA,NA,27-7,10,NA
-2022-23,0:00 AM ET,2023-03-17,2547426,NA,Iowa State,NA,IaSt,1450,NA,IowaStateCyclones,Cyclones,NA,19-13,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA
+2022-23,3:10 PM ET,2023-03-17,2547426,TRU,Iowa State,Pittsburgh,IaSt,1450,NA,IowaStateCyclones,Cyclones,NA,19-13,Pitt,1570,PittsburghPanthers,Panthers,NA,NA,23-11,NA,NA
 2022-23,9:40 PM ET,2023-03-17,2547419,CBS,Kansas State,Montana State,KanSt,1457,NA,KansasStateWildcats,Wildcats,NA,23-9,MontSt,1511,MontanaStateBobcats,Bobcats,NA,NA,25-9,15,NA
 2022-23,12:40 PM ET,2023-03-17,2547427,TRU,Xavier,Kennesaw State,Xavier,1715,NA,XavierMusketeers,Musketeers,NA,25-9,KSawSt,5068,KennesawStateOwls,Owls,NA,NA,26-8,13,NA
 2022-23,7:10 PM ET,2023-03-17,2547418,CBS,Kentucky,Providence,Kty,1459,NA,KentuckyWildcats,Wildcats,NA,21-11,Prov,1576,ProvidenceFriars,Friars,NA,NA,21-11,NA,NA
 2022-23,2:45 PM ET,2023-03-17,2547421,CBS,Marquette,Vermont,Marq,1484,NA,MarquetteGoldenEagles,Golden Eagles,NA,28-6,Ver,1675,VermontCatamounts,Catamounts,NA,NA,23-10,6,NA
 2022-23,12:15 PM ET,2023-03-17,2547420,CBS,Michigan State,USC,MSU,1499,NA,MichiganStateSpartans,Spartans,NA,19-12,USC,1669,USCTrojans,Trojans,NA,NA,22-10,NA,NA
 2022-23,0:00 AM ET,2023-03-17,2547414,NA,Purdue,NA,Purdue,1577,NA,PurdueBoilermakers,Boilermakers,NA,29-5,NA,NA,NA,NA,NA,NA,NA-NA,3,NA
-2022-23,2:00 PM ET,2023-03-17,2547432,TBS,Saint Mary's,VCU,StMry,1622,NA,SaintMarysGaels,Gaels,NA,26-7,VCU,1672,VCURams,Rams,NA,NA,27-7,16,NA
+2022-23,2:00 PM ET,2023-03-17,2547432,TBS,Saint Mary's,VCU,StMry,1622,NA,SaintMarysGaels,Gaels,NA,26-7,VCU,1672,VCURams,Rams,NA,NA,27-7,19,NA
 2022-23,2:00 AM ET,2023-03-17,2547434,NA,TCU,NA,TCU,1643,NA,TCUHornedFrogs,Horned Frogs,NA,21-12,NA,NA,NA,NA,NA,NA,NA-NA,22,NA
 2022-23,5:30 PM ET,2023-03-18,2547579,NA,Charlotte,Western Carolina,Char,1523,NA,Charlotte49ers,49ers,NA,18-14,WCU,1695,WesternCarolinaCatamounts,Catamounts,NA,NA,18-15,NA,NA
 2022-23,11:00 AM ET,2023-03-18,2547573,NA,Indiana State,USC Upstate,InSt,1447,NA,IndianaStateSycamores,Sycamores,NA,22-12,USCUp,1975,USCUpstateSpartans,Spartans,NA,NA,16-15,NA,NA
+2022-23,12:00 PM ET,2023-03-18,2547535,NA,Vanderbilt,Michigan,Vandy,1674,NA,VanderbiltCommodores,Commodores,NA,21-14,Mich,1498,MichiganWolverines,Wolverines,NA,NA,18-15,NA,NA
 2022-23,1:00 PM ET,2023-03-18,2547575,NA,Southern Utah,North Alabama,SoUt,1608,NA,SouthernUtahThunderbirds,Thunderbirds,NA,22-12,NortAL,2096,NorthAlabamaLions,Lions,NA,NA,18-14,NA,NA
 2022-23,3:30 PM ET,2023-03-18,2547577,NA,San Jose State,Southern Indiana,SJSU,1594,NA,SanJoseStateSpartans,Spartans,NA,20-13,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,NA,NA,16-16,NA,NA
 2022-23,11:00 AM ET,2023-03-19,2547574,NA,Eastern Kentucky,Cleveland State,EastKy,1393,NA,EasternKentuckyColonels,Colonels,NA,20-13,CleSt,1356,ClevelandStateVikings,Vikings,NA,NA,21-13,NA,NA
+2022-23,2:00 PM ET,2023-03-19,2547533,NA,Colorado,NA,Colo,1360,NA,ColoradoBuffaloes,Buffaloes,NA,18-16,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA
 2022-23,1:00 PM ET,2023-03-19,2547576,NA,Duquesne,Rice,Duq,1389,NA,DuquesneDukes,Dukes,NA,20-12,Rice,1582,RiceOwls,Owls,NA,NA,18-15,NA,NA
+2022-23,1:00 PM ET,2023-03-19,2547528,NA,Eastern Washington,NA,EastWa,1395,NA,EasternWashingtonEagles,Eagles,NA,23-10,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA
+2022-23,12:00 PM ET,2023-03-19,2547532,NA,Hofstra,NA,Hof,1434,NA,HofstraPride,Pride,NA,25-9,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA
+2022-23,1:00 PM ET,2023-03-19,2547531,NA,Wisconsin,Liberty,Wisc,1703,NA,WisconsinBadgers,Badgers,NA,18-14,Lib,1467,LibertyFlames,Flames,NA,NA,27-8,NA,NA
 2022-23,5:30 PM ET,2023-03-19,2547580,NA,Stetson,Milwaukee,Stet,1629,NA,StetsonHatters,Hatters,NA,17-13,UW-Mil,1702,MilwaukeePanthers,Panthers,NA,NA,21-11,NA,NA
 2022-23,3:30 PM ET,2023-03-19,2547578,NA,Tarleton St.,Radford,TarlSt,1828,NA,TarletonStTexans,Texans,NA,17-16,Rad,1579,RadfordHighlanders,Highlanders,NA,NA,19-14,NA,NA
+2022-23,12:00 PM ET,2023-03-19,2547534,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA,NA,NA,NA,NA,NA-NA,NA,NA
