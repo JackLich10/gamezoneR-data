@@ -6225,12 +6225,13 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,6:10 PM ET,2023-03-19,2547403,TNT,UConn,Saint Mary's,UConn,1363,TRUE,UConnHuskies,Huskies,70,27-8,StMry,1622,SaintMarysGaels,Gaels,55,NA,27-8,10,19
 2022-23,6:57 PM ET,2023-03-20,2547572,NA,Charlotte,Milwaukee,Char,1523,TRUE,Charlotte49ers,49ers,76,20-14,UW-Mil,1702,MilwaukeePanthers,Panthers,65,NA,22-12,NA,NA
 2022-23,12:00 PM ET,2023-03-20,2547569,NA,Indiana State,Eastern Kentucky,InSt,1447,NA,IndianaStateSycamores,Sycamores,88,23-13,EastKy,1393,EasternKentuckyColonels,Colonels,89,TRUE,22-13,NA,NA
-2022-23,4:30 PM ET,2023-03-20,2547571,NA,San Jose State,Radford,SJSU,1594,NA,SanJoseStateSpartans,Spartans,NA,21-13,Rad,1579,RadfordHighlanders,Highlanders,NA,NA,20-14,NA,NA
-2022-23,2:00 PM ET,2023-03-20,2547570,NA,Southern Utah,Rice,SoUt,1608,NA,SouthernUtahThunderbirds,Thunderbirds,NA,23-12,Rice,1582,RiceOwls,Owls,NA,NA,19-15,NA,NA
-2022-23,9:00 PM ET,2023-03-21,2547568,ESP2,Charlotte,Radford,Char,1523,NA,Charlotte49ers,49ers,NA,20-14,Rad,1579,RadfordHighlanders,Highlanders,NA,NA,21-14,NA,NA
-2022-23,7:00 PM ET,2023-03-21,2547567,ESP2,Southern Utah,Eastern Kentucky,SoUt,1608,NA,SouthernUtahThunderbirds,Thunderbirds,NA,24-12,EastKy,1393,EasternKentuckyColonels,Colonels,NA,NA,22-13,NA,NA
-2022-23,7:00 PM ET,2023-03-21,2547524,ESPN,Oklahoma State,North Texas,OkSt,1559,NA,OklahomaStateCowboys,Cowboys,NA,20-15,NorTx,1541,NorthTexasMeanGreen,Mean Green,NA,NA,28-7,NA,NA
-2022-23,9:00 PM ET,2023-03-21,2547525,ESPN,Oregon,Wisconsin,Oregon,1562,NA,OregonDucks,Ducks,NA,21-14,Wisc,1703,WisconsinBadgers,Badgers,NA,NA,19-14,NA,NA
+2022-23,4:50 PM ET,2023-03-20,2547571,NA,San Jose State,Radford,SJSU,1594,NA,SanJoseStateSpartans,Spartans,57,21-14,Rad,1579,RadfordHighlanders,Highlanders,67,TRUE,21-14,NA,NA
+2022-23,2:34 PM ET,2023-03-20,2547570,NA,Southern Utah,Rice,SoUt,1608,TRUE,SouthernUtahThunderbirds,Thunderbirds,81,24-12,Rice,1582,RiceOwls,Owls,79,NA,19-16,NA,NA
+2022-23,9:55 PM ET,2023-03-21,2547568,ESP2,Charlotte,Radford,Char,1523,TRUE,Charlotte49ers,49ers,63,21-14,Rad,1579,RadfordHighlanders,Highlanders,56,NA,21-15,NA,NA
+2022-23,7:00 PM ET,2023-03-21,2547567,ESP2,Southern Utah,Eastern Kentucky,SoUt,1608,NA,SouthernUtahThunderbirds,Thunderbirds,106,24-13,EastKy,1393,EasternKentuckyColonels,Colonels,108,TRUE,23-13,NA,NA
+2022-23,7:00 PM ET,2023-03-21,2547524,ESPN,Oklahoma State,North Texas,OkSt,1559,NA,OklahomaStateCowboys,Cowboys,59,20-16,NorTx,1541,NorthTexasMeanGreen,Mean Green,65,TRUE,29-7,NA,NA
+2022-23,9:00 PM ET,2023-03-21,2547525,ESPN,Oregon,Wisconsin,Oregon,1562,NA,OregonDucks,Ducks,58,21-15,Wisc,1703,WisconsinBadgers,Badgers,61,TRUE,20-14,NA,NA
+2022-23,5:00 PM ET,2023-03-22,2547566,ESP2,Charlotte,Eastern Kentucky,Char,1523,NA,Charlotte49ers,49ers,NA,21-14,EastKy,1393,EasternKentuckyColonels,Colonels,NA,NA,23-13,NA,NA
 2022-23,9:00 PM ET,2023-03-22,2547526,ESP2,Utah Valley,Cincinnati,UtVaU,5155,NA,UtahValleyWolverines,Wolverines,NA,27-8,Cin,1353,CincinnatiBearcats,Bearcats,NA,NA,23-12,NA,NA
 2022-23,7:00 PM ET,2023-03-22,2547527,ESP2,Vanderbilt,UAB,Vandy,1674,NA,VanderbiltCommodores,Commodores,NA,22-14,UAB,1303,UABBlazers,Blazers,NA,NA,27-9,NA,NA
 2022-23,7:15 PM ET,2023-03-23,2547388,CBS,UConn,Arkansas,UConn,1363,NA,UConnHuskies,Huskies,NA,27-8,Ark,1293,ArkansasRazorbacks,Razorbacks,NA,NA,22-13,10,NA
@@ -6241,3 +6242,4 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,9:00 PM ET,2023-03-24,2547383,TBS,Creighton,Princeton,Cre,1367,NA,CreightonBluejays,Bluejays,NA,23-12,Prince,1575,PrincetonTigers,Tigers,NA,NA,23-8,NA,NA
 2022-23,7:15 PM ET,2023-03-24,2547386,CBS,Houston,Miami (FL),Hou,1436,NA,HoustonCougars,Cougars,NA,33-3,Mia-Fl,1496,MiamiFLHurricanes,Hurricanes,NA,NA,27-7,2,16
 2022-23,9:45 PM ET,2023-03-24,2547387,CBS,Texas,Xavier,Tex,1651,NA,TexasLonghorns,Longhorns,NA,28-8,Xavier,1715,XavierMusketeers,Musketeers,NA,NA,27-9,5,13
+2022-23,3:00 PM ET,2023-03-28,2547522,NA,Wisconsin,North Texas,Wisc,1703,NA,WisconsinBadgers,Badgers,NA,20-14,NorTx,1541,NorthTexasMeanGreen,Mean Green,NA,NA,29-7,NA,NA
