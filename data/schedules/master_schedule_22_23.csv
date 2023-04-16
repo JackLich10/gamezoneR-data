@@ -265,6 +265,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,8:00 PM ET,2022-11-10,2475447,ESP+,Kansas,North Dakota State,Kansas,1456,TRUE,KansasJayhawks,Jayhawks,82,2-0,NDakSt,5307,NorthDakotaStateBison,Bison,59,NA,0-2,5,NA
 2022-23,5:00 PM ET,2022-11-10,2498286,NA,Kent State,Baldwin-Wallace,KentSt,1458,TRUE,KentStateGoldenFlashes,Golden Flashes,76,2-0,BalWal,1735,BaldwinWallaceYellowJackets,Yellow Jackets,55,NA,0-1,NA,NA
 2022-23,6:00 PM ET,2022-11-10,2482554,ACCN,Virginia Tech,Lehigh,VaTech,1678,TRUE,VirginiaTechHokies,Hokies,78,2-0,Lehigh,1465,LehighMountainHawks,Mountain Hawks,52,NA,0-2,NA,NA
+2022-23,8:00 PM ET,2022-11-10,2492161,NA,Lindenwood,Hannibal-LaGrange,Linden,5405,TRUE,LindenwoodLions,Lions,85,1-1,HanLaG,19995,HannibalLaGrangeTrojans,Trojans,58,NA,0-1,NA,NA
 2022-23,8:47 PM ET,2022-11-10,2479420,NA,Little Rock,Arkansas Baptist,UALR,1294,TRUE,LittleRockTrojans,Trojans,71,1-1,ArkBap,2066,ArkansasBaptistBuffaloes,Buffaloes,60,NA,0-1,NA,NA
 2022-23,7:30 PM ET,2022-11-10,2496257,NA,ULM,Dallas Christian,UL-Mon,1526,TRUE,ULMWarhawks,Warhawks,111,1-1,DalChr,2014,DallasChristianCrusaders,Crusaders,59,NA,0-1,NA,NA
 2022-23,7:00 PM ET,2022-11-10,2483623,B1G+,Penn State,Loyola Maryland,PSU,1567,TRUE,PennStateNittanyLions,Nittany Lions,90,2-0,Ly-Md,1475,LoyolaMarylandGreyhounds,Greyhounds,65,NA,0-2,NA,NA
@@ -462,11 +463,11 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,3:05 PM ET,2022-11-13,2486236,NA,Omaha,Idaho,Omaha,2100,TRUE,OmahaMavericks,Mavericks,79,1-2,Idaho,1441,IdahoVandals,Vandals,72,NA,1-2,NA,NA
 2022-23,1:00 PM ET,2022-11-13,2469057,ESP+,Iowa State,North Carolina A&T,IaSt,1450,TRUE,IowaStateCyclones,Cyclones,80,2-0,NCA&T,1537,NorthCarolinaATAggies,Aggies,43,NA,1-2,NA,NA
 2022-23,4:00 PM ET,2022-11-13,2501470,NA,Lehigh,Misericordia,Lehigh,1465,TRUE,LehighMountainHawks,Mountain Hawks,97,1-2,Mis,35872,MisericordiaCougars,Cougars,58,NA,0-1,NA,NA
+2022-23,6:00 PM ET,2022-11-13,2492190,ESP+,Missouri,Lindenwood,Missou,1507,TRUE,MissouriTigers,Tigers,82,3-0,Linden,5405,LindenwoodLions,Lions,53,NA,1-2,NA,NA
 2022-23,7:00 PM ET,2022-11-13,2490700,ESP+,Long Beach State,Montana State,LgBch,1470,NA,LongBeachStateBeach,Beach,57,1-2,MontSt,1511,MontanaStateBobcats,Bobcats,70,TRUE,1-1,NA,NA
 2022-23,3:00 PM ET,2022-11-13,2497885,NA,Longwood,Pfeiffer,Lngwd,1991,TRUE,LongwoodLancers,Lancers,100,1-2,Pfe,1976,PfeifferFalcons,Falcons,68,NA,0-2,NA,NA
 2022-23,3:00 PM ET,2022-11-13,2498565,ESP+,Mississippi State,UAPB,MissSt,1506,TRUE,MississippiStateBulldogs,Bulldogs,80,3-0,UAPB,1304,UAPBGoldenLions,Golden Lions,47,NA,1-3,NA,NA
 2022-23,7:30 PM ET,2022-11-13,2490687,NA,Mississippi Valley State,Yale,MsVl,1504,NA,MississippiValleyStateDeltaDevils,Delta Devils,51,0-3,Yale,1716,YaleBulldogs,Bulldogs,80,TRUE,3-0,NA,NA
-2022-23,6:00 PM ET,2022-11-13,2492190,ESP+,Missouri,Lindenwood,Missou,1507,TRUE,MissouriTigers,Tigers,82,3-0,Linden,5405,LindenwoodLions,Lions,53,NA,1-2,NA,NA
 2022-23,4:00 PM ET,2022-11-13,2505122,NA,Nicholls,Carver College,Nich,1536,NA,NichollsColonels,Colonels,NA,0-2,CarBib,8301,CarverCollegeCougars,Cougars,NA,NA,0-0,NA,NA
 2022-23,5:00 PM ET,2022-11-13,2504399,NA,San Diego,NJIT,SD,1591,TRUE,SanDiegoToreros,Toreros,74,3-0,NJIT,1958,NJITHighlanders,Highlanders,64,NA,0-3,NA,NA
 2022-23,2:00 PM ET,2022-11-13,2479398,NA,North Dakota State,Pacific,NDakSt,5307,NA,NorthDakotaStateBison,Bison,86,0-3,Pac,1566,PacificTigers,Tigers,91,TRUE,1-1,NA,NA
@@ -819,10 +820,10 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:47 PM ET,2022-11-19,2498509,NA,Holy Cross,Stonehill,HolyCr,1435,NA,HolyCrossCrusaders,Crusaders,79,1-3,Stoneh,5221,StonehillSkyhawks,Skyhawks,81,TRUE,2-3,NA,NA
 2022-23,12:00 PM ET,2022-11-19,2500890,NA,IUPUI,Franklin,IUPUI,1862,TRUE,IUPUIJaguars,Jaguars,59,1-3,Frankl,5299,FranklinGrizzlies,Grizzlies,45,NA,0-1,NA,NA
 2022-23,12:00 PM ET,2022-11-19,2492221,NA,Western Carolina,Lamar,WCU,1695,TRUE,WesternCarolinaCatamounts,Catamounts,98,3-2,Lamar,1463,LamarCardinals,Cardinals,91,NA,3-2,NA,NA
+2022-23,2:30 PM ET,2022-11-19,2486216,NA,McNeese State,Lindenwood,McNe,1490,NA,McNeeseStateCowboys,Cowboys,60,1-3,Linden,5405,LindenwoodLions,Lions,78,TRUE,2-3,NA,NA
 2022-23,7:00 PM ET,2022-11-19,2490701,NA,Long Beach State,Saint Katherine College,LgBch,1470,TRUE,LongBeachStateBeach,Beach,84,2-2,StKath,26919,SaintKatherineCollegeFirebirds,Firebirds,55,NA,0-2,NA,NA
 2022-23,7:00 PM ET,2022-11-19,2491119,NA,Marist,Princeton,Marist,1483,NA,MaristRedFoxes,Red Foxes,55,1-3,Prince,1575,PrincetonTigers,Tigers,62,TRUE,2-2,NA,NA
 2022-23,1:00 PM ET,2022-11-19,2475550,ESPW,Saint Louis,Maryland,StL,1620,NA,SaintLouisBillikens,Billikens,67,3-1,MD,1488,MarylandTerrapins,Terrapins,95,TRUE,4-0,NA,NA
-2022-23,2:30 PM ET,2022-11-19,2486216,NA,McNeese State,Lindenwood,McNe,1490,NA,McNeeseStateCowboys,Cowboys,60,1-3,Linden,5405,LindenwoodLions,Lions,78,TRUE,2-3,NA,NA
 2022-23,2:00 PM ET,2022-11-19,2486175,NA,Mercer,Winthrop,Mercer,1494,TRUE,MercerBears,Bears,77,2-2,Win,1699,WinthropEagles,Eagles,68,NA,2-3,NA,NA
 2022-23,7:00 PM ET,2022-11-19,2489691,NA,Merrimack,St. Thomas (MN),Merrim,5417,NA,MerrimackWarriors,Warriors,61,1-4,StThMN,1730,StThomasMNTommies,Tommies,72,TRUE,4-2,NA,NA
 2022-23,4:00 PM ET,2022-11-19,2475551,ESPW,Miami (FL),Providence,Mia-Fl,1496,TRUE,MiamiFLHurricanes,Hurricanes,74,4-0,Prov,1576,ProvidenceFriars,Friars,64,NA,3-1,NA,NA
@@ -883,6 +884,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,2:00 PM ET,2022-11-20,2500611,NA,Jacksonville,Voorhees College,Jac,1453,TRUE,JacksonvilleDolphins,Dolphins,91,2-1,Voorhe,1819,VoorheesCollegeTigers,Tigers,61,NA,0-1,NA,NA
 2022-23,12:00 PM ET,2022-11-20,2475384,ACCN,North Carolina,James Madison,UNC,1540,TRUE,NorthCarolinaTarHeels,Tar Heels,80,4-0,JMU,1454,JamesMadisonDukes,Dukes,64,NA,4-1,1,NA
 2022-23,2:30 PM ET,2022-11-20,2486218,NA,McNeese State,Lamar,McNe,1490,TRUE,McNeeseStateCowboys,Cowboys,66,2-3,Lamar,1463,LamarCardinals,Cardinals,57,NA,3-3,NA,NA
+2022-23,12:00 PM ET,2022-11-20,2492222,NA,Western Carolina,Lindenwood,WCU,1695,TRUE,WesternCarolinaCatamounts,Catamounts,90,4-2,Linden,5405,LindenwoodLions,Lions,88,NA,2-4,NA,NA
 2022-23,1:30 PM ET,2022-11-20,2497893,NA,Longwood,SIUE,Lngwd,1991,NA,LongwoodLancers,Lancers,56,3-3,SIUE,1968,SIUECougars,Cougars,61,TRUE,4-2,NA,NA
 2022-23,4:30 PM ET,2022-11-20,2479378,ESP+,Loyola Chicago,Texas A&M,Ly-Il,1473,NA,LoyolaChicagoRamblers,Ramblers,51,2-3,TexA&M,1652,TexasAMAggies,Aggies,67,TRUE,3-2,NA,24
 2022-23,2:32 PM ET,2022-11-20,2482563,CBSS,Loyola Marymount,Wake Forest,LyMnt,1474,TRUE,LoyolaMarymountLions,Lions,77,4-2,Wake,1683,WakeForestDemonDeacons,Demon Deacons,75,NA,4-1,NA,NA
@@ -903,7 +905,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,3:00 PM ET,2022-11-20,2499128,NA,Samford,Texas Southern,Sam,1590,TRUE,SamfordBulldogs,Bulldogs,78,5-0,TxSo,1655,TexasSouthernTigers,Tigers,63,NA,1-6,NA,NA
 2022-23,7:25 PM ET,2022-11-20,2475516,CBSS,Santa Clara,UCF,SantaC,1596,NA,SantaClaraBroncos,Broncos,50,3-2,UCF,1344,UCFKnights,Knights,57,TRUE,4-1,NA,NA
 2022-23,3:00 PM ET,2022-11-20,2489683,FS1,Seton Hall,Wagner,SetonH,1599,TRUE,SetonHallPirates,Pirates,82,3-1,Wagner,1682,WagnerSeahawks,Seahawks,44,NA,3-2,NA,NA
-2022-23,12:00 PM ET,2022-11-20,2492222,NA,Western Carolina,Lindenwood,WCU,1695,TRUE,WesternCarolinaCatamounts,Catamounts,90,4-2,Linden,5405,LindenwoodLions,Lions,88,NA,2-4,NA,NA
 2022-23,2:00 PM ET,2022-11-20,2509060,NA,Yale,John Jay,Yale,1716,TRUE,YaleBulldogs,Bulldogs,112,5-0,JohJay,5073,JohnJayBloodhounds,Bloodhounds,55,NA,0-1,NA,NA
 2022-23,7:30 PM ET,2022-11-21,2491021,NA,Wright State,Abilene Christian,Wright,1706,TRUE,WrightStateRaiders,Raiders,77,4-1,AbiChr,1305,AbileneChristianWildcats,Wildcats,61,NA,2-2,NA,NA
 2022-23,9:00 PM ET,2022-11-21,2491125,NA,Air Force,USC Upstate,AF,1280,TRUE,AirForceFalcons,Falcons,83,2-3,USCUp,1975,USCUpstateSpartans,Spartans,56,NA,2-3,NA,NA
@@ -1474,6 +1475,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:30 PM ET,2022-11-30,2476350,NA,UAB,Jacksonville,UAB,1303,TRUE,UABBlazers,Blazers,80,6-1,Jac,1453,JacksonvilleDolphins,Dolphins,61,NA,3-2,NA,NA
 2022-23,6:00 PM ET,2022-11-30,2489632,ESP+,La Salle,Temple,LaSal,1464,NA,LaSalleExplorers,Explorers,51,3-4,Temple,1644,TempleOwls,Owls,67,TRUE,4-4,NA,NA
 2022-23,7:00 PM ET,2022-11-30,2498234,NA,Maryland Eastern Shore,Lehigh,Md-ES,1492,TRUE,MarylandEasternShoreHawks,Hawks,64,3-4,Lehigh,1465,LehighMountainHawks,Mountain Hawks,60,NA,4-3,NA,NA
+2022-23,8:00 PM ET,2022-11-30,2492163,NA,Lindenwood,East-West University,Linden,5405,TRUE,LindenwoodLions,Lions,103,4-5,EWUniv,6249,EastWestUniversityPhantoms,Phantoms,56,NA,0-1,NA,NA
 2022-23,12:00 PM ET,2022-11-30,2497687,ESP+,Lipscomb,Navy,Lips,2051,TRUE,LipscombBisons,Bisons,82,5-2,Navy,1521,NavyMidshipmen,Midshipmen,77,NA,5-2,NA,NA
 2022-23,10:00 PM ET,2022-11-30,2498917,NA,San Francisco,Little Rock,SanFr,1593,TRUE,SanFranciscoDons,Dons,90,7-1,UALR,1294,LittleRockTrojans,Trojans,68,NA,2-6,NA,NA
 2022-23,7:15 PM ET,2022-11-30,2486071,SECN,Tennessee,McNeese State,Tenn,1646,TRUE,TennesseeVolunteers,Volunteers,76,6-1,McNe,1490,McNeeseStateCowboys,Cowboys,40,NA,2-6,13,NA
@@ -1624,6 +1626,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,9:00 PM ET,2022-12-03,2475469,ESPN-U,Kansas State,Wichita State,KanSt,1457,TRUE,KansasStateWildcats,Wildcats,55,7-1,Wich,1698,WichitaStateShockers,Shockers,50,NA,4-4,NA,NA
 2022-23,2:00 PM ET,2022-12-03,2491055,NA,Penn,La Salle,Penn,1568,NA,PennQuakers,Quakers,81,5-6,LaSal,1464,LaSalleExplorers,Explorers,84,TRUE,4-4,NA,NA
 2022-23,2:00 PM ET,2022-12-03,2501473,NA,Lehigh,UMBC,Lehigh,1465,NA,LehighMountainHawks,Mountain Hawks,62,4-4,UMBC,1491,UMBCRetrievers,Retrievers,88,TRUE,5-4,NA,NA
+2022-23,8:00 PM ET,2022-12-03,2486251,NA,Kansas City,Lindenwood,UMKC,1508,TRUE,KansasCityRoos,Roos,61,4-7,Linden,5405,LindenwoodLions,Lions,47,NA,4-6,NA,NA
 2022-23,4:00 PM ET,2022-12-03,2493095,NA,Utah Valley,Long Beach State,UtVaU,5155,TRUE,UtahValleyWolverines,Wolverines,88,4-4,LgBch,1470,LongBeachStateBeach,Beach,78,NA,4-4,NA,NA
 2022-23,5:00 PM ET,2022-12-03,2492257,NA,New Orleans,Louisiana,UNO,1533,NA,NewOrleansPrivateers,Privateers,77,2-5,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,78,TRUE,7-1,NA,NA
 2022-23,3:30 PM ET,2022-12-03,2496259,NA,ULM,Champion Christian College,UL-Mon,1526,TRUE,ULMWarhawks,Warhawks,101,3-6,ChChri,10018,ChampionChristianCollegeTigers,Tigers,46,NA,0-7,NA,NA
@@ -1663,7 +1666,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,3:00 PM ET,2022-12-03,2505094,NA,Tarleton St.,Wiley,TarlSt,1828,TRUE,TarletonStTexans,Texans,98,5-3,Wiley,1697,WileyWildcats,Wildcats,55,NA,0-1,NA,NA
 2022-23,1:00 PM ET,2022-12-03,2474444,ESPN-U,Temple,VCU,Temple,1644,TRUE,TempleOwls,Owls,83,5-4,VCU,1672,VCURams,Rams,73,NA,5-3,NA,NA
 2022-23,3:00 PM ET,2022-12-03,2500621,NA,UAPB,Arkansas Baptist,UAPB,1304,TRUE,UAPBGoldenLions,Golden Lions,59,3-7,ArkBap,2066,ArkansasBaptistBuffaloes,Buffaloes,41,NA,0-2,NA,NA
-2022-23,8:00 PM ET,2022-12-03,2486251,NA,Kansas City,Lindenwood,UMKC,1508,TRUE,KansasCityRoos,Roos,61,4-7,Linden,5405,LindenwoodLions,Lions,47,NA,4-6,NA,NA
 2022-23,2:00 PM ET,2022-12-03,2497905,NA,UNC Asheville,UT Martin,NC-Ash,1522,TRUE,UNCAshevilleBulldogs,Bulldogs,90,5-3,TN-Mar,1645,UTMartinSkyhawks,Skyhawks,83,NA,4-5,NA,NA
 2022-23,5:30 PM ET,2022-12-03,2492224,NA,Western Carolina,USC Upstate,WCU,1695,NA,WesternCarolinaCatamounts,Catamounts,64,4-5,USCUp,1975,USCUpstateSpartans,Spartans,79,TRUE,4-4,NA,NA
 2022-23,3:30 PM ET,2022-12-03,2505144,NA,Western Illinois,UT Rio Grande Valley,WestIl,1690,TRUE,WesternIllinoisLeathernecks,Leathernecks,90,4-4,UTRGV,1664,UTRioGrandeValleyVaqueros,Vaqueros,72,NA,5-4,NA,NA
@@ -2209,6 +2211,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,6:17 PM ET,2022-12-17,2475387,CBS,Kentucky,UCLA,Kty,1459,NA,KentuckyWildcats,Wildcats,53,7-3,UCLA,1668,UCLABruins,Bruins,63,TRUE,10-2,13,16
 2022-23,3:00 PM ET,2022-12-17,2496261,ESP+,ULM,Lamar,UL-Mon,1526,TRUE,ULMWarhawks,Warhawks,83,4-8,Lamar,1463,LamarCardinals,Cardinals,59,NA,4-8,NA,NA
 2022-23,7:00 PM ET,2022-12-17,2501474,NA,Lehigh,Saint Elizabeth,Lehigh,1465,TRUE,LehighMountainHawks,Mountain Hawks,94,5-5,CofStE,36310,SaintElizabethEagles,Eagles,36,NA,0-1,NA,NA
+2022-23,2:00 PM ET,2022-12-17,2492164,NA,Lindenwood,Knox,Linden,5405,TRUE,LindenwoodLions,Lions,77,5-6,Knox,5491,KnoxPrairieFire,Prairie Fire,42,NA,0-1,NA,NA
 2022-23,4:00 PM ET,2022-12-17,2490676,B1G+,Michigan,Lipscomb,Mich,1498,TRUE,MichiganWolverines,Wolverines,83,7-3,Lips,2051,LipscombBisons,Bisons,75,NA,7-5,NA,NA
 2022-23,8:00 PM ET,2022-12-17,2490975,NA,UTEP,Louisiana Tech,UTEP,1654,TRUE,UTEPMiners,Miners,60,7-3,LaTech,1471,LouisianaTechBulldogs,Bulldogs,55,NA,6-5,NA,NA
 2022-23,7:00 PM ET,2022-12-17,2498559,SECN,LSU,Winthrop,LSU,1476,TRUE,LSUTigers,Tigers,89,10-1,Win,1699,WinthropEagles,Eagles,81,NA,5-7,NA,NA
@@ -2773,6 +2776,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,12:00 PM ET,2022-12-31,2492187,CBS,Kentucky,Louisville,Kty,1459,TRUE,KentuckyWildcats,Wildcats,86,9-4,Lou,1472,LouisvilleCardinals,Cardinals,63,NA,2-12,19,NA
 2022-23,2:00 PM ET,2022-12-31,2496881,NA,VCU,La Salle,VCU,1672,TRUE,VCURams,Rams,80,10-4,LaSal,1464,LaSalleExplorers,Explorers,67,NA,6-8,NA,NA
 2022-23,5:00 PM ET,2022-12-31,2486292,NA,Lamar,McNeese State,Lamar,1463,NA,LamarCardinals,Cardinals,62,4-10,McNe,1490,McNeeseStateCowboys,Cowboys,81,TRUE,4-10,NA,NA
+2022-23,4:30 PM ET,2022-12-31,2478080,NA,Lindenwood,Tennessee Tech,Linden,5405,TRUE,LindenwoodLions,Lions,82,6-9,TnTech,1649,TennesseeTechGoldenEagles,Golden Eagles,64,NA,4-11,NA,NA
 2022-23,4:30 PM ET,2022-12-31,2478081,NA,Tennessee State,Little Rock,TennSt,1648,TRUE,TennesseeStateTigers,Tigers,94,9-6,UALR,1294,LittleRockTrojans,Trojans,69,NA,5-10,NA,NA
 2022-23,1:00 PM ET,2022-12-31,2492308,NA,LIU,Sacred Heart,LIU,1469,NA,LIUSharks,Sharks,64,2-12,SHeart,1890,SacredHeartPioneers,Pioneers,82,TRUE,7-9,NA,NA
 2022-23,6:00 PM ET,2022-12-31,2476224,NA,Long Beach State,UC Riverside,LgBch,1470,NA,LongBeachStateBeach,Beach,72,6-8,CalRv,2012,UCRiversideHighlanders,Highlanders,73,TRUE,9-5,NA,NA
@@ -2810,7 +2814,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,4:00 PM ET,2022-12-31,2496315,PACN,Stanford,Utah,Stan,1627,NA,StanfordCardinal,Cardinal,66,5-9,Utah,1670,UtahRunninUtes,Runnin' Utes,71,TRUE,11-4,NA,NA
 2022-23,2:00 PM ET,2022-12-31,2492601,NA,UT Arlington,Stephen F. Austin,Tx-Ar,1653,NA,UTArlingtonMavericks,Mavericks,62,5-10,SFA,1628,StephenFAustinLumberjacks,Lumberjacks,66,TRUE,10-5,NA,NA
 2022-23,12:00 PM ET,2022-12-31,2498919,ESPN-U,TCU,Texas Tech,TCU,1643,TRUE,TCUHornedFrogs,Horned Frogs,67,12-1,TxTch,1656,TexasTechRedRaiders,Red Raiders,61,NA,10-3,18,NA
-2022-23,4:30 PM ET,2022-12-31,2478080,NA,Lindenwood,Tennessee Tech,Linden,5405,TRUE,LindenwoodLions,Lions,82,6-9,TnTech,1649,TennesseeTechGoldenEagles,Golden Eagles,64,NA,4-11,NA,NA
 2022-23,5:41 PM ET,2022-12-31,2486383,NA,Texas A&M-Commerce,UIW,TXA&MC,5065,TRUE,TexasAMCommerceLions,Lions,82,5-10,IncWor,5426,UIWCardinals,Cardinals,74,NA,6-8,NA,NA
 2022-23,5:00 PM ET,2022-12-31,2476836,NA,Texas State,Troy,TxSt,1632,NA,TexasStateBobcats,Bobcats,52,7-8,Troy,1660,TroyTrojans,Trojans,55,TRUE,9-6,NA,NA
 2022-23,4:00 PM ET,2022-12-31,2490964,ESP+,UAB,UTSA,UAB,1303,TRUE,UABBlazers,Blazers,90,12-2,Tx-SA,1650,UTSARoadrunners,Roadrunners,67,NA,6-8,NA,NA
@@ -3120,6 +3123,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,3:30 PM ET,2023-01-07,2491190,NA,Miami (OH),Kent State,Mia-O,1497,NA,MiamiOHRedHawks,RedHawks,66,6-9,KentSt,1458,KentStateGoldenFlashes,Golden Flashes,69,TRUE,12-3,NA,NA
 2022-23,2:00 PM ET,2023-01-07,2496957,NA,La Salle,Rhode Island,LaSal,1464,TRUE,LaSalleExplorers,Explorers,77,7-8,URI,1581,RhodeIslandRams,Rams,75,NA,5-10,NA,NA
 2022-23,4:30 PM ET,2023-01-07,2486337,NA,Southeastern Louisiana,Lamar,SELa,1597,TRUE,SoutheasternLouisianaLions,Lions,89,8-8,Lamar,1463,LamarCardinals,Cardinals,84,NA,4-12,NA,NA
+2022-23,4:30 PM ET,2023-01-07,2478091,NA,Lindenwood,Tennessee State,Linden,5405,NA,LindenwoodLions,Lions,57,7-10,TennSt,1648,TennesseeStateTigers,Tigers,60,TRUE,10-7,NA,NA
 2022-23,4:30 PM ET,2023-01-07,2478092,NA,Little Rock,Southeast Missouri State,UALR,1294,NA,LittleRockTrojans,Trojans,68,5-12,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,74,TRUE,7-10,NA,NA
 2022-23,9:00 PM ET,2023-01-07,2476255,NA,UC Irvine,Long Beach State,UC-Irv,1335,TRUE,UCIrvineAnteaters,Anteaters,87,10-5,LgBch,1470,LongBeachStateBeach,Beach,70,NA,7-9,NA,NA
 2022-23,4:00 PM ET,2023-01-07,2490752,NA,Longwood,Winthrop,Lngwd,1991,TRUE,LongwoodLancers,Lancers,85,12-5,Win,1699,WinthropEagles,Eagles,71,NA,7-10,NA,NA
@@ -3172,7 +3176,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,6:31 PM ET,2023-01-07,2488095,NA,Stony Brook,Towson,StnyBr,1639,NA,StonyBrookSeawolves,Seawolves,55,6-10,Towson,1659,TowsonTigers,Tigers,67,TRUE,10-6,NA,NA
 2022-23,5:00 PM ET,2023-01-07,2497309,ACCN,Virginia,Syracuse,UVa,1677,TRUE,VirginiaCavaliers,Cavaliers,73,11-3,Syr,1633,SyracuseOrange,Orange,66,NA,10-6,11,NA
 2022-23,2:00 PM ET,2023-01-07,2499968,ESP+,Temple,Tulane,Temple,1644,NA,TempleOwls,Owls,76,9-8,Tulane,1661,TulaneGreenWave,Green Wave,87,TRUE,10-5,NA,NA
-2022-23,4:30 PM ET,2023-01-07,2478091,NA,Lindenwood,Tennessee State,Linden,5405,NA,LindenwoodLions,Lions,57,7-10,TennSt,1648,TennesseeStateTigers,Tigers,60,TRUE,10-7,NA,NA
 2022-23,4:30 PM ET,2023-01-07,2478094,NA,UT Martin,Tennessee Tech,TN-Mar,1645,NA,UTMartinSkyhawks,Skyhawks,80,10-7,TnTech,1649,TennesseeTechGoldenEagles,Golden Eagles,84,TRUE,6-11,NA,NA
 2022-23,5:30 PM ET,2023-01-07,2486289,NA,UIW,Texas A&M-Corpus Christi,IncWor,5426,NA,UIWCardinals,Cardinals,71,6-10,TA&MCC,2003,TexasAMCorpusChristiIslanders,Islanders,80,TRUE,10-6,NA,NA
 2022-23,4:14 PM ET,2023-01-07,2500623,NA,UAPB,Texas Southern,UAPB,1304,TRUE,UAPBGoldenLions,Golden Lions,70,5-11,TxSo,1655,TexasSouthernTigers,Tigers,66,NA,4-12,NA,NA
@@ -3340,6 +3343,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,8:00 PM ET,2023-01-12,2476807,NA,South Alabama,James Madison,USA,1610,TRUE,SouthAlabamaJaguars,Jaguars,63,8-9,JMU,1454,JamesMadisonDukes,Dukes,62,NA,11-7,NA,NA
 2022-23,8:41 PM ET,2023-01-12,2486294,NA,Lamar,Nicholls,Lamar,1463,TRUE,LamarCardinals,Cardinals,69,5-12,Nich,1536,NichollsColonels,Colonels,66,NA,7-9,NA,NA
 2022-23,7:00 PM ET,2023-01-12,2474465,NA,Liberty,North Alabama,Lib,1467,TRUE,LibertyFlames,Flames,72,13-5,NortAL,2096,NorthAlabamaLions,Lions,54,NA,9-9,NA,NA
+2022-23,8:25 PM ET,2023-01-12,2478095,NA,Southeast Missouri State,Lindenwood,SEMO,1600,TRUE,SoutheastMissouriStateRedhawks,Redhawks,94,8-10,Linden,5405,LindenwoodLions,Lions,71,NA,7-11,NA,NA
 2022-23,9:00 PM ET,2023-01-12,2478537,NA,Southern Indiana,Little Rock,SoIndi,5440,TRUE,SouthernIndianaScreamingEagles,Screaming Eagles,74,9-9,UALR,1294,LittleRockTrojans,Trojans,67,NA,5-13,NA,NA
 2022-23,7:00 PM ET,2023-01-12,2490756,ESPN-U,UNC Asheville,Longwood,NC-Ash,1522,TRUE,UNCAshevilleBulldogs,Bulldogs,54,12-6,Lngwd,1991,LongwoodLancers,Lancers,46,NA,12-6,NA,NA
 2022-23,7:30 PM ET,2023-01-12,2476760,NA,ULM,Louisiana,UL-Mon,1526,NA,ULMWarhawks,Warhawks,73,7-11,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,86,TRUE,13-4,NA,NA
@@ -3360,7 +3364,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,10:00 PM ET,2023-01-12,2482146,NA,San Diego,Pepperdine,SD,1591,TRUE,SanDiegoToreros,Toreros,92,9-10,Pepper,1569,PepperdineWaves,Waves,89,NA,7-11,NA,NA
 2022-23,11:00 PM ET,2023-01-12,2482147,ESPN-U,Portland,San Francisco,Por,1572,TRUE,PortlandPilots,Pilots,92,9-10,SanFr,1593,SanFranciscoDons,Dons,87,NA,12-8,NA,NA
 2022-23,9:00 PM ET,2023-01-12,2492621,NA,Southern Utah,Sam Houston,SoUt,1608,TRUE,SouthernUtahThunderbirds,Thunderbirds,86,12-6,SamHou,1589,SamHoustonBearkats,Bearkats,74,NA,12-5,NA,NA
-2022-23,8:25 PM ET,2023-01-12,2478095,NA,Southeast Missouri State,Lindenwood,SEMO,1600,TRUE,SoutheastMissouriStateRedhawks,Redhawks,94,8-10,Linden,5405,LindenwoodLions,Lions,71,NA,7-11,NA,NA
 2022-23,8:30 PM ET,2023-01-12,2486352,NA,Texas A&M-Corpus Christi,Southeastern Louisiana,TA&MCC,2003,NA,TexasAMCorpusChristiIslanders,Islanders,82,10-7,SELa,1597,SoutheasternLouisianaLions,Lions,85,TRUE,9-8,NA,NA
 2022-23,8:00 PM ET,2023-01-12,2481976,NA,Kansas City,St. Thomas (MN),UMKC,1508,TRUE,KansasCityRoos,Roos,81,7-11,StThMN,1730,StThomasMNTommies,Tommies,60,NA,13-7,NA,NA
 2022-23,11:00 PM ET,2023-01-12,2496345,FS1,Washington,Stanford,Wash,1685,TRUE,WashingtonHuskies,Huskies,86,10-8,Stan,1627,StanfordCardinal,Cardinal,69,NA,5-11,NA,NA
@@ -3474,6 +3477,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,2:00 PM ET,2023-01-14,2474473,NA,Kennesaw State,North Florida,KSawSt,5068,TRUE,KennesawStateOwls,Owls,86,13-6,NoFla,1552,NorthFloridaOspreys,Ospreys,72,NA,7-11,NA,NA
 2022-23,12:00 PM ET,2023-01-14,2493146,ESPN,Tennessee,Kentucky,Tenn,1646,NA,TennesseeVolunteers,Volunteers,56,14-3,Kty,1459,KentuckyWildcats,Wildcats,63,TRUE,11-6,5,NA
 2022-23,5:30 PM ET,2023-01-14,2486384,NA,Texas A&M-Commerce,Lamar,TXA&MC,5065,TRUE,TexasAMCommerceLions,Lions,81,7-12,Lamar,1463,LamarCardinals,Cardinals,66,NA,5-13,NA,NA
+2022-23,6:30 PM ET,2023-01-14,2478099,NA,SIUE,Lindenwood,SIUE,1968,TRUE,SIUECougars,Cougars,68,14-5,Linden,5405,LindenwoodLions,Lions,58,NA,7-12,NA,NA
 2022-23,4:00 PM ET,2023-01-14,2492318,NA,Saint Francis U,LIU,StF-Pa,1617,TRUE,SaintFrancisURedFlash,Red Flash,87,7-10,LIU,1469,LIUSharks,Sharks,68,NA,2-15,NA,NA
 2022-23,7:00 PM ET,2023-01-14,2490762,NA,Longwood,USC Upstate,Lngwd,1991,TRUE,LongwoodLancers,Lancers,72,13-6,USCUp,1975,USCUpstateSpartans,Spartans,65,NA,8-9,NA,NA
 2022-23,4:00 PM ET,2023-01-14,2476808,NA,South Alabama,Louisiana,USA,1610,NA,SouthAlabamaJaguars,Jaguars,76,8-10,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,79,TRUE,14-4,NA,NA
@@ -3514,7 +3518,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,1:00 PM ET,2023-01-14,2492319,NA,St. Francis Brooklyn,Sacred Heart,StF-NY,1616,TRUE,StFrancisBrooklynTerriers,Terriers,82,8-9,SHeart,1890,SacredHeartPioneers,Pioneers,79,NA,9-10,NA,NA
 2022-23,11:00 PM ET,2023-01-14,2482153,NA,San Francisco,Saint Mary's,SanFr,1593,NA,SanFranciscoDons,Dons,61,12-9,StMry,1622,SaintMarysGaels,Gaels,78,TRUE,16-4,NA,NA
 2022-23,8:00 PM ET,2023-01-14,2492624,NA,Utah Valley,Seattle,UtVaU,5155,NA,UtahValleyWolverines,Wolverines,80,14-5,Seattl,1598,SeattleRedhawks,Redhawks,85,TRUE,14-4,NA,NA
-2022-23,6:30 PM ET,2023-01-14,2478099,NA,SIUE,Lindenwood,SIUE,1968,TRUE,SIUECougars,Cougars,68,14-5,Linden,5405,LindenwoodLions,Lions,58,NA,7-12,NA,NA
 2022-23,6:00 PM ET,2023-01-14,2493141,SECN,South Carolina,Texas A&M,SCar,1611,NA,SouthCarolinaGamecocks,Gamecocks,53,8-9,TexA&M,1652,TexasAMAggies,Aggies,94,TRUE,12-5,NA,NA
 2022-23,7:00 PM ET,2023-01-14,2481981,NA,South Dakota,South Dakota State,SouDak,5310,NA,SouthDakotaCoyotes,Coyotes,64,8-10,SDakSt,5330,SouthDakotaStateJackrabbits,Jackrabbits,82,TRUE,9-9,NA,NA
 2022-23,5:13 PM ET,2023-01-14,2486287,NA,UIW,Southeastern Louisiana,IncWor,5426,NA,UIWCardinals,Cardinals,71,6-12,SELa,1597,SoutheasternLouisianaLions,Lions,75,TRUE,10-8,NA,NA
@@ -3693,6 +3696,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-01-19,2476844,NA,Troy,James Madison,Troy,1660,NA,TroyTrojans,Trojans,87,12-8,JMU,1454,JamesMadisonDukes,Dukes,89,TRUE,13-7,NA,NA
 2022-23,7:00 PM ET,2023-01-19,2474479,NA,Stetson,Kennesaw State,Stet,1629,NA,StetsonHatters,Hatters,81,10-8,KSawSt,5068,KennesawStateOwls,Owls,82,TRUE,14-6,NA,NA
 2022-23,8:25 PM ET,2023-01-19,2486298,NA,Lamar,Texas A&M-Corpus Christi,Lamar,1463,TRUE,LamarCardinals,Cardinals,68,6-13,TA&MCC,2003,TexasAMCorpusChristiIslanders,Islanders,66,NA,11-8,NA,NA
+2022-23,9:00 PM ET,2023-01-19,2478103,NA,Lindenwood,Southern Indiana,Linden,5405,NA,LindenwoodLions,Lions,65,7-13,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,81,TRUE,11-9,NA,NA
 2022-23,8:30 PM ET,2023-01-19,2478104,NA,Little Rock,Tennessee Tech,UALR,1294,NA,LittleRockTrojans,Trojans,75,5-15,TnTech,1649,TennesseeTechGoldenEagles,Golden Eagles,77,TRUE,9-11,NA,NA
 2022-23,9:00 PM ET,2023-01-19,2500411,CBSS,Louisiana Tech,Western Kentucky,LaTech,1471,TRUE,LouisianaTechBulldogs,Bulldogs,85,11-8,WestKy,1691,WesternKentuckyHilltoppers,Hilltoppers,74,NA,11-8,NA,NA
 2022-23,7:00 PM ET,2023-01-19,2496741,NA,Vermont,Maine,Ver,1675,TRUE,VermontCatamounts,Catamounts,66,9-10,Maine,1481,MaineBlackBears,Black Bears,45,NA,6-12,NA,NA
@@ -3725,7 +3729,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,10:00 PM ET,2023-01-19,2492631,NA,Seattle,Tarleton St.,Seattl,1598,TRUE,SeattleRedhawks,Redhawks,67,15-4,TarlSt,1828,TarletonStTexans,Texans,47,NA,10-9,NA,NA
 2022-23,8:00 PM ET,2023-01-19,2476814,ESP+,Southern Miss,South Alabama,SouMis,1607,TRUE,SouthernMissGoldenEagles,Golden Eagles,76,16-4,USA,1610,SouthAlabamaJaguars,Jaguars,72,NA,8-11,NA,NA
 2022-23,8:25 PM ET,2023-01-19,2478107,NA,Southeast Missouri State,UT Martin,SEMO,1600,NA,SoutheastMissouriStateRedhawks,Redhawks,60,9-11,TN-Mar,1645,UTMartinSkyhawks,Skyhawks,80,TRUE,12-8,NA,NA
-2022-23,9:00 PM ET,2023-01-19,2478103,NA,Lindenwood,Southern Indiana,Linden,5405,NA,LindenwoodLions,Lions,65,7-13,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,81,TRUE,11-9,NA,NA
 2022-23,8:00 PM ET,2023-01-19,2476279,NA,UC Davis,UC Riverside,UCDav,1334,NA,UCDavisAggies,Aggies,72,11-8,CalRv,2012,UCRiversideHighlanders,Highlanders,74,TRUE,14-6,NA,NA
 2022-23,8:00 PM ET,2023-01-19,2492635,NA,UT Arlington,UT Rio Grande Valley,Tx-Ar,1653,TRUE,UTArlingtonMavericks,Mavericks,85,7-13,UTRGV,1664,UTRioGrandeValleyVaqueros,Vaqueros,73,NA,10-9,NA,NA
 2022-23,9:00 PM ET,2023-01-19,2496362,NA,Utah,Washington State,Utah,1670,TRUE,UtahRunninUtes,Runnin' Utes,77,13-7,WashSt,1686,WashingtonStateCougars,Cougars,63,NA,9-11,NA,NA
@@ -3838,6 +3841,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-01-21,2501478,NA,Lehigh,Lafayette,Lehigh,1465,TRUE,LehighMountainHawks,Mountain Hawks,61,11-8,Laf,1462,LafayetteLeopards,Leopards,49,NA,6-15,NA,NA
 2022-23,7:00 PM ET,2023-01-21,2486291,NA,Lamar,UIW,Lamar,1463,NA,LamarCardinals,Cardinals,64,6-14,IncWor,5426,UIWCardinals,Cardinals,70,TRUE,8-12,NA,NA
 2022-23,2:00 PM ET,2023-01-21,2474482,NA,North Florida,Liberty,NoFla,1552,NA,NorthFloridaOspreys,Ospreys,62,8-12,Lib,1467,LibertyFlames,Flames,73,TRUE,16-5,NA,NA
+2022-23,4:30 PM ET,2023-01-21,2478108,NA,Lindenwood,Morehead State,Linden,5405,NA,LindenwoodLions,Lions,63,7-14,Mor,1512,MoreheadStateEagles,Eagles,72,TRUE,12-9,NA,NA
 2022-23,4:30 PM ET,2023-01-21,2478109,NA,Little Rock,Tennessee State,UALR,1294,TRUE,LittleRockTrojans,Trojans,89,6-15,TennSt,1648,TennesseeStateTigers,Tigers,77,NA,11-10,NA,NA
 2022-23,6:00 PM ET,2023-01-21,2476283,NA,UC San Diego,Long Beach State,Cal-SD,1919,NA,UCSanDiegoTritons,Tritons,110,7-13,LgBch,1470,LongBeachStateBeach,Beach,112,TRUE,10-10,NA,NA
 2022-23,2:00 PM ET,2023-01-21,2490771,NA,Presbyterian,Longwood,Presby,1574,NA,PresbyterianBlueHose,Blue Hose,56,5-16,Lngwd,1991,LongwoodLancers,Lancers,58,TRUE,15-6,NA,NA
@@ -3854,7 +3858,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-01-21,2485773,NA,Milwaukee,Youngstown State,UW-Mil,1702,TRUE,MilwaukeePanthers,Panthers,88,14-6,YSU,1717,YoungstownStatePenguins,Penguins,75,NA,15-6,NA,NA
 2022-23,2:00 PM ET,2023-01-21,2496704,NA,Missouri State,Southern Illinois,MoStU,1631,NA,MissouriStateBears,Bears,57,10-10,SIU,1613,SouthernIllinoisSalukis,Salukis,61,TRUE,16-5,NA,NA
 2022-23,9:00 PM ET,2023-01-21,2469131,NA,Montana,Montana State,Mont,1510,NA,MontanaGrizzlies,Grizzlies,64,9-11,MontSt,1511,MontanaStateBobcats,Bobcats,67,TRUE,13-8,NA,NA
-2022-23,4:30 PM ET,2023-01-21,2478108,NA,Lindenwood,Morehead State,Linden,5405,NA,LindenwoodLions,Lions,63,7-14,Mor,1512,MoreheadStateEagles,Eagles,72,TRUE,12-9,NA,NA
 2022-23,2:15 PM ET,2023-01-21,2493542,BTN,Penn State,Nebraska,PSU,1567,TRUE,PennStateNittanyLions,Nittany Lions,76,13-6,Neb,1527,NebraskaCornhuskers,Cornhuskers,65,NA,10-10,NA,NA
 2022-23,1:00 PM ET,2023-01-21,2496746,NA,UMBC,New Hampshire,UMBC,1491,TRUE,UMBCRetrievers,Retrievers,80,14-7,UNH,1530,NewHampshireWildcats,Wildcats,69,NA,8-10,NA,NA
 2022-23,5:52 PM ET,2023-01-21,2486313,NA,New Orleans,Northwestern State,UNO,1533,NA,NewOrleansPrivateers,Privateers,65,6-12,NWSt,1548,NorthwesternStateDemons,Demons,88,TRUE,12-8,NA,NA
@@ -4041,6 +4044,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,9:00 PM ET,2023-01-26,2474492,NA,Jacksonville State,Lipscomb,JacSt,1455,TRUE,JacksonvilleStateGamecocks,Gamecocks,72,9-13,Lips,2051,LipscombBisons,Bisons,67,NA,13-9,NA,NA
 2022-23,8:24 PM ET,2023-01-26,2486297,NA,Lamar,Texas A&M-Commerce,Lamar,1463,NA,LamarCardinals,Cardinals,57,6-15,TXA&MC,5065,TexasAMCommerceLions,Lions,62,TRUE,9-13,NA,NA
 2022-23,7:00 PM ET,2023-01-26,2474486,NA,Liberty,Stetson,Lib,1467,TRUE,LibertyFlames,Flames,74,17-5,Stet,1629,StetsonHatters,Hatters,45,NA,11-9,NA,NA
+2022-23,7:00 PM ET,2023-01-26,2478113,NA,UT Martin,Lindenwood,TN-Mar,1645,TRUE,UTMartinSkyhawks,Skyhawks,66,14-8,Linden,5405,LindenwoodLions,Lions,59,NA,7-15,NA,NA
 2022-23,7:00 PM ET,2023-01-26,2478114,NA,Morehead State,Little Rock,Mor,1512,TRUE,MoreheadStateEagles,Eagles,76,13-9,UALR,1294,LittleRockTrojans,Trojans,72,NA,6-16,NA,NA
 2022-23,7:00 PM ET,2023-01-26,2492345,NA,Sacred Heart,LIU,SHeart,1890,NA,SacredHeartPioneers,Pioneers,70,11-12,LIU,1469,LIUSharks,Sharks,74,TRUE,3-18,NA,NA
 2022-23,7:00 PM ET,2023-01-26,2490775,ESPN-U,Radford,Longwood,Rad,1579,TRUE,RadfordHighlanders,Highlanders,63,13-9,Lngwd,1991,LongwoodLancers,Lancers,59,NA,15-7,NA,NA
@@ -4072,7 +4076,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,5:00 PM ET,2023-01-26,2492347,CBSS,Wagner,St. Francis Brooklyn,Wagner,1682,NA,WagnerSeahawks,Seahawks,56,11-8,StF-NY,1616,StFrancisBrooklynTerriers,Terriers,65,TRUE,10-11,NA,NA
 2022-23,7:00 PM ET,2023-01-26,2488127,NA,William & Mary,Stony Brook,W&M,1704,TRUE,WilliamMaryTribe,Tribe,77,9-13,StnyBr,1639,StonyBrookSeawolves,Seawolves,74,NA,7-14,NA,NA
 2022-23,9:00 PM ET,2023-01-26,2496371,ESP2,USC,UCLA,USC,1669,TRUE,USCTrojans,Trojans,77,15-6,UCLA,1668,UCLABruins,Bruins,64,NA,17-4,NA,8
-2022-23,7:00 PM ET,2023-01-26,2478113,NA,UT Martin,Lindenwood,TN-Mar,1645,TRUE,UTMartinSkyhawks,Skyhawks,66,14-8,Linden,5405,LindenwoodLions,Lions,59,NA,7-15,NA,NA
 2022-23,10:00 PM ET,2023-01-27,2491268,CBSS,New Mexico,Air Force,NM,1531,TRUE,NewMexicoLobos,Lobos,81,19-3,AF,1280,AirForceFalcons,Falcons,73,NA,12-10,25,NA
 2022-23,9:00 PM ET,2023-01-27,2491277,ESPN-U,Kent State,Buffalo,KentSt,1458,TRUE,KentStateGoldenFlashes,Golden Flashes,74,17-4,Buff,1326,BuffaloBulls,Bulls,68,NA,10-11,NA,NA
 2022-23,7:00 PM ET,2023-01-27,2485779,NA,Cleveland State,Purdue Fort Wayne,CleSt,1356,TRUE,ClevelandStateVikings,Vikings,79,13-9,PFW,1797,PurdueFortWayneMastodons,Mastodons,74,NA,14-9,NA,NA
@@ -4171,6 +4174,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,5:00 PM ET,2023-01-28,2474497,NA,Kennesaw State,Lipscomb,KSawSt,5068,TRUE,KennesawStateOwls,Owls,85,17-6,Lips,2051,LipscombBisons,Bisons,72,NA,13-10,NA,NA
 2022-23,2:00 PM ET,2023-01-28,2497057,NA,Rhode Island,La Salle,URI,1581,TRUE,RhodeIslandRams,Rams,72,8-13,LaSal,1464,LaSalleExplorers,Explorers,70,NA,8-13,NA,NA
 2022-23,4:30 PM ET,2023-01-28,2486328,NA,Northwestern State,Lamar,NWSt,1548,TRUE,NorthwesternStateDemons,Demons,80,14-8,Lamar,1463,LamarCardinals,Cardinals,65,NA,6-16,NA,NA
+2022-23,3:00 PM ET,2023-01-28,2478117,NA,Tennessee State,Lindenwood,TennSt,1648,TRUE,TennesseeStateTigers,Tigers,83,12-11,Linden,5405,LindenwoodLions,Lions,66,NA,7-16,NA,NA
 2022-23,4:33 PM ET,2023-01-28,2478118,NA,Tennessee Tech,Little Rock,TnTech,1649,NA,TennesseeTechGoldenEagles,Golden Eagles,89,10-13,UALR,1294,LittleRockTrojans,Trojans,91,TRUE,7-16,NA,NA
 2022-23,7:00 PM ET,2023-01-28,2492349,NA,St. Francis Brooklyn,LIU,StF-NY,1616,TRUE,StFrancisBrooklynTerriers,Terriers,71,11-11,LIU,1469,LIUSharks,Sharks,59,NA,3-19,NA,NA
 2022-23,4:00 PM ET,2023-01-28,2476293,NA,Long Beach State,UC Davis,LgBch,1470,TRUE,LongBeachStateBeach,Beach,75,12-10,UCDav,1334,UCDavisAggies,Aggies,72,NA,13-9,NA,NA
@@ -4225,7 +4229,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-01-28,2497354,ACCN,Virginia Tech,Syracuse,VaTech,1678,TRUE,VirginiaTechHokies,Hokies,85,13-8,Syr,1633,SyracuseOrange,Orange,70,NA,13-9,NA,NA
 2022-23,12:00 PM ET,2023-01-28,2500096,ESPN-U,UCF,Temple,UCF,1344,NA,UCFKnights,Knights,70,13-8,Temple,1644,TempleOwls,Owls,77,TRUE,14-9,NA,NA
 2022-23,6:00 PM ET,2023-01-28,2486075,ESPN,Tennessee,Texas,Tenn,1646,TRUE,TennesseeVolunteers,Volunteers,82,18-3,Tex,1651,TexasLonghorns,Longhorns,71,NA,17-4,4,10
-2022-23,3:00 PM ET,2023-01-28,2478117,NA,Tennessee State,Lindenwood,TennSt,1648,TRUE,TennesseeStateTigers,Tigers,83,12-11,Linden,5405,LindenwoodLions,Lions,66,NA,7-16,NA,NA
 2022-23,8:30 PM ET,2023-01-28,2493176,SECN,Texas A&M,Vanderbilt,TexA&M,1652,TRUE,TexasAMAggies,Aggies,72,15-6,Vandy,1674,VanderbiltCommodores,Commodores,66,NA,10-11,NA,NA
 2022-23,4:00 PM ET,2023-01-28,2488137,NA,Towson,William & Mary,Towson,1659,TRUE,TowsonTigers,Tigers,92,16-7,W&M,1704,WilliamMaryTribe,Tribe,73,NA,9-14,NA,NA
 2022-23,4:00 PM ET,2023-01-28,2476297,NA,UC Riverside,UC San Diego,CalRv,2012,TRUE,UCRiversideHighlanders,Highlanders,72,15-7,Cal-SD,1919,UCSanDiegoTritons,Tritons,65,NA,8-14,NA,NA
@@ -4533,6 +4536,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,1:00 PM ET,2023-02-04,2502040,NA,Lafayette,Lehigh,Laf,1462,NA,LafayetteLeopards,Leopards,64,7-18,Lehigh,1465,LehighMountainHawks,Mountain Hawks,66,TRUE,14-9,NA,NA
 2022-23,7:00 PM ET,2023-02-04,2486295,NA,Lamar,Northwestern State,Lamar,1463,NA,LamarCardinals,Cardinals,68,7-17,NWSt,1548,NorthwesternStateDemons,Demons,72,TRUE,16-8,NA,NA
 2022-23,5:00 PM ET,2023-02-04,2474510,NA,Lipscomb,Liberty,Lips,2051,TRUE,LipscombBisons,Bisons,69,15-10,Lib,1467,LibertyFlames,Flames,64,NA,19-6,NA,NA
+2022-23,4:30 PM ET,2023-02-04,2478126,NA,Lindenwood,UT Martin,Linden,5405,TRUE,LindenwoodLions,Lions,80,9-16,TN-Mar,1645,UTMartinSkyhawks,Skyhawks,75,NA,15-10,NA,NA
 2022-23,4:41 PM ET,2023-02-04,2478127,NA,Little Rock,SIUE,UALR,1294,NA,LittleRockTrojans,Trojans,81,7-18,SIUE,1968,SIUECougars,Cougars,84,TRUE,16-9,NA,NA
 2022-23,7:00 PM ET,2023-02-04,2476306,NA,Long Beach State,UC Irvine,LgBch,1470,TRUE,LongBeachStateBeach,Beach,93,14-10,UC-Irv,1335,UCIrvineAnteaters,Anteaters,88,NA,15-8,NA,NA
 2022-23,8:00 PM ET,2023-02-04,2476751,ESP+,Louisiana,Marshall,UL-Laf,1630,TRUE,LouisianaRaginCajuns,Ragin' Cajuns,77,20-4,Marsh,1486,MarshallThunderingHerd,Thundering Herd,67,NA,19-6,NA,NA
@@ -4580,7 +4584,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,4:00 PM ET,2023-02-04,2490792,NA,USC Upstate,UNC Asheville,USCUp,1975,TRUE,USCUpstateSpartans,Spartans,76,10-13,NC-Ash,1522,UNCAshevilleBulldogs,Bulldogs,70,NA,18-7,NA,NA
 2022-23,2:00 PM ET,2023-02-04,2488148,NA,William & Mary,UNCW,W&M,1704,NA,WilliamMaryTribe,Tribe,63,9-16,UNCW,1525,UNCWSeahawks,Seahawks,70,TRUE,19-6,NA,NA
 2022-23,9:30 PM ET,2023-02-04,2496388,FS1,USC,Washington,USC,1669,TRUE,USCTrojans,Trojans,80,17-6,Wash,1685,WashingtonHuskies,Huskies,74,NA,13-12,NA,NA
-2022-23,4:30 PM ET,2023-02-04,2478126,NA,Lindenwood,UT Martin,Linden,5405,TRUE,LindenwoodLions,Lions,80,9-16,TN-Mar,1645,UTMartinSkyhawks,Skyhawks,75,NA,15-10,NA,NA
 2022-23,4:00 PM ET,2023-02-04,2498165,NA,Western Kentucky,UTEP,WestKy,1691,TRUE,WesternKentuckyHilltoppers,Hilltoppers,74,13-11,UTEP,1654,UTEPMiners,Miners,69,NA,11-12,NA,NA
 2022-23,12:00 PM ET,2023-02-04,2497367,ESP2,Virginia Tech,Virginia,VaTech,1678,TRUE,VirginiaTechHokies,Hokies,74,14-9,UVa,1677,VirginiaCavaliers,Cavaliers,68,NA,17-4,NA,6
 2022-23,6:00 PM ET,2023-02-05,2496390,ESPN-U,Utah,California,Utah,1670,TRUE,UtahRunninUtes,Runnin' Utes,61,16-9,Cal,1338,CaliforniaGoldenBears,Golden Bears,46,NA,3-20,NA,NA
@@ -4729,6 +4732,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-02-09,2474515,NA,Jacksonville,Stetson,Jac,1453,NA,JacksonvilleDolphins,Dolphins,67,12-12,Stet,1629,StetsonHatters,Hatters,70,TRUE,14-10,NA,NA
 2022-23,8:41 PM ET,2023-02-09,2474516,NA,Jacksonville State,Kennesaw State,JacSt,1455,NA,JacksonvilleStateGamecocks,Gamecocks,52,10-16,KSawSt,5068,KennesawStateOwls,Owls,54,TRUE,19-7,NA,NA
 2022-23,8:44 PM ET,2023-02-09,2486282,NA,UIW,Lamar,IncWor,5426,NA,UIWCardinals,Cardinals,59,11-14,Lamar,1463,LamarCardinals,Cardinals,68,TRUE,8-17,NA,NA
+2022-23,8:00 PM ET,2023-02-09,2478130,NA,Lindenwood,SIUE,Linden,5405,NA,LindenwoodLions,Lions,58,9-17,SIUE,1968,SIUECougars,Cougars,63,TRUE,17-9,NA,NA
 2022-23,7:30 PM ET,2023-02-09,2478131,NA,Little Rock,Morehead State,UALR,1294,TRUE,LittleRockTrojans,Trojans,72,8-18,Mor,1512,MoreheadStateEagles,Eagles,68,NA,16-10,NA,NA
 2022-23,11:00 PM ET,2023-02-09,2476310,ESPN-U,Long Beach State,UC Santa Barbara,LgBch,1470,NA,LongBeachStateBeach,Beach,72,14-11,UC-SB,1595,UCSantaBarbaraGauchos,Gauchos,75,TRUE,19-4,NA,NA
 2022-23,8:30 PM ET,2023-02-09,2476826,ESP+,Southern Miss,Louisiana,SouMis,1607,TRUE,SouthernMissGoldenEagles,Golden Eagles,82,22-4,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,71,NA,20-5,NA,NA
@@ -4750,7 +4754,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,9:00 PM ET,2023-02-09,2482182,NA,Portland,Pacific,Por,1572,TRUE,PortlandPilots,Pilots,81,13-14,Pac,1566,PacificTigers,Tigers,73,NA,12-14,NA,NA
 2022-23,5:00 PM ET,2023-02-09,2492334,ESPN-U,Saint Francis U,Sacred Heart,StF-Pa,1617,TRUE,SaintFrancisURedFlash,Red Flash,78,9-15,SHeart,1890,SacredHeartPioneers,Pioneers,76,NA,13-14,NA,NA
 2022-23,10:00 PM ET,2023-02-09,2482180,NA,Santa Clara,San Diego,SantaC,1596,TRUE,SantaClaraBroncos,Broncos,80,18-8,SD,1591,SanDiegoToreros,Toreros,75,NA,11-15,NA,NA
-2022-23,8:00 PM ET,2023-02-09,2478130,NA,Lindenwood,SIUE,Linden,5405,NA,LindenwoodLions,Lions,58,9-17,SIUE,1968,SIUECougars,Cougars,63,TRUE,17-9,NA,NA
 2022-23,8:55 PM ET,2023-02-09,2476858,NA,Troy,South Alabama,Troy,1660,TRUE,TroyTrojans,Trojans,61,15-11,USA,1610,SouthAlabamaJaguars,Jaguars,57,NA,11-14,NA,NA
 2022-23,9:38 PM ET,2023-02-09,2478134,NA,Tennessee State,Southeast Missouri State,TennSt,1648,TRUE,TennesseeStateTigers,Tigers,85,15-11,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,65,NA,13-13,NA,NA
 2022-23,9:00 PM ET,2023-02-09,2478133,ESPN-U,Tennessee Tech,Southern Indiana,TnTech,1649,TRUE,TennesseeTechGoldenEagles,Golden Eagles,84,12-14,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,69,NA,13-13,NA,NA
@@ -4867,6 +4870,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,2:00 PM ET,2023-02-11,2497155,NA,La Salle,Massachusetts,LaSal,1464,TRUE,LaSalleExplorers,Explorers,86,12-13,UMass,1489,MassachusettsMinutemen,Minutemen,72,NA,13-12,NA,NA
 2022-23,4:30 PM ET,2023-02-11,2486347,NA,Texas A&M-Corpus Christi,Lamar,TA&MCC,2003,TRUE,TexasAMCorpusChristiIslanders,Islanders,61,17-9,Lamar,1463,LamarCardinals,Cardinals,52,NA,8-18,NA,NA
 2022-23,7:00 PM ET,2023-02-11,2501481,NA,Lehigh,Loyola Maryland,Lehigh,1465,NA,LehighMountainHawks,Mountain Hawks,82,14-11,Ly-Md,1475,LoyolaMarylandGreyhounds,Greyhounds,91,TRUE,9-18,NA,NA
+2022-23,9:00 PM ET,2023-02-11,2478556,NA,Southern Indiana,Lindenwood,SoIndi,5440,TRUE,SouthernIndianaScreamingEagles,Screaming Eagles,74,14-13,Linden,5405,LindenwoodLions,Lions,64,NA,9-18,NA,NA
 2022-23,8:15 PM ET,2023-02-11,2474548,NA,North Alabama,Lipscomb,NortAL,2096,TRUE,NorthAlabamaLions,Lions,80,16-11,Lips,2051,LipscombBisons,Bisons,70,NA,16-11,NA,NA
 2022-23,4:30 PM ET,2023-02-11,2478135,NA,UT Martin,Little Rock,TN-Mar,1645,TRUE,UTMartinSkyhawks,Skyhawks,84,16-11,UALR,1294,LittleRockTrojans,Trojans,61,NA,8-19,NA,NA
 2022-23,1:00 PM ET,2023-02-11,2492343,NA,Wagner,LIU,Wagner,1682,TRUE,WagnerSeahawks,Seahawks,58,13-10,LIU,1469,LIUSharks,Sharks,46,NA,3-22,NA,NA
@@ -4913,7 +4917,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,10:00 PM ET,2023-02-11,2491304,CBSS,San Jose State,Utah State,SJSU,1594,TRUE,SanJoseStateSpartans,Spartans,69,15-10,UtahSt,1671,UtahStateAggies,Aggies,64,NA,19-7,NA,NA
 2022-23,8:00 PM ET,2023-02-11,2494477,FS1,Villanova,Seton Hall,Vill,1676,TRUE,VillanovaWildcats,Wildcats,58,12-13,SetonH,1599,SetonHallPirates,Pirates,54,NA,15-11,NA,NA
 2022-23,7:00 PM ET,2023-02-11,2482016,NA,South Dakota State,South Dakota,SDakSt,5330,TRUE,SouthDakotaStateJackrabbits,Jackrabbits,72,15-11,SouDak,5310,SouthDakotaCoyotes,Coyotes,67,NA,11-15,NA,NA
-2022-23,9:00 PM ET,2023-02-11,2478556,NA,Southern Indiana,Lindenwood,SoIndi,5440,TRUE,SouthernIndianaScreamingEagles,Screaming Eagles,74,14-13,Linden,5405,LindenwoodLions,Lions,64,NA,9-18,NA,NA
 2022-23,8:00 PM ET,2023-02-11,2492679,NA,Utah Valley,Southern Utah,UtVaU,5155,TRUE,UtahValleyWolverines,Wolverines,90,20-6,SoUt,1608,SouthernUtahThunderbirds,Thunderbirds,83,NA,17-9,NA,NA
 2022-23,2:00 PM ET,2023-02-11,2492605,NA,Stonehill,St. Francis Brooklyn,Stoneh,5221,TRUE,StonehillSkyhawks,Skyhawks,62,13-15,StF-NY,1616,StFrancisBrooklynTerriers,Terriers,51,NA,13-13,NA,NA
 2022-23,8:00 PM ET,2023-02-11,2482297,NA,St. Thomas (MN),Kansas City,StThMN,1730,TRUE,StThomasMNTommies,Tommies,73,17-11,UMKC,1508,KansasCityRoos,Roos,43,NA,11-16,NA,NA
@@ -5079,6 +5082,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-02-16,2474538,NA,Jacksonville State,Queens University,JacSt,1455,TRUE,JacksonvilleStateGamecocks,Gamecocks,76,11-17,QueeNC,2009,QueensUniversityRoyals,Royals,69,NA,16-12,NA,NA
 2022-23,7:00 PM ET,2023-02-16,2476731,NA,James Madison,Old Dominion,JMU,1454,TRUE,JamesMadisonDukes,Dukes,76,19-9,ODU,1560,OldDominionMonarchs,Monarchs,67,NA,16-11,NA,NA
 2022-23,7:00 PM ET,2023-02-16,2474542,NA,Kennesaw State,Liberty,KSawSt,5068,TRUE,KennesawStateOwls,Owls,88,21-7,Lib,1467,LibertyFlames,Flames,81,NA,21-7,NA,NA
+2022-23,8:49 PM ET,2023-02-16,2478139,NA,Tennessee Tech,Lindenwood,TnTech,1649,TRUE,TennesseeTechGoldenEagles,Golden Eagles,77,13-15,Linden,5405,LindenwoodLions,Lions,68,NA,9-19,NA,NA
 2022-23,8:00 PM ET,2023-02-16,2474539,NA,Lipscomb,North Florida,Lips,2051,NA,LipscombBisons,Bisons,111,16-12,NoFla,1552,NorthFloridaOspreys,Ospreys,114,TRUE,12-15,NA,NA
 2022-23,8:30 PM ET,2023-02-16,2478140,NA,Little Rock,Southern Indiana,UALR,1294,NA,LittleRockTrojans,Trojans,81,8-20,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,82,TRUE,15-13,NA,NA
 2022-23,7:00 PM ET,2023-02-16,2492607,NA,Stonehill,LIU,Stoneh,5221,TRUE,StonehillSkyhawks,Skyhawks,75,14-15,LIU,1469,LIUSharks,Sharks,60,NA,3-23,NA,NA
@@ -5108,7 +5112,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,11:00 PM ET,2023-02-16,2496404,ESP2,UCLA,Stanford,UCLA,1668,TRUE,UCLABruins,Bruins,73,22-4,Stan,1627,StanfordCardinal,Cardinal,64,NA,11-15,4,NA
 2022-23,7:00 PM ET,2023-02-16,2488170,NA,Stony Brook,William & Mary,StnyBr,1639,TRUE,StonyBrookSeawolves,Seawolves,71,10-18,W&M,1704,WilliamMaryTribe,Tribe,66,NA,10-18,NA,NA
 2022-23,7:00 PM ET,2023-02-16,2499973,ESP+,Temple,Wichita State,Temple,1644,NA,TempleOwls,Owls,65,14-13,Wich,1698,WichitaStateShockers,Shockers,79,TRUE,14-12,NA,NA
-2022-23,8:49 PM ET,2023-02-16,2478139,NA,Tennessee Tech,Lindenwood,TnTech,1649,TRUE,TennesseeTechGoldenEagles,Golden Eagles,77,13-15,Linden,5405,LindenwoodLions,Lions,68,NA,9-19,NA,NA
 2022-23,9:00 PM ET,2023-02-16,2490985,ESP+,UTEP,UAB,UTEP,1654,NA,UTEPMiners,Miners,66,12-14,UAB,1303,UABBlazers,Blazers,79,TRUE,19-8,NA,NA
 2022-23,11:00 PM ET,2023-02-17,2492688,ESPN-U,Grand Canyon,Abilene Christian,GraCan,1426,TRUE,GrandCanyonAntelopes,Antelopes,94,17-10,AbiChr,1305,AbileneChristianWildcats,Wildcats,84,NA,13-13,NA,NA
 2022-23,10:00 PM ET,2023-02-17,2491316,FS1,Wyoming,Air Force,Wyo,1707,NA,WyomingCowboys,Cowboys,69,8-18,AF,1280,AirForceFalcons,Falcons,75,TRUE,14-14,NA,NA
@@ -5208,6 +5211,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:00 PM ET,2023-02-18,2476734,NA,James Madison,Louisiana,JMU,1454,TRUE,JamesMadisonDukes,Dukes,74,20-9,UL-Laf,1630,LouisianaRaginCajuns,Ragin' Cajuns,68,NA,21-7,NA,NA
 2022-23,2:00 PM ET,2023-02-18,2474534,NA,Kennesaw State,Queens University,KSawSt,5068,NA,KennesawStateOwls,Owls,76,21-8,QueeNC,2009,QueensUniversityRoyals,Royals,83,TRUE,17-12,NA,NA
 2022-23,1:00 PM ET,2023-02-18,2493219,CBS,Kentucky,Tennessee,Kty,1459,TRUE,KentuckyWildcats,Wildcats,66,18-9,Tenn,1646,TennesseeVolunteers,Volunteers,54,NA,20-7,NA,10
+2022-23,3:21 PM ET,2023-02-18,2478144,NA,Morehead State,Lindenwood,Mor,1512,TRUE,MoreheadStateEagles,Eagles,71,19-10,Linden,5405,LindenwoodLions,Lions,58,NA,9-20,NA,NA
 2022-23,1:00 PM ET,2023-02-18,2492355,NA,LIU,Saint Francis U,LIU,1469,NA,LIUSharks,Sharks,82,3-24,StF-Pa,1617,SaintFrancisURedFlash,Red Flash,93,TRUE,11-16,NA,NA
 2022-23,3:00 PM ET,2023-02-18,2490812,NA,Longwood,Radford,Lngwd,1991,TRUE,LongwoodLancers,Lancers,73,19-10,Rad,1579,RadfordHighlanders,Highlanders,63,NA,17-12,NA,NA
 2022-23,4:00 PM ET,2023-02-18,2476812,NA,South Alabama,ULM,USA,1610,TRUE,SouthAlabamaJaguars,Jaguars,81,15-14,UL-Mon,1526,ULMWarhawks,Warhawks,45,NA,11-18,NA,NA
@@ -5230,7 +5234,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,6:00 PM ET,2023-02-18,2493231,ESP2,Missouri,Texas A&M,Missou,1507,NA,MissouriTigers,Tigers,60,19-8,TexA&M,1652,TexasAMAggies,Aggies,69,TRUE,20-7,NA,NA
 2022-23,4:00 PM ET,2023-02-18,2496802,NA,Missouri State,UNI,MoStU,1631,NA,MissouriStateBears,Bears,66,14-14,UNI,1544,UNIPanthers,Panthers,69,TRUE,13-15,NA,NA
 2022-23,9:00 PM ET,2023-02-18,2469169,NA,Montana State,Montana,MontSt,1511,TRUE,MontanaStateBobcats,Bobcats,72,19-9,Mont,1510,MontanaGrizzlies,Grizzlies,68,NA,14-13,NA,NA
-2022-23,3:21 PM ET,2023-02-18,2478144,NA,Morehead State,Lindenwood,Mor,1512,TRUE,MoreheadStateEagles,Eagles,71,19-10,Linden,5405,LindenwoodLions,Lions,58,NA,9-20,NA,NA
 2022-23,4:30 PM ET,2023-02-18,2502021,NA,Norfolk State,Morgan State,Nor,1824,TRUE,NorfolkStateSpartans,Spartans,72,19-7,MorgSt,1513,MorganStateBears,Bears,50,NA,12-14,NA,NA
 2022-23,8:00 PM ET,2023-02-18,2491320,CBSS,Utah State,Nevada,UtahSt,1671,TRUE,UtahStateAggies,Aggies,75,21-7,Nevada,1529,NevadaWolfPack,Wolf Pack,66,NA,20-7,NA,NA
 2022-23,1:00 PM ET,2023-02-18,2496821,NA,New Hampshire,UMBC,UNH,1530,TRUE,NewHampshireWildcats,Wildcats,75,12-13,UMBC,1491,UMBCRetrievers,Retrievers,66,NA,17-12,NA,NA
@@ -5432,6 +5435,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,9:00 PM ET,2023-02-23,2493670,BTN,Illinois,Northwestern,Ill,1443,TRUE,IllinoisFightingIllini,Fighting Illini,66,19-9,NW,1547,NorthwesternWildcats,Wildcats,62,NA,20-8,NA,21
 2022-23,7:44 PM ET,2023-02-23,2485826,NA,IUPUI,Robert Morris,IUPUI,1862,TRUE,IUPUIJaguars,Jaguars,81,5-25,RMor,1585,RobertMorrisColonials,Colonials,75,NA,15-16,NA,NA
 2022-23,8:20 PM ET,2023-02-23,2486296,NA,Lamar,Southeastern Louisiana,Lamar,1463,NA,LamarCardinals,Cardinals,60,9-20,SELa,1597,SoutheasternLouisianaLions,Lions,83,TRUE,16-13,NA,NA
+2022-23,9:00 PM ET,2023-02-23,2478149,NA,Lindenwood,Southeast Missouri State,Linden,5405,TRUE,LindenwoodLions,Lions,105,10-20,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,102,NA,15-15,NA,NA
 2022-23,8:00 PM ET,2023-02-23,2478150,NA,SIUE,Little Rock,SIUE,1968,NA,SIUECougars,Cougars,74,17-13,UALR,1294,LittleRockTrojans,Trojans,79,TRUE,10-20,NA,NA
 2022-23,10:00 PM ET,2023-02-23,2476352,NA,UC Santa Barbara,Long Beach State,UC-SB,1595,TRUE,UCSantaBarbaraGauchos,Gauchos,78,21-7,LgBch,1470,LongBeachStateBeach,Beach,73,NA,15-14,NA,NA
 2022-23,9:00 PM ET,2023-02-23,2498167,CBSS,Western Kentucky,Louisiana Tech,WestKy,1691,TRUE,WesternKentuckyHilltoppers,Hilltoppers,76,15-13,LaTech,1471,LouisianaTechBulldogs,Bulldogs,66,NA,13-15,NA,NA
@@ -5453,7 +5457,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:30 PM ET,2023-02-23,2490971,ESP+,UAB,Rice,UAB,1303,TRUE,UABBlazers,Blazers,85,21-8,Rice,1582,RiceOwls,Owls,57,NA,17-11,NA,NA
 2022-23,7:00 PM ET,2023-02-23,2492361,NA,Sacred Heart,St. Francis Brooklyn,SHeart,1890,NA,SacredHeartPioneers,Pioneers,63,14-16,StF-NY,1616,StFrancisBrooklynTerriers,Terriers,70,TRUE,14-14,NA,NA
 2022-23,8:00 PM ET,2023-02-23,2482026,NA,South Dakota State,Kansas City,SDakSt,5330,TRUE,SouthDakotaStateJackrabbits,Jackrabbits,73,18-11,UMKC,1508,KansasCityRoos,Roos,50,NA,11-19,NA,NA
-2022-23,9:00 PM ET,2023-02-23,2478149,NA,Lindenwood,Southeast Missouri State,Linden,5405,TRUE,LindenwoodLions,Lions,105,10-20,SEMO,1600,SoutheastMissouriStateRedhawks,Redhawks,102,NA,15-15,NA,NA
 2022-23,8:30 PM ET,2023-02-23,2478557,NA,Southern Indiana,Tennessee Tech,SoIndi,5440,NA,SouthernIndianaScreamingEagles,Screaming Eagles,79,15-15,TnTech,1649,TennesseeTechGoldenEagles,Golden Eagles,82,TRUE,14-16,NA,NA
 2022-23,8:00 PM ET,2023-02-23,2492697,NA,UT Arlington,Southern Utah,Tx-Ar,1653,NA,UTArlingtonMavericks,Mavericks,76,10-18,SoUt,1608,SouthernUtahThunderbirds,Thunderbirds,86,TRUE,19-9,NA,NA
 2022-23,11:00 PM ET,2023-02-23,2496415,PACN,Stanford,Washington State,Stan,1627,NA,StanfordCardinal,Cardinal,63,11-17,WashSt,1686,WashingtonStateCougars,Cougars,67,TRUE,14-15,NA,NA
@@ -5724,6 +5727,7 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,8:00 PM ET,2023-03-01,2499217,ESP+,Kansas State,Oklahoma,KanSt,1457,TRUE,KansasStateWildcats,Wildcats,85,23-7,Okla,1558,OklahomaSooners,Sooners,69,NA,14-16,11,NA
 2022-23,7:00 PM ET,2023-03-01,2493289,SECN,Kentucky,Vanderbilt,Kty,1459,NA,KentuckyWildcats,Wildcats,66,20-10,Vandy,1674,VanderbiltCommodores,Commodores,68,TRUE,17-13,23,NA
 2022-23,8:00 PM ET,2023-03-01,2486319,NA,Nicholls,Lamar,Nich,1536,TRUE,NichollsColonels,Colonels,64,16-14,Lamar,1463,LamarCardinals,Cardinals,60,NA,9-22,NA,NA
+2022-23,7:30 PM ET,2023-03-01,2544101,ESP+,Southeast Missouri State,Lindenwood,SEMO,1600,TRUE,SoutheastMissouriStateRedhawks,Redhawks,84,16-16,Linden,5405,LindenwoodLions,Lions,65,NA,11-21,NA,NA
 2022-23,7:00 PM ET,2023-03-01,2544074,NA,Merrimack,LIU,Merrim,5417,TRUE,MerrimackWarriors,Warriors,91,16-16,LIU,1469,LIUSharks,Sharks,76,NA,3-26,NA,NA
 2022-23,9:00 PM ET,2023-03-01,2497203,CBSS,Loyola Chicago,Rhode Island,Ly-Il,1473,NA,LoyolaChicagoRamblers,Ramblers,77,9-20,URI,1581,RhodeIslandRams,Rams,79,TRUE,9-20,NA,NA
 2022-23,9:00 PM ET,2023-03-01,2493290,SECN,LSU,Missouri,LSU,1476,NA,LSUTigers,Tigers,76,13-17,Missou,1507,MissouriTigers,Tigers,81,TRUE,22-8,NA,NA
@@ -5738,7 +5742,6 @@ season,start_time,game_date,game_id,tv,home,away,home_abbr,home_id,home_is_winne
 2022-23,7:30 PM ET,2023-03-01,2492711,NA,Stephen F. Austin,Sam Houston,SFA,1628,NA,StephenFAustinLumberjacks,Lumberjacks,59,19-11,SamHou,1589,SamHoustonBearkats,Bearkats,64,TRUE,23-6,NA,NA
 2022-23,10:00 PM ET,2023-03-01,2544102,ESP+,SIUE,Southern Indiana,SIUE,1968,TRUE,SIUECougars,Cougars,68,19-13,SoIndi,5440,SouthernIndianaScreamingEagles,Screaming Eagles,54,NA,16-16,NA,NA
 2022-23,7:00 PM ET,2023-03-01,2500026,ESP+,South Florida,Tulsa,USF,1612,TRUE,SouthFloridaBulls,Bulls,72,14-16,Tulsa,1662,TulsaGoldenHurricane,Golden Hurricane,56,NA,5-24,NA,NA
-2022-23,7:30 PM ET,2023-03-01,2544101,ESP+,Southeast Missouri State,Lindenwood,SEMO,1600,TRUE,SoutheastMissouriStateRedhawks,Redhawks,84,16-16,Linden,5405,LindenwoodLions,Lions,65,NA,11-21,NA,NA
 2022-23,9:00 PM ET,2023-03-01,2499219,ESP2,TCU,Texas,TCU,1643,TRUE,TCUHornedFrogs,Horned Frogs,75,20-10,Tex,1651,TexasLonghorns,Longhorns,73,NA,22-8,22,9
 2022-23,9:00 PM ET,2023-03-01,2486390,NA,Texas A&M-Commerce,Texas A&M-Corpus Christi,TXA&MC,5065,NA,TexasAMCommerceLions,Lions,88,13-19,TA&MCC,2003,TexasAMCorpusChristiIslanders,Islanders,93,TRUE,21-10,NA,NA
 2022-23,11:00 PM ET,2023-03-01,2491367,CBSS,UNLV,Utah State,UNLV,1528,NA,UNLVRunninRebels,Runnin' Rebels,66,17-12,UtahSt,1671,UtahStateAggies,Aggies,91,TRUE,23-7,NA,NA
